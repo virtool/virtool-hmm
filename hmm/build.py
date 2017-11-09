@@ -67,3 +67,13 @@ def dir_to_json(dir_path, output_path):
 
     with gzip.open(output_path, "wt") as f:
         json.dump(annotations, f)
+
+
+def join_profiles(dir_path, target_path):
+    with open(target_path, "w") as o:
+        for filename in os.listdir(dir_path):
+            path = os.path.join(dir_path, filename)
+
+            with open(path, "r") as f:
+                o.write(f.read())
+                o.write("\\")
