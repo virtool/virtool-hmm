@@ -1,6 +1,4 @@
 import filecmp
-import json
-import operator
 import os
 import sys
 
@@ -21,19 +19,4 @@ def test_dir_to_json(tmpdir):
 
     assert os.path.isfile(output_path)
 
-    with open(output_path) as f:
-        output = json.load(f)
-
-    with open(JSON_PATH) as f:
-        expected = json.load(f)
-
-    print(expected[0].keys())
-
-    for data in (output, expected):
-        data = sorted(data, key=operator.itemgetter("cluster"))
-
-        for document in data:
-            document["entries"] = sorted(document["entries"], key=operator.itemgetter("accession"))
-
-    for i, data in enumerate(output):
-        assert data == expected[i]
+    assert filecmp.cmp(JSON_PATH, output_path)
