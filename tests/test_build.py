@@ -27,8 +27,6 @@ def test_dir_to_json(tmpdir):
     to_check = [{key: r[key] for key in r if key not in ["entries", "genera", "families"]} for r in output]
     to_check = sorted(to_check, key=operator.itemgetter("cluster"))
 
-    print(to_check)
-
     expected_annotations = [
         {"length": 133, "mean_entropy": 0.53, "count": 208, "cluster": 5, "total_entropy": 70.49},
         {"length": 356, "mean_entropy": 0.52, "count": 253, "cluster": 2, "total_entropy": 185.12},
