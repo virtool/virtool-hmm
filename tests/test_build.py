@@ -27,8 +27,13 @@ def test_dir_to_json(tmpdir):
     with open(JSON_PATH) as f:
         expected = json.load(f)
 
+    print(expected[0].keys())
+
     for data in (output, expected):
         data = sorted(data, key=operator.itemgetter("cluster"))
 
-    for x, y in zip(output, expected):
-        assert x == y
+        for document in data:
+            document["entries"] = sorted(document["entries"], key=operator.itemgetter("accession"))
+
+    for i, data in enumerate(output):
+        assert data == expected[i]
