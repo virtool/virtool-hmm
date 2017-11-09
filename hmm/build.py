@@ -4,14 +4,14 @@ import json
 import os
 import sys
 
-ANNOTATIONS_PATH = os.path.join(sys.path[0], "annotations")
+ANNOTATIONS_PATH = os.path.join(sys.path[0], "data", "annotations")
+PROFILES_PATH = os.path.join(sys.path[0], "data", "profiles")
 
 
-def guess_definition(annotation):
+def get_names(annotation):
     names = [entry["name"] for entry in annotation["entries"]]
     top_three = collections.Counter(names).most_common(3)
-    top_names = [entry[0] for entry in top_three]
-    return ", ".join(top_names)
+    return [entry[0] for entry in top_three]
 
 
 def dir_to_json(dir_path, output_path):
@@ -24,7 +24,6 @@ def dir_to_json(dir_path, output_path):
 
         with open(os.path.join(dir_path, path), "r") as vfam_file:
             for line in vfam_file:
-
                 line = line.rstrip()
                 data = " ".join(line.split()[1:])
 
@@ -63,10 +62,12 @@ def dir_to_json(dir_path, output_path):
                         "organism": name_field[1].replace("]", "").strip()
                     })
 
+        document["names"] = get_names(document)
+
         annotations.append(document)
 
     with gzip.open(output_path, "wt") as f:
-        json.dump(annotations, f)
+        json.dump(annotations, f, indent=4)
 
 
 def join_profiles(dir_path, target_path):
@@ -76,4 +77,4 @@ def join_profiles(dir_path, target_path):
 
             with open(path, "r") as f:
                 o.write(f.read())
-                o.write("\\")
+                o.write("//\n")
