@@ -8,6 +8,33 @@ def prune_annotations(profiles_path, annotations_path, mock=True):
     return clusters
 
 
+def split_hmm_file(path):
+    buffer = list()
+
+    try:
+        os.rmdir("out_split")
+    except FileNotFoundError:
+        pass
+
+    os.mkdir("out_split")
+
+    with open(path, "r") as f:
+        cluster = None
+
+        for line in f:
+            if line[0:4] == "NAME":
+                cluster = line.split("_")[1].rstrip()
+
+            elif line == "//\n":                
+                with open(os.path.join("out_split", cluster + ".hmm"), "w") as o:
+                    o.write("".join(buffer))
+
+                buffer = list()
+                
+                continue
+
+            buffer.append(line)
+
 def hmmstat(path):
     output = subprocess.check_output(["hmmstat", path])
 
