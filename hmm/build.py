@@ -1,12 +1,28 @@
-def vfam_text_to_json(annotation_path, output_path=None):
-    paths = os.listdir(annotation_path)
+import collections
+import gzip
+import json
+import os
+import sys
+
+ANNOTATIONS_PATH = os.path.join(sys.path[0], "annotations")
+
+
+def guess_definition(annotation):
+    names = [entry["name"] for entry in annotation["entries"]]
+    top_three = collections.Counter(names).most_common(3)
+    top_names = [entry[0] for entry in top_three]
+    return ", ".join(top_names)
+
+
+def dir_to_json(dir_path, output_path):
+    paths = os.listdir(dir_path)
 
     annotations = list()
 
     for path in paths:
         document = {"entries": []}
 
-        with open(os.path.join(annotation_path, path), "r") as vfam_file:
+        with open(os.path.join(dir_path, path), "r") as vfam_file:
             for line in vfam_file:
 
                 line = line.rstrip()
@@ -49,8 +65,5 @@ def vfam_text_to_json(annotation_path, output_path=None):
 
         annotations.append(document)
 
-    if output_path:
-        with gzip.open(output_path, "wt") as output:
-            json.dump(annotations, output)
-
-    return annotations
+    with gzip.open(output_path, "wt") as f:
+        json.dump(annotations, f)
