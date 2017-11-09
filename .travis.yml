@@ -1,0 +1,40 @@
+language: python
+sudo: false
+python: "3.5"
+
+cache:
+  pip: true
+
+before_install:
+
+# HMMER
+- wget http://eddylab.org/software/hmmer3/3.1b2/hmmer-3.1b2-linux-intel-x86_64.tar.gz
+- tar -xf hmmer-3.1b2-linux-intel-x86_64.tar.gz
+- export PATH=${PATH}:${PWD}/hmmer-3.1b2-linux-intel-x86_64/binaries
+
+install:
+- pip install -r requirements.txt
+
+script:
+- pytest --cov --cov-report xml -vv
+
+after_success:
+- python-codacy-coverage -r coverage.xml
+- mkdir gh_build
+- mkdir gh_build/hmm
+- cp -v LICENSE gh_build/hmm
+- cp -v readme.md gh_build/hmm
+- echo $TRAVIS_TAG > gh_build/hmm/VERSION
+- cd gh_build
+- tar -cvzf virtool-hmm.tar.gz hmm
+- tar -tvf virtool-hmm.tar.gz
+- cd ..
+
+deploy:
+  skip_cleanup: true
+  provider: releases
+  api_key:
+    secure: Otm5EqAcBp2i/KghWT/LZkLlpY1qHbYolCRk/Mwgqr0IQvy1ryM8IQot88/mntzKjVFbUIlJDVU8UmWgXac0cBCCT4rvzpRqMXEiWK+sl0Lqqg4tiOMS5gdQF5ywYVinT8e5Zl7O4g05zjU7mUMnSLRlTCNtcffdwOAqp9tfNJ4/FqlmHK+mhufmThQOdschbPLo7dFfSA7oioXesPWSA33lwG8PQWwQjmm55oMOqZiN38HG0wdZQgoH3QsVXLlTwqxAuyBfmOjrwkhTLhTfJ1EWwnlq1RF9uzxZF7J7bYR+IWm8Ws7z9n9kMX0F6/onnAS4D3QLue59jzfR7MJqyaDpyEONjjaP/8wC0afJ8vdc3X5SEdLz5S3/4X8d0llJLEZPL2i1PNfJzDIF7GDerF+0UARhtnHjMQFy5oV6UO6Pd3UuFaoaQUQff4Gw6ZYxVGEkbCUwYqMn4JaiDBrViUK2fzFQzWqiMnI3CrYYW19lcC4ppHLuTJz8YlpNwCsxpCU5YB14m6ra5ZPSJ+dqBLuF46KU+4uW+cXi+oAoS6t4Mb9Jz5Nhfgum965uFuOcsYaEilQSGzqRdIJFhBxyp+ow9Cnq0acmffm+W7jT+m0v2IvUlDkthAPSIBDLRrjOECTUXB7VorSusrK6J3hBcdkl6J58DfNi55N2px8KB7w=
+  file: gh_build/virtool.tar.gz
+  on:
+    tags: true
