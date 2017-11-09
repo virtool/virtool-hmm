@@ -66,7 +66,7 @@ def dir_to_json(dir_path, output_path):
 
         annotations.append(document)
 
-    with gzip.open(output_path, "wt") as f:
+    with open(output_path, "wt") as f:
         json.dump(annotations, f, indent=4)
 
 

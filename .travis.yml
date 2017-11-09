@@ -15,13 +15,14 @@ before_install:
 install:
 - pip install -r requirements.txt
 
-script:
-- pytest --cov --cov-report xml -vv
+# script:
+#- pytest --cov --cov-report xml -vv
 
 after_success:
-- python-codacy-coverage -r coverage.xml
+#- python-codacy-coverage -r coverage.xml
 - mkdir gh_build
 - mkdir gh_build/hmm
+- python run.py
 - cp -v LICENSE gh_build/hmm
 - cp -v readme.md gh_build/hmm
 - echo $TRAVIS_TAG > gh_build/hmm/VERSION
