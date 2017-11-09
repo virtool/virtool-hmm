@@ -30,4 +30,5 @@ def test_dir_to_json(tmpdir):
     for data in (output, expected):
         data = sorted(data, key=operator.itemgetter("cluster"))
 
-    assert all(x == y for x, y in zip(output, expected))
+    for x, y in zip(output, expected):
+        assert x == y
