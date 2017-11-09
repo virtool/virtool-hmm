@@ -1,0 +1,10 @@
+CLUSTER	4078
+NUM_SEQ	2
+LENGTH	474
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	246.48
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825735|ref|YP_007418666.1|vFam_4078| asparaginyl-tRNA synthetase [Megavirus lba]
+gi|441432571|ref|YP_007354613.1|vFam_4078| asparaginyl t-RNA synthetase [Acanthamoeba polyphaga moumouvirus]

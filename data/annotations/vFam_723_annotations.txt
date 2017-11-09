@@ -1,0 +1,14 @@
+CLUSTER	723
+NUM_SEQ	6
+LENGTH	87
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	46.11
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'None': 1, 'Orthopoxvirus': 1, 'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|526119894|ref|YP_008319797.1|vFam_723| hypothetical protein [Pandoravirus dulcis]
+gi|345107319|ref|YP_004821484.1|vFam_723| IMV surface protein [Yoka poxvirus]
+gi|571798042|ref|YP_008658541.1|vFam_723| IMV-cell attachment, fusion, and microtubule transport [Squirrelpox virus]
+gi|289183869|ref|YP_003457410.1|vFam_723| viral fusion peptide [Pseudocowpox virus]
+gi|41057540|ref|NP_958013.1|vFam_723| ORF104 fusion protein [Bovine papular stomatitis virus]
+gi|41057167|ref|NP_957881.1|vFam_723| ORF104 fusion protein [Orf virus]

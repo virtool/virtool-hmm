@@ -1,0 +1,13 @@
+CLUSTER	2751
+NUM_SEQ	5
+LENGTH	174
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	92.22
+FAMILIES	{'Virgaviridae': 5}
+GENERA	{'Furovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|21427644|ref|NP_659024.1|vFam_2751| 18-kDa cys-rich protein [Sorghum chlorotic spot virus]
+gi|9632360|ref|NP_049340.1|vFam_2751| 19 kDa cysteine-rich protein [Soil-borne wheat mosaic virus]
+gi|9635249|ref|NP_059148.1|vFam_2751| hypothetical protein ScmvsRNA2gp3 [Soil-borne cereal mosaic virus]
+gi|9635452|ref|NP_059487.1|vFam_2751| hypothetical protein Ogsvs2gp3 [Oat golden stripe virus]
+gi|9635448|ref|NP_059484.1|vFam_2751| 19 kDa cysteine-rich protein [Chinese wheat mosaic virus]

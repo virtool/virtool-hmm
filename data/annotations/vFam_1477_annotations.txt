@@ -1,0 +1,15 @@
+CLUSTER	1477
+NUM_SEQ	7
+LENGTH	218
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	111.18
+FAMILIES	{'Reoviridae': 7}
+GENERA	{'Orbivirus': 7}
+FASTA SEQUENCE TITLES:
+gi|50253424|ref|YP_052951.1|vFam_1477| NS3 [St Croix River virus]
+gi|50261345|ref|YP_052954.1|vFam_1477| NS3 protein [African horse sickness virus]
+gi|50261343|ref|YP_052940.1|vFam_1477| non structural polyprotein NS3 [Palyam virus]
+gi|261597713|ref|YP_003240117.1|vFam_1477| NS3 protein [Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey)]
+gi|50253388|ref|YP_052960.1|vFam_1477| hypothetical protein BTVs10gp1 [Bluetongue virus]
+gi|556333797|ref|YP_008719925.1|vFam_1477| non-structural protein NS3 [Changuinola virus]
+gi|550455600|ref|YP_008658422.1|vFam_1477| NS3 [Wallal virus]

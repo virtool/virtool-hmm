@@ -1,0 +1,12 @@
+CLUSTER	3060
+NUM_SEQ	4
+LENGTH	213
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	110.76
+FAMILIES	{'Picornaviridae': 4}
+GENERA	{'Aphthovirus': 3, 'Erbovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|25121701|ref|NP_740360.1|vFam_3060| leader (proteinase) [Equine rhinitis B virus 1]
+gi|25121689|ref|NP_740372.1|vFam_3060| leader (proteinase) [Equine rhinitis A virus]
+gi|25121629|ref|NP_740456.1|vFam_3060| Lab [Foot-and-mouth disease virus - type O]
+gi|168480157|ref|YP_001686937.1|vFam_3060| Leader [Bovine rhinitis B virus]

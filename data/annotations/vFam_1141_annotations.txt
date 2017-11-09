@@ -1,0 +1,10 @@
+CLUSTER	1141
+NUM_SEQ	2
+LENGTH	385
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	196.35
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1}
+GENERA	{'None': 1, 'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182218|ref|YP_008052737.1|vFam_1141| tRNA-Ile-lysidine synthetase [Phaeocystis globosa virus]
+gi|310831050|ref|YP_003969693.1|vFam_1141| putative 3'-5' exonuclease/tRNA(Ile) lysidine synthetase [Cafeteria roenbergensis virus BV-PW1]

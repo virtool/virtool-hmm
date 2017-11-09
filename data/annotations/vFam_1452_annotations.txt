@@ -1,0 +1,12 @@
+CLUSTER	1452
+NUM_SEQ	4
+LENGTH	203
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	103.53
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'Prymnesiovirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|508181978|ref|YP_008052497.1|vFam_1452| hypothetical protein PGCG_00179 [Phaeocystis globosa virus]
+gi|311977848|ref|YP_003986968.1|vFam_1452| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825381|ref|YP_007418312.1|vFam_1452| hypothetical protein LBA_00418 [Megavirus lba]
+gi|441432283|ref|YP_007354325.1|vFam_1452| hypothetical protein Moumou_00349 [Acanthamoeba polyphaga moumouvirus]

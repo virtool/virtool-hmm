@@ -1,0 +1,13 @@
+CLUSTER	1973
+NUM_SEQ	5
+LENGTH	387
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	201.24
+FAMILIES	{'Adenoviridae': 5}
+GENERA	{'Atadenovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|56158882|ref|AP_000078.1|vFam_1973| E1B 55K [Duck adenovirus A]
+gi|160700556|ref|YP_001552245.1|vFam_1973| unnamed protein product [Snake adenovirus 1]
+gi|21450894|ref|NP_659513.1|vFam_1973| E1B [Ovine adenovirus D]
+gi|440382965|ref|YP_007346996.1|vFam_1973| LH3 [Bovine adenovirus 6]
+gi|13242711|ref|NP_077387.1|vFam_1973| E1B 55K [Bovine adenovirus D]

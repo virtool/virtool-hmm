@@ -1,0 +1,24 @@
+CLUSTER	184
+NUM_SEQ	16
+LENGTH	375
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	195.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531037191|ref|YP_008438833.1|vFam_184| F-box domain [Pandoravirus salinus]
+gi|531037185|ref|YP_008438827.1|vFam_184| F-box domain [Pandoravirus salinus]
+gi|531037189|ref|YP_008438831.1|vFam_184| F-box domain [Pandoravirus salinus]
+gi|531037188|ref|YP_008438830.1|vFam_184| F-box domain [Pandoravirus salinus]
+gi|531037186|ref|YP_008438828.1|vFam_184| F-box domain [Pandoravirus salinus]
+gi|531036792|ref|YP_008438431.1|vFam_184| F-box domain [Pandoravirus salinus]
+gi|531037002|ref|YP_008438644.1|vFam_184| F-box domain [Pandoravirus salinus]
+gi|526119990|ref|YP_008319893.1|vFam_184| F-box domain [Pandoravirus dulcis]
+gi|531036633|ref|YP_008438270.1|vFam_184| F-box domain [Pandoravirus salinus]
+gi|531036607|ref|YP_008438244.1|vFam_184| F-box domain [Pandoravirus salinus]
+gi|531036726|ref|YP_008438363.1|vFam_184| F-box domain [Pandoravirus salinus]
+gi|531036577|ref|YP_008438214.1|vFam_184| F-box domain [Pandoravirus salinus]
+gi|531036622|ref|YP_008438259.1|vFam_184| F-box domain [Pandoravirus salinus]
+gi|531036652|ref|YP_008438289.1|vFam_184| F-box domain [Pandoravirus salinus]
+gi|531036612|ref|YP_008438249.1|vFam_184| F-box domain [Pandoravirus salinus]
+gi|526119736|ref|YP_008319639.1|vFam_184| F-box domain [Pandoravirus dulcis]

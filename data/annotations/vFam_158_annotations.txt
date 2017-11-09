@@ -1,0 +1,39 @@
+CLUSTER	158
+NUM_SEQ	31
+LENGTH	328
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	164.0
+FAMILIES	{'Phycodnaviridae': 1, 'Baculoviridae': 24}
+GENERA	{'Phaeovirus': 1, 'Betabaculovirus': 7, 'Alphabaculovirus': 17}
+FASTA SEQUENCE TITLES:
+gi|197322475|ref|YP_002154748.1|vFam_158| putative cysteine protease [Feldmannia species virus]
+gi|410493601|ref|YP_006908539.1|vFam_158| V-CATH [Epinotia aporema granulovirus]
+gi|46309423|ref|YP_006313.1|vFam_158| ORF31 [Agrotis segetum granulovirus]
+gi|556549045|ref|YP_008719959.1|vFam_158| cathepsin [Clostera anastomosis granulovirus]
+gi|288804650|ref|YP_003429335.1|vFam_158| cathepsin [Pieris rapae granulovirus]
+gi|33622213|ref|NP_891858.1|vFam_158| cathepsin [Cryptophlebia leucotreta granulovirus]
+gi|14602252|ref|NP_148795.1|vFam_158| ORF11 cathepsin [Cydia pomonella granulovirus]
+gi|9635308|ref|NP_059206.1|vFam_158| ORF58 [Xestia c-nigrum granulovirus]
+gi|285002340|ref|YP_003422404.1|vFam_158| cathepsin [Pseudaletia unipuncta granulovirus]
+gi|209978824|ref|YP_002300567.1|vFam_158| cathepsin [Adoxophyes orana nucleopolyhedrovirus]
+gi|74229746|ref|YP_308950.1|vFam_158| cathepsin [Trichoplusia ni single nucleopolyhedrovirus]
+gi|90592736|ref|YP_529689.1|vFam_158| VCATH [Agrotis segetum nucleopolyhedrovirus]
+gi|22549430|ref|NP_689203.1|vFam_158| cath gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209170907|ref|YP_002268053.1|vFam_158| agip23 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|125860143|ref|YP_001036312.1|vFam_158| viral cathepsin [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|113195461|ref|YP_717598.1|vFam_158| V-CATH [Clanis bilineata nucleopolyhedrovirus]
+gi|15320768|ref|NP_203280.1|vFam_158| V-CATH [Epiphyas postvittana nucleopolyhedrovirus]
+gi|438000427|ref|YP_007250532.1|vFam_158| v-cath protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964630|ref|YP_950826.1|vFam_158| cathepsin [Maruca vitrata nucleopolyhedrovirus]
+gi|9630063|ref|NP_046281.1|vFam_158| cathepsin [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|86355549|ref|YP_473217.1|vFam_158| Cathepsin [Hyphantria cunea nucleopolyhedrovirus]
+gi|571031227|ref|YP_008992123.1|vFam_158| cathepsin [Choristoneura murinana alphabaculovirus]
+gi|37651368|ref|NP_932731.1|vFam_158| cathepsin [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|9631045|ref|NP_047715.1|vFam_158| cathepsin-like proteinase [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|529218112|ref|YP_008378275.1|vFam_158| cathepsin [Hemileuca sp. nucleopolyhedrovirus]
+gi|228861649|ref|YP_002854669.1|vFam_158| cathepsin [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|118197532|ref|YP_874244.1|vFam_158| cathepsin [Ectropis obliqua nucleopolyhedrovirus]
+gi|165969032|ref|YP_001650932.1|vFam_158| peptidase [Orgyia leucostigma NPV]
+gi|209401110|ref|YP_002273979.1|vFam_158| viral cathepsin-like protein [Helicoverpa armigera NPV NNg1]
+gi|15617524|ref|NP_258322.1|vFam_158| cathepsin-like cysteine proteinase [Spodoptera litura nucleopolyhedrovirus]
+gi|114679921|ref|YP_758371.1|vFam_158| cathepsin [Leucania separata nucleopolyhedrovirus]

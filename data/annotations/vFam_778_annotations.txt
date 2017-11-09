@@ -1,0 +1,20 @@
+CLUSTER	778
+NUM_SEQ	12
+LENGTH	150
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	79.5
+FAMILIES	{'Poxviridae': 12}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Capripoxvirus': 1, 'Orthopoxvirus': 3, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|377830114|ref|YP_005296362.1|vFam_778| unnamed protein product [Cotia virus SPAn232]
+gi|9633969|ref|NP_052048.1|vFam_778| gp003.1R [Rabbit fibroma virus]
+gi|9633795|ref|NP_051714.1|vFam_778| m3.1 [Myxoma virus]
+gi|211956442|ref|YP_002302512.1|vFam_778| hypothetical protein DpV84gp172 [Deerpox virus W-1170-84]
+gi|148912881|ref|YP_001293195.1|vFam_778| hypothetical protein GTPV_gp001 [Goatpox virus Pellor]
+gi|18640236|ref|NP_570310.1|vFam_778| SPV150 A52R-like family protein [Swinepox virus]
+gi|18640239|ref|NP_570395.1|vFam_778| CMLV005 [Camelpox virus]
+gi|157939625|ref|YP_001496997.1|vFam_778| hypothetical protein TANV_6L [Tanapox virus]
+gi|38229174|ref|NP_938267.1|vFam_778| 6L [Yaba monkey tumor virus]
+gi|345107354|ref|YP_004821519.1|vFam_778| hypothetical protein YKV166 [Yoka poxvirus]
+gi|22164597|ref|NP_671681.1|vFam_778| C8R [Ectromelia virus]
+gi|377830106|ref|YP_005296354.1|vFam_778| unnamed protein product [Cotia virus SPAn232]

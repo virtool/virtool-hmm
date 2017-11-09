@@ -1,0 +1,10 @@
+CLUSTER	3922
+NUM_SEQ	2
+LENGTH	142
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	71.0
+FAMILIES	{'Polydnaviridae': 1}
+GENERA	{'Bracovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498896|ref|YP_008004690.1|vFam_3922| hypothetical protein CHREV_286 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|57659721|ref|YP_184903.1|vFam_3922| hypothetical protein CcBV_33.5 [Cotesia congregata bracovirus]

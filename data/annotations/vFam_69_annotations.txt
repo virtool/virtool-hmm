@@ -1,0 +1,46 @@
+CLUSTER	69
+NUM_SEQ	38
+LENGTH	1019
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	529.88
+FAMILIES	{'Baculoviridae': 33}
+GENERA	{'Betabaculovirus': 12, 'Alphabaculovirus': 21}
+FASTA SEQUENCE TITLES:
+gi|410493676|ref|YP_006908614.1|vFam_69| DNA polymerase [Epinotia aporema granulovirus]
+gi|32698633|ref|NP_872548.1|vFam_69| DNA-pol [Adoxophyes orana granulovirus]
+gi|21686768|ref|NP_663268.1|vFam_69| DNA polymerase [Phthorimaea operculella granulovirus]
+gi|334265774|ref|YP_004376303.1|vFam_69| DNA pol [Clostera anachoreta granulovirus]
+gi|33622301|ref|NP_891948.1|vFam_69| DNA polymerase [Cryptophlebia leucotreta granulovirus]
+gi|14602348|ref|NP_148895.1|vFam_69| ORF111 DNAPOL [Cydia pomonella granulovirus]
+gi|288804732|ref|YP_003429417.1|vFam_69| DNA polymerase [Pieris rapae granulovirus]
+gi|109255362|ref|YP_654511.1|vFam_69| DNA polymerase [Choristoneura occidentalis granulovirus]
+gi|11068096|ref|NP_068312.1|vFam_69| PxORF93 peptide [Plutella xylostella granulovirus]
+gi|148368922|ref|YP_001257052.1|vFam_69| DNA polymerase [Spodoptera litura granulovirus]
+gi|285002413|ref|YP_003422477.1|vFam_69| DNA polymerase [Pseudaletia unipuncta granulovirus]
+gi|164519329|ref|YP_001649116.1|vFam_69| DNA polymerase [Helicoverpa armigera granulovirus]
+gi|438000367|ref|YP_007250472.1|vFam_69| DNA-pol protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643604|ref|YP_002884294.1|vFam_69| DNA polymerase [Bombyx mandarina nucleopolyhedrovirus]
+gi|15320715|ref|NP_203227.1|vFam_69| DNAPOL [Epiphyas postvittana nucleopolyhedrovirus]
+gi|37651331|ref|NP_932670.1|vFam_69| DNA polymerase [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|86355605|ref|YP_473273.1|vFam_69| DNA polymerase [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630008|ref|NP_046226.1|vFam_69| DNA polymerase [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031284|ref|YP_008992181.1|vFam_69| DNA polymerase [Choristoneura murinana alphabaculovirus]
+gi|529153398|ref|YP_008378438.1|vFam_69| DNA polymerase [Choristoneura rosaceana alphabaculovirus]
+gi|209978830|ref|YP_002300573.1|vFam_69| DNA-POL [Adoxophyes orana nucleopolyhedrovirus]
+gi|114679931|ref|YP_758381.1|vFam_69| dnapol [Leucania separata nucleopolyhedrovirus]
+gi|15617537|ref|NP_258337.1|vFam_69| DNA polymerase [Spodoptera litura nucleopolyhedrovirus]
+gi|292397753|ref|YP_003517819.1|vFam_69| DNA polymerase [Lymantria xylina MNPV]
+gi|9631050|ref|NP_047720.1|vFam_69| DNA polymerase [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|118197539|ref|YP_874251.1|vFam_69| polymerase [Ectropis obliqua nucleopolyhedrovirus]
+gi|228861656|ref|YP_002854676.1|vFam_69| polymerase [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|529218119|ref|YP_008378282.1|vFam_69| DNA polymerase [Hemileuca sp. nucleopolyhedrovirus]
+gi|165969077|ref|YP_001650977.1|vFam_69| DNA polymerase [Orgyia leucostigma NPV]
+gi|113195468|ref|YP_717605.1|vFam_69| DNA polymerase [Clanis bilineata nucleopolyhedrovirus]
+gi|209401123|ref|YP_002273992.1|vFam_69| DNA-dependent DNA-polymerase [Helicoverpa armigera NPV NNg1]
+gi|74229740|ref|YP_308944.1|vFam_69| DNA polymerase [Trichoplusia ni single nucleopolyhedrovirus]
+gi|22549515|ref|NP_689288.1|vFam_69| dnapol gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|125860214|ref|YP_001036384.1|vFam_69| DNA polymerase [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401490|ref|YP_002332794.1|vFam_69| DNA polymerase [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634314|ref|NP_037853.1|vFam_69| ORF93 DNA polymerase [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209170989|ref|YP_002268136.1|vFam_69| DNA polymerase [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592817|ref|YP_529770.1|vFam_69| DNAPOL [Agrotis segetum nucleopolyhedrovirus]

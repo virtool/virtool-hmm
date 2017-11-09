@@ -1,0 +1,11 @@
+CLUSTER	3187
+NUM_SEQ	3
+LENGTH	290
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	147.9
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|526118870|ref|YP_008318773.1|vFam_3187| hypothetical protein [Pandoravirus dulcis]
+gi|531035028|ref|YP_008436653.1|vFam_3187| hypothetical protein ps_237 [Pandoravirus salinus]
+gi|526118873|ref|YP_008318776.1|vFam_3187| hypothetical protein [Pandoravirus dulcis]

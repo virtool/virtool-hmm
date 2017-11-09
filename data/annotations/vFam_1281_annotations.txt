@@ -1,0 +1,13 @@
+CLUSTER	1281
+NUM_SEQ	5
+LENGTH	1170
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	608.4
+FAMILIES	{'Reoviridae': 5}
+GENERA	{'Fijivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|20177441|ref|NP_619777.1|vFam_1281| 136.6KD protein [Nilaparvata lugens reovirus]
+gi|68532383|ref|YP_249761.1|vFam_1281| 'B' spike structural protein [Fiji disease virus]
+gi|120407013|ref|YP_956845.1|vFam_1281| hypothetical protein MRCV_sS2gp1 [Mal de Rio Cuarto virus]
+gi|312274942|ref|YP_004021938.1|vFam_1281| P3 [Southern rice black-streaked dwarf virus]
+gi|20386789|ref|NP_620461.1|vFam_1281| P4 protein [Rice black streaked dwarf virus]

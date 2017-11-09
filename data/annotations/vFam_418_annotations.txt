@@ -1,0 +1,20 @@
+CLUSTER	418
+NUM_SEQ	12
+LENGTH	293
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	146.5
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Varicellovirus': 3, 'Mardivirus': 3, 'Simplexvirus': 6}
+FASTA SEQUENCE TITLES:
+gi|51557557|ref|YP_068391.1|vFam_418| virion protein US2 [Suid herpesvirus 1]
+gi|12084904|ref|NP_073374.1|vFam_418| virion protein US2 [Meleagrid herpesvirus 1]
+gi|125745124|ref|YP_001034008.1|vFam_418| virion protein US2 [Gallid herpesvirus 2]
+gi|10834949|ref|NP_066910.1|vFam_418| virion protein US2 [Gallid herpesvirus 3]
+gi|216905921|ref|YP_002333549.1|vFam_418| virion protein US2 [Equid herpesvirus 9]
+gi|9629797|ref|NP_045285.1|vFam_418| virion protein US2 [Equid herpesvirus 4]
+gi|312162859|ref|YP_003933844.1|vFam_418| virion protein US2 [Saimiriine herpesvirus 1]
+gi|30984489|ref|NP_851921.1|vFam_418| virion protein US2 [Macacine herpesvirus 1]
+gi|83722630|ref|YP_443908.1|vFam_418| virion protein US2 [Papiine herpesvirus 2]
+gi|56694784|ref|YP_164504.1|vFam_418| virion protein US2 [Cercopithecine herpesvirus 2]
+gi|9629443|ref|NP_044664.1|vFam_418| virion protein US2 [Human herpesvirus 1]
+gi|9629332|ref|NP_044532.1|vFam_418| virion protein US2 [Human herpesvirus 2]

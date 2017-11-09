@@ -1,0 +1,14 @@
+CLUSTER	1881
+NUM_SEQ	6
+LENGTH	141
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	74.73
+FAMILIES	{'Poxviridae': 2, 'Rhabdoviridae': 1}
+GENERA	{'None': 1, 'Cytorhabdovirus': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9635152|ref|NP_057958.1|vFam_1881| unnamed protein product; gene 5 protein [Northern cereal mosaic virus]
+gi|9631333|ref|NP_048168.1|vFam_1881| ORF MSV097 putative calcium binding protein, similar to Atriplex numularia PRF:1906390A [Melanoplus sanguinipes entomopoxvirus]
+gi|506497970|ref|YP_008003769.1|vFam_1881| Ca2+ BP [Mythimna separata entomopoxvirus 'L']
+gi|506498231|ref|YP_008004028.1|vFam_1881| Ca2+ BP [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498840|ref|YP_008004634.1|vFam_1881| Ca2+ BP [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964542|ref|NP_065010.1|vFam_1881| putative calcium binding protein [Amsacta moorei entomopoxvirus 'L']

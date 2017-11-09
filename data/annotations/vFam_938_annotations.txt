@@ -1,0 +1,10 @@
+CLUSTER	938
+NUM_SEQ	2
+LENGTH	210
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	107.1
+FAMILIES	{'Poxviridae': 1, 'Polydnaviridae': 1}
+GENERA	{'None': 1, 'Bracovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|57753415|ref|YP_184797.1|vFam_938| hypothetical protein CcBVs7gp5 [Cotesia congregata bracovirus]
+gi|9631459|ref|NP_048248.1|vFam_938| ORF MSV177 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]

@@ -1,0 +1,11 @@
+CLUSTER	3497
+NUM_SEQ	3
+LENGTH	133
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	66.5
+FAMILIES	{'Ascoviridae': 3}
+GENERA	{'Ascovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|116326696|ref|YP_803233.1|vFam_3497| hypothetical protein TNAV2c_gp010 [Trichoplusia ni ascovirus 2c]
+gi|134287185|ref|YP_001110881.1|vFam_3497| hypothetical protein HVAV3e_gp028 [Heliothis virescens ascovirus 3e]
+gi|115298528|ref|YP_762381.1|vFam_3497| 15.2 kDa [Spodoptera frugiperda ascovirus 1a]

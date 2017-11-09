@@ -1,0 +1,10 @@
+CLUSTER	5210
+NUM_SEQ	2
+LENGTH	134
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	67.0
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40555973|ref|NP_955058.1|vFam_5210| CNPV035 C-type lectin-like protein [Canarypox virus]
+gi|9634932|ref|NP_038966.1|vFam_5210| C-type lectin gene family protein [Fowlpox virus]

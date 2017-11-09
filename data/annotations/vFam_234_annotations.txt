@@ -1,0 +1,26 @@
+CLUSTER	234
+NUM_SEQ	18
+LENGTH	134
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	69.68
+FAMILIES	{'Adenoviridae': 17}
+GENERA	{'Mastadenovirus': 17}
+FASTA SEQUENCE TITLES:
+gi|56158805|ref|AP_000024.1|vFam_234| IX [Bovine adenovirus B]
+gi|51556697|ref|YP_068058.1|vFam_234| IX [Tree shrew adenovirus 1]
+gi|56160843|ref|AP_000501.1|vFam_234| IX [Human adenovirus 1]
+gi|460042641|ref|YP_007518068.1|vFam_234| pIX [Simian adenovirus 20]
+gi|51518819|ref|YP_067906.1|vFam_234| IX [Simian adenovirus 3]
+gi|56160440|ref|AP_000110.1|vFam_234| IX [Human adenovirus A]
+gi|327415374|ref|YP_004300202.1|vFam_234| unnamed protein product [Simian adenovirus 49]
+gi|540155830|ref|YP_008520224.1|vFam_234| protein IX [Simian adenovirus 18]
+gi|9626565|ref|NP_040851.1|vFam_234| capsid protein IX [Human adenovirus F]
+gi|485191061|ref|YP_007905997.1|vFam_234| IX [Simian adenovirus C]
+gi|61602087|ref|YP_213964.1|vFam_234| IX [Simian adenovirus 1]
+gi|253761979|ref|YP_003038601.1|vFam_234| pIX [Human adenovirus 54]
+gi|386522687|ref|YP_006272952.1|vFam_234| pIX [Chimpanzee adenovirus Y25]
+gi|197944730|ref|YP_002213768.1|vFam_234| capsid protein IX [Human adenovirus B]
+gi|197944770|ref|YP_002213801.1|vFam_234| capsid protein IX [Human adenovirus B]
+gi|56158830|ref|AP_000004.1|vFam_234| IX [Ovine adenovirus A]
+gi|52801683|ref|YP_094030.1|vFam_234| IX [Bovine adenovirus A]
+gi|13487863|ref|NP_108656.1|vFam_234| plX protein [Porcine adenovirus C]

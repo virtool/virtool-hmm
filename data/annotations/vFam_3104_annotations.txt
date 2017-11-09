@@ -1,0 +1,10 @@
+CLUSTER	3104
+NUM_SEQ	2
+LENGTH	278
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	141.78
+FAMILIES	{'Secoviridae': 1, 'Malacoherpesviridae': 1}
+GENERA	{'Waikavirus': 1, 'Ostreavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|48696736|ref|YP_024560.1|vFam_3104| ORF15 [Ostreid herpesvirus 1]
+gi|25013931|ref|NP_734453.1|vFam_3104| coat protein 1 [Maize chlorotic dwarf virus]

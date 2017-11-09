@@ -1,0 +1,13 @@
+CLUSTER	2123
+NUM_SEQ	5
+LENGTH	211
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	105.5
+FAMILIES	{'None': 1, 'Poxviridae': 1}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|213159281|ref|YP_002321324.1|vFam_2123| hypothetical protein OrNV_gp013 [Oryctes rhinoceros virus]
+gi|506497980|ref|YP_008003779.1|vFam_2123| hypothetical protein MYSEV_262 [Mythimna separata entomopoxvirus 'L']
+gi|506498816|ref|YP_008004610.1|vFam_2123| hypothetical protein CHREV_206 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498850|ref|YP_008004644.1|vFam_2123| unknown similar to AMEV236 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964550|ref|NP_065018.1|vFam_2123| similar to cullin 3 [Amsacta moorei entomopoxvirus 'L']

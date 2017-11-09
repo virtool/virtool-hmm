@@ -1,0 +1,18 @@
+CLUSTER	328
+NUM_SEQ	10
+LENGTH	510
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	270.3
+FAMILIES	{'Herpesviridae': 10}
+GENERA	{'Varicellovirus': 3, 'Mardivirus': 4, 'Simplexvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|13242440|ref|NP_077461.1|vFam_328| tegument serine/threonine protein kinase [Cercopithecine herpesvirus 9]
+gi|9625921|ref|NP_040169.1|vFam_328| tegument serine/threonine protein kinase [Human herpesvirus 3]
+gi|296316048|ref|YP_003662512.1|vFam_328| tegument serine/threonine protein kinase [Bovine herpesvirus 5]
+gi|83722581|ref|YP_443859.1|vFam_328| tegument serine/threonine protein kinase [Papiine herpesvirus 2]
+gi|9629393|ref|NP_044614.1|vFam_328| tegument serine/threonine protein kinase [Human herpesvirus 1]
+gi|9629282|ref|NP_044482.1|vFam_328| tegument serine/threonine protein kinase [Human herpesvirus 2]
+gi|255683202|ref|YP_003084410.1|vFam_328| UL13 [Anatid herpesvirus 1]
+gi|12084841|ref|NP_073306.1|vFam_328| tegument serine/threonine protein kinase [Meleagrid herpesvirus 1]
+gi|125745064|ref|YP_001033941.1|vFam_328| tegument serine/threonine protein kinase [Gallid herpesvirus 2]
+gi|10834882|ref|NP_066843.1|vFam_328| tegument serine/threonine protein kinase [Gallid herpesvirus 3]

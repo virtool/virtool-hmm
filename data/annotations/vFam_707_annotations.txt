@@ -1,0 +1,18 @@
+CLUSTER	707
+NUM_SEQ	10
+LENGTH	301
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	150.5
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|300116772|ref|YP_003773417.1|vFam_707| hypothetical protein HAV1_gp19 [Hyperthermophilic Archaeal Virus 1]
+gi|146411830|ref|YP_001210323.1|vFam_707| putative glycosyl transferase [Acidianus bottle-shaped virus]
+gi|45655901|ref|YP_003760.1|vFam_707| hypothetical protein AFV1_ORF300 [Acidianus filamentous virus 1]
+gi|16753133|ref|NP_445711.1|vFam_707| mannosyltransferase-related protein [Sulfolobus islandicus filamentous virus]
+gi|45655892|ref|YP_003751.1|vFam_707| hypothetical protein AFV1_ORF313 [Acidianus filamentous virus 1]
+gi|162329519|ref|YP_001604318.1|vFam_707| putative glycosyltransferase [Acidianus filamentous virus 8]
+gi|171473686|ref|YP_001798556.1|vFam_707| putative glycosyltransferase [Acidianus filamentous virus 9]
+gi|16753127|ref|NP_445705.1|vFam_707| glycosyl transferase-related protein [Sulfolobus islandicus filamentous virus]
+gi|162329464|ref|YP_001604264.1|vFam_707| putative glycosyltransferase [Acidianus filamentous virus 7]
+gi|157929306|ref|YP_001496958.1|vFam_707| putative glycosyl transferase [Acidianus filamentous virus 2]

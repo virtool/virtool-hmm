@@ -1,0 +1,10 @@
+CLUSTER	3626
+NUM_SEQ	2
+LENGTH	116
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	59.16
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825129|ref|YP_007418060.1|vFam_3626| putative homeobox protein [Megavirus lba]
+gi|441432060|ref|YP_007354102.1|vFam_3626| Homeodomain-containing protein [Acanthamoeba polyphaga moumouvirus]

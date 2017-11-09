@@ -1,0 +1,22 @@
+CLUSTER	525
+NUM_SEQ	14
+LENGTH	255
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	135.15
+FAMILIES	{'Closteroviridae': 12, 'None': 1}
+GENERA	{'None': 1, 'Crinivirus': 12}
+FASTA SEQUENCE TITLES:
+gi|310831300|ref|YP_003969943.1|vFam_525| hypothetical protein crov310 [Cafeteria roenbergensis virus BV-PW1]
+gi|448260176|ref|YP_007348273.1|vFam_525| hypothetical protein STSV2_29 [Sulfolobus virus STSV2]
+gi|258676970|ref|YP_003204960.1|vFam_525| coat protein [Tomato infectious chlorosis virus]
+gi|20153356|ref|NP_619697.1|vFam_525| coat protein [Lettuce infectious yellows virus]
+gi|30840974|ref|NP_851576.1|vFam_525| CP [Cucurbit yellow stunting disorder virus]
+gi|177882067|ref|YP_001816779.1|vFam_525| CP [Bean yellow disorder virus]
+gi|395865415|ref|YP_006522431.1|vFam_525| coat protein [Cucurbit chlorotic yellows virus]
+gi|242916048|ref|YP_003002362.1|vFam_525| unnamed protein product [Lettuce chlorosis virus]
+gi|50428969|ref|YP_054421.1|vFam_525| coat protein [Potato yellow vein virus]
+gi|48696547|ref|YP_025089.1|vFam_525| coat protein [Strawberry pallidosis-associated virus]
+gi|38257135|ref|NP_940792.1|vFam_525| CP [Beet pseudoyellows virus]
+gi|62401638|ref|YP_227364.1|vFam_525| p28 [Blackberry yellow vein-associated virus]
+gi|22550327|ref|NP_689404.1|vFam_525| major coat protein [Sweet potato chlorotic stunt virus]
+gi|72398341|ref|YP_293703.1|vFam_525| coat protein [Tomato chlorosis virus]

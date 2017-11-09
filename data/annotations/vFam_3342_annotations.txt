@@ -1,0 +1,10 @@
+CLUSTER	3342
+NUM_SEQ	2
+LENGTH	81
+RELATIVE_ENTROPY_PER_POSITION	0.62
+TOTAL_RELATIVE_ENTROPY	50.22
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|209401061|ref|YP_002273930.1|vFam_3342| hypothetical protein HaSNPVNNg1_gp007 [Helicoverpa armigera NPV NNg1]
+gi|51209681|ref|YP_063711.1|vFam_3342| hypothetical protein [Helicoverpa armigera nucleopolyhedrovirus]

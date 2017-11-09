@@ -1,0 +1,15 @@
+CLUSTER	850
+NUM_SEQ	7
+LENGTH	416
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	212.16
+FAMILIES	{'Coronaviridae': 7}
+GENERA	{'Torovirus': 2, 'Betacoronavirus': 5}
+FASTA SEQUENCE TITLES:
+gi|77118352|ref|YP_337909.1|vFam_850| hemagglutinin esterase [Breda virus]
+gi|557745619|ref|YP_008798234.1|vFam_850| hemagglutinin esterase [Porcine torovirus]
+gi|56807325|ref|YP_173237.1|vFam_850| hemagglutinin-esterase glycoprotein [Human coronavirus HKU1]
+gi|60115394|ref|YP_209232.1|vFam_850| hemagglutinin-esterase glycoprotein (HE) [Murine hepatitis virus strain JHM]
+gi|167600357|ref|YP_001671999.1|vFam_850| hemagglutinin-esterase protein [Equine coronavirus]
+gi|38018025|ref|NP_937949.1|vFam_850| HE protein [Human coronavirus OC43]
+gi|85718617|ref|YP_459951.1|vFam_850| hemagglutinin-esterase protein [Porcine hemagglutinating encephalomyelitis virus]

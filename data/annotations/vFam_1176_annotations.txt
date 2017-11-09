@@ -1,0 +1,15 @@
+CLUSTER	1176
+NUM_SEQ	7
+LENGTH	472
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	240.72
+FAMILIES	{'None': 2, 'Mimiviridae': 5}
+GENERA	{'Mimivirus': 1, 'None': 6}
+FASTA SEQUENCE TITLES:
+gi|311978077|ref|YP_003987197.1|vFam_1176| putative BTB/POZ domain-containing protein [Acanthamoeba polyphaga mimivirus]
+gi|441432801|ref|YP_007354843.1|vFam_1176| BTB family protein [Acanthamoeba polyphaga moumouvirus]
+gi|441432751|ref|YP_007354793.1|vFam_1176| hypothetical protein Moumou_00840 [Acanthamoeba polyphaga moumouvirus]
+gi|363540202|ref|YP_004895049.1|vFam_1176| mg998 gene product [Megavirus chiliensis]
+gi|448825106|ref|YP_007418037.1|vFam_1176| putative BTB/POZ domain-containing protein [Megavirus lba]
+gi|441432090|ref|YP_007354132.1|vFam_1176| BTB/POZ domain protein [Acanthamoeba polyphaga moumouvirus]
+gi|448825157|ref|YP_007418088.1|vFam_1176| putative BTB/POZ domain-containing protein [Megavirus lba]

@@ -1,0 +1,12 @@
+CLUSTER	2928
+NUM_SEQ	4
+LENGTH	90
+RELATIVE_ENTROPY_PER_POSITION	0.57
+TOTAL_RELATIVE_ENTROPY	51.3
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'None': 1, 'Molluscipoxvirus': 1, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|571797981|ref|YP_008658480.1|vFam_2928| conserved hypothetical pox protein [Squirrelpox virus]
+gi|41057484|ref|NP_957957.1|vFam_2928| ORF048 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183812|ref|YP_003457353.1|vFam_2928| hypothetical protein PCPV_gp050 [Pseudocowpox virus]
+gi|9629002|ref|NP_044021.1|vFam_2928| MC070R [Molluscum contagiosum virus subtype 1]

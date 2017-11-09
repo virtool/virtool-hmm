@@ -1,0 +1,44 @@
+CLUSTER	108
+NUM_SEQ	36
+LENGTH	494
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	261.82
+FAMILIES	{'Baculoviridae': 31}
+GENERA	{'Gammabaculovirus': 3, 'Betabaculovirus': 11, 'Alphabaculovirus': 17}
+FASTA SEQUENCE TITLES:
+gi|48843574|ref|YP_025147.1|vFam_108| late expression factor 9 [Neodiprion sertifer nucleopolyhedrovirus]
+gi|48843666|ref|YP_025237.1|vFam_108| late expression factor-9 [Neodiprion lecontei nucleopolyhedrovirus]
+gi|110645248|ref|YP_667887.1|vFam_108| late expression factor 9 [Neodiprion abietis NPV]
+gi|114680116|ref|YP_758529.1|vFam_108| late expression factor-9 [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|96979852|ref|YP_611058.1|vFam_108| lef-9 [Antheraea pernyi nucleopolyhedrovirus]
+gi|15320713|ref|NP_203225.1|vFam_108| LEF-9 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|571031286|ref|YP_008992183.1|vFam_108| lef9 [Choristoneura murinana alphabaculovirus]
+gi|116326130|ref|YP_803456.1|vFam_108| late expression factor 9 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|292397735|ref|YP_003517801.1|vFam_108| LEF-9 [Lymantria xylina MNPV]
+gi|209401109|ref|YP_002273978.1|vFam_108| late expression factor 9 [Helicoverpa armigera NPV NNg1]
+gi|114679925|ref|YP_758375.1|vFam_108| lef-9 [Leucania separata nucleopolyhedrovirus]
+gi|15617527|ref|NP_258327.1|vFam_108| LEF-9 [Spodoptera litura nucleopolyhedrovirus]
+gi|209978808|ref|YP_002300551.1|vFam_108| LEF-9 [Adoxophyes orana nucleopolyhedrovirus]
+gi|74229735|ref|YP_308939.1|vFam_108| late expression factor 9 (lef9) [Trichoplusia ni single nucleopolyhedrovirus]
+gi|20070003|ref|NP_613207.1|vFam_108| LEF-9 [Mamestra configurata nucleopolyhedrovirus A]
+gi|125860219|ref|YP_001036389.1|vFam_108| late expression factor 9 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|209170996|ref|YP_002268143.1|vFam_108| agip113 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592822|ref|YP_529775.1|vFam_108| LEF-9 [Agrotis segetum nucleopolyhedrovirus]
+gi|113195448|ref|YP_717585.1|vFam_108| LEF-9 [Clanis bilineata nucleopolyhedrovirus]
+gi|118197527|ref|YP_874239.1|vFam_108| late expression factor 9 [Ectropis obliqua nucleopolyhedrovirus]
+gi|529218104|ref|YP_008378267.1|vFam_108| Lef9 [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502146|ref|YP_006607804.1|vFam_108| late expression factor 9 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|165969041|ref|YP_001650941.1|vFam_108| late expression factor 9 [Orgyia leucostigma NPV]
+gi|228861619|ref|YP_002854639.1|vFam_108| lef9 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|11068102|ref|NP_068318.1|vFam_108| PxORF99 peptide [Plutella xylostella granulovirus]
+gi|285002420|ref|YP_003422484.1|vFam_108| LEF-9 [Pseudaletia unipuncta granulovirus]
+gi|148368928|ref|YP_001257058.1|vFam_108| lef-9 [Spodoptera litura granulovirus]
+gi|556549135|ref|YP_008720049.1|vFam_108| lef-9 [Clostera anastomosis granulovirus]
+gi|32698639|ref|NP_872554.1|vFam_108| lef-9 [Adoxophyes orana granulovirus]
+gi|46309347|ref|YP_006237.1|vFam_108| ORF107 [Agrotis segetum granulovirus]
+gi|410493682|ref|YP_006908620.1|vFam_108| late expression factor 9 [Epinotia aporema granulovirus]
+gi|21686774|ref|NP_663274.1|vFam_108| late expression factor 9 [Phthorimaea operculella granulovirus]
+gi|109255368|ref|YP_654517.1|vFam_108| LEF-9 [Choristoneura occidentalis granulovirus]
+gi|288804738|ref|YP_003429423.1|vFam_108| LEF-9 [Pieris rapae granulovirus]
+gi|33622307|ref|NP_891954.1|vFam_108| lef-9 [Cryptophlebia leucotreta granulovirus]
+gi|14602354|ref|NP_148901.1|vFam_108| ORF117 LEF-9 [Cydia pomonella granulovirus]

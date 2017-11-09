@@ -1,0 +1,10 @@
+CLUSTER	6233
+NUM_SEQ	2
+LENGTH	70
+RELATIVE_ENTROPY_PER_POSITION	0.74
+TOTAL_RELATIVE_ENTROPY	51.8
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|285002356|ref|YP_003422420.1|vFam_6233| Rep-like protein [Pseudaletia unipuncta granulovirus]
+gi|164519271|ref|YP_001649058.1|vFam_6233| Rep-like protein [Helicoverpa armigera granulovirus]

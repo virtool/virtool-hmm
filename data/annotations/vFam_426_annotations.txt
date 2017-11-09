@@ -1,0 +1,15 @@
+CLUSTER	426
+NUM_SEQ	7
+LENGTH	559
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	290.68
+FAMILIES	{'Herpesviridae': 7}
+GENERA	{'Macavirus': 2, 'None': 1, 'Rhadinovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|321496572|ref|YP_004207857.1|vFam_426| thymidine kinase [Rodent herpesvirus Peru]
+gi|83642858|ref|YP_438145.1|vFam_426| ORF21 [Ovine herpesvirus 2]
+gi|10140943|ref|NP_065520.1|vFam_426| thymidine kinase [Alcelaphine herpesvirus 1]
+gi|9631211|ref|NP_047992.1|vFam_426| thymidine kinase [Ateline herpesvirus 3]
+gi|9625976|ref|NP_040223.1|vFam_426| thymidine kinase [Saimiriine herpesvirus 2]
+gi|139472869|ref|YP_001129374.1|vFam_426| ORF21 [Human herpesvirus 8]
+gi|18653827|ref|NP_570761.1|vFam_426| thymidine kinase [Macacine herpesvirus 5]

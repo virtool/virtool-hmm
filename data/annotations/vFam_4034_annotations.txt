@@ -1,0 +1,10 @@
+CLUSTER	4034
+NUM_SEQ	2
+LENGTH	575
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	299.0
+FAMILIES	{'Secoviridae': 2}
+GENERA	{'Nepovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|332290636|ref|YP_004429250.1|vFam_4034| viral protease co-factor (Pro-Cofact) [Grapevine Bulgarian latent virus]
+gi|25013945|ref|NP_734041.1|vFam_4034| protease cofactor [Blackcurrant reversion virus]

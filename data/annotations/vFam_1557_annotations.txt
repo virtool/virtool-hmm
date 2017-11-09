@@ -1,0 +1,13 @@
+CLUSTER	1557
+NUM_SEQ	5
+LENGTH	687
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	350.37
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|312162808|ref|YP_003933793.1|vFam_1557| tegument protein VP13/14 [Saimiriine herpesvirus 1]
+gi|83722616|ref|YP_443894.1|vFam_1557| tegument protein VP13/14 [Papiine herpesvirus 2]
+gi|30984475|ref|NP_851907.1|vFam_1557| tegument protein VP13/14 [Macacine herpesvirus 1]
+gi|9629428|ref|NP_044649.1|vFam_1557| tegument protein VP13/14 [Human herpesvirus 1]
+gi|9629317|ref|NP_044517.1|vFam_1557| tegument protein VP13/14 [Human herpesvirus 2]

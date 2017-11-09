@@ -1,0 +1,11 @@
+CLUSTER	4865
+NUM_SEQ	3
+LENGTH	130
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	67.6
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 2, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|313844181|ref|YP_004061844.1|vFam_4865| hypothetical protein OlV1_212 [Ostreococcus lucimarinus virus OlV1]
+gi|260666072|ref|YP_003213026.1|vFam_4865| hypothetical protein H665_p203 [Ostreococcus tauri virus 1]
+gi|314055294|ref|YP_004063632.1|vFam_4865| fibronectin-binding A-like protein-possible host origin [Ostreococcus tauri virus 2]

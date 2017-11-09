@@ -1,0 +1,10 @@
+CLUSTER	5832
+NUM_SEQ	2
+LENGTH	589
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	306.28
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Iltovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|155042205|ref|NP_944387.2|vFam_5832| tegument protein VP11/12 [Psittacid herpesvirus 1]
+gi|155041953|ref|YP_182344.2|vFam_5832| tegument protein VP11/12 [Gallid herpesvirus 1]

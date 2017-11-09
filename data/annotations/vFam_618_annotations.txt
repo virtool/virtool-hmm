@@ -1,0 +1,21 @@
+CLUSTER	618
+NUM_SEQ	13
+LENGTH	205
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	106.6
+FAMILIES	{'None': 1, 'Picornaviridae': 10}
+GENERA	{'Teschovirus': 1, 'Cosavirus': 3, 'None': 1, 'Aphthovirus': 3, 'Cardiovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|488870562|ref|YP_007947667.1|vFam_618| 3C [Canine picodicistrovirus]
+gi|407868421|ref|YP_006846326.1|vFam_618| 3C [Bovine hungarovirus 1]
+gi|25121781|ref|NP_740358.1|vFam_618| 3C protein [Porcine teschovirus]
+gi|25121613|ref|NP_740410.1|vFam_618| protein 3C [Encephalomyocarditis virus]
+gi|25121880|ref|NP_740429.1|vFam_618| protein 3C [Theilovirus]
+gi|189418905|ref|YP_001950231.1|vFam_618| protein 3C [Human TMEV-like cardiovirus]
+gi|239830842|ref|YP_002956128.1|vFam_618| 3C [Human cosavirus D]
+gi|239828767|ref|YP_002956086.1|vFam_618| 3C [Human cosavirus E]
+gi|239830829|ref|YP_002956117.1|vFam_618| 3C [Human cosavirus B]
+gi|239828791|ref|YP_002956106.1|vFam_618| 3C [Cosavirus A]
+gi|25121699|ref|NP_740382.1|vFam_618| 3C (proteinase) [Equine rhinitis A virus]
+gi|25121639|ref|NP_740466.1|vFam_618| 3C [Foot-and-mouth disease virus - type O]
+gi|168480167|ref|YP_001686947.1|vFam_618| 3C [Bovine rhinitis B virus]

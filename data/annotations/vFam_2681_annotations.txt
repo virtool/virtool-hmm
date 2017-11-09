@@ -1,0 +1,10 @@
+CLUSTER	2681
+NUM_SEQ	2
+LENGTH	193
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	96.5
+FAMILIES	{'None': 1, 'Alloherpesviridae': 1}
+GENERA	{'None': 1, 'Batrachovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|410493521|ref|YP_006908719.1|vFam_2681| hypothetical protein AbHV_ORF67 [Abalone herpesvirus Victoria/AUS/2009]
+gi|109638721|ref|YP_656536.1|vFam_2681| ORF28 [Ranid herpesvirus 2]

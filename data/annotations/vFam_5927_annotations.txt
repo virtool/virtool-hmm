@@ -1,0 +1,10 @@
+CLUSTER	5927
+NUM_SEQ	2
+LENGTH	323
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	164.73
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|157953395|ref|YP_001498286.1|vFam_5927| hypothetical protein AR158_C204R [Paramecium bursaria Chlorella virus AR158]
+gi|9631738|ref|NP_048517.1|vFam_5927| Aspartate transcarbamylase [Paramecium bursaria Chlorella virus 1]

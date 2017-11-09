@@ -1,0 +1,11 @@
+CLUSTER	2541
+NUM_SEQ	3
+LENGTH	202
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	105.04
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|292397817|ref|YP_003517883.1|vFam_2541| ORF143 [Lymantria xylina MNPV]
+gi|438000318|ref|YP_007250423.1|vFam_2541| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|9627754|ref|NP_054041.1|vFam_2541| AcOrf-12 peptide [Autographa californica nucleopolyhedrovirus]

@@ -1,0 +1,11 @@
+CLUSTER	2695
+NUM_SEQ	3
+LENGTH	111
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	55.5
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|9625540|ref|NP_039797.1|vFam_2695| hypothetical protein SSV-1p21 [Sulfolobus spindle-shaped virus 1]
+gi|198449261|ref|YP_002221499.1|vFam_2695| hypothetical protein SSSV5_gp34 [Sulfolobus spindle-shaped virus 5]
+gi|42495081|ref|NP_963991.1|vFam_2695| ORF C108 [Sulfolobus virus Kamchatka 1]

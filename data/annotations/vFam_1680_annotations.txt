@@ -1,0 +1,12 @@
+CLUSTER	1680
+NUM_SEQ	4
+LENGTH	95
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	50.35
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|359946560|ref|YP_004936093.1|vFam_1680| chemokine vCXCL8 [Cercopithecine herpesvirus 5]
+gi|359946558|ref|YP_004936091.1|vFam_1680| chemokine vCXCL6 [Cercopithecine herpesvirus 5]
+gi|359946559|ref|YP_004936092.1|vFam_1680| chemokine vCXCL7 [Cercopithecine herpesvirus 5]
+gi|356640485|ref|YP_004933927.1|vFam_1680| hypothetical protein cy182 [Cynomolgus macaque cytomegalovirus strain Ottawa]

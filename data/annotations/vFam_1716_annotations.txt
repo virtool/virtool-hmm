@@ -1,0 +1,14 @@
+CLUSTER	1716
+NUM_SEQ	6
+LENGTH	135
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	64.8
+FAMILIES	{'Marseillevirus family': 6}
+GENERA	{'None': 6}
+FASTA SEQUENCE TITLES:
+gi|327409631|ref|YP_004347051.1|vFam_1716| hypothetical protein LAU_0086 [Lausannevirus]
+gi|284504129|ref|YP_003406844.1|vFam_1716| putative antitoxin [Marseillevirus]
+gi|284504126|ref|YP_003406841.1|vFam_1716| hypothetical protein MAR_ORF094 [Marseillevirus]
+gi|284504139|ref|YP_003406854.1|vFam_1716| hypothetical protein MAR_ORF107 [Marseillevirus]
+gi|327409946|ref|YP_004347366.1|vFam_1716| hypothetical protein LAU_0404 [Lausannevirus]
+gi|284504053|ref|YP_003406768.1|vFam_1716| hypothetical protein MAR_ORF013 [Marseillevirus]

@@ -1,0 +1,14 @@
+CLUSTER	1953
+NUM_SEQ	6
+LENGTH	123
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	62.73
+FAMILIES	{'Baculoviridae': 6}
+GENERA	{'Alphabaculovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|22549468|ref|NP_689241.1|vFam_1953| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069946|ref|NP_613150.1|vFam_1953| hypothetical protein McnAVgp067 [Mamestra configurata nucleopolyhedrovirus A]
+gi|209170942|ref|YP_002268088.1|vFam_1953| agip58 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592772|ref|YP_529725.1|vFam_1953| ORF-55 [Agrotis segetum nucleopolyhedrovirus]
+gi|215401447|ref|YP_002332750.1|vFam_1953| hypothetical protein SlnV2_gp052 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634270|ref|NP_037809.1|vFam_1953| ORF49 [Spodoptera exigua multiple nucleopolyhedrovirus]

@@ -1,0 +1,10 @@
+CLUSTER	5712
+NUM_SEQ	2
+LENGTH	101
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	52.52
+FAMILIES	{'Bunyaviridae': 2}
+GENERA	{'Orthobunyavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|22256029|ref|NP_671971.1|vFam_5712| non-structural protein [La Crosse virus]
+gi|9630662|ref|NP_047214.1|vFam_5712| NSs protein [Bunyamwera virus]

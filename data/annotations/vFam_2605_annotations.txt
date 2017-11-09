@@ -1,0 +1,12 @@
+CLUSTER	2605
+NUM_SEQ	4
+LENGTH	228
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	118.56
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|52139331|ref|YP_081606.1|vFam_2605| membrane protein US21 [Human herpesvirus 5]
+gi|20026752|ref|NP_612794.1|vFam_2605| membrane protein US21 [Panine herpesvirus 2]
+gi|359946598|ref|YP_004936131.1|vFam_2605| membrane protein US21 [Cercopithecine herpesvirus 5]
+gi|356640537|ref|YP_004933979.1|vFam_2605| membrane protein US21 [Cynomolgus macaque cytomegalovirus strain Ottawa]

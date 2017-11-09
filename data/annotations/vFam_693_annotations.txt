@@ -1,0 +1,10 @@
+CLUSTER	693
+NUM_SEQ	2
+LENGTH	222
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	113.22
+FAMILIES	{'Phycodnaviridae': 1}
+GENERA	{'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|550455636|ref|YP_008658569.1|vFam_693| nonstructural protein 2 [Acheta domesticus mini ambidensovirus]
+gi|508181966|ref|YP_008052485.1|vFam_693| hypothetical protein PGCG_00167 [Phaeocystis globosa virus]

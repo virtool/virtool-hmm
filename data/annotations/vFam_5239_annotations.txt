@@ -1,0 +1,10 @@
+CLUSTER	5239
+NUM_SEQ	2
+LENGTH	327
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	170.04
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825945|ref|YP_007418876.1|vFam_5239| putative ankyrin repeat protein [Megavirus lba]
+gi|311978309|ref|YP_003987431.1|vFam_5239| putative ankyrin repeat protein [Acanthamoeba polyphaga mimivirus]

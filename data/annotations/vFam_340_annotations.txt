@@ -1,0 +1,12 @@
+CLUSTER	340
+NUM_SEQ	4
+LENGTH	372
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	193.44
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'None': 1, 'Orthopoxvirus': 1, 'Cervidpoxvirus': 1, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|113195228|ref|YP_717358.1|vFam_340| hypothetical protein TATV_DAH68_051 [Taterapox virus]
+gi|377830068|ref|YP_005296230.1|vFam_340| unnamed protein product [Cotia virus SPAn232]
+gi|211956305|ref|YP_002302374.1|vFam_340| hypothetical protein DpV84gp033 [Deerpox virus W-1170-84]
+gi|18640109|ref|NP_570183.1|vFam_340| SPV023 hypothetical protein [Swinepox virus]

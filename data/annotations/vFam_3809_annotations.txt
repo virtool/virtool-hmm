@@ -1,0 +1,12 @@
+CLUSTER	3809
+NUM_SEQ	4
+LENGTH	124
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	62.0
+FAMILIES	{'Paramyxoviridae': 3, 'Iridoviridae': 1}
+GENERA	{'Pneumovirus': 3, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631269|ref|NP_048049.1|vFam_3809| NS2 [Bovine respiratory syncytial virus]
+gi|9629369|ref|NP_044590.1|vFam_3809| non-structural protein 2 (1B) [Respiratory syncytial virus]
+gi|9629200|ref|NP_056857.1|vFam_3809| non-structural protein 2 [Human respiratory syncytial virus]
+gi|15078907|ref|NP_149658.1|vFam_3809| 195L [Invertebrate iridescent virus 6]

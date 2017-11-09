@@ -1,0 +1,11 @@
+CLUSTER	1086
+NUM_SEQ	3
+LENGTH	199
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	99.5
+FAMILIES	{'Herpesviridae': 1, 'Baculoviridae': 1, 'Phycodnaviridae': 1}
+GENERA	{'Roseolovirus': 1, 'Coccolithovirus': 1, 'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15617514|ref|NP_258311.1|vFam_1086| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|9633093|ref|NP_050202.1|vFam_1086| glycoprotein [Human herpesvirus 6B]
+gi|73852562|ref|YP_293846.1|vFam_1086| hypothetical protein EhV092 [Emiliania huxleyi virus 86]

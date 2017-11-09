@@ -1,0 +1,10 @@
+CLUSTER	5790
+NUM_SEQ	2
+LENGTH	163
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	83.13
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409833|ref|YP_004347253.1|vFam_5790| putative metallopeptidase WLM [Lausannevirus]
+gi|284504299|ref|YP_003407014.1|vFam_5790| metallopeptidase WLM [Marseillevirus]

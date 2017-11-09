@@ -1,0 +1,19 @@
+CLUSTER	739
+NUM_SEQ	11
+LENGTH	608
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	322.24
+FAMILIES	{'Togaviridae': 11}
+GENERA	{'Alphavirus': 11}
+FASTA SEQUENCE TITLES:
+gi|25121765|ref|NP_740638.1|vFam_739| non structural protein P4 [Salmon pancreas disease virus]
+gi|29653355|ref|NP_819013.1|vFam_739| Nonstructural protein nsP4 [Aura virus]
+gi|25121505|ref|NP_740669.1|vFam_739| nsp4 nonstructural protein (putative start); putative [Sindbis virus]
+gi|25140293|ref|NP_740699.1|vFam_739| putative nonstructural protein nsP4 [Venezuelan equine encephalitis virus]
+gi|269954651|ref|YP_003324594.1|vFam_739| nsP4 [Fort Morgan virus]
+gi|226823172|ref|YP_002802304.1|vFam_739| nsP4 [Highlands J virus]
+gi|25121482|ref|NP_740652.1|vFam_739| NS4 [Eastern equine encephalitis virus]
+gi|25121486|ref|NP_740706.1|vFam_739| nonstructural protein P4 [O'nyong-nyong virus]
+gi|25121716|ref|NP_740690.1|vFam_739| nonstructural protein nsP4 [Mayaro virus]
+gi|25121495|ref|NP_740681.1|vFam_739| nsP4 protein [Ross River virus]
+gi|25121504|ref|NP_740668.1|vFam_739| nonstructural protein nsP4 [Semliki forest virus]

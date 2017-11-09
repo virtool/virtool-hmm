@@ -1,0 +1,15 @@
+CLUSTER	1036
+NUM_SEQ	7
+LENGTH	337
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	181.98
+FAMILIES	{'Herpesviridae': 7}
+GENERA	{'None': 1, 'Percavirus': 1, 'Rhadinovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|9628076|ref|NP_042670.1|vFam_1036| G protein-coupled receptor [Equid herpesvirus 2]
+gi|9631265|ref|NP_048046.1|vFam_1036| orf 74; IL-8 receptor family [Ateline herpesvirus 3]
+gi|9626030|ref|NP_040276.1|vFam_1036| G protein-coupled receptor homologue [Saimiriine herpesvirus 2]
+gi|139472805|ref|YP_001129433.1|vFam_1036| ORF74 [Human herpesvirus 8]
+gi|18653888|ref|NP_570822.1|vFam_1036| G protein coupled receptor [Macacine herpesvirus 5]
+gi|9629596|ref|NP_044914.1|vFam_1036| membrane protein G74 [Murid herpesvirus 4]
+gi|321496625|ref|YP_004207910.1|vFam_1036| G-protein coupled receptor [Rodent herpesvirus Peru]

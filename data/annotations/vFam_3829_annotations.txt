@@ -1,0 +1,12 @@
+CLUSTER	3829
+NUM_SEQ	4
+LENGTH	125
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	63.75
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Mastadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|378554440|ref|YP_005271204.1|vFam_3829| unnamed protein product [Bat adenovirus TJM]
+gi|345462120|ref|YP_004782122.1|vFam_3829| unnamed protein product [Bat adenovirus 2]
+gi|56160981|ref|AP_000636.1|vFam_3829| E4 ORFC [Canine adenovirus 2]
+gi|9629124|ref|NP_044210.1|vFam_3829| hypothetical protein CaV1gp28 [Canine adenovirus A]

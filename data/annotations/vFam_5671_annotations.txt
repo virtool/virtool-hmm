@@ -1,0 +1,10 @@
+CLUSTER	5671
+NUM_SEQ	2
+LENGTH	257
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	131.07
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|448260160|ref|YP_007348257.1|vFam_5671| thymidylate synthase [Sulfolobus virus STSV2]
+gi|159341089|ref|YP_001542648.1|vFam_5671| putative thymidylate synthase [Acidianus rod-shaped virus 1]

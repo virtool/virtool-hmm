@@ -1,0 +1,14 @@
+CLUSTER	966
+NUM_SEQ	6
+LENGTH	464
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	236.64
+FAMILIES	{'Herpesviridae': 6}
+GENERA	{'None': 2, 'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|448824918|ref|YP_007417850.1|vFam_966| GP84 [Caviid herpesvirus 2]
+gi|14251071|ref|NP_116433.1|vFam_966| T84 [Tupaiid herpesvirus 1]
+gi|359946518|ref|YP_004936051.1|vFam_966| protein UL84 [Cercopithecine herpesvirus 5]
+gi|356640411|ref|YP_004933853.1|vFam_966| protein UL84 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086562|ref|YP_004940247.1|vFam_966| protein UL84 [Saimiriine herpesvirus 3]
+gi|360040966|ref|YP_004940101.1|vFam_966| protein UL84 [Aotine herpesvirus 1]

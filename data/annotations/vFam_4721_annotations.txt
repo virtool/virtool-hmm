@@ -1,0 +1,10 @@
+CLUSTER	4721
+NUM_SEQ	2
+LENGTH	440
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	224.4
+FAMILIES	{'Hytrosaviridae': 2}
+GENERA	{'Glossinavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|168804131|ref|YP_001687063.1|vFam_4721| hypothetical protein SGHV115 [Glossina pallidipes salivary gland hypertrophy virus]
+gi|168804130|ref|YP_001687062.1|vFam_4721| leucine rich repeat protein-like protein [Glossina pallidipes salivary gland hypertrophy virus]

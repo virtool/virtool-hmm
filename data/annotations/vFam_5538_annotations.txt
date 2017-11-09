@@ -1,0 +1,10 @@
+CLUSTER	5538
+NUM_SEQ	2
+LENGTH	294
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	149.94
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035348|ref|YP_008436977.1|vFam_5538| eukaryotic translation initiation factor 4E [Pandoravirus salinus]
+gi|526119140|ref|YP_008319043.1|vFam_5538| eukaryotic translation initiation factor 4e [Pandoravirus dulcis]

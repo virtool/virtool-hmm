@@ -1,0 +1,21 @@
+CLUSTER	704
+NUM_SEQ	13
+LENGTH	193
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	100.36
+FAMILIES	{'Hytrosaviridae': 1, 'Phycodnaviridae': 3, 'Iridoviridae': 8}
+GENERA	{'Muscavirus': 1, 'Chloriridovirus': 1, 'Chlorovirus': 3, 'Lymphocystivirus': 2, 'Megalocytivirus': 1, 'Iridovirus': 2, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|187903106|ref|YP_001883397.1|vFam_704| thymidine kinase [Musca domestica salivary gland hypertrophy virus]
+gi|19881437|ref|NP_612254.1|vFam_704| putative thymidine kinase [Infectious spleen and kidney necrosis virus]
+gi|51869983|ref|YP_073536.1|vFam_704| deoxynucleoside kinases [Lymphocystis disease virus - isolate China]
+gi|13358462|ref|NP_078725.1|vFam_704| Deoxynucleoside kinase [Lymphocystis disease virus 1]
+gi|388260090|ref|YP_006347618.1|vFam_704| deoxynucleoside kinase [European catfish virus]
+gi|56692704|ref|YP_164162.1|vFam_704| deoxynucleoside kinase [Singapore grouper iridovirus]
+gi|9631984|ref|NP_048773.1|vFam_704| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|155371404|ref|YP_001426938.1|vFam_704| hypothetical protein ATCV1_Z457L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370536|ref|YP_001426070.1|vFam_704| hypothetical protein FR483_N438R [Paramecium bursaria Chlorella virus FR483]
+gi|15078856|ref|NP_149606.1|vFam_704| 143R [Invertebrate iridescent virus 6]
+gi|109287907|ref|YP_654601.1|vFam_704| hypothetical protein MIV029R [Invertebrate iridescent virus 3]
+gi|527333663|ref|YP_008357447.1|vFam_704| Thymidine kinase [Invertebrate iridovirus 22]
+gi|339906085|ref|YP_004732882.1|vFam_704| hypothetical protein WIV_gp099 [Wiseana iridescent virus]

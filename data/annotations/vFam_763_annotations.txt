@@ -1,0 +1,14 @@
+CLUSTER	763
+NUM_SEQ	6
+LENGTH	187
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	95.37
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Betabaculovirus': 3, 'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|529218169|ref|YP_008378332.1|vFam_763| hypothetical protein Hesp116 [Hemileuca sp. nucleopolyhedrovirus]
+gi|164519256|ref|YP_001649043.1|vFam_763| hypothetical protein HaGV_gp061 [Helicoverpa armigera granulovirus]
+gi|14602346|ref|NP_148893.1|vFam_763| ORF109 [Cydia pomonella granulovirus]
+gi|209170949|ref|YP_002268095.1|vFam_763| agip65 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|209401196|ref|YP_002274065.1|vFam_763| hypothetical protein HaSNPVNNg1_gp142 [Helicoverpa armigera NPV NNg1]
+gi|33622259|ref|NP_891906.1|vFam_763| hypothetical protein [Cryptophlebia leucotreta granulovirus]

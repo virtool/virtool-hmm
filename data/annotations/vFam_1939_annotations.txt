@@ -1,0 +1,11 @@
+CLUSTER	1939
+NUM_SEQ	3
+LENGTH	177
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	92.04
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'None': 2, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|441432519|ref|YP_007354561.1|vFam_1939| Numod4 NHN endonuclease [Acanthamoeba polyphaga moumouvirus]
+gi|448825671|ref|YP_007418602.1|vFam_1939| putative HNH endonuclease [Megavirus lba]
+gi|311977955|ref|YP_003987075.1|vFam_1939| uncharacterized HNH endonuclease [Acanthamoeba polyphaga mimivirus]

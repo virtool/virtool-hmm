@@ -1,0 +1,19 @@
+CLUSTER	900
+NUM_SEQ	11
+LENGTH	137
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	69.87
+FAMILIES	{'Herpesviridae': 11}
+GENERA	{'None': 1, 'Rhadinovirus': 6, 'Lymphocryptovirus': 3, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631243|ref|NP_048024.1|vFam_900| orf 52 [Ateline herpesvirus 3]
+gi|9626008|ref|NP_040254.1|vFam_900| unnamed protein product [Saimiriine herpesvirus 2]
+gi|9628055|ref|NP_042649.1|vFam_900| ORF 52 [Equid herpesvirus 2]
+gi|24943138|ref|NP_733900.1|vFam_900| ORF46 [callitrichine herpesvirus 3]
+gi|82503222|ref|YP_401666.1|vFam_900| putative BLRF2 protein [Human herpesvirus 4]
+gi|51518037|ref|YP_067962.1|vFam_900| BLRF2 [Macacine herpesvirus 4]
+gi|13095629|ref|NP_076544.1|vFam_900| unknown [Bovine herpesvirus 4]
+gi|139472843|ref|YP_001129405.1|vFam_900| ORF52 [Human herpesvirus 8]
+gi|18653858|ref|NP_570792.1|vFam_900| hypothetical protein MmrVgp53 [Macacine herpesvirus 5]
+gi|321496603|ref|YP_004207888.1|vFam_900| hypothetical protein RHVP.52 [Rodent herpesvirus Peru]
+gi|9629617|ref|NP_044889.1|vFam_900| virion protein G52 [Murid herpesvirus 4]

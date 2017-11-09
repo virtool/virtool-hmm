@@ -1,0 +1,12 @@
+CLUSTER	2410
+NUM_SEQ	4
+LENGTH	275
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	140.25
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036387|ref|YP_008438024.1|vFam_2410| collagen triple helix repeat motif-containing [Pandoravirus salinus]
+gi|526120086|ref|YP_008319989.1|vFam_2410| hypothetical protein [Pandoravirus dulcis]
+gi|531035122|ref|YP_008436747.1|vFam_2410| collagen triple helix repeat motif-containing [Pandoravirus salinus]
+gi|526118941|ref|YP_008318844.1|vFam_2410| collagen triple helix repeat motif-containing [Pandoravirus dulcis]

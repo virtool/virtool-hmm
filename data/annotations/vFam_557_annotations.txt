@@ -1,0 +1,16 @@
+CLUSTER	557
+NUM_SEQ	8
+LENGTH	301
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	153.51
+FAMILIES	{'Reoviridae': 7}
+GENERA	{'Orbivirus': 7}
+FASTA SEQUENCE TITLES:
+gi|312164885|ref|YP_003896066.1|vFam_557| VP6(Hel) [Great Island virus]
+gi|83721688|ref|YP_443933.1|vFam_557| VP6 [Yunnan orbivirus]
+gi|555928264|ref|YP_008719908.1|vFam_557| VP6 [Mobuck virus]
+gi|85719282|ref|YP_460043.1|vFam_557| VP6 [Peruvian horse sickness virus]
+gi|550455593|ref|YP_008658421.1|vFam_557| helicase [Wallal virus]
+gi|556333845|ref|YP_008719929.1|vFam_557| helicase [Changuinola virus]
+gi|261182159|ref|YP_003240116.1|vFam_557| VP6 protein [Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey)]
+gi|50253380|ref|YP_052953.1|vFam_557| VP6 protein [Bluetongue virus]

@@ -1,0 +1,11 @@
+CLUSTER	3645
+NUM_SEQ	3
+LENGTH	151
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	77.01
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9964494|ref|NP_064962.1|vFam_3645| putative non-structural protein [Amsacta moorei entomopoxvirus 'L']
+gi|506498797|ref|YP_008004591.1|vFam_3645| unknown similar to AMEV180 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498493|ref|YP_008004289.1|vFam_3645| unknown similar to AMEV180 [Choristoneura biennis entomopoxvirus 'L']

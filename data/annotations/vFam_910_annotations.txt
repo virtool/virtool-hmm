@@ -1,0 +1,18 @@
+CLUSTER	910
+NUM_SEQ	10
+LENGTH	355
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	184.6
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|438000324|ref|YP_007250429.1|vFam_910| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643560|ref|YP_002884250.1|vFam_910| Ac18-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964544|ref|YP_950740.1|vFam_910| Mv-ORF10 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|9629955|ref|NP_046173.1|vFam_910| hypothetical protein OpmnVgp017 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|86355654|ref|YP_473322.1|vFam_910| ORF134 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|529153610|ref|YP_008378635.1|vFam_910| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|529153448|ref|YP_008378488.1|vFam_910| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|96979887|ref|YP_611096.1|vFam_910| hypothetical protein APNV_p130 [Antheraea pernyi nucleopolyhedrovirus]
+gi|15320672|ref|NP_203184.1|vFam_910| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326084|ref|YP_803409.1|vFam_910| hypothetical protein AGNV_gp015 [Anticarsia gemmatalis nucleopolyhedrovirus]

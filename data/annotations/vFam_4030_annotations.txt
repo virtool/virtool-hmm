@@ -1,0 +1,11 @@
+CLUSTER	4030
+NUM_SEQ	3
+LENGTH	117
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	59.67
+FAMILIES	{'Arteriviridae': 3}
+GENERA	{'Arterivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|10181062|ref|NP_065661.1|vFam_4030| hypothetical protein EAVgp8 [Equine arteritis virus]
+gi|9627979|ref|NP_042579.1|vFam_4030| nucleocapsid protein [Lactate dehydrogenase-elevating virus]
+gi|9630813|ref|NP_047413.1|vFam_4030| nucleocapsid protein N [Porcine reproductive and respiratory syndrome virus]

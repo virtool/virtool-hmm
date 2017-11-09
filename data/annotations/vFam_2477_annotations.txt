@@ -1,0 +1,13 @@
+CLUSTER	2477
+NUM_SEQ	5
+LENGTH	226
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	117.52
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631486|ref|NP_048194.1|vFam_2477| ORF MSV123 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|506497979|ref|YP_008003778.1|vFam_2477| unknown similar to AMEV235 [Mythimna separata entomopoxvirus 'L']
+gi|506498240|ref|YP_008004037.1|vFam_2477| unknown similar to AMEV235 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498849|ref|YP_008004643.1|vFam_2477| unknown similar to AMEV235 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964549|ref|NP_065017.1|vFam_2477| hypothetical protein AMV235 [Amsacta moorei entomopoxvirus 'L']

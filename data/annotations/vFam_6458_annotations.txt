@@ -1,0 +1,10 @@
+CLUSTER	6458
+NUM_SEQ	2
+LENGTH	140
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	72.8
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|45655891|ref|YP_003750.1|vFam_6458| hypothetical protein AFV1_ORF140 [Acidianus filamentous virus 1]
+gi|45655890|ref|YP_003749.1|vFam_6458| hypothetical protein AFV1_ORF132 [Acidianus filamentous virus 1]

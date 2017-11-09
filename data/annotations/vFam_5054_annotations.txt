@@ -1,0 +1,10 @@
+CLUSTER	5054
+NUM_SEQ	2
+LENGTH	110
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	56.1
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Lymphocystivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|51869980|ref|YP_073533.1|vFam_5054| hypothetical protein LDVICp024 [Lymphocystis disease virus - isolate China]
+gi|13358497|ref|NP_078705.1|vFam_5054| hypothetical protein LCDV1gp061 [Lymphocystis disease virus 1]

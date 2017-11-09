@@ -1,0 +1,38 @@
+CLUSTER	150
+NUM_SEQ	30
+LENGTH	201
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	104.52
+FAMILIES	{'Baculoviridae': 24}
+GENERA	{'Alphabaculovirus': 24}
+FASTA SEQUENCE TITLES:
+gi|15617487|ref|NP_258283.1|vFam_150| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|114679862|ref|YP_758312.1|vFam_150| ORF15 [Leucania separata nucleopolyhedrovirus]
+gi|209401067|ref|YP_002273936.1|vFam_150| hypothetical protein HaSNPVNNg1_gp013 [Helicoverpa armigera NPV NNg1]
+gi|29567105|ref|NP_818667.1|vFam_150| hypothetical protein AhnVgp020 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|438000444|ref|YP_007250549.1|vFam_150| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964648|ref|YP_950844.1|vFam_150| Mv-ORF114 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|9630946|ref|NP_047543.1|vFam_150| AcMNPV orf146 [Bombyx mori nucleopolyhedrovirus]
+gi|15320785|ref|NP_203297.1|vFam_150| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|9630082|ref|NP_046300.1|vFam_150| hypothetical protein OpmnVgp144 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|86355531|ref|YP_473199.1|vFam_150| ORF11 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|529153487|ref|YP_008378512.1|vFam_150| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|529153324|ref|YP_008378364.1|vFam_150| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|96979780|ref|YP_610981.1|vFam_150| hypothetical protein APNV_p012 [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326210|ref|YP_803536.1|vFam_150| hypothetical protein AGNV_gp142 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651410|ref|NP_932748.1|vFam_150| hypothetical protein CFDNVgORF139 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|113195411|ref|YP_717546.1|vFam_150| ac146-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|292397687|ref|YP_003517753.1|vFam_150| ORF13 [Lymantria xylina MNPV]
+gi|9630982|ref|NP_047652.1|vFam_150| LdOrf-16 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|165969018|ref|YP_001650918.1|vFam_150| early 23 kDa protein [Orgyia leucostigma NPV]
+gi|74229700|ref|YP_308904.1|vFam_150| orf15 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304151|ref|YP_249619.1|vFam_150| ORF-15 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|125860259|ref|YP_001036429.1|vFam_150| hypothetical protein SFMNPV_gp137 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|9634354|ref|NP_037893.1|vFam_150| ORF133 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|90592864|ref|YP_529817.1|vFam_150| ORF-147 [Agrotis segetum nucleopolyhedrovirus]
+gi|22549563|ref|NP_689336.1|vFam_150| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209171037|ref|YP_002268184.1|vFam_150| agip154 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|118197488|ref|YP_874200.1|vFam_150| early 23kD protein [Ectropis obliqua nucleopolyhedrovirus]
+gi|228861599|ref|YP_002854619.1|vFam_150| EP23 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|529218067|ref|YP_008378230.1|vFam_150| ac146 [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502224|ref|YP_006607882.1|vFam_150| early 23 kDa protein [Apocheima cinerarium nucleopolyhedrovirus]

@@ -1,0 +1,11 @@
+CLUSTER	4330
+NUM_SEQ	3
+LENGTH	291
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	148.41
+FAMILIES	{'Rhabdoviridae': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|116536723|ref|YP_802938.1|vFam_4330| P protein [Siniperca chuatsi rhabdovirus]
+gi|552558701|ref|YP_008686603.1|vFam_4330| phosphoprotein [Eel virus European X]
+gi|471236972|ref|YP_007641364.1|vFam_4330| phosphoprotein [Perch rhabdovirus]

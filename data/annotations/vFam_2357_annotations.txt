@@ -1,0 +1,11 @@
+CLUSTER	2357
+NUM_SEQ	3
+LENGTH	306
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	156.06
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|448260162|ref|YP_007348259.1|vFam_2357| hypothetical protein STSV2_15 [Sulfolobus virus STSV2]
+gi|22122286|ref|NP_666547.1|vFam_2357| hypothetical protein SIRV2gp13 [Sulfolobus islandicus rod-shaped virus 2]
+gi|22122233|ref|NP_666594.1|vFam_2357| hypothetical protein SIRV1gp06 [Sulfolobus islandicus rod-shaped virus 1]

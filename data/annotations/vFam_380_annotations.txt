@@ -1,0 +1,20 @@
+CLUSTER	380
+NUM_SEQ	12
+LENGTH	191
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	99.32
+FAMILIES	{'Poxviridae': 12}
+GENERA	{'None': 1, 'Leporipoxvirus': 2, 'Crocodylidpoxvirus': 1, 'Capripoxvirus': 1, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1, 'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|41057457|ref|NP_957930.1|vFam_380| ORF021 RNA polymerase subunit RPO30 [Bovine papular stomatitis virus]
+gi|289183785|ref|YP_003457326.1|vFam_380| RNA-polymerase subunit RPO30 [Pseudocowpox virus]
+gi|377829946|ref|YP_005296240.1|vFam_380| unnamed protein product [Cotia virus SPAn232]
+gi|157939657|ref|YP_001497029.1|vFam_380| RNA polymerase subunit rpo30 [Tanapox virus]
+gi|38229198|ref|NP_938291.1|vFam_380| 35L [Yaba monkey tumor virus]
+gi|148912912|ref|YP_001293226.1|vFam_380| hypothetical protein GTPV_gp031 [Goatpox virus Pellor]
+gi|18640119|ref|NP_570193.1|vFam_380| SPV033 RNA polymerase subunit RPO30 [Swinepox virus]
+gi|9633839|ref|NP_051919.1|vFam_380| gp030L [Rabbit fibroma virus]
+gi|9633666|ref|NP_051744.1|vFam_380| m30L [Myxoma virus]
+gi|115531721|ref|YP_784246.1|vFam_380| RNA polymerase subunit RP030 [Nile crocodilepox virus]
+gi|40556065|ref|NP_955150.1|vFam_380| CNPV127 RNA polymerase subunit RPO30 [Canarypox virus]
+gi|9634770|ref|NP_039063.1|vFam_380| RNA polymerase subunit, RPO30 [Fowlpox virus]

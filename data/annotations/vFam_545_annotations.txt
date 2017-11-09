@@ -1,0 +1,22 @@
+CLUSTER	545
+NUM_SEQ	14
+LENGTH	146
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	77.38
+FAMILIES	{'Poxviridae': 14}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531771|ref|YP_784297.1|vFam_545| hypothetical protein CRV107 [Nile crocodilepox virus]
+gi|40556128|ref|NP_955213.1|vFam_545| CNPV190 conserved hypothetical protein [Canarypox virus]
+gi|9634814|ref|NP_039107.1|vFam_545| Putative 17 kDa protein [Fowlpox virus]
+gi|113195284|ref|YP_717414.1|vFam_545| hypothetical protein TATV_DAH68_107 [Taterapox virus]
+gi|345107273|ref|YP_004821438.1|vFam_545| hypothetical protein YKV085 [Yoka poxvirus]
+gi|157939701|ref|YP_001497073.1|vFam_545| hypothetical protein TANV_78R [Tanapox virus]
+gi|38229240|ref|NP_938333.1|vFam_545| 78R [Yaba monkey tumor virus]
+gi|377829985|ref|YP_005296282.1|vFam_545| unnamed protein product [Cotia virus SPAn232]
+gi|9633884|ref|NP_051964.1|vFam_545| gp075R [Rabbit fibroma virus]
+gi|211956358|ref|YP_002302427.1|vFam_545| hypothetical protein DpV84gp087 [Deerpox virus W-1170-84]
+gi|148912955|ref|YP_001293269.1|vFam_545| hypothetical protein GTPV_gp074 [Goatpox virus Pellor]
+gi|18640161|ref|NP_570235.1|vFam_545| SPV075 hypothetical protein [Swinepox virus]
+gi|571797997|ref|YP_008658496.1|vFam_545| conserved hypothetical pox protein [Squirrelpox virus]
+gi|9629020|ref|NP_044039.1|vFam_545| MC088R [Molluscum contagiosum virus subtype 1]

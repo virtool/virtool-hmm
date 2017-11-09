@@ -1,0 +1,10 @@
+CLUSTER	5571
+NUM_SEQ	2
+LENGTH	243
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	123.93
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|197322374|ref|YP_002154647.1|vFam_5571| hypothetical protein FeldSpV_gp025 [Feldmannia species virus]
+gi|13242569|ref|NP_077583.1|vFam_5571| EsV-1-98 [Ectocarpus siliculosus virus 1]

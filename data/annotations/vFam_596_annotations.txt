@@ -1,0 +1,21 @@
+CLUSTER	596
+NUM_SEQ	13
+LENGTH	399
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	207.48
+FAMILIES	{'Herpesviridae': 13}
+GENERA	{'Percavirus': 1, 'Macavirus': 2, 'None': 1, 'Lymphocryptovirus': 3, 'Rhadinovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|321496610|ref|YP_004207895.1|vFam_596| DNA replication protein [Rodent herpesvirus Peru]
+gi|9629621|ref|NP_044897.1|vFam_596| DNA polymerase processivity subunit [Murid herpesvirus 4]
+gi|24943145|ref|NP_733907.1|vFam_596| ORF53 [callitrichine herpesvirus 3]
+gi|82503215|ref|YP_401657.1|vFam_596| early antigen protein D [Human herpesvirus 4]
+gi|51518030|ref|YP_067955.1|vFam_596| BMRF1 [Macacine herpesvirus 4]
+gi|9628062|ref|NP_042656.1|vFam_596| DNA polymerase processivity subunit [Equid herpesvirus 2]
+gi|83642895|ref|YP_438183.1|vFam_596| ORF59 [Ovine herpesvirus 2]
+gi|10140981|ref|NP_065558.1|vFam_596| processivity factor [Alcelaphine herpesvirus 1]
+gi|9631249|ref|NP_048030.1|vFam_596| orf 59 [Ateline herpesvirus 3]
+gi|9626015|ref|NP_040261.1|vFam_596| unnamed protein product [Saimiriine herpesvirus 2]
+gi|13095636|ref|NP_076551.1|vFam_596| DNA replication protein [Bovine herpesvirus 4]
+gi|139472852|ref|YP_001129416.1|vFam_596| ORF59 [Human herpesvirus 8]
+gi|18653873|ref|NP_570807.1|vFam_596| DNA replication protein [Macacine herpesvirus 5]

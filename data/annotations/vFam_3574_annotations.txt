@@ -1,0 +1,10 @@
+CLUSTER	3574
+NUM_SEQ	2
+LENGTH	176
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	91.52
+FAMILIES	{'Secoviridae': 2}
+GENERA	{'Cheravirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52137000|ref|YP_081447.1|vFam_3574| coat protein VP20 [Cherry rasp leaf virus]
+gi|25014082|ref|NP_736604.1|vFam_3574| capsid protein Vp20 [Apple latent spherical virus]

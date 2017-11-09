@@ -1,0 +1,23 @@
+CLUSTER	211
+NUM_SEQ	15
+LENGTH	253
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	129.03
+FAMILIES	{'Baculoviridae': 13}
+GENERA	{'Alphabaculovirus': 13}
+FASTA SEQUENCE TITLES:
+gi|15617548|ref|NP_258348.1|vFam_211| zinc finger protein CG30 [Spodoptera litura nucleopolyhedrovirus]
+gi|438000390|ref|YP_007250495.1|vFam_211| cg30 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643624|ref|YP_002884314.1|vFam_211| CG30 [Bombyx mandarina nucleopolyhedrovirus]
+gi|96979831|ref|YP_611037.1|vFam_211| cg30 [Antheraea pernyi nucleopolyhedrovirus]
+gi|15320733|ref|NP_203245.1|vFam_211| CG30 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326153|ref|YP_803479.1|vFam_211| cg30 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|86355586|ref|YP_473254.1|vFam_211| CG30 [Hyphantria cunea nucleopolyhedrovirus]
+gi|529153379|ref|YP_008378419.1|vFam_211| CG30 [Choristoneura rosaceana alphabaculovirus]
+gi|9630027|ref|NP_046245.1|vFam_211| cg30 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031265|ref|YP_008992161.1|vFam_211| cg30 [Choristoneura murinana alphabaculovirus]
+gi|30387312|ref|NP_848391.1|vFam_211| cg30 [Choristoneura fumiferana multiple nucleopolyhedrovirus]
+gi|118197548|ref|YP_874260.1|vFam_211| Cg30 [Ectropis obliqua nucleopolyhedrovirus]
+gi|402502166|ref|YP_006607824.1|vFam_211| Cg30 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|209401133|ref|YP_002274002.1|vFam_211| hypothetical protein HaSNPVNNg1_gp079 [Helicoverpa armigera NPV NNg1]
+gi|165969086|ref|YP_001650986.1|vFam_211| zinc finger protein [Orgyia leucostigma NPV]

@@ -1,0 +1,11 @@
+CLUSTER	2334
+NUM_SEQ	3
+LENGTH	738
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	383.76
+FAMILIES	{'Reoviridae': 3}
+GENERA	{'Phytoreovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|134302824|ref|YP_001111374.1|vFam_2334| Nonstructural protein [Rice gall dwarf virus]
+gi|226423328|ref|YP_002790887.1|vFam_2334| zinc-finger protein [Homalodisca vitripennis reovirus]
+gi|20428546|ref|NP_620531.1|vFam_2334| zinc-finger [Rice dwarf virus]

@@ -1,0 +1,10 @@
+CLUSTER	6117
+NUM_SEQ	2
+LENGTH	70
+RELATIVE_ENTROPY_PER_POSITION	0.74
+TOTAL_RELATIVE_ENTROPY	51.8
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|22122300|ref|NP_666561.1|vFam_6117| hypothetical protein SIRV2gp27 [Sulfolobus islandicus rod-shaped virus 2]
+gi|22122247|ref|NP_666608.1|vFam_6117| hypothetical protein SIRV1gp20 [Sulfolobus islandicus rod-shaped virus 1]

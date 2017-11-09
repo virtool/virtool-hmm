@@ -1,0 +1,11 @@
+CLUSTER	5123
+NUM_SEQ	3
+LENGTH	65
+RELATIVE_ENTROPY_PER_POSITION	0.81
+TOTAL_RELATIVE_ENTROPY	52.65
+FAMILIES	{'Paramyxoviridae': 3}
+GENERA	{'Pneumovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9631273|ref|NP_048053.1|vFam_5123| SH [Bovine respiratory syncytial virus]
+gi|9629373|ref|NP_044594.1|vFam_5123| Small hydrophobic protein (SH) [Respiratory syncytial virus]
+gi|9629204|ref|NP_056861.1|vFam_5123| SH [Human respiratory syncytial virus]

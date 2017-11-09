@@ -1,0 +1,10 @@
+CLUSTER	6691
+NUM_SEQ	2
+LENGTH	67
+RELATIVE_ENTROPY_PER_POSITION	0.77
+TOTAL_RELATIVE_ENTROPY	51.59
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Lymphocystivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|51870168|ref|YP_073721.1|vFam_6691| hypothetical protein LDVICp217 [Lymphocystis disease virus - isolate China]
+gi|13358523|ref|NP_078752.1|vFam_6691| hypothetical protein LCDV1gp095 [Lymphocystis disease virus 1]

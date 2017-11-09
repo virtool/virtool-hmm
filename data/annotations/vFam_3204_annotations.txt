@@ -1,0 +1,11 @@
+CLUSTER	3204
+NUM_SEQ	3
+LENGTH	178
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	92.56
+FAMILIES	{'Rhabdoviridae': 3}
+GENERA	{'Cytorhabdovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|400354808|ref|YP_006576504.1|vFam_3204| matrix protein [Persimmon virus A]
+gi|212498335|ref|YP_002308374.1|vFam_3204| M protein [Lettuce yellow mottle virus]
+gi|83659775|ref|YP_425090.1|vFam_3204| matrix protein [Lettuce necrotic yellows virus]

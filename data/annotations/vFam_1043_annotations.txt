@@ -1,0 +1,17 @@
+CLUSTER	1043
+NUM_SEQ	9
+LENGTH	49
+RELATIVE_ENTROPY_PER_POSITION	1.04
+TOTAL_RELATIVE_ENTROPY	50.96
+FAMILIES	{'Iridoviridae': 9}
+GENERA	{'Lymphocystivirus': 9}
+FASTA SEQUENCE TITLES:
+gi|51870004|ref|YP_073557.1|vFam_1043| hypothetical protein LDVICp050 [Lymphocystis disease virus - isolate China]
+gi|51870014|ref|YP_073567.1|vFam_1043| hypothetical protein LDVICp060 [Lymphocystis disease virus - isolate China]
+gi|51870049|ref|YP_073602.1|vFam_1043| hypothetical protein LDVICp096 [Lymphocystis disease virus - isolate China]
+gi|51870146|ref|YP_073699.1|vFam_1043| hypothetical protein LDVICp195 [Lymphocystis disease virus - isolate China]
+gi|51870062|ref|YP_073615.1|vFam_1043| hypothetical protein LDVICp109 [Lymphocystis disease virus - isolate China]
+gi|51870061|ref|YP_073614.1|vFam_1043| hypothetical protein LDVICp108 [Lymphocystis disease virus - isolate China]
+gi|51870127|ref|YP_073680.1|vFam_1043| hypothetical protein LDVICp175 [Lymphocystis disease virus - isolate China]
+gi|51870180|ref|YP_073733.1|vFam_1043| hypothetical protein LDVICp229 [Lymphocystis disease virus - isolate China]
+gi|51870076|ref|YP_073629.1|vFam_1043| hypothetical protein LDVICp123 [Lymphocystis disease virus - isolate China]

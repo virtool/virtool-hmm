@@ -1,0 +1,24 @@
+CLUSTER	189
+NUM_SEQ	16
+LENGTH	145
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	73.95
+FAMILIES	{'None': 2, 'Marseillevirus family': 2, 'Phycodnaviridae': 3, 'Iridoviridae': 6, 'Mimiviridae': 2}
+GENERA	{'None': 5, 'Chloriridovirus': 1, 'Mimivirus': 1, 'Coccolithovirus': 1, 'Phaeovirus': 1, 'Ranavirus': 1, 'Lymphocystivirus': 2, 'Prymnesiovirus': 1, 'Megalocytivirus': 1, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852597|ref|YP_293881.1|vFam_189| ERV1/ALR family protein [Emiliania huxleyi virus 86]
+gi|51870094|ref|YP_073647.1|vFam_189| Ervl/Alr family protein [Lymphocystis disease virus - isolate China]
+gi|13358481|ref|NP_078699.1|vFam_189| Thiol oxidoreductase [Lymphocystis disease virus 1]
+gi|19881448|ref|NP_612265.1|vFam_189| ORF043L [Infectious spleen and kidney necrosis virus]
+gi|388260087|ref|YP_006347615.1|vFam_189| thiol oxidoreductase [European catfish virus]
+gi|109287974|ref|YP_654668.1|vFam_189| hypothetical protein MIV096R [Invertebrate iridescent virus 3]
+gi|527333530|ref|YP_008357314.1|vFam_189| Ervl/Alr family protein [Invertebrate iridovirus 22]
+gi|339906121|ref|YP_004732918.1|vFam_189| hypothetical protein WIV_gp135 [Wiseana iridescent virus]
+gi|197322406|ref|YP_002154679.1|vFam_189| putative thiol oxidoreductase [Feldmannia species virus]
+gi|327409868|ref|YP_004347288.1|vFam_189| disulfide oxidoreductase [Lausannevirus]
+gi|284504329|ref|YP_003407044.1|vFam_189| disulfide oxidoreductase [Marseillevirus]
+gi|508182041|ref|YP_008052560.1|vFam_189| FAD-linked sulfhydryloxidase [Phaeocystis globosa virus]
+gi|310831434|ref|YP_003970077.1|vFam_189| putative Erv-family thiol oxidoreductase [Cafeteria roenbergensis virus BV-PW1]
+gi|311977753|ref|YP_003986873.1|vFam_189| probable FAD-linked sulfhydryl oxidase [Acanthamoeba polyphaga mimivirus]
+gi|448825499|ref|YP_007418430.1|vFam_189| putative FAD-linked sulfhydryl oxidase [Megavirus lba]
+gi|441432384|ref|YP_007354426.1|vFam_189| Erv1 / Alr family protein [Acanthamoeba polyphaga moumouvirus]

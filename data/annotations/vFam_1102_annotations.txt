@@ -1,0 +1,11 @@
+CLUSTER	1102
+NUM_SEQ	3
+LENGTH	481
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	245.31
+FAMILIES	{'Adenoviridae': 2}
+GENERA	{'Aviadenovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|388570698|ref|YP_006383572.1|vFam_1102| fiber-2 [Goose adenovirus 4]
+gi|555928203|ref|YP_008719835.1|vFam_1102| fiber [Turkey adenovirus 4]
+gi|327409496|ref|YP_004346940.1|vFam_1102| fiber-2 [Fowl adenovirus C]

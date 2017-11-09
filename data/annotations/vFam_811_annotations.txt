@@ -1,0 +1,19 @@
+CLUSTER	811
+NUM_SEQ	11
+LENGTH	558
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	301.32
+FAMILIES	{'Reoviridae': 10}
+GENERA	{'Orbivirus': 10}
+FASTA SEQUENCE TITLES:
+gi|50253416|ref|YP_052947.1|vFam_811| NS1 [St Croix River virus]
+gi|50261339|ref|YP_052938.1|vFam_811| non structural protein NS1 [Palyam virus]
+gi|50253374|ref|YP_052965.1|vFam_811| nonstructural protein NS1 [African horse sickness virus]
+gi|556195179|ref|YP_008719922.1|vFam_811| hydrophobic tubular protein NS1 [Changuinola virus]
+gi|550455574|ref|YP_008658419.1|vFam_811| tubule [Wallal virus]
+gi|261181768|ref|YP_003240112.1|vFam_811| NS1 protein [Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey)]
+gi|50253396|ref|YP_052970.1|vFam_811| hypothetical protein BTVs5gp1 [Bluetongue virus]
+gi|312164875|ref|YP_003896061.1|vFam_811| NS1 [Great Island virus]
+gi|83721680|ref|YP_443929.1|vFam_811| NS1 [Yunnan orbivirus]
+gi|555928278|ref|YP_008719915.1|vFam_811| Nsp1 [Mobuck virus]
+gi|85719286|ref|YP_460045.1|vFam_811| NS1 [Peruvian horse sickness virus]

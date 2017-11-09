@@ -1,0 +1,11 @@
+CLUSTER	3115
+NUM_SEQ	3
+LENGTH	650
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	338.0
+FAMILIES	{'Reoviridae': 3}
+GENERA	{'Aquareovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|81157821|ref|YP_398639.1|vFam_3115| putative outer capsid VP4 [Aquareovirus A]
+gi|182682787|ref|YP_001837099.1|vFam_3115| VP4 [American grass carp reovirus]
+gi|38147311|ref|NP_938065.1|vFam_3115| putative outer capsid VP4 [Aquareovirus C]

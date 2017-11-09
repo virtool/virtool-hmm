@@ -1,0 +1,14 @@
+CLUSTER	217
+NUM_SEQ	6
+LENGTH	412
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	206.0
+FAMILIES	{'Baculoviridae': 4, 'Ascoviridae': 1}
+GENERA	{'Betabaculovirus': 4, 'Ascovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115298516|ref|YP_762369.1|vFam_217| 44.5 kDa Metalloprotease/Matrixin [Spodoptera frugiperda ascovirus 1a]
+gi|11068038|ref|NP_068254.1|vFam_217| PxORF35 peptide [Plutella xylostella granulovirus]
+gi|32698576|ref|NP_872491.1|vFam_217| mp-nase [Adoxophyes orana granulovirus]
+gi|288804676|ref|YP_003429361.1|vFam_217| metalloproteinase [Pieris rapae granulovirus]
+gi|556549060|ref|YP_008719974.1|vFam_217| mp-nase [Clostera anastomosis granulovirus]
+gi|334265704|ref|YP_004376233.1|vFam_217| metalloproteinase [Clostera anachoreta granulovirus]

@@ -1,0 +1,12 @@
+CLUSTER	3877
+NUM_SEQ	4
+LENGTH	108
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	55.08
+FAMILIES	{'Flaviviridae': 4}
+GENERA	{'Flavivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|27697394|ref|NP_775677.1|vFam_3877| anchored core protein C [Apoi virus]
+gi|27698843|ref|NP_775675.1|vFam_3877| anchored capsid protein [Modoc virus]
+gi|27735360|ref|NP_776069.1|vFam_3877| anchored core protein C [Rio Bravo virus]
+gi|27669988|ref|NP_775643.1|vFam_3877| anchored core protein C [Montana myotis leukoencephalitis virus]

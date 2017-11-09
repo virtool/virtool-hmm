@@ -1,0 +1,31 @@
+CLUSTER	188
+NUM_SEQ	23
+LENGTH	191
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	101.23
+FAMILIES	{'Tymoviridae': 22}
+GENERA	{'None': 1, 'Tymovirus': 17, 'Marafivirus': 2, 'Maculavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|62327641|ref|YP_224294.1|vFam_188| capsid protein [Citrus sudden death-associated virus]
+gi|25013992|ref|NP_733999.1|vFam_188| capsid protein [Poinsettia mosaic virus]
+gi|9631138|ref|NP_047921.1|vFam_188| virion protein [Erysimum latent virus]
+gi|212525936|ref|YP_002308579.1|vFam_188| coat protein [Anagyris vein yellowing virus]
+gi|9627013|ref|NP_041258.1|vFam_188| coat protein [Ononis yellow mosaic virus]
+gi|212498988|ref|YP_002308446.1|vFam_188| coat protein [Plantago mottle virus]
+gi|194473851|ref|YP_002048674.1|vFam_188| coat protein CP [Diascia yellow mottle virus]
+gi|212498836|ref|YP_002308440.1|vFam_188| coat protein [Scrophularia mottle virus]
+gi|82524284|ref|YP_406376.1|vFam_188| coat protein [Dulcamara mottle virus]
+gi|11067740|ref|NP_067738.1|vFam_188| coat protein [Chayote mosaic virus]
+gi|20177482|ref|NP_619757.1|vFam_188| coat protein [Physalis mottle virus]
+gi|459642395|ref|YP_007517184.1|vFam_188| coat protein [Andean potato mild mosaic virus]
+gi|296006065|ref|YP_003620402.1|vFam_188| coat protein [Chiltepin yellow mosaic virus]
+gi|9626697|ref|NP_040969.1|vFam_188| coat protein [Eggplant mosaic virus]
+gi|526118411|ref|YP_008318043.1|vFam_188| putative coat protein [Tomato blistering mosaic virus]
+gi|459642391|ref|YP_007517181.1|vFam_188| coat protein [Andean potato latent virus]
+gi|21686953|ref|NP_663298.1|vFam_188| coat protein [Turnip yellow mosaic virus]
+gi|339276126|ref|YP_004464925.1|vFam_188| coat protein [Asclepias asymptomatic virus]
+gi|148724440|ref|YP_001285473.1|vFam_188| coat protein [Okra mosaic virus]
+gi|9629159|ref|NP_044329.1|vFam_188| coat protein [Kennedya yellow mosaic virus]
+gi|226201771|ref|YP_002775441.1|vFam_188| capsid protein [Grapevine Syrah virus 1]
+gi|326537272|ref|YP_004300303.1|vFam_188| coat protein [Fig fleck-associated virus]
+gi|18138527|ref|NP_542613.1|vFam_188| coat protein [Grapevine fleck virus]

@@ -1,0 +1,19 @@
+CLUSTER	800
+NUM_SEQ	11
+LENGTH	68
+RELATIVE_ENTROPY_PER_POSITION	0.76
+TOTAL_RELATIVE_ENTROPY	51.68
+FAMILIES	{'Tombusviridae': 11}
+GENERA	{'Carmovirus': 11}
+FASTA SEQUENCE TITLES:
+gi|529154249|ref|YP_008378653.1|vFam_800| P8 [Calibrachoa mottle virus]
+gi|9634676|ref|NP_038456.1|vFam_800| movement protein (p8) [Japanese iris necrotic ring virus]
+gi|20564143|ref|NP_620722.1|vFam_800| P8 protein [Turnip crinkle virus]
+gi|9627422|ref|NP_041885.1|vFam_800| p8 protein [Cardamine chlorotic fleck virus]
+gi|39163634|ref|NP_945125.1|vFam_800| p7 protein [Pelargonium flower break virus]
+gi|320202723|ref|YP_004191791.1|vFam_800| p7 [Honeysuckle ringspot virus]
+gi|85718596|ref|YP_459962.1|vFam_800| p7 [Angelonia flower break virus]
+gi|46517825|ref|YP_009032.1|vFam_800| movement protein [Carnation mottle virus]
+gi|9629193|ref|NP_044386.1|vFam_800| SCVP6 [Saguaro cactus virus]
+gi|126010921|ref|YP_001039885.1|vFam_800| MP1 [Nootka lupine vein clearing virus]
+gi|20153391|ref|NP_619674.1|vFam_800| putative movement protein P8 [Hibiscus chlorotic ringspot virus]

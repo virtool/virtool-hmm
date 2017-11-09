@@ -1,0 +1,13 @@
+CLUSTER	2502
+NUM_SEQ	5
+LENGTH	196
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	101.92
+FAMILIES	{'Marseillevirus family': 5}
+GENERA	{'None': 5}
+FASTA SEQUENCE TITLES:
+gi|327409901|ref|YP_004347321.1|vFam_2502| putative serine/threonine protein kinase [Lausannevirus]
+gi|284504366|ref|YP_003407081.1|vFam_2502| divergent serine/threonine protein kinase [Marseillevirus]
+gi|284504365|ref|YP_003407080.1|vFam_2502| divergent serine/threonine protein kinase [Marseillevirus]
+gi|327409903|ref|YP_004347323.1|vFam_2502| putative serine/threonine protein kinase [Lausannevirus]
+gi|284504373|ref|YP_003407088.1|vFam_2502| divergent serine/threonine protein kinase [Marseillevirus]

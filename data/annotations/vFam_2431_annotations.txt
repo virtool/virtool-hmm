@@ -1,0 +1,13 @@
+CLUSTER	2431
+NUM_SEQ	5
+LENGTH	104
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	50.96
+FAMILIES	{'None': 1, 'Hytrosaviridae': 1, 'Mimiviridae': 2, 'Polydnaviridae': 1}
+GENERA	{'None': 2, 'Ichnovirus': 1, 'Mimivirus': 1, 'Glossinavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|124484673|ref|YP_001031259.1|vFam_2431| b13.1 [Hyposoter fugitivus ichnovirus]
+gi|168804153|ref|YP_001687085.1|vFam_2431| hypothetical protein SGHV137 [Glossina pallidipes salivary gland hypertrophy virus]
+gi|311977403|ref|YP_003986522.1|vFam_2431| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432808|ref|YP_007354850.1|vFam_2431| hypothetical protein Moumou_00899 [Acanthamoeba polyphaga moumouvirus]
+gi|448826117|ref|YP_007419048.1|vFam_2431| hypothetical protein LBA_01154 [Megavirus lba]

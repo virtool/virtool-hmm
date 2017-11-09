@@ -1,0 +1,23 @@
+CLUSTER	302
+NUM_SEQ	15
+LENGTH	209
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	108.68
+FAMILIES	{'Herpesviridae': 15}
+GENERA	{'Varicellovirus': 7, 'Iltovirus': 1, 'Mardivirus': 1, 'Simplexvirus': 6}
+FASTA SEQUENCE TITLES:
+gi|57790987|ref|YP_182391.1|vFam_302| nuclear protein UL4 [Gallid herpesvirus 1]
+gi|312162851|ref|YP_003933836.1|vFam_302| nuclear protein UL4 [Saimiriine herpesvirus 1]
+gi|56694726|ref|YP_164446.1|vFam_302| nuclear protein UL4 [Cercopithecine herpesvirus 2]
+gi|30984432|ref|NP_851863.1|vFam_302| nuclear protein UL4 [Macacine herpesvirus 1]
+gi|83722572|ref|YP_443850.1|vFam_302| nuclear protein UL4 [Papiine herpesvirus 2]
+gi|9629384|ref|NP_044605.1|vFam_302| nuclear protein UL4 [Human herpesvirus 1]
+gi|9629273|ref|NP_044473.1|vFam_302| nuclear protein UL4 [Human herpesvirus 2]
+gi|13242450|ref|NP_077470.1|vFam_302| nuclear protein UL4 [Cercopithecine herpesvirus 9]
+gi|155041728|ref|NP_040178.2|vFam_302| nuclear protein UL4 [Human herpesvirus 3]
+gi|255683155|ref|YP_003084419.1|vFam_302| UL4 [Anatid herpesvirus 1]
+gi|270339495|ref|YP_003331577.1|vFam_302| nuclear protein UL4 [Felid herpesvirus 1]
+gi|296316057|ref|YP_003662521.1|vFam_302| nuclear protein UL4 [Bovine herpesvirus 5]
+gi|9629871|ref|NP_045355.1|vFam_302| nuclear protein UL4 [Bovine herpesvirus 1]
+gi|50313299|ref|YP_053102.1|vFam_302| nuclear protein UL4 [Equid herpesvirus 1]
+gi|9629786|ref|NP_045275.1|vFam_302| nuclear protein UL4 [Equid herpesvirus 4]

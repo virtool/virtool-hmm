@@ -1,0 +1,35 @@
+CLUSTER	202
+NUM_SEQ	27
+LENGTH	163
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	84.76
+FAMILIES	{'Baculoviridae': 22}
+GENERA	{'Alphabaculovirus': 22}
+FASTA SEQUENCE TITLES:
+gi|114679916|ref|YP_758366.1|vFam_202| ORF69 [Leucania separata nucleopolyhedrovirus]
+gi|15617522|ref|NP_258319.1|vFam_202| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|438000360|ref|YP_007250465.1|vFam_202| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643597|ref|YP_002884287.1|vFam_202| Ac57-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|116326127|ref|YP_803452.1|vFam_202| hypothetical protein AGNV_gp058 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|96979856|ref|YP_611062.1|vFam_202| hypothetical protein APNV_p094 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355613|ref|YP_473281.1|vFam_202| ORF93 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629999|ref|NP_046217.1|vFam_202| hypothetical protein OpmnVgp061 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031290|ref|YP_008992187.1|vFam_202| ac57 [Choristoneura murinana alphabaculovirus]
+gi|529153405|ref|YP_008378445.1|vFam_202| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|15426313|ref|NP_203605.1|vFam_202| hypothetical protein [Helicoverpa armigera nucleopolyhedrovirus]
+gi|74229731|ref|YP_308935.1|vFam_202| orf45 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304185|ref|YP_249652.1|vFam_202| ORF-48 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549530|ref|NP_689303.1|vFam_202| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209171002|ref|YP_002268149.1|vFam_202| agip119 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592827|ref|YP_529780.1|vFam_202| ORF-110 [Agrotis segetum nucleopolyhedrovirus]
+gi|125860224|ref|YP_001036394.1|vFam_202| hypothetical protein SFMNPV_gp102 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401499|ref|YP_002332803.1|vFam_202| hypothetical protein SlnV2_gp105 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634323|ref|NP_037862.1|vFam_202| ORF102 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|113195444|ref|YP_717581.1|vFam_202| ac57-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|292397731|ref|YP_003517797.1|vFam_202| ORF57 [Lymantria xylina MNPV]
+gi|9631026|ref|NP_047696.1|vFam_202| LdOrf-60 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|228861623|ref|YP_002854643.1|vFam_202| hypothetical protein EupsNPV_gp033 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|529218099|ref|YP_008378262.1|vFam_202| ac57 [Hemileuca sp. nucleopolyhedrovirus]
+gi|165969045|ref|YP_001650945.1|vFam_202| hypothetical protein [Orgyia leucostigma NPV]
+gi|118197524|ref|YP_874235.1|vFam_202| hypothetical protein EONV_gp042 [Ectropis obliqua nucleopolyhedrovirus]
+gi|402502142|ref|YP_006607800.1|vFam_202| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]

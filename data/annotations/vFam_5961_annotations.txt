@@ -1,0 +1,10 @@
+CLUSTER	5961
+NUM_SEQ	2
+LENGTH	70
+RELATIVE_ENTROPY_PER_POSITION	0.73
+TOTAL_RELATIVE_ENTROPY	51.1
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Cervidpoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|211956280|ref|YP_002302348.1|vFam_5961| endothelin precursor [Deerpox virus W-1170-84]
+gi|62637385|ref|YP_227383.1|vFam_5961| Endothelin precursor [Deerpox virus W-848-83]

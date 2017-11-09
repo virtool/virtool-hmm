@@ -1,0 +1,13 @@
+CLUSTER	2168
+NUM_SEQ	5
+LENGTH	110
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	58.3
+FAMILIES	{'Caliciviridae': 5}
+GENERA	{'None': 1, 'Vesivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|28212286|ref|NP_783198.1|vFam_2168| hypothetical protein FCVgp3 [Feline calicivirus]
+gi|27881468|ref|NP_777375.1|vFam_2168| orf3 protein [Canine calicivirus]
+gi|118430710|ref|YP_873924.1|vFam_2168| putative minor structural protein [Rabbit vesivirus]
+gi|194268063|ref|YP_002004566.1|vFam_2168| hypothetical protein SSLVV_gp3 [Steller sea lion vesivirus]
+gi|10314007|ref|NP_066257.1|vFam_2168| small basic protein [Vesicular exanthema of swine virus]

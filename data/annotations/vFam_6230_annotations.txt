@@ -1,0 +1,10 @@
+CLUSTER	6230
+NUM_SEQ	2
+LENGTH	223
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	115.96
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|74229795|ref|YP_308999.1|vFam_6230| hypothetical protein TNSV_gp110 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304252|ref|YP_249720.1|vFam_6230| ORF-116 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]

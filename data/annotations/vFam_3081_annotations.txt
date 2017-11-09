@@ -1,0 +1,11 @@
+CLUSTER	3081
+NUM_SEQ	3
+LENGTH	143
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	70.07
+FAMILIES	{'Polyomaviridae': 2}
+GENERA	{'Polyomavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|90403554|ref|YP_529824.1|vFam_3081| putative ORF-X [Crow polyomavirus]
+gi|564292827|ref|YP_008873515.1|vFam_3081| VP4 [Butcherbird polyomavirus]
+gi|30518361|ref|NP_849166.1|vFam_3081| putative ORF-X [Goose hemorrhagic polyomavirus]

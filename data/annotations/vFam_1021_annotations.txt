@@ -1,0 +1,15 @@
+CLUSTER	1021
+NUM_SEQ	7
+LENGTH	64
+RELATIVE_ENTROPY_PER_POSITION	0.82
+TOTAL_RELATIVE_ENTROPY	52.48
+FAMILIES	{'Baculoviridae': 6}
+GENERA	{'Betabaculovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|11068020|ref|NP_068236.1|vFam_1021| PxORF17 peptide [Plutella xylostella granulovirus]
+gi|556549052|ref|YP_008719966.1|vFam_1021| hypothetical protein CaLGV018 [Clostera anastomosis granulovirus]
+gi|33622221|ref|NP_891866.1|vFam_1021| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602257|ref|NP_148803.1|vFam_1021| ORF19 similar to AcMNPV ORF29 [Cydia pomonella granulovirus]
+gi|288804658|ref|YP_003429343.1|vFam_1021| PrGVORF19 [Pieris rapae granulovirus]
+gi|109255288|ref|YP_654437.1|vFam_1021| hypothetical protein COGV_gp016 [Choristoneura occidentalis granulovirus]
+gi|21686682|ref|NP_663182.1|vFam_1021| hypothetical protein [Phthorimaea operculella granulovirus]

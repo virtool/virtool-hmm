@@ -1,0 +1,10 @@
+CLUSTER	4091
+NUM_SEQ	2
+LENGTH	105
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	52.5
+FAMILIES	{'Anelloviridae': 2}
+GENERA	{'Epsilontorquevirus': 1, 'Etatorquevirus': 1}
+FASTA SEQUENCE TITLES:
+gi|295413978|ref|YP_003587879.1|vFam_4091| hypothetical protein TTtaV_gp1 [Torque teno tamarin virus]
+gi|295413832|ref|YP_003587836.1|vFam_4091| hypothetical protein TTfeV_gp2 [Torque teno felis virus]

@@ -1,0 +1,11 @@
+CLUSTER	4355
+NUM_SEQ	3
+LENGTH	94
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	49.82
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|526119437|ref|YP_008319340.1|vFam_4355| hypothetical protein [Pandoravirus dulcis]
+gi|197322375|ref|YP_002154648.1|vFam_4355| hypothetical protein FeldSpV_gp026 [Feldmannia species virus]
+gi|13242570|ref|NP_077584.1|vFam_4355| EsV-1-99 [Ectocarpus siliculosus virus 1]

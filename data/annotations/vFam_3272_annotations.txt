@@ -1,0 +1,10 @@
+CLUSTER	3272
+NUM_SEQ	2
+LENGTH	411
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	209.61
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 1, 'Roseolovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|538447212|ref|YP_008492952.1|vFam_3272| protein U8 [Porcine cytomegalovirus]
+gi|9633081|ref|NP_050189.1|vFam_3272| hypothetical protein HhV6Bgp012 [Human herpesvirus 6B]

@@ -1,0 +1,21 @@
+CLUSTER	352
+NUM_SEQ	13
+LENGTH	354
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	187.62
+FAMILIES	{'Flaviviridae': 13}
+GENERA	{'Flavivirus': 13}
+FASTA SEQUENCE TITLES:
+gi|27697398|ref|NP_775681.1|vFam_352| non-structural protein NS1 [Apoi virus]
+gi|25121725|ref|NP_740261.1|vFam_352| non-structural protein 1 [Modoc virus]
+gi|27735364|ref|NP_776073.1|vFam_352| non-structural protein NS1 [Rio Bravo virus]
+gi|27669991|ref|NP_775646.1|vFam_352| non-structural protein NS1 [Montana myotis leukoencephalitis virus]
+gi|27545508|ref|NP_775471.1|vFam_352| non-structural protein NS1 [Alkhumra hemorrhagic fever virus]
+gi|27596766|ref|NP_775517.1|vFam_352| non-structural protein NS1 [Powassan virus]
+gi|27596779|ref|NP_775504.1|vFam_352| non-structural protein NS1 [Tick-borne encephalitis virus]
+gi|25121528|ref|NP_740296.1|vFam_352| nonstructural protein NS1 [Langat virus]
+gi|27735290|ref|NP_776002.1|vFam_352| non-structural protein NS1 [Yellow fever virus]
+gi|159024813|ref|NP_739584.2|vFam_352| Nonstructural protein NS1 [Dengue virus 2]
+gi|73671172|ref|NP_740318.1|vFam_352| NS1 protein [Dengue virus 4]
+gi|164654855|ref|YP_001531169.2|vFam_352| Nonstructural protein NS1 [Dengue virus 3]
+gi|25014063|ref|NP_722461.1|vFam_352| nonstructural protein 1 [Dengue virus 1]

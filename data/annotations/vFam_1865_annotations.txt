@@ -1,0 +1,12 @@
+CLUSTER	1865
+NUM_SEQ	4
+LENGTH	350
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	178.5
+FAMILIES	{'None': 4}
+GENERA	{'None': 4}
+FASTA SEQUENCE TITLES:
+gi|370702974|ref|YP_004956776.1|vFam_1865| orf28 gene product [Helicoverpa zea nudivirus 2]
+gi|370702954|ref|YP_004956756.1|vFam_1865| orf8 gene product [Helicoverpa zea nudivirus 2]
+gi|213159343|ref|YP_002321386.1|vFam_1865| dnaint/rec [Oryctes rhinoceros virus]
+gi|134303455|ref|YP_001111324.1|vFam_1865| integrase [Gryllus bimaculatus nudivirus]

@@ -1,0 +1,13 @@
+CLUSTER	2812
+NUM_SEQ	5
+LENGTH	154
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	78.54
+FAMILIES	{'Phycodnaviridae': 4, 'Picornaviridae': 1}
+GENERA	{'Aphthovirus': 1, 'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|168480165|ref|YP_001686945.1|vFam_2812| 3A [Bovine rhinitis B virus]
+gi|157953713|ref|YP_001498604.1|vFam_2812| hypothetical protein AR158_C523R [Paramecium bursaria Chlorella virus AR158]
+gi|9631991|ref|NP_048780.1|vFam_2812| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|155371395|ref|YP_001426929.1|vFam_2812| hypothetical protein ATCV1_z448L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370547|ref|YP_001426081.1|vFam_2812| hypothetical protein FR483_N449R [Paramecium bursaria Chlorella virus FR483]

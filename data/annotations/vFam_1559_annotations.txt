@@ -1,0 +1,13 @@
+CLUSTER	1559
+NUM_SEQ	5
+LENGTH	292
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	140.16
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Muromegalovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|61660124|ref|YP_214015.1|vFam_1559| Glycoprotein family m02 [Murid herpesvirus 1]
+gi|61660127|ref|YP_214018.1|vFam_1559| Glycoprotein family m02 [Murid herpesvirus 1]
+gi|61660126|ref|YP_214017.1|vFam_1559| Glycoprotein family m02 [Murid herpesvirus 1]
+gi|61660129|ref|YP_214020.1|vFam_1559| Glycoprotein family m02 [Murid herpesvirus 1]
+gi|61660128|ref|YP_214019.1|vFam_1559| Glycoprotein family m02 [Murid herpesvirus 1]

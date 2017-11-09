@@ -1,0 +1,11 @@
+CLUSTER	2417
+NUM_SEQ	3
+LENGTH	373
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	190.23
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035393|ref|YP_008437022.1|vFam_2417| hypothetical protein ps_608 [Pandoravirus salinus]
+gi|531035950|ref|YP_008437584.1|vFam_2417| F-box domain [Pandoravirus salinus]
+gi|526119477|ref|YP_008319380.1|vFam_2417| F-box domain [Pandoravirus dulcis]

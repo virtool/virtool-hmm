@@ -1,0 +1,13 @@
+CLUSTER	2010
+NUM_SEQ	5
+LENGTH	226
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	117.52
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|30984429|ref|NP_851860.1|vFam_2010| envelope glycoprotein L [Macacine herpesvirus 1]
+gi|83722569|ref|YP_443847.1|vFam_2010| envelope glycoprotein L [Papiine herpesvirus 2]
+gi|56694723|ref|YP_164443.1|vFam_2010| envelope glycoprotein L [Cercopithecine herpesvirus 2]
+gi|9629381|ref|NP_044602.1|vFam_2010| envelope glycoprotein L [Human herpesvirus 1]
+gi|9629270|ref|NP_044470.1|vFam_2010| envelope glycoprotein L [Human herpesvirus 2]

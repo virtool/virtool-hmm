@@ -1,0 +1,10 @@
+CLUSTER	5972
+NUM_SEQ	2
+LENGTH	254
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	129.54
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|197322496|ref|YP_002154769.1|vFam_5972| putative von Willebrand factor [Feldmannia species virus]
+gi|13242646|ref|NP_077661.1|vFam_5972| EsV-1-176 [Ectocarpus siliculosus virus 1]

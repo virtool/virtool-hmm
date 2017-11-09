@@ -1,0 +1,10 @@
+CLUSTER	5862
+NUM_SEQ	2
+LENGTH	507
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	258.57
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|215401401|ref|YP_002332704.1|vFam_5862| hypothetical protein SlnV2_gp006 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634226|ref|NP_037765.1|vFam_5862| ORF5 [Spodoptera exigua multiple nucleopolyhedrovirus]

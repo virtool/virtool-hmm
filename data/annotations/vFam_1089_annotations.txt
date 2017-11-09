@@ -1,0 +1,16 @@
+CLUSTER	1089
+NUM_SEQ	8
+LENGTH	59
+RELATIVE_ENTROPY_PER_POSITION	0.89
+TOTAL_RELATIVE_ENTROPY	52.51
+FAMILIES	{'Adenoviridae': 1, 'Baculoviridae': 5}
+GENERA	{'Siadenovirus': 1, 'Alphabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|9635797|ref|NP_062433.1|vFam_1089| hyd [Frog adenovirus 1]
+gi|15320753|ref|NP_203265.1|vFam_1089| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|237643645|ref|YP_002884335.1|vFam_1089| Ac110-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|116326177|ref|YP_803503.1|vFam_1089| hypothetical protein AGNV_gp109 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|96979811|ref|YP_611016.1|vFam_1089| hypothetical protein APNV_p047 [Antheraea pernyi nucleopolyhedrovirus]
+gi|529153522|ref|YP_008378547.1|vFam_1089| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|9630049|ref|NP_046267.1|vFam_1089| hypothetical protein OpmnVgp111 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031243|ref|YP_008992139.1|vFam_1089| ac110 [Choristoneura murinana alphabaculovirus]

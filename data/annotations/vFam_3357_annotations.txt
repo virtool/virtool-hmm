@@ -1,0 +1,12 @@
+CLUSTER	3357
+NUM_SEQ	4
+LENGTH	131
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	66.81
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'None': 3, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|313768034|ref|YP_004061465.1|vFam_3357| hypothetical protein BpV1_035c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|163955021|ref|YP_001648125.1|vFam_3357| hypothetical protein OsV5_048r [Ostreococcus virus OsV5]
+gi|260665916|ref|YP_003212870.1|vFam_3357| hypothetical protein H665_p046 [Ostreococcus tauri virus 1]
+gi|314055132|ref|YP_004063470.1|vFam_3357| hypothetical protein OtV2_037 [Ostreococcus tauri virus 2]

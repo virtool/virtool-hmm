@@ -1,0 +1,13 @@
+CLUSTER	2223
+NUM_SEQ	5
+LENGTH	349
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	181.48
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631457|ref|NP_048251.1|vFam_2223| ORF MSV180 putative vaccinia L3L homolog, similar to SW:P07614 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497810|ref|YP_008003609.1|vFam_2223| internal Virion Protein (Cop-L3L) [Mythimna separata entomopoxvirus 'L']
+gi|506498092|ref|YP_008003889.1|vFam_2223| internal Virion Protein (Cop-L3L) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498705|ref|YP_008004499.1|vFam_2223| internal Virion Protein (Cop-L3L) [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964383|ref|NP_064851.1|vFam_2223| hypothetical protein AMV069 [Amsacta moorei entomopoxvirus 'L']

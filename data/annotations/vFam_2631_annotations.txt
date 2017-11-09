@@ -1,0 +1,13 @@
+CLUSTER	2631
+NUM_SEQ	5
+LENGTH	88
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	51.92
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Betabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|410493612|ref|YP_006908550.1|vFam_2631| hypothetical protein [Epinotia aporema granulovirus]
+gi|285002309|ref|YP_003422373.1|vFam_2631| hypothetical protein PsunGV_gp034 [Pseudaletia unipuncta granulovirus]
+gi|164519230|ref|YP_001649016.1|vFam_2631| hypothetical protein HaGV_gp034 [Helicoverpa armigera granulovirus]
+gi|46309418|ref|YP_006308.1|vFam_2631| ORF36 [Agrotis segetum granulovirus]
+gi|148368854|ref|YP_001256984.1|vFam_2631| hypothetical protein SlGVgp033 [Spodoptera litura granulovirus]

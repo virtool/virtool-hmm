@@ -1,0 +1,12 @@
+CLUSTER	686
+NUM_SEQ	4
+LENGTH	517
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	263.67
+FAMILIES	{'Marseillevirus family': 2, 'Phycodnaviridae': 1, 'Nimaviridae': 1}
+GENERA	{'None': 2, 'Prymnesiovirus': 1, 'Whispovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|17158183|ref|NP_477601.1|vFam_686| wsv079 [Shrimp white spot syndrome virus]
+gi|508181826|ref|YP_008052345.1|vFam_686| XRN family 5'-3' exonuclease [Phaeocystis globosa virus]
+gi|327409880|ref|YP_004347300.1|vFam_686| XRN1 5'-3' exoribonuclease [Lausannevirus]
+gi|284504336|ref|YP_003407051.1|vFam_686| XRN1 5'-3' exonuclease [Marseillevirus]

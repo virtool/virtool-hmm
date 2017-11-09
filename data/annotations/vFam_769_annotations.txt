@@ -1,0 +1,18 @@
+CLUSTER	769
+NUM_SEQ	10
+LENGTH	294
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	149.94
+FAMILIES	{'Picornaviridae': 9}
+GENERA	{'Cosavirus': 3, 'Cardiovirus': 4, 'Aphthovirus': 1, 'Erbovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|25121693|ref|NP_740376.1|vFam_769| VP1 [Equine rhinitis A virus]
+gi|25121608|ref|NP_740405.1|vFam_769| protein 1D [Encephalomyocarditis virus]
+gi|25121878|ref|NP_740427.1|vFam_769| capsid protein VP1 [Theilovirus]
+gi|189418899|ref|YP_001950225.1|vFam_769| capsid protein VP1 [Human TMEV-like cardiovirus]
+gi|182406750|ref|YP_001816885.1|vFam_769| capsid protein VP1 [Saffold virus]
+gi|25121705|ref|NP_740364.1|vFam_769| VP1 [Equine rhinitis B virus 1]
+gi|239830836|ref|YP_002956122.1|vFam_769| VP1 [Human cosavirus D]
+gi|239828785|ref|YP_002956100.1|vFam_769| VP1 [Cosavirus A]
+gi|239830823|ref|YP_002956111.1|vFam_769| VP1 [Human cosavirus B]
+gi|239828761|ref|YP_002956080.1|vFam_769| VP1 [Human cosavirus E]

@@ -1,0 +1,10 @@
+CLUSTER	1569
+NUM_SEQ	2
+LENGTH	448
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	232.96
+FAMILIES	{'Reoviridae': 2}
+GENERA	{'Cypovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|14993644|ref|NP_149152.1|vFam_1569| hypothetical protein LdCPV1s7gp1 [Cypovirus 1]
+gi|14993623|ref|NP_149141.1|vFam_1569| hypothetical protein LdcV14s7gp1 [Cypovirus 14]

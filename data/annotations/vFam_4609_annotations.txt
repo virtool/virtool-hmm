@@ -1,0 +1,10 @@
+CLUSTER	4609
+NUM_SEQ	2
+LENGTH	268
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	136.68
+FAMILIES	{'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134287276|ref|YP_001110972.1|vFam_4609| hypothetical protein HVAV3e_gp119 [Heliothis virescens ascovirus 3e]
+gi|115298598|ref|YP_762451.1|vFam_4609| 29 kDa [Spodoptera frugiperda ascovirus 1a]

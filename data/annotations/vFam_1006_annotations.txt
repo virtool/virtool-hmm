@@ -1,0 +1,11 @@
+CLUSTER	1006
+NUM_SEQ	3
+LENGTH	116
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	58.0
+FAMILIES	{'None': 1, 'Phycodnaviridae': 2}
+GENERA	{'None': 1, 'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134303429|ref|YP_001111298.1|vFam_1006| hypothetical protein GrBNV_gp31 [Gryllus bimaculatus nudivirus]
+gi|157953170|ref|YP_001498062.1|vFam_1006| hypothetical protein NY2A_b866R [Paramecium bursaria Chlorella virus NY2A]
+gi|157952642|ref|YP_001497534.1|vFam_1006| hypothetical protein NY2A_b338R [Paramecium bursaria Chlorella virus NY2A]

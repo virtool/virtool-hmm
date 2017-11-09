@@ -1,0 +1,10 @@
+CLUSTER	5733
+NUM_SEQ	2
+LENGTH	242
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	123.42
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52139329|ref|YP_081604.1|vFam_5733| membrane protein US19 [Human herpesvirus 5]
+gi|405761854|ref|NP_612792.2|vFam_5733| membrane protein US19 [Panine herpesvirus 2]

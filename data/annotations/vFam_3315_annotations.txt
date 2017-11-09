@@ -1,0 +1,11 @@
+CLUSTER	3315
+NUM_SEQ	3
+LENGTH	276
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	138.0
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977957|ref|YP_003987077.1|vFam_3315| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432521|ref|YP_007354563.1|vFam_3315| hypothetical protein Moumou_00601 [Acanthamoeba polyphaga moumouvirus]
+gi|363540581|ref|YP_004894733.1|vFam_3315| mg682 gene product [Megavirus chiliensis]

@@ -1,0 +1,35 @@
+CLUSTER	100
+NUM_SEQ	27
+LENGTH	122
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	64.66
+FAMILIES	{'Baculoviridae': 23}
+GENERA	{'Betabaculovirus': 4, 'Alphabaculovirus': 19}
+FASTA SEQUENCE TITLES:
+gi|15617506|ref|NP_258302.1|vFam_100| LEF-11 [Spodoptera litura nucleopolyhedrovirus]
+gi|410493627|ref|YP_006908565.1|vFam_100| late expression factor 11 [Epinotia aporema granulovirus]
+gi|14602295|ref|NP_148842.1|vFam_100| ORF58 LEF-11 [Cydia pomonella granulovirus]
+gi|46309402|ref|YP_006292.1|vFam_100| ORF52 [Agrotis segetum granulovirus]
+gi|164519246|ref|YP_001649033.1|vFam_100| late expression factor-11 [Helicoverpa armigera granulovirus]
+gi|438000342|ref|YP_007250447.1|vFam_100| lef-11 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964560|ref|YP_950756.1|vFam_100| late expression factor-11 [Maruca vitrata nucleopolyhedrovirus]
+gi|15320678|ref|NP_203190.1|vFam_100| LEF-11 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|99077901|ref|YP_611161.1|vFam_100| lef-11 [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326093|ref|YP_803418.1|vFam_100| late expression factor 11 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651436|ref|NP_932632.1|vFam_100| late expression factor 11 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|86355648|ref|YP_473316.1|vFam_100| LEF11 [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629961|ref|NP_046179.1|vFam_100| hypothetical protein OpmnVgp023 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031322|ref|YP_008992219.1|vFam_100| lef11 [Choristoneura murinana alphabaculovirus]
+gi|529153442|ref|YP_008378482.1|vFam_100| LEF-11 [Choristoneura rosaceana alphabaculovirus]
+gi|209401086|ref|YP_002273955.1|vFam_100| late expression factor 11 [Helicoverpa armigera NPV NNg1]
+gi|209978787|ref|YP_002300530.1|vFam_100| LEF11 [Adoxophyes orana nucleopolyhedrovirus]
+gi|22549549|ref|NP_689322.1|vFam_100| lef11 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209171021|ref|YP_002268168.1|vFam_100| agip138 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592848|ref|YP_529801.1|vFam_100| LEF-11 [Agrotis segetum nucleopolyhedrovirus]
+gi|125860242|ref|YP_001036412.1|vFam_100| late expression factor 11 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401518|ref|YP_002332822.1|vFam_100| LEF-11 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634340|ref|NP_037879.1|vFam_100| ORF119 lef11 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|402502206|ref|YP_006607864.1|vFam_100| late expression factor 11 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|118197507|ref|YP_874218.1|vFam_100| late expression factor 11 [Ectropis obliqua nucleopolyhedrovirus]
+gi|529218081|ref|YP_008378244.1|vFam_100| lef11 [Hemileuca sp. nucleopolyhedrovirus]
+gi|165969065|ref|YP_001650965.1|vFam_100| late expression factor 11 [Orgyia leucostigma NPV]

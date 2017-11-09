@@ -1,0 +1,10 @@
+CLUSTER	810
+NUM_SEQ	2
+LENGTH	373
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	190.23
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Coccolithovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|73852929|ref|YP_294213.1|vFam_810| putative sialidase [Emiliania huxleyi virus 86]
+gi|73852639|ref|YP_293923.1|vFam_810| hypothetical protein EhV170 [Emiliania huxleyi virus 86]

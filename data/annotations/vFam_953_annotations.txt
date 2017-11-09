@@ -1,0 +1,17 @@
+CLUSTER	953
+NUM_SEQ	9
+LENGTH	226
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	117.52
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|86355544|ref|YP_473212.1|vFam_953| ORF24 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630068|ref|NP_046286.1|vFam_953| hypothetical protein OpmnVgp130 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153338|ref|YP_008378378.1|vFam_953| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|571031221|ref|YP_008992117.1|vFam_953| ac132 [Choristoneura murinana alphabaculovirus]
+gi|30387357|ref|NP_848436.1|vFam_953| hypothetical protein CfMNPVgpORF125 [Choristoneura fumiferana multiple nucleopolyhedrovirus]
+gi|15320774|ref|NP_203286.1|vFam_953| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|154551158|ref|YP_610996.2|vFam_953| hypothetical protein APNV_p027 [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326196|ref|YP_803522.1|vFam_953| hypothetical protein AGNV_gp128 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651474|ref|NP_932736.1|vFam_953| hypothetical protein CFDNVgORF127 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]

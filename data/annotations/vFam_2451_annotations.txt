@@ -1,0 +1,11 @@
+CLUSTER	2451
+NUM_SEQ	3
+LENGTH	402
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	205.02
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Lymphocryptovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|24943110|ref|NP_733872.1|vFam_2451| ORF19 [callitrichine herpesvirus 3]
+gi|82503251|ref|YP_401695.1|vFam_2451| BDLF2 protein [Human herpesvirus 4]
+gi|51518064|ref|YP_067992.1|vFam_2451| BDLF2 [Macacine herpesvirus 4]

@@ -1,0 +1,12 @@
+CLUSTER	3798
+NUM_SEQ	4
+LENGTH	88
+RELATIVE_ENTROPY_PER_POSITION	0.58
+TOTAL_RELATIVE_ENTROPY	51.04
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|438000350|ref|YP_007250455.1|vFam_3798| TRAX-like protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964568|ref|YP_950764.1|vFam_3798| ETS [Maruca vitrata nucleopolyhedrovirus]
+gi|237643588|ref|YP_002884278.1|vFam_3798| ETS [Bombyx mandarina nucleopolyhedrovirus]
+gi|23577938|ref|NP_703037.1|vFam_3798| hypothetical protein [Rachiplusia ou MNPV]

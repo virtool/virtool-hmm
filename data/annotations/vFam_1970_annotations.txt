@@ -1,0 +1,12 @@
+CLUSTER	1970
+NUM_SEQ	4
+LENGTH	70
+RELATIVE_ENTROPY_PER_POSITION	0.72
+TOTAL_RELATIVE_ENTROPY	50.4
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'Mimivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|311978283|ref|YP_003987404.1|vFam_1970| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977681|ref|YP_003986801.1|vFam_1970| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|531035576|ref|YP_008437208.1|vFam_1970| hypothetical protein ps_795 [Pandoravirus salinus]
+gi|531035074|ref|YP_008436699.1|vFam_1970| hypothetical protein ps_283 [Pandoravirus salinus]

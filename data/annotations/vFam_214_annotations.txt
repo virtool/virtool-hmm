@@ -1,0 +1,33 @@
+CLUSTER	214
+NUM_SEQ	25
+LENGTH	225
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	112.5
+FAMILIES	{'Adenoviridae': 25}
+GENERA	{'None': 1, 'Mastadenovirus': 20, 'Atadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|56158897|ref|AP_000093.1|vFam_214| pVIII [Duck adenovirus A]
+gi|21450917|ref|NP_659528.1|vFam_214| pVIII [Ovine adenovirus D]
+gi|440382981|ref|YP_007347012.1|vFam_214| pVIII [Bovine adenovirus 6]
+gi|13242720|ref|NP_077402.1|vFam_214| pVIII [Bovine adenovirus D]
+gi|227122436|ref|YP_002822222.1|vFam_214| pVIII [Murine adenovirus 3]
+gi|56160694|ref|AP_000357.1|vFam_214| pVIII [Murine adenovirus A]
+gi|318065986|ref|YP_004123753.1|vFam_214| pVIII [Murine adenovirus 2]
+gi|56158818|ref|AP_000037.1|vFam_214| pVIII [Bovine adenovirus B]
+gi|496838710|ref|YP_007518328.1|vFam_214| pVIII [Titi monkey adenovirus ECC-2011]
+gi|56160860|ref|AP_000518.1|vFam_214| pVIII [Human adenovirus 1]
+gi|253761995|ref|YP_003038617.1|vFam_214| pVIII [Human adenovirus 54]
+gi|540155847|ref|YP_008520241.1|vFam_214| pVIII [Simian adenovirus 18]
+gi|327415389|ref|YP_004300217.1|vFam_214| unnamed protein product [Simian adenovirus 49]
+gi|56160463|ref|AP_000127.1|vFam_214| pVIII [Human adenovirus A]
+gi|197944748|ref|YP_002213785.1|vFam_214| capsid protein precursor pVIII [Human adenovirus B]
+gi|460042656|ref|YP_007518083.1|vFam_214| pVIII [Simian adenovirus 20]
+gi|51556715|ref|YP_068076.1|vFam_214| pVIII [Tree shrew adenovirus 1]
+gi|56158843|ref|AP_000018.1|vFam_214| pVIII [Ovine adenovirus A]
+gi|56160585|ref|AP_000251.1|vFam_214| pVIII [Porcine adenovirus C]
+gi|52801698|ref|YP_094045.1|vFam_214| pVIII [Bovine adenovirus A]
+gi|46852422|ref|YP_009216.1|vFam_214| pVIII [Porcine adenovirus 3]
+gi|345462113|ref|YP_004782115.1|vFam_214| unnamed protein product [Bat adenovirus 2]
+gi|378554433|ref|YP_005271197.1|vFam_214| unnamed protein product [Bat adenovirus TJM]
+gi|56160973|ref|AP_000628.1|vFam_214| pVIII [Canine adenovirus 2]
+gi|56158868|ref|AP_000065.1|vFam_214| pVIII [Canine adenovirus 1]

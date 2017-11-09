@@ -1,0 +1,18 @@
+CLUSTER	840
+NUM_SEQ	10
+LENGTH	277
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	144.04
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|472438231|ref|YP_007678008.1|vFam_840| hypothetical protein SMF1_0006 [Sulfolobales Mexican fusellovirus 1]
+gi|160688426|ref|YP_001552188.1|vFam_840| hypothetical protein SSSV4_ORF280 [Sulfolobus spindle-shaped virus 4]
+gi|38639802|ref|NP_944453.1|vFam_840| hypothetical protein SSV2p01 [Sulfolobus spindle-shaped virus 2]
+gi|270281751|ref|YP_003331410.1|vFam_840| hypothetical protein [Acidianus spindle-shaped virus 1]
+gi|270281821|ref|YP_003331487.1|vFam_840| hypothetical protein SSSV7_gp04 [Sulfolobus spindle-shaped virus 7]
+gi|270281790|ref|YP_003331455.1|vFam_840| hypothetical protein SSSV6_gp05 [Sulfolobus spindle-shaped virus 6]
+gi|9625548|ref|NP_039805.1|vFam_840| hypothetical protein SSV-1p31 [Sulfolobus spindle-shaped virus 1]
+gi|198449237|ref|YP_002221475.1|vFam_840| hypothetical protein SSSV5_gp10 [Sulfolobus spindle-shaped virus 5]
+gi|42495061|ref|NP_963970.1|vFam_840| ORF C279 [Sulfolobus virus Kamchatka 1]
+gi|42494931|ref|NP_963929.1|vFam_840| ORF C277 [Sulfolobus virus Ragged Hills]

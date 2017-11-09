@@ -1,0 +1,14 @@
+CLUSTER	1478
+NUM_SEQ	6
+LENGTH	259
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	137.27
+FAMILIES	{'None': 6}
+GENERA	{'None': 1, 'Umbravirus': 5}
+FASTA SEQUENCE TITLES:
+gi|256398151|ref|YP_003126905.1|vFam_1478| unnamed protein product [Japanese holly fern mottle virus]
+gi|20806074|ref|NP_620848.1|vFam_1478| putative movement protein [Pea enation mosaic virus-2]
+gi|24943166|ref|NP_733850.1|vFam_1478| hypothetical protein [Tobacco bushy top virus]
+gi|20153386|ref|NP_619661.1|vFam_1478| putative movement protein [Groundnut rosette virus]
+gi|211774535|ref|YP_002302261.1|vFam_1478| cell-to-cell movement protein [Carrot mottle virus]
+gi|9628911|ref|NP_054009.1|vFam_1478| movement protein [Carrot mottle mimic virus]

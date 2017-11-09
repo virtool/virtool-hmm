@@ -1,0 +1,11 @@
+CLUSTER	4968
+NUM_SEQ	3
+LENGTH	75
+RELATIVE_ENTROPY_PER_POSITION	0.69
+TOTAL_RELATIVE_ENTROPY	51.75
+FAMILIES	{'Nodaviridae': 3}
+GENERA	{'Betanodavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|19551001|ref|NP_599248.1|vFam_4968| protein B [Striped Jack nervous necrosis virus]
+gi|194351531|ref|YP_002019752.1|vFam_4968| protein B2 [Barfin flounder virus BF93Hok]
+gi|98960853|ref|YP_611156.1|vFam_4968| protein B [Redspotted grouper nervous necrosis virus]

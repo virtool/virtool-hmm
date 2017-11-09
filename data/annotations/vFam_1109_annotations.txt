@@ -1,0 +1,12 @@
+CLUSTER	1109
+NUM_SEQ	4
+LENGTH	359
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	183.09
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 1, 'Roseolovirus': 2, 'Muromegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|538447207|ref|YP_008492947.1|vFam_1109| tegument protein [Porcine cytomegalovirus]
+gi|9845314|ref|NP_064128.1|vFam_1109| pr25.1 [Murid herpesvirus 2]
+gi|9628302|ref|NP_042893.1|vFam_1109| tegument protein UL23 [Human herpesvirus 6A]
+gi|51874228|ref|YP_073746.1|vFam_1109| tegument protein UL23 [Human herpesvirus 7]

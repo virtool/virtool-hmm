@@ -1,0 +1,10 @@
+CLUSTER	4479
+NUM_SEQ	2
+LENGTH	193
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	100.36
+FAMILIES	{'Marseillevirus family': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|284504230|ref|YP_003406945.1|vFam_4479| hypothetical protein MAR_ORF204 [Marseillevirus]
+gi|75750439|ref|YP_319872.1|vFam_4479| hypothetical protein ATV_gp41 [Acidianus two-tailed virus]

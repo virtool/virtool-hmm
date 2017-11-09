@@ -1,0 +1,14 @@
+CLUSTER	2036
+NUM_SEQ	6
+LENGTH	224
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	116.48
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9631383|ref|NP_048261.1|vFam_2036| ORF MSV190 putative Amsacta moorei entomopoxvirus G2R homolog, similar to SW:P29818 [Melanoplus sanguinipes entomopoxvirus]
+gi|9964497|ref|NP_064965.1|vFam_2036| hypothetical protein AMV183 [Amsacta moorei entomopoxvirus 'L']
+gi|506498802|ref|YP_008004596.1|vFam_2036| unknown similar to AMEV183 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498498|ref|YP_008004294.1|vFam_2036| unknown similar to AMEV183 [Choristoneura biennis entomopoxvirus 'L']
+gi|506498181|ref|YP_008003978.1|vFam_2036| unknown similar to AMEV183 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497936|ref|YP_008003735.1|vFam_2036| unknown similar to AMEV183 [Mythimna separata entomopoxvirus 'L']

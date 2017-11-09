@@ -1,0 +1,11 @@
+CLUSTER	4965
+NUM_SEQ	3
+LENGTH	219
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	107.31
+FAMILIES	{'None': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|310831412|ref|YP_003970055.1|vFam_4965| hypothetical protein crov422 [Cafeteria roenbergensis virus BV-PW1]
+gi|310831410|ref|YP_003970053.1|vFam_4965| hypothetical protein crov420 [Cafeteria roenbergensis virus BV-PW1]
+gi|310831411|ref|YP_003970054.1|vFam_4965| hypothetical protein crov421 [Cafeteria roenbergensis virus BV-PW1]

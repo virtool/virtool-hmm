@@ -1,0 +1,12 @@
+CLUSTER	3727
+NUM_SEQ	4
+LENGTH	164
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	83.64
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'Coccolithovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|209968049|ref|YP_002296224.1|vFam_3727| putative membrane protein [Emiliania huxleyi virus 86]
+gi|73852730|ref|YP_294014.1|vFam_3727| hypothetical protein EhV259 [Emiliania huxleyi virus 86]
+gi|209967984|ref|YP_002296159.1|vFam_3727| putative membrane protein [Emiliania huxleyi virus 86]
+gi|73852504|ref|YP_293788.1|vFam_3727| hypothetical protein EhV034 [Emiliania huxleyi virus 86]

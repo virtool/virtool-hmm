@@ -1,0 +1,12 @@
+CLUSTER	2460
+NUM_SEQ	4
+LENGTH	214
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	111.28
+FAMILIES	{'Retroviridae': 4}
+GENERA	{'Lentivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|9629361|ref|NP_057851.1|vFam_2460| Vif [Human immunodeficiency virus 1]
+gi|27311170|ref|NP_758888.1|vFam_2460| vif protein [Simian immunodeficiency virus SIV-mnd 2]
+gi|9627206|ref|NP_054370.1|vFam_2460| vif protein [Simian immunodeficiency virus]
+gi|9628883|ref|NP_056839.1|vFam_2460| vif protein [Human immunodeficiency virus 2]

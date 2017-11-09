@@ -1,0 +1,10 @@
+CLUSTER	5118
+NUM_SEQ	2
+LENGTH	65
+RELATIVE_ENTROPY_PER_POSITION	0.80
+TOTAL_RELATIVE_ENTROPY	52.0
+FAMILIES	{'Tombusviridae': 2}
+GENERA	{'Necrovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|50080146|ref|NP_758813.2|vFam_5118| 7K protein A [Beet black scorch virus]
+gi|19774246|ref|NP_608314.1|vFam_5118| 7 kDa protein [Tobacco necrosis virus D]

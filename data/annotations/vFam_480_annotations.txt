@@ -1,0 +1,17 @@
+CLUSTER	480
+NUM_SEQ	9
+LENGTH	2098
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	1111.94
+FAMILIES	{'Bunyaviridae': 7}
+GENERA	{'Phlebovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|38371702|ref|NP_941973.1|vFam_480| RNA polymerase [Uukuniemi virus]
+gi|52673228|ref|YP_089669.1|vFam_480| RNA-dependant RNA polymerase [Sandfly fever Naples virus]
+gi|330444747|ref|YP_004382743.1|vFam_480| polymerase [Sandfly fever Turkey virus]
+gi|328550467|ref|YP_004347993.1|vFam_480| L protein [Candiru virus]
+gi|330850811|ref|YP_004414703.1|vFam_480| polymerase [Aguacate virus]
+gi|302596921|ref|YP_003848704.1|vFam_480| polymerase [Rift Valley fever virus]
+gi|395406761|ref|YP_006504091.1|vFam_480| RNA polymerase [SFTS virus HB29]
+gi|555928280|ref|YP_008719916.1|vFam_480| RNA-dependent RNA polymerase [Razdan virus]
+gi|506614344|ref|YP_008003507.1|vFam_480| RNA-dependent RNA polymerase [Lone Star virus]

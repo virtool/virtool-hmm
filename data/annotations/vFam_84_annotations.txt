@@ -1,0 +1,39 @@
+CLUSTER	84
+NUM_SEQ	31
+LENGTH	579
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	301.08
+FAMILIES	{'Adenoviridae': 28}
+GENERA	{'None': 1, 'Atadenovirus': 4, 'Mastadenovirus': 17, 'Aviadenovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|388570685|ref|YP_006383559.1|vFam_84| capsid protein precursor pIIIa [Goose adenovirus 4]
+gi|327409480|ref|YP_004346924.1|vFam_84| pIIIa [Fowl adenovirus C]
+gi|56160717|ref|AP_000379.1|vFam_84| pIIIa [Fowl adenovirus D]
+gi|555928191|ref|YP_008719823.1|vFam_84| pIIIa [Turkey adenovirus 4]
+gi|501000355|ref|YP_007985649.1|vFam_84| pIIIa [Fowl adenovirus 5]
+gi|308222747|ref|YP_003933584.1|vFam_84| unnamed protein product [Turkey adenovirus 1]
+gi|555928224|ref|YP_008719855.1|vFam_84| pIIIa [Turkey adenovirus 5]
+gi|56160745|ref|AP_000413.1|vFam_84| pIIIa [Fowl adenovirus A]
+gi|160700560|ref|YP_001552250.1|vFam_84| unnamed protein product [Snake adenovirus 1]
+gi|56158887|ref|AP_000083.1|vFam_84| pIIIa [Duck adenovirus A]
+gi|163869645|ref|NP_659518.2|vFam_84| pIIIa [Ovine adenovirus D]
+gi|34303905|ref|NP_899146.1|vFam_84| pIIIa [Bovine adenovirus D]
+gi|318065974|ref|YP_004123741.1|vFam_84| pIIIa [Murine adenovirus 2]
+gi|56158808|ref|AP_000027.1|vFam_84| pIIIa [Bovine adenovirus B]
+gi|51556702|ref|YP_068063.1|vFam_84| pIIIa [Tree shrew adenovirus 1]
+gi|496838698|ref|YP_007518316.1|vFam_84| pIIIa [Titi monkey adenovirus ECC-2011]
+gi|460042646|ref|YP_007518073.1|vFam_84| pIIIa [Simian adenovirus 20]
+gi|56160446|ref|AP_000115.1|vFam_84| pIIIa [Human adenovirus A]
+gi|327415379|ref|YP_004300207.1|vFam_84| unnamed protein product [Simian adenovirus 49]
+gi|540155835|ref|YP_008520229.1|vFam_84| pIIIa [Simian adenovirus 18]
+gi|485191066|ref|YP_007906002.1|vFam_84| pIIIa [Simian adenovirus C]
+gi|56160848|ref|AP_000506.1|vFam_84| pIIIa [Human adenovirus 1]
+gi|253761984|ref|YP_003038606.1|vFam_84| pIIIa [Human adenovirus 54]
+gi|197944736|ref|YP_002213773.1|vFam_84| capsid protein precursor pIIIa [Human adenovirus B]
+gi|56160643|ref|AP_000307.1|vFam_84| pIIIa [Simian adenovirus 25]
+gi|9629106|ref|NP_044192.1|vFam_84| hypothetical protein CaV1gp10 [Canine adenovirus A]
+gi|345462101|ref|YP_004782103.1|vFam_84| unnamed protein product [Bat adenovirus 2]
+gi|378554421|ref|YP_005271185.1|vFam_84| unnamed protein product [Bat adenovirus TJM]
+gi|19343436|ref|NP_597921.1|vFam_84| peripentonal hexon-associated protein [Ovine adenovirus A]
+gi|52801688|ref|YP_094035.1|vFam_84| pIIIa [Bovine adenovirus A]
+gi|56160573|ref|AP_000239.1|vFam_84| pIIIa [Porcine adenovirus C]

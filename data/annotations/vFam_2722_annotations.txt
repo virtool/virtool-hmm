@@ -1,0 +1,10 @@
+CLUSTER	2722
+NUM_SEQ	2
+LENGTH	248
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	126.48
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Prasinovirus': 1, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|313768242|ref|YP_004061922.1|vFam_2722| hypothetical protein MpV1_039 [Micromonas sp. RCC1109 virus MpV1]
+gi|9631632|ref|NP_048411.1|vFam_2722| hypothetical protein [Paramecium bursaria Chlorella virus 1]

@@ -1,0 +1,13 @@
+CLUSTER	2860
+NUM_SEQ	5
+LENGTH	52
+RELATIVE_ENTROPY_PER_POSITION	1.02
+TOTAL_RELATIVE_ENTROPY	53.04
+FAMILIES	{'Potyviridae': 5}
+GENERA	{'Ipomovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|25013875|ref|NP_734286.1|vFam_2860| 6K1 protein [Sweet potato mild mottle virus]
+gi|170778506|ref|YP_001788995.1|vFam_2860| 6K1 [Squash vein yellowing virus]
+gi|74009224|ref|YP_308880.1|vFam_2860| 6K1 protein [Cucumber vein yellowing virus]
+gi|426580891|ref|YP_007032440.1|vFam_2860| 6K1 [Cassava brown streak virus]
+gi|314998985|ref|YP_004063977.1|vFam_2860| 6K1 [Ugandan cassava brown streak virus]

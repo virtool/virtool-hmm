@@ -1,0 +1,15 @@
+CLUSTER	724
+NUM_SEQ	7
+LENGTH	514
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	257.0
+FAMILIES	{'Poxviridae': 7}
+GENERA	{'Orthopoxvirus': 1, 'Molluscipoxvirus': 1, 'Parapoxvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|345107318|ref|YP_004821483.1|vFam_724| p4c precursor [Yoka poxvirus]
+gi|9629063|ref|NP_044082.1|vFam_724| MC131L [Molluscum contagiosum virus subtype 1]
+gi|41057538|ref|NP_958011.1|vFam_724| ORF102 A type inclusion protein [Bovine papular stomatitis virus]
+gi|289183867|ref|YP_003457408.1|vFam_724| A-type inclusion protein/fusion peptide hybrid [Pseudocowpox virus]
+gi|41057166|ref|NP_957880.1|vFam_724| ORF103 A type inclusion protein [Orf virus]
+gi|289183868|ref|YP_003457409.1|vFam_724| A-type inclusion protein [Pseudocowpox virus]
+gi|41057539|ref|NP_958012.1|vFam_724| ORF103 A type inclusion protein [Bovine papular stomatitis virus]

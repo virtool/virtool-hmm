@@ -1,0 +1,11 @@
+CLUSTER	5004
+NUM_SEQ	3
+LENGTH	94
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	50.76
+FAMILIES	{'Dicistroviridae': 3}
+GENERA	{'Aparavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|392505604|ref|YP_006488611.1|vFam_5004| Pog protein [Kashmir bee virus]
+gi|388604567|ref|YP_006390080.1|vFam_5004| ORFx protein [Israeli acute paralysis virus]
+gi|392373139|ref|YP_006485888.1|vFam_5004| Pog protein [Acute bee paralysis virus]

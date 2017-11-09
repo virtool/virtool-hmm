@@ -1,0 +1,17 @@
+CLUSTER	954
+NUM_SEQ	9
+LENGTH	201
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	100.5
+FAMILIES	{'Baculoviridae': 6}
+GENERA	{'Betabaculovirus': 2, 'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|21686729|ref|NP_663229.1|vFam_954| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|288804691|ref|YP_003429376.1|vFam_954| PrGVORF52 [Pieris rapae granulovirus]
+gi|86355542|ref|YP_473210.1|vFam_954| ORF22 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|96979792|ref|YP_610994.1|vFam_954| p22.2 [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326198|ref|YP_803524.1|vFam_954| hypothetical protein AGNV_gp130 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651403|ref|NP_932738.1|vFam_954| hypothetical protein CFDNVgORF129 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|529153499|ref|YP_008378524.1|vFam_954| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|571031219|ref|YP_008992115.1|vFam_954| hypothetical protein chmu023 [Choristoneura murinana alphabaculovirus]
+gi|529153336|ref|YP_008378376.1|vFam_954| hypothetical protein [Choristoneura rosaceana alphabaculovirus]

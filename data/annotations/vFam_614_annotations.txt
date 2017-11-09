@@ -1,0 +1,22 @@
+CLUSTER	614
+NUM_SEQ	14
+LENGTH	242
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	125.84
+FAMILIES	{'Baculoviridae': 10}
+GENERA	{'Alphabaculovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|438000424|ref|YP_007250529.1|vFam_614| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964627|ref|YP_950823.1|vFam_614| Mv-ORF93 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|237643656|ref|YP_002884346.1|vFam_614| Ac124-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|114680175|ref|YP_758588.1|vFam_614| hypothetical protein PXMNV_gp122 [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|15320765|ref|NP_203277.1|vFam_614| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|37651390|ref|NP_932727.1|vFam_614| hypothetical protein CFDNVgORF118 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|116326189|ref|YP_803515.1|vFam_614| hypothetical protein AGNV_gp121 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|96979802|ref|YP_611005.1|vFam_614| hypothetical protein APNV_p036 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355552|ref|YP_473220.1|vFam_614| ORF32 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630060|ref|NP_046278.1|vFam_614| hypothetical protein OpmnVgp122 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153348|ref|YP_008378388.1|vFam_614| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|571031233|ref|YP_008992129.1|vFam_614| ac124 [Choristoneura murinana alphabaculovirus]
+gi|529153512|ref|YP_008378537.1|vFam_614| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|30387345|ref|NP_848424.1|vFam_614| hypothetical protein CfMNPVgpORF113 [Choristoneura fumiferana multiple nucleopolyhedrovirus]

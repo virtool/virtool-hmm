@@ -1,0 +1,11 @@
+CLUSTER	2746
+NUM_SEQ	3
+LENGTH	101
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	52.52
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 2, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|313768262|ref|YP_004061942.1|vFam_2746| hypothetical protein MpV1_059 [Micromonas sp. RCC1109 virus MpV1]
+gi|260665930|ref|YP_003212884.1|vFam_2746| hypothetical protein OTV1_060 [Ostreococcus tauri virus 1]
+gi|314055148|ref|YP_004063486.1|vFam_2746| hypothetical protein OtV2_053 [Ostreococcus tauri virus 2]

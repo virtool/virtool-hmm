@@ -1,0 +1,14 @@
+CLUSTER	1664
+NUM_SEQ	6
+LENGTH	170
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	88.4
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|472438245|ref|YP_007678022.1|vFam_1664| hypothetical protein SMF1_0020 [Sulfolobales Mexican fusellovirus 1]
+gi|9625543|ref|NP_039800.1|vFam_1664| hypothetical protein SSV-1p24 [Sulfolobus spindle-shaped virus 1]
+gi|270281847|ref|YP_003331513.1|vFam_1664| hypothetical protein SSSV7_gp30 [Sulfolobus spindle-shaped virus 7]
+gi|38639829|ref|NP_944480.1|vFam_1664| hypothetical protein SSV2p28 [Sulfolobus spindle-shaped virus 2]
+gi|42495088|ref|NP_963994.1|vFam_1664| ORF B169 [Sulfolobus virus Kamchatka 1]
+gi|42494961|ref|NP_963959.1|vFam_1664| ORF B170 [Sulfolobus virus Ragged Hills]

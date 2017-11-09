@@ -1,0 +1,10 @@
+CLUSTER	6046
+NUM_SEQ	2
+LENGTH	246
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	125.46
+FAMILIES	{'Orthomyxoviridae': 2}
+GENERA	{'Influenzavirus C': 2}
+FASTA SEQUENCE TITLES:
+gi|211910017|ref|YP_002302329.1|vFam_6046| nonstructural protein 1 [Influenza C virus (C/Ann Arbor/1/50)]
+gi|211910016|ref|YP_002302328.1|vFam_6046| nonstructural protein 2 [Influenza C virus (C/Ann Arbor/1/50)]

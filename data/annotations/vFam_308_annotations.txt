@@ -1,0 +1,28 @@
+CLUSTER	308
+NUM_SEQ	20
+LENGTH	92
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	49.68
+FAMILIES	{'Baculoviridae': 17}
+GENERA	{'Betabaculovirus': 2, 'Alphabaculovirus': 15}
+FASTA SEQUENCE TITLES:
+gi|148368825|ref|YP_001256955.1|vFam_308| p10-1 [Spodoptera litura granulovirus]
+gi|164519200|ref|YP_001648987.1|vFam_308| p10 [Helicoverpa armigera granulovirus]
+gi|209978806|ref|YP_002300549.1|vFam_308| P10 [Adoxophyes orana nucleopolyhedrovirus]
+gi|113195422|ref|YP_717558.1|vFam_308| P10 [Clanis bilineata nucleopolyhedrovirus]
+gi|209401074|ref|YP_002273943.1|vFam_308| fibrous body protein [Helicoverpa armigera NPV NNg1]
+gi|114679868|ref|YP_758318.1|vFam_308| p10 [Leucania separata nucleopolyhedrovirus]
+gi|9631007|ref|NP_047677.1|vFam_308| Ld-p10; fibrous body protein [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|228861640|ref|YP_002854660.1|vFam_308| P10 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|209171033|ref|YP_002268180.1|vFam_308| P10 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|15617491|ref|NP_258287.1|vFam_308| P10 protein [Spodoptera litura nucleopolyhedrovirus]
+gi|529218076|ref|YP_008378239.1|vFam_308| p10 [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502212|ref|YP_006607870.1|vFam_308| p10 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|74229703|ref|YP_308907.1|vFam_308| orf18 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|125860254|ref|YP_001036424.1|vFam_308| p10 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|90592860|ref|YP_529813.1|vFam_308| P10 [Agrotis segetum nucleopolyhedrovirus]
+gi|215401528|ref|YP_002332832.1|vFam_308| P10 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634351|ref|NP_037890.1|vFam_308| ORF130 p10 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|20070038|ref|NP_613242.1|vFam_308| p10 [Mamestra configurata nucleopolyhedrovirus A]
+gi|165969031|ref|YP_001650931.1|vFam_308| p10 [Orgyia leucostigma NPV]
+gi|118197500|ref|YP_874212.1|vFam_308| p10 [Ectropis obliqua nucleopolyhedrovirus]

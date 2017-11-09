@@ -1,0 +1,10 @@
+CLUSTER	5642
+NUM_SEQ	2
+LENGTH	489
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	254.28
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531034865|ref|YP_008436490.1|vFam_5642| hypothetical protein ps_74 [Pandoravirus salinus]
+gi|526118670|ref|YP_008318573.1|vFam_5642| hypothetical protein [Pandoravirus dulcis]

@@ -1,0 +1,23 @@
+CLUSTER	436
+NUM_SEQ	15
+LENGTH	116
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	61.48
+FAMILIES	{'Adenoviridae': 14}
+GENERA	{'None': 1, 'Mastadenovirus': 13}
+FASTA SEQUENCE TITLES:
+gi|51556688|ref|YP_068085.1|vFam_436| E4 ORFE [Tree shrew adenovirus 1]
+gi|496838722|ref|YP_007518340.1|vFam_436| E4 ORF3 [Titi monkey adenovirus ECC-2011]
+gi|56160873|ref|AP_000531.1|vFam_436| E4 ORF3 [Human adenovirus 1]
+gi|460042667|ref|YP_007518094.1|vFam_436| E4 orf3 [Simian adenovirus 20]
+gi|51518847|ref|YP_067934.1|vFam_436| E4 ORF3 [Simian adenovirus 3]
+gi|56160469|ref|AP_000139.1|vFam_436| E4 ORF3 [Human adenovirus A]
+gi|253762008|ref|YP_003038630.1|vFam_436| 13.6 kDa protein [Human adenovirus 54]
+gi|56160631|ref|AP_000296.1|vFam_436| E4 ORF3 [Simian adenovirus 21]
+gi|197944763|ref|YP_002213838.1|vFam_436| control protein E4orf3 [Human adenovirus B]
+gi|386522712|ref|YP_006272977.1|vFam_436| E4Orf3 [Chimpanzee adenovirus Y25]
+gi|327415400|ref|YP_004300228.1|vFam_436| unnamed protein product [Simian adenovirus 49]
+gi|9626589|ref|NP_040880.1|vFam_436| control protein E4orf3 [Human adenovirus F]
+gi|540155853|ref|YP_008520247.1|vFam_436| E4 orf3 [Simian adenovirus 18]
+gi|61602116|ref|YP_213993.1|vFam_436| E4 ORF3 [Simian adenovirus 1]
+gi|485191091|ref|YP_007906027.1|vFam_436| E4 ORF3 [Simian adenovirus C]

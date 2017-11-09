@@ -1,0 +1,10 @@
+CLUSTER	6705
+NUM_SEQ	2
+LENGTH	94
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	49.82
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|9631402|ref|NP_048303.1|vFam_6705| ORF MSV232 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|9631401|ref|NP_048302.1|vFam_6705| ORF MSV231 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]

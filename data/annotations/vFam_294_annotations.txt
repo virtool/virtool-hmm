@@ -1,0 +1,28 @@
+CLUSTER	294
+NUM_SEQ	20
+LENGTH	243
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	128.79
+FAMILIES	{'Poxviridae': 17}
+GENERA	{'None': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Betaentomopoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Suipoxvirus': 1, 'Yatapoxvirus': 1, 'Parapoxvirus': 2, 'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9631378|ref|NP_048254.1|vFam_294| ORF MSV183 putative myristylated membrane protein, Molluscum contagiosum virus MC069R (vaccinia L1R) homolog, similar to GB:U60315 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497958|ref|YP_008003757.1|vFam_294| IMV membrane protein (Cop-L1R) [Mythimna separata entomopoxvirus 'L']
+gi|9964531|ref|NP_064999.1|vFam_294| putative myristylated membrane protein [Amsacta moorei entomopoxvirus 'L']
+gi|506498821|ref|YP_008004615.1|vFam_294| IMV membrane protein (Cop-L1R) [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498161|ref|YP_008003958.1|vFam_294| IMV membrane protein (Cop-L1R) [Adoxophyes honmai entomopoxvirus 'L']
+gi|115531746|ref|YP_784272.1|vFam_294| myristylated IMV envelope protein [Nile crocodilepox virus]
+gi|41057483|ref|NP_957956.1|vFam_294| ORF047 myristylated IMV envelope protein [Bovine papular stomatitis virus]
+gi|289183811|ref|YP_003457352.1|vFam_294| IMV protein [Pseudocowpox virus]
+gi|113195268|ref|YP_717398.1|vFam_294| IMV membrane protein [Taterapox virus]
+gi|345107256|ref|YP_004821421.1|vFam_294| IMV membrane protein [Yoka poxvirus]
+gi|9633864|ref|NP_051944.1|vFam_294| gp055R [Rabbit fibroma virus]
+gi|377829969|ref|YP_005296264.1|vFam_294| unnamed protein product [Cotia virus SPAn232]
+gi|157939683|ref|YP_001497055.1|vFam_294| IMV membrane protein [Tanapox virus]
+gi|18640143|ref|NP_570217.1|vFam_294| SPV057 putative myristylated IMV envelope protein [Swinepox virus]
+gi|148912937|ref|YP_001293251.1|vFam_294| hypothetical protein GTPV_gp056 [Goatpox virus Pellor]
+gi|211956340|ref|YP_002302409.1|vFam_294| myristylated IMV envelope protein [Deerpox virus W-1170-84]
+gi|571797980|ref|YP_008658479.1|vFam_294| myristylprotein / IMV protein [Squirrelpox virus]
+gi|40556111|ref|NP_955196.1|vFam_294| CNPV173 putative myristylated IMV envelope protein [Canarypox virus]
+gi|9634798|ref|NP_039091.1|vFam_294| Myristylated membrane protein [Fowlpox virus]
+gi|9629001|ref|NP_044020.1|vFam_294| MC069R [Molluscum contagiosum virus subtype 1]

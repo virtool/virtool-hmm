@@ -1,0 +1,12 @@
+CLUSTER	3161
+NUM_SEQ	4
+LENGTH	493
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	256.36
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|531037038|ref|YP_008438680.1|vFam_3161| thioredoxin reductase [Pandoravirus salinus]
+gi|311978057|ref|YP_003987177.1|vFam_3161| putative amine oxidase [Acanthamoeba polyphaga mimivirus]
+gi|448825791|ref|YP_007418722.1|vFam_3161| putative amine oxidase [Megavirus lba]
+gi|441432628|ref|YP_007354670.1|vFam_3161| FAD dependent oxidoreductase family protein [Acanthamoeba polyphaga moumouvirus]

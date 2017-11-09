@@ -1,0 +1,11 @@
+CLUSTER	4575
+NUM_SEQ	3
+LENGTH	188
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	97.76
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Iridovirus': 1, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|109287959|ref|YP_654653.1|vFam_4575| hypothetical protein MIV081L [Invertebrate iridescent virus 3]
+gi|527333564|ref|YP_008357348.1|vFam_4575| Fasciclin-like protein [Invertebrate iridovirus 22]
+gi|339906164|ref|YP_004732961.1|vFam_4575| hypothetical protein WIV_gp178 [Wiseana iridescent virus]

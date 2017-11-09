@@ -1,0 +1,11 @@
+CLUSTER	4826
+NUM_SEQ	3
+LENGTH	81
+RELATIVE_ENTROPY_PER_POSITION	0.64
+TOTAL_RELATIVE_ENTROPY	51.84
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329359|ref|YP_001604160.1|vFam_4826| hypothetical protein AFV6_gp02 [Acidianus filamentous virus 6]
+gi|171473714|ref|YP_001798584.1|vFam_4826| hypothetical protein AFV9_gp66 [Acidianus filamentous virus 9]
+gi|16753155|ref|NP_445733.1|vFam_4826| hypothetical protein SIFV0070 [Sulfolobus islandicus filamentous virus]

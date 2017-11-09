@@ -1,0 +1,11 @@
+CLUSTER	2576
+NUM_SEQ	3
+LENGTH	138
+RELATIVE_ENTROPY_PER_POSITION	0.47
+TOTAL_RELATIVE_ENTROPY	64.86
+FAMILIES	{'Phycodnaviridae': 1, 'Polydnaviridae': 1}
+GENERA	{'Ichnovirus': 1, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|526119876|ref|YP_008319779.1|vFam_2576| hypothetical protein [Pandoravirus dulcis]
+gi|124378209|ref|YP_001029415.1|vFam_2576| GfV-C11-ORF2 [Glypta fumiferanae ichnovirus]
+gi|73852759|ref|YP_294043.1|vFam_2576| hypothetical protein EhV286 [Emiliania huxleyi virus 86]

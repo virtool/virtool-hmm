@@ -1,0 +1,11 @@
+CLUSTER	4544
+NUM_SEQ	3
+LENGTH	59
+RELATIVE_ENTROPY_PER_POSITION	0.91
+TOTAL_RELATIVE_ENTROPY	53.69
+FAMILIES	{'Potyviridae': 3}
+GENERA	{'Potyvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|390371014|ref|YP_006405419.1|vFam_4544| PIPO, partial [Moroccan watermelon mosaic virus]
+gi|392718707|ref|YP_006460569.1|vFam_4544| PIPO, partial [Algerian watermelon mosaic virus]
+gi|389838998|ref|YP_006393463.1|vFam_4544| PIPO, partial [Papaya ringspot virus]

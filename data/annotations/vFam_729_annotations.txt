@@ -1,0 +1,11 @@
+CLUSTER	729
+NUM_SEQ	3
+LENGTH	585
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	298.35
+FAMILIES	{'Parvoviridae': 3}
+GENERA	{'Amdovirus': 1, 'Parvovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9628282|ref|NP_042875.1|vFam_729| unknown protein [Aleutian mink disease virus]
+gi|40795678|ref|NP_955539.1|vFam_729| capsid protein VP2 [Canine parvovirus]
+gi|26335933|ref|NP_757372.1|vFam_729| capsid protein 2 [Porcine parvovirus]

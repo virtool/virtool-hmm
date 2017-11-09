@@ -1,0 +1,14 @@
+CLUSTER	2158
+NUM_SEQ	6
+LENGTH	60
+RELATIVE_ENTROPY_PER_POSITION	0.87
+TOTAL_RELATIVE_ENTROPY	52.2
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|42494937|ref|NP_963935.1|vFam_2158| ORF F61 [Sulfolobus virus Ragged Hills]
+gi|9625529|ref|NP_039786.1|vFam_2158| hypothetical protein SSV-1p10 [Sulfolobus spindle-shaped virus 1]
+gi|160688432|ref|YP_001552194.1|vFam_2158| hypothetical protein SSSV4_ORF62 [Sulfolobus spindle-shaped virus 4]
+gi|38639813|ref|NP_944464.1|vFam_2158| helix-turn-helix protein [Sulfolobus spindle-shaped virus 2]
+gi|270281799|ref|YP_003331464.1|vFam_2158| hypothetical protein SSSV6_gp14 [Sulfolobus spindle-shaped virus 6]
+gi|198449243|ref|YP_002221481.1|vFam_2158| hypothetical protein SSSV5_gp16 [Sulfolobus spindle-shaped virus 5]

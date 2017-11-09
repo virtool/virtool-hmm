@@ -1,0 +1,30 @@
+CLUSTER	34
+NUM_SEQ	22
+LENGTH	507
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	268.71
+FAMILIES	{'Closteroviridae': 19, 'Virgaviridae': 1}
+GENERA	{'Ampelovirus': 5, 'None': 2, 'Closterovirus': 4, 'Tobamovirus': 1, 'Crinivirus': 8}
+FASTA SEQUENCE TITLES:
+gi|26251495|ref|NP_757347.1|vFam_34| papain-like protease 1 [Citrus tristeza virus]
+gi|62327417|ref|YP_224290.1|vFam_34| protease [Mint virus 1]
+gi|26251496|ref|NP_757348.1|vFam_34| papain-like protease 2 [Citrus tristeza virus]
+gi|119964531|ref|YP_950422.1|vFam_34| 55 kDa replicase [Maracuja mosaic virus]
+gi|530547426|ref|YP_008411010.1|vFam_34| RNA-dependent RNA polymerase 1b [Blackberry vein banding associated virus]
+gi|366898513|ref|YP_004940642.1|vFam_34| POL gene product [Grapevine leafroll-associated virus 1]
+gi|160707861|ref|YP_001552324.1|vFam_34| RNA-dependent RNA polymerase [Plum bark necrosis and stem pitting-associated virus]
+gi|163932205|ref|YP_001642337.1|vFam_34| RNA-dependent RNA polymerase [Pineapple mealybug wilt-associated virus 1]
+gi|352749711|ref|YP_004901687.1|vFam_34| RdRp gene product [Grapevine leafroll-associated virus 5]
+gi|218202720|ref|YP_002364303.1|vFam_34| RNA dependent RNA polymerase [Grapevine leafroll-associated virus 10]
+gi|359683125|ref|YP_004935919.1|vFam_34| RdRp gene product, partial [Grapevine leafroll-associated virus 7]
+gi|395865408|ref|YP_006522442.1|vFam_34| presumable RNA dependent RNA polymerase [Cucurbit chlorotic yellows virus]
+gi|176428596|ref|YP_001816770.1|vFam_34| ORF1b [Bean yellow disorder virus]
+gi|72398364|ref|YP_293695.1|vFam_34| RNA dependent RNA polymerase [Tomato chlorosis virus]
+gi|25013978|ref|NP_733939.1|vFam_34| RNA-dependant RNA polymerase [Sweet potato chlorotic stunt virus]
+gi|116617173|ref|YP_829128.1|vFam_34| RNA-dependent RNA polymerase [Potato yellow vein virus]
+gi|267857693|ref|YP_003289291.1|vFam_34| ORF 1b [Strawberry pallidosis-associated virus]
+gi|38257128|ref|NP_940796.1|vFam_34| ORF 1b; RdRp; viral polymerase [Beet pseudo-yellows virus]
+gi|62432809|ref|YP_227378.1|vFam_34| polymerase [Blackberry yellow vein-associated virus]
+gi|402783693|ref|YP_006638806.1|vFam_34| RNA dependent RNA polymerase [Blueberry virus A]
+gi|563398777|ref|YP_008858531.1|vFam_34| RdRp, partial [Carnation yellow fleck virus]
+gi|254666619|ref|YP_003075965.1|vFam_34| 1b [Carrot yellow leaf virus]

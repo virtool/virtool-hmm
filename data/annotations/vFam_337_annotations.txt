@@ -1,0 +1,24 @@
+CLUSTER	337
+NUM_SEQ	16
+LENGTH	323
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	167.96
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|40556124|ref|NP_955209.1|vFam_337| CNPV186 putative IMV envelope protein [Canarypox virus]
+gi|9634810|ref|NP_039103.1|vFam_337| Virion envelope protein, p35 [Fowlpox virus]
+gi|41057495|ref|NP_957968.1|vFam_337| ORF059 IMV protein VP55 [Bovine papular stomatitis virus]
+gi|289183823|ref|YP_003457364.1|vFam_337| immunodominant envelope protein [Pseudocowpox virus]
+gi|41057122|ref|NP_957836.1|vFam_337| ORF059 putative IMV protein VP55 [Orf virus]
+gi|9629016|ref|NP_044035.1|vFam_337| MC084L [Molluscum contagiosum virus subtype 1]
+gi|571797993|ref|YP_008658492.1|vFam_337| IMV heparin binding surface protein [Squirrelpox virus]
+gi|113195280|ref|YP_717410.1|vFam_337| IMV heparin binding surface protein [Taterapox virus]
+gi|345107269|ref|YP_004821434.1|vFam_337| immunodominant IMV surface protein [Yoka poxvirus]
+gi|377829981|ref|YP_005296278.1|vFam_337| unnamed protein product [Cotia virus SPAn232]
+gi|157939697|ref|YP_001497069.1|vFam_337| IMV envelope protein p35 [Tanapox virus]
+gi|38229236|ref|NP_938329.1|vFam_337| 74L [Yaba monkey tumor virus]
+gi|9633880|ref|NP_051960.1|vFam_337| gp071L [Rabbit fibroma virus]
+gi|211956354|ref|YP_002302423.1|vFam_337| IMV envelope protein p35 [Deerpox virus W-1170-84]
+gi|21492527|ref|NP_659646.1|vFam_337| IMV envelope protein p35 [Sheeppox virus]
+gi|18640157|ref|NP_570231.1|vFam_337| SPV071 putative IMV envelope protein p35 [Swinepox virus]

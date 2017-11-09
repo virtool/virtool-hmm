@@ -1,0 +1,20 @@
+CLUSTER	623
+NUM_SEQ	12
+LENGTH	278
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	141.78
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Muromegalovirus': 3, 'None': 2, 'Proboscivirus': 1, 'Roseolovirus': 2, 'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|496991141|ref|YP_007969813.1|vFam_623| nuclear egress lamina protein [Elephantid herpesvirus 1]
+gi|448824896|ref|YP_007417828.1|vFam_623| GP53 [Caviid herpesvirus 2]
+gi|9633108|ref|NP_050218.1|vFam_623| hypothetical protein HhV6Bgp043 [Human herpesvirus 6B]
+gi|51874259|ref|YP_073777.1|vFam_623| nuclear egress lamina protein [Human herpesvirus 7]
+gi|538447236|ref|YP_008492976.1|vFam_623| nuclear egress lamina protein [Porcine cytomegalovirus]
+gi|9845345|ref|NP_064159.1|vFam_623| pR53 [Murid herpesvirus 2]
+gi|425707263|ref|YP_007016460.1|vFam_623| E53 [Murid herpesvirus 8]
+gi|61660175|ref|YP_214066.1|vFam_623| hypothetical protein MuHV1_gp058 [Murid herpesvirus 1]
+gi|14251045|ref|NP_116407.1|vFam_623| T53 [Tupaiid herpesvirus 1]
+gi|51556544|ref|YP_068178.1|vFam_623| rh85 [Macacine herpesvirus 3]
+gi|360086541|ref|YP_004940226.1|vFam_623| nuclear egress lamina protein [Saimiriine herpesvirus 3]
+gi|360040945|ref|YP_004940080.1|vFam_623| nuclear egress lamina protein [Aotine herpesvirus 1]

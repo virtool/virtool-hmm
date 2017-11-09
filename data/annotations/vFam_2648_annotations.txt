@@ -1,0 +1,11 @@
+CLUSTER	2648
+NUM_SEQ	3
+LENGTH	330
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	171.6
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978094|ref|YP_003987214.1|vFam_2648| putative UV-damage endonuclease [Acanthamoeba polyphaga mimivirus]
+gi|448825187|ref|YP_007418118.1|vFam_2648| putative UV-damage endonuclease [Megavirus lba]
+gi|441432107|ref|YP_007354149.1|vFam_2648| putative UV-damage endonuclease [Acanthamoeba polyphaga moumouvirus]

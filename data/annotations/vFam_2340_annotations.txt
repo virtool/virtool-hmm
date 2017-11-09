@@ -1,0 +1,10 @@
+CLUSTER	2340
+NUM_SEQ	2
+LENGTH	348
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	180.96
+FAMILIES	{'Hytrosaviridae': 2}
+GENERA	{'Glossinavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|168804070|ref|YP_001687002.1|vFam_2340| hypothetical protein SGHV054 [Glossina pallidipes salivary gland hypertrophy virus]
+gi|168804043|ref|YP_001686974.1|vFam_2340| hypothetical protein SGHV026 [Glossina pallidipes salivary gland hypertrophy virus]

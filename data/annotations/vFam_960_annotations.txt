@@ -1,0 +1,17 @@
+CLUSTER	960
+NUM_SEQ	9
+LENGTH	208
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	110.24
+FAMILIES	{'Secoviridae': 8}
+GENERA	{'Comovirus': 6, 'Fabavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|25013684|ref|NP_734061.1|vFam_960| protease [Cowpea severe mosaic virus]
+gi|25013676|ref|NP_734069.1|vFam_960| protease [Bean pod mottle virus]
+gi|25013697|ref|NP_734011.1|vFam_960| protease [Squash mosaic virus]
+gi|25013710|ref|NP_734056.1|vFam_960| protease [Cowpea mosaic virus]
+gi|530323598|ref|YP_008400142.1|vFam_960| proteinase [Broad bean true mosaic virus]
+gi|25013692|ref|NP_734029.1|vFam_960| protease [Red clover mottle virus]
+gi|564614867|ref|YP_008877669.1|vFam_960| protease [Lamium mild mosaic virus]
+gi|25013973|ref|NP_733961.1|vFam_960| protease [Broad bean wilt virus 2]
+gi|39979442|ref|NP_951029.1|vFam_960| cysteine protease [Broad bean wilt virus 1]

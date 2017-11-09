@@ -1,0 +1,13 @@
+CLUSTER	1340
+NUM_SEQ	5
+LENGTH	101
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	50.5
+FAMILIES	{'None': 2, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531035499|ref|YP_008437130.1|vFam_1340| hypothetical protein ps_717 [Pandoravirus salinus]
+gi|310831191|ref|YP_003969834.1|vFam_1340| hypothetical protein crov202 [Cafeteria roenbergensis virus BV-PW1]
+gi|448825876|ref|YP_007418807.1|vFam_1340| hypothetical protein LBA_00913 [Megavirus lba]
+gi|441432684|ref|YP_007354726.1|vFam_1340| hypothetical protein Moumou_00772 [Acanthamoeba polyphaga moumouvirus]
+gi|311977414|ref|YP_003986533.1|vFam_1340| hypothetical protein [Acanthamoeba polyphaga mimivirus]

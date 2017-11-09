@@ -1,0 +1,11 @@
+CLUSTER	1972
+NUM_SEQ	3
+LENGTH	307
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	156.57
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|52139200|ref|YP_081473.1|vFam_1972| membrane protein UL14 [Human herpesvirus 5]
+gi|359946459|ref|YP_004935991.1|vFam_1972| membrane protein UL14 [Cercopithecine herpesvirus 5]
+gi|356640320|ref|YP_004933762.1|vFam_1972| putative membrane glycoprotein UL14 [Cynomolgus macaque cytomegalovirus strain Ottawa]

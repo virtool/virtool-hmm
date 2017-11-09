@@ -1,0 +1,15 @@
+CLUSTER	1636
+NUM_SEQ	7
+LENGTH	95
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	50.35
+FAMILIES	{'Herpesviridae': 7}
+GENERA	{'Varicellovirus': 1, 'Mardivirus': 4, 'Iltovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|51571896|ref|YP_068406.1|vFam_1636| envelope glycoprotein N [Human herpesvirus 3]
+gi|255683170|ref|YP_003084370.1|vFam_1636| UL49.5 [Anatid herpesvirus 1]
+gi|12084880|ref|NP_073344.1|vFam_1636| envelope glycoprotein N [Meleagrid herpesvirus 1]
+gi|125745103|ref|YP_001033979.1|vFam_1636| envelope glycoprotein N [Gallid herpesvirus 2]
+gi|10834921|ref|NP_066882.1|vFam_1636| envelope glycoprotein N [Gallid herpesvirus 3]
+gi|38638202|ref|NP_944385.1|vFam_1636| envelope glycoprotein N [Psittacid herpesvirus 1]
+gi|57790937|ref|YP_182341.1|vFam_1636| envelope glycoprotein N [Gallid herpesvirus 1]

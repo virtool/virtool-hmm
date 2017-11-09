@@ -1,0 +1,10 @@
+CLUSTER	2586
+NUM_SEQ	2
+LENGTH	74
+RELATIVE_ENTROPY_PER_POSITION	0.68
+TOTAL_RELATIVE_ENTROPY	50.32
+FAMILIES	{'Mimiviridae': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|526119600|ref|YP_008319503.1|vFam_2586| hypothetical protein [Pandoravirus dulcis]
+gi|441432640|ref|YP_007354682.1|vFam_2586| arginyl-tRNA synthetase [Acanthamoeba polyphaga moumouvirus]

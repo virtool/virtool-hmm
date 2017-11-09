@@ -1,0 +1,13 @@
+CLUSTER	1350
+NUM_SEQ	5
+LENGTH	325
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	165.75
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'None': 2, 'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|448824878|ref|YP_007417810.1|vFam_1350| GP37 [Caviid herpesvirus 2]
+gi|14251024|ref|NP_116386.1|vFam_1350| T37 [Tupaiid herpesvirus 1]
+gi|9845328|ref|NP_064142.1|vFam_1350| pR37 [Murid herpesvirus 2]
+gi|425707244|ref|YP_007016441.1|vFam_1350| E37 [Murid herpesvirus 8]
+gi|61660158|ref|YP_214049.1|vFam_1350| Glycoprotein present at IE times [Murid herpesvirus 1]

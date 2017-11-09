@@ -1,0 +1,10 @@
+CLUSTER	6029
+NUM_SEQ	2
+LENGTH	301
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	156.52
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|360086497|ref|YP_004940181.1|vFam_6029| membrane protein S5 [Saimiriine herpesvirus 3]
+gi|360086496|ref|YP_004940180.1|vFam_6029| membrane protein S4 [Saimiriine herpesvirus 3]

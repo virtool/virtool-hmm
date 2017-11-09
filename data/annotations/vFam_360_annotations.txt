@@ -1,0 +1,25 @@
+CLUSTER	360
+NUM_SEQ	17
+LENGTH	386
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	196.86
+FAMILIES	{'Baculoviridae': 15}
+GENERA	{'Alphabaculovirus': 15}
+FASTA SEQUENCE TITLES:
+gi|209978863|ref|YP_002300606.1|vFam_360| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|29567177|ref|NP_818739.1|vFam_360| hypothetical protein AhnVgp092 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|113195516|ref|YP_717654.1|vFam_360| ac18-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|114679983|ref|YP_758433.1|vFam_360| ORF136 [Leucania separata nucleopolyhedrovirus]
+gi|15617581|ref|NP_258381.1|vFam_360| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|118197573|ref|YP_874285.1|vFam_360| hypothetical protein EONV_gp092 [Ectropis obliqua nucleopolyhedrovirus]
+gi|165969133|ref|YP_001651033.1|vFam_360| hypothetical protein [Orgyia leucostigma NPV]
+gi|402502126|ref|YP_006607784.1|vFam_360| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|228861700|ref|YP_002854720.1|vFam_360| hypothetical protein EupsNPV_gp110 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|74229802|ref|YP_309006.1|vFam_360| orf117 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304261|ref|YP_249729.1|vFam_360| ORF-125 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|125860163|ref|YP_001036333.1|vFam_360| hypothetical protein SFMNPV_gp041 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|20069935|ref|NP_613139.1|vFam_360| hypothetical protein McnAVgp056 [Mamestra configurata nucleopolyhedrovirus A]
+gi|215401439|ref|YP_002332742.1|vFam_360| hypothetical protein SlnV2_gp044 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634264|ref|NP_037803.1|vFam_360| ORF43 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209170934|ref|YP_002268080.1|vFam_360| agip50 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592762|ref|YP_529715.1|vFam_360| ORF-45 [Agrotis segetum nucleopolyhedrovirus]

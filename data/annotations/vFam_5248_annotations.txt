@@ -1,0 +1,10 @@
+CLUSTER	5248
+NUM_SEQ	2
+LENGTH	167
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	86.84
+FAMILIES	{'Coronaviridae': 2}
+GENERA	{'Torovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|77118353|ref|YP_337910.1|vFam_5248| nucleocapsid phosphoprotein [Breda virus]
+gi|557745620|ref|YP_008798235.1|vFam_5248| nucleocapsid phosphoprotein [Porcine torovirus]

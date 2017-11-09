@@ -1,0 +1,11 @@
+CLUSTER	1915
+NUM_SEQ	3
+LENGTH	263
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	134.13
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'None': 2, 'Muromegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|14251110|ref|NP_116472.1|vFam_1915| t121 [Tupaiid herpesvirus 1]
+gi|9845407|ref|NP_064221.1|vFam_1915| pr119.1 [Murid herpesvirus 2]
+gi|448824945|ref|YP_007417877.1|vFam_1915| GP119.1 [Caviid herpesvirus 2]

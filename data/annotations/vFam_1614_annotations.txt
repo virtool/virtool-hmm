@@ -1,0 +1,10 @@
+CLUSTER	1614
+NUM_SEQ	2
+LENGTH	395
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	197.5
+FAMILIES	{'Phycodnaviridae': 1}
+GENERA	{'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|489472369|ref|WP_003377453.1|vFam_1614| MULTISPECIES: transposase [Bacteria]
+gi|157953015|ref|YP_001497907.1|vFam_1614| hypothetical protein NY2A_B711L [Paramecium bursaria Chlorella virus NY2A]

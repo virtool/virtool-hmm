@@ -1,0 +1,11 @@
+CLUSTER	1072
+NUM_SEQ	3
+LENGTH	363
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	188.76
+FAMILIES	{'Betaflexiviridae': 3}
+GENERA	{'Trichovirus': 2, 'Tepovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|194351515|ref|YP_002019749.1|vFam_1072| movement protein [Potato virus T]
+gi|339906184|ref|YP_004732979.1|vFam_1072| mp gene product [Grapevine Pinot gris virus]
+gi|325965586|ref|YP_004293217.1|vFam_1072| movement protein [Grapevine berry inner necrosis virus]

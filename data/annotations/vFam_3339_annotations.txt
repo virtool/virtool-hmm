@@ -1,0 +1,10 @@
+CLUSTER	3339
+NUM_SEQ	2
+LENGTH	145
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	71.05
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531034871|ref|YP_008436496.1|vFam_3339| hypothetical protein ps_80 [Pandoravirus salinus]
+gi|526118675|ref|YP_008318578.1|vFam_3339| hypothetical protein [Pandoravirus dulcis]

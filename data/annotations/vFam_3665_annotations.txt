@@ -1,0 +1,12 @@
+CLUSTER	3665
+NUM_SEQ	4
+LENGTH	206
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	100.94
+FAMILIES	{'None': 3, 'Herpesviridae': 1}
+GENERA	{'Tenuivirus': 3, 'Rhadinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9635232|ref|NP_058529.1|vFam_3665| hypothetical protein RGSVs2gp1 [Rice grassy stunt virus]
+gi|20428587|ref|NP_620520.1|vFam_3665| 22.7K protein [Rice stripe virus]
+gi|20428592|ref|NP_620547.1|vFam_3665| nonstructural protein [Rice stripe virus]
+gi|9629625|ref|NP_044903.1|vFam_3665| small capsid protein [Murid herpesvirus 4]

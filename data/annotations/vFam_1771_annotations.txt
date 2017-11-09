@@ -1,0 +1,10 @@
+CLUSTER	1771
+NUM_SEQ	2
+LENGTH	272
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	138.72
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|363540588|ref|YP_004894650.1|vFam_1771| mg599 gene product [Megavirus chiliensis]
+gi|311977690|ref|YP_003986810.1|vFam_1771| hypothetical protein [Acanthamoeba polyphaga mimivirus]

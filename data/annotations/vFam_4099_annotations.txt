@@ -1,0 +1,10 @@
+CLUSTER	4099
+NUM_SEQ	2
+LENGTH	428
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	218.28
+FAMILIES	{'Parvoviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|302317863|ref|YP_003799993.1|vFam_4099| non-structural protein 2 [Fenneropenaeus chinensis hepatopancreatic densovirus]
+gi|71658846|ref|YP_271914.1|vFam_4099| non-structural protein 2 [Penaeus merguiensis densovirus]

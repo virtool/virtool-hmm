@@ -1,0 +1,17 @@
+CLUSTER	932
+NUM_SEQ	9
+LENGTH	398
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	202.98
+FAMILIES	{'Adenoviridae': 7}
+GENERA	{'Aviadenovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|388570684|ref|YP_006383558.1|vFam_932| encapsidation protein 52K [Goose adenovirus 4]
+gi|555928190|ref|YP_008719822.1|vFam_932| 52K [Turkey adenovirus 4]
+gi|501000354|ref|YP_007985648.1|vFam_932| 52K [Fowl adenovirus 5]
+gi|56160716|ref|AP_000378.1|vFam_932| 52K [Fowl adenovirus D]
+gi|320202748|ref|YP_004191815.1|vFam_932| 52/55 kDa protein [Fowl adenovirus E]
+gi|327409479|ref|YP_004346923.1|vFam_932| 52 kDa protein [Fowl adenovirus C]
+gi|308222746|ref|YP_003933583.1|vFam_932| unnamed protein product [Turkey adenovirus 1]
+gi|555928223|ref|YP_008719854.1|vFam_932| 52K [Turkey adenovirus 5]
+gi|56160744|ref|AP_000412.1|vFam_932| 52K [Fowl adenovirus A]

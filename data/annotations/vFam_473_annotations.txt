@@ -1,0 +1,21 @@
+CLUSTER	473
+NUM_SEQ	13
+LENGTH	265
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	137.8
+FAMILIES	{'Herpesviridae': 13}
+GENERA	{'None': 1, 'Roseolovirus': 2, 'Proboscivirus': 1, 'Cytomegalovirus': 6, 'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|496991157|ref|YP_007969793.1|vFam_473| protein UL79 [Elephantid herpesvirus 1]
+gi|9633123|ref|NP_050233.1|vFam_473| hypothetical protein HhV6Bgp058 [Human herpesvirus 6B]
+gi|51874274|ref|YP_073792.1|vFam_473| protein UL79 [Human herpesvirus 7]
+gi|538447249|ref|YP_008492989.1|vFam_473| component of prereplication complexes [Porcine cytomegalovirus]
+gi|360086557|ref|YP_004940242.1|vFam_473| protein UL79 [Saimiriine herpesvirus 3]
+gi|360040961|ref|YP_004940096.1|vFam_473| protein UL79 [Aotine herpesvirus 1]
+gi|356640403|ref|YP_004933845.1|vFam_473| protein UL79 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139252|ref|YP_081527.1|vFam_473| protein UL79 [Human herpesvirus 5]
+gi|20026670|ref|NP_612712.1|vFam_473| protein UL79 [Panine herpesvirus 2]
+gi|14251068|ref|NP_116430.1|vFam_473| T79 [Tupaiid herpesvirus 1]
+gi|9845365|ref|NP_064179.1|vFam_473| pR79 [Murid herpesvirus 2]
+gi|425707280|ref|YP_007016477.1|vFam_473| E79 [Murid herpesvirus 8]
+gi|61660191|ref|YP_214082.1|vFam_473| hypothetical protein MuHV1_gp074 [Murid herpesvirus 1]

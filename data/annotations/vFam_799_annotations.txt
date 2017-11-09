@@ -1,0 +1,14 @@
+CLUSTER	799
+NUM_SEQ	6
+LENGTH	588
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	305.76
+FAMILIES	{'Phycodnaviridae': 6}
+GENERA	{'Chlorovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|155371655|ref|YP_001427189.1|vFam_799| hypothetical protein ATCV1_Z708L [Acanthocystis turfacea Chlorella virus 1]
+gi|340025784|ref|NP_048632.2|vFam_799| Protein kinase [Paramecium bursaria Chlorella virus 1]
+gi|9631850|ref|NP_048636.1|vFam_799| Protein kinase [Paramecium bursaria Chlorella virus 1]
+gi|340025924|ref|NP_048970.2|vFam_799| Protein kinase [Paramecium bursaria Chlorella virus 1]
+gi|155371522|ref|YP_001427056.1|vFam_799| hypothetical protein ATCV1_Z575R [Acanthocystis turfacea Chlorella virus 1]
+gi|155370818|ref|YP_001426352.1|vFam_799| hypothetical protein FR483_N720L [Paramecium bursaria Chlorella virus FR483]

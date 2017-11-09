@@ -1,0 +1,23 @@
+CLUSTER	394
+NUM_SEQ	15
+LENGTH	379
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	185.71
+FAMILIES	{'Alloherpesviridae': 1, 'Herpesviridae': 14}
+GENERA	{'None': 2, 'Muromegalovirus': 3, 'Roseolovirus': 2, 'Proboscivirus': 1, 'Batrachovirus': 1, 'Cytomegalovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|109638512|ref|YP_656757.1|vFam_394| ORF102 [Ranid herpesvirus 1]
+gi|496991150|ref|YP_007969802.1|vFam_394| DNA polymerase processivity subunit [Elephantid herpesvirus 1]
+gi|448824885|ref|YP_007417817.1|vFam_394| GP44 [Caviid herpesvirus 2]
+gi|14251035|ref|NP_116397.1|vFam_394| T44 [Tupaiid herpesvirus 1]
+gi|360086531|ref|YP_004940216.1|vFam_394| DNA polymerase processivity subunit [Saimiriine herpesvirus 3]
+gi|360040935|ref|YP_004940070.1|vFam_394| DNA polymerase processivity subunit [Aotine herpesvirus 1]
+gi|356640361|ref|YP_004933803.1|vFam_394| protein UL44 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139229|ref|YP_081502.1|vFam_394| DNA polymerase processivity subunit [Human herpesvirus 5]
+gi|20026645|ref|NP_612687.1|vFam_394| DNA polymerase processivity subunit [Panine herpesvirus 2]
+gi|9845336|ref|NP_064150.1|vFam_394| pR44 [Murid herpesvirus 2]
+gi|425707253|ref|YP_007016450.1|vFam_394| E44 [Murid herpesvirus 8]
+gi|61660165|ref|YP_214056.1|vFam_394| DNA binding protein [Murid herpesvirus 1]
+gi|538447226|ref|YP_008492966.1|vFam_394| DNA polymerase processivity subunit pp41 [Porcine cytomegalovirus]
+gi|224020402|ref|NP_042920.2|vFam_394| DNA polymerase processivity subunit [Human herpesvirus 6A]
+gi|51874249|ref|YP_073767.1|vFam_394| DNA polymerase processivity subunit [Human herpesvirus 7]

@@ -1,0 +1,15 @@
+CLUSTER	1052
+NUM_SEQ	7
+LENGTH	326
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	172.78
+FAMILIES	{'Filoviridae': 7}
+GENERA	{'Marburgvirus': 1, 'None': 1, 'Ebolavirus': 5}
+FASTA SEQUENCE TITLES:
+gi|158539111|ref|YP_001531155.1|vFam_1052| VP40 [Marburg marburgvirus]
+gi|355469074|ref|YP_004928137.1|vFam_1052| VP40 [Lloviu virus]
+gi|10313993|ref|NP_066245.1|vFam_1052| VP40 gene product [Ebola virus - Mayinga, Zaire, 1976]
+gi|302371216|ref|YP_003815434.1|vFam_1052| VP40 [Bundibugyo ebolavirus]
+gi|302315372|ref|YP_003815425.1|vFam_1052| VP40 [Tai Forest ebolavirus]
+gi|55770810|ref|YP_138522.1|vFam_1052| matrix protein [Sudan ebolavirus]
+gi|22789225|ref|NP_690582.1|vFam_1052| matrix protein VP40 [Reston ebolavirus]

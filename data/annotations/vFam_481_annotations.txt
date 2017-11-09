@@ -1,0 +1,23 @@
+CLUSTER	481
+NUM_SEQ	15
+LENGTH	72
+RELATIVE_ENTROPY_PER_POSITION	0.72
+TOTAL_RELATIVE_ENTROPY	51.84
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 1, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531815|ref|YP_784341.1|vFam_481| virion core protein [Nile crocodilepox virus]
+gi|41057543|ref|NP_958016.1|vFam_481| ORF107 virion morphogenesis [Bovine papular stomatitis virus]
+gi|41057170|ref|NP_957884.1|vFam_481| ORF107 virion morphogenesis [Orf virus]
+gi|40556206|ref|NP_955291.1|vFam_481| CNPV268 conserved hypothetical protein [Canarypox virus]
+gi|9634864|ref|NP_039157.1|vFam_481| hypothetical protein FPV194 [Fowlpox virus]
+gi|113195331|ref|YP_717461.1|vFam_481| IMV core phosphoprotein [Taterapox virus]
+gi|345107322|ref|YP_004821487.1|vFam_481| IMV protein [Yoka poxvirus]
+gi|9633928|ref|NP_052007.1|vFam_481| gp118L [Rabbit fibroma virus]
+gi|377830079|ref|YP_005296325.1|vFam_481| unnamed protein product [Cotia virus SPAn232]
+gi|157939743|ref|YP_001497115.1|vFam_481| IMV membrane [Tanapox virus]
+gi|18640203|ref|NP_570277.1|vFam_481| SPV117 putative virion protein [Swinepox virus]
+gi|148912997|ref|YP_001293311.1|vFam_481| hypothetical protein GTPV_gp115 [Goatpox virus Pellor]
+gi|211956400|ref|YP_002302469.1|vFam_481| IMV membrane protein [Deerpox virus W-1170-84]
+gi|571798045|ref|YP_008658544.1|vFam_481| subunit of the poxvirus multiprotein entry-fusion complex [Squirrelpox virus]
+gi|9629068|ref|NP_044087.1|vFam_481| MC136L [Molluscum contagiosum virus subtype 1]

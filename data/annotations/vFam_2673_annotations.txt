@@ -1,0 +1,12 @@
+CLUSTER	2673
+NUM_SEQ	4
+LENGTH	185
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	94.35
+FAMILIES	{'None': 2, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|213159352|ref|YP_002321395.1|vFam_2673| hypothetical protein OrNV_gp084 [Oryctes rhinoceros virus]
+gi|311977892|ref|YP_003987012.1|vFam_2673| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825328|ref|YP_007418259.1|vFam_2673| hypothetical protein LBA_00365 [Megavirus lba]
+gi|441432237|ref|YP_007354279.1|vFam_2673| hypothetical protein Moumou_00303 [Acanthamoeba polyphaga moumouvirus]

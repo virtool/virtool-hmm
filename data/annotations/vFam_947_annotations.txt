@@ -1,0 +1,17 @@
+CLUSTER	947
+NUM_SEQ	9
+LENGTH	130
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	68.9
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|438000377|ref|YP_007250482.1|vFam_947| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643613|ref|YP_002884303.1|vFam_947| Ac75-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|96979841|ref|YP_611047.1|vFam_947| hypothetical protein APNV_p079 [Antheraea pernyi nucleopolyhedrovirus]
+gi|9630016|ref|NP_046234.1|vFam_947| hypothetical protein OpmnVgp078 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|86355596|ref|YP_473264.1|vFam_947| ORF76 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|571031276|ref|YP_008992172.1|vFam_947| ac75 [Choristoneura murinana alphabaculovirus]
+gi|529153389|ref|YP_008378429.1|vFam_947| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|116326142|ref|YP_803468.1|vFam_947| hypothetical protein AGNV_gp074 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320724|ref|NP_203236.1|vFam_947| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]

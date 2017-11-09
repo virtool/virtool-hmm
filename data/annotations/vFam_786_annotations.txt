@@ -1,0 +1,13 @@
+CLUSTER	786
+NUM_SEQ	5
+LENGTH	488
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	248.88
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Muromegalovirus': 2, 'None': 1, 'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|448824947|ref|YP_007417879.1|vFam_786| GP123 [Caviid herpesvirus 2]
+gi|360086591|ref|YP_004940276.1|vFam_786| regulatory protein IE2 [Saimiriine herpesvirus 3]
+gi|356640460|ref|YP_004933902.1|vFam_786| protein UL122 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|425707318|ref|YP_007016515.1|vFam_786| immediate early protein 2 [Murid herpesvirus 8]
+gi|9845417|ref|NP_064231.1|vFam_786| pR122-EX5 [Murid herpesvirus 2]

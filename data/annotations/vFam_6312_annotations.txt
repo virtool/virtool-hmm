@@ -1,0 +1,10 @@
+CLUSTER	6312
+NUM_SEQ	2
+LENGTH	224
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	116.48
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409625|ref|YP_004347045.1|vFam_6312| hypothetical protein LAU_0079 [Lausannevirus]
+gi|284504144|ref|YP_003406859.1|vFam_6312| hypothetical protein MAR_ORF112 [Marseillevirus]

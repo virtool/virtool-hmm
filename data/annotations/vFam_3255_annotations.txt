@@ -1,0 +1,10 @@
+CLUSTER	3255
+NUM_SEQ	2
+LENGTH	250
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	130.0
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|314055253|ref|YP_004063591.1|vFam_3255| putative procollagen-lysine, 2-oxoglutarate 5-dioxygenase [Ostreococcus tauri virus 2]
+gi|313844141|ref|YP_004061804.1|vFam_3255| hypothetical protein OlV1_172c [Ostreococcus lucimarinus virus OlV1]

@@ -1,0 +1,20 @@
+CLUSTER	797
+NUM_SEQ	12
+LENGTH	83
+RELATIVE_ENTROPY_PER_POSITION	0.61
+TOTAL_RELATIVE_ENTROPY	50.63
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Muromegalovirus': 2, 'None': 1, 'Roseolovirus': 2, 'Cytomegalovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|448824891|ref|YP_007417823.1|vFam_797| GP48.2 [Caviid herpesvirus 2]
+gi|9633103|ref|NP_050213.1|vFam_797| putative capsid protein [Human herpesvirus 6B]
+gi|51874254|ref|YP_073772.1|vFam_797| small capsid protein [Human herpesvirus 7]
+gi|538447231|ref|YP_008492971.1|vFam_797| virion protein [Porcine cytomegalovirus]
+gi|425707258|ref|YP_007016455.1|vFam_797| e48.2 [Murid herpesvirus 8]
+gi|61660170|ref|YP_214061.1|vFam_797| hypothetical protein MuHV1_gp053 [Murid herpesvirus 1]
+gi|359946492|ref|YP_004936024.1|vFam_797| small capsid protein [Cercopithecine herpesvirus 5]
+gi|356640370|ref|YP_004933812.1|vFam_797| protein UL48a [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139233|ref|YP_081507.1|vFam_797| small capsid protein [Human herpesvirus 5]
+gi|20026650|ref|NP_612692.1|vFam_797| small capsid protein [Panine herpesvirus 2]
+gi|360086536|ref|YP_004940221.1|vFam_797| small capsid protein [Saimiriine herpesvirus 3]
+gi|360040940|ref|YP_004940075.1|vFam_797| small capsid protein [Aotine herpesvirus 1]

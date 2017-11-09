@@ -1,0 +1,10 @@
+CLUSTER	4995
+NUM_SEQ	2
+LENGTH	151
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	77.01
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|164519351|ref|YP_001649138.1|vFam_4995| hypothetical protein HaGV_gp156 [Helicoverpa armigera granulovirus]
+gi|9635408|ref|NP_059306.1|vFam_4995| ORF158 [Xestia c-nigrum granulovirus]

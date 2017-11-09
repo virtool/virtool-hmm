@@ -1,0 +1,14 @@
+CLUSTER	683
+NUM_SEQ	6
+LENGTH	363
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	188.76
+FAMILIES	{'Herpesviridae': 6}
+GENERA	{'None': 1, 'Roseolovirus': 2, 'Cytomegalovirus': 2, 'Muromegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|224020399|ref|NP_042903.2|vFam_683| envelope glycoprotein UL33 [Human herpesvirus 6A]
+gi|51874235|ref|YP_073753.1|vFam_683| envelope glycoprotein UL33 [Human herpesvirus 7]
+gi|359946477|ref|YP_004936009.1|vFam_683| envelope glycoprotein UL33 [Cercopithecine herpesvirus 5]
+gi|356640344|ref|YP_004933786.1|vFam_683| envelope protein UL33 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|14251021|ref|NP_116383.1|vFam_683| T33 [Tupaiid herpesvirus 1]
+gi|9845324|ref|NP_064138.1|vFam_683| pR33 [Murid herpesvirus 2]

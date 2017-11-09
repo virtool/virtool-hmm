@@ -1,0 +1,10 @@
+CLUSTER	5157
+NUM_SEQ	2
+LENGTH	444
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	226.44
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Varicellovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|296316068|ref|YP_003662532.1|vFam_5157| envelope glycoprotein G [Bovine herpesvirus 5]
+gi|9629885|ref|NP_045369.1|vFam_5157| envelope glycoprotein G [Bovine herpesvirus 1]

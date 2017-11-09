@@ -1,0 +1,10 @@
+CLUSTER	5952
+NUM_SEQ	2
+LENGTH	125
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	62.5
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Betabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498224|ref|YP_008004021.1|vFam_5952| hypothetical protein AHEV_198 [Adoxophyes honmai entomopoxvirus 'L']
+gi|148368899|ref|YP_001257029.1|vFam_5952| hypothetical protein SlGVgp078 [Spodoptera litura granulovirus]

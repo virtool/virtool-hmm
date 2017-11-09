@@ -1,0 +1,12 @@
+CLUSTER	627
+NUM_SEQ	4
+LENGTH	171
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	87.21
+FAMILIES	{'Phycodnaviridae': 1, 'Mimiviridae': 1, 'Barnaviridae': 1, 'Iridoviridae': 1}
+GENERA	{'Mimivirus': 1, 'Barnavirus': 1, 'Iridovirus': 1, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9627953|ref|NP_042508.1|vFam_627| hypothetical protein MBVgp1 [Mushroom bacilliform virus]
+gi|73852919|ref|YP_294203.1|vFam_627| hypothetical protein EhV445 [Emiliania huxleyi virus 86]
+gi|311977400|ref|YP_003986519.1|vFam_627| putative ankyrin repeat protein [Acanthamoeba polyphaga mimivirus]
+gi|15078795|ref|NP_149545.1|vFam_627| 082L [Invertebrate iridescent virus 6]

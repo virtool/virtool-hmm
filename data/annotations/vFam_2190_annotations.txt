@@ -1,0 +1,10 @@
+CLUSTER	2190
+NUM_SEQ	2
+LENGTH	451
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	225.5
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Crocodylidpoxvirus': 1, 'Molluscipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531812|ref|YP_784338.1|vFam_2190| IMV A type inclusion-like protein P4c [Nile crocodilepox virus]
+gi|9629062|ref|NP_044081.1|vFam_2190| MC130L [Molluscum contagiosum virus subtype 1]

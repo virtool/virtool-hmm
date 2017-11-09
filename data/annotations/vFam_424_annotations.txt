@@ -1,0 +1,19 @@
+CLUSTER	424
+NUM_SEQ	11
+LENGTH	93
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	50.22
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281817|ref|YP_003331483.1|vFam_424| VP3-like protein [Sulfolobus spindle-shaped virus 6]
+gi|270281783|ref|YP_003331443.1|vFam_424| VP3-like protein [Acidianus spindle-shaped virus 1]
+gi|9625544|ref|NP_039801.1|vFam_424| structural protein VP1 [Sulfolobus spindle-shaped virus 1]
+gi|42494964|ref|NP_963962.1|vFam_424| VP3 [Sulfolobus virus Ragged Hills]
+gi|42495086|ref|NP_963997.1|vFam_424| ORF A93 [Sulfolobus virus Kamchatka 1]
+gi|198449233|ref|YP_002221471.1|vFam_424| structural protein VP3 [Sulfolobus spindle-shaped virus 5]
+gi|270281850|ref|YP_003331516.1|vFam_424| VP3-like protein [Sulfolobus spindle-shaped virus 7]
+gi|38639832|ref|NP_944483.1|vFam_424| structural protein VP3 [Sulfolobus spindle-shaped virus 2]
+gi|472438248|ref|YP_007678025.1|vFam_424| VP1-like protein [Sulfolobales Mexican fusellovirus 1]
+gi|270281849|ref|YP_003331515.1|vFam_424| VP1-like protein [Sulfolobus spindle-shaped virus 7]
+gi|42494963|ref|NP_963961.1|vFam_424| VP1 [Sulfolobus virus Ragged Hills]

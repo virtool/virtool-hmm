@@ -1,0 +1,17 @@
+CLUSTER	976
+NUM_SEQ	9
+LENGTH	348
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	180.96
+FAMILIES	{'Coronaviridae': 9}
+GENERA	{'Gammacoronavirus': 3, 'None': 6}
+FASTA SEQUENCE TITLES:
+gi|187251967|ref|YP_001876448.1|vFam_976| nucleocapsid protein [Beluga Whale coronavirus SW1]
+gi|383080781|ref|YP_005352867.1|vFam_976| N gene product [Night-heron coronavirus HKU19]
+gi|383080790|ref|YP_005352875.1|vFam_976| N gene product [Wigeon coronavirus HKU20]
+gi|383080801|ref|YP_005352885.1|vFam_976| N gene product [Common-moorhen coronavirus HKU21]
+gi|383081749|ref|YP_005352850.1|vFam_976| N gene product [Sparrow coronavirus HKU17]
+gi|212681394|ref|YP_002308510.1|vFam_976| nucleocapsid phosphoprotein [Munia coronavirus HKU13-3514]
+gi|383080771|ref|YP_005352858.1|vFam_976| N gene product [Magpie-robin coronavirus HKU18]
+gi|212681384|ref|YP_002308501.1|vFam_976| nucleocapsid phosphoprotein [Thrush coronavirus HKU12-600]
+gi|383081740|ref|YP_005352842.1|vFam_976| N gene product [White-eye coronavirus HKU16]

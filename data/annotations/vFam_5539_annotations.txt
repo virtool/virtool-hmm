@@ -1,0 +1,10 @@
+CLUSTER	5539
+NUM_SEQ	2
+LENGTH	312
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	159.12
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035502|ref|YP_008437133.1|vFam_5539| thioredoxin-like fold motif-containing [Pandoravirus salinus]
+gi|526119247|ref|YP_008319150.1|vFam_5539| thioredoxin-like fold motif-containing [Pandoravirus dulcis]

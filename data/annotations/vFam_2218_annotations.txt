@@ -1,0 +1,13 @@
+CLUSTER	2218
+NUM_SEQ	5
+LENGTH	119
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	59.5
+FAMILIES	{'Herpesviridae': 1, 'Picornaviridae': 3}
+GENERA	{'Cosavirus': 3, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|448824950|ref|YP_007417882.1|vFam_2218| GP130 [Caviid herpesvirus 2]
+gi|239830838|ref|YP_002956124.1|vFam_2218| 2B [Human cosavirus D]
+gi|239828763|ref|YP_002956082.1|vFam_2218| 2B [Human cosavirus E]
+gi|239830825|ref|YP_002956113.1|vFam_2218| 2B [Human cosavirus B]
+gi|239828787|ref|YP_002956102.1|vFam_2218| 2B [Cosavirus A]

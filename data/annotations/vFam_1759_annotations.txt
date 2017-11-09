@@ -1,0 +1,14 @@
+CLUSTER	1759
+NUM_SEQ	6
+LENGTH	83
+RELATIVE_ENTROPY_PER_POSITION	0.61
+TOTAL_RELATIVE_ENTROPY	50.63
+FAMILIES	{'Poxviridae': 6}
+GENERA	{'Crocodylidpoxvirus': 1, 'Molluscipoxvirus': 1, 'None': 1, 'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|115531711|ref|YP_784237.1|vFam_1759| Apc11-like protein [Nile crocodilepox virus]
+gi|571797945|ref|YP_008658444.1|vFam_1759| Zinc finger, RING-type domain [Squirrelpox virus]
+gi|9628958|ref|NP_043977.1|vFam_1759| MC026L [Molluscum contagiosum virus subtype 1]
+gi|41057450|ref|NP_957923.1|vFam_1759| ORF014 modified RING finger protein [Bovine papular stomatitis virus]
+gi|289183778|ref|YP_003457319.1|vFam_1759| RING-H2 motif protein [Pseudocowpox virus]
+gi|41057077|ref|NP_957791.1|vFam_1759| ORF014 modified RING finger protein [Orf virus]

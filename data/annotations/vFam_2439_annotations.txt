@@ -1,0 +1,12 @@
+CLUSTER	2439
+NUM_SEQ	4
+LENGTH	136
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	70.72
+FAMILIES	{'None': 1, 'Phycodnaviridae': 3}
+GENERA	{'None': 2, 'Prymnesiovirus': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831344|ref|YP_003969987.1|vFam_2439| putative deoxycytidylate deaminase [Cafeteria roenbergensis virus BV-PW1]
+gi|508182018|ref|YP_008052537.1|vFam_2439| dCMP deaminase [Phaeocystis globosa virus]
+gi|314055285|ref|YP_004063623.1|vFam_2439| putative CMP/dCMP deaminase zinc-binding [Ostreococcus tauri virus 2]
+gi|313768407|ref|YP_004062087.1|vFam_2439| hypothetical protein MpV1_204 [Micromonas sp. RCC1109 virus MpV1]

@@ -1,0 +1,11 @@
+CLUSTER	1357
+NUM_SEQ	3
+LENGTH	159
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	81.09
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Simplexvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|30984499|ref|NP_851931.1|vFam_1357| tegument protein US11 [Macacine herpesvirus 1]
+gi|9629453|ref|NP_044674.1|vFam_1357| tegument protein US11 [Human herpesvirus 1]
+gi|9629342|ref|NP_044542.1|vFam_1357| tegument protein US11 [Human herpesvirus 2]

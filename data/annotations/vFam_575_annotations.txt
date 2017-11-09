@@ -1,0 +1,20 @@
+CLUSTER	575
+NUM_SEQ	12
+LENGTH	284
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	147.68
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Roseolovirus': 2, 'Muromegalovirus': 3, 'Proboscivirus': 1, 'None': 1, 'Cytomegalovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|496991143|ref|YP_007969810.1|vFam_575| nuclear egress membrane protein [Elephantid herpesvirus 1]
+gi|425707260|ref|YP_007016457.1|vFam_575| E50 [Murid herpesvirus 8]
+gi|9845342|ref|NP_064156.1|vFam_575| pR50 [Murid herpesvirus 2]
+gi|61660172|ref|YP_214063.1|vFam_575| hypothetical protein MuHV1_gp055 [Murid herpesvirus 1]
+gi|14251042|ref|NP_116404.1|vFam_575| T50 [Tupaiid herpesvirus 1]
+gi|359946494|ref|YP_004936026.1|vFam_575| nuclear egress membrane protein [Cercopithecine herpesvirus 5]
+gi|356640373|ref|YP_004933815.1|vFam_575| membrane protein UL50 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086538|ref|YP_004940223.1|vFam_575| nuclear egress membrane protein [Saimiriine herpesvirus 3]
+gi|360040942|ref|YP_004940077.1|vFam_575| nuclear egress membrane protein [Aotine herpesvirus 1]
+gi|538447233|ref|YP_008492973.1|vFam_575| virion protein [Porcine cytomegalovirus]
+gi|9633105|ref|NP_050215.1|vFam_575| putative virion protein [Human herpesvirus 6B]
+gi|51874256|ref|YP_073774.1|vFam_575| nuclear egress membrane protein [Human herpesvirus 7]

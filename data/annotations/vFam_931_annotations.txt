@@ -1,0 +1,16 @@
+CLUSTER	931
+NUM_SEQ	8
+LENGTH	163
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	83.13
+FAMILIES	{'Herpesviridae': 7, 'Mimiviridae': 1}
+GENERA	{'Mimivirus': 1, 'Lymphocryptovirus': 3, 'Percavirus': 1, 'Rhadinovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|311978202|ref|YP_003987322.1|vFam_931| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|9628068|ref|NP_042662.1|vFam_931| capsid protein [Equid herpesvirus 2]
+gi|24943151|ref|NP_733913.1|vFam_931| ORF59 [callitrichine herpesvirus 3]
+gi|82503209|ref|YP_401651.1|vFam_931| capsid protein VP26 [Human herpesvirus 4]
+gi|51518094|ref|YP_067949.1|vFam_931| BFRF3 [Macacine herpesvirus 4]
+gi|9626021|ref|NP_040267.1|vFam_931| unnamed protein product [Saimiriine herpesvirus 2]
+gi|18653879|ref|NP_570813.1|vFam_931| capsid protein [Macacine herpesvirus 5]
+gi|139472858|ref|YP_001129422.1|vFam_931| ORF65 [Human herpesvirus 8]

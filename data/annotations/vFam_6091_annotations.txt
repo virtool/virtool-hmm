@@ -1,0 +1,10 @@
+CLUSTER	6091
+NUM_SEQ	2
+LENGTH	301
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	156.52
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'None': 1, 'Rhadinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|321496600|ref|YP_004207885.1|vFam_6091| hypothetical protein RHVP.49 [Rodent herpesvirus Peru]
+gi|9629616|ref|NP_044886.1|vFam_6091| protein G49 [Murid herpesvirus 4]

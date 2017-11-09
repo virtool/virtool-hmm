@@ -1,0 +1,10 @@
+CLUSTER	5805
+NUM_SEQ	2
+LENGTH	131
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	68.12
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409756|ref|YP_004347176.1|vFam_5805| conserved putative secreted protein [Lausannevirus]
+gi|284504235|ref|YP_003406950.1|vFam_5805| hypothetical protein MAR_ORF209 [Marseillevirus]

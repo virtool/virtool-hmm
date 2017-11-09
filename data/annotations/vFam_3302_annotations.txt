@@ -1,0 +1,11 @@
+CLUSTER	3302
+NUM_SEQ	3
+LENGTH	357
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	182.07
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|380708453|ref|YP_001096129.2|vFam_3302| unnamed protein product [Cyprinid herpesvirus 3]
+gi|422933858|ref|YP_007003913.1|vFam_3302| protein ORF94 [Cyprinid herpesvirus 2]
+gi|422933632|ref|YP_007003757.1|vFam_3302| protein ORF94 [Cyprinid herpesvirus 1]

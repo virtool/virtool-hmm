@@ -1,0 +1,13 @@
+CLUSTER	1421
+NUM_SEQ	5
+LENGTH	258
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	134.16
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631381|ref|NP_048258.1|vFam_1421| ORF MSV187 putative late transcription factor VLTF-2 homolog (vaccinia A1L), similar to SW:P33814 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497790|ref|YP_008003589.1|vFam_1421| VLTF-2 late transcription factor 2 [Mythimna separata entomopoxvirus 'L']
+gi|506498072|ref|YP_008003869.1|vFam_1421| VLTF-2 late transcription factor 2 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498666|ref|YP_008004460.1|vFam_1421| VLTF-2 late transcription factor 2 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964361|ref|NP_064829.1|vFam_1421| putative late transcription factor [Amsacta moorei entomopoxvirus 'L']

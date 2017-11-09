@@ -1,0 +1,13 @@
+CLUSTER	1413
+NUM_SEQ	5
+LENGTH	83
+RELATIVE_ENTROPY_PER_POSITION	0.60
+TOTAL_RELATIVE_ENTROPY	49.8
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'None': 1, 'Yatapoxvirus': 1, 'Capripoxvirus': 1, 'Leporipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|377830061|ref|YP_005296221.1|vFam_1413| unnamed protein product [Cotia virus SPAn232]
+gi|9633821|ref|NP_051899.1|vFam_1413| gp010L [Rabbit fibroma virus]
+gi|9633646|ref|NP_051724.1|vFam_1413| myxoma growth factor [Myxoma virus]
+gi|157939635|ref|YP_001497007.1|vFam_1413| EGF-like protein growth factor [Tanapox virus]
+gi|21492470|ref|NP_659589.1|vFam_1413| EGF-like growth factor [Sheeppox virus]

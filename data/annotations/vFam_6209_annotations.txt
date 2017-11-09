@@ -1,0 +1,10 @@
+CLUSTER	6209
+NUM_SEQ	2
+LENGTH	74
+RELATIVE_ENTROPY_PER_POSITION	0.70
+TOTAL_RELATIVE_ENTROPY	51.8
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|314055265|ref|YP_004063603.1|vFam_6209| hypothetical protein OtV2_170 [Ostreococcus tauri virus 2]
+gi|163955178|ref|YP_001648282.1|vFam_6209| hypothetical protein OsV5_206f [Ostreococcus virus OsV5]

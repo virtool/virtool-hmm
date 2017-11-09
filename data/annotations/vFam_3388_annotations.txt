@@ -1,0 +1,12 @@
+CLUSTER	3388
+NUM_SEQ	4
+LENGTH	328
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	170.56
+FAMILIES	{'None': 4}
+GENERA	{'Umbravirus': 4}
+FASTA SEQUENCE TITLES:
+gi|24586690|ref|NP_054007.2|vFam_3388| hypothetical protein CMoMVgp2 [Carrot mottle mimic virus]
+gi|20806071|ref|NP_620845.1|vFam_3388| 33kDa protein [Pea enation mosaic virus-2]
+gi|20153384|ref|NP_619659.1|vFam_3388| putative replication-associated protein [Groundnut rosette virus]
+gi|24943164|ref|NP_733847.1|vFam_3388| hypothetical protein [Tobacco bushy top virus]

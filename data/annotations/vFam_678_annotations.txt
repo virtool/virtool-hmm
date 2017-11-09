@@ -1,0 +1,19 @@
+CLUSTER	678
+NUM_SEQ	11
+LENGTH	104
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	54.08
+FAMILIES	{'Baculoviridae': 9}
+GENERA	{'Alphabaculovirus': 9}
+FASTA SEQUENCE TITLES:
+gi|18138301|ref|NP_542736.1|vFam_678| ORF113 [Helicoverpa zea single nucleopolyhedrovirus]
+gi|165969118|ref|YP_001651018.1|vFam_678| hypothetical protein [Orgyia leucostigma NPV]
+gi|529218158|ref|YP_008378321.1|vFam_678| hypothetical protein Hesp105 [Hemileuca sp. nucleopolyhedrovirus]
+gi|228861695|ref|YP_002854715.1|vFam_678| hypothetical protein EupsNPV_gp105 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|113195504|ref|YP_717642.1|vFam_678| ac117-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|125860168|ref|YP_001036338.1|vFam_678| hypothetical protein SFMNPV_gp046 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|9634268|ref|NP_037807.1|vFam_678| ORF47 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|215401443|ref|YP_002332746.1|vFam_678| hypothetical protein SlnV2_gp048 [Spodoptera litura nucleopolyhedrovirus II]
+gi|90592768|ref|YP_529721.1|vFam_678| ORF-51 [Agrotis segetum nucleopolyhedrovirus]
+gi|22549464|ref|NP_689237.1|vFam_678| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069941|ref|NP_613145.1|vFam_678| hypothetical protein McnAVgp062 [Mamestra configurata nucleopolyhedrovirus A]

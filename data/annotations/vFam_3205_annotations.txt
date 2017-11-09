@@ -1,0 +1,12 @@
+CLUSTER	3205
+NUM_SEQ	4
+LENGTH	222
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	115.44
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Simplexvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|312162835|ref|YP_003933820.1|vFam_3205| envelope protein UL20 [Saimiriine herpesvirus 1]
+gi|83722588|ref|YP_443866.1|vFam_3205| envelope protein UL20 [Papiine herpesvirus 2]
+gi|9629400|ref|NP_044621.1|vFam_3205| envelope protein UL20 [Human herpesvirus 1]
+gi|9629289|ref|NP_044489.1|vFam_3205| envelope protein UL20 [Human herpesvirus 2]

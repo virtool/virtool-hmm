@@ -1,0 +1,11 @@
+CLUSTER	3210
+NUM_SEQ	3
+LENGTH	330
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	165.0
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Iridovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|15079041|ref|NP_149792.1|vFam_3210| 329R [Invertebrate iridescent virus 6]
+gi|527333653|ref|YP_008357437.1|vFam_3210| hypothetical protein IIV22_139L [Invertebrate iridovirus 22]
+gi|339906073|ref|YP_004732870.1|vFam_3210| hypothetical protein WIV_gp087 [Wiseana iridescent virus]

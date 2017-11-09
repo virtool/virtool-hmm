@@ -1,0 +1,18 @@
+CLUSTER	794
+NUM_SEQ	10
+LENGTH	102
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	53.04
+FAMILIES	{'Baculoviridae': 8}
+GENERA	{'Alphabaculovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|438000409|ref|YP_007250514.1|vFam_794| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643643|ref|YP_002884333.1|vFam_794| Ac108-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|96979814|ref|YP_611019.1|vFam_794| hypothetical protein APNV_p050 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355567|ref|YP_473235.1|vFam_794| ORF47 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|529153360|ref|YP_008378400.1|vFam_794| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|9630046|ref|NP_046264.1|vFam_794| hypothetical protein OpmnVgp108 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153524|ref|YP_008378549.1|vFam_794| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|15320751|ref|NP_203263.1|vFam_794| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326174|ref|YP_803500.1|vFam_794| hypothetical protein AGNV_gp106 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651441|ref|NP_932711.1|vFam_794| hypothetical protein CFDNVgORF102 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]

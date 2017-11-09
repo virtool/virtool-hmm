@@ -1,0 +1,11 @@
+CLUSTER	4834
+NUM_SEQ	3
+LENGTH	56
+RELATIVE_ENTROPY_PER_POSITION	0.94
+TOTAL_RELATIVE_ENTROPY	52.64
+FAMILIES	{'Tombusviridae': 3}
+GENERA	{'Necrovirus': 1, 'Dianthovirus': 1, 'Carmovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9629512|ref|NP_044735.1|vFam_4834| movement protein [Galinsoga mosaic virus]
+gi|459642386|ref|YP_007517177.1|vFam_4834| movement protein [Furcraea necrotic streak virus]
+gi|62327385|ref|YP_224019.1|vFam_4834| p6 [Olive mild mosaic virus]

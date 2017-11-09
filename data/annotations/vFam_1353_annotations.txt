@@ -1,0 +1,12 @@
+CLUSTER	1353
+NUM_SEQ	4
+LENGTH	339
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	172.89
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 3, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|356640332|ref|YP_004933774.1|vFam_1353| protein UL28 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|14251011|ref|NP_116373.1|vFam_1353| t28.1 [Tupaiid herpesvirus 1]
+gi|360086516|ref|YP_004940200.1|vFam_1353| protein A20 [Saimiriine herpesvirus 3]
+gi|360040920|ref|YP_004940054.1|vFam_1353| protein A20 [Aotine herpesvirus 1]

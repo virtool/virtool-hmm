@@ -1,0 +1,13 @@
+CLUSTER	1263
+NUM_SEQ	5
+LENGTH	782
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	391.0
+FAMILIES	{'Alloherpesviridae': 5}
+GENERA	{'Cyprinivirus': 3, 'Batrachovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|109638626|ref|YP_656629.1|vFam_1263| ORF121 [Ranid herpesvirus 2]
+gi|109638477|ref|YP_656742.1|vFam_1263| ORF87 [Ranid herpesvirus 1]
+gi|282174058|ref|YP_003358160.1|vFam_1263| helicase-primase primase subunit [Anguillid herpesvirus 1]
+gi|422933587|ref|YP_007003712.1|vFam_1263| putative helicase-primase primase subunit [Cyprinid herpesvirus 1]
+gi|131840072|ref|YP_001096081.1|vFam_1263| unnamed protein product [Cyprinid herpesvirus 3]

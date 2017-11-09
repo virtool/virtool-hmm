@@ -1,0 +1,14 @@
+CLUSTER	2052
+NUM_SEQ	6
+LENGTH	164
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	85.28
+FAMILIES	{'Herpesviridae': 1, 'Poxviridae': 2}
+GENERA	{'Muromegalovirus': 1, 'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|61660217|ref|YP_214108.1|vFam_2052| hypothetical protein MuHV1_gp100 [Murid herpesvirus 1]
+gi|506497774|ref|YP_008003573.1|vFam_2052| unknown similar to AMEV032 [Mythimna separata entomopoxvirus 'L']
+gi|506498060|ref|YP_008003857.1|vFam_2052| unknown similar to AMEV032 [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964346|ref|NP_064814.1|vFam_2052| filament-associated late protein FALPE [Amsacta moorei entomopoxvirus 'L']
+gi|506498657|ref|YP_008004451.1|vFam_2052| unknown similar to AMEV032 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498342|ref|YP_008004138.1|vFam_2052| unknown similar to AMEV032 [Choristoneura biennis entomopoxvirus 'L']

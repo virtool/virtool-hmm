@@ -1,0 +1,10 @@
+CLUSTER	4702
+NUM_SEQ	2
+LENGTH	121
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	62.92
+FAMILIES	{'Orthomyxoviridae': 2}
+GENERA	{'Influenzavirus A': 2}
+FASTA SEQUENCE TITLES:
+gi|93211154|ref|YP_581750.1|vFam_4702| nonstructural protein 2 [Influenza A virus (A/Hong Kong/1073/99(H9N2))]
+gi|73852945|ref|YP_308672.1|vFam_4702| nonstructural protein 2 [Influenza A virus (A/goose/Guangdong/1/1996(H5N1))]

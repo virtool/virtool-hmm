@@ -1,0 +1,10 @@
+CLUSTER	3384
+NUM_SEQ	2
+LENGTH	148
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	75.48
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Avipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|526118962|ref|YP_008318865.1|vFam_3384| hypothetical protein [Pandoravirus dulcis]
+gi|40556040|ref|NP_955125.1|vFam_3384| CNPV102 conserved hypothetical protein [Canarypox virus]

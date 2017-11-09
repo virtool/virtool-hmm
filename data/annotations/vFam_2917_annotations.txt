@@ -1,0 +1,11 @@
+CLUSTER	2917
+NUM_SEQ	3
+LENGTH	718
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	366.18
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|125860221|ref|YP_001036391.1|vFam_2917| 94 kDa protein [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401496|ref|YP_002332800.1|vFam_2917| P94 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634320|ref|NP_037859.1|vFam_2917| ORF99 p94 [Spodoptera exigua multiple nucleopolyhedrovirus]

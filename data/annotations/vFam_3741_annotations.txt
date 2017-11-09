@@ -1,0 +1,12 @@
+CLUSTER	3741
+NUM_SEQ	4
+LENGTH	112
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	58.24
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'None': 2, 'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313768188|ref|YP_004061619.1|vFam_3741| hypothetical protein BpV1_189c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313844193|ref|YP_004061856.1|vFam_3741| hypothetical protein OlV1_224c [Ostreococcus lucimarinus virus OlV1]
+gi|260666082|ref|YP_003213036.1|vFam_3741| hypothetical protein H665_p213 [Ostreococcus tauri virus 1]
+gi|314055307|ref|YP_004063645.1|vFam_3741| hypothetical protein OtV2_212 [Ostreococcus tauri virus 2]

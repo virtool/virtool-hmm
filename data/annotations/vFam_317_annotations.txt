@@ -1,0 +1,28 @@
+CLUSTER	317
+NUM_SEQ	20
+LENGTH	547
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	289.91
+FAMILIES	{'Poxviridae': 17}
+GENERA	{'None': 3, 'Yatapoxvirus': 1, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Betaentomopoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Capripoxvirus': 1, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9631501|ref|NP_048140.1|vFam_317| ORF MSV069 putative rifampicin resistance (RIF) protein, Heliothis armigera entomopoxvirus RIF homolog (vaccinia D13L) similar to GB:U44841 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497894|ref|YP_008003693.1|vFam_317| trimeric virion coat protein rifampicin res [Mythimna separata entomopoxvirus 'L']
+gi|506498138|ref|YP_008003935.1|vFam_317| trimeric virion coat protein rifampicin res [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498749|ref|YP_008004543.1|vFam_317| trimeric virion coat protein rifampicin res [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964436|ref|NP_064904.1|vFam_317| rifampicin resistance protein [Amsacta moorei entomopoxvirus 'L']
+gi|115531784|ref|YP_784310.1|vFam_317| rifampin resistance protein [Nile crocodilepox virus]
+gi|40556008|ref|NP_955093.1|vFam_317| CNPV070 putative rifampicin resistance protein, IMV assembly [Canarypox virus]
+gi|19173809|ref|NP_597675.1|vFam_317| Rifampicin resistance N3L protein [Fowlpox virus]
+gi|41057511|ref|NP_957984.1|vFam_317| ORF075 rifampin resistance protein [Bovine papular stomatitis virus]
+gi|289183840|ref|YP_003457381.1|vFam_317| rifampicin resistance protein [Pseudocowpox virus]
+gi|9629034|ref|NP_044053.1|vFam_317| MC102L [Molluscum contagiosum virus subtype 1]
+gi|571798013|ref|YP_008658512.1|vFam_317| rifampicin resisitance protein [Squirrelpox virus]
+gi|113195297|ref|YP_717427.1|vFam_317| hypothetical protein TATV_DAH68_120 [Taterapox virus]
+gi|345107288|ref|YP_004821453.1|vFam_317| rifampicin target [Yoka poxvirus]
+gi|9633724|ref|NP_051802.1|vFam_317| m88L [Myxoma virus]
+gi|148912967|ref|YP_001293281.1|vFam_317| hypothetical protein GTPV_gp086 [Goatpox virus Pellor]
+gi|377829996|ref|YP_005296295.1|vFam_317| unnamed protein product [Cotia virus SPAn232]
+gi|38229252|ref|NP_938345.1|vFam_317| 90L [Yaba monkey tumor virus]
+gi|211956370|ref|YP_002302439.1|vFam_317| rifampicin resistance protein [Deerpox virus W-1170-84]
+gi|18640173|ref|NP_570247.1|vFam_317| SPV087 putative rifampicin resistance protein IMV assembly [Swinepox virus]

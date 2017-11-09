@@ -1,0 +1,10 @@
+CLUSTER	4451
+NUM_SEQ	2
+LENGTH	452
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	235.04
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Muromegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|425707345|ref|YP_007016542.1|vFam_4451| e159 [Murid herpesvirus 8]
+gi|61660268|ref|YP_214159.1|vFam_4451| Putative membrane glycoprotein [Murid herpesvirus 1]

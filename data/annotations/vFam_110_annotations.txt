@@ -1,0 +1,30 @@
+CLUSTER	110
+NUM_SEQ	22
+LENGTH	122
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	65.88
+FAMILIES	{'Geminiviridae': 18}
+GENERA	{'Begomovirus': 18}
+FASTA SEQUENCE TITLES:
+gi|296040246|ref|YP_003622554.1|vFam_110| hypothetical protein SoCBVsA_gp1 [Soybean chlorotic blotch virus]
+gi|530547443|ref|YP_008411020.1|vFam_110| AC5 [Hemidesmus yellow mosaic virus]
+gi|189475236|ref|YP_001955939.1|vFam_110| AC5 [Mesta yellow vein mosaic Bahraich virus]
+gi|9632888|ref|NP_049914.1|vFam_110| AC5 protein [Tomato yellow leaf curl Thailand virus]
+gi|169803214|ref|YP_001718506.1|vFam_110| AC5 [Kenaf leaf curl virus-[India:Bahraich:2007]]
+gi|226202303|ref|YP_002775432.1|vFam_110| AC5 protein [Tomato leaf curl Patna virus]
+gi|506614359|ref|YP_008003512.1|vFam_110| C5 protein [Malvastrum leaf curl Philippines virus]
+gi|18249856|ref|NP_543111.1|vFam_110| C5 protein [Soybean crinkle leaf virus]
+gi|281372526|ref|YP_003345510.1|vFam_110| hypothetical protein ToLCCV_gp2 [Tomato leaf curl Cameroon virus]
+gi|23395820|ref|NP_694929.1|vFam_110| AC5 protein [Croton yellow vein mosaic virus]
+gi|164564319|ref|YP_001648976.1|vFam_110| AC5 [Radish leaf curl virus]
+gi|22726215|ref|NP_689457.1|vFam_110| AC5 protein [Papaya leaf curl virus]
+gi|9626468|ref|NP_040773.1|vFam_110| hypothetical protein BGYMVsAgp4 [Bean golden yellow mosaic virus]
+gi|410591373|ref|YP_006905842.1|vFam_110| C5 [Tomato leaf deformation virus]
+gi|537711867|ref|YP_008492923.1|vFam_110| C5 protein [Tomato yellow leaf curl Saudi virus]
+gi|393186610|ref|YP_006491263.1|vFam_110| AC5 [French bean leaf curl virus-Kanpur]
+gi|459642406|ref|YP_007517189.1|vFam_110| AC5 [Corchorus yellow vein mosaic virus]
+gi|222822601|ref|YP_002576168.1|vFam_110| AC5 [Bhendi yellow vein Bhubhaneswar virus]
+gi|317160474|ref|YP_004123082.1|vFam_110| AC5 protein [Bhendi yellow vein India virus [India:Dharwad OYDWR2:2006]]
+gi|19073913|ref|NP_579973.1|vFam_110| AC5 protein [Bhendi yellow vein mosaic virus]
+gi|221186004|ref|YP_002519378.1|vFam_110| AC5 protein [Bhendi yellow vein Delhi virus [2004:New Delhi]]
+gi|317453624|ref|YP_004123727.1|vFam_110| AC5 protein [Cotton leaf curl Allahabad virus [India:Karnal:OY77:2005]]

@@ -1,0 +1,10 @@
+CLUSTER	5702
+NUM_SEQ	2
+LENGTH	68
+RELATIVE_ENTROPY_PER_POSITION	0.75
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{'Phycodnaviridae': 1}
+GENERA	{'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|526118923|ref|YP_008318826.1|vFam_5702| hypothetical protein [Pandoravirus dulcis]
+gi|155371234|ref|YP_001426768.1|vFam_5702| hypothetical protein ATCV1_Z287L [Acanthocystis turfacea Chlorella virus 1]

@@ -1,0 +1,12 @@
+CLUSTER	2358
+NUM_SEQ	4
+LENGTH	269
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	139.88
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|360086628|ref|YP_004940310.1|vFam_2358| membrane protein S26 [Saimiriine herpesvirus 3]
+gi|360086623|ref|YP_004940305.1|vFam_2358| membrane protein S21 [Saimiriine herpesvirus 3]
+gi|360086629|ref|YP_004940311.1|vFam_2358| membrane protein S27 [Saimiriine herpesvirus 3]
+gi|360041045|ref|YP_004940168.1|vFam_2358| membrane protein A39 [Aotine herpesvirus 1]

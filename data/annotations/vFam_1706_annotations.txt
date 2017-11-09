@@ -1,0 +1,14 @@
+CLUSTER	1706
+NUM_SEQ	6
+LENGTH	267
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	138.84
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|171473676|ref|YP_001798546.1|vFam_1706| hypothetical protein AFV9_gp28 [Acidianus filamentous virus 9]
+gi|16753117|ref|NP_445695.1|vFam_1706| hypothetical protein SIFV0030 [Sulfolobus islandicus filamentous virus]
+gi|162329388|ref|YP_001604189.1|vFam_1706| hypothetical protein AFV6_gp31 [Acidianus filamentous virus 6]
+gi|162329318|ref|YP_001604372.1|vFam_1706| hypothetical protein AFV3_gp30 [Acidianus filamentous virus 3]
+gi|162329508|ref|YP_001604307.1|vFam_1706| hypothetical protein AFV8_gp26 [Acidianus filamentous virus 8]
+gi|162329448|ref|YP_001604248.1|vFam_1706| hypothetical protein AFV7_gp24 [Acidianus filamentous virus 7]

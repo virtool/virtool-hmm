@@ -1,0 +1,11 @@
+CLUSTER	3094
+NUM_SEQ	3
+LENGTH	361
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	187.72
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036254|ref|YP_008437890.1|vFam_3094| hypothetical protein ps_1479 [Pandoravirus salinus]
+gi|531036649|ref|YP_008438286.1|vFam_3094| hypothetical protein ps_1880 [Pandoravirus salinus]
+gi|526119760|ref|YP_008319663.1|vFam_3094| hypothetical protein [Pandoravirus dulcis]

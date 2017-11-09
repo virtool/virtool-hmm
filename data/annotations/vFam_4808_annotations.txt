@@ -1,0 +1,11 @@
+CLUSTER	4808
+NUM_SEQ	3
+LENGTH	161
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	82.11
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1}
+GENERA	{'None': 1, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852685|ref|YP_293969.1|vFam_4808| hypothetical protein EhV214 [Emiliania huxleyi virus 86]
+gi|478755983|ref|YP_007761624.1|vFam_4808| hypothetical protein HhPH1_gp35 [Halovirus PH1]
+gi|448261143|ref|YP_005352816.1|vFam_4808| putative protein 30 [Haloarcula hispanica icosahedral virus 2]

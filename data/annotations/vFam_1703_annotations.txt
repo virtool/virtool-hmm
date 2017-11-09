@@ -1,0 +1,15 @@
+CLUSTER	1703
+NUM_SEQ	7
+LENGTH	244
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	124.44
+FAMILIES	{'Circoviridae': 7}
+GENERA	{'Circovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|116630445|ref|YP_803551.1|vFam_1703| capsid protein [Finch circovirus]
+gi|115334609|ref|YP_764456.1|vFam_1703| capsid protein [Raven circovirus]
+gi|18875311|ref|NP_573443.1|vFam_1703| capsid [Canary circovirus]
+gi|96980767|ref|YP_610962.1|vFam_1703| putative capsid protein [Starling circovirus]
+gi|9635463|ref|NP_059530.1|vFam_1703| capsid protein [Columbid circovirus]
+gi|116630441|ref|YP_803548.1|vFam_1703| capsid protein [Gull circovirus]
+gi|9630732|ref|NP_047277.1|vFam_1703| capsid protein [Beak and feather disease virus]

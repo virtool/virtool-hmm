@@ -1,0 +1,19 @@
+CLUSTER	801
+NUM_SEQ	11
+LENGTH	339
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	176.28
+FAMILIES	{'Poxviridae': 11}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|571798061|ref|YP_008658560.1|vFam_801| conserved hypothetical pox protein-similar to A51R [Squirrelpox virus]
+gi|113195355|ref|YP_717485.1|vFam_801| hypothetical protein TATV_DAH68_178 [Taterapox virus]
+gi|345107343|ref|YP_004821508.1|vFam_801| hypothetical protein YKV155 [Yoka poxvirus]
+gi|377830091|ref|YP_005296339.1|vFam_801| unnamed protein product [Cotia virus SPAn232]
+gi|9633945|ref|NP_052024.1|vFam_801| gp137R [Rabbit fibroma virus]
+gi|9633773|ref|NP_051851.1|vFam_801| m137R [Myxoma virus]
+gi|157939762|ref|YP_001497134.1|vFam_801| hypothetical protein TANV_138R [Tanapox virus]
+gi|38229297|ref|NP_938390.1|vFam_801| 138R [Yaba monkey tumor virus]
+gi|211956420|ref|YP_002302490.1|vFam_801| hypothetical protein DpV84gp149 [Deerpox virus W-1170-84]
+gi|148913014|ref|YP_001293328.1|vFam_801| hypothetical protein GTPV_gp130 [Goatpox virus Pellor]
+gi|18640220|ref|NP_570294.1|vFam_801| SPV134 hypothetical protein [Swinepox virus]

@@ -1,0 +1,10 @@
+CLUSTER	5194
+NUM_SEQ	2
+LENGTH	565
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	293.8
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531034902|ref|YP_008436527.1|vFam_5194| 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase [Pandoravirus salinus]
+gi|526118698|ref|YP_008318601.1|vFam_5194| 2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase [Pandoravirus dulcis]

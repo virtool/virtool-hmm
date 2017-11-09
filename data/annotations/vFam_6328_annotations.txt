@@ -1,0 +1,10 @@
+CLUSTER	6328
+NUM_SEQ	2
+LENGTH	215
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	111.8
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159321|ref|YP_002321364.1|vFam_6328| GrBNV_gp84-like protein [Oryctes rhinoceros virus]
+gi|134303482|ref|YP_001111351.1|vFam_6328| hypothetical protein GrBNV_gp84 [Gryllus bimaculatus nudivirus]

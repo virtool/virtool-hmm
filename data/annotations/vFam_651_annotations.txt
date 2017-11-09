@@ -1,0 +1,20 @@
+CLUSTER	651
+NUM_SEQ	12
+LENGTH	174
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	90.48
+FAMILIES	{'Poxviridae': 12}
+GENERA	{'None': 2, 'Leporipoxvirus': 4, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|377830052|ref|YP_005296212.1|vFam_651| unnamed protein product [Cotia virus SPAn232]
+gi|113195199|ref|YP_717329.1|vFam_651| hypothetical protein TATV_DAH68_022 [Taterapox virus]
+gi|345107359|ref|YP_004821524.1|vFam_651| host-range protein [Yoka poxvirus]
+gi|9633873|ref|NP_051953.1|vFam_651| gp064R [Rabbit fibroma virus]
+gi|9633700|ref|NP_051778.1|vFam_651| m64R [Myxoma virus]
+gi|9633871|ref|NP_051951.1|vFam_651| gp062R [Rabbit fibroma virus]
+gi|9633698|ref|NP_051776.1|vFam_651| m62R [Myxoma virus]
+gi|377830074|ref|YP_005296271.1|vFam_651| unnamed protein product [Cotia virus SPAn232]
+gi|157939690|ref|YP_001497062.1|vFam_651| host-range protein [Tanapox virus]
+gi|38229229|ref|NP_938322.1|vFam_651| 67R [Yaba monkey tumor virus]
+gi|15150506|ref|NP_150501.1|vFam_651| LSDV067 putative host range protein [Lumpy skin disease virus NI-2490]
+gi|18640150|ref|NP_570224.1|vFam_651| SPV064 putative host range protein [Swinepox virus]

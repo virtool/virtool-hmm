@@ -1,0 +1,13 @@
+CLUSTER	1497
+NUM_SEQ	5
+LENGTH	227
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	115.77
+FAMILIES	{'Phycodnaviridae': 5}
+GENERA	{'None': 1, 'Prymnesiovirus': 1, 'Prasinovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|508181982|ref|YP_008052501.1|vFam_1497| hypothetical protein PGCG_00183 [Phaeocystis globosa virus]
+gi|313768087|ref|YP_004061518.1|vFam_1497| hypothetical protein BpV1_088c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768303|ref|YP_004061983.1|vFam_1497| hypothetical protein MpV1_100c [Micromonas sp. RCC1109 virus MpV1]
+gi|260665969|ref|YP_003212923.1|vFam_1497| hypothetical protein H665_p100 [Ostreococcus tauri virus 1]
+gi|313844074|ref|YP_004061737.1|vFam_1497| hypothetical protein OlV1_104c [Ostreococcus lucimarinus virus OlV1]

@@ -1,0 +1,16 @@
+CLUSTER	359
+NUM_SEQ	8
+LENGTH	244
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	124.44
+FAMILIES	{'Phycodnaviridae': 8}
+GENERA	{'None': 3, 'Prasinovirus': 2, 'Chlorovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|163955119|ref|YP_001648223.1|vFam_359| hypothetical protein OsV5_146f [Ostreococcus virus OsV5]
+gi|313768123|ref|YP_004061554.1|vFam_359| hypothetical protein BpV1_124 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768338|ref|YP_004062018.1|vFam_359| hypothetical protein MpV1_135 [Micromonas sp. RCC1109 virus MpV1]
+gi|260665995|ref|YP_003212949.1|vFam_359| hypothetical protein H665_p126 [Ostreococcus tauri virus 1]
+gi|314055213|ref|YP_004063551.1|vFam_359| putative Lambda-type exonuclease (host has too) [Ostreococcus tauri virus 2]
+gi|157953391|ref|YP_001498282.1|vFam_359| hypothetical protein AR158_C200R [Paramecium bursaria Chlorella virus AR158]
+gi|155371569|ref|YP_001427103.1|vFam_359| hypothetical protein ATCV1_Z622R [Acanthocystis turfacea Chlorella virus 1]
+gi|155370316|ref|YP_001425850.1|vFam_359| hypothetical protein FR483_N218R [Paramecium bursaria Chlorella virus FR483]

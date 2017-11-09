@@ -1,0 +1,28 @@
+CLUSTER	219
+NUM_SEQ	20
+LENGTH	75
+RELATIVE_ENTROPY_PER_POSITION	0.71
+TOTAL_RELATIVE_ENTROPY	53.25
+FAMILIES	{'Potyviridae': 20}
+GENERA	{'Potyvirus': 20}
+FASTA SEQUENCE TITLES:
+gi|390198546|ref|YP_006401490.1|vFam_219| PIPO, partial [Narcissus degeneration virus]
+gi|390198531|ref|YP_006401477.1|vFam_219| PIPO, partial [Konjac mosaic virus]
+gi|414089936|ref|YP_006990078.1|vFam_219| PIPO, partial [Yam mild mosaic virus]
+gi|390013216|ref|YP_006395324.1|vFam_219| PIPO, partial [Potato virus A]
+gi|390013209|ref|YP_006395317.1|vFam_219| PIPO, partial [Cocksfoot streak virus]
+gi|389838997|ref|YP_006393462.1|vFam_219| PIPO, partial [Tobacco vein mottling virus]
+gi|390013212|ref|YP_006395320.1|vFam_219| PIPO, partial [Leek yellow stripe virus]
+gi|390508062|ref|YP_006424007.1|vFam_219| PIPO, partial [Tomato necrotic stunt virus]
+gi|390013205|ref|YP_006395315.1|vFam_219| PIPO, partial [Lettuce mosaic virus]
+gi|389885076|ref|YP_006393476.1|vFam_219| PIPO, partial [Bean yellow mosaic virus]
+gi|319774840|ref|YP_004123944.1|vFam_219| PIPO [Lupine mosaic virus]
+gi|390013265|ref|YP_006395328.1|vFam_219| PIPO, partial [Papaya leaf distortion mosaic virus]
+gi|390013268|ref|YP_006395331.1|vFam_219| PIPO, partial [Lily mottle virus]
+gi|295136538|ref|YP_003587806.1|vFam_219| PIPO, partial [Turnip mosaic virus]
+gi|389885074|ref|YP_006393474.1|vFam_219| PIPO, partial [Scallion mosaic virus]
+gi|390371202|ref|YP_006405425.1|vFam_219| PIPO, partial [Narcissus yellow stripe virus]
+gi|390013264|ref|YP_006395327.1|vFam_219| PIPO, partial [Yam mosaic virus]
+gi|390370997|ref|YP_006405403.1|vFam_219| PIPO, partial [Basella rugose mosaic virus]
+gi|389885068|ref|YP_006393468.1|vFam_219| PIPO, partial [Peanut mottle virus]
+gi|390442752|ref|YP_006423944.1|vFam_219| PIPO, partial [Freesia mosaic virus]

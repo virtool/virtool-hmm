@@ -1,0 +1,10 @@
+CLUSTER	6300
+NUM_SEQ	2
+LENGTH	168
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	87.36
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Lymphocystivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|51870019|ref|YP_073572.1|vFam_6300| hypothetical protein LDVICp065 [Lymphocystis disease virus - isolate China]
+gi|13358470|ref|NP_078651.1|vFam_6300| hypothetical protein LCDV1gp026 [Lymphocystis disease virus 1]

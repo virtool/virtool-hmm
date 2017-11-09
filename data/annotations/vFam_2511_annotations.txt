@@ -1,0 +1,11 @@
+CLUSTER	2511
+NUM_SEQ	3
+LENGTH	421
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	218.92
+FAMILIES	{'Reoviridae': 3}
+GENERA	{'Phytoreovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|134287147|ref|YP_001111366.1|vFam_2511| capsid protein [Rice gall dwarf virus]
+gi|226423336|ref|YP_002790891.1|vFam_2511| outer capsid protein [Homalodisca vitripennis reovirus]
+gi|20428552|ref|NP_620534.1|vFam_2511| coat protein [Rice dwarf virus]

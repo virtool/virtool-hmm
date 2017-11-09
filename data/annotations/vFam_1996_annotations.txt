@@ -1,0 +1,12 @@
+CLUSTER	1996
+NUM_SEQ	4
+LENGTH	869
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	443.19
+FAMILIES	{'Alloherpesviridae': 4}
+GENERA	{'Cyprinivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|282174081|ref|YP_003358183.1|vFam_1996| protein ORF44 [Anguillid herpesvirus 1]
+gi|422933626|ref|YP_007003751.1|vFam_1996| protein ORF88 [Cyprinid herpesvirus 1]
+gi|422933852|ref|YP_007003907.1|vFam_1996| protein ORF88 [Cyprinid herpesvirus 2]
+gi|131840114|ref|YP_001096123.1|vFam_1996| unnamed protein product [Cyprinid herpesvirus 3]

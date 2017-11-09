@@ -1,0 +1,13 @@
+CLUSTER	2640
+NUM_SEQ	5
+LENGTH	123
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	63.96
+FAMILIES	{'Phycodnaviridae': 1, 'Iridoviridae': 3}
+GENERA	{'Prymnesiovirus': 1, 'Iridovirus': 2, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182112|ref|YP_008052631.1|vFam_2640| disulfide isomerase [Phaeocystis globosa virus]
+gi|15079164|ref|NP_149916.1|vFam_2640| 453L [Invertebrate iridescent virus 6]
+gi|109287919|ref|YP_654613.1|vFam_2640| hypothetical protein MIV041R [Invertebrate iridescent virus 3]
+gi|527333632|ref|YP_008357416.1|vFam_2640| thioredoxin-like [Invertebrate iridovirus 22]
+gi|339906049|ref|YP_004732846.1|vFam_2640| hypothetical protein WIV_gp063 [Wiseana iridescent virus]

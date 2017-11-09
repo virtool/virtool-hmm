@@ -1,0 +1,11 @@
+CLUSTER	2553
+NUM_SEQ	3
+LENGTH	768
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	391.68
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|282174119|ref|YP_003358221.1|vFam_2553| protein Allo54 [Anguillid herpesvirus 1]
+gi|422933828|ref|YP_007003881.1|vFam_2553| protein Allo54 [Cyprinid herpesvirus 2]
+gi|422933601|ref|YP_007003726.1|vFam_2553| protein Allo54 [Cyprinid herpesvirus 1]

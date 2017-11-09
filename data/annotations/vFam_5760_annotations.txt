@@ -1,0 +1,10 @@
+CLUSTER	5760
+NUM_SEQ	2
+LENGTH	100
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|292397781|ref|YP_003517847.1|vFam_5760| ORF107 [Lymantria xylina MNPV]
+gi|9631078|ref|NP_047748.1|vFam_5760| LdOrf-111 peptide [Lymantria dispar multiple nucleopolyhedrovirus]

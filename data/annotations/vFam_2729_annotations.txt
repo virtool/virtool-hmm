@@ -1,0 +1,11 @@
+CLUSTER	2729
+NUM_SEQ	3
+LENGTH	287
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	149.24
+FAMILIES	{'Caliciviridae': 3}
+GENERA	{'None': 2, 'Vesivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|28268482|ref|NP_783304.1|vFam_2729| p32 [Feline calicivirus]
+gi|28392843|ref|NP_786905.1|vFam_2729| putative counterpart of the picornavirus membrane modification protein 2B [Canine calicivirus]
+gi|28392834|ref|NP_786914.1|vFam_2729| putative counterpart of the picornavirus membrane modification protein 2B [Walrus calicivirus]

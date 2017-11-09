@@ -1,0 +1,17 @@
+CLUSTER	1181
+NUM_SEQ	9
+LENGTH	82
+RELATIVE_ENTROPY_PER_POSITION	0.63
+TOTAL_RELATIVE_ENTROPY	51.66
+FAMILIES	{'Baculoviridae': 6}
+GENERA	{'Alphabaculovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|119964576|ref|YP_950772.1|vFam_1181| Mv-ORF42 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|237643596|ref|YP_002884286.1|vFam_1181| Ac56-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|438000359|ref|YP_007250464.1|vFam_1181| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|116326126|ref|YP_803451.1|vFam_1181| hypothetical protein AGNV_gp057 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320708|ref|NP_203220.1|vFam_1181| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|529153406|ref|YP_008378446.1|vFam_1181| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|529153571|ref|YP_008378596.1|vFam_1181| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|9629998|ref|NP_046216.1|vFam_1181| hypothetical protein OpmnVgp060 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|86355614|ref|YP_473282.1|vFam_1181| ORF94 peptide [Hyphantria cunea nucleopolyhedrovirus]

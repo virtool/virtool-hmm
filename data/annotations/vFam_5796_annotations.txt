@@ -1,0 +1,10 @@
+CLUSTER	5796
+NUM_SEQ	2
+LENGTH	244
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	126.88
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409765|ref|YP_004347185.1|vFam_5796| putative RuvC-like Holliday junction resolvase [Lausannevirus]
+gi|284504242|ref|YP_003406957.1|vFam_5796| RuvC-like Holliday junction resolvase [Marseillevirus]

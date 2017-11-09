@@ -1,0 +1,13 @@
+CLUSTER	2716
+NUM_SEQ	5
+LENGTH	135
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	67.5
+FAMILIES	{'None': 1, 'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|300116763|ref|YP_003773408.1|vFam_2716| hypothetical protein HAV1_gp10 [Hyperthermophilic Archaeal Virus 1]
+gi|506498265|ref|YP_008004062.1|vFam_2716| unknown similar to AMEV023 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498708|ref|YP_008004502.1|vFam_2716| unknown similar to AMEV023 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498580|ref|YP_008004376.1|vFam_2716| unknown similar to AMEV023 [Choristoneura biennis entomopoxvirus 'L']
+gi|9964337|ref|NP_064805.1|vFam_2716| hypothetical protein AMV023 [Amsacta moorei entomopoxvirus 'L']

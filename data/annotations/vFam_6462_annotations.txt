@@ -1,0 +1,10 @@
+CLUSTER	6462
+NUM_SEQ	2
+LENGTH	77
+RELATIVE_ENTROPY_PER_POSITION	0.67
+TOTAL_RELATIVE_ENTROPY	51.59
+FAMILIES	{'Reoviridae': 2}
+GENERA	{'Orbivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|392718708|ref|YP_006491218.1|vFam_6462| NS4 protein [Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey)]
+gi|388848676|ref|YP_006390083.1|vFam_6462| NS4 protein [Bluetongue virus]

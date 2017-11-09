@@ -1,0 +1,11 @@
+CLUSTER	4095
+NUM_SEQ	3
+LENGTH	381
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	198.12
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Ictalurivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9626913|ref|NP_041183.1|vFam_4095| ORF14 [Ictalurid herpesvirus 1]
+gi|9626837|ref|NP_041107.1|vFam_4095| ORF16 [Ictalurid herpesvirus 1]
+gi|9626836|ref|NP_041106.1|vFam_4095| ORF15 [Ictalurid herpesvirus 1]

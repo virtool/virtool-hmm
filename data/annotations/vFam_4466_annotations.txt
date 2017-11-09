@@ -1,0 +1,11 @@
+CLUSTER	4466
+NUM_SEQ	3
+LENGTH	500
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	255.0
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Lymphocryptovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|24943113|ref|NP_733875.1|vFam_4466| ORF22 [callitrichine herpesvirus 3]
+gi|82503248|ref|YP_401692.1|vFam_4466| BGLF1 protein [Human herpesvirus 4]
+gi|51518061|ref|YP_067989.1|vFam_4466| BGLF1 [Macacine herpesvirus 4]

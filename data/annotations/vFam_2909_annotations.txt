@@ -1,0 +1,12 @@
+CLUSTER	2909
+NUM_SEQ	4
+LENGTH	452
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	235.04
+FAMILIES	{'None': 2, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831326|ref|YP_003969969.1|vFam_2909| hypothetical protein crov336 [Cafeteria roenbergensis virus BV-PW1]
+gi|311977801|ref|YP_003986921.1|vFam_2909| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825439|ref|YP_007418370.1|vFam_2909| hypothetical protein LBA_00476 [Megavirus lba]
+gi|441432332|ref|YP_007354374.1|vFam_2909| hypothetical protein Moumou_00402 [Acanthamoeba polyphaga moumouvirus]

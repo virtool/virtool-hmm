@@ -1,0 +1,12 @@
+CLUSTER	1686
+NUM_SEQ	4
+LENGTH	129
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	65.79
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|506498830|ref|YP_008004624.1|vFam_1686| hypothetical protein CHREV_220 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964437|ref|NP_064905.1|vFam_1686| hypothetical protein AMV123 [Amsacta moorei entomopoxvirus 'L']
+gi|506498751|ref|YP_008004545.1|vFam_1686| unknown similar to AMEV123 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498447|ref|YP_008004243.1|vFam_1686| unknown similar to AMEV123 [Choristoneura biennis entomopoxvirus 'L']

@@ -1,0 +1,13 @@
+CLUSTER	1736
+NUM_SEQ	5
+LENGTH	353
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	187.09
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631512|ref|NP_048123.1|vFam_1736| ORF MSV052 putative vaccina A23R homolog, similar to SW:P20998 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497832|ref|YP_008003631.1|vFam_1736| VITF-3 45kda subunit (Cop-A23R) [Mythimna separata entomopoxvirus 'L']
+gi|506498115|ref|YP_008003912.1|vFam_1736| VITF-3 45kda subunit (Cop-A23R) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498726|ref|YP_008004520.1|vFam_1736| VITF-3 45kda subunit (Cop-A23R) [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964405|ref|NP_064873.1|vFam_1736| DNA-directed RNA polymerase beta chain [Amsacta moorei entomopoxvirus 'L']

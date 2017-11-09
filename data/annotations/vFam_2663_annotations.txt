@@ -1,0 +1,12 @@
+CLUSTER	2663
+NUM_SEQ	4
+LENGTH	354
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	180.54
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497756|ref|YP_008003555.1|vFam_2663| hypothetical protein MYSEV_038 [Mythimna separata entomopoxvirus 'L']
+gi|506497870|ref|YP_008003669.1|vFam_2663| hypothetical protein MYSEV_152 [Mythimna separata entomopoxvirus 'L']
+gi|506498831|ref|YP_008004625.1|vFam_2663| type III effector protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498529|ref|YP_008004325.1|vFam_2663| type III effector protein [Choristoneura biennis entomopoxvirus 'L']

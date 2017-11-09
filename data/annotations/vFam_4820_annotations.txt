@@ -1,0 +1,11 @@
+CLUSTER	4820
+NUM_SEQ	3
+LENGTH	70
+RELATIVE_ENTROPY_PER_POSITION	0.73
+TOTAL_RELATIVE_ENTROPY	51.1
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|414089965|ref|YP_006990096.1|vFam_4820| hypothetical protein [Sulfolobales Mexican rudivirus 1]
+gi|159341077|ref|YP_001542636.1|vFam_4820| hypothetical protein [Acidianus rod-shaped virus 1]
+gi|22122255|ref|NP_666616.1|vFam_4820| hypothetical protein SIRV1gp28 [Sulfolobus islandicus rod-shaped virus 1]

@@ -1,0 +1,10 @@
+CLUSTER	6432
+NUM_SEQ	2
+LENGTH	63
+RELATIVE_ENTROPY_PER_POSITION	0.83
+TOTAL_RELATIVE_ENTROPY	52.29
+FAMILIES	{'Coronaviridae': 2}
+GENERA	{'None': 1, 'Betacoronavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|304633681|ref|YP_003858588.1|vFam_6432| ORF6 protein [Bat coronavirus BM48-31/BGR/2008]
+gi|29836500|ref|NP_828856.1|vFam_6432| hypothetical protein sars6 [SARS coronavirus]

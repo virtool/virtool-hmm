@@ -1,0 +1,11 @@
+CLUSTER	3450
+NUM_SEQ	3
+LENGTH	653
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	339.56
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977719|ref|YP_003986839.1|vFam_3450| uncharacterized cullin-like protein [Acanthamoeba polyphaga mimivirus]
+gi|448825539|ref|YP_007418470.1|vFam_3450| putative cullin-like protein [Megavirus lba]
+gi|441432416|ref|YP_007354458.1|vFam_3450| hypothetical protein Moumou_00488 [Acanthamoeba polyphaga moumouvirus]

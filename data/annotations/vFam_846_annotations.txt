@@ -1,0 +1,16 @@
+CLUSTER	846
+NUM_SEQ	8
+LENGTH	290
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	147.9
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Betabaculovirus': 1, 'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|556549088|ref|YP_008720002.1|vFam_846| p35 [Clostera anastomosis granulovirus]
+gi|334265731|ref|YP_004376260.1|vFam_846| p35 [Clostera anachoreta granulovirus]
+gi|438000434|ref|YP_007250539.1|vFam_846| p35 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964637|ref|YP_950833.1|vFam_846| P35 [Maruca vitrata nucleopolyhedrovirus]
+gi|237643668|ref|YP_002884358.1|vFam_846| P35 [Bombyx mandarina nucleopolyhedrovirus]
+gi|23577871|ref|NP_703122.1|vFam_846| p35 [Rachiplusia ou MNPV]
+gi|506498263|ref|YP_008004060.1|vFam_846| p35 apoptosis inhibitor [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498223|ref|YP_008004020.1|vFam_846| p35 apoptosis inhibitor [Adoxophyes honmai entomopoxvirus 'L']

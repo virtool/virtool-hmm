@@ -1,0 +1,10 @@
+CLUSTER	5985
+NUM_SEQ	2
+LENGTH	531
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	265.5
+FAMILIES	{'Iridoviridae': 1, 'Poxviridae': 1}
+GENERA	{'Lymphocystivirus': 1, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|51870005|ref|YP_073558.1|vFam_5985| RNA-dependent DNA polymerase [Lymphocystis disease virus - isolate China]
+gi|9631308|ref|NP_048132.1|vFam_5985| ORF MSV061 putative LINE reverse transcriptase, similar to Caenorhabditis elegans GB:U00063 [Melanoplus sanguinipes entomopoxvirus]

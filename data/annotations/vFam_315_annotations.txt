@@ -1,0 +1,27 @@
+CLUSTER	315
+NUM_SEQ	19
+LENGTH	138
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	73.14
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'None': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Betaentomopoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631477|ref|NP_048213.1|vFam_315| ORF MSV142 putative membrane protein, fowlpox virus 15.6kD homolog (vaccinia J5L), similar to GB:M17418 [Melanoplus sanguinipes entomopoxvirus]
+gi|506498237|ref|YP_008004034.1|vFam_315| putative late 16kDa membrane protein (Cop-J5L) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498845|ref|YP_008004639.1|vFam_315| putative late 16kDa membrane protein (Cop-J5L) [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964546|ref|NP_065014.1|vFam_315| hypothetical protein AMV232 [Amsacta moorei entomopoxvirus 'L']
+gi|506497976|ref|YP_008003775.1|vFam_315| putative late 16kDa membrane protein (Cop-J5L) [Mythimna separata entomopoxvirus 'L']
+gi|40556119|ref|NP_955204.1|vFam_315| CNPV181 conserved hypothetical protein [Canarypox virus]
+gi|9634806|ref|NP_039099.1|vFam_315| Membrane protein [Fowlpox virus]
+gi|115531762|ref|YP_784288.1|vFam_315| hypothetical protein CRV098 [Nile crocodilepox virus]
+gi|9629010|ref|NP_044029.1|vFam_315| MC078L [Molluscum contagiosum virus subtype 1]
+gi|571797988|ref|YP_008658487.1|vFam_315| IMV membrane protein [Squirrelpox virus]
+gi|377829977|ref|YP_005296274.1|vFam_315| unnamed protein product [Cotia virus SPAn232]
+gi|157939693|ref|YP_001497065.1|vFam_315| hypothetical protein TANV_70L [Tanapox virus]
+gi|38229232|ref|NP_938325.1|vFam_315| 70L [Yaba monkey tumor virus]
+gi|113195276|ref|YP_717406.1|vFam_315| 16kDa putative membrane protein [Taterapox virus]
+gi|345107265|ref|YP_004821430.1|vFam_315| late 16kDa putative membrane protein [Yoka poxvirus]
+gi|18640153|ref|NP_570227.1|vFam_315| SPV067 hypothetical protein [Swinepox virus]
+gi|9633876|ref|NP_051956.1|vFam_315| gp067L [Rabbit fibroma virus]
+gi|148912947|ref|YP_001293261.1|vFam_315| hypothetical protein GTPV_gp066 [Goatpox virus Pellor]
+gi|211956350|ref|YP_002302419.1|vFam_315| hypothetical protein DpV84gp079 [Deerpox virus W-1170-84]

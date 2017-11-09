@@ -1,0 +1,11 @@
+CLUSTER	3152
+NUM_SEQ	3
+LENGTH	373
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	186.5
+FAMILIES	{'Alloherpesviridae': 1, 'Alvernaviridae': 1, 'Orthomyxoviridae': 1}
+GENERA	{'Isavirus': 1, 'Cyprinivirus': 1, 'Dinornavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|80509242|ref|YP_386496.1|vFam_3152| major viral capsid protein [Heterocapsa circularisquama RNA virus]
+gi|282174132|ref|YP_003358234.1|vFam_3152| membrane protein ORF95 [Anguillid herpesvirus 1]
+gi|56407667|ref|YP_145800.1|vFam_3152| putative HA protein [Infectious salmon anemia virus]

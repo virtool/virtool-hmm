@@ -1,0 +1,11 @@
+CLUSTER	3412
+NUM_SEQ	3
+LENGTH	133
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	66.5
+FAMILIES	{'Baculoviridae': 1, 'Nimaviridae': 1}
+GENERA	{'Betabaculovirus': 1, 'Whispovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|556549089|ref|YP_008720003.1|vFam_3412| hypothetical protein CalGV056 [Clostera anastomosis granulovirus]
+gi|334265732|ref|YP_004376261.1|vFam_3412| hypothetical protein ClanGV_gp053 [Clostera anachoreta granulovirus]
+gi|17158371|ref|NP_477790.1|vFam_3412| wsv268 [Shrimp white spot syndrome virus]

@@ -1,0 +1,13 @@
+CLUSTER	122
+NUM_SEQ	5
+LENGTH	177
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	88.5
+FAMILIES	{'Iridoviridae': 1, 'Poxviridae': 4}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 3, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15079171|ref|NP_149923.1|vFam_122| 460R [Invertebrate iridescent virus 6]
+gi|9631537|ref|NP_048092.1|vFam_122| ORF MSV021 MTG motif gene family protein [Melanoplus sanguinipes entomopoxvirus]
+gi|506498523|ref|YP_008004319.1|vFam_122| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506498598|ref|YP_008004394.1|vFam_122| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506498350|ref|YP_008004146.1|vFam_122| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']

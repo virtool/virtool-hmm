@@ -1,0 +1,11 @@
+CLUSTER	3485
+NUM_SEQ	3
+LENGTH	331
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	168.81
+FAMILIES	{'Hytrosaviridae': 3}
+GENERA	{'Muscavirus': 1, 'Glossinavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|168804170|ref|YP_001687102.1|vFam_3485| hypothetical protein SGHV154 [Glossina pallidipes salivary gland hypertrophy virus]
+gi|168804019|ref|YP_001686950.1|vFam_3485| hypothetical protein SGHV002 [Glossina pallidipes salivary gland hypertrophy virus]
+gi|187903108|ref|YP_001883399.1|vFam_3485| hypothetical protein MdSGHV071 [Musca domestica salivary gland hypertrophy virus]

@@ -1,0 +1,42 @@
+CLUSTER	89
+NUM_SEQ	34
+LENGTH	210
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	111.3
+FAMILIES	{'Baculoviridae': 30}
+GENERA	{'Deltabaculovirus': 1, 'Betabaculovirus': 11, 'Alphabaculovirus': 18}
+FASTA SEQUENCE TITLES:
+gi|15320900|ref|NP_203410.1|vFam_89| CUN106 similar to AcMNPV ORF81 [Culex nigripalpus nucleopolyhedrovirus]
+gi|116326148|ref|YP_803474.1|vFam_89| hypothetical protein AGNV_gp080 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320730|ref|NP_203242.1|vFam_89| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|96979834|ref|YP_611040.1|vFam_89| hypothetical protein APNV_p072 [Antheraea pernyi nucleopolyhedrovirus]
+gi|571031270|ref|YP_008992166.1|vFam_89| ac81 [Choristoneura murinana alphabaculovirus]
+gi|86355590|ref|YP_473258.1|vFam_89| ORF76 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|438000383|ref|YP_007250488.1|vFam_89| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643619|ref|YP_002884309.1|vFam_89| Bm67-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964598|ref|YP_950794.1|vFam_89| Mv-ORF64 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|46309360|ref|YP_006250.1|vFam_89| ORF94 [Agrotis segetum granulovirus]
+gi|11068089|ref|NP_068305.1|vFam_89| PxORF86 peptide [Plutella xylostella granulovirus]
+gi|410493668|ref|YP_006908606.1|vFam_89| hypothetical protein [Epinotia aporema granulovirus]
+gi|32698626|ref|NP_872541.1|vFam_89| ORF_87 [Adoxophyes orana granulovirus]
+gi|556549123|ref|YP_008720037.1|vFam_89| hypothetical protein CaLGV090 [Clostera anastomosis granulovirus]
+gi|21686761|ref|NP_663261.1|vFam_89| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|33622294|ref|NP_891941.1|vFam_89| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602340|ref|NP_148887.1|vFam_89| ORF103 similar to AcMNPV ORF81 [Cydia pomonella granulovirus]
+gi|109255354|ref|YP_654503.1|vFam_89| hypothetical protein COGV_gp082 [Choristoneura occidentalis granulovirus]
+gi|288804726|ref|YP_003429411.1|vFam_89| PrGVORF87 [Pieris rapae granulovirus]
+gi|285002399|ref|YP_003422463.1|vFam_89| hypothetical protein PsunGV_gp124 [Pseudaletia unipuncta granulovirus]
+gi|148368915|ref|YP_001257045.1|vFam_89| hypothetical protein SlGVgp094 [Spodoptera litura granulovirus]
+gi|22549504|ref|NP_689277.1|vFam_89| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|125860203|ref|YP_001036373.1|vFam_89| hypothetical protein SFMNPV_gp081 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|90592807|ref|YP_529760.1|vFam_89| ORF-90 [Agrotis segetum nucleopolyhedrovirus]
+gi|9634300|ref|NP_037839.1|vFam_89| ORF79 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|292397759|ref|YP_003517825.1|vFam_89| ORF85 [Lymantria xylina MNPV]
+gi|9631056|ref|NP_047726.1|vFam_89| LdOrf-81 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|209401130|ref|YP_002273999.1|vFam_89| hypothetical protein HaSNPVNNg1_gp076 [Helicoverpa armigera NPV NNg1]
+gi|74229759|ref|YP_308963.1|vFam_89| orf74 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304215|ref|YP_249683.1|vFam_89| ORF-79 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|228861662|ref|YP_002854682.1|vFam_89| hypothetical protein EupsNPV_gp072 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|165969083|ref|YP_001650983.1|vFam_89| hypothetical protein [Orgyia leucostigma NPV]
+gi|114679939|ref|YP_758389.1|vFam_89| ORF92 [Leucania separata nucleopolyhedrovirus]
+gi|15617545|ref|NP_258345.1|vFam_89| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]

@@ -1,0 +1,17 @@
+CLUSTER	1178
+NUM_SEQ	9
+LENGTH	77
+RELATIVE_ENTROPY_PER_POSITION	0.68
+TOTAL_RELATIVE_ENTROPY	52.36
+FAMILIES	{'Potyviridae': 9}
+GENERA	{'Potyvirus': 8, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|390198534|ref|YP_006401478.1|vFam_1178| PIPO, partial [Daphne mosaic virus]
+gi|390118502|ref|YP_006395349.1|vFam_1178| PIPO, partial [Thunberg fritillary virus]
+gi|390504023|ref|YP_006423969.1|vFam_1178| PIPO, partial [Brugmansia suaveolens mottle virus]
+gi|390442754|ref|YP_006423946.1|vFam_1178| PIPO, partial [Bidens mottle virus]
+gi|389806939|ref|YP_006393318.1|vFam_1178| PIPO, partial [Pepper mottle virus]
+gi|441432847|ref|YP_007354881.1|vFam_1178| PIPO, partial [Brugmansia mosaic virus]
+gi|390013263|ref|YP_006395326.1|vFam_1178| PIPO, partial [Peru tomato mosaic virus]
+gi|390013211|ref|YP_006395319.1|vFam_1178| PIPO, partial [Potato virus V]
+gi|390577159|ref|YP_006424010.1|vFam_1178| PIPO, partial [Wild potato mosaic virus]

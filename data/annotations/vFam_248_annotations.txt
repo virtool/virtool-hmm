@@ -1,0 +1,10 @@
+CLUSTER	248
+NUM_SEQ	2
+LENGTH	259
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	134.68
+FAMILIES	{'Polydnaviridae': 2}
+GENERA	{'Bracovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|66391199|ref|YP_239364.1|vFam_248| hypothetical protein [Microplitis demolitor bracovirus]
+gi|57753384|ref|YP_184842.1|vFam_248| hypothetical protein CcBVs18gp6 [Cotesia congregata bracovirus]

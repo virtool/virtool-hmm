@@ -1,0 +1,21 @@
+CLUSTER	652
+NUM_SEQ	13
+LENGTH	64
+RELATIVE_ENTROPY_PER_POSITION	0.84
+TOTAL_RELATIVE_ENTROPY	53.76
+FAMILIES	{'Betaflexiviridae': 13}
+GENERA	{'Carlavirus': 13}
+FASTA SEQUENCE TITLES:
+gi|386644973|ref|YP_006297589.1|vFam_652| unnamed protein product [American hop latent virus]
+gi|166851942|ref|YP_001661449.1|vFam_652| triple gene block protein [Ligustrum necrotic ringspot virus]
+gi|156603887|ref|YP_001429588.1|vFam_652| triple block protein 3 [Potato Virus P]
+gi|352749697|ref|YP_004901684.1|vFam_652| triple gene block 3 protein [Mirabilis jalapa mottle virus]
+gi|37674203|ref|NP_932791.1|vFam_652| triple gene block protein 3 [Lily symptomless virus]
+gi|242346757|ref|YP_002985639.1|vFam_652| triple gene block 3 [Hydrangea chlorotic mottle virus]
+gi|20043271|ref|NP_612811.1|vFam_652| 7 kDa protein [Blueberry scorch virus]
+gi|113195537|ref|YP_717536.1|vFam_652| TgBP3 [Passiflora latent carlavirus]
+gi|254667444|ref|YP_003075961.1|vFam_652| triple gene block 3 protein [Kalanchoe latent virus]
+gi|10314016|ref|NP_066261.1|vFam_652| 7 kDa protein [Hop latent virus]
+gi|171473631|ref|YP_001798595.1|vFam_652| triple gene block protein 3 [Hop mosaic virus]
+gi|14251194|ref|NP_116490.1|vFam_652| 7K protein [Aconitum latent virus]
+gi|110835689|ref|YP_699986.1|vFam_652| Triple gene block protein 3 [Narcissus common latent virus]

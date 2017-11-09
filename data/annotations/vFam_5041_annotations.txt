@@ -1,0 +1,10 @@
+CLUSTER	5041
+NUM_SEQ	2
+LENGTH	134
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	69.68
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|46309404|ref|YP_006294.1|vFam_5041| ORF50 [Agrotis segetum granulovirus]
+gi|32698587|ref|NP_872502.1|vFam_5041| ORF_48 [Adoxophyes orana granulovirus]

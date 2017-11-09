@@ -1,0 +1,11 @@
+CLUSTER	4447
+NUM_SEQ	3
+LENGTH	228
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	116.28
+FAMILIES	{'None': 3}
+GENERA	{'Benyvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|19919916|ref|NP_612621.1|vFam_4447| 25k protein [Beet necrotic yellow vein virus]
+gi|19919964|ref|NP_612602.1|vFam_4447| 29K protein [Beet soil-borne mosaic virus]
+gi|19919906|ref|NP_612614.1|vFam_4447| 26kDa protein [Beet necrotic yellow vein virus]

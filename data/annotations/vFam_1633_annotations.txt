@@ -1,0 +1,13 @@
+CLUSTER	1633
+NUM_SEQ	5
+LENGTH	173
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	88.23
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1, 'Mimiviridae': 3}
+GENERA	{'None': 3, 'Mimivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|314055325|ref|YP_004063663.1|vFam_1633| hypothetical protein OtV2_230 [Ostreococcus tauri virus 2]
+gi|311977460|ref|YP_003986580.1|vFam_1633| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977465|ref|YP_003986585.1|vFam_1633| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432758|ref|YP_007354800.1|vFam_1633| hypothetical protein Moumou_00847 [Acanthamoeba polyphaga moumouvirus]
+gi|448826118|ref|YP_007419049.1|vFam_1633| hypothetical protein LBA_01155 [Megavirus lba]

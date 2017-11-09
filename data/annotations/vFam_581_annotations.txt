@@ -1,0 +1,23 @@
+CLUSTER	581
+NUM_SEQ	15
+LENGTH	292
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	154.76
+FAMILIES	{'Herpesviridae': 15}
+GENERA	{'Roseolovirus': 2, 'None': 2, 'Proboscivirus': 1, 'Muromegalovirus': 3, 'Cytomegalovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|496991147|ref|YP_007969805.1|vFam_581| capsid triplex subunit 1 [Elephantid herpesvirus 1]
+gi|14251037|ref|NP_116399.1|vFam_581| T46 [Tupaiid herpesvirus 1]
+gi|9845338|ref|NP_064152.1|vFam_581| pR46 [Murid herpesvirus 2]
+gi|425707255|ref|YP_007016452.1|vFam_581| E46 [Murid herpesvirus 8]
+gi|61660168|ref|YP_214059.1|vFam_581| Minor capsid protein [Murid herpesvirus 1]
+gi|448824887|ref|YP_007417819.1|vFam_581| GP46 [Caviid herpesvirus 2]
+gi|359946489|ref|YP_004936021.1|vFam_581| capsid triplex subunit 1 [Cercopithecine herpesvirus 5]
+gi|356640366|ref|YP_004933808.1|vFam_581| protein UL46 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139231|ref|YP_081504.1|vFam_581| capsid triplex subunit 1 [Human herpesvirus 5]
+gi|20026647|ref|NP_612689.1|vFam_581| capsid triplex subunit 1 [Panine herpesvirus 2]
+gi|360086533|ref|YP_004940218.1|vFam_581| capsid triplex subunit 1 [Saimiriine herpesvirus 3]
+gi|360040937|ref|YP_004940072.1|vFam_581| capsid triplex subunit 1 [Aotine herpesvirus 1]
+gi|538447228|ref|YP_008492968.1|vFam_581| minor capsid binding protein TRI1 [Porcine cytomegalovirus]
+gi|9633100|ref|NP_050210.1|vFam_581| capsid assembly and DNA maturation [Human herpesvirus 6B]
+gi|51874251|ref|YP_073769.1|vFam_581| capsid triplex subunit 1 [Human herpesvirus 7]

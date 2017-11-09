@@ -1,0 +1,11 @@
+CLUSTER	945
+NUM_SEQ	3
+LENGTH	565
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	288.15
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|131840039|ref|YP_001096048.1|vFam_945| unnamed protein product [Cyprinid herpesvirus 3]
+gi|422933680|ref|YP_007003807.1|vFam_945| protein ORF150B [Cyprinid herpesvirus 1]
+gi|422933679|ref|YP_007003806.1|vFam_945| protein ORF150A [Cyprinid herpesvirus 1]

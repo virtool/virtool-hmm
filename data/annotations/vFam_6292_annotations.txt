@@ -1,0 +1,10 @@
+CLUSTER	6292
+NUM_SEQ	2
+LENGTH	106
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	55.12
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40556131|ref|NP_955216.1|vFam_6292| CNPV193 HT motif protein [Canarypox virus]
+gi|9634817|ref|NP_039110.1|vFam_6292| HT motif gene family protein [Fowlpox virus]

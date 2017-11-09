@@ -1,0 +1,22 @@
+CLUSTER	353
+NUM_SEQ	14
+LENGTH	1197
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	634.41
+FAMILIES	{'Herpesviridae': 14}
+GENERA	{'Varicellovirus': 6, 'Iltovirus': 1, 'Mardivirus': 4, 'Simplexvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|38638219|ref|NP_944402.1|vFam_353| single-stranded DNA-binding protein [Psittacid herpesvirus 1]
+gi|12084858|ref|NP_073323.1|vFam_353| single-stranded DNA-binding protein [Meleagrid herpesvirus 1]
+gi|125745081|ref|YP_001033958.1|vFam_353| single-stranded DNA-binding protein [Gallid herpesvirus 2]
+gi|10834900|ref|NP_066861.1|vFam_353| single-stranded DNA-binding protein [Gallid herpesvirus 3]
+gi|255683184|ref|YP_003084392.1|vFam_353| UL29 [Anatid herpesvirus 1]
+gi|312162825|ref|YP_003933810.1|vFam_353| single-stranded DNA-binding protein [Saimiriine herpesvirus 1]
+gi|83722598|ref|YP_443876.1|vFam_353| single-stranded DNA-binding protein [Papiine herpesvirus 2]
+gi|9629410|ref|NP_044631.1|vFam_353| single-stranded DNA-binding protein [Human herpesvirus 1]
+gi|13242421|ref|NP_077444.1|vFam_353| single-stranded DNA-binding protein [Cercopithecine herpesvirus 9]
+gi|9625904|ref|NP_040152.1|vFam_353| single-stranded DNA-binding protein [Human herpesvirus 3]
+gi|296316031|ref|YP_003662495.1|vFam_353| single-stranded DNA-binding protein [Bovine herpesvirus 5]
+gi|51557498|ref|YP_068332.1|vFam_353| single-stranded DNA-binding protein [Suid herpesvirus 1]
+gi|216905884|ref|YP_002333512.1|vFam_353| single-stranded DNA-binding protein [Equid herpesvirus 9]
+gi|270339470|ref|YP_003331550.1|vFam_353| single-stranded DNA-binding protein [Felid herpesvirus 1]

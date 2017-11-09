@@ -1,0 +1,30 @@
+CLUSTER	252
+NUM_SEQ	22
+LENGTH	679
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	353.08
+FAMILIES	{'Poxviridae': 19}
+GENERA	{'None': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Molluscipoxvirus': 1, 'Betaentomopoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631497|ref|NP_048157.1|vFam_252| ORF MSV086 putative RNA helicase (vaccinia I8R), similar to GB:L22579 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497822|ref|YP_008003621.1|vFam_252| RNA helicase, DExH-NPH-II domain [Mythimna separata entomopoxvirus 'L']
+gi|506498105|ref|YP_008003902.1|vFam_252| RNA helicase, DExH-NPH-II domain [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498716|ref|YP_008004510.1|vFam_252| RNA helicase, DExH-NPH-II domain [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964395|ref|NP_064863.1|vFam_252| RNA helicase NPH-II [Amsacta moorei entomopoxvirus 'L']
+gi|40556047|ref|NP_955132.1|vFam_252| CNPV109 NPH-II, RNA helicase [Canarypox virus]
+gi|9634752|ref|NP_039045.1|vFam_252| RNA helicase/NPH-II [Fowlpox virus]
+gi|115531735|ref|YP_784261.1|vFam_252| RNA helicase NPH-II [Nile crocodilepox virus]
+gi|113195257|ref|YP_717387.1|vFam_252| RNA-helicase [Taterapox virus]
+gi|345107244|ref|YP_004821409.1|vFam_252| RNA-helicase, DExH-NPH-II domain [Yoka poxvirus]
+gi|9633853|ref|NP_051933.1|vFam_252| gp044R [Rabbit fibroma virus]
+gi|9633680|ref|NP_051758.1|vFam_252| m44R [Myxoma virus]
+gi|38229211|ref|NP_938304.1|vFam_252| 49R [Yaba monkey tumor virus]
+gi|12085032|ref|NP_073434.1|vFam_252| 49R protein [Yaba-like disease virus]
+gi|148912926|ref|YP_001293240.1|vFam_252| hypothetical protein GTPV_gp045 [Goatpox virus Pellor]
+gi|377829958|ref|YP_005296253.1|vFam_252| unnamed protein product [Cotia virus SPAn232]
+gi|211956329|ref|YP_002302398.1|vFam_252| RNA helicase [Deerpox virus W-1170-84]
+gi|18640132|ref|NP_570206.1|vFam_252| SPV046 putative NPH-II RNA helicase [Swinepox virus]
+gi|41057472|ref|NP_957945.1|vFam_252| ORF036 RNA helicase NPH-II [Bovine papular stomatitis virus]
+gi|289183800|ref|YP_003457341.1|vFam_252| RNA helicase NPH-II [Pseudocowpox virus]
+gi|9628982|ref|NP_044001.1|vFam_252| MC050R [Molluscum contagiosum virus subtype 1]
+gi|571797969|ref|YP_008658468.1|vFam_252| encapsidated ATP-dependent RNA helicase [Squirrelpox virus]

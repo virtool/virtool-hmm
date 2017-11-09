@@ -1,0 +1,10 @@
+CLUSTER	6270
+NUM_SEQ	2
+LENGTH	61
+RELATIVE_ENTROPY_PER_POSITION	0.84
+TOTAL_RELATIVE_ENTROPY	51.24
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|86355607|ref|YP_473275.1|vFam_6270| ORF87 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630006|ref|NP_046224.1|vFam_6270| hypothetical protein OpmnVgp068 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]

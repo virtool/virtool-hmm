@@ -1,0 +1,10 @@
+CLUSTER	3913
+NUM_SEQ	2
+LENGTH	183
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	95.16
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035065|ref|YP_008436690.1|vFam_3913| hypothetical protein ps_274 [Pandoravirus salinus]
+gi|526118892|ref|YP_008318795.1|vFam_3913| hypothetical protein [Pandoravirus dulcis]

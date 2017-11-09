@@ -1,0 +1,32 @@
+CLUSTER	74
+NUM_SEQ	24
+LENGTH	458
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	238.16
+FAMILIES	{'Adenoviridae': 23}
+GENERA	{'None': 1, 'Mastadenovirus': 18, 'Aviadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|327409487|ref|YP_004346931.1|vFam_74| DBP [Fowl adenovirus C]
+gi|501000362|ref|YP_007985656.1|vFam_74| DNA-binding protein [Fowl adenovirus 5]
+gi|320202756|ref|YP_004191823.1|vFam_74| DNA-binding protein [Fowl adenovirus E]
+gi|9633184|ref|NP_050289.1|vFam_74| DNA-binding protein [Fowl adenovirus D]
+gi|318065982|ref|YP_004123749.1|vFam_74| DBP [Murine adenovirus 2]
+gi|227122432|ref|YP_002822218.1|vFam_74| DBP [Murine adenovirus 3]
+gi|496838706|ref|YP_007518324.1|vFam_74| DBP [Titi monkey adenovirus ECC-2011]
+gi|253761992|ref|YP_003038614.1|vFam_74| DNA binding protein [Human adenovirus 54]
+gi|56160453|ref|AP_000123.1|vFam_74| DBP [Human adenovirus A]
+gi|540155843|ref|YP_008520237.1|vFam_74| DBP [Simian adenovirus 18]
+gi|485191074|ref|YP_007906010.1|vFam_74| DBP [Simian adenovirus C]
+gi|61602100|ref|YP_213977.1|vFam_74| DBP [Simian adenovirus 1]
+gi|327415387|ref|YP_004300215.1|vFam_74| unnamed protein product [Simian adenovirus 49]
+gi|460042654|ref|YP_007518081.1|vFam_74| DNA-binding protein [Simian adenovirus 20]
+gi|51518832|ref|YP_067919.1|vFam_74| DBP [Simian adenovirus 3]
+gi|56160969|ref|AP_000624.1|vFam_74| DBP [Canine adenovirus 2]
+gi|378554429|ref|YP_005271193.1|vFam_74| unnamed protein product [Bat adenovirus TJM]
+gi|345462109|ref|YP_004782111.1|vFam_74| unnamed protein product [Bat adenovirus 2]
+gi|51556711|ref|YP_068072.1|vFam_74| DBP [Tree shrew adenovirus 1]
+gi|56158814|ref|AP_000033.1|vFam_74| DBP [Bovine adenovirus B]
+gi|46852419|ref|YP_009212.1|vFam_74| DBP [Porcine adenovirus 3]
+gi|13487883|ref|NP_108669.1|vFam_74| DBP protein [Porcine adenovirus C]
+gi|52801694|ref|YP_094041.1|vFam_74| DBP [Bovine adenovirus A]
+gi|56158839|ref|AP_000014.1|vFam_74| DBP [Ovine adenovirus A]

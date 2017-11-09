@@ -1,0 +1,35 @@
+CLUSTER	172
+NUM_SEQ	27
+LENGTH	182
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	94.64
+FAMILIES	{'Baculoviridae': 20}
+GENERA	{'Alphabaculovirus': 20}
+FASTA SEQUENCE TITLES:
+gi|438000339|ref|YP_007250444.1|vFam_172| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643575|ref|YP_002884265.1|vFam_172| Ac34-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964557|ref|YP_950753.1|vFam_172| Mv-ORF23 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|15320681|ref|NP_203193.1|vFam_172| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326096|ref|YP_803421.1|vFam_172| hypothetical protein AGNV_gp027 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|86355645|ref|YP_473313.1|vFam_172| ORF125 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629964|ref|NP_046182.1|vFam_172| hypothetical protein OpmnVgp026 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153439|ref|YP_008378479.1|vFam_172| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|571031319|ref|YP_008992216.1|vFam_172| ac34 [Choristoneura murinana alphabaculovirus]
+gi|529153601|ref|YP_008378626.1|vFam_172| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|292397712|ref|YP_003517778.1|vFam_172| ORF38 [Lymantria xylina MNPV]
+gi|9631008|ref|NP_047678.1|vFam_172| LdOrf-42 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|114679865|ref|YP_758315.1|vFam_172| ORF18 [Leucania separata nucleopolyhedrovirus]
+gi|15617490|ref|NP_258286.1|vFam_172| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|209978792|ref|YP_002300535.1|vFam_172| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|113195423|ref|YP_717559.1|vFam_172| ac34-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|118197501|ref|YP_874213.1|vFam_172| hypothetical protein EONV_gp020 [Ectropis obliqua nucleopolyhedrovirus]
+gi|402502211|ref|YP_006607869.1|vFam_172| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|529218077|ref|YP_008378240.1|vFam_172| ac34 [Hemileuca sp. nucleopolyhedrovirus]
+gi|165969070|ref|YP_001650970.1|vFam_172| hypothetical protein [Orgyia leucostigma NPV]
+gi|228861639|ref|YP_002854659.1|vFam_172| hypothetical protein EupsNPV_gp049 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|68304161|ref|YP_249629.1|vFam_172| ORF-25 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549553|ref|NP_689326.1|vFam_172| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209171026|ref|YP_002268173.1|vFam_172| agip143 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592853|ref|YP_529806.1|vFam_172| ORF-136 [Agrotis segetum nucleopolyhedrovirus]
+gi|125860247|ref|YP_001036417.1|vFam_172| hypothetical protein SFMNPV_gp125 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|9634345|ref|NP_037884.1|vFam_172| ORF124 [Spodoptera exigua multiple nucleopolyhedrovirus]

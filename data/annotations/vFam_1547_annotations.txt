@@ -1,0 +1,14 @@
+CLUSTER	1547
+NUM_SEQ	6
+LENGTH	620
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	322.4
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|526118719|ref|YP_008318622.1|vFam_1547| hypothetical protein [Pandoravirus dulcis]
+gi|526120074|ref|YP_008319977.1|vFam_1547| hypothetical protein [Pandoravirus dulcis]
+gi|526120078|ref|YP_008319981.1|vFam_1547| hypothetical protein [Pandoravirus dulcis]
+gi|526120075|ref|YP_008319978.1|vFam_1547| hypothetical protein [Pandoravirus dulcis]
+gi|531037232|ref|YP_008438875.1|vFam_1547| ankyrin repeat [Pandoravirus salinus]
+gi|526120077|ref|YP_008319980.1|vFam_1547| ankyrin repeat [Pandoravirus dulcis]

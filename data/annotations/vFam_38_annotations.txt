@@ -1,0 +1,36 @@
+CLUSTER	38
+NUM_SEQ	28
+LENGTH	234
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	112.32
+FAMILIES	{'Polyomaviridae': 26}
+GENERA	{'Polyomavirus': 26}
+FASTA SEQUENCE TITLES:
+gi|430025779|ref|YP_007195256.1|vFam_38| VP2 [Piliocolobus rufomitratus polyomavirus 1]
+gi|440285301|ref|YP_007346956.1|vFam_38| minor structural protein VP2 [Otomops polyomavirus 2]
+gi|440285293|ref|YP_007346951.1|vFam_38| minor structural protein VP2 [Chaerephon polyomavirus 1]
+gi|165974003|ref|YP_001651049.1|vFam_38| VP2 [Merkel cell polyomavirus]
+gi|440285313|ref|YP_007346966.1|vFam_38| minor structural protein VP2 [Eidolon polyomavirus 1]
+gi|440285327|ref|YP_007346981.1|vFam_38| minor structural protein VP2 [Otomops polyomavirus 1]
+gi|440285307|ref|YP_007346961.1|vFam_38| minor structural protein VP2 [Cardioderma polyomavirus]
+gi|394935471|ref|YP_005454253.1|vFam_38| unnamed protein product [Canary polyomavirus]
+gi|548894529|ref|YP_008603284.1|vFam_38| minor capsid VP3 protein [African elephant polyomavirus 1]
+gi|28376617|ref|NP_041236.2|vFam_38| capsid protein VP3 [Murine pneumotropic virus]
+gi|313843962|ref|YP_004061427.1|vFam_38| virus protein 3 [Budgerigar fledgling disease virus - 1]
+gi|90403564|ref|YP_529832.1|vFam_38| putative VP3 [Finch polyomavirus]
+gi|9628289|ref|NP_056735.1|vFam_38| VP3 protein [Hamster polyomavirus]
+gi|297591901|ref|YP_003708380.1|vFam_38| hypothetical protein SV40gp4 [Simian virus 40]
+gi|9628645|ref|NP_043510.1|vFam_38| hypothetical protein [JC polyomavirus]
+gi|82524378|ref|YP_406553.1|vFam_38| VP3 protein [Simian virus 12]
+gi|113204633|ref|YP_717938.1|vFam_38| VP3 [BK polyomavirus]
+gi|30518363|ref|NP_849168.1|vFam_38| putative protein 3 [Goose hemorrhagic polyomavirus]
+gi|90403556|ref|YP_529826.1|vFam_38| putative VP3 [Crow polyomavirus]
+gi|564292823|ref|YP_008873517.1|vFam_38| structural protein VP3 [Butcherbird polyomavirus]
+gi|531523127|ref|NP_848006.2|vFam_38| VP3 capsid protein [African green monkey polyomavirus]
+gi|326910939|ref|YP_004243704.1|vFam_38| VP3 [Human polyomavirus 9]
+gi|389060484|ref|YP_006383690.1|vFam_38| VP3 [Equine polyomavirus]
+gi|9626485|ref|NP_040786.1|vFam_38| VP3 [Bovine polyomavirus]
+gi|288804635|ref|YP_003429321.1|vFam_38| VP3 [California sea lion polyomavirus 1]
+gi|440285323|ref|YP_007346977.1|vFam_38| minor structural protein VP3 [Pteronotus polyomavirus]
+gi|207271576|ref|YP_002261487.1|vFam_38| putative minor capsid protein VP3 [Myotis polyomavirus VM-2008]
+gi|440285317|ref|YP_007346972.1|vFam_38| minor structural protein VP3 [Miniopterus polyomavirus]

@@ -1,0 +1,35 @@
+CLUSTER	111
+NUM_SEQ	27
+LENGTH	447
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	236.91
+FAMILIES	{'Adenoviridae': 26}
+GENERA	{'None': 1, 'Atadenovirus': 2, 'Mastadenovirus': 20, 'Aviadenovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9628843|ref|NP_043876.1|vFam_111| maturation protein [Fowl adenovirus A]
+gi|501000351|ref|YP_007985645.1|vFam_111| IVa2 [Fowl adenovirus 5]
+gi|56160714|ref|AP_000376.1|vFam_111| IVa2 [Fowl adenovirus D]
+gi|56160678|ref|AP_000341.1|vFam_111| IVa2 [Murine adenovirus A]
+gi|345462098|ref|YP_004782099.1|vFam_111| unnamed protein product [Bat adenovirus 2]
+gi|378554417|ref|YP_005271181.1|vFam_111| unnamed protein product [Bat adenovirus TJM]
+gi|56160957|ref|AP_000612.1|vFam_111| IVa2 [Canine adenovirus 2]
+gi|318065970|ref|YP_004123737.1|vFam_111| IVa2 [Murine adenovirus 2]
+gi|56158806|ref|AP_000025.1|vFam_111| IVa2 [Bovine adenovirus B]
+gi|46852407|ref|YP_009200.1|vFam_111| IVa2 [Porcine adenovirus 3]
+gi|496838694|ref|YP_007518312.1|vFam_111| IVa2 [Titi monkey adenovirus ECC-2011]
+gi|9626626|ref|NP_040914.1|vFam_111| IVa2 gene product [Human adenovirus A]
+gi|460042642|ref|YP_007518069.1|vFam_111| IVa2 [Simian adenovirus 20]
+gi|51518820|ref|YP_067907.1|vFam_111| IVa2 [Simian adenovirus 3]
+gi|327415375|ref|YP_004300203.1|vFam_111| unnamed protein product [Simian adenovirus 49]
+gi|485191062|ref|YP_007905998.1|vFam_111| IVa2 [Simian adenovirus C]
+gi|540155831|ref|YP_008520225.1|vFam_111| IVa2 [Simian adenovirus 18]
+gi|9626558|ref|NP_040852.1|vFam_111| encapsidation protein IVa2 [Human adenovirus F]
+gi|56160844|ref|AP_000502.1|vFam_111| IVa2 [Human adenovirus 1]
+gi|197944731|ref|YP_002213830.1|vFam_111| encapsidation protein IVa2 [Human adenovirus B]
+gi|253761980|ref|YP_003038602.1|vFam_111| pIVa2 [Human adenovirus 54]
+gi|51556698|ref|YP_068059.1|vFam_111| IVa2 [Tree shrew adenovirus 1]
+gi|56160569|ref|AP_000235.1|vFam_111| IVa2 [Porcine adenovirus C]
+gi|52801684|ref|YP_094031.1|vFam_111| IVa2 [Bovine adenovirus A]
+gi|56158831|ref|AP_000005.1|vFam_111| IVa2 [Ovine adenovirus A]
+gi|56158883|ref|AP_000079.1|vFam_111| IVa2, partial [Duck adenovirus A]
+gi|160700557|ref|YP_001552246.1|vFam_111| unnamed protein product [Snake adenovirus 1]

@@ -1,0 +1,11 @@
+CLUSTER	4317
+NUM_SEQ	3
+LENGTH	199
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	103.48
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978031|ref|YP_003987151.1|vFam_4317| putative lectin [Acanthamoeba polyphaga mimivirus]
+gi|448825753|ref|YP_007418684.1|vFam_4317| putative lectin [Megavirus lba]
+gi|441432591|ref|YP_007354633.1|vFam_4317| Bulb-type mannose-specific lectin [Acanthamoeba polyphaga moumouvirus]

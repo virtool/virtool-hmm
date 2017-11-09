@@ -1,0 +1,14 @@
+CLUSTER	232
+NUM_SEQ	6
+LENGTH	214
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	107.0
+FAMILIES	{'Baculoviridae': 4, 'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1, 'Betabaculovirus': 1, 'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9964576|ref|NP_065044.1|vFam_232| hypothetical protein AMV262 [Amsacta moorei entomopoxvirus 'L']
+gi|9635380|ref|NP_059278.1|vFam_232| ORF130 [Xestia c-nigrum granulovirus]
+gi|165969033|ref|YP_001650933.1|vFam_232| baculovirus repeated ORF a [Orgyia leucostigma NPV]
+gi|9631042|ref|NP_047712.1|vFam_232| Ld-bro-g [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|292397743|ref|YP_003517809.1|vFam_232| BRO-E [Lymantria xylina MNPV]
+gi|114679900|ref|YP_758350.1|vFam_232| bro-d [Leucania separata nucleopolyhedrovirus]

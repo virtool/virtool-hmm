@@ -1,0 +1,10 @@
+CLUSTER	3879
+NUM_SEQ	2
+LENGTH	1203
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	625.56
+FAMILIES	{'None': 1, 'Malacoherpesviridae': 1}
+GENERA	{'None': 1, 'Ostreavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|410493522|ref|YP_006908720.1|vFam_3879| hypothetical protein AbHV_ORF68 [Abalone herpesvirus Victoria/AUS/2009]
+gi|48696819|ref|YP_024643.1|vFam_3879| ORF104 [Ostreid herpesvirus 1]

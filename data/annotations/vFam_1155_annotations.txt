@@ -1,0 +1,13 @@
+CLUSTER	1155
+NUM_SEQ	5
+LENGTH	239
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	124.28
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Proboscivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|496991105|ref|YP_007969854.1|vFam_1155| membrane protein EE38 [Elephantid herpesvirus 1]
+gi|496991106|ref|YP_007969853.1|vFam_1155| membrane protein EE37 [Elephantid herpesvirus 1]
+gi|496991107|ref|YP_007969852.1|vFam_1155| membrane protein EE36 [Elephantid herpesvirus 1]
+gi|496991100|ref|YP_007969859.1|vFam_1155| membrane protein EE43 [Elephantid herpesvirus 1]
+gi|496991101|ref|YP_007969858.1|vFam_1155| membrane protein EE42 [Elephantid herpesvirus 1]

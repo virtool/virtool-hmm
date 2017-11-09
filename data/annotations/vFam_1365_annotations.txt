@@ -1,0 +1,16 @@
+CLUSTER	1365
+NUM_SEQ	8
+LENGTH	195
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	101.4
+FAMILIES	{'None': 2, 'Phycodnaviridae': 3, 'Mimiviridae': 3}
+GENERA	{'None': 3, 'Mimivirus': 2, 'Phaeovirus': 1, 'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|197322352|ref|YP_002154625.1|vFam_1365| putative integrase/resolvase [Feldmannia species virus]
+gi|157953260|ref|YP_001498151.1|vFam_1365| hypothetical protein AR158_C069R [Paramecium bursaria Chlorella virus AR158]
+gi|311978182|ref|YP_003987302.1|vFam_1365| putative resolvase [Acanthamoeba polyphaga mimivirus]
+gi|310831347|ref|YP_003969990.1|vFam_1365| putative resolvase [Cafeteria roenbergensis virus BV-PW1]
+gi|441432214|ref|YP_007354256.1|vFam_1365| putative site-specific integrase-resolvase [Acanthamoeba polyphaga moumouvirus]
+gi|311977473|ref|YP_003986593.1|vFam_1365| putative resolvase [Acanthamoeba polyphaga mimivirus]
+gi|448825080|ref|YP_007418011.1|vFam_1365| hypothetical protein LBA_00113 [Megavirus lba]
+gi|157953019|ref|YP_001497911.1|vFam_1365| hypothetical protein NY2A_B715L [Paramecium bursaria Chlorella virus NY2A]

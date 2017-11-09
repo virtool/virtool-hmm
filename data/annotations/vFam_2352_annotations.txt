@@ -1,0 +1,10 @@
+CLUSTER	2352
+NUM_SEQ	2
+LENGTH	483
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	246.33
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825457|ref|YP_007418388.1|vFam_2352| hypothetical protein LBA_00494 [Megavirus lba]
+gi|363539988|ref|YP_004894545.1|vFam_2352| mg494 gene product [Megavirus chiliensis]

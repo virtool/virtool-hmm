@@ -1,0 +1,28 @@
+CLUSTER	199
+NUM_SEQ	20
+LENGTH	244
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	122.0
+FAMILIES	{'Phycodnaviridae': 20}
+GENERA	{'Chlorovirus': 20}
+FASTA SEQUENCE TITLES:
+gi|155371258|ref|YP_001426792.1|vFam_199| hypothetical protein ATCV1_Z311R [Acanthocystis turfacea Chlorella virus 1]
+gi|9632062|ref|NP_048851.1|vFam_199| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157952650|ref|YP_001497542.1|vFam_199| hypothetical protein NY2A_B346L [Paramecium bursaria Chlorella virus NY2A]
+gi|340025787|ref|NP_048641.2|vFam_199| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953529|ref|YP_001498420.1|vFam_199| hypothetical protein AR158_C339R [Paramecium bursaria Chlorella virus AR158]
+gi|157952693|ref|YP_001497585.1|vFam_199| hypothetical protein NY2A_B389R [Paramecium bursaria Chlorella virus NY2A]
+gi|157953831|ref|YP_001498722.1|vFam_199| hypothetical protein AR158_C641L [Paramecium bursaria Chlorella virus AR158]
+gi|157952737|ref|YP_001497629.1|vFam_199| hypothetical protein NY2A_B433L [Paramecium bursaria Chlorella virus NY2A]
+gi|157952744|ref|YP_001497636.1|vFam_199| hypothetical protein NY2A_B440L [Paramecium bursaria Chlorella virus NY2A]
+gi|157952510|ref|YP_001497402.1|vFam_199| hypothetical protein NY2A_B206L [Paramecium bursaria Chlorella virus NY2A]
+gi|9631883|ref|NP_048671.1|vFam_199| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|9632173|ref|NP_049007.1|vFam_199| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|155371580|ref|YP_001427114.1|vFam_199| hypothetical protein ATCV1_Z633L [Acanthocystis turfacea Chlorella virus 1]
+gi|155371334|ref|YP_001426868.1|vFam_199| hypothetical protein ATCV1_Z387R [Acanthocystis turfacea Chlorella virus 1]
+gi|155371588|ref|YP_001427122.1|vFam_199| hypothetical protein ATCV1_Z641L [Acanthocystis turfacea Chlorella virus 1]
+gi|155371584|ref|YP_001427118.1|vFam_199| hypothetical protein ATCV1_Z637L [Acanthocystis turfacea Chlorella virus 1]
+gi|155371495|ref|YP_001427029.1|vFam_199| hypothetical protein ATCV1_Z548L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370657|ref|YP_001426191.1|vFam_199| hypothetical protein FR483_N559R [Paramecium bursaria Chlorella virus FR483]
+gi|155370489|ref|YP_001426023.1|vFam_199| hypothetical protein FR483_N391R [Paramecium bursaria Chlorella virus FR483]
+gi|155370478|ref|YP_001426012.1|vFam_199| hypothetical protein FR483_N380R [Paramecium bursaria Chlorella virus FR483]

@@ -1,0 +1,28 @@
+CLUSTER	205
+NUM_SEQ	20
+LENGTH	183
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	91.5
+FAMILIES	{'Adenoviridae': 20}
+GENERA	{'None': 1, 'Mastadenovirus': 18, 'Atadenovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|56158889|ref|AP_000085.1|vFam_205| pVII [Duck adenovirus A]
+gi|227122426|ref|YP_002822212.1|vFam_205| pVII [Murine adenovirus 3]
+gi|56160684|ref|AP_000347.1|vFam_205| pVII [Murine adenovirus A]
+gi|9629108|ref|NP_044194.1|vFam_205| hypothetical protein CaV1gp12 [Canine adenovirus A]
+gi|46852413|ref|YP_009206.1|vFam_205| pVII [Porcine adenovirus 3]
+gi|56160575|ref|AP_000241.1|vFam_205| pVII [Porcine adenovirus C]
+gi|56158836|ref|AP_000010.1|vFam_205| pVII [Ovine adenovirus A]
+gi|318065976|ref|YP_004123743.1|vFam_205| pVII [Murine adenovirus 2]
+gi|56158810|ref|AP_000029.1|vFam_205| pVII [Bovine adenovirus B]
+gi|496838700|ref|YP_007518318.1|vFam_205| pVII [Titi monkey adenovirus ECC-2011]
+gi|56160850|ref|AP_000508.1|vFam_205| pVII [Human adenovirus 1]
+gi|61602094|ref|YP_213971.1|vFam_205| pVII [Simian adenovirus 1]
+gi|9626569|ref|NP_040858.1|vFam_205| core protein precursor pVII [Human adenovirus F]
+gi|540155837|ref|YP_008520231.1|vFam_205| pVII [Simian adenovirus 18]
+gi|327415381|ref|YP_004300209.1|vFam_205| unnamed protein product [Simian adenovirus 49]
+gi|460042648|ref|YP_007518075.1|vFam_205| pVII [Simian adenovirus 20]
+gi|56160447|ref|AP_000117.1|vFam_205| pVII [Human adenovirus A]
+gi|253761986|ref|YP_003038608.1|vFam_205| pVII [Human adenovirus 54]
+gi|197944738|ref|YP_002213775.1|vFam_205| core protein precursor pVII [Human adenovirus B]
+gi|386522694|ref|YP_006272959.1|vFam_205| pVII [Chimpanzee adenovirus Y25]

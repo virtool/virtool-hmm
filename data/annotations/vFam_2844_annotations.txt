@@ -1,0 +1,12 @@
+CLUSTER	2844
+NUM_SEQ	4
+LENGTH	102
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	52.02
+FAMILIES	{'Phycodnaviridae': 1, 'Mimiviridae': 3}
+GENERA	{'None': 3, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|314055296|ref|YP_004063634.1|vFam_2844| Cytochrome b5-host origin [Ostreococcus tauri virus 2]
+gi|311978026|ref|YP_003987146.1|vFam_2844| cytochrome b5-like protein [Acanthamoeba polyphaga mimivirus]
+gi|441432585|ref|YP_007354627.1|vFam_2844| cytochrome b5-like protein [Acanthamoeba polyphaga moumouvirus]
+gi|363540538|ref|YP_004894807.1|vFam_2844| mg756 gene product [Megavirus chiliensis]

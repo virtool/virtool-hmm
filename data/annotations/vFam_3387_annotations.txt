@@ -1,0 +1,11 @@
+CLUSTER	3387
+NUM_SEQ	3
+LENGTH	338
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	179.14
+FAMILIES	{'Reoviridae': 3}
+GENERA	{'None': 2, 'Oryzavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|20428603|ref|NP_620527.1|vFam_3387| spike protein [Rice ragged stunt virus]
+gi|375298263|ref|YP_005255245.1|vFam_3387| P10 gene product [Spissistilus festinus reovirus]
+gi|308928591|ref|YP_003934927.1|vFam_3387| putative spike protein p10a [Raspberry latent virus]

@@ -1,0 +1,10 @@
+CLUSTER	5477
+NUM_SEQ	2
+LENGTH	148
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	76.96
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|356640409|ref|YP_004933851.1|vFam_5477| hypothetical protein cy115 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556572|ref|YP_068206.1|vFam_5477| rh113 [Macacine herpesvirus 3]

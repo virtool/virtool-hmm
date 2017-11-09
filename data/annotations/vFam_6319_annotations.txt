@@ -1,0 +1,10 @@
+CLUSTER	6319
+NUM_SEQ	2
+LENGTH	281
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	143.31
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|387866104|ref|YP_003358150.2|vFam_6319| membrane protein ORF11 [Anguillid herpesvirus 1]
+gi|282174049|ref|YP_003358151.1|vFam_6319| membrane protein ORF12 [Anguillid herpesvirus 1]

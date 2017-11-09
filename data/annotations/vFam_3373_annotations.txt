@@ -1,0 +1,11 @@
+CLUSTER	3373
+NUM_SEQ	3
+LENGTH	75
+RELATIVE_ENTROPY_PER_POSITION	0.68
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409763|ref|YP_004347183.1|vFam_3373| hypothetical protein LAU_0220 [Lausannevirus]
+gi|284504240|ref|YP_003406955.1|vFam_3373| hypothetical protein MAR_ORF214 [Marseillevirus]
+gi|526119344|ref|YP_008319247.1|vFam_3373| hypothetical protein [Pandoravirus dulcis]

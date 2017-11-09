@@ -1,0 +1,14 @@
+CLUSTER	1985
+NUM_SEQ	6
+LENGTH	182
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	94.64
+FAMILIES	{'Potyviridae': 5}
+GENERA	{'Bymovirus': 4, 'Macluravirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531035032|ref|YP_008436657.1|vFam_1985| hypothetical protein ps_241 [Pandoravirus salinus]
+gi|401829586|ref|YP_006590099.1|vFam_1985| VPg protein [Chinese yam necrotic mosaic virus]
+gi|25013751|ref|NP_734297.1|vFam_1985| NIa-VPg protein [Barley mild mosaic virus]
+gi|25014010|ref|NP_734279.1|vFam_1985| NIa-VPg protein [Oat mosaic virus]
+gi|25013967|ref|NP_697042.1|vFam_1985| NIa-VPg protein [Wheat yellow mosaic virus]
+gi|25013743|ref|NP_734305.1|vFam_1985| NIa-VPg protein [Barley yellow mosaic virus]

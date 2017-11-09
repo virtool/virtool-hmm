@@ -1,0 +1,20 @@
+CLUSTER	633
+NUM_SEQ	12
+LENGTH	151
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	81.54
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Macavirus': 2, 'Rhadinovirus': 6, 'Lymphocryptovirus': 2, 'None': 1, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|557041980|ref|YP_007474186.1|vFam_633| BGLF3.5 protein [Human herpesvirus 4]
+gi|24943117|ref|NP_733879.1|vFam_633| ORF26 [callitrichine herpesvirus 3]
+gi|9629576|ref|NP_044873.1|vFam_633| tegument protein UL14 [Murid herpesvirus 4]
+gi|321496587|ref|YP_004207872.1|vFam_633| hypothetical protein RHVP.35 [Rodent herpesvirus Peru]
+gi|83642871|ref|YP_438158.1|vFam_633| ORF35 [Ovine herpesvirus 2]
+gi|10140956|ref|NP_065533.1|vFam_633| ORF35 [Alcelaphine herpesvirus 1]
+gi|139472830|ref|YP_001129388.1|vFam_633| ORF35 [Human herpesvirus 8]
+gi|13095612|ref|NP_076527.1|vFam_633| unknown [Bovine herpesvirus 4]
+gi|9628038|ref|NP_042632.1|vFam_633| ORF 35 [Equid herpesvirus 2]
+gi|18653842|ref|NP_570776.1|vFam_633| hypothetical protein MmrVgp35 [Macacine herpesvirus 5]
+gi|9631227|ref|NP_048008.1|vFam_633| orf 35 [Ateline herpesvirus 3]
+gi|9625991|ref|NP_040237.1|vFam_633| unnamed protein product [Saimiriine herpesvirus 2]

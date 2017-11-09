@@ -1,0 +1,11 @@
+CLUSTER	4990
+NUM_SEQ	3
+LENGTH	162
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	85.86
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Avipoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|40556250|ref|NP_955335.1|vFam_4990| CNPV312 conserved hypothetical protein [Canarypox virus]
+gi|40555993|ref|NP_955078.1|vFam_4990| CNPV055 conserved hypothetical protein [Canarypox virus]
+gi|9634707|ref|NP_039000.1|vFam_4990| hypothetical protein FPV037 [Fowlpox virus]

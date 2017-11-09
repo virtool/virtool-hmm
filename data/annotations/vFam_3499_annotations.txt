@@ -1,0 +1,11 @@
+CLUSTER	3499
+NUM_SEQ	3
+LENGTH	160
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	80.0
+FAMILIES	{'Tymoviridae': 1, 'Iridoviridae': 1}
+GENERA	{'Maculavirus': 1, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|334285104|ref|YP_004464932.1|vFam_3499| unnamed protein product [Bombyx mori Macula-like virus]
+gi|527333621|ref|YP_008357405.1|vFam_3499| hypothetical protein IIV22_107R [Invertebrate iridovirus 22]
+gi|339906035|ref|YP_004732832.1|vFam_3499| hypothetical protein WIV_gp049 [Wiseana iridescent virus]

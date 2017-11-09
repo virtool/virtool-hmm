@@ -1,0 +1,13 @@
+CLUSTER	1874
+NUM_SEQ	5
+LENGTH	194
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	102.82
+FAMILIES	{'Closteroviridae': 5}
+GENERA	{'Closterovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|115304332|ref|YP_762630.1|vFam_1874| putative silencing supressor [Strawberry chlorotic fleck-associated virus]
+gi|118197619|ref|YP_874193.1|vFam_1874| p23 [Raspberry leaf mottle virus]
+gi|254666627|ref|YP_003075973.1|vFam_1874| p25 [Carrot yellow leaf virus]
+gi|62327416|ref|YP_224098.1|vFam_1874| putative silencing supressor [Mint virus 1]
+gi|9628276|ref|NP_042870.1|vFam_1874| 20-kDa protein [Citrus tristeza virus]

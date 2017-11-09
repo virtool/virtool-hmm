@@ -1,0 +1,14 @@
+CLUSTER	1589
+NUM_SEQ	6
+LENGTH	395
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	205.4
+FAMILIES	{'Herpesviridae': 6}
+GENERA	{'Simplexvirus': 6}
+FASTA SEQUENCE TITLES:
+gi|312162863|ref|YP_003933848.1|vFam_1589| envelope glycoprotein D [Saimiriine herpesvirus 1]
+gi|9629447|ref|NP_044668.1|vFam_1589| envelope glycoprotein D [Human herpesvirus 1]
+gi|9629336|ref|NP_044536.1|vFam_1589| envelope glycoprotein D [Human herpesvirus 2]
+gi|30984493|ref|NP_851925.1|vFam_1589| envelope glycoprotein D [Macacine herpesvirus 1]
+gi|83722634|ref|YP_443912.1|vFam_1589| envelope glycoprotein D [Papiine herpesvirus 2]
+gi|56694788|ref|YP_164508.1|vFam_1589| envelope glycoprotein D [Cercopithecine herpesvirus 2]

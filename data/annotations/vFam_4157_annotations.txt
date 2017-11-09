@@ -1,0 +1,10 @@
+CLUSTER	4157
+NUM_SEQ	2
+LENGTH	844
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	422.0
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441431936|ref|YP_007353982.1|vFam_4157| hypothetical protein [Aspergillus foetidus dsRNA mycovirus]
+gi|190643487|ref|YP_001976150.1|vFam_4157| hypothetical protein AltMyV_sM1gp1 [Alternaria alternata virus 1]

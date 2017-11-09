@@ -1,0 +1,22 @@
+CLUSTER	190
+NUM_SEQ	14
+LENGTH	241
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	120.5
+FAMILIES	{'Alloherpesviridae': 1, 'Baculoviridae': 11, 'Mimiviridae': 1}
+GENERA	{'Mimivirus': 1, 'Batrachovirus': 1, 'Alphabaculovirus': 11}
+FASTA SEQUENCE TITLES:
+gi|109638695|ref|YP_656612.1|vFam_190| ORF104 [Ranid herpesvirus 2]
+gi|311978122|ref|YP_003987242.1|vFam_190| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|209978881|ref|YP_002300624.1|vFam_190| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|118197575|ref|YP_874287.1|vFam_190| hypothetical protein EONV_gp094 [Ectropis obliqua nucleopolyhedrovirus]
+gi|402502128|ref|YP_006607786.1|vFam_190| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|228861702|ref|YP_002854722.1|vFam_190| hypothetical protein EupsNPV_gp112 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|529218176|ref|YP_008378339.1|vFam_190| HESP123 [Hemileuca sp. nucleopolyhedrovirus]
+gi|74229805|ref|YP_309009.1|vFam_190| orf120 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|20069932|ref|NP_613136.1|vFam_190| hypothetical protein McnAVgp053 [Mamestra configurata nucleopolyhedrovirus A]
+gi|125860160|ref|YP_001036330.1|vFam_190| hypothetical protein SFMNPV_gp038 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401436|ref|YP_002332739.1|vFam_190| hypothetical protein SlnV2_gp041 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634261|ref|NP_037800.1|vFam_190| ORF40 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|90592757|ref|YP_529710.1|vFam_190| ORF-40 [Agrotis segetum nucleopolyhedrovirus]
+gi|209170930|ref|YP_002268076.1|vFam_190| agip46 [Agrotis ipsilon multiple nucleopolyhedrovirus]

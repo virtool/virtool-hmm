@@ -1,0 +1,11 @@
+CLUSTER	4816
+NUM_SEQ	3
+LENGTH	67
+RELATIVE_ENTROPY_PER_POSITION	0.78
+TOTAL_RELATIVE_ENTROPY	52.26
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|157929292|ref|YP_001496944.1|vFam_4816| hypothetical protein AFV2_gp19 [Acidianus filamentous virus 2]
+gi|162329537|ref|YP_001604336.1|vFam_4816| hypothetical protein AFV8_gp55 [Acidianus filamentous virus 8]
+gi|162329475|ref|YP_001604275.1|vFam_4816| hypothetical protein AFV7_gp51 [Acidianus filamentous virus 7]

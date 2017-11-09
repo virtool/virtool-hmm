@@ -1,0 +1,27 @@
+CLUSTER	201
+NUM_SEQ	19
+LENGTH	187
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	89.76
+FAMILIES	{'Adenoviridae': 18}
+GENERA	{'None': 1, 'Mastadenovirus': 17}
+FASTA SEQUENCE TITLES:
+gi|227122434|ref|YP_002822221.1|vFam_201| 33k [Murine adenovirus 3]
+gi|56160692|ref|AP_000355.1|vFam_201| 33K [Murine adenovirus A]
+gi|318065984|ref|YP_004123751.1|vFam_201| 33K [Murine adenovirus 2]
+gi|496838709|ref|YP_007518326.1|vFam_201| 33K [Titi monkey adenovirus ECC-2011]
+gi|56160584|ref|AP_000249.1|vFam_201| 33K [Porcine adenovirus C]
+gi|52801696|ref|YP_094043.1|vFam_201| 33K [Bovine adenovirus A]
+gi|56158841|ref|AP_000016.1|vFam_201| 33K [Ovine adenovirus A]
+gi|51518835|ref|YP_067921.1|vFam_201| 33 kDa protein [Simian adenovirus 3]
+gi|56160548|ref|AP_000215.1|vFam_201| 33K [Human adenovirus 5]
+gi|190340994|ref|YP_001974455.1|vFam_201| protein 33K [Human adenovirus D]
+gi|56160653|ref|AP_000317.1|vFam_201| 33K [Simian adenovirus 25]
+gi|197944777|ref|YP_002213816.1|vFam_201| protein 33K [Human adenovirus B]
+gi|197944746|ref|YP_002213783.1|vFam_201| protein 33K [Human adenovirus B]
+gi|56160614|ref|AP_000279.1|vFam_201| 33K [Simian adenovirus 21]
+gi|56160456|ref|AP_000125.1|vFam_201| 33K [Human adenovirus A]
+gi|61602102|ref|YP_213979.1|vFam_201| 33K [Simian adenovirus 1]
+gi|485191076|ref|YP_007906012.1|vFam_201| 33K [Simian adenovirus C]
+gi|540155845|ref|YP_008520239.1|vFam_201| 33K [Simian adenovirus 18]
+gi|9626562|ref|NP_040866.1|vFam_201| protein 33K [Human adenovirus F]

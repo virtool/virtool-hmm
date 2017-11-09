@@ -1,0 +1,12 @@
+CLUSTER	3521
+NUM_SEQ	4
+LENGTH	298
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	151.98
+FAMILIES	{'Asfarviridae': 1, 'Iridoviridae': 2}
+GENERA	{'Chloriridovirus': 1, 'Iridovirus': 1, 'Asfivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9628203|ref|NP_042789.1|vFam_3521| pCP312R [African swine fever virus]
+gi|109288003|ref|YP_654697.1|vFam_3521| hypothetical protein MIV125R [Invertebrate iridescent virus 3]
+gi|527333520|ref|YP_008357304.1|vFam_3521| hypothetical protein IIV22_006L [Invertebrate iridovirus 22]
+gi|339906110|ref|YP_004732907.1|vFam_3521| hypothetical protein WIV_gp124 [Wiseana iridescent virus]

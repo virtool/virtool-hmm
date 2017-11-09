@@ -1,0 +1,11 @@
+CLUSTER	3244
+NUM_SEQ	3
+LENGTH	412
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	214.24
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977765|ref|YP_003986885.1|vFam_3244| putative leucine-rich repeat protein [Acanthamoeba polyphaga mimivirus]
+gi|448825482|ref|YP_007418413.1|vFam_3244| putative leucine-rich repeat protein [Megavirus lba]
+gi|441432370|ref|YP_007354412.1|vFam_3244| hypothetical protein Moumou_00440 [Acanthamoeba polyphaga moumouvirus]

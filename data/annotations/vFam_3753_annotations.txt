@@ -1,0 +1,11 @@
+CLUSTER	3753
+NUM_SEQ	3
+LENGTH	101
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	53.53
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 2, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|314055319|ref|YP_004063657.1|vFam_3753| hypothetical protein OtV2_224 [Ostreococcus tauri virus 2]
+gi|313768381|ref|YP_004062061.1|vFam_3753| hypothetical protein MpV1_178 [Micromonas sp. RCC1109 virus MpV1]
+gi|314055321|ref|YP_004063659.1|vFam_3753| hypothetical protein OtV2_226 [Ostreococcus tauri virus 2]

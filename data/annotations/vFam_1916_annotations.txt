@@ -1,0 +1,10 @@
+CLUSTER	1916
+NUM_SEQ	2
+LENGTH	170
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	86.7
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|284504141|ref|YP_003406856.1|vFam_1916| hypothetical protein MAR_ORF109 [Marseillevirus]
+gi|284504122|ref|YP_003406837.1|vFam_1916| hypothetical protein MAR_ORF090 [Marseillevirus]

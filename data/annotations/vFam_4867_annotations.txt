@@ -1,0 +1,11 @@
+CLUSTER	4867
+NUM_SEQ	3
+LENGTH	298
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	154.96
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'Chlorovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|155371134|ref|YP_001426668.1|vFam_4867| hypothetical protein ATCV1_Z187L [Acanthocystis turfacea Chlorella virus 1]
+gi|157953848|ref|YP_001498739.1|vFam_4867| hypothetical protein AR158_C658R [Paramecium bursaria Chlorella virus AR158]
+gi|9632109|ref|NP_048900.1|vFam_4867| ATP-dependent DNA ligase [Paramecium bursaria Chlorella virus 1]

@@ -1,0 +1,13 @@
+CLUSTER	2005
+NUM_SEQ	5
+LENGTH	247
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	133.38
+FAMILIES	{'Luteoviridae': 5}
+GENERA	{'Polerovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|51980896|ref|YP_077185.1|vFam_2005| p0 protein [Carrot red leaf virus]
+gi|9629161|ref|NP_056746.1|vFam_2005| P0 protein [Potato leafroll virus]
+gi|30146799|ref|NP_840020.1|vFam_2005| P0 protein [Cereal yellow dwarf virus-RPV]
+gi|253729530|ref|YP_003029837.1|vFam_2005| P0 protein [Wheat yellow dwarf virus-GPV]
+gi|9634962|ref|NP_054684.1|vFam_2005| P0 protein [Cereal yellow dwarf virus-RPS]

@@ -1,0 +1,13 @@
+CLUSTER	368
+NUM_SEQ	5
+LENGTH	95
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	49.4
+FAMILIES	{'None': 4, 'Caulimoviridae': 1}
+GENERA	{'None': 1, 'Sobemovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|221048144|ref|YP_002519383.1|vFam_368| hypothetical protein RuFDV_gp1 [Rudbeckia flower distortion virus]
+gi|475655849|ref|YP_007697624.1|vFam_368| putative P10 protein [Southern cowpea mosaic virus]
+gi|474776914|ref|YP_007688808.1|vFam_368| putative P10 protein [Soybean yellow common mosaic virus]
+gi|471346286|ref|YP_007652834.1|vFam_368| putative P10 protein [Southern bean mosaic virus]
+gi|45655420|ref|NP_996748.1|vFam_368| p10 protein [Sesbania mosaic virus]

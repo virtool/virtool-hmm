@@ -1,0 +1,11 @@
+CLUSTER	694
+NUM_SEQ	3
+LENGTH	319
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	162.69
+FAMILIES	{'Asfarviridae': 3}
+GENERA	{'Asfivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9628146|ref|NP_042732.1|vFam_694| pA276R [African swine fever virus]
+gi|9628252|ref|NP_042838.1|vFam_694| pDP311R [African swine fever virus]
+gi|9628132|ref|NP_042718.1|vFam_694| pJ319L [African swine fever virus]

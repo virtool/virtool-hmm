@@ -1,0 +1,48 @@
+CLUSTER	88
+NUM_SEQ	40
+LENGTH	336
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	171.36
+FAMILIES	{'Baculoviridae': 35}
+GENERA	{'Deltabaculovirus': 1, 'Gammabaculovirus': 2, 'Betabaculovirus': 11, 'Alphabaculovirus': 21}
+FASTA SEQUENCE TITLES:
+gi|15320802|ref|NP_203312.1|vFam_88| CUN008 putative vp1054 virion associated assembly protein, similar to AcMNPV ORF54 [Culex nigripalpus nucleopolyhedrovirus]
+gi|48843712|ref|YP_025284.1|vFam_88| viral capsid associated protein [Neodiprion lecontei nucleopolyhedrovirus]
+gi|48843619|ref|YP_025192.1|vFam_88| viral protein 1054 [Neodiprion sertifer nucleopolyhedrovirus]
+gi|11068118|ref|NP_068334.1|vFam_88| PxORF115 peptide [Plutella xylostella granulovirus]
+gi|410493698|ref|YP_006908636.1|vFam_88| VP1054 [Epinotia aporema granulovirus]
+gi|21686791|ref|NP_663291.1|vFam_88| VP1054 [Phthorimaea operculella granulovirus]
+gi|32698654|ref|NP_872569.1|vFam_88| vp1054 [Adoxophyes orana granulovirus]
+gi|109255385|ref|YP_654534.1|vFam_88| VP1054 [Choristoneura occidentalis granulovirus]
+gi|556549152|ref|YP_008720066.1|vFam_88| vp1054 [Clostera anastomosis granulovirus]
+gi|288804755|ref|YP_003429440.1|vFam_88| VP1054 [Pieris rapae granulovirus]
+gi|33622325|ref|NP_891972.1|vFam_88| vp1054 [Cryptophlebia leucotreta granulovirus]
+gi|14602375|ref|NP_148922.1|vFam_88| ORF138 VP1054 [Cydia pomonella granulovirus]
+gi|46309327|ref|YP_006217.1|vFam_88| ORF127 [Agrotis segetum granulovirus]
+gi|285002452|ref|YP_003422516.1|vFam_88| VP1054 [Pseudaletia unipuncta granulovirus]
+gi|148368951|ref|YP_001257081.1|vFam_88| vp1054 [Spodoptera litura granulovirus]
+gi|438000357|ref|YP_007250462.1|vFam_88| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643594|ref|YP_002884284.1|vFam_88| VP1054 [Bombyx mandarina nucleopolyhedrovirus]
+gi|15320706|ref|NP_203218.1|vFam_88| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326124|ref|YP_803449.1|vFam_88| viral capsid associated protein [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|96979858|ref|YP_611064.1|vFam_88| vp1054 [Antheraea pernyi nucleopolyhedrovirus]
+gi|571031291|ref|YP_008992188.1|vFam_88| vp1054 [Choristoneura murinana alphabaculovirus]
+gi|9629996|ref|NP_046214.1|vFam_88| hypothetical protein OpmnVgp058 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|113195440|ref|YP_717577.1|vFam_88| VP1054 [Clanis bilineata nucleopolyhedrovirus]
+gi|114679911|ref|YP_758361.1|vFam_88| vp1054 [Leucania separata nucleopolyhedrovirus]
+gi|15617520|ref|NP_258317.1|vFam_88| VP1054 virion protein [Spodoptera litura nucleopolyhedrovirus]
+gi|209978814|ref|YP_002300557.1|vFam_88| VP1054 [Adoxophyes orana nucleopolyhedrovirus]
+gi|228861626|ref|YP_002854646.1|vFam_88| VP1054 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|165969048|ref|YP_001650948.1|vFam_88| vp1054 [Orgyia leucostigma NPV]
+gi|118197521|ref|YP_874232.1|vFam_88| Vp1054 [Ectropis obliqua nucleopolyhedrovirus]
+gi|529218097|ref|YP_008378260.1|vFam_88| vp1054 [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502139|ref|YP_006607797.1|vFam_88| VP1054 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|292397729|ref|YP_003517795.1|vFam_88| VP1054 [Lymantria xylina MNPV]
+gi|209401101|ref|YP_002273970.1|vFam_88| viral capsid associated protein [Helicoverpa armigera NPV NNg1]
+gi|68304181|ref|YP_249649.1|vFam_88| VP1054 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549533|ref|NP_689306.1|vFam_88| vp1054 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|125860227|ref|YP_001036397.1|vFam_88| capsid protein [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401503|ref|YP_002332807.1|vFam_88| VP1054 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634326|ref|NP_037865.1|vFam_88| ORF105 vp1054 virion protein [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209171005|ref|YP_002268152.1|vFam_88| VP1054 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592830|ref|YP_529783.1|vFam_88| VP1054 [Agrotis segetum nucleopolyhedrovirus]

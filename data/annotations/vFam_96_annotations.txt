@@ -1,0 +1,45 @@
+CLUSTER	96
+NUM_SEQ	37
+LENGTH	83
+RELATIVE_ENTROPY_PER_POSITION	0.58
+TOTAL_RELATIVE_ENTROPY	48.14
+FAMILIES	{'Baculoviridae': 31, 'Phycodnaviridae': 1}
+GENERA	{'Deltabaculovirus': 1, 'Betabaculovirus': 10, 'Alphabaculovirus': 20, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15320813|ref|NP_203323.1|vFam_96| CUN019 hypothetical protein [Culex nigripalpus nucleopolyhedrovirus]
+gi|73852664|ref|YP_293948.1|vFam_96| hypothetical protein EhV194 [Emiliania huxleyi virus 86]
+gi|237643675|ref|YP_002884365.1|vFam_96| ODV-E18 [Bombyx mandarina nucleopolyhedrovirus]
+gi|86355534|ref|YP_473202.1|vFam_96| ODV-E18 [Hyphantria cunea nucleopolyhedrovirus]
+gi|116326207|ref|YP_803533.1|vFam_96| occlusion-derived virus envelope protein [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|571031209|ref|YP_008992105.1|vFam_96| odv-e18 [Choristoneura murinana alphabaculovirus]
+gi|15320782|ref|NP_203294.1|vFam_96| ODV-E18 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|119964645|ref|YP_950841.1|vFam_96| ODV-E18 [Maruca vitrata nucleopolyhedrovirus]
+gi|23577961|ref|NP_703130.1|vFam_96| ODV-E18 [Rachiplusia ou MNPV]
+gi|114680194|ref|YP_758607.1|vFam_96| ODV-E18 [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|22549566|ref|NP_689339.1|vFam_96| odv-e18 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209171041|ref|YP_002268188.1|vFam_96| agip158 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592867|ref|YP_529820.1|vFam_96| ODV-E18 [Agrotis segetum nucleopolyhedrovirus]
+gi|215401537|ref|YP_002332841.1|vFam_96| ODV-E18 [Spodoptera litura nucleopolyhedrovirus II]
+gi|125860262|ref|YP_001036432.1|vFam_96| ODV-E18 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|114679859|ref|YP_758309.1|vFam_96| odv-e18 [Leucania separata nucleopolyhedrovirus]
+gi|15617484|ref|NP_258280.1|vFam_96| occlusion-derived virus envelope protein ODV-E18 peptide [Spodoptera litura nucleopolyhedrovirus]
+gi|292397690|ref|YP_003517756.1|vFam_96| ODV-E18 [Lymantria xylina MNPV]
+gi|228861602|ref|YP_002854622.1|vFam_96| ODV-e18 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|402502221|ref|YP_006607879.1|vFam_96| occlusion derived viral protein-e18 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|165969021|ref|YP_001650921.1|vFam_96| occlusion-derived virus envelope protein 18 [Orgyia leucostigma NPV]
+gi|529218064|ref|YP_008378227.1|vFam_96| odv-e18 [Hemileuca sp. nucleopolyhedrovirus]
+gi|118197491|ref|YP_874203.1|vFam_96| occlusion derived viral protein-e18 [Ectropis obliqua nucleopolyhedrovirus]
+gi|209978797|ref|YP_002300540.1|vFam_96| ODV-E18 [Adoxophyes orana nucleopolyhedrovirus]
+gi|209401064|ref|YP_002273933.1|vFam_96| occlusion-derived virus envelope protein 18 [Helicoverpa armigera NPV NNg1]
+gi|74229697|ref|YP_308901.1|vFam_96| orf12 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|11068016|ref|NP_068232.1|vFam_96| PxORF13 peptide [Plutella xylostella granulovirus]
+gi|285002286|ref|YP_003422350.1|vFam_96| ODV-E18 [Pseudaletia unipuncta granulovirus]
+gi|148368831|ref|YP_001256961.1|vFam_96| odv-e18 [Spodoptera litura granulovirus]
+gi|46309443|ref|YP_006333.1|vFam_96| ORF11 [Agrotis segetum granulovirus]
+gi|556549047|ref|YP_008719961.1|vFam_96| odv-e18 [Clostera anastomosis granulovirus]
+gi|32698549|ref|NP_872464.1|vFam_96| odv-e18 [Adoxophyes orana granulovirus]
+gi|410493599|ref|YP_006908537.1|vFam_96| ODV-E18 [Epinotia aporema granulovirus]
+gi|109255284|ref|YP_654433.1|vFam_96| ODV-E18 [Choristoneura occidentalis granulovirus]
+gi|33622215|ref|NP_891860.1|vFam_96| odv-e18 [Cryptophlebia leucotreta granulovirus]
+gi|14602255|ref|NP_148798.1|vFam_96| ORF14 ODV-E18 [Cydia pomonella granulovirus]
+gi|21686677|ref|NP_663177.1|vFam_96| occlusion derived virus envelope protein 18 [Phthorimaea operculella granulovirus]

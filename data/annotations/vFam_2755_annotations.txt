@@ -1,0 +1,12 @@
+CLUSTER	2755
+NUM_SEQ	4
+LENGTH	223
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	113.73
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|113195506|ref|YP_717644.1|vFam_2755| hypothetical protein CBNV_gp106 [Clanis bilineata nucleopolyhedrovirus]
+gi|23577901|ref|NP_702997.1|vFam_2755| hypothetical protein [Rachiplusia ou MNPV]
+gi|506498904|ref|YP_008004698.1|vFam_2755| unknown similar to AcMNPV orf7 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498640|ref|YP_008004434.1|vFam_2755| unknown similar to AcMNPV orf7 [Choristoneura rosaceana entomopoxvirus 'L']

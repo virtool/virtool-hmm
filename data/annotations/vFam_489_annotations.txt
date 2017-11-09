@@ -1,0 +1,24 @@
+CLUSTER	489
+NUM_SEQ	16
+LENGTH	150
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	79.5
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531785|ref|YP_784311.1|vFam_489| late transcription factor VLTF-2 [Nile crocodilepox virus]
+gi|41057512|ref|NP_957985.1|vFam_489| ORF076 late transcription factor VLTF-2 [Bovine papular stomatitis virus]
+gi|289183841|ref|YP_003457382.1|vFam_489| late transcription factor VLTF2 [Pseudocowpox virus]
+gi|40556007|ref|NP_955092.1|vFam_489| CNPV069 late transcription factor VLTF-2 [Canarypox virus]
+gi|9634719|ref|NP_039012.1|vFam_489| Late transcription factor [Fowlpox virus]
+gi|9629035|ref|NP_044054.1|vFam_489| MC103L [Molluscum contagiosum virus subtype 1]
+gi|571798014|ref|YP_008658513.1|vFam_489| late transcription factor VLTF2 [Squirrelpox virus]
+gi|377829997|ref|YP_005296296.1|vFam_489| unnamed protein product [Cotia virus SPAn232]
+gi|18640174|ref|NP_570248.1|vFam_489| SPV088 putative late transcription factor VLTF-2 [Swinepox virus]
+gi|113195298|ref|YP_717428.1|vFam_489| late gene transcription factor VLTF-2 [Taterapox virus]
+gi|345107289|ref|YP_004821454.1|vFam_489| late gene transcription factor VLTF-2 [Yoka poxvirus]
+gi|148912968|ref|YP_001293282.1|vFam_489| hypothetical protein GTPV_gp087 [Goatpox virus Pellor]
+gi|157939714|ref|YP_001497086.1|vFam_489| late transcription factor VLTF-2 [Tanapox virus]
+gi|38229253|ref|NP_938346.1|vFam_489| 91L [Yaba monkey tumor virus]
+gi|211956371|ref|YP_002302440.1|vFam_489| late transcription factor VLTF-2 [Deerpox virus W-1170-84]
+gi|9633900|ref|NP_051978.1|vFam_489| gp089L [Rabbit fibroma virus]

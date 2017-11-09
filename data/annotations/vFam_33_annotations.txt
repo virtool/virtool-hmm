@@ -1,0 +1,13 @@
+CLUSTER	33
+NUM_SEQ	5
+LENGTH	149
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	73.01
+FAMILIES	{'Baculoviridae': 2, 'Retroviridae': 1}
+GENERA	{'Gammaretrovirus': 1, 'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|531037022|ref|YP_008438664.1|vFam_33| hypothetical protein ps_2262 [Pandoravirus salinus]
+gi|19431841|ref|NP_598374.1|vFam_33| ubiquitin-like protein [Murine osteosarcoma virus]
+gi|529218078|ref|YP_008378241.1|vFam_33| ubiquitin [Hemileuca sp. nucleopolyhedrovirus]
+gi|292397713|ref|YP_003517779.1|vFam_33| ubiquitin [Lymantria xylina MNPV]
+gi|9631009|ref|NP_047679.1|vFam_33| viral ubiquitin [Lymantria dispar multiple nucleopolyhedrovirus]

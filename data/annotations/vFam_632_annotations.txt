@@ -1,0 +1,18 @@
+CLUSTER	632
+NUM_SEQ	10
+LENGTH	325
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	165.75
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036650|ref|YP_008438287.1|vFam_632| ankyrin repeat [Pandoravirus salinus]
+gi|531036829|ref|YP_008438468.1|vFam_632| ankyrin repeat [Pandoravirus salinus]
+gi|526119860|ref|YP_008319763.1|vFam_632| ankyrin repeat [Pandoravirus dulcis]
+gi|531035792|ref|YP_008437426.1|vFam_632| ankyrin repeat [Pandoravirus salinus]
+gi|531036690|ref|YP_008438327.1|vFam_632| ankyrin repeat [Pandoravirus salinus]
+gi|531036509|ref|YP_008438146.1|vFam_632| ankyrin repeat [Pandoravirus salinus]
+gi|526119772|ref|YP_008319675.1|vFam_632| ankyrin repeat [Pandoravirus dulcis]
+gi|531036677|ref|YP_008438314.1|vFam_632| ankyrin repeat [Pandoravirus salinus]
+gi|531036721|ref|YP_008438358.1|vFam_632| ankyrin repeat [Pandoravirus salinus]
+gi|531035857|ref|YP_008437491.1|vFam_632| ankyrin repeat [Pandoravirus salinus]

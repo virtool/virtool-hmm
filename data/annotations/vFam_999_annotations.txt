@@ -1,0 +1,14 @@
+CLUSTER	999
+NUM_SEQ	6
+LENGTH	373
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	190.23
+FAMILIES	{'Herpesviridae': 6}
+GENERA	{'Simplexvirus': 6}
+FASTA SEQUENCE TITLES:
+gi|312162864|ref|YP_003933849.1|vFam_999| envelope glycoprotein I [Saimiriine herpesvirus 1]
+gi|30984494|ref|NP_851926.1|vFam_999| envelope glycoprotein I [Macacine herpesvirus 1]
+gi|83722635|ref|YP_443913.1|vFam_999| envelope glycoprotein I [Papiine herpesvirus 2]
+gi|56694789|ref|YP_164509.1|vFam_999| envelope glycoprotein I [Cercopithecine herpesvirus 2]
+gi|9629448|ref|NP_044669.1|vFam_999| envelope glycoprotein I [Human herpesvirus 1]
+gi|9629337|ref|NP_044537.1|vFam_999| envelope glycoprotein I [Human herpesvirus 2]

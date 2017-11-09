@@ -1,0 +1,13 @@
+CLUSTER	1532
+NUM_SEQ	5
+LENGTH	266
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	133.0
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'None': 2, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831523|ref|YP_003970166.1|vFam_1532| hypothetical protein crov533 [Cafeteria roenbergensis virus BV-PW1]
+gi|531035031|ref|YP_008436656.1|vFam_1532| lipid raft-associated protein [Pandoravirus salinus]
+gi|32453855|ref|NP_861618.1|vFam_1532| similar to COG330 [Halovirus HF1]
+gi|441432566|ref|YP_007354608.1|vFam_1532| Stomatin family protein [Acanthamoeba polyphaga moumouvirus]
+gi|311978011|ref|YP_003987131.1|vFam_1532| putative band 7 family protein [Acanthamoeba polyphaga mimivirus]

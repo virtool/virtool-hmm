@@ -1,0 +1,10 @@
+CLUSTER	6703
+NUM_SEQ	2
+LENGTH	50
+RELATIVE_ENTROPY_PER_POSITION	1.06
+TOTAL_RELATIVE_ENTROPY	53.0
+FAMILIES	{'Papillomaviridae': 2}
+GENERA	{'Kappapapillomavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|13186223|ref|NP_077105.1|vFam_6703| E8 [Kappapapillomavirus 2]
+gi|9635134|ref|NP_057841.1|vFam_6703| E8 [Kappapapillomavirus 1]

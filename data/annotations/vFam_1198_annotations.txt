@@ -1,0 +1,16 @@
+CLUSTER	1198
+NUM_SEQ	8
+LENGTH	144
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	74.88
+FAMILIES	{'Geminiviridae': 5}
+GENERA	{'Begomovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|554499503|ref|YP_008691086.1|vFam_1198| AC3 [Sweet potato leaf curl China virus [China:Sichuan14:2012]]
+gi|327409461|ref|YP_004339039.1|vFam_1198| replication enhancer protein [Sweet potato leaf curl South Carolina virus]
+gi|254729597|ref|YP_003084278.1|vFam_1198| REn [Ipomoea yellow vein virus]
+gi|294336489|ref|YP_003560501.1|vFam_1198| replication enhancer protein [Sweet potato leaf curl Bengal virus]
+gi|320202730|ref|YP_004191797.1|vFam_1198| replication enhancer protein [Sweet potato leaf curl Uganda virus-[Uganda:Kampala:2008]]
+gi|523414795|ref|YP_008198571.1|vFam_1198| AC3 [Sweet potato leaf curl China Henan virus]
+gi|537711887|ref|YP_008492940.1|vFam_1198| AC3 [Sweet potato leaf curl Shanghai virus]
+gi|331271219|ref|YP_004346958.1|vFam_1198| replication enhancer protein [Sweet potato golden vein associated virus]

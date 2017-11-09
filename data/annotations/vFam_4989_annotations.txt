@@ -1,0 +1,11 @@
+CLUSTER	4989
+NUM_SEQ	3
+LENGTH	79
+RELATIVE_ENTROPY_PER_POSITION	0.64
+TOTAL_RELATIVE_ENTROPY	50.56
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|41057449|ref|NP_957922.1|vFam_4989| ORF013 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183777|ref|YP_003457318.1|vFam_4989| hypothetical protein PCPV_gp015 [Pseudocowpox virus]
+gi|41057076|ref|NP_957790.1|vFam_4989| ORF013 hypothetical protein [Orf virus]

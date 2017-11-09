@@ -1,0 +1,12 @@
+CLUSTER	3702
+NUM_SEQ	4
+LENGTH	286
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	145.86
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'None': 1, 'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|14251108|ref|NP_116470.1|vFam_3702| t119 [Tupaiid herpesvirus 1]
+gi|9845406|ref|NP_064220.1|vFam_3702| pR118 [Murid herpesvirus 2]
+gi|425707312|ref|YP_007016509.1|vFam_3702| E118 [Murid herpesvirus 8]
+gi|61743912|ref|YP_214114.2|vFam_3702| putative glycoprotein [Murid herpesvirus 1]

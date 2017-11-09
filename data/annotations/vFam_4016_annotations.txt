@@ -1,0 +1,11 @@
+CLUSTER	4016
+NUM_SEQ	3
+LENGTH	124
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	64.48
+FAMILIES	{'Flaviviridae': 3}
+GENERA	{'Flavivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|254688384|ref|YP_003084128.1|vFam_4016| putative NS2B protein [Aedes flavivirus]
+gi|37695585|ref|NP_937776.1|vFam_4016| NS2B protein [Kamiti River virus]
+gi|27735344|ref|NP_776043.1|vFam_4016| putative non-structural protein NS2b [Cell fusing agent virus]

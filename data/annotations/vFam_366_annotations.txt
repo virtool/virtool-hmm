@@ -1,0 +1,25 @@
+CLUSTER	366
+NUM_SEQ	17
+LENGTH	284
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	142.0
+FAMILIES	{'Herpesviridae': 17}
+GENERA	{'Varicellovirus': 7, 'Iltovirus': 2, 'Mardivirus': 3, 'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|57790938|ref|YP_182342.1|vFam_366| tegument protein VP22 [Gallid herpesvirus 1]
+gi|38638203|ref|NP_944386.1|vFam_366| tegument protein VP22 [Psittacid herpesvirus 1]
+gi|125745101|ref|YP_001033978.1|vFam_366| tegument protein VP22 [Gallid herpesvirus 2]
+gi|12084878|ref|NP_073343.1|vFam_366| tegument protein VP22 [Meleagrid herpesvirus 1]
+gi|13242465|ref|NP_077424.1|vFam_366| tegument protein VP22 [Cercopithecine herpesvirus 9]
+gi|9625884|ref|NP_040132.1|vFam_366| tegument protein VP22 [Human herpesvirus 3]
+gi|255683143|ref|YP_003084371.1|vFam_366| UL49 [Anatid herpesvirus 1]
+gi|216905864|ref|YP_002333492.1|vFam_366| tegument protein VP22 [Equid herpesvirus 9]
+gi|9629735|ref|NP_045228.1|vFam_366| tegument protein VP22 [Equid herpesvirus 4]
+gi|296316012|ref|YP_003662476.1|vFam_366| tegument protein VP22 [Bovine herpesvirus 5]
+gi|9629826|ref|NP_045310.1|vFam_366| tegument protein VP22 [Bovine herpesvirus 1]
+gi|51557492|ref|YP_068326.1|vFam_366| tegument protein VP22 [Suid herpesvirus 1]
+gi|312162806|ref|YP_003933791.1|vFam_366| tegument protein VP22 [Saimiriine herpesvirus 1]
+gi|83722618|ref|YP_443896.1|vFam_366| tegument protein VP22 [Papiine herpesvirus 2]
+gi|30984477|ref|NP_851909.1|vFam_366| tegument protein VP22 [Macacine herpesvirus 1]
+gi|9629430|ref|NP_044651.1|vFam_366| tegument protein VP22 [Human herpesvirus 1]
+gi|9629319|ref|NP_044519.1|vFam_366| tegument protein VP22 [Human herpesvirus 2]

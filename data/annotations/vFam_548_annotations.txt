@@ -1,0 +1,23 @@
+CLUSTER	548
+NUM_SEQ	15
+LENGTH	125
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	66.25
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 1, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531739|ref|YP_784265.1|vFam_548| glutaredoxin 2 [Nile crocodilepox virus]
+gi|18640136|ref|NP_570210.1|vFam_548| SPV050 putative glutaredoxin-2 protein [Swinepox virus]
+gi|377829962|ref|YP_005296257.1|vFam_548| unnamed protein product [Cotia virus SPAn232]
+gi|157939676|ref|YP_001497048.1|vFam_548| glutaredoxin [Tanapox virus]
+gi|9633857|ref|NP_051937.1|vFam_548| gp048L [Rabbit fibroma virus]
+gi|211956333|ref|YP_002302402.1|vFam_548| glutaredoxin [Deerpox virus W-1170-84]
+gi|148912930|ref|YP_001293244.1|vFam_548| hypothetical protein GTPV_gp049 [Goatpox virus Pellor]
+gi|113195261|ref|YP_717391.1|vFam_548| thioredoxin-like protein [Taterapox virus]
+gi|345107248|ref|YP_004821413.1|vFam_548| disulfide oxidoreductase [Yoka poxvirus]
+gi|40556042|ref|NP_955127.1|vFam_548| CNPV104 putative glutaredoxin 2, virion morphogenesis [Canarypox virus]
+gi|9634747|ref|NP_039040.1|vFam_548| Glutaredoxin vaccinia G4L and Molluscum contagiosum virus MC059L homolog [Fowlpox virus]
+gi|41057476|ref|NP_957949.1|vFam_548| ORF040 glutaredoxin 2 [Bovine papular stomatitis virus]
+gi|289183804|ref|YP_003457345.1|vFam_548| glutaredoxin-like protein [Pseudocowpox virus]
+gi|571797973|ref|YP_008658472.1|vFam_548| glutaredoxin-2 protein [Squirrelpox virus]
+gi|9628991|ref|NP_044010.1|vFam_548| MC059L [Molluscum contagiosum virus subtype 1]

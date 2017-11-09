@@ -1,0 +1,14 @@
+CLUSTER	969
+NUM_SEQ	6
+LENGTH	276
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	146.28
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Aviadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|555928242|ref|YP_008719873.1|vFam_969| ORF8 [Turkey adenovirus 5]
+gi|56160765|ref|AP_000431.1|vFam_969| ORF8 [Fowl adenovirus A]
+gi|327409506|ref|YP_004346950.1|vFam_969| GAM-1 [Fowl adenovirus C]
+gi|555928208|ref|YP_008719840.1|vFam_969| ORF8 [Turkey adenovirus 4]
+gi|56160732|ref|AP_000395.1|vFam_969| ORF8 [Fowl adenovirus D]
+gi|501000378|ref|YP_007985672.1|vFam_969| ORF8 [Fowl adenovirus 5]

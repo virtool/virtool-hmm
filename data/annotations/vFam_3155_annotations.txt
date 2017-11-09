@@ -1,0 +1,10 @@
+CLUSTER	3155
+NUM_SEQ	2
+LENGTH	132
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	67.32
+FAMILIES	{'Retroviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|190336493|ref|YP_001974421.1|vFam_3155| hypothetical protein Xen1_gp2 [Xenopus laevis endogenous retrovirus Xen1]
+gi|190336492|ref|YP_001974420.1|vFam_3155| hypothetical protein Xen1_gp1 [Xenopus laevis endogenous retrovirus Xen1]

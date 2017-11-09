@@ -1,0 +1,20 @@
+CLUSTER	606
+NUM_SEQ	12
+LENGTH	658
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	342.16
+FAMILIES	{'Baculoviridae': 8}
+GENERA	{'Alphabaculovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|438000328|ref|YP_007250433.1|vFam_606| f protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964548|ref|YP_950744.1|vFam_606| efp/ld130 fusion protein [Maruca vitrata nucleopolyhedrovirus]
+gi|237643564|ref|YP_002884254.1|vFam_606| fusion protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|114680076|ref|YP_758489.1|vFam_606| copia-like envelope protein [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|15320676|ref|NP_203188.1|vFam_606| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326091|ref|YP_803416.1|vFam_606| F-protein [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|96979883|ref|YP_611092.1|vFam_606| envelope protein [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355650|ref|YP_473318.1|vFam_606| Fusion protein [Hyphantria cunea nucleopolyhedrovirus]
+gi|11038432|ref|NP_046177.2|vFam_606| hypothetical protein OpmnVgp021 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153444|ref|YP_008378484.1|vFam_606| F-protein [Choristoneura rosaceana alphabaculovirus]
+gi|571031324|ref|YP_008992221.1|vFam_606| fusion protein [Choristoneura murinana alphabaculovirus]
+gi|529153606|ref|YP_008378631.1|vFam_606| F-protein [Choristoneura occidentalis alphabaculovirus]

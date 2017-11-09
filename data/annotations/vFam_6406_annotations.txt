@@ -1,0 +1,10 @@
+CLUSTER	6406
+NUM_SEQ	2
+LENGTH	86
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	50.74
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313844184|ref|YP_004061847.1|vFam_6406| hypothetical protein OlV1_215 [Ostreococcus lucimarinus virus OlV1]
+gi|313768421|ref|YP_004062101.1|vFam_6406| hypothetical protein MpV1_218 [Micromonas sp. RCC1109 virus MpV1]

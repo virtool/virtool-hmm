@@ -1,0 +1,10 @@
+CLUSTER	5174
+NUM_SEQ	2
+LENGTH	265
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	137.8
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|292397707|ref|YP_003517773.1|vFam_5174| DBP [Lymantria xylina MNPV]
+gi|9631003|ref|NP_047673.1|vFam_5174| LdOrf-37 peptide [Lymantria dispar multiple nucleopolyhedrovirus]

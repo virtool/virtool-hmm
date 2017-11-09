@@ -1,0 +1,11 @@
+CLUSTER	5051
+NUM_SEQ	3
+LENGTH	94
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	50.76
+FAMILIES	{'Retroviridae': 3}
+GENERA	{'Lentivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9626655|ref|NP_040941.1|vFam_5051| protein S [Caprine arthritis-encephalitis virus]
+gi|9627005|ref|NP_041252.1|vFam_5051| tat protein [Ovine lentivirus]
+gi|9626551|ref|NP_040842.1|vFam_5051| tat protein [Visna/Maedi virus]

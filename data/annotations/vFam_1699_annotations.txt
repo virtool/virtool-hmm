@@ -1,0 +1,13 @@
+CLUSTER	1699
+NUM_SEQ	5
+LENGTH	116
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	59.16
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Cytomegalovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|360041006|ref|YP_004940034.1|vFam_1699| protein A10 [Aotine herpesvirus 1]
+gi|360040999|ref|YP_004940027.1|vFam_1699| protein A3 [Aotine herpesvirus 1]
+gi|360041004|ref|YP_004940032.1|vFam_1699| protein A8 [Aotine herpesvirus 1]
+gi|360041008|ref|YP_004940036.1|vFam_1699| protein A12 [Aotine herpesvirus 1]
+gi|360041003|ref|YP_004940031.1|vFam_1699| protein A7 [Aotine herpesvirus 1]

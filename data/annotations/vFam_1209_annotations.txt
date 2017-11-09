@@ -1,0 +1,12 @@
+CLUSTER	1209
+NUM_SEQ	4
+LENGTH	727
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	378.04
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|506498418|ref|YP_008004214.1|vFam_1209| NTPase, DNA primase [Choristoneura biennis entomopoxvirus 'L']
+gi|9964401|ref|NP_064869.1|vFam_1209| putative NTPase [Amsacta moorei entomopoxvirus 'L']
+gi|506498111|ref|YP_008003908.1|vFam_1209| NTPase, DNA primase [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497828|ref|YP_008003627.1|vFam_1209| NTPase, DNA primase [Mythimna separata entomopoxvirus 'L']

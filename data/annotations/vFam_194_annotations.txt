@@ -1,0 +1,34 @@
+CLUSTER	194
+NUM_SEQ	26
+LENGTH	95
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	49.4
+FAMILIES	{'Arenaviridae': 26}
+GENERA	{'Arenavirus': 26}
+FASTA SEQUENCE TITLES:
+gi|189026278|ref|YP_001936025.1|vFam_194| Z protein [Latino virus]
+gi|164607198|ref|YP_001649215.1|vFam_194| Z protein [Oliveros virus]
+gi|172088175|ref|YP_001816784.1|vFam_194| Z protein [Chapare virus]
+gi|52627077|ref|YP_089659.1|vFam_194| Z protein [Sabia virus]
+gi|164607213|ref|YP_001649219.1|vFam_194| Z protein [Cupixi virus]
+gi|164607201|ref|YP_001649217.1|vFam_194| Z protein [Amapari virus]
+gi|34365542|ref|NP_899220.1|vFam_194| Z protein [Guanarito virus]
+gi|23334592|ref|NP_694847.1|vFam_194| P-11 protein [Tacaribe virus]
+gi|34365536|ref|NP_899214.1|vFam_194| Z protein [Machupo virus]
+gi|34365527|ref|NP_899216.1|vFam_194| Z protein [Junin virus]
+gi|238890541|ref|YP_002929492.1|vFam_194| multifunctional matrix-like protein [Lujo virus]
+gi|188531115|ref|YP_001911117.1|vFam_194| Z protein [Tamiami virus]
+gi|188531121|ref|YP_001911119.1|vFam_194| Z protein [Whitewater Arroyo virus]
+gi|164607206|ref|YP_001649224.1|vFam_194| Z protein [Bear Canyon virus]
+gi|189026281|ref|YP_001936027.1|vFam_194| Z protein [Parana virus]
+gi|55775708|ref|YP_138535.1|vFam_194| Z protein [Pichinde virus]
+gi|48696025|ref|YP_025092.1|vFam_194| Z protein [Pirital virus]
+gi|189026272|ref|YP_001936023.1|vFam_194| Z protein [Flexal virus]
+gi|164607204|ref|YP_001649213.1|vFam_194| Z protein [Allpahuayo virus]
+gi|408354104|ref|YP_006858708.1|vFam_194| Z protein [Lunk virus NKS-1]
+gi|56699499|ref|YP_170703.1|vFam_194| Z protein [Mopeia Lassa virus reassortant 29]
+gi|255237730|ref|YP_003090216.1|vFam_194| Z protein [Morogoro virus]
+gi|89902996|ref|YP_516232.1|vFam_194| Z protein [Ippy virus]
+gi|23343513|ref|NP_694871.1|vFam_194| Z protein [Lassa virus]
+gi|356491221|ref|YP_004933732.1|vFam_194| Z gene product [Luna virus]
+gi|89903002|ref|YP_516228.1|vFam_194| Z protein [Mobala virus]

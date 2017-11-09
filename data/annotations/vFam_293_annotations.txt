@@ -1,0 +1,28 @@
+CLUSTER	293
+NUM_SEQ	20
+LENGTH	333
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	173.16
+FAMILIES	{'Poxviridae': 17}
+GENERA	{'Betaentomopoxvirus': 1, 'None': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 1, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531760|ref|YP_784286.1|vFam_293| poly(A) polymerase small subunit [Nile crocodilepox virus]
+gi|40556117|ref|NP_955202.1|vFam_293| CNPV179 poly(A) polymerase small subunit PAPS [Canarypox virus]
+gi|9634804|ref|NP_039097.1|vFam_293| Poly(A) polymerase small subunit PAP-S [Fowlpox virus]
+gi|571797986|ref|YP_008658485.1|vFam_293| poly(A) polymerase and RNA methyltransferase [Squirrelpox virus]
+gi|113195275|ref|YP_717405.1|vFam_293| poly-A polymerase subunit [Taterapox virus]
+gi|345107263|ref|YP_004821428.1|vFam_293| VP39 [Yoka poxvirus]
+gi|377829975|ref|YP_005296272.1|vFam_293| unnamed protein product [Cotia virus SPAn232]
+gi|12085051|ref|NP_073453.1|vFam_293| 68R protein [Yaba-like disease virus]
+gi|18640151|ref|NP_570225.1|vFam_293| SPV065 poly(A) polymerase small subunit PAPS [Swinepox virus]
+gi|9633874|ref|NP_051954.1|vFam_293| gp065R [Rabbit fibroma virus]
+gi|148912945|ref|YP_001293259.1|vFam_293| hypothetical protein GTPV_gp064 [Goatpox virus Pellor]
+gi|211956348|ref|YP_002302417.1|vFam_293| poly(A) polymerase small subunit [Deerpox virus W-1170-84]
+gi|9629008|ref|NP_044027.1|vFam_293| MC076R [Molluscum contagiosum virus subtype 1]
+gi|41057489|ref|NP_957962.1|vFam_293| ORF053 poly-A polymerase small subunit VP39 PAPS [Bovine papular stomatitis virus]
+gi|289183817|ref|YP_003457358.1|vFam_293| poly(A)-polymerase subunit [Pseudocowpox virus]
+gi|9631520|ref|NP_048112.1|vFam_293| ORF MSV041 putative poly(A) polymerase small subunit PAP-S homolog (vaccinia J3R), similar to GB:L22579 [Melanoplus sanguinipes entomopoxvirus]
+gi|506498083|ref|YP_008003880.1|vFam_293| poly(A) polymerase small subunit VP39 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497801|ref|YP_008003600.1|vFam_293| poly(A) polymerase small subunit VP39 [Mythimna separata entomopoxvirus 'L']
+gi|506498692|ref|YP_008004486.1|vFam_293| poly(A) polymerase small subunit VP39 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964374|ref|NP_064842.1|vFam_293| poly(A) polymerase regulatory subunit [Amsacta moorei entomopoxvirus 'L']

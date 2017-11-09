@@ -1,0 +1,10 @@
+CLUSTER	6701
+NUM_SEQ	2
+LENGTH	51
+RELATIVE_ENTROPY_PER_POSITION	1.03
+TOTAL_RELATIVE_ENTROPY	52.53
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|21686756|ref|NP_663256.1|vFam_6701| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|21686755|ref|NP_663255.1|vFam_6701| hypothetical protein [Phthorimaea operculella granulovirus]

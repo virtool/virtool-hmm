@@ -1,0 +1,11 @@
+CLUSTER	3183
+NUM_SEQ	3
+LENGTH	110
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	56.1
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|125860217|ref|YP_001036387.1|vFam_3183| hypothetical protein SFMNPV_gp095 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401493|ref|YP_002332797.1|vFam_3183| hypothetical protein SlnV2_gp099 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634317|ref|NP_037856.1|vFam_3183| ORF96 [Spodoptera exigua multiple nucleopolyhedrovirus]

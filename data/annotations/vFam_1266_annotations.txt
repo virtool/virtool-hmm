@@ -1,0 +1,13 @@
+CLUSTER	1266
+NUM_SEQ	5
+LENGTH	290
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	147.9
+FAMILIES	{'Coronaviridae': 4, 'Orthomyxoviridae': 1}
+GENERA	{'Thogotovirus': 1, 'Betacoronavirus': 4}
+FASTA SEQUENCE TITLES:
+gi|56403982|ref|YP_145805.1|vFam_1266| ML [Thogoto virus]
+gi|29837499|ref|NP_828864.1|vFam_1266| nsp6-pp1a/pp1ab (TM3) [SARS coronavirus]
+gi|85719066|ref|YP_460019.1|vFam_1266| nsp6 (hydrophobic domain) [Human coronavirus HKU1]
+gi|60115412|ref|YP_209249.1|vFam_1266| nsp6 [Murine hepatitis virus strain JHM]
+gi|26008085|ref|NP_742133.1|vFam_1266| coronavirus nsp3 (HD2) [Bovine coronavirus]

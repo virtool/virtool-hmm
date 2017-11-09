@@ -1,0 +1,13 @@
+CLUSTER	2664
+NUM_SEQ	5
+LENGTH	299
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	152.49
+FAMILIES	{'Iridoviridae': 5}
+GENERA	{'Lymphocystivirus': 2, 'Megalocytivirus': 1, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|19881501|ref|NP_612318.1|vFam_2664| ORF096L [Infectious spleen and kidney necrosis virus]
+gi|51870053|ref|YP_073606.1|vFam_2664| hypothetical protein LDVICp100 [Lymphocystis disease virus - isolate China]
+gi|13358441|ref|NP_078701.1|vFam_2664| hypothetical protein LCDV1gp057 [Lymphocystis disease virus 1]
+gi|388260191|ref|YP_006347719.1|vFam_2664| hypothetical protein [European catfish virus]
+gi|56692755|ref|YP_164213.1|vFam_2664| hypothetical protein ORF118R [Singapore grouper iridovirus]

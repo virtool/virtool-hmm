@@ -1,0 +1,11 @@
+CLUSTER	2425
+NUM_SEQ	3
+LENGTH	644
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	334.88
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977595|ref|YP_003986715.1|vFam_2425| putative ankyrin repeat protein [Acanthamoeba polyphaga mimivirus]
+gi|448825269|ref|YP_007418200.1|vFam_2425| putative ankyrin repeat protein [Megavirus lba]
+gi|441432183|ref|YP_007354225.1|vFam_2425| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]

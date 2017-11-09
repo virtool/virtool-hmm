@@ -1,0 +1,19 @@
+CLUSTER	209
+NUM_SEQ	11
+LENGTH	977
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	498.27
+FAMILIES	{'Iridoviridae': 7, 'Ascoviridae': 3}
+GENERA	{'Chloriridovirus': 1, 'Ascovirus': 3, 'Iridovirus': 1, 'Lymphocystivirus': 2, 'Megalocytivirus': 1, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|116326845|ref|YP_803383.1|vFam_209| hypothetical protein TNAV2c_gp161 [Trichoplusia ni ascovirus 2c]
+gi|134287171|ref|YP_001110868.1|vFam_209| DEAD-like helicase [Heliothis virescens ascovirus 3e]
+gi|115298511|ref|YP_762364.1|vFam_209| SNF2 DEAD-like helicase 110.8 kDa [Spodoptera frugiperda ascovirus 1a]
+gi|109287965|ref|YP_654659.1|vFam_209| hypothetical protein MIV087L [Invertebrate iridescent virus 3]
+gi|527333626|ref|YP_008357410.1|vFam_209| SWI/SNF2 family helicase [Invertebrate iridovirus 22]
+gi|339906041|ref|YP_004732838.1|vFam_209| hypothetical protein WIV_gp055 [Wiseana iridescent virus]
+gi|19881468|ref|NP_612285.1|vFam_209| putative NTPase [Infectious spleen and kidney necrosis virus]
+gi|51870029|ref|YP_073582.1|vFam_209| hypothetical protein LDVICp075 [Lymphocystis disease virus - isolate China]
+gi|13358407|ref|NP_078720.1|vFam_209| SWI/SNF2 family helicase [Lymphocystis disease virus 1]
+gi|388260075|ref|YP_006347603.1|vFam_209| NTPase [European catfish virus]
+gi|56692697|ref|YP_164155.1|vFam_209| NTPase [Singapore grouper iridovirus]

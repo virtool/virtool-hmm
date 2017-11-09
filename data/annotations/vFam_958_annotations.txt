@@ -1,0 +1,15 @@
+CLUSTER	958
+NUM_SEQ	7
+LENGTH	364
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	189.28
+FAMILIES	{'Potyviridae': 7}
+GENERA	{'Tritimovirus': 4, 'Poacevirus': 3}
+FASTA SEQUENCE TITLES:
+gi|25013902|ref|NP_734253.1|vFam_958| P1 protein [Brome streak mosaic virus]
+gi|157265285|ref|YP_001468088.1|vFam_958| p1 [Wheat eqlid mosaic virus]
+gi|38304201|ref|NP_940822.1|vFam_958| P1 protein [Oat necrotic mottle virus]
+gi|25013799|ref|NP_734265.1|vFam_958| P1 protein [Wheat streak mosaic virus]
+gi|404184189|ref|YP_006666638.1|vFam_958| P1 [Caladenia virus A]
+gi|390442743|ref|YP_006423934.1|vFam_958| P1 protein [Sugarcane streak mosaic virus]
+gi|239828771|ref|YP_002956088.1|vFam_958| P1 protein [Triticum mosaic virus]

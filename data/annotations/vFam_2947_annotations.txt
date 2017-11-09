@@ -1,0 +1,11 @@
+CLUSTER	2947
+NUM_SEQ	3
+LENGTH	278
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	141.78
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'None': 2, 'Orthopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|22164611|ref|NP_671522.1|vFam_2947| EVM004 [Ectromelia virus]
+gi|377830112|ref|YP_005296360.1|vFam_2947| unnamed protein product [Cotia virus SPAn232]
+gi|377830111|ref|YP_005296359.1|vFam_2947| unnamed protein product [Cotia virus SPAn232]

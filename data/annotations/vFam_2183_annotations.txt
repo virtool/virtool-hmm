@@ -1,0 +1,12 @@
+CLUSTER	2183
+NUM_SEQ	4
+LENGTH	650
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	338.0
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Betabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|11068097|ref|NP_068313.1|vFam_2183| PxORF94 peptide [Plutella xylostella granulovirus]
+gi|148368923|ref|YP_001257053.1|vFam_2183| hypothetical protein SlGVgp102 [Spodoptera litura granulovirus]
+gi|285002414|ref|YP_003422478.1|vFam_2183| desmoplakin [Pseudaletia unipuncta granulovirus]
+gi|164519330|ref|YP_001649117.1|vFam_2183| desmoplakin [Helicoverpa armigera granulovirus]

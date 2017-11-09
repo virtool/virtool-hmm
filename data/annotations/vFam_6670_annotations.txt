@@ -1,0 +1,10 @@
+CLUSTER	6670
+NUM_SEQ	2
+LENGTH	134
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	68.34
+FAMILIES	{'Polydnaviridae': 2}
+GENERA	{'Ichnovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|124484654|ref|YP_001031247.1|vFam_6670| b2.2 [Hyposoter fugitivus ichnovirus]
+gi|124484645|ref|YP_001031241.1|vFam_6670| b1.3 [Hyposoter fugitivus ichnovirus]

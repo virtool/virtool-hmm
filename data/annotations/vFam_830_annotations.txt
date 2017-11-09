@@ -1,0 +1,19 @@
+CLUSTER	830
+NUM_SEQ	11
+LENGTH	166
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	87.98
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|438000329|ref|YP_007250434.1|vFam_830| pkip protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643565|ref|YP_002884255.1|vFam_830| PKIP [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964549|ref|YP_950745.1|vFam_830| protein kinase interacting protein [Maruca vitrata nucleopolyhedrovirus]
+gi|15320693|ref|NP_203205.1|vFam_830| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326112|ref|YP_803437.1|vFam_830| protein kinase interacting protein [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|96979870|ref|YP_611076.1|vFam_830| pkip [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355631|ref|YP_473299.1|vFam_830| Protein kinase interacting protein [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629982|ref|NP_046200.1|vFam_830| hypothetical protein OpmnVgp044 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153586|ref|YP_008378611.1|vFam_830| protein kinase interacting protein [Choristoneura occidentalis alphabaculovirus]
+gi|529153421|ref|YP_008378461.1|vFam_830| protein kinase interacting protein [Choristoneura rosaceana alphabaculovirus]
+gi|571031303|ref|YP_008992200.1|vFam_830| pkip [Choristoneura murinana alphabaculovirus]

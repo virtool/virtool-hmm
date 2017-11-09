@@ -1,0 +1,13 @@
+CLUSTER	1486
+NUM_SEQ	5
+LENGTH	207
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	107.64
+FAMILIES	{'Closteroviridae': 5}
+GENERA	{'Ampelovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|163932210|ref|YP_001642342.1|vFam_1486| hypothetical protein [Pineapple mealybug wilt-associated virus 1]
+gi|218202725|ref|YP_002364308.1|vFam_1486| hypothetical protein GLRaV10_gp7 [Grapevine leafroll-associated virus 10]
+gi|365824254|ref|YP_004935374.1|vFam_1486| unnamed protein product [Grapevine leafroll-associated virus 4]
+gi|365824261|ref|YP_004935380.1|vFam_1486| unnamed protein product [Grapevine leafroll-associated virus 6]
+gi|352749716|ref|YP_004901692.1|vFam_1486| CPm gene product [Grapevine leafroll-associated virus 5]

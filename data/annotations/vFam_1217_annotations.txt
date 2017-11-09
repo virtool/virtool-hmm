@@ -1,0 +1,12 @@
+CLUSTER	1217
+NUM_SEQ	4
+LENGTH	604
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	308.04
+FAMILIES	{'Baculoviridae': 2, 'Ascoviridae': 2}
+GENERA	{'Betabaculovirus': 2, 'Ascovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134287333|ref|YP_001111029.1|vFam_1217| hr5 [Heliothis virescens ascovirus 3e]
+gi|115298579|ref|YP_762432.1|vFam_1217| 70.4 kda C-terminal Zn-finger DNA-binding domain [Spodoptera frugiperda ascovirus 1a]
+gi|285002324|ref|YP_003422388.1|vFam_1217| hypothetical protein PsunGV_gp049 [Pseudaletia unipuncta granulovirus]
+gi|164519352|ref|YP_001649139.1|vFam_1217| hypothetical protein HaGV_gp157 [Helicoverpa armigera granulovirus]

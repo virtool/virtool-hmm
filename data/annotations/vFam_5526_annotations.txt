@@ -1,0 +1,10 @@
+CLUSTER	5526
+NUM_SEQ	2
+LENGTH	199
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	101.49
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Cervidpoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|211956290|ref|YP_002302358.1|vFam_5526| viral TNFR II-like protein [Deerpox virus W-1170-84]
+gi|62637395|ref|YP_227393.1|vFam_5526| Viral TNFR II-like c-terminal fragment [Deerpox virus W-848-83]

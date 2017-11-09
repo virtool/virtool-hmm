@@ -1,0 +1,10 @@
+CLUSTER	2561
+NUM_SEQ	2
+LENGTH	262
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	131.0
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Iridovirus': 1, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|109287985|ref|YP_654679.1|vFam_2561| hypothetical protein MIV107R [Invertebrate iridescent virus 3]
+gi|15078830|ref|NP_149580.1|vFam_2561| 117L [Invertebrate iridescent virus 6]

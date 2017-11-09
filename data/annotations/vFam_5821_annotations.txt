@@ -1,0 +1,10 @@
+CLUSTER	5821
+NUM_SEQ	2
+LENGTH	462
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	240.24
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Iltovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|57790969|ref|YP_182373.1|vFam_5821| envelope glycoprotein C [Gallid herpesvirus 1]
+gi|38638234|ref|NP_944417.1|vFam_5821| envelope glycoprotein C [Psittacid herpesvirus 1]

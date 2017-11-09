@@ -1,0 +1,10 @@
+CLUSTER	5962
+NUM_SEQ	2
+LENGTH	163
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	83.13
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|506498676|ref|YP_008004470.1|vFam_5962| hypothetical protein CHREV_066 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506497779|ref|YP_008003578.1|vFam_5962| hypothetical protein MYSEV_061 [Mythimna separata entomopoxvirus 'L']

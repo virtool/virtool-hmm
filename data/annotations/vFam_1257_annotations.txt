@@ -1,0 +1,15 @@
+CLUSTER	1257
+NUM_SEQ	7
+LENGTH	58
+RELATIVE_ENTROPY_PER_POSITION	0.89
+TOTAL_RELATIVE_ENTROPY	51.62
+FAMILIES	{'Adenoviridae': 7}
+GENERA	{'Siadenovirus': 4, 'Atadenovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|21450902|ref|NP_659521.1|vFam_1257| pX [Ovine adenovirus D]
+gi|440382973|ref|YP_007347004.1|vFam_1257| pX [Bovine adenovirus 6]
+gi|13242718|ref|NP_077395.1|vFam_1257| pX [Bovine adenovirus D]
+gi|9635805|ref|NP_062441.1|vFam_1257| pX [Frog adenovirus 1]
+gi|56160825|ref|AP_000484.1|vFam_1257| pX [Turkey adenovirus A]
+gi|363540922|ref|YP_004935937.1|vFam_1257| unnamed protein product [Skua adenovirus A]
+gi|331271181|ref|YP_004414806.1|vFam_1257| core protein precursor pX [Raptor adenovirus A]

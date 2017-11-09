@@ -1,0 +1,16 @@
+CLUSTER	767
+NUM_SEQ	8
+LENGTH	95
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	49.4
+FAMILIES	{'Baculoviridae': 8}
+GENERA	{'Alphabaculovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|118197503|ref|YP_874216.1|vFam_767| hypothetical protein EONV_gp023 [Ectropis obliqua nucleopolyhedrovirus]
+gi|9634342|ref|NP_037881.1|vFam_767| ORF121 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|125860244|ref|YP_001036414.1|vFam_767| hypothetical protein SFMNPV_gp122 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401520|ref|YP_002332824.1|vFam_767| hypothetical protein SlnV2_gp126 [Spodoptera litura nucleopolyhedrovirus II]
+gi|209171023|ref|YP_002268170.1|vFam_767| agip140 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592850|ref|YP_529803.1|vFam_767| ORF-133 [Agrotis segetum nucleopolyhedrovirus]
+gi|402502208|ref|YP_006607866.1|vFam_767| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|209978789|ref|YP_002300532.1|vFam_767| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]

@@ -1,0 +1,10 @@
+CLUSTER	5563
+NUM_SEQ	2
+LENGTH	147
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	74.97
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Orthopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|113195382|ref|YP_717512.1|vFam_5563| ankyrin-like protein [Taterapox virus]
+gi|66276008|ref|YP_233093.1|vFam_5563| ankyrin-like protein [Vaccinia virus]

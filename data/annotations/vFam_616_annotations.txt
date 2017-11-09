@@ -1,0 +1,17 @@
+CLUSTER	616
+NUM_SEQ	9
+LENGTH	202
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	101.0
+FAMILIES	{'None': 1, 'Phycodnaviridae': 8}
+GENERA	{'None': 2, 'Prasinovirus': 3, 'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|310831329|ref|YP_003969972.1|vFam_616| hypothetical protein crov339 [Cafeteria roenbergensis virus BV-PW1]
+gi|313768067|ref|YP_004061498.1|vFam_616| hypothetical protein BpV1_068c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768290|ref|YP_004061970.1|vFam_616| hypothetical protein MpV1_087c [Micromonas sp. RCC1109 virus MpV1]
+gi|260665954|ref|YP_003212908.1|vFam_616| hypothetical protein H665_p085 [Ostreococcus tauri virus 1]
+gi|313844056|ref|YP_004061719.1|vFam_616| hypothetical protein OlV1_086c [Ostreococcus lucimarinus virus OlV1]
+gi|155370995|ref|YP_001426529.1|vFam_616| hypothetical protein ATCV1_Z048L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370756|ref|YP_001426290.1|vFam_616| hypothetical protein FR483_N658L [Paramecium bursaria Chlorella virus FR483]
+gi|157953765|ref|YP_001498656.1|vFam_616| hypothetical protein AR158_C575R [Paramecium bursaria Chlorella virus AR158]
+gi|9632037|ref|NP_048826.1|vFam_616| hypothetical protein [Paramecium bursaria Chlorella virus 1]

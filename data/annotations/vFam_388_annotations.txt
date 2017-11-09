@@ -1,0 +1,21 @@
+CLUSTER	388
+NUM_SEQ	13
+LENGTH	357
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	185.64
+FAMILIES	{'Poxviridae': 7}
+GENERA	{'Betaentomopoxvirus': 7}
+FASTA SEQUENCE TITLES:
+gi|506498679|ref|YP_008004473.1|vFam_388| N1R/p28-like protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498367|ref|YP_008004163.1|vFam_388| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506498685|ref|YP_008004479.1|vFam_388| N1R/p28-like protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498373|ref|YP_008004169.1|vFam_388| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506498689|ref|YP_008004483.1|vFam_388| N1R/p28-like protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498376|ref|YP_008004172.1|vFam_388| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506498686|ref|YP_008004480.1|vFam_388| N1R/p28-like protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498847|ref|YP_008004641.1|vFam_388| N1R/p28-like protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498374|ref|YP_008004170.1|vFam_388| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506498800|ref|YP_008004594.1|vFam_388| N1R/p28-like protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964491|ref|NP_064959.1|vFam_388| putative antirepressor [Amsacta moorei entomopoxvirus 'L']
+gi|9964489|ref|NP_064957.1|vFam_388| putative antirepressor [Amsacta moorei entomopoxvirus 'L']
+gi|9964371|ref|NP_064838.1|vFam_388| putative antirepressor [Amsacta moorei entomopoxvirus 'L']

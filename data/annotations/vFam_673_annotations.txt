@@ -1,0 +1,16 @@
+CLUSTER	673
+NUM_SEQ	8
+LENGTH	1265
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	670.45
+FAMILIES	{'Reoviridae': 8}
+GENERA	{'Aquareovirus': 3, 'Orthoreovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|81083821|ref|YP_398630.1|vFam_673| putative viral polymerase [Aquareovirus A]
+gi|182682779|ref|YP_001837095.1|vFam_673| VP2 [American grass carp reovirus]
+gi|38147303|ref|NP_938061.1|vFam_673| RNA-dependent RNA polymerase VP2 [Aquareovirus C]
+gi|343098548|ref|YP_004769548.1|vFam_673| minor core protein [Baboon orthoreovirus]
+gi|298201182|ref|YP_003717773.1|vFam_673| RNA-dependent RNA polymerase [Broome virus]
+gi|294854041|ref|NP_694687.3|vFam_673| minor core protein [Mammalian orthoreovirus 3]
+gi|459014620|ref|YP_007507325.1|vFam_673| RNA polymerase [Melaka orthoreovirus]
+gi|323409488|ref|YP_004226522.1|vFam_673| lambda-B protein [Avian orthoreovirus]

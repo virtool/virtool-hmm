@@ -1,0 +1,10 @@
+CLUSTER	4741
+NUM_SEQ	2
+LENGTH	179
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	93.08
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|506498169|ref|YP_008003966.1|vFam_4741| hypothetical protein AHEV_143 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497948|ref|YP_008003747.1|vFam_4741| hypothetical protein MYSEV_230 [Mythimna separata entomopoxvirus 'L']

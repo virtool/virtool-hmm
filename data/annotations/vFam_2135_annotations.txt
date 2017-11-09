@@ -1,0 +1,11 @@
+CLUSTER	2135
+NUM_SEQ	3
+LENGTH	384
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	195.84
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|61660255|ref|YP_214146.1|vFam_2135| Member of MGP family m145 [Murid herpesvirus 1]
+gi|425707335|ref|YP_007016532.1|vFam_2135| e149 [Murid herpesvirus 8]
+gi|9845440|ref|NP_064254.1|vFam_2135| pr147 [Murid herpesvirus 2]

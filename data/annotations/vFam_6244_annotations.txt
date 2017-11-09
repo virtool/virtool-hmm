@@ -1,0 +1,10 @@
+CLUSTER	6244
+NUM_SEQ	2
+LENGTH	148
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	76.96
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409660|ref|YP_004347080.1|vFam_6244| hypothetical protein LAU_0116 [Lausannevirus]
+gi|327409658|ref|YP_004347078.1|vFam_6244| hypothetical protein LAU_0114 [Lausannevirus]

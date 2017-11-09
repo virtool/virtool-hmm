@@ -1,0 +1,15 @@
+CLUSTER	1530
+NUM_SEQ	7
+LENGTH	515
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	267.8
+FAMILIES	{'Poxviridae': 7}
+GENERA	{'Capripoxvirus': 1, 'Suipoxvirus': 1, 'Leporipoxvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|148913021|ref|YP_001293335.1|vFam_1530| hypothetical protein GTPV_gp137 [Goatpox virus Pellor]
+gi|18640092|ref|NP_570166.1|vFam_1530| SPV006 kelch-like protein [Swinepox virus]
+gi|9633961|ref|NP_052041.1|vFam_1530| gp008R [Rabbit fibroma virus]
+gi|9633802|ref|NP_051721.1|vFam_1530| m8 [Myxoma virus]
+gi|9633645|ref|NP_051723.1|vFam_1530| m9 [Myxoma virus]
+gi|9633963|ref|NP_052043.1|vFam_1530| gp006R [Rabbit fibroma virus]
+gi|9633800|ref|NP_051719.1|vFam_1530| m6 [Myxoma virus]

@@ -1,0 +1,11 @@
+CLUSTER	1544
+NUM_SEQ	3
+LENGTH	307
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	159.64
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'Phaeovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|13242688|ref|NP_077703.1|vFam_1544| EsV-1-218 [Ectocarpus siliculosus virus 1]
+gi|197322494|ref|YP_002154767.1|vFam_1544| putative ubiquitin-like putative cysteine protease [Feldmannia species virus]
+gi|197322493|ref|YP_002154766.1|vFam_1544| putative ubiquitin-like putative cysteine protease [Feldmannia species virus]

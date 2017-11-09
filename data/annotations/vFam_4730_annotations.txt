@@ -1,0 +1,10 @@
+CLUSTER	4730
+NUM_SEQ	2
+LENGTH	401
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	208.52
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498638|ref|YP_008004432.1|vFam_4730| unknown similar to AMEV020 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964334|ref|NP_064802.1|vFam_4730| hypothetical protein AMV020 [Amsacta moorei entomopoxvirus 'L']

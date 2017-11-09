@@ -1,0 +1,20 @@
+CLUSTER	608
+NUM_SEQ	12
+LENGTH	481
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	254.93
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Macavirus': 2, 'None': 1, 'Lymphocryptovirus': 2, 'Rhadinovirus': 6, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|82503243|ref|YP_401687.1|vFam_608| alkaline exonuclease [Human herpesvirus 4]
+gi|24943119|ref|NP_733881.1|vFam_608| ORF28 [callitrichine herpesvirus 3]
+gi|83642873|ref|YP_438160.1|vFam_608| ORF37 [Ovine herpesvirus 2]
+gi|10140958|ref|NP_065535.1|vFam_608| alkaline exonuclease [Alcelaphine herpesvirus 1]
+gi|321496589|ref|YP_004207874.1|vFam_608| alkaline exonuclease [Rodent herpesvirus Peru]
+gi|9629578|ref|NP_044875.1|vFam_608| deoxyribonuclease [Murid herpesvirus 4]
+gi|9628040|ref|NP_042634.1|vFam_608| deoxyribonuclease [Equid herpesvirus 2]
+gi|13095614|ref|NP_076529.1|vFam_608| alkaline exonuclease [Bovine herpesvirus 4]
+gi|9631229|ref|NP_048010.1|vFam_608| orf 37 [Ateline herpesvirus 3]
+gi|9625993|ref|NP_040239.1|vFam_608| alkaline exonuclease [Saimiriine herpesvirus 2]
+gi|139472831|ref|YP_001129390.1|vFam_608| ORF37 [Human herpesvirus 8]
+gi|18653844|ref|NP_570778.1|vFam_608| alkaline exonuclease [Macacine herpesvirus 5]

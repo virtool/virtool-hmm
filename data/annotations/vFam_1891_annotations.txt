@@ -1,0 +1,10 @@
+CLUSTER	1891
+NUM_SEQ	2
+LENGTH	122
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	61.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531037193|ref|YP_008438835.1|vFam_1891| hypothetical protein ps_2433 [Pandoravirus salinus]
+gi|526119893|ref|YP_008319796.1|vFam_1891| hypothetical protein [Pandoravirus dulcis]

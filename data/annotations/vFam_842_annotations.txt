@@ -1,0 +1,12 @@
+CLUSTER	842
+NUM_SEQ	4
+LENGTH	93
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	48.36
+FAMILIES	{'Retroviridae': 4}
+GENERA	{'Betaretrovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|40796112|ref|NP_955565.1|vFam_842| p10 MA [Mouse mammary tumor virus]
+gi|40018520|ref|NP_954557.1|vFam_842| p10 MA [Mason-Pfizer monkey virus]
+gi|40018521|ref|NP_954558.1|vFam_842| p24 [Mason-Pfizer monkey virus]
+gi|40018519|ref|NP_954556.1|vFam_842| p14 NC [Mason-Pfizer monkey virus]

@@ -1,0 +1,11 @@
+CLUSTER	3287
+NUM_SEQ	3
+LENGTH	209
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	102.41
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035573|ref|YP_008437205.1|vFam_3287| hypothetical protein ps_792 [Pandoravirus salinus]
+gi|526120059|ref|YP_008319962.1|vFam_3287| hypothetical protein [Pandoravirus dulcis]
+gi|526119180|ref|YP_008319083.1|vFam_3287| hypothetical protein [Pandoravirus dulcis]

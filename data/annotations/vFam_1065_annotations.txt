@@ -1,0 +1,10 @@
+CLUSTER	1065
+NUM_SEQ	2
+LENGTH	276
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	138.0
+FAMILIES	{'None': 1, 'Nimaviridae': 1}
+GENERA	{'None': 1, 'Whispovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|17158311|ref|NP_477729.1|vFam_1065| wsv207 [Shrimp white spot syndrome virus]
+gi|300116784|ref|YP_003773429.1|vFam_1065| hypothetical protein HAV1_gp31 [Hyperthermophilic Archaeal Virus 1]

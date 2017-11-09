@@ -1,0 +1,20 @@
+CLUSTER	719
+NUM_SEQ	12
+LENGTH	144
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	76.32
+FAMILIES	{'Baculoviridae': 11}
+GENERA	{'Betabaculovirus': 11}
+FASTA SEQUENCE TITLES:
+gi|148368839|ref|YP_001256969.1|vFam_719| pep [Spodoptera litura granulovirus]
+gi|285002292|ref|YP_003422356.1|vFam_719| polyhedral envelope protein [Pseudaletia unipuncta granulovirus]
+gi|32698557|ref|NP_872472.1|vFam_719| ORF_18 [Adoxophyes orana granulovirus]
+gi|11068026|ref|NP_068242.1|vFam_719| PxORF23 peptide [Plutella xylostella granulovirus]
+gi|410493591|ref|YP_006908529.1|vFam_719| polyhedron envelope protein [Epinotia aporema granulovirus]
+gi|46309434|ref|YP_006324.1|vFam_719| ORF20 [Agrotis segetum granulovirus]
+gi|21686686|ref|NP_663186.1|vFam_719| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|556549071|ref|YP_008719985.1|vFam_719| pep-2 [Clostera anastomosis granulovirus]
+gi|288804661|ref|YP_003429346.1|vFam_719| PEP2 [Pieris rapae granulovirus]
+gi|109255291|ref|YP_654440.1|vFam_719| PEP [Choristoneura occidentalis granulovirus]
+gi|33622226|ref|NP_891871.1|vFam_719| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602260|ref|NP_148807.1|vFam_719| ORF23 similar to XcGV ORF18 [Cydia pomonella granulovirus]

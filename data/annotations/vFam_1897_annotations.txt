@@ -1,0 +1,11 @@
+CLUSTER	1897
+NUM_SEQ	3
+LENGTH	378
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	192.78
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|156563981|ref|YP_001429578.1|vFam_1897| hypothetical protein SOG_gp1 [Marine RNA virus SOG]
+gi|531035474|ref|YP_008437105.1|vFam_1897| hypothetical protein ps_692 [Pandoravirus salinus]
+gi|526119229|ref|YP_008319132.1|vFam_1897| hypothetical protein [Pandoravirus dulcis]

@@ -1,0 +1,10 @@
+CLUSTER	1267
+NUM_SEQ	2
+LENGTH	248
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	126.48
+FAMILIES	{'Nimaviridae': 1, 'Poxviridae': 1}
+GENERA	{'Crocodylidpoxvirus': 1, 'Whispovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531691|ref|YP_784217.1|vFam_1267| hypothetical protein CRV027 [Nile crocodilepox virus]
+gi|17158447|ref|NP_477867.1|vFam_1267| wsv345 [Shrimp white spot syndrome virus]

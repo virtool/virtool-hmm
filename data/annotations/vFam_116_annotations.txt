@@ -1,0 +1,21 @@
+CLUSTER	116
+NUM_SEQ	13
+LENGTH	154
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	75.46
+FAMILIES	{'Herpesviridae': 1, 'Anelloviridae': 12}
+GENERA	{'Zetatorquevirus': 1, 'Muromegalovirus': 1, 'Alphatorquevirus': 11}
+FASTA SEQUENCE TITLES:
+gi|295413959|ref|YP_003587867.1|vFam_116| ORF1/2 [Torque teno virus 3]
+gi|61660277|ref|YP_214168.1|vFam_116| hypothetical protein MuHV1_gp159 [Murid herpesvirus 1]
+gi|295413992|ref|YP_003587886.1|vFam_116| hypothetical protein TTdoV_gp1 [Torque teno douroucouli virus]
+gi|295441885|ref|YP_003587897.1|vFam_116| hypothetical protein TTV16_gp1 [Torque teno virus 16]
+gi|295441906|ref|YP_003587913.1|vFam_116| hypothetical protein TTV15_gp1 [Torque teno virus 15]
+gi|295413955|ref|YP_003587861.1|vFam_116| pORF2 [Torque teno virus 7]
+gi|295413945|ref|YP_003587854.1|vFam_116| hypothetical protein TTV14_gp1 [Torque teno virus 14]
+gi|295413934|ref|YP_003587827.1|vFam_116| hypothetical protein TTV4_gp1 [Torque teno virus 4]
+gi|295413948|ref|YP_003587856.1|vFam_116| hypothetical protein TTV19_gp1 [Torque teno virus 19]
+gi|295413931|ref|YP_003587852.1|vFam_116| hypothetical protein TTV10_gp3 [Torque teno virus 10]
+gi|295413926|ref|YP_003587848.1|vFam_116| hypothetical protein TTV12_gp3 [Torque teno virus 12]
+gi|295413969|ref|YP_003587872.1|vFam_116| hypothetical protein TTV25_gp1 [Torque teno virus 25]
+gi|295413951|ref|YP_003587858.1|vFam_116| hypothetical protein TTV26_gp1 [Torque teno virus 26]

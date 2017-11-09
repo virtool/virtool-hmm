@@ -1,0 +1,24 @@
+CLUSTER	442
+NUM_SEQ	16
+LENGTH	312
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	165.36
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|41057466|ref|NP_957939.1|vFam_442| ORF030 DNA-binding virion protein [Bovine papular stomatitis virus]
+gi|289183794|ref|YP_003457335.1|vFam_442| DNA-binding virion core protein [Pseudocowpox virus]
+gi|115531729|ref|YP_784255.1|vFam_442| DNA-binding virion core protein [Nile crocodilepox virus]
+gi|9628976|ref|NP_043995.1|vFam_442| MC044L [Molluscum contagiosum virus subtype 1]
+gi|40556055|ref|NP_955140.1|vFam_442| CNPV117 DNA-binding virion protein [Canarypox virus]
+gi|9634760|ref|NP_039053.1|vFam_442| Virion protein [Fowlpox virus]
+gi|571797962|ref|YP_008658461.1|vFam_442| encapsidated DNA-binding protein [Squirrelpox virus]
+gi|377829952|ref|YP_005296247.1|vFam_442| unnamed protein product [Cotia virus SPAn232]
+gi|113195250|ref|YP_717380.1|vFam_442| DNA-binding core protein [Taterapox virus]
+gi|345107237|ref|YP_004821402.1|vFam_442| DNA-binding core protein [Yoka poxvirus]
+gi|18640125|ref|NP_570199.1|vFam_442| SPV039 putative DNA-binding virion core protein [Swinepox virus]
+gi|9633847|ref|NP_051927.1|vFam_442| gp038L [Rabbit fibroma virus]
+gi|157939666|ref|YP_001497038.1|vFam_442| DNA binding core protein [Tanapox virus]
+gi|38229205|ref|NP_938298.1|vFam_442| 43L [Yaba monkey tumor virus]
+gi|148912920|ref|YP_001293234.1|vFam_442| hypothetical protein GTPV_gp039 [Goatpox virus Pellor]
+gi|211956322|ref|YP_002302391.1|vFam_442| DNA-binding virion core protein [Deerpox virus W-1170-84]

@@ -1,0 +1,12 @@
+CLUSTER	3399
+NUM_SEQ	4
+LENGTH	119
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	63.07
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 1, 'Proboscivirus': 1, 'Roseolovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|496991170|ref|YP_007969779.1|vFam_3399| tegument protein UL14 [Elephantid herpesvirus 1]
+gi|538447265|ref|YP_008493005.1|vFam_3399| tegument protein [Porcine cytomegalovirus]
+gi|9633137|ref|NP_050247.1|vFam_3399| hypothetical protein HhV6Bgp072 [Human herpesvirus 6B]
+gi|51874290|ref|YP_073808.1|vFam_3399| tegument protein UL14 [Human herpesvirus 7]

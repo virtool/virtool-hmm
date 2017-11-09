@@ -1,0 +1,11 @@
+CLUSTER	1011
+NUM_SEQ	3
+LENGTH	213
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	110.76
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|125860146|ref|YP_001036315.1|vFam_1011| hypothetical protein SFMNPV_gp023 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|22549427|ref|NP_689200.1|vFam_1011| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069909|ref|NP_613113.1|vFam_1011| hypothetical protein McnAVgp030 [Mamestra configurata nucleopolyhedrovirus A]

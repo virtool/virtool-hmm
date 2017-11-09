@@ -1,0 +1,13 @@
+CLUSTER	2000
+NUM_SEQ	5
+LENGTH	362
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	188.24
+FAMILIES	{'Reoviridae': 5}
+GENERA	{'Orthoreovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|258549728|ref|YP_003199427.1|vFam_2000| sigma-3 protein [Mammalian orthoreovirus 3]
+gi|459014611|ref|YP_007507324.1|vFam_2000| sigma 2 [Melaka orthoreovirus]
+gi|323714230|ref|YP_004226529.1|vFam_2000| sigma-B protein [Avian orthoreovirus]
+gi|298200959|ref|YP_003717778.1|vFam_2000| major outer capsid protein [Broome virus]
+gi|343098560|ref|YP_004769554.1|vFam_2000| major outer capsid protein sigma 2 [Baboon orthoreovirus]

@@ -1,0 +1,12 @@
+CLUSTER	2243
+NUM_SEQ	4
+LENGTH	250
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	127.5
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|387600890|ref|YP_006331067.1|vFam_2243| putative replicase protein [Pig stool associated circular ssDNA virus GER2011]
+gi|406356625|ref|YP_006732338.1|vFam_2243| replication associated protein [Porcine associated stool circular virus]
+gi|498907909|ref|YP_007974230.1|vFam_2243| Rep protein [Porcine stool-associated circular virus 3]
+gi|498907906|ref|YP_007974228.1|vFam_2243| Rep protein [Porcine stool-associated circular virus 2]

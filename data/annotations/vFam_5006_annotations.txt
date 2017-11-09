@@ -1,0 +1,11 @@
+CLUSTER	5006
+NUM_SEQ	3
+LENGTH	66
+RELATIVE_ENTROPY_PER_POSITION	0.78
+TOTAL_RELATIVE_ENTROPY	51.48
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|48697010|ref|YP_025007.1|vFam_5006| hypothetical protein C57 [Sulfolobus turreted icosahedral virus]
+gi|295441853|ref|YP_003591094.1|vFam_5006| hypothetical protein STIV2_B71 [Sulfolobus turreted icosahedral virus 2]
+gi|48697009|ref|YP_025006.1|vFam_5006| hypothetical protein A66 [Sulfolobus turreted icosahedral virus]

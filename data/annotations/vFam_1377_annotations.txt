@@ -1,0 +1,15 @@
+CLUSTER	1377
+NUM_SEQ	7
+LENGTH	125
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	63.75
+FAMILIES	{'Geminiviridae': 7}
+GENERA	{'Curtovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|148659000|ref|YP_001274385.1|vFam_1377| R2 protein [Pepper curly top virus]
+gi|169303564|ref|YP_001715618.1|vFam_1377| ss-ds DNA regulator [Beet curly top Iran virus]
+gi|10257475|ref|NP_066182.1|vFam_1377| hypothetical protein [Horseradish curly top virus]
+gi|197914888|ref|YP_002158817.1|vFam_1377| ss-ds DNA regulator [Pepper yellow dwarf virus - New Mexico]
+gi|46402153|ref|YP_006992.1|vFam_1377| V2 [Spinach curly top virus]
+gi|322840370|ref|YP_004207922.1|vFam_1377| V2 [Spinach curly top Arizona virus]
+gi|310288306|ref|YP_003966134.1|vFam_1377| ss-dsDNA regulator [Spinach severe curly top virus]

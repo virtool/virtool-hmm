@@ -1,0 +1,11 @@
+CLUSTER	4246
+NUM_SEQ	3
+LENGTH	463
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	240.76
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|414089967|ref|YP_006990098.1|vFam_4246| structural protein [Sulfolobales Mexican rudivirus 1]
+gi|159341084|ref|YP_001542643.1|vFam_4246| hypothetical protein [Acidianus rod-shaped virus 1]
+gi|22122252|ref|NP_666613.1|vFam_4246| hypothetical protein SIRV1gp25 [Sulfolobus islandicus rod-shaped virus 1]

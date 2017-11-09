@@ -1,0 +1,11 @@
+CLUSTER	3890
+NUM_SEQ	3
+LENGTH	161
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	82.11
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|41057545|ref|NP_958018.1|vFam_3890| ORF109 EEV glycoprotein [Bovine papular stomatitis virus]
+gi|289183875|ref|YP_003457416.1|vFam_3890| EEV glycoprotein [Pseudocowpox virus]
+gi|41057172|ref|NP_957886.1|vFam_3890| ORF109 EEV glycoprotein [Orf virus]

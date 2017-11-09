@@ -1,0 +1,11 @@
+CLUSTER	3644
+NUM_SEQ	3
+LENGTH	212
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	110.24
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 2, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|311978088|ref|YP_003987208.1|vFam_3644| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825009|ref|YP_007417940.1|vFam_3644| hypothetical protein LBA_00042 [Megavirus lba]
+gi|311978271|ref|YP_003987392.1|vFam_3644| hypothetical protein [Acanthamoeba polyphaga mimivirus]

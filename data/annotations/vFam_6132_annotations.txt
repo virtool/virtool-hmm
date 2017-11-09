@@ -1,0 +1,10 @@
+CLUSTER	6132
+NUM_SEQ	2
+LENGTH	70
+RELATIVE_ENTROPY_PER_POSITION	0.75
+TOTAL_RELATIVE_ENTROPY	52.5
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|260666012|ref|YP_003212966.1|vFam_6132| hypothetical protein H665_p143 [Ostreococcus tauri virus 1]
+gi|313768352|ref|YP_004062032.1|vFam_6132| hypothetical protein MpV1_149 [Micromonas sp. RCC1109 virus MpV1]

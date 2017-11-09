@@ -1,0 +1,10 @@
+CLUSTER	6011
+NUM_SEQ	2
+LENGTH	292
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	151.84
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Roseolovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9633154|ref|NP_050264.1|vFam_6011| glycoprotein [Human herpesvirus 6B]
+gi|51874304|ref|YP_073822.1|vFam_6011| membrane glycoprotein UL119 [Human herpesvirus 7]

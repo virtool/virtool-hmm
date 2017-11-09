@@ -1,0 +1,24 @@
+CLUSTER	470
+NUM_SEQ	16
+LENGTH	340
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	180.2
+FAMILIES	{'Paramyxoviridae': 16}
+GENERA	{'Morbillivirus': 5, 'Respirovirus': 3, 'None': 5, 'Ferlavirus': 1, 'Henipavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|10937873|ref|NP_067150.1|vFam_470| matrix potein [Human parainfluenza virus 3]
+gi|19718370|ref|NP_604439.1|vFam_470| matrix protein [Human parainfluenza virus 1]
+gi|9627225|ref|NP_056876.1|vFam_470| matrix protein [Sendai virus]
+gi|34482042|ref|NP_899658.1|vFam_470| matrix protein M [Fer-de-Lance paramyxovirus]
+gi|29468605|ref|NP_047110.2|vFam_470| matrix [Hendra virus]
+gi|13559811|ref|NP_112025.1|vFam_470| matrix protein [Nipah virus]
+gi|89888076|ref|YP_512249.1|vFam_470| matrix protein [Beilong virus]
+gi|77124343|ref|YP_338080.1|vFam_470| matrix protein [J-virus]
+gi|9630649|ref|NP_047204.1|vFam_470| matrix protein M [Canine distemper virus]
+gi|9626949|ref|NP_056921.1|vFam_470| matrix protein [Measles virus]
+gi|52353960|ref|YP_087123.1|vFam_470| M protein [Rinderpest virus (strain Kabete O)]
+gi|54310713|ref|YP_133825.1|vFam_470| matrix protein [Peste-des-petits-ruminants virus]
+gi|38707566|ref|NP_945027.1|vFam_470| matrix protein [Dolphin morbillivirus]
+gi|9634973|ref|NP_054694.1|vFam_470| matrix protein [Tupaia paramyxovirus]
+gi|387935520|ref|YP_006347586.1|vFam_470| matrix protein [Nariva virus]
+gi|41057598|ref|NP_958052.1|vFam_470| matrix protein [Mossman virus]

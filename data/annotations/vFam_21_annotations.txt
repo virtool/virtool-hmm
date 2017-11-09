@@ -1,0 +1,48 @@
+CLUSTER	21
+NUM_SEQ	40
+LENGTH	1959
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	1038.27
+FAMILIES	{'Betaflexiviridae': 39}
+GENERA	{'Carlavirus': 29, 'None': 3, 'Trichovirus': 6, 'Citrivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|13559818|ref|NP_112029.1|vFam_21| RNA-dependant RNA polymerase [Banana mild mosaic virus]
+gi|20889399|ref|NP_624313.1|vFam_21| RNA polymerase [Sugarcane striate mosaic-associated virus]
+gi|226309582|ref|YP_002776347.1|vFam_21| RNA-dependent RNA polymerase [African oil palm ringspot virus]
+gi|401715647|ref|YP_006589919.1|vFam_21| replicase [Sweet potato C6 virus]
+gi|116734780|ref|YP_842438.1|vFam_21| RNA-dependent RNA polymerase [Narcissus symptomless virus]
+gi|269954639|ref|YP_003324581.1|vFam_21| replicase [Butterbur mosaic virus]
+gi|360040866|ref|YP_004936159.1|vFam_21| unnamed protein product [Garlic common latent virus]
+gi|156616261|ref|YP_001430021.1|vFam_21| replicase [Coleus vein necrosis virus]
+gi|20143433|ref|NP_619559.1|vFam_21| RNA-dependent RNA-polymerase [Garlic latent virus]
+gi|224923881|ref|YP_002647021.1|vFam_21| RNA-dependent RNA polymerase [Red clover vein mosaic virus]
+gi|222509602|ref|YP_002574614.1|vFam_21| putative replicase polyprotein [Helleborus net necrosis virus]
+gi|41057346|ref|NP_958171.1|vFam_21| replicase [Poplar mosaic virus]
+gi|212671431|ref|YP_002308447.1|vFam_21| RNA-dependent RNA polymerase [Hippeastrum latent virus]
+gi|313122764|ref|YP_004035878.1|vFam_21| RNA-dependent RNA polymerase [Cowpea mild mottle virus]
+gi|9626090|ref|NP_056767.1|vFam_21| polyprotein [Potato virus M]
+gi|110835686|ref|YP_699983.1|vFam_21| RNA-dependent RNA polymerase [Narcissus common latent virus]
+gi|14251191|ref|NP_116487.1|vFam_21| polyprotein [Aconitum latent virus]
+gi|171473628|ref|YP_001798592.1|vFam_21| replicase polyprotein [Hop mosaic virus]
+gi|10314013|ref|NP_066258.1|vFam_21| polyprotein [Hop latent virus]
+gi|94971810|ref|YP_595727.1|vFam_21| replicase [Daphne virus S]
+gi|145651770|ref|YP_001165301.1|vFam_21| replicase [Phlox virus S]
+gi|396587247|ref|YP_006522434.1|vFam_21| RNA-dependent RNA polymerase [Potato virus H]
+gi|211998872|ref|YP_002302557.1|vFam_21| RdRp polyprotein replicase [Potato latent virus]
+gi|386644970|ref|YP_006297586.1|vFam_21| unnamed protein product [American hop latent virus]
+gi|156603888|ref|YP_001429585.1|vFam_21| replication polyprotein [Potato Virus P]
+gi|71849436|ref|YP_277428.1|vFam_21| RNA-directed RNA polymerase [Potato virus S]
+gi|166851939|ref|YP_001661446.1|vFam_21| replicase [Ligustrum necrotic ringspot virus]
+gi|352749694|ref|YP_004901680.1|vFam_21| RNA dependent RNA Polymerase [Mirabilis jalapa mottle virus]
+gi|37674200|ref|NP_932788.1|vFam_21| RNA-dependent RNA polymerase [Lily symptomless virus]
+gi|254667441|ref|YP_003075957.1|vFam_21| RNA dependent RNA polymerase [Kalanchoe latent virus]
+gi|113195534|ref|YP_717533.1|vFam_21| polyprotein [Passiflora latent carlavirus]
+gi|242346754|ref|YP_002985636.1|vFam_21| replicase polyprotein [Hydrangea chlorotic mottle virus]
+gi|19919920|ref|NP_612579.1|vFam_21| polyprotein [Blueberry scorch virus]
+gi|20889382|ref|NP_624333.1|vFam_21| replicase polyprotein [Citrus leaf blotch virus]
+gi|339906183|ref|YP_004732978.1|vFam_21| rdRpol gene product [Grapevine Pinot gris virus]
+gi|325965585|ref|YP_004293216.1|vFam_21| RNA polymerase [Grapevine berry inner necrosis virus]
+gi|212681399|ref|YP_002308565.1|vFam_21| putative polyprotein [Peach mosaic virus]
+gi|9635791|ref|NP_062428.1|vFam_21| replicase [Cherry mottle leaf virus]
+gi|62362155|ref|YP_224130.1|vFam_21| 216 kDa protein [Apricot pseudo-chlorotic leaf spot virus]
+gi|9626206|ref|NP_040551.1|vFam_21| replicase [Apple chlorotic leaf spot virus]

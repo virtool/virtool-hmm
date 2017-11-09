@@ -1,0 +1,11 @@
+CLUSTER	2968
+NUM_SEQ	3
+LENGTH	424
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	216.24
+FAMILIES	{'Adenoviridae': 3}
+GENERA	{'Aviadenovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|388570697|ref|YP_006383571.1|vFam_2968| fiber-1 [Goose adenovirus 4]
+gi|327409495|ref|YP_004346939.1|vFam_2968| fiber-1 [Fowl adenovirus C]
+gi|308222760|ref|YP_003933597.1|vFam_2968| unnamed protein product [Turkey adenovirus 1]

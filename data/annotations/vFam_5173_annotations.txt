@@ -1,0 +1,10 @@
+CLUSTER	5173
+NUM_SEQ	2
+LENGTH	294
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	152.88
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035091|ref|YP_008436716.1|vFam_5173| ubiquitin-like domain [Pandoravirus salinus]
+gi|526118912|ref|YP_008318815.1|vFam_5173| ubiquitin-like domain [Pandoravirus dulcis]

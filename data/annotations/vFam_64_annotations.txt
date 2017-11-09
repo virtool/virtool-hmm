@@ -1,0 +1,16 @@
+CLUSTER	64
+NUM_SEQ	8
+LENGTH	236
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	122.72
+FAMILIES	{'Phycodnaviridae': 2, 'Iridoviridae': 6}
+GENERA	{'Phaeovirus': 1, 'Chlorovirus': 1, 'Ranavirus': 6}
+FASTA SEQUENCE TITLES:
+gi|340025945|ref|NP_049012.2|vFam_64| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|56692700|ref|YP_164158.1|vFam_64| hypothetical protein ORF063L [Singapore grouper iridovirus]
+gi|13242632|ref|NP_077647.1|vFam_64| EsV-1-162 [Ectocarpus siliculosus virus 1]
+gi|56692692|ref|YP_164150.1|vFam_64| hypothetical protein ORF055R [Singapore grouper iridovirus]
+gi|56692683|ref|YP_164141.1|vFam_64| hypothetical protein ORF046L [Singapore grouper iridovirus]
+gi|56692693|ref|YP_164151.1|vFam_64| hypothetical protein ORF056R [Singapore grouper iridovirus]
+gi|56692645|ref|YP_164103.1|vFam_64| hypothetical protein ORF008L [Singapore grouper iridovirus]
+gi|56692682|ref|YP_164140.1|vFam_64| hypothetical protein ORF045L [Singapore grouper iridovirus]

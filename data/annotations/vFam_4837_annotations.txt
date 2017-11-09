@@ -1,0 +1,11 @@
+CLUSTER	4837
+NUM_SEQ	3
+LENGTH	68
+RELATIVE_ENTROPY_PER_POSITION	0.74
+TOTAL_RELATIVE_ENTROPY	50.32
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|422933643|ref|YP_007003768.1|vFam_4837| protein ORF106 [Cyprinid herpesvirus 1]
+gi|422933932|ref|YP_007003924.1|vFam_4837| protein ORF106 [Cyprinid herpesvirus 2]
+gi|131840132|ref|YP_001096141.1|vFam_4837| unnamed protein product [Cyprinid herpesvirus 3]

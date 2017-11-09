@@ -1,0 +1,10 @@
+CLUSTER	4589
+NUM_SEQ	2
+LENGTH	248
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	121.52
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441432600|ref|YP_007354642.1|vFam_4589| hypothetical protein Moumou_00685 [Acanthamoeba polyphaga moumouvirus]
+gi|363540667|ref|YP_004894825.1|vFam_4589| mg774 gene product [Megavirus chiliensis]

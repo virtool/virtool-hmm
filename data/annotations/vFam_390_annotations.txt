@@ -1,0 +1,18 @@
+CLUSTER	390
+NUM_SEQ	10
+LENGTH	420
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	222.6
+FAMILIES	{'Herpesviridae': 10}
+GENERA	{'Varicellovirus': 6, 'Iltovirus': 1, 'Mardivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|57790939|ref|YP_182343.1|vFam_390| transactivating tegument protein VP16 [Gallid herpesvirus 1]
+gi|12084877|ref|NP_073342.1|vFam_390| transactivating tegument protein VP16 [Meleagrid herpesvirus 1]
+gi|125745100|ref|YP_001033977.1|vFam_390| transactivating tegument protein VP16 [Gallid herpesvirus 2]
+gi|10834919|ref|NP_066880.1|vFam_390| transactivating tegument protein VP16 [Gallid herpesvirus 3]
+gi|13242402|ref|NP_077425.1|vFam_390| transactivating tegument protein VP16 [Cercopithecine herpesvirus 9]
+gi|9625885|ref|NP_040133.1|vFam_390| transactivating tegument protein VP16 [Human herpesvirus 3]
+gi|51557493|ref|YP_068327.1|vFam_390| transactivating tegument protein VP16 [Suid herpesvirus 1]
+gi|270339451|ref|YP_003331531.1|vFam_390| transactivating tegument protein VP16 [Felid herpesvirus 1]
+gi|216905865|ref|YP_002333493.1|vFam_390| transactivating tegument protein VP16 [Equid herpesvirus 9]
+gi|9629736|ref|NP_045229.1|vFam_390| transactivating tegument protein VP16 [Equid herpesvirus 4]

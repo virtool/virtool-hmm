@@ -1,0 +1,18 @@
+CLUSTER	288
+NUM_SEQ	10
+LENGTH	960
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	518.4
+FAMILIES	{'Herpesviridae': 10}
+GENERA	{'Muromegalovirus': 2, 'Roseolovirus': 1, 'Cytomegalovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|425707256|ref|YP_007016453.1|vFam_288| E47 [Murid herpesvirus 8]
+gi|9845339|ref|NP_064153.1|vFam_288| pR47 [Murid herpesvirus 2]
+gi|52139232|ref|YP_081505.1|vFam_288| tegument protein UL37 [Human herpesvirus 5]
+gi|20026648|ref|NP_612690.1|vFam_288| tegument protein UL37 [Panine herpesvirus 2]
+gi|359946490|ref|YP_004936022.1|vFam_288| tegument protein UL37 [Cercopithecine herpesvirus 5]
+gi|356640367|ref|YP_004933809.1|vFam_288| tegument protein UL47 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086534|ref|YP_004940219.1|vFam_288| tegument protein UL37 [Saimiriine herpesvirus 3]
+gi|360040938|ref|YP_004940073.1|vFam_288| tegument protein UL37 [Aotine herpesvirus 1]
+gi|538447229|ref|YP_008492969.1|vFam_288| tegument protein [Porcine cytomegalovirus]
+gi|51874252|ref|YP_073770.1|vFam_288| tegument protein UL37 [Human herpesvirus 7]

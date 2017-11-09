@@ -1,0 +1,16 @@
+CLUSTER	1003
+NUM_SEQ	8
+LENGTH	147
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	74.97
+FAMILIES	{'Herpesviridae': 8}
+GENERA	{'Cytomegalovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|360041018|ref|YP_004940142.1|vFam_1003| chemokine vCXCL12 [Aotine herpesvirus 1]
+gi|360086602|ref|YP_004940287.1|vFam_1003| chemokine vCXCL15 [Saimiriine herpesvirus 3]
+gi|360041020|ref|YP_004940143.1|vFam_1003| chemokine vCXCL13 [Aotine herpesvirus 1]
+gi|52139295|ref|YP_081570.1|vFam_1003| chemokine vCXCL2 [Human herpesvirus 5]
+gi|20026713|ref|NP_612754.1|vFam_1003| chemokine vCXCL2 [Panine herpesvirus 2]
+gi|359946556|ref|YP_004936089.1|vFam_1003| chemokine vCXCL2 [Cercopithecine herpesvirus 5]
+gi|356640482|ref|YP_004933924.1|vFam_1003| protein UL147 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556613|ref|YP_068247.1|vFam_1003| rh158 [Macacine herpesvirus 3]

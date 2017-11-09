@@ -1,0 +1,29 @@
+CLUSTER	319
+NUM_SEQ	21
+LENGTH	217
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	115.01
+FAMILIES	{'Poxviridae': 18}
+GENERA	{'None': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Betaentomopoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Crocodylidpoxvirus': 1, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631330|ref|NP_048165.1|vFam_319| ORF MSV094 putative membrane protein (vaccinia F9L), similar to SW:P24361 [Melanoplus sanguinipes entomopoxvirus]
+gi|506498247|ref|YP_008004044.1|vFam_319| S-S bond formation pathway protein substrate (Cop-F9L) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497986|ref|YP_008003785.1|vFam_319| S-S bond formation pathway protein substrate (Cop-F9L) [Mythimna separata entomopoxvirus 'L']
+gi|506498856|ref|YP_008004650.1|vFam_319| S-S bond formation pathway protein substrate (Cop-F9L) [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964557|ref|NP_065025.1|vFam_319| hypothetical protein AMV243 [Amsacta moorei entomopoxvirus 'L']
+gi|40556077|ref|NP_955162.1|vFam_319| CNPV139 conserved hypothetical protein [Canarypox virus]
+gi|9634782|ref|NP_039075.1|vFam_319| hypothetical protein FPV112 [Fowlpox virus]
+gi|571797936|ref|YP_008658435.1|vFam_319| envelope protein pox-lipid membrane protein [Squirrelpox virus]
+gi|66275845|ref|YP_232930.1|vFam_319| S-S bond formation pathway protein [Vaccinia virus]
+gi|345107212|ref|YP_004821377.1|vFam_319| substrate for poxvirus S-S bond formation pathway [Yoka poxvirus]
+gi|9633830|ref|NP_051908.1|vFam_319| gp019L [Rabbit fibroma virus]
+gi|377830027|ref|YP_005296228.1|vFam_319| unnamed protein product [Cotia virus SPAn232]
+gi|157939645|ref|YP_001497017.1|vFam_319| hypothetical protein TANV_24L [Tanapox virus]
+gi|38229187|ref|NP_938280.1|vFam_319| 24L [Yaba monkey tumor virus]
+gi|211956303|ref|YP_002302372.1|vFam_319| hypothetical protein DpV84gp031 [Deerpox virus W-1170-84]
+gi|148912901|ref|YP_001293215.1|vFam_319| hypothetical protein GTPV_gp021 [Goatpox virus Pellor]
+gi|18640107|ref|NP_570181.1|vFam_319| SPV021 hypothetical protein [Swinepox virus]
+gi|41057566|ref|NP_958039.1|vFam_319| ORF131 putative membrane protein [Bovine papular stomatitis virus]
+gi|289183893|ref|YP_003457434.1|vFam_319| membrane protein [Pseudocowpox virus]
+gi|9628948|ref|NP_043967.1|vFam_319| MC016L [Molluscum contagiosum virus subtype 1]
+gi|115531700|ref|YP_784226.1|vFam_319| hypothetical protein CRV036 [Nile crocodilepox virus]

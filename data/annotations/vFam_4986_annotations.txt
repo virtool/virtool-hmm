@@ -1,0 +1,10 @@
+CLUSTER	4986
+NUM_SEQ	2
+LENGTH	183
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	95.16
+FAMILIES	{'Caliciviridae': 2}
+GENERA	{'Norovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|113478403|ref|YP_724460.1|vFam_4986| NS6 [Murine norovirus 1]
+gi|28416963|ref|NP_786949.1|vFam_4986| Chymotrypsin-like cysteine proteinase [Norwalk virus]

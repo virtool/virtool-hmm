@@ -1,0 +1,12 @@
+CLUSTER	3439
+NUM_SEQ	4
+LENGTH	213
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	108.63
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|45655883|ref|YP_003742.1|vFam_3439| hypothetical protein AFV1_ORF223 [Acidianus filamentous virus 1]
+gi|159341075|ref|YP_001542634.1|vFam_3439| hypothetical protein [Acidianus rod-shaped virus 1]
+gi|414089956|ref|YP_006990087.1|vFam_3439| CRISPR-associated Cas4-like protein [Sulfolobales Mexican rudivirus 1]
+gi|22122292|ref|NP_666553.1|vFam_3439| hypothetical protein SIRV2gp19 [Sulfolobus islandicus rod-shaped virus 2]

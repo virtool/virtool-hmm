@@ -1,0 +1,11 @@
+CLUSTER	4810
+NUM_SEQ	3
+LENGTH	134
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	68.34
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Lymphocystivirus': 2, 'Megalocytivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|19881415|ref|NP_612232.1|vFam_4810| ORF010L [Infectious spleen and kidney necrosis virus]
+gi|51870098|ref|YP_073651.1|vFam_4810| hypothetical protein LDVICp145 [Lymphocystis disease virus - isolate China]
+gi|13358485|ref|NP_078686.1|vFam_4810| hypothetical protein LCDV1gp049 [Lymphocystis disease virus 1]

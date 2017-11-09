@@ -1,0 +1,19 @@
+CLUSTER	445
+NUM_SEQ	11
+LENGTH	242
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	123.42
+FAMILIES	{'Poxviridae': 11}
+GENERA	{'None': 1, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|40556135|ref|NP_955220.1|vFam_445| CNPV197 N1R/p28-like protein [Canarypox virus]
+gi|9634820|ref|NP_039113.1|vFam_445| N1R/p28 gene family protein [Fowlpox virus]
+gi|113195193|ref|YP_717323.1|vFam_445| zinc finger-like protein [Taterapox virus]
+gi|345107196|ref|YP_004821361.1|vFam_445| zinc finger protein [Yoka poxvirus]
+gi|377830095|ref|YP_005296343.1|vFam_445| unnamed protein product [Cotia virus SPAn232]
+gi|157939767|ref|YP_001497139.1|vFam_445| Kila-N/RING finger [Tanapox virus]
+gi|38229301|ref|NP_938394.1|vFam_445| 143R [Yaba monkey tumor virus]
+gi|148913017|ref|YP_001293331.1|vFam_445| hypothetical protein GTPV_gp133 [Goatpox virus Pellor]
+gi|211956426|ref|YP_002302496.1|vFam_445| N1R-like RING finger host range protein [Deerpox virus W-1170-84]
+gi|18640224|ref|NP_570298.1|vFam_445| SPV138 N1R/p28-like host range RING finger protein [Swinepox virus]
+gi|9633890|ref|NP_052029.1|vFam_445| gp143R [Rabbit fibroma virus]

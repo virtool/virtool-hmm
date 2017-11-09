@@ -1,0 +1,10 @@
+CLUSTER	2207
+NUM_SEQ	2
+LENGTH	439
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	228.28
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409842|ref|YP_004347262.1|vFam_2207| putative papain family cysteine protease [Lausannevirus]
+gi|284504306|ref|YP_003407021.1|vFam_2207| papain-like cysteine peptidase [Marseillevirus]

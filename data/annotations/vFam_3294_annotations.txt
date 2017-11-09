@@ -1,0 +1,11 @@
+CLUSTER	3294
+NUM_SEQ	3
+LENGTH	216
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	110.16
+FAMILIES	{'Ascoviridae': 3}
+GENERA	{'Ascovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|116326804|ref|YP_803341.1|vFam_3294| hypothetical protein TNAV2c_gp118 [Trichoplusia ni ascovirus 2c]
+gi|134287230|ref|YP_001110926.1|vFam_3294| hypothetical protein HVAV3e_gp073 [Heliothis virescens ascovirus 3e]
+gi|115298563|ref|YP_762416.1|vFam_3294| 25.3 kDa Evrl/Alr thiol oxidase [Spodoptera frugiperda ascovirus 1a]

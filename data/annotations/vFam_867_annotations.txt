@@ -1,0 +1,12 @@
+CLUSTER	867
+NUM_SEQ	4
+LENGTH	387
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	193.5
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Betabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|32698560|ref|NP_872475.1|vFam_867| ORF_21 [Adoxophyes orana granulovirus]
+gi|109255294|ref|YP_654443.1|vFam_867| hypothetical protein COGV_gp022 [Choristoneura occidentalis granulovirus]
+gi|556549074|ref|YP_008719988.1|vFam_867| hypothetical protein CalGV040 [Clostera anastomosis granulovirus]
+gi|334265717|ref|YP_004376246.1|vFam_867| hypothetical protein ClanGV_gp038 [Clostera anachoreta granulovirus]

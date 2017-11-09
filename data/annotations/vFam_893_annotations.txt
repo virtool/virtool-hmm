@@ -1,0 +1,11 @@
+CLUSTER	893
+NUM_SEQ	3
+LENGTH	220
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	114.4
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Megalocytivirus': 1, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|19881461|ref|NP_612278.1|vFam_893| ORF056L [Infectious spleen and kidney necrosis virus]
+gi|388260178|ref|YP_006347706.1|vFam_893| hypothetical protein [European catfish virus]
+gi|56692691|ref|YP_164149.1|vFam_893| hypothetical protein ORF054R [Singapore grouper iridovirus]

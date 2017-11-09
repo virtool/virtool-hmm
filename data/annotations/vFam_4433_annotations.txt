@@ -1,0 +1,11 @@
+CLUSTER	4433
+NUM_SEQ	3
+LENGTH	106
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	55.12
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977571|ref|YP_003986691.1|vFam_4433| probable glutaredoxin [Acanthamoeba polyphaga mimivirus]
+gi|448825242|ref|YP_007418173.1|vFam_4433| putative glutaredoxin [Megavirus lba]
+gi|441432158|ref|YP_007354200.1|vFam_4433| ESV128-type glutaredoxin [Acanthamoeba polyphaga moumouvirus]

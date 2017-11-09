@@ -1,0 +1,10 @@
+CLUSTER	3930
+NUM_SEQ	2
+LENGTH	360
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	183.6
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|20066015|ref|NP_612829.1|vFam_3930| hypothetical protein AMVSRgp1 [Arabis mosaic virus large satellite RNA]
+gi|16519570|ref|NP_443755.1|vFam_3930| hypothetical protein GfvsRgp1 [Grapevine fanleaf virus satellite RNA]

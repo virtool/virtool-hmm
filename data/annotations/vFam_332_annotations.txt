@@ -1,0 +1,22 @@
+CLUSTER	332
+NUM_SEQ	14
+LENGTH	253
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	131.56
+FAMILIES	{'Poxviridae': 13}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 1, 'Avipoxvirus': 1, 'Parapoxvirus': 2, 'Yatapoxvirus': 1, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531036293|ref|YP_008437929.1|vFam_332| hypothetical protein ps_1518 [Pandoravirus salinus]
+gi|115531818|ref|YP_784344.1|vFam_332| ATPase [Nile crocodilepox virus]
+gi|40556209|ref|NP_955294.1|vFam_332| CNPV271 DNA packaging protein [Canarypox virus]
+gi|345107325|ref|YP_004821490.1|vFam_332| virion protein [Yoka poxvirus]
+gi|18640204|ref|NP_570278.1|vFam_332| SPV118 DNA packaging protein [Swinepox virus]
+gi|377830024|ref|YP_005296327.1|vFam_332| unnamed protein product [Cotia virus SPAn232]
+gi|38229284|ref|NP_938377.1|vFam_332| 121L [Yaba monkey tumor virus]
+gi|21492573|ref|NP_659693.1|vFam_332| DNA packaging, virus assembly [Sheeppox virus]
+gi|9633929|ref|NP_052009.1|vFam_332| gp120L [Rabbit fibroma virus]
+gi|211956402|ref|YP_002302471.1|vFam_332| DNA packaging protein [Deerpox virus W-1170-84]
+gi|41057544|ref|NP_958017.1|vFam_332| ORF108 DNA packaging protein/ATPase [Bovine papular stomatitis virus]
+gi|41057171|ref|NP_957885.1|vFam_332| ORF108 DNA packaging protein/ATPase [Orf virus]
+gi|571798047|ref|YP_008658546.1|vFam_332| DNA packaging protein ATPase [Squirrelpox virus]
+gi|9629072|ref|NP_044091.1|vFam_332| MC140L [Molluscum contagiosum virus subtype 1]

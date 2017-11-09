@@ -1,0 +1,41 @@
+CLUSTER	81
+NUM_SEQ	33
+LENGTH	1146
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	595.92
+FAMILIES	{'Adenoviridae': 32}
+GENERA	{'None': 1, 'Atadenovirus': 5, 'Siadenovirus': 4, 'Mastadenovirus': 21, 'Aviadenovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9633176|ref|NP_050281.1|vFam_81| DNA polymerase [Fowl adenovirus D]
+gi|9635799|ref|NP_062435.1|vFam_81| pol [Frog adenovirus 1]
+gi|56160819|ref|AP_000478.1|vFam_81| pol [Turkey adenovirus A]
+gi|363540916|ref|YP_004935931.1|vFam_81| unnamed protein product [Skua adenovirus A]
+gi|331271188|ref|YP_004414800.1|vFam_81| DNA polymerase [Raptor adenovirus A]
+gi|160700580|ref|YP_001552247.1|vFam_81| unnamed protein product [Snake adenovirus 1]
+gi|56158884|ref|AP_000080.1|vFam_81| pol [Duck adenovirus A]
+gi|21450896|ref|NP_659515.1|vFam_81| pol [Ovine adenovirus D]
+gi|440382967|ref|YP_007346998.1|vFam_81| pol [Bovine adenovirus 6]
+gi|13242722|ref|NP_077389.1|vFam_81| pol [Bovine adenovirus D]
+gi|227122421|ref|YP_002822207.1|vFam_81| DNA polymerase [Murine adenovirus 3]
+gi|56158807|ref|AP_000026.1|vFam_81| pol [Bovine adenovirus B]
+gi|46852408|ref|YP_009201.1|vFam_81| pol [Porcine adenovirus 3]
+gi|378554418|ref|YP_005271182.1|vFam_81| unnamed protein product [Bat adenovirus TJM]
+gi|345462123|ref|YP_004782100.1|vFam_81| unnamed protein product [Bat adenovirus 2]
+gi|56160958|ref|AP_000613.1|vFam_81| pol [Canine adenovirus 2]
+gi|56160570|ref|AP_000236.1|vFam_81| pol [Porcine adenovirus C]
+gi|52801685|ref|YP_094032.1|vFam_81| pol [Bovine adenovirus A]
+gi|56158832|ref|AP_000006.1|vFam_81| pol [Ovine adenovirus A]
+gi|51556699|ref|YP_068060.1|vFam_81| pol [Tree shrew adenovirus 1]
+gi|496838695|ref|YP_007518313.1|vFam_81| pol [Titi monkey adenovirus ECC-2011]
+gi|460042643|ref|YP_007518070.1|vFam_81| DNA polymerase [Simian adenovirus 20]
+gi|51518821|ref|YP_067908.1|vFam_81| pol protein [Simian adenovirus 3]
+gi|56160442|ref|AP_000112.1|vFam_81| pol [Human adenovirus A]
+gi|160409917|ref|NP_040516.2|vFam_81| DNA polymerase [Human adenovirus C]
+gi|190340980|ref|YP_001974426.1|vFam_81| DNA polymerase [Human adenovirus D]
+gi|197944732|ref|YP_002213831.1|vFam_81| DNA polymerase [Human adenovirus B]
+gi|386522689|ref|YP_006272954.1|vFam_81| polymerase [Chimpanzee adenovirus Y25]
+gi|327415376|ref|YP_004300204.1|vFam_81| unnamed protein product [Simian adenovirus 49]
+gi|485191063|ref|YP_007905999.1|vFam_81| pol [Simian adenovirus C]
+gi|61602089|ref|YP_213966.1|vFam_81| pol [Simian adenovirus 1]
+gi|540155832|ref|YP_008520226.1|vFam_81| DNA polymerase [Simian adenovirus 18]
+gi|9626559|ref|NP_040853.1|vFam_81| DNA polymerase [Human adenovirus F]

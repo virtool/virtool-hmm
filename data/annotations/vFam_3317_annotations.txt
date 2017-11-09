@@ -1,0 +1,11 @@
+CLUSTER	3317
+NUM_SEQ	3
+LENGTH	322
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	167.44
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9845312|ref|NP_064126.1|vFam_3317| pR24 [Murid herpesvirus 2]
+gi|61660142|ref|YP_214033.1|vFam_3317| US22 family homolog [Murid herpesvirus 1]
+gi|425707230|ref|YP_007016427.1|vFam_3317| E24 [Murid herpesvirus 8]

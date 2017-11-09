@@ -1,0 +1,11 @@
+CLUSTER	4880
+NUM_SEQ	3
+LENGTH	84
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	49.56
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977449|ref|YP_003986568.1|vFam_4880| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448826084|ref|YP_007419015.1|vFam_4880| hypothetical protein LBA_01121 [Megavirus lba]
+gi|363540636|ref|YP_004895117.1|vFam_4880| mg1066 gene product [Megavirus chiliensis]

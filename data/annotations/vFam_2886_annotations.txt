@@ -1,0 +1,13 @@
+CLUSTER	2886
+NUM_SEQ	5
+LENGTH	44
+RELATIVE_ENTROPY_PER_POSITION	1.21
+TOTAL_RELATIVE_ENTROPY	53.24
+FAMILIES	{'Papillomaviridae': 5}
+GENERA	{'Deltapapillomavirus': 5}
+FASTA SEQUENCE TITLES:
+gi|194268070|ref|YP_002004572.1|vFam_2886| E5 [Capreolus capreolus papillomavirus 1]
+gi|9627061|ref|NP_056742.1|vFam_2886| E5 protein [Bovine papillomavirus - 1]
+gi|19343422|ref|NP_597849.1|vFam_2886| transforming protein E5 [Ovine papillomavirus - 1]
+gi|19263404|ref|NP_597789.1|vFam_2886| E5 transforming protein [Deltapapillomavirus 2]
+gi|9627084|ref|NP_041310.1|vFam_2886| hypothetical protein EEPVgp10 [Deltapapillomavirus 1]

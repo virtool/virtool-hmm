@@ -1,0 +1,10 @@
+CLUSTER	6411
+NUM_SEQ	2
+LENGTH	294
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	149.94
+FAMILIES	{'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134287313|ref|YP_001111009.1|vFam_6411| hypothetical protein HVAV3e_gp156 [Heliothis virescens ascovirus 3e]
+gi|115298619|ref|YP_762473.1|vFam_6411| 32.2 kDa [Spodoptera frugiperda ascovirus 1a]

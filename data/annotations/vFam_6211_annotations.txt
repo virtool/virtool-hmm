@@ -1,0 +1,10 @@
+CLUSTER	6211
+NUM_SEQ	2
+LENGTH	152
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	77.52
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441431961|ref|YP_007354003.1|vFam_6211| hypothetical protein Moumou_00019 [Acanthamoeba polyphaga moumouvirus]
+gi|363540542|ref|YP_004895123.1|vFam_6211| mg1072 gene product [Megavirus chiliensis]

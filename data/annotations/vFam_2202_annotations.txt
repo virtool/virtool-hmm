@@ -1,0 +1,10 @@
+CLUSTER	2202
+NUM_SEQ	2
+LENGTH	262
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	131.0
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|41057516|ref|NP_957989.1|vFam_2202| ORF080 virion core protein [Bovine papular stomatitis virus]
+gi|289183845|ref|YP_003457386.1|vFam_2202| virion core protein [Pseudocowpox virus]

@@ -1,0 +1,12 @@
+CLUSTER	1214
+NUM_SEQ	4
+LENGTH	120
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	61.2
+FAMILIES	{'Polydnaviridae': 4}
+GENERA	{'Bracovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|57659692|ref|YP_184898.1|vFam_1214| hypothetical protein CcBV_32.12 [Cotesia congregata bracovirus]
+gi|66391214|ref|YP_239375.1|vFam_1214| hypothetical protein 1 [Microplitis demolitor bracovirus]
+gi|66391238|ref|YP_239393.1|vFam_1214| hypothetical protein 2 [Microplitis demolitor bracovirus]
+gi|57659682|ref|YP_184888.1|vFam_1214| hypothetical protein CcBV_32.1 [Cotesia congregata bracovirus]

@@ -1,0 +1,23 @@
+CLUSTER	561
+NUM_SEQ	15
+LENGTH	428
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	231.12
+FAMILIES	{'Rhabdoviridae': 15}
+GENERA	{'None': 9, 'Ephemerovirus': 2, 'Vesiculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|552558692|ref|YP_008686596.1|vFam_561| nucleocapsid protein [Drosophila obscura sigmavirus 10A]
+gi|66508428|ref|YP_238528.1|vFam_561| nucleocapsid protein [Tupaia virus]
+gi|471236978|ref|YP_007641368.1|vFam_561| nucleoprotein N [Tibrogargan virus]
+gi|393707877|ref|YP_006200957.1|vFam_561| nucleoprotein [Obodhiang virus]
+gi|10086562|ref|NP_065398.1|vFam_561| nucleoprotein N [Bovine ephemeral fever virus]
+gi|393707850|ref|YP_006202618.1|vFam_561| N gene product [Kotonkan virus]
+gi|291612457|ref|YP_003518280.1|vFam_561| nucleoprotein [Ngaingan virus]
+gi|216967210|ref|YP_002333271.1|vFam_561| nucleoprotein N [Wongabel virus]
+gi|471236994|ref|YP_007641382.1|vFam_561| nucleocapsid protein [Isfahan virus]
+gi|471236988|ref|YP_007641377.1|vFam_561| nucleocapsid protein [Chandipura virus]
+gi|14336455|ref|NP_116744.1|vFam_561| nucleocapsid protein [Spring viraemia of carp virus]
+gi|9627230|ref|NP_041712.1|vFam_561| nucleocapsid (N) protein [Vesicular stomatitis Indiana virus]
+gi|116536722|ref|YP_802937.1|vFam_561| nucleoprotein [Siniperca chuatsi rhabdovirus]
+gi|552558700|ref|YP_008686602.1|vFam_561| nucleoprotein [Eel virus European X]
+gi|471236976|ref|YP_007641363.1|vFam_561| nucleocapsid [Perch rhabdovirus]

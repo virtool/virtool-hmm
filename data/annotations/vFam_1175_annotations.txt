@@ -1,0 +1,17 @@
+CLUSTER	1175
+NUM_SEQ	9
+LENGTH	315
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	160.65
+FAMILIES	{'None': 1, 'Phycodnaviridae': 5, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 4, 'Prasinovirus': 2, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448260211|ref|YP_007348308.1|vFam_1175| putative nucleoside-diphosphate-sugar epimerase [Sulfolobus virus STSV2]
+gi|441432391|ref|YP_007354433.1|vFam_1175| NAD-dependent epimerase/dehydratase [Acanthamoeba polyphaga moumouvirus]
+gi|310831207|ref|YP_003969850.1|vFam_1175| putative NAD-dependent epimerase/dehydratase [Cafeteria roenbergensis virus BV-PW1]
+gi|313768240|ref|YP_004061920.1|vFam_1175| hypothetical protein MpV1_037 [Micromonas sp. RCC1109 virus MpV1]
+gi|313844017|ref|YP_004061680.1|vFam_1175| hypothetical protein OlV1_047 [Ostreococcus lucimarinus virus OlV1]
+gi|314055128|ref|YP_004063466.1|vFam_1175| putative TDP-glucose 4,6-dehydratase [Ostreococcus tauri virus 2]
+gi|260665912|ref|YP_003212866.1|vFam_1175| hypothetical protein H665_p042 [Ostreococcus tauri virus 1]
+gi|311977513|ref|YP_003986633.1|vFam_1175| putative dTDP-D-glucose 4,6-dehydratase [Acanthamoeba polyphaga mimivirus]
+gi|155371491|ref|YP_001427025.1|vFam_1175| hypothetical protein ATCV1_Z544R [Acanthocystis turfacea Chlorella virus 1]

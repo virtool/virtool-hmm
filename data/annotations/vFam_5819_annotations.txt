@@ -1,0 +1,10 @@
+CLUSTER	5819
+NUM_SEQ	2
+LENGTH	323
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	164.73
+FAMILIES	{'None': 1, 'Malacoherpesviridae': 1}
+GENERA	{'None': 1, 'Ostreavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|410493537|ref|YP_006908735.1|vFam_5819| hypothetical protein AbHV_ORF83 [Abalone herpesvirus Victoria/AUS/2009]
+gi|48696827|ref|YP_024651.1|vFam_5819| ORF113 [Ostreid herpesvirus 1]

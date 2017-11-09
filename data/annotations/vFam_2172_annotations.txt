@@ -1,0 +1,14 @@
+CLUSTER	2172
+NUM_SEQ	6
+LENGTH	144
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	72.0
+FAMILIES	{'Herpesviridae': 6}
+GENERA	{'Varicellovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|13242425|ref|NP_077447.1|vFam_2172| protein V32 [Cercopithecine herpesvirus 9]
+gi|9625907|ref|NP_040155.1|vFam_2172| protein V32 [Human herpesvirus 3]
+gi|270339471|ref|YP_003331553.1|vFam_2172| protein V32 [Felid herpesvirus 1]
+gi|9629760|ref|NP_045251.1|vFam_2172| protein V32 [Equid herpesvirus 4]
+gi|386522757|ref|YP_006273013.1|vFam_2172| ORF34 gene product [Equid herpesvirus 8]
+gi|50313275|ref|YP_053079.1|vFam_2172| protein V32 [Equid herpesvirus 1]

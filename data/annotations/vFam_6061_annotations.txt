@@ -1,0 +1,10 @@
+CLUSTER	6061
+NUM_SEQ	2
+LENGTH	172
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	89.44
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|478755992|ref|YP_007761633.1|vFam_6061| hypothetical protein HhPH1_gp44 [Halovirus PH1]
+gi|448261151|ref|YP_005352824.1|vFam_6061| putative protein 38 [Haloarcula hispanica icosahedral virus 2]

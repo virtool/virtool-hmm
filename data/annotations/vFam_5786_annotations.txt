@@ -1,0 +1,10 @@
+CLUSTER	5786
+NUM_SEQ	2
+LENGTH	150
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	78.0
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409887|ref|YP_004347307.1|vFam_5786| putative inactivated thioredoxin/glutaredoxin [Lausannevirus]
+gi|284504349|ref|YP_003407064.1|vFam_5786| inactivated thioredoxin/glutaredoxin [Marseillevirus]

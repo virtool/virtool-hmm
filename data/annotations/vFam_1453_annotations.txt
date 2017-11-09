@@ -1,0 +1,13 @@
+CLUSTER	1453
+NUM_SEQ	5
+LENGTH	142
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	73.84
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Alphabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|438000414|ref|YP_007250519.1|vFam_1453| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|116326179|ref|YP_803505.1|vFam_1453| hypothetical protein AGNV_gp111 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320755|ref|NP_203267.1|vFam_1453| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|86355563|ref|YP_473231.1|vFam_1453| ORF43 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|30387335|ref|NP_848414.1|vFam_1453| hypothetical protein CfMNPVgpORF103 [Choristoneura fumiferana multiple nucleopolyhedrovirus]

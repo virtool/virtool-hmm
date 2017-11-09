@@ -1,0 +1,10 @@
+CLUSTER	4687
+NUM_SEQ	2
+LENGTH	153
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	78.03
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52139288|ref|YP_081563.1|vFam_4687| membrane protein UL124 [Human herpesvirus 5]
+gi|20026705|ref|NP_612747.1|vFam_4687| membrane protein UL124 [Panine herpesvirus 2]

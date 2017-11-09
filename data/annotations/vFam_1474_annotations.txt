@@ -1,0 +1,13 @@
+CLUSTER	1474
+NUM_SEQ	5
+LENGTH	221
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	108.29
+FAMILIES	{'Secoviridae': 4, 'Coronaviridae': 1}
+GENERA	{'Alphacoronavirus': 1, 'Nepovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|315192971|ref|YP_004070201.1|vFam_1474| non-structural protein 7b [Feline infectious peritonitis virus]
+gi|332290639|ref|YP_004429253.1|vFam_1474| cysteine-like protease (Cyst-Pro) [Grapevine Bulgarian latent virus]
+gi|50557452|ref|NP_734006.2|vFam_1474| cysteine protease [Tomato ringspot virus]
+gi|50557447|ref|NP_734037.2|vFam_1474| protease [Grapevine fanleaf virus]
+gi|50553892|ref|YP_054442.1|vFam_1474| cysteine protease [Arabis mosaic virus]

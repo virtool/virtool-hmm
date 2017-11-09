@@ -1,0 +1,11 @@
+CLUSTER	4018
+NUM_SEQ	3
+LENGTH	79
+RELATIVE_ENTROPY_PER_POSITION	0.64
+TOTAL_RELATIVE_ENTROPY	50.56
+FAMILIES	{'None': 3}
+GENERA	{'Sobemovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|465711236|ref|YP_007518452.1|vFam_4018| VPg protein [Rice yellow mottle virus]
+gi|474474941|ref|YP_007688704.1|vFam_4018| VPg protein [Cocksfoot mottle virus]
+gi|474619582|ref|YP_007688707.1|vFam_4018| putative VPg protein [Imperata yellow mottle virus]

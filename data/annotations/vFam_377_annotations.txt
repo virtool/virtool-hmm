@@ -1,0 +1,25 @@
+CLUSTER	377
+NUM_SEQ	17
+LENGTH	384
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	203.52
+FAMILIES	{'Poxviridae': 17}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531733|ref|YP_784259.1|vFam_377| telomere binding protein [Nile crocodilepox virus]
+gi|40556049|ref|NP_955134.1|vFam_377| CNPV111 DNA-binding protein [Canarypox virus]
+gi|9634754|ref|NP_039047.1|vFam_377| Fowlpox PIR:E48563, vaccinia I6L and Molluscum contagiosum virus MC048L homolog, similar to canarypox virus virus GB:D86731 [Fowlpox virus]
+gi|9633851|ref|NP_051931.1|vFam_377| gp042L [Rabbit fibroma virus]
+gi|9633678|ref|NP_051756.1|vFam_377| m042L [Myxoma virus]
+gi|113195255|ref|YP_717385.1|vFam_377| hypothetical protein TATV_DAH68_078 [Taterapox virus]
+gi|345107242|ref|YP_004821407.1|vFam_377| telomere binding protein [Yoka poxvirus]
+gi|157939670|ref|YP_001497042.1|vFam_377| hypothetical protein TANV_47L [Tanapox virus]
+gi|38229209|ref|NP_938302.1|vFam_377| 47L [Yaba monkey tumor virus]
+gi|18640130|ref|NP_570204.1|vFam_377| SPV044 hypothetical protein [Swinepox virus]
+gi|62637433|ref|YP_227431.1|vFam_377| hypothetical protein DpV83gp057 [Deerpox virus W-848-83]
+gi|148912924|ref|YP_001293238.1|vFam_377| hypothetical protein GTPV_gp043 [Goatpox virus Pellor]
+gi|377829956|ref|YP_005296251.1|vFam_377| unnamed protein product [Cotia virus SPAn232]
+gi|41057470|ref|NP_957943.1|vFam_377| ORF034 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183798|ref|YP_003457339.1|vFam_377| telomere-binding protein [Pseudocowpox virus]
+gi|9628980|ref|NP_043999.1|vFam_377| MC048L [Molluscum contagiosum virus subtype 1]
+gi|571797967|ref|YP_008658466.1|vFam_377| telomere binding protein [Squirrelpox virus]

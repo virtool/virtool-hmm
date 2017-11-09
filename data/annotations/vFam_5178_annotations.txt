@@ -1,0 +1,10 @@
+CLUSTER	5178
+NUM_SEQ	2
+LENGTH	247
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	125.97
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Coccolithovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|73852882|ref|YP_294166.1|vFam_5178| hypothetical protein EhV408 [Emiliania huxleyi virus 86]
+gi|73852623|ref|YP_293907.1|vFam_5178| hypothetical protein EhV154 [Emiliania huxleyi virus 86]

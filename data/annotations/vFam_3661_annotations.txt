@@ -1,0 +1,10 @@
+CLUSTER	3661
+NUM_SEQ	2
+LENGTH	68
+RELATIVE_ENTROPY_PER_POSITION	0.73
+TOTAL_RELATIVE_ENTROPY	49.64
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498084|ref|YP_008003881.1|vFam_3661| hypothetical protein AHEV_058 [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964603|ref|NP_065053.1|vFam_3661| hypothetical protein AMVITR09b [Amsacta moorei entomopoxvirus 'L']

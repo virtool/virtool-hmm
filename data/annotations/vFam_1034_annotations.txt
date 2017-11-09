@@ -1,0 +1,16 @@
+CLUSTER	1034
+NUM_SEQ	8
+LENGTH	538
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	274.38
+FAMILIES	{'None': 2, 'Phycodnaviridae': 4, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 4, 'Prymnesiovirus': 1, 'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313768228|ref|YP_004061908.1|vFam_1034| hypothetical protein MpV1_025c [Micromonas sp. RCC1109 virus MpV1]
+gi|260665898|ref|YP_003212852.1|vFam_1034| hypothetical protein H665_p028 [Ostreococcus tauri virus 1]
+gi|313844004|ref|YP_004061667.1|vFam_1034| hypothetical protein OlV1_034c [Ostreococcus lucimarinus virus OlV1]
+gi|311977862|ref|YP_003986982.1|vFam_1034| glutamine-dependent asparagine synthetase [Acanthamoeba polyphaga mimivirus]
+gi|448825363|ref|YP_007418294.1|vFam_1034| glutamine-dependent asparagine synthetase [Megavirus lba]
+gi|441432266|ref|YP_007354308.1|vFam_1034| asparagine synthase [Acanthamoeba polyphaga moumouvirus]
+gi|310831064|ref|YP_003969707.1|vFam_1034| putative asparagine synthetase B [Cafeteria roenbergensis virus BV-PW1]
+gi|508182126|ref|YP_008052645.1|vFam_1034| asparagine synthetase B [Phaeocystis globosa virus]

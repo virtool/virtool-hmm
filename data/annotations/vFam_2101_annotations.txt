@@ -1,0 +1,14 @@
+CLUSTER	2101
+NUM_SEQ	6
+LENGTH	79
+RELATIVE_ENTROPY_PER_POSITION	0.66
+TOTAL_RELATIVE_ENTROPY	52.14
+FAMILIES	{'Closteroviridae': 6}
+GENERA	{'Crinivirus': 6}
+FASTA SEQUENCE TITLES:
+gi|22550326|ref|NP_689403.1|vFam_2101| hypothetical protein SPCSVs2gp04 [Sweet potato chlorotic stunt virus]
+gi|72398336|ref|YP_293702.1|vFam_2101| P9 [Tomato chlorosis virus]
+gi|30840973|ref|NP_851575.1|vFam_2101| p9 [Cucurbit yellow stunting disorder virus]
+gi|177882066|ref|YP_001816778.1|vFam_2101| p9 [Bean yellow disorder virus]
+gi|395865414|ref|YP_006522430.1|vFam_2101| hypothetical 9-kDa protein [Cucurbit chlorotic yellows virus]
+gi|242916047|ref|YP_003002361.1|vFam_2101| unnamed protein product [Lettuce chlorosis virus]

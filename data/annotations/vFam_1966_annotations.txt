@@ -1,0 +1,13 @@
+CLUSTER	1966
+NUM_SEQ	5
+LENGTH	92
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	48.76
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|531035721|ref|YP_008437355.1|vFam_1966| hypothetical protein ps_943 [Pandoravirus salinus]
+gi|157953513|ref|YP_001498404.1|vFam_1966| hypothetical protein AR158_C323R [Paramecium bursaria Chlorella virus AR158]
+gi|155370821|ref|YP_001426355.1|vFam_1966| hypothetical protein FR483_n723R [Paramecium bursaria Chlorella virus FR483]
+gi|157953924|ref|YP_001498815.1|vFam_1966| hypothetical protein AR158_C734R [Paramecium bursaria Chlorella virus AR158]
+gi|9632227|ref|NP_048972.1|vFam_1966| hypothetical protein [Paramecium bursaria Chlorella virus 1]

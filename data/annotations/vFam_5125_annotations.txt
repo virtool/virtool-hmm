@@ -1,0 +1,10 @@
+CLUSTER	5125
+NUM_SEQ	2
+LENGTH	126
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	65.52
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40556223|ref|NP_955308.1|vFam_5125| CNPV285 EGF-like protein [Canarypox virus]
+gi|9634881|ref|NP_039174.1|vFam_5125| EGF-like protein vaccinia C11R [Fowlpox virus]

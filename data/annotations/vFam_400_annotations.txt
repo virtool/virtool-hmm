@@ -1,0 +1,12 @@
+CLUSTER	400
+NUM_SEQ	4
+LENGTH	226
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	115.26
+FAMILIES	{'None': 2, 'Phycodnaviridae': 1, 'Asfarviridae': 1}
+GENERA	{'None': 2, 'Chlorovirus': 1, 'Asfivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|155370398|ref|YP_001425932.1|vFam_400| hypothetical protein FR483_n300L [Paramecium bursaria Chlorella virus FR483]
+gi|448826052|ref|YP_007418983.1|vFam_400| hypothetical protein LBA_01089 [Megavirus lba]
+gi|448825007|ref|YP_007417938.1|vFam_400| hypothetical protein LBA_00040 [Megavirus lba]
+gi|9628200|ref|NP_042786.1|vFam_400| ASFV-induced protein p32 [African swine fever virus]

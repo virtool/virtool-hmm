@@ -1,0 +1,18 @@
+CLUSTER	814
+NUM_SEQ	10
+LENGTH	260
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	135.2
+FAMILIES	{'Poxviridae': 10}
+GENERA	{'None': 2, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 1, 'Avipoxvirus': 1, 'Yatapoxvirus': 1, 'Parapoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531744|ref|YP_784270.1|vFam_814| late transcription factor VLTF-1 [Nile crocodilepox virus]
+gi|41057481|ref|NP_957954.1|vFam_814| ORF045 late transcription factor VLTF-1 [Bovine papular stomatitis virus]
+gi|377829967|ref|YP_005296262.1|vFam_814| unnamed protein product [Cotia virus SPAn232]
+gi|9633862|ref|NP_051942.1|vFam_814| gp053R [Rabbit fibroma virus]
+gi|157939681|ref|YP_001497053.1|vFam_814| late transcription factor VLTF-1 [Tanapox virus]
+gi|113195266|ref|YP_717396.1|vFam_814| late gene transcription factor VLTF-1 [Taterapox virus]
+gi|148912935|ref|YP_001293249.1|vFam_814| hypothetical protein GTPV_gp054 [Goatpox virus Pellor]
+gi|571797978|ref|YP_008658477.1|vFam_814| late transcription factor [Squirrelpox virus]
+gi|40556109|ref|NP_955194.1|vFam_814| CNPV171 late transcription factor VLTF-1 [Canarypox virus]
+gi|9628999|ref|NP_044018.1|vFam_814| MC067R [Molluscum contagiosum virus subtype 1]

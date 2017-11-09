@@ -1,0 +1,15 @@
+CLUSTER	924
+NUM_SEQ	7
+LENGTH	220
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	114.4
+FAMILIES	{'Herpesviridae': 7}
+GENERA	{'Varicellovirus': 4, 'Mardivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|12084902|ref|NP_073372.1|vFam_924| virion protein US10 [Meleagrid herpesvirus 1]
+gi|125745122|ref|YP_001034006.1|vFam_924| virion protein US10 [Gallid herpesvirus 2]
+gi|10834947|ref|NP_066908.1|vFam_924| virion protein US10 [Gallid herpesvirus 3]
+gi|13242469|ref|NP_077483.1|vFam_924| virion protein US10 [Cercopithecine herpesvirus 9]
+gi|270339508|ref|YP_003331594.1|vFam_924| virion protein US10 [Felid herpesvirus 1]
+gi|50313319|ref|YP_053122.1|vFam_924| virion protein US10 [Equid herpesvirus 1]
+gi|9629811|ref|NP_045294.1|vFam_924| virion protein US10 [Equid herpesvirus 4]

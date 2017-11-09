@@ -1,0 +1,10 @@
+CLUSTER	5277
+NUM_SEQ	2
+LENGTH	193
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	100.36
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|285002361|ref|YP_003422425.1|vFam_5277| hypothetical protein PsunGV_gp086 [Pseudaletia unipuncta granulovirus]
+gi|164519276|ref|YP_001649063.1|vFam_5277| hypothetical protein HaGV_gp081 [Helicoverpa armigera granulovirus]

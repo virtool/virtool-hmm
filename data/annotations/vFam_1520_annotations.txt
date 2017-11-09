@@ -1,0 +1,11 @@
+CLUSTER	1520
+NUM_SEQ	3
+LENGTH	223
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	113.73
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|359946587|ref|YP_004936120.1|vFam_1520| membrane glycoprotein US11 [Cercopithecine herpesvirus 5]
+gi|20026742|ref|NP_612784.1|vFam_1520| membrane glycoprotein US11 [Panine herpesvirus 2]
+gi|52139321|ref|YP_081596.1|vFam_1520| membrane glycoprotein US11 [Human herpesvirus 5]

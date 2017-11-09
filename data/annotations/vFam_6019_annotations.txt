@@ -1,0 +1,10 @@
+CLUSTER	6019
+NUM_SEQ	2
+LENGTH	184
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	95.68
+FAMILIES	{'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134287287|ref|YP_001110983.1|vFam_6019| hemolysin-like protein [Heliothis virescens ascovirus 3e]
+gi|116326743|ref|YP_803280.1|vFam_6019| hypothetical protein TNAV2c_gp057 [Trichoplusia ni ascovirus 2c]

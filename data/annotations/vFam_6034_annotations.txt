@@ -1,0 +1,10 @@
+CLUSTER	6034
+NUM_SEQ	2
+LENGTH	131
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	68.12
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|313768263|ref|YP_004061943.1|vFam_6034| hypothetical protein MpV1_060 [Micromonas sp. RCC1109 virus MpV1]
+gi|163955037|ref|YP_001648141.1|vFam_6034| hypothetical protein OsV5_064f [Ostreococcus virus OsV5]

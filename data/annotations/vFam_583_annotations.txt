@@ -1,0 +1,18 @@
+CLUSTER	583
+NUM_SEQ	10
+LENGTH	184
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	93.84
+FAMILIES	{'Marseillevirus family': 2, 'Iridoviridae': 6, 'Ascoviridae': 1}
+GENERA	{'None': 2, 'Chloriridovirus': 1, 'Ascovirus': 1, 'Ranavirus': 1, 'Lymphocystivirus': 2, 'Iridovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|327409826|ref|YP_004347246.1|vFam_583| putative nuclease [Lausannevirus]
+gi|284504310|ref|YP_003407025.1|vFam_583| putative nuclease [Marseillevirus]
+gi|115298588|ref|YP_762441.1|vFam_583| 25.6 kDa Uvr/REP helicase [Spodoptera frugiperda ascovirus 1a]
+gi|388260081|ref|YP_006347609.1|vFam_583| hypothetical protein [European catfish virus]
+gi|51870105|ref|YP_073658.1|vFam_583| hypothetical protein LDVICp152 [Lymphocystis disease virus - isolate China]
+gi|13358473|ref|NP_078627.1|vFam_583| hypothetical protein LCDV1gp009 [Lymphocystis disease virus 1]
+gi|15079019|ref|NP_149770.1|vFam_583| 307L [Invertebrate iridescent virus 6]
+gi|109287911|ref|YP_654605.1|vFam_583| hypothetical protein MIV033L [Invertebrate iridescent virus 3]
+gi|527333668|ref|YP_008357452.1|vFam_583| Uvr/REP helicase [Invertebrate iridovirus 22]
+gi|339906091|ref|YP_004732888.1|vFam_583| hypothetical protein WIV_gp105 [Wiseana iridescent virus]

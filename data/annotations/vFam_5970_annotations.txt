@@ -1,0 +1,10 @@
+CLUSTER	5970
+NUM_SEQ	2
+LENGTH	101
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	51.51
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|295441856|ref|YP_003591097.1|vFam_5970| hypothetical protein STIV2_C101 [Sulfolobus turreted icosahedral virus 2]
+gi|48697013|ref|YP_025010.1|vFam_5970| hypothetical protein B97 [Sulfolobus turreted icosahedral virus]

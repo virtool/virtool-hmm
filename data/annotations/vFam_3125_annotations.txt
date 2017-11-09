@@ -1,0 +1,11 @@
+CLUSTER	3125
+NUM_SEQ	3
+LENGTH	193
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	96.5
+FAMILIES	{'Caulimoviridae': 2}
+GENERA	{'Badnavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|526119653|ref|YP_008319556.1|vFam_3125| hypothetical protein [Pandoravirus dulcis]
+gi|238563979|ref|YP_002916058.1|vFam_3125| hypothetical protein [Sweetpotato badnavirus B]
+gi|336125403|ref|YP_004581514.1|vFam_3125| hypothetical protein SPBVa_gp5 [Sweetpotato badnavirus A]

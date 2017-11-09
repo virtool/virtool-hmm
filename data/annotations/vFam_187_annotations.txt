@@ -1,0 +1,22 @@
+CLUSTER	187
+NUM_SEQ	14
+LENGTH	650
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	338.0
+FAMILIES	{'None': 1, 'Luteoviridae': 12}
+GENERA	{'Polerovirus': 12, 'Polemovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|404184170|ref|YP_006666507.1|vFam_187| P1 [Suakwa aphid-borne yellows virus]
+gi|212671450|ref|YP_002308461.1|vFam_187| hypothetical protein PnCV_gp2 [Poinsettia latent virus]
+gi|110645394|ref|YP_667839.1|vFam_187| P1 protein [Chickpea chlorotic stunt virus]
+gi|448818782|ref|YP_007417781.1|vFam_187| putative protein P1 [Beet chlorosis virus]
+gi|30146800|ref|NP_840021.1|vFam_187| RNA-dependent RNA polymerase P1 [Cereal yellow dwarf virus-RPV]
+gi|253729531|ref|YP_003029838.1|vFam_187| replicase [Wheat yellow dwarf virus-GPV]
+gi|9634963|ref|NP_054686.1|vFam_187| RNA-dependent RNA polymerase P1 [Cereal yellow dwarf virus-RPS]
+gi|512721876|ref|YP_008083740.1|vFam_187| P1 [Maize yellow dwarf virus-RMV]
+gi|51980897|ref|YP_077187.1|vFam_187| p1 protein [Carrot red leaf virus]
+gi|308125288|ref|YP_003915149.1|vFam_187| P1 protein [Cotton leafroll dwarf virus]
+gi|19881391|ref|NP_612215.1|vFam_187| hypothetical protein P2 [Beet mild yellowing virus]
+gi|30248023|ref|NP_840096.1|vFam_187| RNA-dependent RNA polymerase P1 protein [Beet western yellows virus]
+gi|189418879|ref|YP_001949871.1|vFam_187| P1 [Melon aphid-borne yellows virus]
+gi|20260788|ref|NP_620102.1|vFam_187| hypothetical protein P2 [Cucurbit aphid-borne yellows virus]

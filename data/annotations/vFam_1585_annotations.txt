@@ -1,0 +1,14 @@
+CLUSTER	1585
+NUM_SEQ	6
+LENGTH	240
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	122.4
+FAMILIES	{'Herpesviridae': 6}
+GENERA	{'Cytomegalovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|356640531|ref|YP_004933973.1|vFam_1585| hypothetical protein cy228 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|359946593|ref|YP_004936126.1|vFam_1585| membrane protein US12E [Cercopithecine herpesvirus 5]
+gi|359946592|ref|YP_004936125.1|vFam_1585| membrane protein US12D [Cercopithecine herpesvirus 5]
+gi|356640530|ref|YP_004933972.1|vFam_1585| membrane protein US14 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|359946591|ref|YP_004936124.1|vFam_1585| membrane protein US12C [Cercopithecine herpesvirus 5]
+gi|51556650|ref|YP_068284.1|vFam_1585| rh195 [Macacine herpesvirus 3]

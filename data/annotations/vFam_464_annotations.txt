@@ -1,0 +1,19 @@
+CLUSTER	464
+NUM_SEQ	11
+LENGTH	240
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	129.6
+FAMILIES	{'Herpesviridae': 11}
+GENERA	{'Varicellovirus': 6, 'Iltovirus': 2, 'Mardivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|38638236|ref|NP_944419.1|vFam_464| envelope protein UL20 [Psittacid herpesvirus 1]
+gi|57790971|ref|YP_182375.1|vFam_464| envelope protein UL20 [Gallid herpesvirus 1]
+gi|12084848|ref|NP_073313.1|vFam_464| envelope protein UL20 [Meleagrid herpesvirus 1]
+gi|125745071|ref|YP_001033948.1|vFam_464| envelope protein UL20 [Gallid herpesvirus 2]
+gi|10834889|ref|NP_066850.1|vFam_464| envelope protein UL20 [Gallid herpesvirus 3]
+gi|155041727|ref|NP_040162.2|vFam_464| envelope protein UL20 [Human herpesvirus 3]
+gi|13242432|ref|NP_077454.1|vFam_464| envelope protein UL20 [Cercopithecine herpesvirus 9]
+gi|9629855|ref|NP_045339.1|vFam_464| envelope protein UL20 [Bovine herpesvirus 1]
+gi|270339479|ref|YP_003331561.1|vFam_464| envelope protein UL20 [Felid herpesvirus 1]
+gi|261835094|ref|YP_002333523.2|vFam_464| envelope protein UL20 [Equid herpesvirus 9]
+gi|9629769|ref|NP_045259.1|vFam_464| envelope protein UL20 [Equid herpesvirus 4]

@@ -1,0 +1,21 @@
+CLUSTER	687
+NUM_SEQ	13
+LENGTH	549
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	290.97
+FAMILIES	{'Herpesviridae': 13}
+GENERA	{'Macavirus': 2, 'None': 1, 'Lymphocryptovirus': 3, 'Rhadinovirus': 6, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|24943102|ref|NP_733864.1|vFam_687| ORF11 [callitrichine herpesvirus 3]
+gi|82503259|ref|YP_401703.1|vFam_687| virion protein BVRF1 [Human herpesvirus 4]
+gi|51518072|ref|YP_068000.1|vFam_687| BVRF1 [Macacine herpesvirus 4]
+gi|321496570|ref|YP_004207855.1|vFam_687| tegument protein [Rodent herpesvirus Peru]
+gi|9629603|ref|NP_044857.1|vFam_687| DNA packaging tegument protein UL25 [Murid herpesvirus 4]
+gi|83642856|ref|YP_438143.1|vFam_687| ORF19 [Ovine herpesvirus 2]
+gi|10140941|ref|NP_065518.1|vFam_687| tegument protein [Alcelaphine herpesvirus 1]
+gi|9628021|ref|NP_042615.1|vFam_687| tegument protein [Equid herpesvirus 2]
+gi|139472819|ref|YP_001129372.1|vFam_687| ORF19 [Human herpesvirus 8]
+gi|18653825|ref|NP_570759.1|vFam_687| tegument protein [Macacine herpesvirus 5]
+gi|13095596|ref|NP_076511.1|vFam_687| tegument protein [Bovine herpesvirus 4]
+gi|9631209|ref|NP_047990.1|vFam_687| virion tegument protein [Ateline herpesvirus 3]
+gi|9625975|ref|NP_040221.1|vFam_687| unnamed protein product [Saimiriine herpesvirus 2]

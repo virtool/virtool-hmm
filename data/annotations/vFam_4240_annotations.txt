@@ -1,0 +1,10 @@
+CLUSTER	4240
+NUM_SEQ	2
+LENGTH	86
+RELATIVE_ENTROPY_PER_POSITION	0.58
+TOTAL_RELATIVE_ENTROPY	49.88
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|388260180|ref|YP_006347708.1|vFam_4240| hypothetical protein [European catfish virus]
+gi|388260143|ref|YP_006347671.1|vFam_4240| hypothetical protein [European catfish virus]

@@ -1,0 +1,11 @@
+CLUSTER	4733
+NUM_SEQ	3
+LENGTH	138
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	71.76
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498226|ref|YP_008004023.1|vFam_4733| hypothetical protein AHEV_200 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498834|ref|YP_008004628.1|vFam_4733| unknown similar to AMEV223 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964537|ref|NP_065005.1|vFam_4733| similar to wingless protein receptor Cfz2 [Amsacta moorei entomopoxvirus 'L']

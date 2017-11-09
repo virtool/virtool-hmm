@@ -1,0 +1,10 @@
+CLUSTER	4554
+NUM_SEQ	2
+LENGTH	186
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	94.86
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498086|ref|YP_008003883.1|vFam_4554| unknown similar to AMEVITR12 [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964599|ref|NP_064781.1|vFam_4554| hypothetical protein AMVITR12a [Amsacta moorei entomopoxvirus 'L']

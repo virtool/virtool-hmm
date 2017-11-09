@@ -1,0 +1,10 @@
+CLUSTER	2028
+NUM_SEQ	2
+LENGTH	336
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	168.0
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441432836|ref|YP_007354878.1|vFam_2028| BRO-N domain containing protein [Acanthamoeba polyphaga moumouvirus]
+gi|441432098|ref|YP_007354140.1|vFam_2028| BRO family protein [Acanthamoeba polyphaga moumouvirus]

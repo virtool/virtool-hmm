@@ -1,0 +1,13 @@
+CLUSTER	1431
+NUM_SEQ	5
+LENGTH	543
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	282.36
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|30984495|ref|NP_851927.1|vFam_1431| envelope glycoprotein E [Macacine herpesvirus 1]
+gi|83722636|ref|YP_443914.1|vFam_1431| envelope glycoprotein E [Papiine herpesvirus 2]
+gi|56694790|ref|YP_164510.1|vFam_1431| envelope glycoprotein E [Cercopithecine herpesvirus 2]
+gi|9629449|ref|NP_044670.1|vFam_1431| envelope glycoprotein E [Human herpesvirus 1]
+gi|9629338|ref|NP_044538.1|vFam_1431| envelope glycoprotein E [Human herpesvirus 2]

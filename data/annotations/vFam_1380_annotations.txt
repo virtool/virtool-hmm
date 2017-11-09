@@ -1,0 +1,11 @@
+CLUSTER	1380
+NUM_SEQ	3
+LENGTH	115
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	57.5
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|61660209|ref|YP_214100.1|vFam_1380| Phosphoprotein [Murid herpesvirus 1]
+gi|425707299|ref|YP_007016496.1|vFam_1380| E99 [Murid herpesvirus 8]
+gi|9845386|ref|NP_064200.1|vFam_1380| pR99 [Murid herpesvirus 2]

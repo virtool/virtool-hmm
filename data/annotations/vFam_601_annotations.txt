@@ -1,0 +1,21 @@
+CLUSTER	601
+NUM_SEQ	13
+LENGTH	553
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	287.56
+FAMILIES	{'Baculoviridae': 12}
+GENERA	{'Betabaculovirus': 12}
+FASTA SEQUENCE TITLES:
+gi|285002423|ref|YP_003422487.1|vFam_601| DNA ligase [Pseudaletia unipuncta granulovirus]
+gi|164519337|ref|YP_001649124.1|vFam_601| ligase [Helicoverpa armigera granulovirus]
+gi|556549138|ref|YP_008720052.1|vFam_601| dna ligase [Clostera anastomosis granulovirus]
+gi|21686777|ref|NP_663277.1|vFam_601| DNA ligase [Phthorimaea operculella granulovirus]
+gi|410493685|ref|YP_006908623.1|vFam_601| DNA ligase [Epinotia aporema granulovirus]
+gi|32698642|ref|NP_872557.1|vFam_601| DNA-ligase [Adoxophyes orana granulovirus]
+gi|46309344|ref|YP_006234.1|vFam_601| ORF110 [Agrotis segetum granulovirus]
+gi|33622310|ref|NP_891957.1|vFam_601| DNA ligase [Cryptophlebia leucotreta granulovirus]
+gi|14602357|ref|NP_148904.1|vFam_601| ORF120 DNALIGASE [Cydia pomonella granulovirus]
+gi|109255371|ref|YP_654520.1|vFam_601| DNA ligase [Choristoneura occidentalis granulovirus]
+gi|288804741|ref|YP_003429426.1|vFam_601| DNA ligase [Pieris rapae granulovirus]
+gi|11068104|ref|NP_068320.1|vFam_601| PxORF101 peptide [Plutella xylostella granulovirus]
+gi|148368931|ref|YP_001257061.1|vFam_601| ligase [Spodoptera litura granulovirus]

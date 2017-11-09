@@ -1,0 +1,22 @@
+CLUSTER	433
+NUM_SEQ	14
+LENGTH	373
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	197.69
+FAMILIES	{'Poxviridae': 14}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 1, 'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|40556181|ref|NP_955266.1|vFam_433| CNPV243 conserved hypothetical protein [Canarypox virus]
+gi|9634840|ref|NP_039133.1|vFam_433| hypothetical protein FPV170 [Fowlpox virus]
+gi|41057518|ref|NP_957991.1|vFam_433| ORF082 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183847|ref|YP_003457388.1|vFam_433| hypothetical protein PCPV_gp085 [Pseudocowpox virus]
+gi|41057145|ref|NP_957859.1|vFam_433| ORF082 hypothetical protein [Orf virus]
+gi|571798020|ref|YP_008658519.1|vFam_433| conserved hypothetical pox protein [Squirrelpox virus]
+gi|113195304|ref|YP_717434.1|vFam_433| hypothetical protein TATV_DAH68_127 [Taterapox virus]
+gi|345107295|ref|YP_004821460.1|vFam_433| virion core protein [Yoka poxvirus]
+gi|377830002|ref|YP_005296302.1|vFam_433| unnamed protein product [Cotia virus SPAn232]
+gi|157939720|ref|YP_001497092.1|vFam_433| hypothetical protein TANV_97L [Tanapox virus]
+gi|211956377|ref|YP_002302446.1|vFam_433| hypothetical protein DpV84gp106 [Deerpox virus W-1170-84]
+gi|9633905|ref|NP_051984.1|vFam_433| gp095L [Rabbit fibroma virus]
+gi|148912974|ref|YP_001293288.1|vFam_433| hypothetical protein GTPV_gp093 [Goatpox virus Pellor]
+gi|18640180|ref|NP_570254.1|vFam_433| SPV094 hypothetical protein [Swinepox virus]

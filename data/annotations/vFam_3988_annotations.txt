@@ -1,0 +1,10 @@
+CLUSTER	3988
+NUM_SEQ	2
+LENGTH	604
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	308.04
+FAMILIES	{'Rhabdoviridae': 2}
+GENERA	{'None': 1, 'Ephemerovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|393707881|ref|YP_006200961.1|vFam_3988| non-structural transmembrane glycoprotein [Obodhiang virus]
+gi|393707854|ref|YP_006202622.1|vFam_3988| GNS gene product [Kotonkan virus]

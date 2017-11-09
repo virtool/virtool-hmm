@@ -1,0 +1,10 @@
+CLUSTER	4650
+NUM_SEQ	2
+LENGTH	193
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	96.5
+FAMILIES	{'Closteroviridae': 1, 'None': 1}
+GENERA	{'None': 1, 'Closterovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|254666626|ref|YP_003075972.1|vFam_4650| p22 [Carrot yellow leaf virus]
+gi|134303470|ref|YP_001111339.1|vFam_4650| hypothetical protein GrBNV_gp72 [Gryllus bimaculatus nudivirus]

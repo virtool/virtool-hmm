@@ -1,0 +1,11 @@
+CLUSTER	3308
+NUM_SEQ	3
+LENGTH	263
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	136.76
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977587|ref|YP_003986707.1|vFam_3308| putative etoposide-induced protein 2.4 [Acanthamoeba polyphaga mimivirus]
+gi|448825261|ref|YP_007418192.1|vFam_3308| putative etoposide-induced protein 2.4 [Megavirus lba]
+gi|441432175|ref|YP_007354217.1|vFam_3308| hypothetical protein Moumou_00237 [Acanthamoeba polyphaga moumouvirus]

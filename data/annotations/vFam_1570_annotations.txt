@@ -1,0 +1,14 @@
+CLUSTER	1570
+NUM_SEQ	6
+LENGTH	360
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	183.6
+FAMILIES	{'Alloherpesviridae': 6}
+GENERA	{'Ictalurivirus': 1, 'Batrachovirus': 1, 'Cyprinivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|109638650|ref|YP_656626.1|vFam_1570| ORF118 [Ranid herpesvirus 2]
+gi|9626881|ref|NP_041151.1|vFam_1570| ORF60 [Ictalurid herpesvirus 1]
+gi|282174089|ref|YP_003358191.1|vFam_1570| protein Allo60 [Anguillid herpesvirus 1]
+gi|422933618|ref|YP_007003743.1|vFam_1570| protein Allo60 [Cyprinid herpesvirus 1]
+gi|422933845|ref|YP_007003899.1|vFam_1570| protein Allo60 [Cyprinid herpesvirus 2]
+gi|131840106|ref|YP_001096115.1|vFam_1570| unnamed protein product [Cyprinid herpesvirus 3]

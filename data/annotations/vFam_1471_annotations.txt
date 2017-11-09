@@ -1,0 +1,12 @@
+CLUSTER	1471
+NUM_SEQ	4
+LENGTH	258
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	129.0
+FAMILIES	{'Mimiviridae': 4}
+GENERA	{'None': 2, 'Mimivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|363539920|ref|YP_004894864.1|vFam_1471| mg813 gene product [Megavirus chiliensis]
+gi|311977647|ref|YP_003986767.1|vFam_1471| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432650|ref|YP_007354692.1|vFam_1471| hypothetical protein Moumou_00737 [Acanthamoeba polyphaga moumouvirus]
+gi|311977443|ref|YP_003986562.1|vFam_1471| hypothetical protein [Acanthamoeba polyphaga mimivirus]

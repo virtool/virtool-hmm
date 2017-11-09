@@ -1,0 +1,13 @@
+CLUSTER	820
+NUM_SEQ	5
+LENGTH	522
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	266.22
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'None': 1, 'Cytomegalovirus': 1, 'Proboscivirus': 1, 'Roseolovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|538447210|ref|YP_008492950.1|vFam_820| protein U4 [Porcine cytomegalovirus]
+gi|9633079|ref|NP_050186.1|vFam_820| hypothetical protein HhV6Bgp009 [Human herpesvirus 6B]
+gi|51874230|ref|YP_073748.1|vFam_820| protein UL27 [Human herpesvirus 7]
+gi|496991131|ref|YP_007969823.1|vFam_820| protein UL27 [Elephantid herpesvirus 1]
+gi|14251017|ref|NP_116379.1|vFam_820| T30 [Tupaiid herpesvirus 1]

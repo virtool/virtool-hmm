@@ -1,0 +1,11 @@
+CLUSTER	3089
+NUM_SEQ	3
+LENGTH	141
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	69.09
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|215401531|ref|YP_002332835.1|vFam_3089| hypothetical protein SlnV2_gp137 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634241|ref|NP_037780.1|vFam_3089| ORF20 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|215401414|ref|YP_002332717.1|vFam_3089| hypothetical protein SlnV2_gp019 [Spodoptera litura nucleopolyhedrovirus II]

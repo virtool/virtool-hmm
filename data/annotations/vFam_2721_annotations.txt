@@ -1,0 +1,13 @@
+CLUSTER	2721
+NUM_SEQ	5
+LENGTH	119
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	61.88
+FAMILIES	{'Phycodnaviridae': 5}
+GENERA	{'Chlorovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|157953117|ref|YP_001498009.1|vFam_2721| hypothetical protein NY2A_B813L [Paramecium bursaria Chlorella virus NY2A]
+gi|157953921|ref|YP_001498812.1|vFam_2721| hypothetical protein AR158_C731L [Paramecium bursaria Chlorella virus AR158]
+gi|9632146|ref|NP_048968.1|vFam_2721| Histone H3K27 methylase [Paramecium bursaria Chlorella virus 1]
+gi|155370817|ref|YP_001426351.1|vFam_2721| hypothetical protein FR483_N719L [Paramecium bursaria Chlorella virus FR483]
+gi|155371521|ref|YP_001427055.1|vFam_2721| hypothetical protein ATCV1_Z574L [Acanthocystis turfacea Chlorella virus 1]

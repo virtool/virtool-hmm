@@ -1,0 +1,13 @@
+CLUSTER	1919
+NUM_SEQ	5
+LENGTH	112
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	58.24
+FAMILIES	{'Flaviviridae': 5}
+GENERA	{'Flavivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|27735287|ref|NP_775999.1|vFam_1919| anchored core protein C [Yellow fever virus]
+gi|27596762|ref|NP_775513.1|vFam_1919| anchored core protein C [Powassan virus]
+gi|27545504|ref|NP_775467.1|vFam_1919| anchored core protein C [Alkhumra hemorrhagic fever virus]
+gi|27596775|ref|NP_775500.1|vFam_1919| anchored core protein C [Tick-borne encephalitis virus]
+gi|25121525|ref|NP_740293.1|vFam_1919| capsid protein [Langat virus]

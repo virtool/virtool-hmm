@@ -1,0 +1,11 @@
+CLUSTER	2925
+NUM_SEQ	3
+LENGTH	168
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	82.32
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|526120033|ref|YP_008319936.1|vFam_2925| hypothetical protein [Pandoravirus dulcis]
+gi|52139185|ref|YP_081458.1|vFam_2925| envelope glycoprotein RL10 [Human herpesvirus 5]
+gi|20026602|ref|NP_612644.1|vFam_2925| envelope glycoprotein RL10 [Panine herpesvirus 2]

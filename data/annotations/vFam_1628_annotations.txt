@@ -1,0 +1,13 @@
+CLUSTER	1628
+NUM_SEQ	5
+LENGTH	112
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	59.36
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Varicellovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|216905878|ref|YP_002333506.1|vFam_1628| small capsid protein [Equid herpesvirus 9]
+gi|9629750|ref|NP_045242.1|vFam_1628| small capsid protein [Equid herpesvirus 4]
+gi|296316025|ref|YP_003662489.1|vFam_1628| small capsid protein [Bovine herpesvirus 5]
+gi|270339464|ref|YP_003331544.1|vFam_1628| small capsid protein [Felid herpesvirus 1]
+gi|51557504|ref|YP_068338.1|vFam_1628| small capsid protein [Suid herpesvirus 1]

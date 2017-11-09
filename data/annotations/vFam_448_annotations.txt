@@ -1,0 +1,18 @@
+CLUSTER	448
+NUM_SEQ	10
+LENGTH	929
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	501.66
+FAMILIES	{'Herpesviridae': 10}
+GENERA	{'Percavirus': 1, 'Macavirus': 2, 'None': 1, 'Rhadinovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|321496614|ref|YP_004207899.1|vFam_448| tegument protein [Rodent herpesvirus Peru]
+gi|209976845|ref|NP_044901.2|vFam_448| tegument protein UL37 [Murid herpesvirus 4]
+gi|9628066|ref|NP_042660.1|vFam_448| tegument protein [Equid herpesvirus 2]
+gi|83642899|ref|YP_438187.1|vFam_448| ORF63 [Ovine herpesvirus 2]
+gi|10140985|ref|NP_065562.1|vFam_448| tegument protein [Alcelaphine herpesvirus 1]
+gi|9631253|ref|NP_048034.1|vFam_448| orf 63 [Ateline herpesvirus 3]
+gi|9626019|ref|NP_040265.1|vFam_448| unnamed protein product [Saimiriine herpesvirus 2]
+gi|13095640|ref|NP_076555.1|vFam_448| tegument protein [Bovine herpesvirus 4]
+gi|139472855|ref|YP_001129420.1|vFam_448| ORF63 [Human herpesvirus 8]
+gi|18653877|ref|NP_570811.1|vFam_448| tegument protein [Macacine herpesvirus 5]

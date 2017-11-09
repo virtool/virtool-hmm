@@ -1,0 +1,13 @@
+CLUSTER	1440
+NUM_SEQ	5
+LENGTH	100
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{'Adenoviridae': 1, 'Nanoviridae': 2}
+GENERA	{'Nanovirus': 2, 'Mastadenovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|51556691|ref|YP_068088.1|vFam_1440| E4 ORFB [Tree shrew adenovirus 1]
+gi|571797925|ref|YP_008997809.1|vFam_1440| U4 protein [Pea yellow stunt virus]
+gi|570033517|ref|YP_008992025.1|vFam_1440| U4 protein [Pea necrotic yellow dwarf virus]
+gi|571797907|ref|YP_008997800.1|vFam_1440| U4 protein [Black medic leafroll virus]
+gi|255961493|ref|YP_003104744.1|vFam_1440| U4 protein [Faba bean necrotic stunt virus]

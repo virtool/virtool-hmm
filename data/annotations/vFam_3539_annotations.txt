@@ -1,0 +1,12 @@
+CLUSTER	3539
+NUM_SEQ	4
+LENGTH	315
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	160.65
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'Orthopoxvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|17975076|ref|NP_536590.1|vFam_3539| B2R [Monkeypox virus Zaire-96-I-16]
+gi|20178554|ref|NP_619975.1|vFam_3539| CPXV194 protein [Cowpox virus]
+gi|113195360|ref|YP_717490.1|vFam_3539| hemagglutinin [Taterapox virus]
+gi|22164757|ref|NP_671670.1|vFam_3539| EVM151 [Ectromelia virus]

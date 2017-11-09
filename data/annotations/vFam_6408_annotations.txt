@@ -1,0 +1,10 @@
+CLUSTER	6408
+NUM_SEQ	2
+LENGTH	189
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	98.28
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|292397679|ref|YP_003517745.1|vFam_6408| ORF5 [Lymantria xylina MNPV]
+gi|9630971|ref|NP_047641.1|vFam_6408| LdOrf-5 peptide [Lymantria dispar multiple nucleopolyhedrovirus]

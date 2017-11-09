@@ -1,0 +1,33 @@
+CLUSTER	148
+NUM_SEQ	25
+LENGTH	74
+RELATIVE_ENTROPY_PER_POSITION	0.65
+TOTAL_RELATIVE_ENTROPY	48.1
+FAMILIES	{'Adenoviridae': 24, 'Poxviridae': 1}
+GENERA	{'None': 1, 'Molluscipoxvirus': 1, 'Mastadenovirus': 21, 'Atadenovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9629048|ref|NP_044067.1|vFam_148| MC116R [Molluscum contagiosum virus subtype 1]
+gi|160700563|ref|YP_001552253.1|vFam_148| unnamed protein product [Snake adenovirus 1]
+gi|56158890|ref|AP_000086.1|vFam_148| pX [Duck adenovirus A]
+gi|318065978|ref|YP_004123745.1|vFam_148| pX [Murine adenovirus 2]
+gi|46852415|ref|YP_009208.1|vFam_148| pX [Porcine adenovirus 3]
+gi|227122428|ref|YP_002822214.1|vFam_148| pX [Murine adenovirus 3]
+gi|56160686|ref|AP_000349.1|vFam_148| pX [Murine adenovirus A]
+gi|56158811|ref|AP_000030.1|vFam_148| pX [Bovine adenovirus B]
+gi|496838702|ref|YP_007518320.1|vFam_148| pX [Titi monkey adenovirus ECC-2011]
+gi|197944782|ref|YP_002213810.1|vFam_148| core protein precursor pX [Human adenovirus B]
+gi|386522696|ref|YP_006272961.1|vFam_148| Mu [Chimpanzee adenovirus Y25]
+gi|160409920|ref|YP_001551766.1|vFam_148| core protein precursor pX [Human adenovirus C]
+gi|327415383|ref|YP_004300211.1|vFam_148| unnamed protein product [Simian adenovirus 49]
+gi|56160449|ref|AP_000119.1|vFam_148| pX [Human adenovirus A]
+gi|460042650|ref|YP_007518077.1|vFam_148| pX [Simian adenovirus 20]
+gi|253761988|ref|YP_003038610.1|vFam_148| pX [Human adenovirus 54]
+gi|540155839|ref|YP_008520233.1|vFam_148| pX [Simian adenovirus 18]
+gi|9626571|ref|NP_040860.1|vFam_148| core protein precursor pX [Human adenovirus F]
+gi|61602096|ref|YP_213973.1|vFam_148| pX [Simian adenovirus 1]
+gi|52801691|ref|YP_094038.1|vFam_148| pX [Bovine adenovirus A]
+gi|56158838|ref|AP_000012.1|vFam_148| pX [Ovine adenovirus A]
+gi|56160577|ref|AP_000243.1|vFam_148| pX [Porcine adenovirus C]
+gi|51556706|ref|YP_068067.1|vFam_148| pX [Tree shrew adenovirus 1]
+gi|378554425|ref|YP_005271189.1|vFam_148| unnamed protein product [Bat adenovirus TJM]
+gi|56160965|ref|AP_000620.1|vFam_148| pX [Canine adenovirus 2]

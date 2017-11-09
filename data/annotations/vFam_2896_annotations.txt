@@ -1,0 +1,12 @@
+CLUSTER	2896
+NUM_SEQ	4
+LENGTH	224
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	114.24
+FAMILIES	{'Alloherpesviridae': 4}
+GENERA	{'Cyprinivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|282174086|ref|YP_003358188.1|vFam_2896| membrane protein ORF49 [Anguillid herpesvirus 1]
+gi|422933621|ref|YP_007003746.1|vFam_2896| membrane protein ORF83 [Cyprinid herpesvirus 1]
+gi|131840109|ref|YP_001096118.1|vFam_2896| unnamed protein product [Cyprinid herpesvirus 3]
+gi|422933847|ref|YP_007003902.1|vFam_2896| membrane protein ORF83 [Cyprinid herpesvirus 2]

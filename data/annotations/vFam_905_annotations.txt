@@ -1,0 +1,19 @@
+CLUSTER	905
+NUM_SEQ	11
+LENGTH	76
+RELATIVE_ENTROPY_PER_POSITION	0.66
+TOTAL_RELATIVE_ENTROPY	50.16
+FAMILIES	{'Herpesviridae': 11}
+GENERA	{'Macavirus': 2, 'Percavirus': 1, 'Lymphocryptovirus': 1, 'Rhadinovirus': 6, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|83642866|ref|YP_438153.1|vFam_905| ORF30 [Ovine herpesvirus 2]
+gi|10140951|ref|NP_065528.1|vFam_905| ORF30 [Alcelaphine herpesvirus 1]
+gi|9628032|ref|NP_042626.1|vFam_905| ORF 30 [Equid herpesvirus 2]
+gi|139472826|ref|YP_001129383.1|vFam_905| ORF30 [Human herpesvirus 8]
+gi|13095606|ref|NP_076522.1|vFam_905| unknown [Bovine herpesvirus 4]
+gi|18653836|ref|NP_570770.1|vFam_905| hypothetical protein MmrVgp29 [Macacine herpesvirus 5]
+gi|139424524|ref|YP_001129489.1|vFam_905| BDLF3.5 [Human herpesvirus 4 type 2]
+gi|321496581|ref|YP_004207866.1|vFam_905| hypothetical protein RHVP.30 [Rodent herpesvirus Peru]
+gi|9629571|ref|NP_044867.1|vFam_905| protein UL91 [Murid herpesvirus 4]
+gi|9631222|ref|NP_048002.1|vFam_905| orf 30 [Ateline herpesvirus 3]
+gi|9625985|ref|NP_040232.1|vFam_905| unnamed protein product [Saimiriine herpesvirus 2]

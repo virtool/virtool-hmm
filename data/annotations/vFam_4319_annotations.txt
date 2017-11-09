@@ -1,0 +1,10 @@
+CLUSTER	4319
+NUM_SEQ	2
+LENGTH	254
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	129.54
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|506498876|ref|YP_008004670.1|vFam_4319| hypothetical protein CHREV_266 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498261|ref|YP_008004058.1|vFam_4319| hypothetical protein AHEV_235 [Adoxophyes honmai entomopoxvirus 'L']

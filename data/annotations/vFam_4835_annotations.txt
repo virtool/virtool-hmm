@@ -1,0 +1,11 @@
+CLUSTER	4835
+NUM_SEQ	3
+LENGTH	66
+RELATIVE_ENTROPY_PER_POSITION	0.79
+TOTAL_RELATIVE_ENTROPY	52.14
+FAMILIES	{'Tombusviridae': 3}
+GENERA	{'Necrovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|50080147|ref|NP_758814.2|vFam_4835| 7K protein B [Beet black scorch virus]
+gi|19774248|ref|NP_608315.1|vFam_4835| 7 kDa protein [Tobacco necrosis virus D]
+gi|9629522|ref|NP_044743.1|vFam_4835| hypothetical protein [Leek white stripe virus]

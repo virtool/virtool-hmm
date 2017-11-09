@@ -1,0 +1,10 @@
+CLUSTER	4266
+NUM_SEQ	2
+LENGTH	69
+RELATIVE_ENTROPY_PER_POSITION	0.74
+TOTAL_RELATIVE_ENTROPY	51.06
+FAMILIES	{'Phycodnaviridae': 1}
+GENERA	{'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531035275|ref|YP_008436902.1|vFam_4266| hypothetical protein ps_487 [Pandoravirus salinus]
+gi|155371117|ref|YP_001426651.1|vFam_4266| hypothetical protein ATCV1_z170R [Acanthocystis turfacea Chlorella virus 1]

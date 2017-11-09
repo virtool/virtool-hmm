@@ -1,0 +1,10 @@
+CLUSTER	5783
+NUM_SEQ	2
+LENGTH	189
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	98.28
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|359946582|ref|YP_004936115.1|vFam_5783| membrane glycoprotein US3 [Cercopithecine herpesvirus 5]
+gi|356640516|ref|YP_004933958.1|vFam_5783| glycoprotein US3 [Cynomolgus macaque cytomegalovirus strain Ottawa]

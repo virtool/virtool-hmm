@@ -1,0 +1,10 @@
+CLUSTER	5980
+NUM_SEQ	2
+LENGTH	79
+RELATIVE_ENTROPY_PER_POSITION	0.65
+TOTAL_RELATIVE_ENTROPY	51.35
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|159341073|ref|YP_001542632.1|vFam_5980| hypothetical protein [Acidianus rod-shaped virus 1]
+gi|75750422|ref|YP_319834.1|vFam_5980| hypothetical protein ATV_gp03 [Acidianus two-tailed virus]

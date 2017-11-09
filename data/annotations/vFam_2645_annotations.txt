@@ -1,0 +1,10 @@
+CLUSTER	2645
+NUM_SEQ	2
+LENGTH	281
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	143.31
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441432275|ref|YP_007354317.1|vFam_2645| uridine kinase [Acanthamoeba polyphaga moumouvirus]
+gi|363540093|ref|YP_004894468.1|vFam_2645| mg417 gene product [Megavirus chiliensis]

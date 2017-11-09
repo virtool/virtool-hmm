@@ -1,0 +1,10 @@
+CLUSTER	5875
+NUM_SEQ	2
+LENGTH	326
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	169.52
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|340025759|ref|NP_048601.2|vFam_5875| M.CviAII adenine methylase [Paramecium bursaria Chlorella virus 1]
+gi|157953408|ref|YP_001498299.1|vFam_5875| hypothetical protein AR158_C217L [Paramecium bursaria Chlorella virus AR158]

@@ -1,0 +1,10 @@
+CLUSTER	5752
+NUM_SEQ	2
+LENGTH	180
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	91.8
+FAMILIES	{'None': 1, 'Malacoherpesviridae': 1}
+GENERA	{'None': 1, 'Ostreavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|410493475|ref|YP_006908673.1|vFam_5752| hypothetical protein AbHV_ORF23 [Abalone herpesvirus Victoria/AUS/2009]
+gi|48696771|ref|YP_024595.1|vFam_5752| ORF52 [Ostreid herpesvirus 1]

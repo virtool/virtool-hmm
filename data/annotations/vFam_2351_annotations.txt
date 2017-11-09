@@ -1,0 +1,13 @@
+CLUSTER	2351
+NUM_SEQ	5
+LENGTH	276
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	138.0
+FAMILIES	{'None': 1, 'Mimiviridae': 3}
+GENERA	{'Mimivirus': 2, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|526119338|ref|YP_008319241.1|vFam_2351| F-box domain [Pandoravirus dulcis]
+gi|311977497|ref|YP_003986617.1|vFam_2351| putative F-box protein [Acanthamoeba polyphaga mimivirus]
+gi|311977498|ref|YP_003986618.1|vFam_2351| putative F-box protein [Acanthamoeba polyphaga mimivirus]
+gi|448825973|ref|YP_007418904.1|vFam_2351| putative F-box protein [Megavirus lba]
+gi|363540120|ref|YP_004895011.1|vFam_2351| mg960 gene product [Megavirus chiliensis]

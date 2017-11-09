@@ -1,0 +1,12 @@
+CLUSTER	3638
+NUM_SEQ	4
+LENGTH	80
+RELATIVE_ENTROPY_PER_POSITION	0.64
+TOTAL_RELATIVE_ENTROPY	51.2
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498902|ref|YP_008004696.1|vFam_3638| hypothetical protein CHREV_292 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498312|ref|YP_008004108.1|vFam_3638| hypothetical protein CHBEV_038 [Choristoneura biennis entomopoxvirus 'L']
+gi|506498037|ref|YP_008003834.1|vFam_3638| hypothetical protein AHEV_011 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498011|ref|YP_008003810.1|vFam_3638| hypothetical protein MYSEV_293 [Mythimna separata entomopoxvirus 'L']

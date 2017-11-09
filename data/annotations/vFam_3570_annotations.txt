@@ -1,0 +1,11 @@
+CLUSTER	3570
+NUM_SEQ	3
+LENGTH	202
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	103.02
+FAMILIES	{'Tombusviridae': 3}
+GENERA	{'Necrovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9629519|ref|NP_044741.1|vFam_3570| hypothetical protein [Leek white stripe virus]
+gi|27228723|ref|NP_758811.1|vFam_3570| 22K protein [Beet black scorch virus]
+gi|19774244|ref|NP_608312.1|vFam_3570| 22 kDa protein [Tobacco necrosis virus D]

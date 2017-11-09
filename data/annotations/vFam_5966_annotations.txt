@@ -1,0 +1,10 @@
+CLUSTER	5966
+NUM_SEQ	2
+LENGTH	84
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	49.56
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498624|ref|YP_008004418.1|vFam_5966| unknown similar to AMEV073 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964387|ref|NP_064855.1|vFam_5966| hypothetical protein AMV073 [Amsacta moorei entomopoxvirus 'L']

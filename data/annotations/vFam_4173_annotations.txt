@@ -1,0 +1,11 @@
+CLUSTER	4173
+NUM_SEQ	3
+LENGTH	295
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	150.45
+FAMILIES	{'Alloherpesviridae': 1}
+GENERA	{'Batrachovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|109638670|ref|YP_656549.1|vFam_4173| ORF41 [Ranid herpesvirus 2]
+gi|531037047|ref|YP_008438689.1|vFam_4173| hypothetical protein ps_2287 [Pandoravirus salinus]
+gi|526120024|ref|YP_008319927.1|vFam_4173| hypothetical protein [Pandoravirus dulcis]

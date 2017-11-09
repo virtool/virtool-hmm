@@ -1,0 +1,11 @@
+CLUSTER	4891
+NUM_SEQ	3
+LENGTH	282
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	143.82
+FAMILIES	{'None': 2, 'Mimiviridae': 1}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|310831359|ref|YP_003970002.1|vFam_4891| hypothetical protein crov369 [Cafeteria roenbergensis virus BV-PW1]
+gi|448825806|ref|YP_007418737.1|vFam_4891| hypothetical protein LBA_00843 [Megavirus lba]
+gi|441432002|ref|YP_007354044.1|vFam_4891| cell division cycle 123 protein [Acanthamoeba polyphaga moumouvirus]

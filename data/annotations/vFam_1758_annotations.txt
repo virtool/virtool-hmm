@@ -1,0 +1,12 @@
+CLUSTER	1758
+NUM_SEQ	4
+LENGTH	166
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	84.66
+FAMILIES	{'Marseillevirus family': 3, 'Nimaviridae': 1}
+GENERA	{'None': 3, 'Whispovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|17158404|ref|NP_477824.1|vFam_1758| wsv302 [Shrimp white spot syndrome virus]
+gi|284504163|ref|YP_003406878.1|vFam_1758| hypothetical protein MAR_ORF135 [Marseillevirus]
+gi|327409591|ref|YP_004347011.1|vFam_1758| hypothetical protein LAU_0043 [Lausannevirus]
+gi|284504176|ref|YP_003406891.1|vFam_1758| hypothetical protein MAR_ORF148 [Marseillevirus]

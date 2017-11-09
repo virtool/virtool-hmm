@@ -1,0 +1,15 @@
+CLUSTER	508
+NUM_SEQ	7
+LENGTH	854
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	444.08
+FAMILIES	{'Herpesviridae': 7}
+GENERA	{'Roseolovirus': 2, 'Muromegalovirus': 1, 'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|9633099|ref|NP_050209.1|vFam_508| large ribonuclease reductase [Human herpesvirus 6B]
+gi|51874250|ref|YP_073768.1|vFam_508| ribonucleotide reductase subunit 1 [Human herpesvirus 7]
+gi|61743911|ref|YP_214057.2|vFam_508| viral inhibitor of RIP activation [Murid herpesvirus 1]
+gi|52139230|ref|YP_081503.1|vFam_508| ribonucleotide reductase subunit 1 [Human herpesvirus 5]
+gi|356640363|ref|YP_004933805.1|vFam_508| tegument protein UL45 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086532|ref|YP_004940217.1|vFam_508| ribonucleotide reductase subunit 1 [Saimiriine herpesvirus 3]
+gi|360040936|ref|YP_004940071.1|vFam_508| ribonucleotide reductase subunit 1 [Aotine herpesvirus 1]

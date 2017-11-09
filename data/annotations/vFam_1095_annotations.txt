@@ -1,0 +1,16 @@
+CLUSTER	1095
+NUM_SEQ	8
+LENGTH	404
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	206.04
+FAMILIES	{'None': 3, 'Mimiviridae': 5}
+GENERA	{'Mimivirus': 2, 'None': 6}
+FASTA SEQUENCE TITLES:
+gi|311978048|ref|YP_003987168.1|vFam_1095| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825770|ref|YP_007418701.1|vFam_1095| hypothetical protein LBA_00807 [Megavirus lba]
+gi|441432607|ref|YP_007354649.1|vFam_1095| hypothetical protein Moumou_00692 [Acanthamoeba polyphaga moumouvirus]
+gi|311978097|ref|YP_003987217.1|vFam_1095| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825190|ref|YP_007418121.1|vFam_1095| hypothetical protein LBA_00225 [Megavirus lba]
+gi|441432110|ref|YP_007354152.1|vFam_1095| PEPCTERM_chp_1[TIGR03118], uncharacterized protein conserved in bacteria [Acanthamoeba polyphaga moumouvirus]
+gi|448825764|ref|YP_007418695.1|vFam_1095| hypothetical protein LBA_00801 [Megavirus lba]
+gi|441432598|ref|YP_007354640.1|vFam_1095| hypothetical protein Moumou_00683 [Acanthamoeba polyphaga moumouvirus]

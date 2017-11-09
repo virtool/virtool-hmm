@@ -1,0 +1,10 @@
+CLUSTER	6323
+NUM_SEQ	2
+LENGTH	471
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	244.92
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159382|ref|YP_002321425.1|vFam_6323| GrBNV_gp06-like protein [Oryctes rhinoceros virus]
+gi|134303404|ref|YP_001111273.1|vFam_6323| hypothetical protein GrBNV_gp06 [Gryllus bimaculatus nudivirus]

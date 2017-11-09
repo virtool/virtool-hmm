@@ -1,0 +1,22 @@
+CLUSTER	595
+NUM_SEQ	14
+LENGTH	111
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	59.94
+FAMILIES	{'Poxviridae': 14}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Suipoxvirus': 1, 'Yatapoxvirus': 2, 'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9628989|ref|NP_044008.1|vFam_595| MC057L [Molluscum contagiosum virus subtype 1]
+gi|41057474|ref|NP_957947.1|vFam_595| ORF039 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183802|ref|YP_003457343.1|vFam_595| hypothetical protein PCPV_gp040 [Pseudocowpox virus]
+gi|41057101|ref|NP_957815.1|vFam_595| ORF039 hypothetical protein [Orf virus]
+gi|571797971|ref|YP_008658470.1|vFam_595| conserved hypothetical pox protein [Squirrelpox virus]
+gi|113195259|ref|YP_717389.1|vFam_595| IMV membrane protein [Taterapox virus]
+gi|345107246|ref|YP_004821411.1|vFam_595| essential protein [Yoka poxvirus]
+gi|377829961|ref|YP_005296255.1|vFam_595| unnamed protein product [Cotia virus SPAn232]
+gi|157939674|ref|YP_001497046.1|vFam_595| hypothetical protein TANV_51L [Tanapox virus]
+gi|38229213|ref|NP_938306.1|vFam_595| 51L [Yaba monkey tumor virus]
+gi|148912928|ref|YP_001293242.1|vFam_595| hypothetical protein GTPV_gp047 [Goatpox virus Pellor]
+gi|18640134|ref|NP_570208.1|vFam_595| SPV049 hypothetical protein [Swinepox virus]
+gi|211956331|ref|YP_002302400.1|vFam_595| hypothetical protein DpV84gp061 [Deerpox virus W-1170-84]
+gi|9633855|ref|NP_051935.1|vFam_595| gp046L [Rabbit fibroma virus]

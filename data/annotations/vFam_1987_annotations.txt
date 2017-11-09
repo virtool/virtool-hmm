@@ -1,0 +1,12 @@
+CLUSTER	1987
+NUM_SEQ	4
+LENGTH	342
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	171.0
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|157953317|ref|YP_001498208.1|vFam_1987| hypothetical protein AR158_C126L [Paramecium bursaria Chlorella virus AR158]
+gi|155371766|ref|YP_001427300.1|vFam_1987| hypothetical protein ATCV1_Z819L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370217|ref|YP_001425751.1|vFam_1987| hypothetical protein FR483_N119L [Paramecium bursaria Chlorella virus FR483]
+gi|9631663|ref|NP_048442.1|vFam_1987| beta-1-3-glucanase [Paramecium bursaria Chlorella virus 1]

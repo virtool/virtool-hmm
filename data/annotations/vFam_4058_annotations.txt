@@ -1,0 +1,11 @@
+CLUSTER	4058
+NUM_SEQ	3
+LENGTH	26
+RELATIVE_ENTROPY_PER_POSITION	2.03
+TOTAL_RELATIVE_ENTROPY	52.78
+FAMILIES	{'Secoviridae': 2}
+GENERA	{'Fabavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|25013972|ref|NP_733960.1|vFam_4058| VPg [Broad bean wilt virus 2]
+gi|564614866|ref|YP_008877668.1|vFam_4058| VPg [Lamium mild mosaic virus]
+gi|39979441|ref|NP_951028.1|vFam_4058| genome-linked protein [Broad bean wilt virus 1]

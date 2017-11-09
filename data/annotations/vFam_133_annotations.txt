@@ -1,0 +1,38 @@
+CLUSTER	133
+NUM_SEQ	30
+LENGTH	563
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	292.76
+FAMILIES	{'Baculoviridae': 24}
+GENERA	{'Betabaculovirus': 6, 'Alphabaculovirus': 18}
+FASTA SEQUENCE TITLES:
+gi|15617513|ref|NP_258310.1|vFam_133| chitinase [Spodoptera litura nucleopolyhedrovirus]
+gi|15426306|ref|NP_203597.1|vFam_133| chitinase [Helicoverpa armigera nucleopolyhedrovirus]
+gi|113195460|ref|YP_717597.1|vFam_133| chitinase [Clanis bilineata nucleopolyhedrovirus]
+gi|22549421|ref|NP_689194.1|vFam_133| chit gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209170911|ref|YP_002268057.1|vFam_133| agip27 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592740|ref|YP_529693.1|vFam_133| chitinase [Agrotis segetum nucleopolyhedrovirus]
+gi|215401413|ref|YP_002332716.1|vFam_133| chitinase [Spodoptera litura nucleopolyhedrovirus II]
+gi|125860145|ref|YP_001036314.1|vFam_133| chitinase [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|9634240|ref|NP_037779.1|vFam_133| ORF19 chitinase [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|114679904|ref|YP_758354.1|vFam_133| chitA [Leucania separata nucleopolyhedrovirus]
+gi|74229747|ref|YP_308951.1|vFam_133| chitinase [Trichoplusia ni single nucleopolyhedrovirus]
+gi|292397740|ref|YP_003517806.1|vFam_133| chitinase [Lymantria xylina MNPV]
+gi|15320767|ref|NP_203279.1|vFam_133| CHI [Epiphyas postvittana nucleopolyhedrovirus]
+gi|438000426|ref|YP_007250531.1|vFam_133| chitinase protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964629|ref|YP_950825.1|vFam_133| chitinase [Maruca vitrata nucleopolyhedrovirus]
+gi|9630926|ref|NP_047523.1|vFam_133| CHITINASE [Bombyx mori nucleopolyhedrovirus]
+gi|86355550|ref|YP_473218.1|vFam_133| Chitinase [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630062|ref|NP_046280.1|vFam_133| chitinase [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031228|ref|YP_008992124.1|vFam_133| chitinase [Choristoneura murinana alphabaculovirus]
+gi|529218111|ref|YP_008378274.1|vFam_133| chitinase [Hemileuca sp. nucleopolyhedrovirus]
+gi|118197531|ref|YP_874243.1|vFam_133| chitinase [Ectropis obliqua nucleopolyhedrovirus]
+gi|228861645|ref|YP_002854665.1|vFam_133| chitinase [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|165969034|ref|YP_001650934.1|vFam_133| chitinase [Orgyia leucostigma NPV]
+gi|285002383|ref|YP_003422447.1|vFam_133| chitinase [Pseudaletia unipuncta granulovirus]
+gi|9635353|ref|NP_059251.1|vFam_133| ORF103 [Xestia c-nigrum granulovirus]
+gi|46309422|ref|YP_006312.1|vFam_133| ORF32 [Agrotis segetum granulovirus]
+gi|410493602|ref|YP_006908540.1|vFam_133| chitinase [Epinotia aporema granulovirus]
+gi|14602251|ref|NP_148794.1|vFam_133| ORF10 chitinase [Cydia pomonella granulovirus]
+gi|556549043|ref|YP_008719957.1|vFam_133| chitinase [Clostera anastomosis granulovirus]
+gi|288804649|ref|YP_003429334.1|vFam_133| chitinase [Pieris rapae granulovirus]

@@ -1,0 +1,25 @@
+CLUSTER	384
+NUM_SEQ	17
+LENGTH	224
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	114.24
+FAMILIES	{'Baculoviridae': 14}
+GENERA	{'Alphabaculovirus': 14}
+FASTA SEQUENCE TITLES:
+gi|113195526|ref|YP_717665.1|vFam_384| Se29-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|292397802|ref|YP_003517868.1|vFam_384| ORF128 [Lymantria xylina MNPV]
+gi|9631095|ref|NP_047765.1|vFam_384| LdOrf-128 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|114679989|ref|YP_758439.1|vFam_384| ORF142 [Leucania separata nucleopolyhedrovirus]
+gi|15617587|ref|NP_258387.1|vFam_384| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|402502119|ref|YP_006607777.1|vFam_384| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|118197601|ref|YP_874313.1|vFam_384| hypothetical protein EONV_gp120 [Ectropis obliqua nucleopolyhedrovirus]
+gi|529218184|ref|YP_008378347.1|vFam_384| ac17 [Hemileuca sp. nucleopolyhedrovirus]
+gi|228861722|ref|YP_002854742.1|vFam_384| BV-ec31 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|209978891|ref|YP_002300634.1|vFam_384| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|29567205|ref|NP_818767.1|vFam_384| hypothetical protein AhnVgp120 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|125860151|ref|YP_001036320.1|vFam_384| hypothetical protein SFMNPV_gp028 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401424|ref|YP_002332727.1|vFam_384| hypothetical protein SlnV2_gp029 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634250|ref|NP_037789.1|vFam_384| ORF29 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|215401267|ref|YP_002332571.1|vFam_384| hypothetical protein HaMNV_gp035 [Helicoverpa armigera multiple nucleopolyhedrovirus]
+gi|209170918|ref|YP_002268064.1|vFam_384| agip34 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592747|ref|YP_529700.1|vFam_384| ORF-30 [Agrotis segetum nucleopolyhedrovirus]

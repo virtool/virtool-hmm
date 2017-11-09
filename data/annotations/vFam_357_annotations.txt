@@ -1,0 +1,26 @@
+CLUSTER	357
+NUM_SEQ	18
+LENGTH	175
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	91.0
+FAMILIES	{'Luteoviridae': 17}
+GENERA	{'Luteovirus': 1, 'Polerovirus': 16}
+FASTA SEQUENCE TITLES:
+gi|9632983|ref|NP_050009.1|vFam_357| putative movement protein p17 [Sugarcane yellow leaf virus]
+gi|51980900|ref|YP_077190.1|vFam_357| movement protein [Carrot red leaf virus]
+gi|512721880|ref|YP_008083743.1|vFam_357| P4 [Maize yellow dwarf virus-RMV]
+gi|321958374|ref|YP_004207920.1|vFam_357| putative P4 protein [Pepper vein yellows virus]
+gi|189009860|ref|YP_001931934.1|vFam_357| putative MP protein [Tobacco vein distorting virus]
+gi|15150438|ref|NP_150433.1|vFam_357| movement protein [Soybean dwarf virus]
+gi|9629165|ref|NP_056750.1|vFam_357| putative genome-linked protein [Potato leafroll virus]
+gi|253729535|ref|YP_003029842.1|vFam_357| cell-to-cell movement protein [Wheat yellow dwarf virus-GPV]
+gi|30146802|ref|NP_840024.1|vFam_357| putative movement protein P4 [Cereal yellow dwarf virus-RPV]
+gi|9634966|ref|NP_054689.1|vFam_357| putative movement protein P4 [Cereal yellow dwarf virus-RPS]
+gi|308125290|ref|YP_003915152.1|vFam_357| P4 protein [Cotton leafroll dwarf virus]
+gi|348020290|ref|YP_004869994.1|vFam_357| movement protein [Brassica yellows virus]
+gi|30248022|ref|NP_840100.1|vFam_357| putative movement protein [Beet western yellows virus]
+gi|19881393|ref|NP_612217.1|vFam_357| hypothetical protein P5 [Beet mild yellowing virus]
+gi|110645397|ref|YP_667842.1|vFam_357| movement protein [Chickpea chlorotic stunt virus]
+gi|20260791|ref|NP_620105.1|vFam_357| hypothetical protein P5 [Cucurbit aphid-borne yellows virus]
+gi|404184173|ref|YP_006666510.1|vFam_357| P4 [Suakwa aphid-borne yellows virus]
+gi|189418882|ref|YP_001949874.1|vFam_357| movement protein [Melon aphid-borne yellows virus]

@@ -1,0 +1,10 @@
+CLUSTER	5660
+NUM_SEQ	2
+LENGTH	284
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	144.84
+FAMILIES	{'Bromoviridae': 2}
+GENERA	{'Ilarvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|148717840|ref|YP_001285480.1|vFam_5660| movement protein [Citrus variegation virus]
+gi|20087060|ref|NP_613279.1|vFam_5660| movement protein [Citrus leaf rugose virus]

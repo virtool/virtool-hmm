@@ -1,0 +1,12 @@
+CLUSTER	1416
+NUM_SEQ	4
+LENGTH	641
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	333.32
+FAMILIES	{'Reoviridae': 4}
+GENERA	{'Orthoreovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|459014598|ref|YP_007507321.1|vFam_1416| nonstructural protein [Melaka orthoreovirus]
+gi|323714224|ref|YP_004226526.1|vFam_1416| mu-NS protein [Avian orthoreovirus]
+gi|343098556|ref|YP_004769552.1|vFam_1416| major nonstructural protein [Baboon orthoreovirus]
+gi|298200991|ref|YP_003717776.1|vFam_1416| mu-class non-structural protein [Broome virus]

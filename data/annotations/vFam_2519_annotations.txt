@@ -1,0 +1,11 @@
+CLUSTER	2519
+NUM_SEQ	3
+LENGTH	358
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	186.16
+FAMILIES	{'Parvoviridae': 3}
+GENERA	{'Brevidensovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|312460625|ref|NP_694829.2|vFam_2519| coat protein VP1/VP2 [Aedes albopictus densovirus]
+gi|322688189|ref|YP_004222725.1|vFam_2519| capsid protein [Mosquito densovirus BR/07]
+gi|229342014|ref|YP_002854231.1|vFam_2519| capsid protein [Aedes aegypti densovirus]

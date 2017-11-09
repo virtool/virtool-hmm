@@ -1,0 +1,12 @@
+CLUSTER	3690
+NUM_SEQ	4
+LENGTH	113
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	58.76
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'None': 2, 'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313768232|ref|YP_004061912.1|vFam_3690| hypothetical protein MpV1_029c [Micromonas sp. RCC1109 virus MpV1]
+gi|313844008|ref|YP_004061671.1|vFam_3690| hypothetical protein OlV1_038c [Ostreococcus lucimarinus virus OlV1]
+gi|314055121|ref|YP_004063459.1|vFam_3690| hypothetical protein OtV2-026 [Ostreococcus tauri virus 2]
+gi|163955005|ref|YP_001648109.1|vFam_3690| hypothetical protein OsV5_032r [Ostreococcus virus OsV5]

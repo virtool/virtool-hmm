@@ -1,0 +1,12 @@
+CLUSTER	2628
+NUM_SEQ	4
+LENGTH	738
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	383.76
+FAMILIES	{'Alloherpesviridae': 4}
+GENERA	{'Cyprinivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|387866122|ref|YP_003358239.2|vFam_2628| protein Allo37 [Anguillid herpesvirus 1]
+gi|422933628|ref|YP_007003753.1|vFam_2628| protein Allo37 [Cyprinid herpesvirus 1]
+gi|422933854|ref|YP_007003909.1|vFam_2628| protein Allo37 [Cyprinid herpesvirus 2]
+gi|131840116|ref|YP_001096125.1|vFam_2628| unnamed protein product [Cyprinid herpesvirus 3]

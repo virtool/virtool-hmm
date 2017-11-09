@@ -1,0 +1,20 @@
+CLUSTER	766
+NUM_SEQ	12
+LENGTH	99
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	51.48
+FAMILIES	{'Picornaviridae': 10}
+GENERA	{'Enterovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|25121812|ref|NP_740531.1|vFam_766| 2B [Enterovirus A]
+gi|27262070|ref|NP_758535.1|vFam_766| 2B [Enterovirus G]
+gi|25121856|ref|NP_740520.1|vFam_766| 2B (P2-B) [Human rhinovirus B14]
+gi|24231948|ref|NP_714934.1|vFam_766| putative 2B [Enterovirus H]
+gi|25121844|ref|NP_740472.1|vFam_766| protein 2B [Enterovirus C]
+gi|25121928|ref|NP_740417.1|vFam_766| protein 2B [Enterovirus D]
+gi|25121587|ref|NP_740450.1|vFam_766| 2B [Enterovirus E]
+gi|25121823|ref|NP_740542.1|vFam_766| 2B [Enterovirus B]
+gi|282598700|ref|YP_003359171.1|vFam_766| 2B [Enterovirus J]
+gi|169798144|ref|YP_001718581.1|vFam_766| 2B [Enterovirus J]
+gi|160700588|ref|YP_001552437.1|vFam_766| 2B [Rhinovirus C]
+gi|25121646|ref|NP_740396.1|vFam_766| P2-B polypeptide [Rhinovirus A]

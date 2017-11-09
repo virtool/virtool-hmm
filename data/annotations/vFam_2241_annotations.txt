@@ -1,0 +1,12 @@
+CLUSTER	2241
+NUM_SEQ	4
+LENGTH	280
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	145.6
+FAMILIES	{'Potyviridae': 4}
+GENERA	{'Tritimovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|25013904|ref|NP_734255.1|vFam_2241| P3 protein [Brome streak mosaic virus]
+gi|157265287|ref|YP_001468090.1|vFam_2241| p3 [Wheat eqlid mosaic virus]
+gi|38304203|ref|NP_940824.1|vFam_2241| P3 protein [Oat necrotic mottle virus]
+gi|25013801|ref|NP_734267.1|vFam_2241| P3 protein [Wheat streak mosaic virus]

@@ -1,0 +1,29 @@
+CLUSTER	146
+NUM_SEQ	21
+LENGTH	1129
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	598.37
+FAMILIES	{'Herpesviridae': 21}
+GENERA	{'None': 2, 'Muromegalovirus': 1, 'Cytomegalovirus': 4, 'Macavirus': 2, 'Roseolovirus': 2, 'Proboscivirus': 1, 'Rhadinovirus': 6, 'Lymphocryptovirus': 2, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|321496561|ref|YP_004207846.1|vFam_146| single-stranded DNA binding protein [Rodent herpesvirus Peru]
+gi|9629557|ref|NP_044846.1|vFam_146| single-stranded DNA-binding protein [Murid herpesvirus 4]
+gi|24943092|ref|NP_733854.1|vFam_146| ORF2 [callitrichine herpesvirus 3]
+gi|51518084|ref|YP_068012.1|vFam_146| BALF2 [Macacine herpesvirus 4]
+gi|83642846|ref|YP_438133.1|vFam_146| ORF6 [Ovine herpesvirus 2]
+gi|10140932|ref|NP_065509.1|vFam_146| major ss DNA binding protein [Alcelaphine herpesvirus 1]
+gi|9628008|ref|NP_042602.1|vFam_146| single-stranded DNA binding protein [Equid herpesvirus 2]
+gi|139472807|ref|YP_001129352.1|vFam_146| ORF6 [Human herpesvirus 8]
+gi|18653813|ref|NP_570747.1|vFam_146| ssDNA binding protein [Macacine herpesvirus 5]
+gi|13095583|ref|NP_076498.1|vFam_146| single-stranded DNA-binding protein MDBP [Bovine herpesvirus 4]
+gi|9631197|ref|NP_047980.1|vFam_146| major ssDNA binding protein [Ateline herpesvirus 3]
+gi|9625962|ref|NP_040208.1|vFam_146| major ssDNA-binding protein [Saimiriine herpesvirus 2]
+gi|496991137|ref|YP_007969817.1|vFam_146| single-stranded DNA-binding protein [Elephantid herpesvirus 1]
+gi|425707267|ref|YP_007016464.1|vFam_146| E57 [Murid herpesvirus 8]
+gi|14251049|ref|NP_116411.1|vFam_146| T57 [Tupaiid herpesvirus 1]
+gi|356640384|ref|YP_004933826.1|vFam_146| protein UL57 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086545|ref|YP_004940230.1|vFam_146| single-stranded DNA-binding protein [Saimiriine herpesvirus 3]
+gi|360040949|ref|YP_004940084.1|vFam_146| single-stranded DNA-binding protein [Aotine herpesvirus 1]
+gi|538447240|ref|YP_008492980.1|vFam_146| single-stranded DNA-binding protein [Porcine cytomegalovirus]
+gi|9633112|ref|NP_050222.1|vFam_146| major DNA binding protein [Human herpesvirus 6B]
+gi|51874263|ref|YP_073781.1|vFam_146| single-stranded DNA-binding protein [Human herpesvirus 7]

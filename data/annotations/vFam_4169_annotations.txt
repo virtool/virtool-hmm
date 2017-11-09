@@ -1,0 +1,10 @@
+CLUSTER	4169
+NUM_SEQ	2
+LENGTH	173
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	84.77
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035653|ref|YP_008437286.1|vFam_4169| hypothetical protein ps_874 [Pandoravirus salinus]
+gi|526119088|ref|YP_008318991.1|vFam_4169| hypothetical protein [Pandoravirus dulcis]

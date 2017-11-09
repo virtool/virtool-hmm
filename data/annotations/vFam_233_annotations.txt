@@ -1,0 +1,12 @@
+CLUSTER	233
+NUM_SEQ	4
+LENGTH	330
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	165.0
+FAMILIES	{'Phycodnaviridae': 3, 'Poxviridae': 1}
+GENERA	{'Prymnesiovirus': 1, 'Phaeovirus': 2, 'Yatapoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|157939630|ref|YP_001497002.1|vFam_233| ankyrin repeat protein [Tanapox virus]
+gi|508181812|ref|YP_008052331.1|vFam_233| ankyrin repeat-containing protein [Phaeocystis globosa virus]
+gi|197322458|ref|YP_002154731.1|vFam_233| putative ubiquitin ligase/ankyrin repeat protein [Feldmannia species virus]
+gi|13242627|ref|NP_077642.1|vFam_233| EsV-1-157 [Ectocarpus siliculosus virus 1]

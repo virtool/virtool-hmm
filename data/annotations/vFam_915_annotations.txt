@@ -1,0 +1,18 @@
+CLUSTER	915
+NUM_SEQ	10
+LENGTH	171
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	87.21
+FAMILIES	{'Caulimoviridae': 10}
+GENERA	{'Caulimovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|9628902|ref|NP_043930.1|vFam_915| hypothetical protein [Strawberry vein banding virus]
+gi|406356617|ref|YP_006732331.1|vFam_915| insect transmission protein factor [Dahlia mosaic virus]
+gi|21450045|ref|NP_659394.1|vFam_915| hypothetical protein [Mirabilis mosaic virus]
+gi|402502232|ref|YP_006607889.1|vFam_915| aphid transmission factor [Soybean Putnam virus]
+gi|19919891|ref|NP_612574.1|vFam_915| Aphid transmission protein [Carnation etched ring virus]
+gi|189009864|ref|YP_001931958.1|vFam_915| aphid transmission factor [Lamium leaf distortion virus]
+gi|410492644|ref|YP_006907831.1|vFam_915| insect transmission protein factor [Horseradish latent virus]
+gi|9626940|ref|NP_056725.1|vFam_915| Aphid transmission protein [Cauliflower mosaic virus]
+gi|189009871|ref|YP_001931964.1|vFam_915| aphid transmission factor [Eupatorium vein clearing virus]
+gi|20143426|ref|NP_619545.1|vFam_915| Aphid transmission protein [Figwort mosaic virus]

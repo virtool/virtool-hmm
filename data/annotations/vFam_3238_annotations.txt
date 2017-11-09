@@ -1,0 +1,11 @@
+CLUSTER	3238
+NUM_SEQ	3
+LENGTH	208
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	106.08
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|422933633|ref|YP_007003758.1|vFam_3238| protein ORF95 [Cyprinid herpesvirus 1]
+gi|422933859|ref|YP_007003914.1|vFam_3238| protein ORF95 [Cyprinid herpesvirus 2]
+gi|131840121|ref|YP_001096130.1|vFam_3238| unnamed protein product [Cyprinid herpesvirus 3]

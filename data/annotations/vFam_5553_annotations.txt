@@ -1,0 +1,10 @@
+CLUSTER	5553
+NUM_SEQ	2
+LENGTH	55
+RELATIVE_ENTROPY_PER_POSITION	0.94
+TOTAL_RELATIVE_ENTROPY	51.7
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|237643557|ref|YP_002884247.1|vFam_5553| Boma7a [Bombyx mandarina nucleopolyhedrovirus]
+gi|114680069|ref|YP_758482.1|vFam_5553| hypothetical protein PXMNV_gp016 [Plutella xylostella multiple nucleopolyhedrovirus]

@@ -1,0 +1,11 @@
+CLUSTER	2708
+NUM_SEQ	3
+LENGTH	233
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	118.83
+FAMILIES	{'Reoviridae': 3}
+GENERA	{'Aquareovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|81157820|ref|YP_398638.1|vFam_2708| putative non-structural protein ns3 [Aquareovirus A]
+gi|182682798|ref|YP_001837105.1|vFam_2708| NS26 [American grass carp reovirus]
+gi|38147322|ref|NP_938071.1|vFam_2708| non-structural protein NS3 [Aquareovirus C]

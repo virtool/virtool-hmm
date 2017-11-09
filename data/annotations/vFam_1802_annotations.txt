@@ -1,0 +1,14 @@
+CLUSTER	1802
+NUM_SEQ	6
+LENGTH	99
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	53.46
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|159341063|ref|YP_001542622.1|vFam_1802| hypothetical protein [Acidianus rod-shaped virus 1]
+gi|270281763|ref|YP_003331423.1|vFam_1802| hypothetical protein [Acidianus spindle-shaped virus 1]
+gi|9625532|ref|NP_039789.1|vFam_1802| similar to succinate dehydrogenase [Sulfolobus spindle-shaped virus 1]
+gi|42495073|ref|NP_963982.1|vFam_1802| ORF C96 [Sulfolobus virus Kamchatka 1]
+gi|270281836|ref|YP_003331501.1|vFam_1802| hypothetical protein SSSV7_gp18 [Sulfolobus spindle-shaped virus 7]
+gi|270281803|ref|YP_003331468.1|vFam_1802| hypothetical protein SSSV6_gp18 [Sulfolobus spindle-shaped virus 6]

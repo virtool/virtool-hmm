@@ -1,0 +1,30 @@
+CLUSTER	166
+NUM_SEQ	22
+LENGTH	461
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	244.33
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035045|ref|YP_008436670.1|vFam_166| fascin-like domain motif-containing [Pandoravirus salinus]
+gi|531035727|ref|YP_008437361.1|vFam_166| fascin-like domain [Pandoravirus salinus]
+gi|526119416|ref|YP_008319319.1|vFam_166| fascin-like domain [Pandoravirus dulcis]
+gi|526119732|ref|YP_008319635.1|vFam_166| frg1-like motif-containing [Pandoravirus dulcis]
+gi|531036456|ref|YP_008438093.1|vFam_166| fascin-like domain motif-containing [Pandoravirus salinus]
+gi|526119734|ref|YP_008319637.1|vFam_166| fascin-like domain [Pandoravirus dulcis]
+gi|531036386|ref|YP_008438023.1|vFam_166| hypothetical protein ps_1617 [Pandoravirus salinus]
+gi|531036458|ref|YP_008438095.1|vFam_166| fascin-like domain motif-containing [Pandoravirus salinus]
+gi|526119737|ref|YP_008319640.1|vFam_166| fascin-like domain motif-containing [Pandoravirus dulcis]
+gi|531036463|ref|YP_008438100.1|vFam_166| fascin-like domain motif-containing [Pandoravirus salinus]
+gi|531036464|ref|YP_008438101.1|vFam_166| fascin-like domain motif-containing [Pandoravirus salinus]
+gi|531035042|ref|YP_008436667.1|vFam_166| fascin-like domain motif-containing [Pandoravirus salinus]
+gi|531036744|ref|YP_008438383.1|vFam_166| fascin-like domain motif-containing [Pandoravirus salinus]
+gi|526119801|ref|YP_008319704.1|vFam_166| fascin-like domain motif-containing [Pandoravirus dulcis]
+gi|531035972|ref|YP_008437607.1|vFam_166| fascin-like domain [Pandoravirus salinus]
+gi|531036770|ref|YP_008438409.1|vFam_166| fascin-like domain motif-containing [Pandoravirus salinus]
+gi|526119023|ref|YP_008318926.1|vFam_166| frg1-like motif-containing [Pandoravirus dulcis]
+gi|531036773|ref|YP_008438412.1|vFam_166| fascin-like domain [Pandoravirus salinus]
+gi|526119824|ref|YP_008319727.1|vFam_166| fascin-like domain [Pandoravirus dulcis]
+gi|526119798|ref|YP_008319701.1|vFam_166| peroxidase [Pandoravirus dulcis]
+gi|526119750|ref|YP_008319653.1|vFam_166| peroxidase [Pandoravirus dulcis]
+gi|526119749|ref|YP_008319652.1|vFam_166| peroxidase [Pandoravirus dulcis]

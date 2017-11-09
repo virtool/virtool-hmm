@@ -1,0 +1,10 @@
+CLUSTER	3121
+NUM_SEQ	2
+LENGTH	129
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	64.5
+FAMILIES	{'Alloherpesviridae': 1, 'Herpesviridae': 1}
+GENERA	{'Cytomegalovirus': 1, 'Ictalurivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9626863|ref|NP_041133.1|vFam_3121| ORF42 [Ictalurid herpesvirus 1]
+gi|356640387|ref|YP_004933829.1|vFam_3121| hypothetical protein cy93 [Cynomolgus macaque cytomegalovirus strain Ottawa]

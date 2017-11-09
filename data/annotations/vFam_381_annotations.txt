@@ -1,0 +1,17 @@
+CLUSTER	381
+NUM_SEQ	9
+LENGTH	554
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	282.54
+FAMILIES	{'Herpesviridae': 9}
+GENERA	{'None': 2, 'Muromegalovirus': 1, 'Cytomegalovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|425707282|ref|YP_007016479.1|vFam_381| E82 [Murid herpesvirus 8]
+gi|360086560|ref|YP_004940245.1|vFam_381| tegument protein pp71 [Saimiriine herpesvirus 3]
+gi|360040964|ref|YP_004940099.1|vFam_381| tegument protein pp71 [Aotine herpesvirus 1]
+gi|52139255|ref|YP_081530.1|vFam_381| tegument protein pp71 [Human herpesvirus 5]
+gi|20026673|ref|NP_612715.1|vFam_381| tegument protein pp71 [Panine herpesvirus 2]
+gi|359946515|ref|YP_004936048.1|vFam_381| tegument protein pp71 [Cercopithecine herpesvirus 5]
+gi|356640405|ref|YP_004933847.1|vFam_381| tegument phosphoprotein UL82 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|448824917|ref|YP_007417849.1|vFam_381| GP83 [Caviid herpesvirus 2]
+gi|448824916|ref|YP_007417848.1|vFam_381| GP82 [Caviid herpesvirus 2]

@@ -1,0 +1,10 @@
+CLUSTER	4170
+NUM_SEQ	2
+LENGTH	105
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	52.5
+FAMILIES	{'Nimaviridae': 1}
+GENERA	{'Whispovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531037060|ref|YP_008438702.1|vFam_4170| hypothetical protein ps_2300 [Pandoravirus salinus]
+gi|17158257|ref|NP_477675.1|vFam_4170| wsv153 [Shrimp white spot syndrome virus]

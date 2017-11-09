@@ -1,0 +1,10 @@
+CLUSTER	4622
+NUM_SEQ	2
+LENGTH	67
+RELATIVE_ENTROPY_PER_POSITION	0.75
+TOTAL_RELATIVE_ENTROPY	50.25
+FAMILIES	{'Phycodnaviridae': 1, 'Nimaviridae': 1}
+GENERA	{'Chlorovirus': 1, 'Whispovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|17158381|ref|NP_477800.1|vFam_4622| wsv278 [Shrimp white spot syndrome virus]
+gi|9631643|ref|NP_048422.1|vFam_4622| hypothetical protein [Paramecium bursaria Chlorella virus 1]

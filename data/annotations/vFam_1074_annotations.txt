@@ -1,0 +1,16 @@
+CLUSTER	1074
+NUM_SEQ	8
+LENGTH	121
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	64.13
+FAMILIES	{'Geminiviridae': 7}
+GENERA	{'Curtovirus': 2, 'Begomovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|310288308|ref|YP_003966138.1|vFam_1074| cell cycle regulator [Spinach severe curly top virus]
+gi|10257479|ref|NP_066186.1|vFam_1074| hypothetical protein [Horseradish curly top virus]
+gi|372199583|ref|YP_004958228.1|vFam_1074| AC4 gene product [Abutilon mosaic Brazil virus]
+gi|302425261|ref|YP_003828908.1|vFam_1074| AC4 [Melon chlorotic mosaic virus]
+gi|449147319|ref|YP_007438889.1|vFam_1074| AC4 [Tomato rugose yellow leaf curl virus]
+gi|19919901|ref|NP_612598.1|vFam_1074| AC4 [Bean calico mosaic virus]
+gi|530323616|ref|YP_008400132.1|vFam_1074| AC4 protein [Capraria yellow spot Yucatan virus]
+gi|20806020|ref|NP_620888.1|vFam_1074| AC4 [Cabbage leaf curl virus]

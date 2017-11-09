@@ -1,0 +1,12 @@
+CLUSTER	2234
+NUM_SEQ	4
+LENGTH	518
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	264.18
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Iridovirus': 2, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15079150|ref|NP_149902.1|vFam_2234| 439L [Invertebrate iridescent virus 6]
+gi|109287976|ref|YP_654670.1|vFam_2234| hypothetical protein MIV098L [Invertebrate iridescent virus 3]
+gi|527333629|ref|YP_008357413.1|vFam_2234| tyrosine kinase [Invertebrate iridovirus 22]
+gi|339906044|ref|YP_004732841.1|vFam_2234| hypothetical protein WIV_gp058 [Wiseana iridescent virus]

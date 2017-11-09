@@ -1,0 +1,10 @@
+CLUSTER	5690
+NUM_SEQ	2
+LENGTH	134
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	68.34
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Coccolithovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|209968056|ref|YP_002296231.1|vFam_5690| putative membrane protein [Emiliania huxleyi virus 86]
+gi|73852786|ref|YP_294070.1|vFam_5690| hypothetical protein EhV312 [Emiliania huxleyi virus 86]

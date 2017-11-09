@@ -1,0 +1,11 @@
+CLUSTER	3584
+NUM_SEQ	3
+LENGTH	207
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	107.64
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|359946456|ref|YP_004935988.1|vFam_3584| membrane protein RL11R [Cercopithecine herpesvirus 5]
+gi|356640314|ref|YP_004933756.1|vFam_3584| hypothetical protein cy23 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556488|ref|YP_068122.1|vFam_3584| rh28 [Macacine herpesvirus 3]

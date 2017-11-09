@@ -1,0 +1,10 @@
+CLUSTER	4269
+NUM_SEQ	2
+LENGTH	367
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	187.17
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|360086599|ref|YP_004940284.1|vFam_4269| membrane protein A22 [Saimiriine herpesvirus 3]
+gi|360041015|ref|YP_004940139.1|vFam_4269| membrane protein A22B [Aotine herpesvirus 1]

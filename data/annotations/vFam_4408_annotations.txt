@@ -1,0 +1,11 @@
+CLUSTER	4408
+NUM_SEQ	3
+LENGTH	346
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	183.38
+FAMILIES	{'Partitiviridae': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|167832336|ref|YP_001686785.1|vFam_4408| unknown [Raphanus sativus cryptic virus 2]
+gi|167832344|ref|YP_001686788.1|vFam_4408| putative coat protein [Rose cryptic virus 1]
+gi|148641521|ref|YP_001274392.1|vFam_4408| putative coat protein [Fragaria chiloensis cryptic virus]

@@ -1,0 +1,12 @@
+CLUSTER	1591
+NUM_SEQ	4
+LENGTH	182
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	94.64
+FAMILIES	{'None': 1, 'Baculoviridae': 3}
+GENERA	{'None': 1, 'Gammabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|310831101|ref|YP_003969744.1|vFam_1591| putative tRNA 2-phosphotransferase [Cafeteria roenbergensis virus BV-PW1]
+gi|48843624|ref|YP_025197.1|vFam_1591| hypothetical protein NeseNPV_gp90 [Neodiprion sertifer nucleopolyhedrovirus]
+gi|48843718|ref|YP_025290.1|vFam_1591| unknown [Neodiprion lecontei nucleopolyhedrovirus]
+gi|110645302|ref|YP_667941.1|vFam_1591| hypothetical protein [Neodiprion abietis NPV]

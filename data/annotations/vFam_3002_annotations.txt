@@ -1,0 +1,12 @@
+CLUSTER	3002
+NUM_SEQ	4
+LENGTH	189
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	94.5
+FAMILIES	{'Herpesviridae': 1, 'Secoviridae': 2, 'Alloherpesviridae': 1}
+GENERA	{'Muromegalovirus': 1, 'Batrachovirus': 1, 'Waikavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|425707268|ref|YP_007016465.1|vFam_3002| ORF 4 [Murid herpesvirus 8]
+gi|109638576|ref|YP_656751.1|vFam_3002| ORF96 [Ranid herpesvirus 1]
+gi|25013930|ref|NP_734452.1|vFam_3002| coat protein 3 [Maize chlorotic dwarf virus]
+gi|25013844|ref|NP_734459.1|vFam_3002| coat protein 2 [Rice tungro spherical virus]

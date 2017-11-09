@@ -1,0 +1,15 @@
+CLUSTER	985
+NUM_SEQ	7
+LENGTH	467
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	233.5
+FAMILIES	{'Phycodnaviridae': 6}
+GENERA	{'None': 2, 'Prymnesiovirus': 2, 'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|526118816|ref|YP_008318719.1|vFam_985| hypothetical protein [Pandoravirus dulcis]
+gi|508182206|ref|YP_008052725.1|vFam_985| 2-polyprenylphenol 6-hydroxylase [Phaeocystis globosa virus]
+gi|508182100|ref|YP_008052619.1|vFam_985| 2-polyprenylphenol 6-hydroxylase [Phaeocystis globosa virus]
+gi|313768046|ref|YP_004061477.1|vFam_985| hypothetical protein BpV1_047c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768261|ref|YP_004061941.1|vFam_985| hypothetical protein MpV1_058c [Micromonas sp. RCC1109 virus MpV1]
+gi|260665929|ref|YP_003212883.1|vFam_985| hypothetical protein H665_p059 [Ostreococcus tauri virus 1]
+gi|314055147|ref|YP_004063485.1|vFam_985| putative ABC-1 domain protein [Ostreococcus tauri virus 2]

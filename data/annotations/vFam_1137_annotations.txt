@@ -1,0 +1,15 @@
+CLUSTER	1137
+NUM_SEQ	7
+LENGTH	411
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	209.61
+FAMILIES	{'None': 3, 'Mimiviridae': 4}
+GENERA	{'None': 6, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448826114|ref|YP_007419045.1|vFam_1137| collagen-like protein [Megavirus lba]
+gi|363539890|ref|YP_004895147.1|vFam_1137| mg1096 gene product [Megavirus chiliensis]
+gi|363540006|ref|YP_004894887.1|vFam_1137| mg836 gene product [Megavirus chiliensis]
+gi|448826009|ref|YP_007418940.1|vFam_1137| collagen-like protein [Megavirus lba]
+gi|448825836|ref|YP_007418767.1|vFam_1137| collagen-like protein [Megavirus lba]
+gi|441432198|ref|YP_007354240.1|vFam_1137| collagen repeat protein [Acanthamoeba polyphaga moumouvirus]
+gi|311977614|ref|YP_003986734.1|vFam_1137| putative collagenous domain-containing protein [Acanthamoeba polyphaga mimivirus]

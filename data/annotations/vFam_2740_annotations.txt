@@ -1,0 +1,13 @@
+CLUSTER	2740
+NUM_SEQ	5
+LENGTH	111
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	55.5
+FAMILIES	{'Phycodnaviridae': 5}
+GENERA	{'Prymnesiovirus': 1, 'Chlorovirus': 3, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182231|ref|YP_008052750.1|vFam_2740| hypothetical protein PGCG_00439 [Phaeocystis globosa virus]
+gi|73852937|ref|YP_294221.1|vFam_2740| hypothetical protein EhV463 [Emiliania huxleyi virus 86]
+gi|155371066|ref|YP_001426600.1|vFam_2740| hypothetical protein ATCV1_Z119L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370875|ref|YP_001426409.1|vFam_2740| hypothetical protein FR483_N777L [Paramecium bursaria Chlorella virus FR483]
+gi|9631749|ref|NP_048528.1|vFam_2740| hypothetical protein [Paramecium bursaria Chlorella virus 1]

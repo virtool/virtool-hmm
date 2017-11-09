@@ -1,0 +1,11 @@
+CLUSTER	1898
+NUM_SEQ	3
+LENGTH	567
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	289.17
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|282174057|ref|YP_003358159.1|vFam_1898| protein ORF20 [Anguillid herpesvirus 1]
+gi|422933815|ref|YP_007003866.1|vFam_1898| protein ORF45 [Cyprinid herpesvirus 2]
+gi|422933586|ref|YP_007003711.1|vFam_1898| protein ORF45 [Cyprinid herpesvirus 1]

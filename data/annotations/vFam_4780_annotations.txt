@@ -1,0 +1,10 @@
+CLUSTER	4780
+NUM_SEQ	2
+LENGTH	238
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	119.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|56693019|ref|YP_164363.1|vFam_4780| hypothetical protein TTSV1_gp22 [Thermoproteus tenax spherical virus 1]
+gi|47131166|ref|YP_015532.1|vFam_4780| hypothetical protein PyrSV_gp11 [Pyrobaculum spherical virus]

@@ -1,0 +1,12 @@
+CLUSTER	898
+NUM_SEQ	4
+LENGTH	100
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	52.0
+FAMILIES	{'Phycodnaviridae': 1, 'Polydnaviridae': 1}
+GENERA	{'Bracovirus': 1, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|57659368|ref|YP_184830.1|vFam_898| hypothetical protein CcBV_15.3 [Cotesia congregata bracovirus]
+gi|155371411|ref|YP_001426945.1|vFam_898| hypothetical protein ATCV1_z464L [Acanthocystis turfacea Chlorella virus 1]
+gi|146411822|ref|YP_001210315.1|vFam_898| hypothetical protein ABV_gp11 [Acidianus bottle-shaped virus]
+gi|526118721|ref|YP_008318624.1|vFam_898| hypothetical protein [Pandoravirus dulcis]

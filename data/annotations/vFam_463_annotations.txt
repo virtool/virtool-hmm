@@ -1,0 +1,14 @@
+CLUSTER	463
+NUM_SEQ	6
+LENGTH	598
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	304.98
+FAMILIES	{'Parvoviridae': 5}
+GENERA	{'Pefudensovirus': 4, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|33235704|ref|NP_874380.1|vFam_463| Orf1 [Blattella germanica densovirus]
+gi|9633611|ref|NP_051017.1|vFam_463| structural protein [Periplaneta fuliginosa densovirus]
+gi|33235702|ref|NP_874377.1|vFam_463| putative structural protein [Myzus persicae densovirus]
+gi|62857330|ref|YP_227602.1|vFam_463| Putative structural protein [Acheta domestica densovirus]
+gi|557307524|ref|YP_008766863.1|vFam_463| VP2 [Solenopsis invicta densovirus]
+gi|23334618|ref|NP_694842.1|vFam_463| putative structural protein [Planococcus citri densovirus]

@@ -1,0 +1,12 @@
+CLUSTER	3449
+NUM_SEQ	4
+LENGTH	194
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	100.88
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|506497764|ref|YP_008003563.1|vFam_3449| unknown similar to AMEV022 [Mythimna separata entomopoxvirus 'L']
+gi|506498053|ref|YP_008003850.1|vFam_3449| unknown similar to AMEV022 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498329|ref|YP_008004125.1|vFam_3449| unknown similar to AMEV022 [Choristoneura biennis entomopoxvirus 'L']
+gi|9964336|ref|NP_064804.1|vFam_3449| putative type II DNA topoisomerase [Amsacta moorei entomopoxvirus 'L']

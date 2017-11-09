@@ -1,0 +1,12 @@
+CLUSTER	3543
+NUM_SEQ	4
+LENGTH	130
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	68.9
+FAMILIES	{'Flaviviridae': 4}
+GENERA	{'Flavivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|27697400|ref|NP_775683.1|vFam_3543| non-structural protein NS2b [Apoi virus]
+gi|25121727|ref|NP_740263.1|vFam_3543| non-structural protein 2B [Modoc virus]
+gi|27735366|ref|NP_776075.1|vFam_3543| non-structural protein NS2b [Rio Bravo virus]
+gi|27669993|ref|NP_775648.1|vFam_3543| non-structural protein NS2b [Montana myotis leukoencephalitis virus]

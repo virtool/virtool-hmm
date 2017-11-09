@@ -1,0 +1,13 @@
+CLUSTER	2885
+NUM_SEQ	5
+LENGTH	195
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	101.4
+FAMILIES	{'Flaviviridae': 5}
+GENERA	{'Pestivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|27885114|ref|NP_777523.1|vFam_2885| structural protein E1 [Pestivirus Giraffe-1]
+gi|27885146|ref|NP_777497.1|vFam_2885| structural protein E1 [Classical swine fever virus]
+gi|27883890|ref|NP_777536.1|vFam_2885| structural protein E1 [Border disease virus]
+gi|27885405|ref|NP_777484.1|vFam_2885| structural protein E1 [Bovine viral diarrhea virus 2]
+gi|27777745|ref|NP_776262.1|vFam_2885| structural protein E1 [Bovine viral diarrhea virus 1]

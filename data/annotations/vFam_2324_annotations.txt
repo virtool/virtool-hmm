@@ -1,0 +1,11 @@
+CLUSTER	2324
+NUM_SEQ	3
+LENGTH	394
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	204.88
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9845460|ref|NP_064274.1|vFam_2324| pr164 [Murid herpesvirus 2]
+gi|425707349|ref|YP_007016546.1|vFam_2324| e164 [Murid herpesvirus 8]
+gi|61660273|ref|YP_214164.1|vFam_2324| Putative membrane glycoprotein [Murid herpesvirus 1]

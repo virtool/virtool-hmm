@@ -1,0 +1,11 @@
+CLUSTER	2503
+NUM_SEQ	3
+LENGTH	277
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	141.27
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977796|ref|YP_003986916.1|vFam_2503| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432336|ref|YP_007354378.1|vFam_2503| hypothetical protein Moumou_00406 [Acanthamoeba polyphaga moumouvirus]
+gi|363540075|ref|YP_004894532.1|vFam_2503| mg481 gene product [Megavirus chiliensis]

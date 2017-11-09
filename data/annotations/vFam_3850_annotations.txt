@@ -1,0 +1,12 @@
+CLUSTER	3850
+NUM_SEQ	4
+LENGTH	86
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	50.74
+FAMILIES	{'Potyviridae': 4}
+GENERA	{'Bymovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|390013214|ref|YP_006395322.1|vFam_3850| PIPO, partial [Oat mosaic virus]
+gi|389885069|ref|YP_006393469.1|vFam_3850| PIPO, partial [Barley yellow mosaic virus]
+gi|389885067|ref|YP_006393467.1|vFam_3850| PIPO, partial [Wheat yellow mosaic virus]
+gi|389885075|ref|YP_006393475.1|vFam_3850| PIPO, partial [Barley mild mosaic virus]

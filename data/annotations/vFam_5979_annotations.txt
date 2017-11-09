@@ -1,0 +1,10 @@
+CLUSTER	5979
+NUM_SEQ	2
+LENGTH	208
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	108.16
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497775|ref|YP_008003574.1|vFam_5979| unknown similar to AMEV063 [Mythimna separata entomopoxvirus 'L']
+gi|9964377|ref|NP_064845.1|vFam_5979| putative caspase-2 [Amsacta moorei entomopoxvirus 'L']

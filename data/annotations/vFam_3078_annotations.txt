@@ -1,0 +1,11 @@
+CLUSTER	3078
+NUM_SEQ	3
+LENGTH	319
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	165.88
+FAMILIES	{'Secoviridae': 2}
+GENERA	{'Fabavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|564614864|ref|YP_008877666.1|vFam_3078| protease cofactor [Lamium mild mosaic virus]
+gi|25013970|ref|NP_733958.1|vFam_3078| protease cofactor [Broad bean wilt virus 2]
+gi|39979439|ref|NP_951026.1|vFam_3078| putative protease cofactor [Broad bean wilt virus 1]

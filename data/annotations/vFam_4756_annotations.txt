@@ -1,0 +1,10 @@
+CLUSTER	4756
+NUM_SEQ	2
+LENGTH	230
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	117.3
+FAMILIES	{'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134287294|ref|YP_001110990.1|vFam_4756| hypothetical protein HVAV3e_gp137 [Heliothis virescens ascovirus 3e]
+gi|115298590|ref|YP_762443.1|vFam_4756| 25 kDa Endoprotease [Spodoptera frugiperda ascovirus 1a]

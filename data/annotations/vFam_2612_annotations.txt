@@ -1,0 +1,10 @@
+CLUSTER	2612
+NUM_SEQ	2
+LENGTH	209
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	106.59
+FAMILIES	{'Nimaviridae': 2}
+GENERA	{'Whispovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|17158601|ref|NP_478022.1|vFam_2612| wsv500 [Shrimp white spot syndrome virus]
+gi|17158578|ref|NP_477999.1|vFam_2612| wsv477 [Shrimp white spot syndrome virus]

@@ -1,0 +1,10 @@
+CLUSTER	6126
+NUM_SEQ	2
+LENGTH	254
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	132.08
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159283|ref|YP_002321326.1|vFam_6126| vp39 [Oryctes rhinoceros virus]
+gi|134303462|ref|YP_001111331.1|vFam_6126| hypothetical protein GrBNV_gp64 [Gryllus bimaculatus nudivirus]

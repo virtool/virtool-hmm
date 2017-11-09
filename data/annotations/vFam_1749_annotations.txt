@@ -1,0 +1,13 @@
+CLUSTER	1749
+NUM_SEQ	5
+LENGTH	458
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	238.16
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631454|ref|NP_048260.1|vFam_1749| ORF MSV189 putative core protein, Amsacta moorei EPV entomopoxvirus G1L homolog (vaccinia I7L), similar to SW:P29817 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497935|ref|YP_008003734.1|vFam_1749| virion core cysteine protease [Mythimna separata entomopoxvirus 'L']
+gi|506498182|ref|YP_008003979.1|vFam_1749| virion core cysteine protease [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498801|ref|YP_008004595.1|vFam_1749| virion core cysteine protease [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964495|ref|NP_064963.1|vFam_1749| putative core protein [Amsacta moorei entomopoxvirus 'L']

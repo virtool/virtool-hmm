@@ -1,0 +1,11 @@
+CLUSTER	4706
+NUM_SEQ	3
+LENGTH	513
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	266.76
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'Chlorovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9631805|ref|NP_048585.1|vFam_4706| Homospermidine synthase [Paramecium bursaria Chlorella virus 1]
+gi|155371537|ref|YP_001427071.1|vFam_4706| hypothetical protein ATCV1_Z590L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370330|ref|YP_001425864.1|vFam_4706| hypothetical protein FR483_N232L [Paramecium bursaria Chlorella virus FR483]

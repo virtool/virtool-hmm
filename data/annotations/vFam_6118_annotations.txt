@@ -1,0 +1,10 @@
+CLUSTER	6118
+NUM_SEQ	2
+LENGTH	80
+RELATIVE_ENTROPY_PER_POSITION	0.62
+TOTAL_RELATIVE_ENTROPY	49.6
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281830|ref|YP_003331494.1|vFam_6118| hypothetical protein SSSV7_gp11 [Sulfolobus spindle-shaped virus 7]
+gi|270281757|ref|YP_003331417.1|vFam_6118| hypothetical protein [Acidianus spindle-shaped virus 1]

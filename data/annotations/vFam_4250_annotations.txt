@@ -1,0 +1,10 @@
+CLUSTER	4250
+NUM_SEQ	2
+LENGTH	202
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	105.04
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|22549407|ref|NP_689180.1|vFam_4250| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069884|ref|NP_613088.1|vFam_4250| hypothetical protein McnAVgp005 [Mamestra configurata nucleopolyhedrovirus A]

@@ -1,0 +1,14 @@
+CLUSTER	2122
+NUM_SEQ	6
+LENGTH	268
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	139.36
+FAMILIES	{'Phycodnaviridae': 6}
+GENERA	{'None': 3, 'Prasinovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|313768161|ref|YP_004061592.1|vFam_2122| hypothetical protein BpV1_162c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768382|ref|YP_004062062.1|vFam_2122| hypothetical protein MpV1_179c [Micromonas sp. RCC1109 virus MpV1]
+gi|163955173|ref|YP_001648277.1|vFam_2122| hypothetical protein OsV5_201r [Ostreococcus virus OsV5]
+gi|313844146|ref|YP_004061809.1|vFam_2122| hypothetical protein OlV1_177c [Ostreococcus lucimarinus virus OlV1]
+gi|314055258|ref|YP_004063596.1|vFam_2122| Glycosyl transferase, family 25 [Ostreococcus tauri virus 2]
+gi|260666044|ref|YP_003212998.1|vFam_2122| hypothetical protein H665_p175 [Ostreococcus tauri virus 1]

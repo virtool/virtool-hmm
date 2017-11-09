@@ -1,0 +1,15 @@
+CLUSTER	1721
+NUM_SEQ	7
+LENGTH	88
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	51.92
+FAMILIES	{'Geminiviridae': 7}
+GENERA	{'Curtovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|148658999|ref|YP_001274384.1|vFam_1721| R3 protein [Pepper curly top virus]
+gi|169303563|ref|YP_001715617.1|vFam_1721| movement protein [Beet curly top Iran virus]
+gi|322840369|ref|YP_004207921.1|vFam_1721| V3 [Spinach curly top Arizona virus]
+gi|10257474|ref|NP_066181.1|vFam_1721| movement protein [Horseradish curly top virus]
+gi|310288305|ref|YP_003966133.1|vFam_1721| movement protein [Spinach severe curly top virus]
+gi|197914887|ref|YP_002158816.1|vFam_1721| movement protein [Pepper yellow dwarf virus - New Mexico]
+gi|46402152|ref|YP_006991.1|vFam_1721| V3 [Spinach curly top virus]

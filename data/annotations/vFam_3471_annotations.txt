@@ -1,0 +1,11 @@
+CLUSTER	3471
+NUM_SEQ	3
+LENGTH	338
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	175.76
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|506498244|ref|YP_008004041.1|vFam_3471| unknown similar to AMEV240 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498853|ref|YP_008004647.1|vFam_3471| unknown similar to AMEV240 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506497982|ref|YP_008003781.1|vFam_3471| unknown similar to AMEV240 [Mythimna separata entomopoxvirus 'L']

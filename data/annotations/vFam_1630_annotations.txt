@@ -1,0 +1,12 @@
+CLUSTER	1630
+NUM_SEQ	4
+LENGTH	165
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	79.2
+FAMILIES	{'Baculoviridae': 1, 'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2, 'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|134287269|ref|YP_001110965.1|vFam_1630| hypothetical protein HVAV3e_gp112 [Heliothis virescens ascovirus 3e]
+gi|90592778|ref|YP_529731.1|vFam_1630| ORF-61 [Agrotis segetum nucleopolyhedrovirus]
+gi|116326721|ref|YP_803258.1|vFam_1630| hypothetical protein TNAV2c_gp035 [Trichoplusia ni ascovirus 2c]
+gi|527333640|ref|YP_008357424.1|vFam_1630| hypothetical protein IIV22_126R [Invertebrate iridovirus 22]

@@ -1,0 +1,10 @@
+CLUSTER	4252
+NUM_SEQ	2
+LENGTH	150
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	78.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035958|ref|YP_008437593.1|vFam_4252| hypothetical protein ps_1181 [Pandoravirus salinus]
+gi|526119483|ref|YP_008319386.1|vFam_4252| hypothetical protein [Pandoravirus dulcis]

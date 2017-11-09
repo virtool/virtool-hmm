@@ -1,0 +1,38 @@
+CLUSTER	165
+NUM_SEQ	30
+LENGTH	114
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	57.0
+FAMILIES	{'Phycodnaviridae': 2, 'Baculoviridae': 23}
+GENERA	{'Chlorovirus': 2, 'Alphabaculovirus': 23}
+FASTA SEQUENCE TITLES:
+gi|155371396|ref|YP_001426930.1|vFam_165| hypothetical protein ATCV1_Z449R [Acanthocystis turfacea Chlorella virus 1]
+gi|160688408|ref|YP_001552216.1|vFam_165| hypothetical protein SkV1VCR23x_ORF6 [Spiroplasma kunkelii virus SkV1_CR2-3x]
+gi|155370546|ref|YP_001426080.1|vFam_165| hypothetical protein FR483_n448L [Paramecium bursaria Chlorella virus FR483]
+gi|438000404|ref|YP_007250509.1|vFam_165| p12 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643638|ref|YP_002884328.1|vFam_165| P12 [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964613|ref|YP_950809.1|vFam_165| p12 [Maruca vitrata nucleopolyhedrovirus]
+gi|154551157|ref|YP_001419679.1|vFam_165| p12 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355571|ref|YP_473239.1|vFam_165| P12 [Hyphantria cunea nucleopolyhedrovirus]
+gi|529153529|ref|YP_008378554.1|vFam_165| P12 [Choristoneura occidentalis alphabaculovirus]
+gi|9630041|ref|NP_046259.1|vFam_165| hypothetical protein OpmnVgp103 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|116326166|ref|YP_803492.1|vFam_165| p12 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320746|ref|NP_203258.1|vFam_165| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|15617560|ref|NP_258360.1|vFam_165| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|209978850|ref|YP_002300593.1|vFam_165| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|209401146|ref|YP_002274015.1|vFam_165| hypothetical protein HaSNPVNNg1_gp092 [Helicoverpa armigera NPV NNg1]
+gi|22549485|ref|NP_689258.1|vFam_165| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069963|ref|NP_613167.1|vFam_165| hypothetical protein McnAVgp084 [Mamestra configurata nucleopolyhedrovirus A]
+gi|74229775|ref|YP_308979.1|vFam_165| orf90 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304231|ref|YP_249699.1|vFam_165| P12 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|125860185|ref|YP_001036355.1|vFam_165| p12 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401462|ref|YP_002332765.1|vFam_165| hypothetical protein SlnV2_gp067 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634284|ref|NP_037823.1|vFam_165| ORF63 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|90592787|ref|YP_529740.1|vFam_165| P12 [Agrotis segetum nucleopolyhedrovirus]
+gi|209170961|ref|YP_002268107.1|vFam_165| P12 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|165969099|ref|YP_001650999.1|vFam_165| p12 [Orgyia leucostigma NPV]
+gi|292397773|ref|YP_003517839.1|vFam_165| P12 [Lymantria xylina MNPV]
+gi|228861679|ref|YP_002854699.1|vFam_165| p12 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|113195488|ref|YP_717626.1|vFam_165| P12 [Clanis bilineata nucleopolyhedrovirus]
+gi|402502179|ref|YP_006607837.1|vFam_165| p12 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|529218143|ref|YP_008378306.1|vFam_165| ac102 [Hemileuca sp. nucleopolyhedrovirus]

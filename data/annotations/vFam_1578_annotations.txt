@@ -1,0 +1,11 @@
+CLUSTER	1578
+NUM_SEQ	3
+LENGTH	219
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	113.88
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|526119708|ref|YP_008319611.1|vFam_1578| translation initiation inhibitor yjgf family [Pandoravirus dulcis]
+gi|531035002|ref|YP_008436627.1|vFam_1578| translation initiation inhibitor [Pandoravirus salinus]
+gi|526118855|ref|YP_008318758.1|vFam_1578| translation initiation inhibitor [Pandoravirus dulcis]

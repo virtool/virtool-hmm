@@ -1,0 +1,10 @@
+CLUSTER	5489
+NUM_SEQ	2
+LENGTH	536
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	273.36
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Megalocytivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|19881476|ref|NP_612293.1|vFam_5489| ORF071L [Infectious spleen and kidney necrosis virus]
+gi|19881473|ref|NP_612290.1|vFam_5489| ORF068L [Infectious spleen and kidney necrosis virus]

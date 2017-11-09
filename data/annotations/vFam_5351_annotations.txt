@@ -1,0 +1,10 @@
+CLUSTER	5351
+NUM_SEQ	2
+LENGTH	155
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	80.6
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531037065|ref|YP_008438707.1|vFam_5351| hypothetical protein ps_2305 [Pandoravirus salinus]
+gi|526120035|ref|YP_008319938.1|vFam_5351| hypothetical protein [Pandoravirus dulcis]

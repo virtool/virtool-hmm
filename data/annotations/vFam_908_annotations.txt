@@ -1,0 +1,14 @@
+CLUSTER	908
+NUM_SEQ	6
+LENGTH	260
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	130.0
+FAMILIES	{'None': 1, 'Iridoviridae': 4}
+GENERA	{'None': 1, 'Iridovirus': 2, 'Chloriridovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|370703007|ref|YP_004956809.1|vFam_908| orf61 gene product [Helicoverpa zea nudivirus 2]
+gi|109287988|ref|YP_654682.1|vFam_908| hypothetical protein MIV110R [Invertebrate iridescent virus 3]
+gi|109287910|ref|YP_654604.1|vFam_908| hypothetical protein MIV032R [Invertebrate iridescent virus 3]
+gi|339906088|ref|YP_004732885.1|vFam_908| hypothetical protein WIV_gp102 [Wiseana iridescent virus]
+gi|527333543|ref|YP_008357327.1|vFam_908| hypothetical protein IIV22_029L [Invertebrate iridovirus 22]
+gi|339906145|ref|YP_004732942.1|vFam_908| hypothetical protein WIV_gp159 [Wiseana iridescent virus]

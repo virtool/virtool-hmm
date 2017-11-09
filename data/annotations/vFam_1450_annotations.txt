@@ -1,0 +1,13 @@
+CLUSTER	1450
+NUM_SEQ	5
+LENGTH	126
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	63.0
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Cytomegalovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|360086529|ref|YP_004940214.1|vFam_1450| protein UL42 [Saimiriine herpesvirus 3]
+gi|52139227|ref|YP_081500.1|vFam_1450| protein UL42 [Human herpesvirus 5]
+gi|20026643|ref|NP_612685.1|vFam_1450| protein UL42 [Panine herpesvirus 2]
+gi|359946485|ref|YP_004936017.1|vFam_1450| protein UL42 [Cercopithecine herpesvirus 5]
+gi|51556528|ref|YP_068162.1|vFam_1450| rh68 [Macacine herpesvirus 3]

@@ -1,0 +1,10 @@
+CLUSTER	5678
+NUM_SEQ	2
+LENGTH	274
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	142.48
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|197322426|ref|YP_002154699.1|vFam_5678| putative oligoribonuclease [Feldmannia species virus]
+gi|13242610|ref|NP_077624.1|vFam_5678| EsV-1-139 [Ectocarpus siliculosus virus 1]

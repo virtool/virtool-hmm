@@ -1,0 +1,11 @@
+CLUSTER	5052
+NUM_SEQ	3
+LENGTH	56
+RELATIVE_ENTROPY_PER_POSITION	0.94
+TOTAL_RELATIVE_ENTROPY	52.64
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|237643649|ref|YP_002884339.1|vFam_5052| Ac116-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|23577955|ref|NP_703104.1|vFam_5052| hypothetical protein [Rachiplusia ou MNPV]
+gi|114680167|ref|YP_758580.1|vFam_5052| hypothetical protein PXMNV_gp114 [Plutella xylostella multiple nucleopolyhedrovirus]

@@ -1,0 +1,25 @@
+CLUSTER	19
+NUM_SEQ	17
+LENGTH	225
+RELATIVE_ENTROPY_PER_POSITION	0.46
+TOTAL_RELATIVE_ENTROPY	103.5
+FAMILIES	{'None': 7, 'Mimiviridae': 9, 'Poxviridae': 1}
+GENERA	{'None': 14, 'Mimivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9631360|ref|NP_048217.1|vFam_19| ORF MSV146 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|448826026|ref|YP_007418957.1|vFam_19| putative F-box and FNIP repeat-containing protein [Megavirus lba]
+gi|441432817|ref|YP_007354859.1|vFam_19| hypothetical protein Moumou_00908 [Acanthamoeba polyphaga moumouvirus]
+gi|448826111|ref|YP_007419042.1|vFam_19| putative F-box and FNIP repeat-containing protein [Megavirus lba]
+gi|448825004|ref|YP_007417935.1|vFam_19| putative F-box and FNIP repeat-containing protein [Megavirus lba]
+gi|311978278|ref|YP_003987399.1|vFam_19| putative DNA-directed RNA polymerase subunit 1 inactive-like protein [Acanthamoeba polyphaga mimivirus]
+gi|311977540|ref|YP_003986660.1|vFam_19| putative F-box protein [Acanthamoeba polyphaga mimivirus]
+gi|311977538|ref|YP_003986658.1|vFam_19| putative F-box protein [Acanthamoeba polyphaga mimivirus]
+gi|441432646|ref|YP_007354688.1|vFam_19| hypothetical protein Moumou_00731 [Acanthamoeba polyphaga moumouvirus]
+gi|448825153|ref|YP_007418084.1|vFam_19| putative F-box and FNIP repeat-containing protein [Megavirus lba]
+gi|441432795|ref|YP_007354837.1|vFam_19| FNIP repeat-containing protein [Acanthamoeba polyphaga moumouvirus]
+gi|310831531|ref|YP_003970174.1|vFam_19| hypothetical protein crov541 [Cafeteria roenbergensis virus BV-PW1]
+gi|310831520|ref|YP_003970163.1|vFam_19| hypothetical protein crov530 [Cafeteria roenbergensis virus BV-PW1]
+gi|441432580|ref|YP_007354622.1|vFam_19| FNIP repeat-containing protein [Acanthamoeba polyphaga moumouvirus]
+gi|441432810|ref|YP_007354852.1|vFam_19| FNIP repeat-containing protein [Acanthamoeba polyphaga moumouvirus]
+gi|448825760|ref|YP_007418691.1|vFam_19| putative F-box and FNIP repeat-containing protein [Megavirus lba]
+gi|363540054|ref|YP_004894679.1|vFam_19| mg628 gene product [Megavirus chiliensis]

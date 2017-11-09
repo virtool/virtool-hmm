@@ -1,0 +1,10 @@
+CLUSTER	5160
+NUM_SEQ	2
+LENGTH	362
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	188.24
+FAMILIES	{'Betaflexiviridae': 1}
+GENERA	{'Citrivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|571350947|ref|YP_008997791.1|vFam_5160| movement protein [Apricot vein clearing associated virus]
+gi|20889383|ref|NP_624334.1|vFam_5160| movement protein [Citrus leaf blotch virus]

@@ -1,0 +1,17 @@
+CLUSTER	860
+NUM_SEQ	9
+LENGTH	224
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	118.72
+FAMILIES	{'Coronaviridae': 8}
+GENERA	{'Alphacoronavirus': 8}
+FASTA SEQUENCE TITLES:
+gi|160707870|ref|YP_001552237.1|vFam_860| hypothetical protein BCHV2_gp4 [Bat coronavirus HKU2]
+gi|531967709|ref|YP_008439203.1|vFam_860| non-structural protein 3 [Bat coronavirus CDPHE15/USA/2006]
+gi|19387578|ref|NP_598311.1|vFam_860| hypothetical protein PEDVgp3 [Porcine epidemic diarrhea virus]
+gi|152994039|ref|YP_001351685.1|vFam_860| putative ORF3 [Scotophilus bat coronavirus 512]
+gi|169822554|ref|YP_001718606.1|vFam_860| ORF3 protein [Bat coronavirus 1A]
+gi|169822546|ref|YP_001718599.1|vFam_860| ORF3 protein [Bat coronavirus 1B]
+gi|410493445|ref|YP_006908643.1|vFam_860| non-structural protein NS3 [Rousettus bat coronavirus HKU10]
+gi|45655910|ref|YP_003768.1|vFam_860| protein 3 [Human coronavirus NL63]
+gi|169822562|ref|YP_001718613.1|vFam_860| ORF3 protein [Bat coronavirus HKU8]

@@ -1,0 +1,23 @@
+CLUSTER	399
+NUM_SEQ	15
+LENGTH	797
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	422.41
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 1, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531768|ref|YP_784294.1|vFam_399| RNA-polymerase associated protein [Nile crocodilepox virus]
+gi|40556125|ref|NP_955210.1|vFam_399| CNPV187 RNA polymerase associated protein RAP94 [Canarypox virus]
+gi|9634811|ref|NP_039104.1|vFam_399| RNA polymerase associated protein RAP94 [Fowlpox virus]
+gi|41057496|ref|NP_957969.1|vFam_399| ORF060 RNA polymerase-associated protein RAP94 [Bovine papular stomatitis virus]
+gi|289183824|ref|YP_003457365.1|vFam_399| RNA-polymerase associated RAP94 [Pseudocowpox virus]
+gi|113195281|ref|YP_717411.1|vFam_399| RNA polymerase subunit RAP94 [Taterapox virus]
+gi|345107270|ref|YP_004821435.1|vFam_399| RPO-associated protein,RAP94 [Yoka poxvirus]
+gi|377829982|ref|YP_005296279.1|vFam_399| unnamed protein product [Cotia virus SPAn232]
+gi|9633881|ref|NP_051961.1|vFam_399| gp072L [Rabbit fibroma virus]
+gi|157939698|ref|YP_001497070.1|vFam_399| RNA polymerase-associated RAP94 [Tanapox virus]
+gi|148912952|ref|YP_001293266.1|vFam_399| hypothetical protein GTPV_gp071 [Goatpox virus Pellor]
+gi|18640158|ref|NP_570232.1|vFam_399| SPV072 RNA polymerase-associated protein RAP94 [Swinepox virus]
+gi|211956355|ref|YP_002302424.1|vFam_399| RNA polymerase-associated RAP94 [Deerpox virus W-1170-84]
+gi|9629017|ref|NP_044036.1|vFam_399| MC085L [Molluscum contagiosum virus subtype 1]
+gi|571797994|ref|YP_008658493.1|vFam_399| DNA-dependent RNA polymerase subunit RAP94 [Squirrelpox virus]

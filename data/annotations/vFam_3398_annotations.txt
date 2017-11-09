@@ -1,0 +1,10 @@
+CLUSTER	3398
+NUM_SEQ	2
+LENGTH	243
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	123.93
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|441432818|ref|YP_007354860.1|vFam_3398| putative 5' nucleotidase [Acanthamoeba polyphaga moumouvirus]
+gi|311978236|ref|YP_003987356.1|vFam_3398| putative 5'(3')-deoxyribonucleotidase [Acanthamoeba polyphaga mimivirus]

@@ -1,0 +1,44 @@
+CLUSTER	140
+NUM_SEQ	36
+LENGTH	392
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	203.84
+FAMILIES	{'Baculoviridae': 32}
+GENERA	{'Betabaculovirus': 12, 'Alphabaculovirus': 20}
+FASTA SEQUENCE TITLES:
+gi|11068066|ref|NP_068282.1|vFam_140| PxORF63 peptide [Plutella xylostella granulovirus]
+gi|410493648|ref|YP_006908586.1|vFam_140| P48/P45 [Epinotia aporema granulovirus]
+gi|285002370|ref|YP_003422434.1|vFam_140| P45 [Pseudaletia unipuncta granulovirus]
+gi|148368894|ref|YP_001257024.1|vFam_140| hypothetical protein SlGVgp073 [Spodoptera litura granulovirus]
+gi|46309382|ref|YP_006272.1|vFam_140| ORF72 [Agrotis segetum granulovirus]
+gi|334265747|ref|YP_004376276.1|vFam_140| p45/p48 [Clostera anachoreta granulovirus]
+gi|32698608|ref|NP_872523.1|vFam_140| ORF_69 [Adoxophyes orana granulovirus]
+gi|21686740|ref|NP_663240.1|vFam_140| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|109255336|ref|YP_654485.1|vFam_140| P48 [Choristoneura occidentalis granulovirus]
+gi|288804707|ref|YP_003429392.1|vFam_140| P45/P48 [Pieris rapae granulovirus]
+gi|33622274|ref|NP_891921.1|vFam_140| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602320|ref|NP_148867.1|vFam_140| ORF83 similar to AcMNPV ORF103 [Cydia pomonella granulovirus]
+gi|438000405|ref|YP_007250510.1|vFam_140| p45 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|96979819|ref|YP_611024.1|vFam_140| p48 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355570|ref|YP_473238.1|vFam_140| P48 [Hyphantria cunea nucleopolyhedrovirus]
+gi|571031249|ref|YP_008992145.1|vFam_140| p48 [Choristoneura murinana alphabaculovirus]
+gi|9630042|ref|NP_046260.1|vFam_140| hypothetical protein OpmnVgp104 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|116326167|ref|YP_803493.1|vFam_140| p48 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320747|ref|NP_203259.1|vFam_140| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|209978851|ref|YP_002300594.1|vFam_140| P48 [Adoxophyes orana nucleopolyhedrovirus]
+gi|209401147|ref|YP_002274016.1|vFam_140| hypothetical protein HaSNPVNNg1_gp093 [Helicoverpa armigera NPV NNg1]
+gi|114679955|ref|YP_758405.1|vFam_140| p48 [Leucania separata nucleopolyhedrovirus]
+gi|15617561|ref|NP_258361.1|vFam_140| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|74229776|ref|YP_308980.1|vFam_140| orf91 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|22549484|ref|NP_689257.1|vFam_140| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209170960|ref|YP_002268106.1|vFam_140| P45 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592786|ref|YP_529739.1|vFam_140| P45 [Agrotis segetum nucleopolyhedrovirus]
+gi|215401461|ref|YP_002332764.1|vFam_140| hypothetical protein SlnV2_gp066 [Spodoptera litura nucleopolyhedrovirus II]
+gi|125860184|ref|YP_001036354.1|vFam_140| p45 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|292397774|ref|YP_003517840.1|vFam_140| P45 [Lymantria xylina MNPV]
+gi|113195489|ref|YP_717627.1|vFam_140| P45 [Clanis bilineata nucleopolyhedrovirus]
+gi|165969100|ref|YP_001651000.1|vFam_140| p45 [Orgyia leucostigma NPV]
+gi|228861680|ref|YP_002854700.1|vFam_140| p48/p45 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|118197562|ref|YP_874275.1|vFam_140| p45 [Ectropis obliqua nucleopolyhedrovirus]
+gi|529218144|ref|YP_008378307.1|vFam_140| ac103 [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502180|ref|YP_006607838.1|vFam_140| p12 [Apocheima cinerarium nucleopolyhedrovirus]

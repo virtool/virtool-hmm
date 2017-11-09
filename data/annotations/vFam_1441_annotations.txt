@@ -1,0 +1,15 @@
+CLUSTER	1441
+NUM_SEQ	7
+LENGTH	169
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	87.88
+FAMILIES	{'Nanoviridae': 5}
+GENERA	{'Nanovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|20530231|ref|NP_620697.1|vFam_1441| putative cell cycle link (CLINK) protein [Subterranean clover stunt virus]
+gi|570033511|ref|YP_008992022.1|vFam_1441| clink [Pea necrotic yellow dwarf virus]
+gi|571797921|ref|YP_008997807.1|vFam_1441| cell cycle link protein [Pea yellow stunt virus]
+gi|20177464|ref|NP_619762.1|vFam_1441| viral non-structural protein [Milk vetch dwarf virus]
+gi|571797903|ref|YP_008997798.1|vFam_1441| cell cycle link protein [Black medic leafroll virus]
+gi|20143452|ref|NP_619566.1|vFam_1441| cell cycle link (CLINK) protein [Faba bean necrotic yellows virus]
+gi|255961483|ref|YP_003104739.1|vFam_1441| Clink [Faba bean necrotic stunt virus]

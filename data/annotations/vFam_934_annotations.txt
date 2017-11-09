@@ -1,0 +1,18 @@
+CLUSTER	934
+NUM_SEQ	10
+LENGTH	324
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	168.48
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|438000319|ref|YP_007250424.1|vFam_934| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643554|ref|YP_002884244.1|vFam_934| Ac13-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964539|ref|YP_950735.1|vFam_934| 38.7 kDa protein [Maruca vitrata nucleopolyhedrovirus]
+gi|15320667|ref|NP_203179.1|vFam_934| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|96979892|ref|YP_611101.1|vFam_934| 38.7k [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326089|ref|YP_803414.1|vFam_934| hypothetical protein AGNV_gp020 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|9629950|ref|NP_046168.1|vFam_934| hypothetical protein OpmnVgp012 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|86355660|ref|YP_473328.1|vFam_934| ORF140 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|571031333|ref|YP_008992230.1|vFam_934| ac13 [Choristoneura murinana alphabaculovirus]
+gi|529153615|ref|YP_008378640.1|vFam_934| hypothetical protein [Choristoneura occidentalis alphabaculovirus]

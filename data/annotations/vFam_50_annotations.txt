@@ -1,0 +1,35 @@
+CLUSTER	50
+NUM_SEQ	27
+LENGTH	716
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	379.48
+FAMILIES	{'Herpesviridae': 27}
+GENERA	{'Iltovirus': 1, 'Cytomegalovirus': 4, 'Muromegalovirus': 1, 'None': 2, 'Macavirus': 2, 'Roseolovirus': 2, 'Proboscivirus': 1, 'Varicellovirus': 6, 'Rhadinovirus': 5, 'Lymphocryptovirus': 2, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|57790953|ref|YP_182357.1|vFam_50| DNA packaging terminase subunit 2 [Gallid herpesvirus 1]
+gi|13242423|ref|NP_077445.1|vFam_50| DNA packaging terminase subunit 2 [Cercopithecine herpesvirus 9]
+gi|9625905|ref|NP_040153.1|vFam_50| DNA packaging terminase subunit 2 [Human herpesvirus 3]
+gi|51557497|ref|YP_068331.1|vFam_50| DNA packaging terminase subunit 2 [Suid herpesvirus 1]
+gi|270339516|ref|YP_003331551.1|vFam_50| DNA packaging terminase subunit 2 [Felid herpesvirus 1]
+gi|216905885|ref|YP_002333513.1|vFam_50| DNA packaging terminase subunit 2 [Equid herpesvirus 9]
+gi|9629758|ref|NP_045249.1|vFam_50| DNA packaging terminase subunit 2 [Equid herpesvirus 4]
+gi|24943093|ref|NP_733855.1|vFam_50| ORF3 [callitrichine herpesvirus 3]
+gi|51518083|ref|YP_068010.1|vFam_50| BALF3 [Macacine herpesvirus 4]
+gi|83642847|ref|YP_438134.1|vFam_50| ORF7 [Ovine herpesvirus 2]
+gi|10140933|ref|NP_065510.1|vFam_50| transport protein [Alcelaphine herpesvirus 1]
+gi|9631205|ref|NP_047981.1|vFam_50| transport protein [Ateline herpesvirus 3]
+gi|9625963|ref|NP_040209.1|vFam_50| transport protein [Saimiriine herpesvirus 2]
+gi|13095584|ref|NP_076499.1|vFam_50| transport protein [Bovine herpesvirus 4]
+gi|9628009|ref|NP_042603.1|vFam_50| ORF 07 [Equid herpesvirus 2]
+gi|139472861|ref|YP_001129353.1|vFam_50| ORF7 [Human herpesvirus 8]
+gi|18653814|ref|NP_570748.1|vFam_50| transport protein [Macacine herpesvirus 5]
+gi|496991138|ref|YP_007969816.1|vFam_50| DNA packaging terminase subunit 2 [Elephantid herpesvirus 1]
+gi|448824899|ref|YP_007417831.1|vFam_50| GP56 [Caviid herpesvirus 2]
+gi|425707266|ref|YP_007016463.1|vFam_50| E56 [Murid herpesvirus 8]
+gi|14251048|ref|NP_116410.1|vFam_50| T56 [Tupaiid herpesvirus 1]
+gi|359946499|ref|YP_004936032.1|vFam_50| DNA packaging terminase subunit 2 [Cercopithecine herpesvirus 5]
+gi|360086544|ref|YP_004940229.1|vFam_50| DNA packaging terminase subunit 2 [Saimiriine herpesvirus 3]
+gi|360040948|ref|YP_004940083.1|vFam_50| DNA packaging terminase subunit 2 [Aotine herpesvirus 1]
+gi|538447239|ref|YP_008492979.1|vFam_50| DNA packaging terminase subunit 2 [Porcine cytomegalovirus]
+gi|9633111|ref|NP_050221.1|vFam_50| transport/capsid assembly [Human herpesvirus 6B]
+gi|51874262|ref|YP_073780.1|vFam_50| DNA packaging terminase subunit 2 [Human herpesvirus 7]

@@ -1,0 +1,10 @@
+CLUSTER	5776
+NUM_SEQ	2
+LENGTH	358
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	186.16
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40556000|ref|NP_955085.1|vFam_5776| CNPV062 putative serpin [Canarypox virus]
+gi|9634714|ref|NP_039007.1|vFam_5776| Serpin gene family protein [Fowlpox virus]

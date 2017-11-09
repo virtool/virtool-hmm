@@ -1,0 +1,10 @@
+CLUSTER	3309
+NUM_SEQ	2
+LENGTH	344
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	175.44
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035357|ref|YP_008436986.1|vFam_3309| mRNA capping enzyme beta subunit structural domain motif-containing [Pandoravirus salinus]
+gi|526119147|ref|YP_008319050.1|vFam_3309| mRNA capping enzyme beta subunit structural domain motif-containing [Pandoravirus dulcis]

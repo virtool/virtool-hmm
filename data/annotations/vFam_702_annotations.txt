@@ -1,0 +1,20 @@
+CLUSTER	702
+NUM_SEQ	12
+LENGTH	443
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	234.79
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Macavirus': 2, 'Rhadinovirus': 6, 'Lymphocryptovirus': 2, 'Percavirus': 1, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|139472874|ref|YP_001129389.1|vFam_702| ORF36 [Human herpesvirus 8]
+gi|18653843|ref|NP_570777.1|vFam_702| kinase [Macacine herpesvirus 5]
+gi|83642872|ref|YP_438159.1|vFam_702| ORF36 [Ovine herpesvirus 2]
+gi|10140957|ref|NP_065534.1|vFam_702| putative tyrosine kinase [Alcelaphine herpesvirus 1]
+gi|13095613|ref|NP_076528.1|vFam_702| kinase [Bovine herpesvirus 4]
+gi|9631228|ref|NP_048009.1|vFam_702| orf 36 [Ateline herpesvirus 3]
+gi|9625992|ref|NP_040238.1|vFam_702| tyrosine-specific protein kinase [Saimiriine herpesvirus 2]
+gi|9628039|ref|NP_042633.1|vFam_702| virion protein kinase [Equid herpesvirus 2]
+gi|82503244|ref|YP_401688.1|vFam_702| BGLF4 protein [Human herpesvirus 4]
+gi|24943118|ref|NP_733880.1|vFam_702| ORF27 [callitrichine herpesvirus 3]
+gi|321496588|ref|YP_004207873.1|vFam_702| kinase [Rodent herpesvirus Peru]
+gi|9629577|ref|NP_044874.1|vFam_702| tegument serine/threonine protein kinase [Murid herpesvirus 4]

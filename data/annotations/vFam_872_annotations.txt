@@ -1,0 +1,16 @@
+CLUSTER	872
+NUM_SEQ	8
+LENGTH	286
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	148.72
+FAMILIES	{'Poxviridae': 8}
+GENERA	{'None': 1, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Capripoxvirus': 1, 'Avipoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|40556212|ref|NP_955297.1|vFam_872| CNPV274 putative tyrosine protein kinase [Canarypox virus]
+gi|9634873|ref|NP_039166.1|vFam_872| Tyrosine protein kinase [Fowlpox virus]
+gi|377830097|ref|YP_005296345.1|vFam_872| unnamed protein product [Cotia virus SPAn232]
+gi|9633952|ref|NP_052032.1|vFam_872| gp147R [Rabbit fibroma virus]
+gi|9633782|ref|NP_051860.1|vFam_872| m147R [Myxoma virus]
+gi|211956429|ref|YP_002302499.1|vFam_872| tyrosine protein kinase-like protein [Deerpox virus W-1170-84]
+gi|148913020|ref|YP_001293334.1|vFam_872| hypothetical protein GTPV_gp136 [Goatpox virus Pellor]
+gi|18640226|ref|NP_570300.1|vFam_872| SPV140 tyrosine protein kinase-like protein [Swinepox virus]

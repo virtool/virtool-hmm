@@ -1,0 +1,12 @@
+CLUSTER	3071
+NUM_SEQ	4
+LENGTH	302
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	157.04
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Siadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|9635814|ref|NP_062450.1|vFam_3071| E3 [Frog adenovirus 1]
+gi|56160834|ref|AP_000493.1|vFam_3071| E3 [Turkey adenovirus A]
+gi|363540931|ref|YP_004935946.1|vFam_3071| unnamed protein product [Skua adenovirus A]
+gi|331271194|ref|YP_004414815.1|vFam_3071| E3 protein [Raptor adenovirus A]

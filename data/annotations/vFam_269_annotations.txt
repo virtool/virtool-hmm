@@ -1,0 +1,26 @@
+CLUSTER	269
+NUM_SEQ	18
+LENGTH	356
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	185.12
+FAMILIES	{'Baculoviridae': 16}
+GENERA	{'Alphabaculovirus': 16}
+FASTA SEQUENCE TITLES:
+gi|209401070|ref|YP_002273939.1|vFam_269| DNA synthesis regulator [Helicoverpa armigera NPV NNg1]
+gi|209978800|ref|YP_002300543.1|vFam_269| ME53 [Adoxophyes orana nucleopolyhedrovirus]
+gi|74229693|ref|YP_308897.1|vFam_269| me53 viral promoter [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304144|ref|YP_249612.1|vFam_269| ME-53 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549409|ref|NP_689182.1|vFam_269| me53 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069886|ref|NP_613090.1|vFam_269| me53 [Mamestra configurata nucleopolyhedrovirus A]
+gi|209170894|ref|YP_002268040.1|vFam_269| ME53 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592724|ref|YP_529677.1|vFam_269| ME53 [Agrotis segetum nucleopolyhedrovirus]
+gi|125860133|ref|YP_001036302.1|vFam_269| ME53 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401403|ref|YP_002332706.1|vFam_269| ME53 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634228|ref|NP_037767.1|vFam_269| ORF7 me53 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|113195415|ref|YP_717550.1|vFam_269| ME-53 [Clanis bilineata nucleopolyhedrovirus]
+gi|402502218|ref|YP_006607876.1|vFam_269| major early-transcribed protein 53 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|292397695|ref|YP_003517761.1|vFam_269| ME-53 [Lymantria xylina MNPV]
+gi|9630989|ref|NP_047659.1|vFam_269| LdOrf-23 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|228861605|ref|YP_002854625.1|vFam_269| Me-53 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|529218061|ref|YP_008378224.1|vFam_269| ME53 [Hemileuca sp. nucleopolyhedrovirus]
+gi|165969024|ref|YP_001650924.1|vFam_269| major early-transcribed protein 53 [Orgyia leucostigma NPV]

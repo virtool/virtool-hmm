@@ -1,0 +1,10 @@
+CLUSTER	3367
+NUM_SEQ	2
+LENGTH	273
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	139.23
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1}
+GENERA	{'None': 1, 'Phaeovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831092|ref|YP_003969735.1|vFam_3367| hypothetical protein crov103 [Cafeteria roenbergensis virus BV-PW1]
+gi|197322422|ref|YP_002154695.1|vFam_3367| hypothetical protein FeldSpV_gp073 [Feldmannia species virus]

@@ -1,0 +1,12 @@
+CLUSTER	2378
+NUM_SEQ	4
+LENGTH	51
+RELATIVE_ENTROPY_PER_POSITION	1.05
+TOTAL_RELATIVE_ENTROPY	53.55
+FAMILIES	{'Closteroviridae': 3}
+GENERA	{'Closterovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|563398778|ref|YP_008858532.1|vFam_2378| p6 [Carnation yellow fleck virus]
+gi|9627405|ref|NP_041871.1|vFam_2378| putative membrane-binding protein [Beet yellows virus]
+gi|118197613|ref|YP_874187.1|vFam_2378| p6 [Raspberry leaf mottle virus]
+gi|9628269|ref|NP_042863.1|vFam_2378| 6-kDa protein [Citrus tristeza virus]

@@ -1,0 +1,17 @@
+CLUSTER	1030
+NUM_SEQ	9
+LENGTH	93
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	50.22
+FAMILIES	{'Baculoviridae': 8}
+GENERA	{'Betabaculovirus': 1, 'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|96979790|ref|YP_610990.1|vFam_1030| p10 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355540|ref|YP_473208.1|vFam_1030| P10 [Hyphantria cunea nucleopolyhedrovirus]
+gi|438000436|ref|YP_007250541.1|vFam_1030| p10 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|114680188|ref|YP_758601.1|vFam_1030| p10 [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|119964639|ref|YP_950835.1|vFam_1030| P10 [Maruca vitrata nucleopolyhedrovirus]
+gi|109255317|ref|YP_654466.1|vFam_1030| P10 [Choristoneura occidentalis granulovirus]
+gi|15320777|ref|NP_203289.1|vFam_1030| P10 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326201|ref|YP_803527.1|vFam_1030| fibrous body protein [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|9630071|ref|NP_046289.1|vFam_1030| p10 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]

@@ -1,0 +1,11 @@
+CLUSTER	4786
+NUM_SEQ	3
+LENGTH	112
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	57.12
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Orthopoxvirus': 2, 'Cervidpoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|211956443|ref|YP_002302347.1|vFam_4786| CD30-like protein [Deerpox virus W-1170-84]
+gi|345107362|ref|YP_004821527.1|vFam_4786| vCD30 cys-rich soluble TNFR-like protein [Yoka poxvirus]
+gi|22164616|ref|NP_671527.1|vFam_4786| EVM009 [Ectromelia virus]

@@ -1,0 +1,10 @@
+CLUSTER	3987
+NUM_SEQ	2
+LENGTH	572
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	291.72
+FAMILIES	{'Retroviridae': 2}
+GENERA	{'Alpharetrovirus': 1, 'Lentivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|186469699|ref|YP_001856242.1|vFam_3987| reverse transcriptase [Human immunodeficiency virus 1]
+gi|40796158|ref|NP_955611.1|vFam_3987| p68a RT [Rous sarcoma virus]

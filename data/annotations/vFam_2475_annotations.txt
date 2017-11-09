@@ -1,0 +1,10 @@
+CLUSTER	2475
+NUM_SEQ	2
+LENGTH	147
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	74.97
+FAMILIES	{'Iridoviridae': 1}
+GENERA	{'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498014|ref|YP_008003813.1|vFam_2475| hypothetical protein MYSEV_296 [Mythimna separata entomopoxvirus 'L']
+gi|109287955|ref|YP_654649.1|vFam_2475| hypothetical protein MIV077R [Invertebrate iridescent virus 3]

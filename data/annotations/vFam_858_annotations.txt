@@ -1,0 +1,10 @@
+CLUSTER	858
+NUM_SEQ	2
+LENGTH	150
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	76.5
+FAMILIES	{'Phycodnaviridae': 1}
+GENERA	{'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852622|ref|YP_293906.1|vFam_858| hypothetical protein EhV153 [Emiliania huxleyi virus 86]
+gi|47131188|ref|YP_015554.1|vFam_858| hypothetical protein PyrSV_gp33 [Pyrobaculum spherical virus]

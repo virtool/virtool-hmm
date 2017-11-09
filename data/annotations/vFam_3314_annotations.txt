@@ -1,0 +1,10 @@
+CLUSTER	3314
+NUM_SEQ	2
+LENGTH	368
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	191.36
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Gammabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|48843658|ref|YP_025229.1|vFam_3314| unknown [Neodiprion lecontei nucleopolyhedrovirus]
+gi|48843569|ref|YP_025142.1|vFam_3314| P40 [Neodiprion sertifer nucleopolyhedrovirus]

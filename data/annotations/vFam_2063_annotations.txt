@@ -1,0 +1,14 @@
+CLUSTER	2063
+NUM_SEQ	6
+LENGTH	87
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	51.33
+FAMILIES	{'Phycodnaviridae': 6}
+GENERA	{'Phaeovirus': 2, 'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|155370419|ref|YP_001425953.1|vFam_2063| hypothetical protein FR483_N321L [Paramecium bursaria Chlorella virus FR483]
+gi|155371168|ref|YP_001426702.1|vFam_2063| hypothetical protein ATCV1_Z221L [Acanthocystis turfacea Chlorella virus 1]
+gi|157953569|ref|YP_001498460.1|vFam_2063| hypothetical protein AR158_C379L [Paramecium bursaria Chlorella virus AR158]
+gi|9631874|ref|NP_048660.1|vFam_2063| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|197322398|ref|YP_002154671.1|vFam_2063| hypothetical protein FeldSpV_gp049 [Feldmannia species virus]
+gi|13242533|ref|NP_077546.1|vFam_2063| EsV-1-61 [Ectocarpus siliculosus virus 1]

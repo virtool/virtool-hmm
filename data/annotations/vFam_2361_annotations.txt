@@ -1,0 +1,11 @@
+CLUSTER	2361
+NUM_SEQ	3
+LENGTH	266
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	138.32
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Mardivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|12084885|ref|NP_073350.1|vFam_2361| protein LORF4 [Meleagrid herpesvirus 1]
+gi|12084888|ref|NP_073353.1|vFam_2361| protein LORF4A [Meleagrid herpesvirus 1]
+gi|125745108|ref|YP_001033985.1|vFam_2361| protein LORF4 [Gallid herpesvirus 2]

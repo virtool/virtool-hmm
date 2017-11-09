@@ -1,0 +1,42 @@
+CLUSTER	135
+NUM_SEQ	34
+LENGTH	369
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	191.88
+FAMILIES	{'Baculoviridae': 29}
+GENERA	{'Deltabaculovirus': 1, 'Gammabaculovirus': 3, 'Betabaculovirus': 11, 'Alphabaculovirus': 14}
+FASTA SEQUENCE TITLES:
+gi|15320812|ref|NP_203322.1|vFam_135| CUN018 putative vlf-1 very late expression factor 1, similar to AcMNPV ORF77 [Culex nigripalpus nucleopolyhedrovirus]
+gi|48843579|ref|YP_025152.1|vFam_135| very late factor 1 [Neodiprion sertifer nucleopolyhedrovirus]
+gi|48843671|ref|YP_025242.1|vFam_135| very late factor-1 [Neodiprion lecontei nucleopolyhedrovirus]
+gi|110645253|ref|YP_667893.1|vFam_135| very late factor 1 [Neodiprion abietis NPV]
+gi|114679936|ref|YP_758386.1|vFam_135| vlf-1 [Leucania separata nucleopolyhedrovirus]
+gi|15617542|ref|NP_258342.1|vFam_135| VLF-1 [Spodoptera litura nucleopolyhedrovirus]
+gi|90592810|ref|YP_529763.1|vFam_135| VLF-1 [Agrotis segetum nucleopolyhedrovirus]
+gi|20069985|ref|NP_613189.1|vFam_135| very late factor 1 VLF-1 [Mamestra configurata nucleopolyhedrovirus A]
+gi|209401127|ref|YP_002273996.1|vFam_135| very late expression factor 1 [Helicoverpa armigera NPV NNg1]
+gi|438000379|ref|YP_007250484.1|vFam_135| vlf-1 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|96979838|ref|YP_611044.1|vFam_135| vlf-1 [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326144|ref|YP_803470.1|vFam_135| very late factor-1 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|529153387|ref|YP_008378427.1|vFam_135| VLF-1 [Choristoneura rosaceana alphabaculovirus]
+gi|15320726|ref|NP_203238.1|vFam_135| VLF-1 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|74229756|ref|YP_308960.1|vFam_135| very late factor 1 (vlf-1) [Trichoplusia ni single nucleopolyhedrovirus]
+gi|29567146|ref|NP_818708.1|vFam_135| very late factor 1 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|9631053|ref|NP_047723.1|vFam_135| very late factor 1 [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|113195472|ref|YP_717609.1|vFam_135| VLF-1 [Clanis bilineata nucleopolyhedrovirus]
+gi|228861659|ref|YP_002854679.1|vFam_135| Vlf-1 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|118197542|ref|YP_874254.1|vFam_135| very late factor 1 [Ectropis obliqua nucleopolyhedrovirus]
+gi|529218123|ref|YP_008378286.1|vFam_135| vlf1 [Hemileuca sp. nucleopolyhedrovirus]
+gi|165969080|ref|YP_001650980.1|vFam_135| very late factor 1 [Orgyia leucostigma NPV]
+gi|410493671|ref|YP_006908609.1|vFam_135| VLF-1 [Epinotia aporema granulovirus]
+gi|11068092|ref|NP_068308.1|vFam_135| PxORF89 peptide [Plutella xylostella granulovirus]
+gi|164519321|ref|YP_001649108.1|vFam_135| very late expression factor-1 [Helicoverpa armigera granulovirus]
+gi|148368918|ref|YP_001257048.1|vFam_135| vlf [Spodoptera litura granulovirus]
+gi|46309357|ref|YP_006247.1|vFam_135| ORF97 [Agrotis segetum granulovirus]
+gi|109255358|ref|YP_654507.1|vFam_135| VLF-1 [Choristoneura occidentalis granulovirus]
+gi|32698630|ref|NP_872545.1|vFam_135| vlf-1 [Adoxophyes orana granulovirus]
+gi|21686764|ref|NP_663264.1|vFam_135| very late factor 1 [Phthorimaea operculella granulovirus]
+gi|556549126|ref|YP_008720040.1|vFam_135| vlf-1 [Clostera anastomosis granulovirus]
+gi|288804729|ref|YP_003429414.1|vFam_135| VLF-1 [Pieris rapae granulovirus]
+gi|33622297|ref|NP_891944.1|vFam_135| vlf-1 [Cryptophlebia leucotreta granulovirus]
+gi|14602343|ref|NP_148890.1|vFam_135| ORF106 VLF-1 [Cydia pomonella granulovirus]

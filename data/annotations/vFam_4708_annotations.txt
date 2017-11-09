@@ -1,0 +1,11 @@
+CLUSTER	4708
+NUM_SEQ	3
+LENGTH	149
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	77.48
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'Phaeovirus': 2, 'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182069|ref|YP_008052588.1|vFam_4708| hypothetical protein PGCG_00270 [Phaeocystis globosa virus]
+gi|197322431|ref|YP_002154704.1|vFam_4708| hypothetical protein FeldSpV_gp082 [Feldmannia species virus]
+gi|13242601|ref|NP_077615.1|vFam_4708| EsV-1-130 [Ectocarpus siliculosus virus 1]

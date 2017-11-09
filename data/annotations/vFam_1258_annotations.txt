@@ -1,0 +1,13 @@
+CLUSTER	1258
+NUM_SEQ	5
+LENGTH	368
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	191.36
+FAMILIES	{'Alloherpesviridae': 5}
+GENERA	{'Cyprinivirus': 4, 'Batrachovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|109638639|ref|YP_656639.1|vFam_1258| ORF131 [Ranid herpesvirus 2]
+gi|282174073|ref|YP_003358175.1|vFam_1258| capsid triplex subunit 2 [Anguillid herpesvirus 1]
+gi|131840098|ref|YP_001096107.1|vFam_1258| unnamed protein product [Cyprinid herpesvirus 3]
+gi|422933610|ref|YP_007003735.1|vFam_1258| putative capsid triplex subunit 2 [Cyprinid herpesvirus 1]
+gi|422933837|ref|YP_007003891.1|vFam_1258| putative capsid triplex subunit 2 [Cyprinid herpesvirus 2]

@@ -1,0 +1,14 @@
+CLUSTER	1549
+NUM_SEQ	6
+LENGTH	405
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	214.65
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035890|ref|YP_008437524.1|vFam_1549| hypothetical protein ps_1112 [Pandoravirus salinus]
+gi|531035832|ref|YP_008437466.1|vFam_1549| hypothetical protein ps_1054 [Pandoravirus salinus]
+gi|531035796|ref|YP_008437430.1|vFam_1549| ankyrin repeat [Pandoravirus salinus]
+gi|531035917|ref|YP_008437551.1|vFam_1549| ankyrin repeat [Pandoravirus salinus]
+gi|531035845|ref|YP_008437479.1|vFam_1549| ankyrin repeat [Pandoravirus salinus]
+gi|531035841|ref|YP_008437475.1|vFam_1549| ankyrin repeat [Pandoravirus salinus]

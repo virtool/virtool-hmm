@@ -1,0 +1,11 @@
+CLUSTER	4518
+NUM_SEQ	3
+LENGTH	61
+RELATIVE_ENTROPY_PER_POSITION	0.86
+TOTAL_RELATIVE_ENTROPY	52.46
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281801|ref|YP_003331466.1|vFam_4518| hypothetical protein SSSV6_gp16 [Sulfolobus spindle-shaped virus 6]
+gi|38639814|ref|NP_944465.1|vFam_4518| ORF 61 [Sulfolobus spindle-shaped virus 2]
+gi|42494941|ref|NP_963939.1|vFam_4518| ORF F62 [Sulfolobus virus Ragged Hills]

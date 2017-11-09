@@ -1,0 +1,19 @@
+CLUSTER	732
+NUM_SEQ	11
+LENGTH	200
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	102.0
+FAMILIES	{'Poxviridae': 11}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Molluscipoxvirus': 1, 'Orthopoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9629018|ref|NP_044037.1|vFam_732| MC086R [Molluscum contagiosum virus subtype 1]
+gi|571797995|ref|YP_008658494.1|vFam_732| late transcription factor VLTF4 [Squirrelpox virus]
+gi|377829983|ref|YP_005296280.1|vFam_732| unnamed protein product [Cotia virus SPAn232]
+gi|345107271|ref|YP_004821436.1|vFam_732| late transcription factor VLTF-4 [Yoka poxvirus]
+gi|9627609|ref|NP_042132.1|vFam_732| late transcription factor VLTF-4 [Variola virus]
+gi|18640159|ref|NP_570233.1|vFam_732| SPV073 putative late transcription factor VLTF-4 [Swinepox virus]
+gi|157939699|ref|YP_001497071.1|vFam_732| late transcription factor VLTF-4 [Tanapox virus]
+gi|38229238|ref|NP_938331.1|vFam_732| 76R [Yaba monkey tumor virus]
+gi|211956356|ref|YP_002302425.1|vFam_732| Late transcription factor VLTF-4 [Deerpox virus W-1170-84]
+gi|9633882|ref|NP_051962.1|vFam_732| gp073R [Rabbit fibroma virus]
+gi|9633709|ref|NP_051787.1|vFam_732| m73R [Myxoma virus]

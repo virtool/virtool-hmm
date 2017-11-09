@@ -1,0 +1,11 @@
+CLUSTER	3602
+NUM_SEQ	3
+LENGTH	169
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	86.19
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977573|ref|YP_003986693.1|vFam_3602| putative cytidine deaminase [Acanthamoeba polyphaga mimivirus]
+gi|448825245|ref|YP_007418176.1|vFam_3602| putative cytidine deaminase [Megavirus lba]
+gi|363539829|ref|YP_004894346.1|vFam_3602| mg295 gene product [Megavirus chiliensis]

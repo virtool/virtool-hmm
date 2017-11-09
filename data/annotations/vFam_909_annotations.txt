@@ -1,0 +1,13 @@
+CLUSTER	909
+NUM_SEQ	5
+LENGTH	179
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	93.08
+FAMILIES	{'Herpesviridae': 4, 'Poxviridae': 1}
+GENERA	{'None': 1, 'Percavirus': 1, 'Rhadinovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|571798055|ref|YP_008658554.1|vFam_909| Zn finger protein [Squirrelpox virus]
+gi|9628077|ref|NP_042671.1|vFam_909| ORF E8 [Equid herpesvirus 2]
+gi|13095651|ref|NP_076565.1|vFam_909| v-FLIP [Bovine herpesvirus 4]
+gi|18653884|ref|NP_570818.1|vFam_909| FLIP [Macacine herpesvirus 5]
+gi|139472802|ref|YP_001129429.1|vFam_909| K13 [Human herpesvirus 8]

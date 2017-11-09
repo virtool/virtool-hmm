@@ -1,0 +1,16 @@
+CLUSTER	625
+NUM_SEQ	8
+LENGTH	1287
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	694.98
+FAMILIES	{'Reoviridae': 8}
+GENERA	{'Aquareovirus': 3, 'Orthoreovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|81079706|ref|YP_398629.1|vFam_625| putative guanylyl/methyl transferase [Aquareovirus A]
+gi|182682777|ref|YP_001837094.1|vFam_625| VP1 [American grass carp reovirus]
+gi|38147301|ref|NP_938060.1|vFam_625| guanylyl transferase/methyl transferase VP1 [Aquareovirus C]
+gi|323409490|ref|YP_004226523.1|vFam_625| lambda-C protein [Avian orthoreovirus]
+gi|459284222|ref|YP_007507317.1|vFam_625| guanylytransferase [Melaka orthoreovirus]
+gi|343098546|ref|YP_004769547.1|vFam_625| core turret protein [Baboon orthoreovirus]
+gi|298201184|ref|YP_003717772.1|vFam_625| lambda C [Broome virus]
+gi|258549712|ref|YP_003199419.1|vFam_625| lambda-2 protein [Mammalian orthoreovirus 3]

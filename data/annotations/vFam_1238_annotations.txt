@@ -1,0 +1,16 @@
+CLUSTER	1238
+NUM_SEQ	8
+LENGTH	81
+RELATIVE_ENTROPY_PER_POSITION	0.64
+TOTAL_RELATIVE_ENTROPY	51.84
+FAMILIES	{'Baculoviridae': 8}
+GENERA	{'Alphabaculovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|118197578|ref|YP_874290.1|vFam_1238| hypothetical protein EONV_gp097 [Ectropis obliqua nucleopolyhedrovirus]
+gi|402502130|ref|YP_006607788.1|vFam_1238| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|22549447|ref|NP_689220.1|vFam_1238| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209170928|ref|YP_002268074.1|vFam_1238| agip44 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592755|ref|YP_529708.1|vFam_1238| ORF-38 [Agrotis segetum nucleopolyhedrovirus]
+gi|125860158|ref|YP_001036328.1|vFam_1238| hypothetical protein SFMNPV_gp036 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401433|ref|YP_002332736.1|vFam_1238| hypothetical protein SlnV2_gp038 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634258|ref|NP_037797.1|vFam_1238| ORF37 [Spodoptera exigua multiple nucleopolyhedrovirus]

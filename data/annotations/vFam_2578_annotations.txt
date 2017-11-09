@@ -1,0 +1,13 @@
+CLUSTER	2578
+NUM_SEQ	5
+LENGTH	72
+RELATIVE_ENTROPY_PER_POSITION	0.74
+TOTAL_RELATIVE_ENTROPY	53.28
+FAMILIES	{'Marseillevirus family': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|284504117|ref|YP_003406832.1|vFam_2578| hypothetical protein MAR_ORF085 [Marseillevirus]
+gi|526119604|ref|YP_008319507.1|vFam_2578| hypothetical protein [Pandoravirus dulcis]
+gi|526119752|ref|YP_008319655.1|vFam_2578| hypothetical protein [Pandoravirus dulcis]
+gi|526119634|ref|YP_008319537.1|vFam_2578| hypothetical protein [Pandoravirus dulcis]
+gi|526119265|ref|YP_008319168.1|vFam_2578| hypothetical protein [Pandoravirus dulcis]

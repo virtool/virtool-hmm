@@ -1,0 +1,14 @@
+CLUSTER	880
+NUM_SEQ	6
+LENGTH	445
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	235.85
+FAMILIES	{'Baculoviridae': 6}
+GENERA	{'Betabaculovirus': 1, 'Alphabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|209401164|ref|YP_002274033.1|vFam_880| hypothetical protein HaSNPVNNg1_gp110 [Helicoverpa armigera NPV NNg1]
+gi|15617573|ref|NP_258373.1|vFam_880| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|46309415|ref|YP_006305.1|vFam_880| ORF39 [Agrotis segetum granulovirus]
+gi|215401416|ref|YP_002332719.1|vFam_880| hypothetical protein SlnV2_gp021 [Spodoptera litura nucleopolyhedrovirus II]
+gi|209170908|ref|YP_002268054.1|vFam_880| hypothetical protein AgipMNPV_gp024 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592739|ref|YP_529692.1|vFam_880| ORF-22 [Agrotis segetum nucleopolyhedrovirus]

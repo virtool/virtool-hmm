@@ -1,0 +1,20 @@
+CLUSTER	550
+NUM_SEQ	12
+LENGTH	184
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	95.68
+FAMILIES	{'Poxviridae': 12}
+GENERA	{'None': 1, 'Cervidpoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 3, 'Parapoxvirus': 3, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|41057456|ref|NP_957929.1|vFam_550| ORF020 dsRNA-binding PKR inhibitor [Bovine papular stomatitis virus]
+gi|289183784|ref|YP_003457325.1|vFam_550| dsRNA-binding interferon resistance protein [Pseudocowpox virus]
+gi|41057083|ref|NP_957797.1|vFam_550| ORF020 dsRNA-binding PKR inhibitor [Orf virus]
+gi|377830071|ref|YP_005296239.1|vFam_550| unnamed protein product [Cotia virus SPAn232]
+gi|18640118|ref|NP_570192.1|vFam_550| SPV032 putative PKR inhibitor host range protein [Swinepox virus]
+gi|211956314|ref|YP_002302383.1|vFam_550| DsRNA binding PKR inhibitor [Deerpox virus W-1170-84]
+gi|148912911|ref|YP_001293225.1|vFam_550| hypothetical protein GTPV_gp030 [Goatpox virus Pellor]
+gi|38229197|ref|NP_938290.1|vFam_550| 34L [Yaba monkey tumor virus]
+gi|12085017|ref|NP_073419.1|vFam_550| 34L protein [Yaba-like disease virus]
+gi|345107225|ref|YP_004821390.1|vFam_550| dsRNA-binding protein [Yoka poxvirus]
+gi|113195237|ref|YP_717367.1|vFam_550| double-stranded RNA binding protein [Taterapox virus]
+gi|17974965|ref|NP_536479.1|vFam_550| F3L [Monkeypox virus Zaire-96-I-16]

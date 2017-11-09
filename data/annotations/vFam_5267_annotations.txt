@@ -1,0 +1,10 @@
+CLUSTER	5267
+NUM_SEQ	2
+LENGTH	105
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	54.6
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825093|ref|YP_007418024.1|vFam_5267| hypothetical protein LBA_00126 [Megavirus lba]
+gi|363540795|ref|YP_004894199.1|vFam_5267| mg148 gene product [Megavirus chiliensis]

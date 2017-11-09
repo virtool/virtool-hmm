@@ -1,0 +1,11 @@
+CLUSTER	3617
+NUM_SEQ	3
+LENGTH	172
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	86.0
+FAMILIES	{'Alloherpesviridae': 2, 'Phycodnaviridae': 1}
+GENERA	{'Prymnesiovirus': 1, 'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|508182004|ref|YP_008052523.1|vFam_3617| hypothetical protein PGCG_00205 [Phaeocystis globosa virus]
+gi|422933892|ref|YP_007003951.1|vFam_3617| membrane protein ORF132 [Cyprinid herpesvirus 2]
+gi|131840158|ref|YP_001096167.1|vFam_3617| unnamed protein product [Cyprinid herpesvirus 3]

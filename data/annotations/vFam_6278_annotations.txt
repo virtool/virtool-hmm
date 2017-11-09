@@ -1,0 +1,10 @@
+CLUSTER	6278
+NUM_SEQ	2
+LENGTH	78
+RELATIVE_ENTROPY_PER_POSITION	0.65
+TOTAL_RELATIVE_ENTROPY	50.7
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Orthopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|113195324|ref|YP_717454.1|vFam_6278| cowpox A-type inclusion protein [Taterapox virus]
+gi|9627651|ref|NP_042174.1|vFam_6278| A-type inclusion body protein [Variola virus]

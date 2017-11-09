@@ -1,0 +1,13 @@
+CLUSTER	2852
+NUM_SEQ	5
+LENGTH	65
+RELATIVE_ENTROPY_PER_POSITION	0.81
+TOTAL_RELATIVE_ENTROPY	52.65
+FAMILIES	{'Potyviridae': 5}
+GENERA	{'Bymovirus': 4, 'Macluravirus': 1}
+FASTA SEQUENCE TITLES:
+gi|401829583|ref|YP_006590096.1|vFam_2852| 7K protein [Chinese yam necrotic mosaic virus]
+gi|25013748|ref|NP_734294.1|vFam_2852| 6k1 protein [Barley mild mosaic virus]
+gi|25014007|ref|NP_734276.1|vFam_2852| 6K1 protein [Oat mosaic virus]
+gi|25013961|ref|NP_697036.1|vFam_2852| 6K1 protein [Wheat yellow mosaic virus]
+gi|25013740|ref|NP_734302.1|vFam_2852| 6K1 protein [Barley yellow mosaic virus]

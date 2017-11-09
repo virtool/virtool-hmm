@@ -1,0 +1,12 @@
+CLUSTER	3327
+NUM_SEQ	4
+LENGTH	110
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	56.1
+FAMILIES	{'Papillomaviridae': 4}
+GENERA	{'Deltapapillomavirus': 4}
+FASTA SEQUENCE TITLES:
+gi|9627062|ref|NP_056741.1|vFam_3327| E4 protein [Bovine papillomavirus - 1]
+gi|194268069|ref|YP_002004571.1|vFam_3327| E4 [Capreolus capreolus papillomavirus 1]
+gi|9627081|ref|NP_041307.1|vFam_3327| hypothetical protein EEPVgp07 [Deltapapillomavirus 1]
+gi|9627070|ref|NP_041297.1|vFam_3327| E4 protein [Deltapapillomavirus 2]

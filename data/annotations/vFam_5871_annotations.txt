@@ -1,0 +1,10 @@
+CLUSTER	5871
+NUM_SEQ	2
+LENGTH	142
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	72.42
+FAMILIES	{'Papillomaviridae': 2}
+GENERA	{'Deltapapillomavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|326631685|ref|YP_004306474.1|vFam_5871| E1^E4 [Camelus dromedarius papillomavirus type 2]
+gi|326631681|ref|YP_004306467.1|vFam_5871| E1^E4 [Camelus dromedarius papillomavirus type 1]

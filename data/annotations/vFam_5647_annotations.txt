@@ -1,0 +1,10 @@
+CLUSTER	5647
+NUM_SEQ	2
+LENGTH	143
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	74.36
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825994|ref|YP_007418925.1|vFam_5647| hypothetical protein LBA_01031 [Megavirus lba]
+gi|441432011|ref|YP_007354053.1|vFam_5647| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]

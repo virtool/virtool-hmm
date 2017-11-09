@@ -1,0 +1,12 @@
+CLUSTER	3052
+NUM_SEQ	4
+LENGTH	168
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	87.36
+FAMILIES	{'Arteriviridae': 4}
+GENERA	{'Arterivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|10181061|ref|NP_065660.1|vFam_3052| hypothetical protein EAVgp7 [Equine arteritis virus]
+gi|15426267|ref|NP_203551.1|vFam_3052| non-glycosylated envelope protein [Simian hemorrhagic fever virus]
+gi|9627978|ref|NP_042578.1|vFam_3052| non-glycosylated envelope protein M [Lactate dehydrogenase-elevating virus]
+gi|9630812|ref|NP_047412.1|vFam_3052| membrane protein M [Porcine reproductive and respiratory syndrome virus]

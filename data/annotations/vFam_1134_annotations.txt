@@ -1,0 +1,15 @@
+CLUSTER	1134
+NUM_SEQ	7
+LENGTH	325
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	169.0
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|310831177|ref|YP_003969820.1|vFam_1134| hypothetical protein crov188 [Cafeteria roenbergensis virus BV-PW1]
+gi|531037197|ref|YP_008438839.1|vFam_1134| ankyrin repeat [Pandoravirus salinus]
+gi|531035406|ref|YP_008437035.1|vFam_1134| ankyrin repeat [Pandoravirus salinus]
+gi|526119181|ref|YP_008319084.1|vFam_1134| ankyrin repeat [Pandoravirus dulcis]
+gi|531037200|ref|YP_008438842.1|vFam_1134| ankyrin repeat [Pandoravirus salinus]
+gi|531035403|ref|YP_008437032.1|vFam_1134| ankyrin repeat [Pandoravirus salinus]
+gi|526119179|ref|YP_008319082.1|vFam_1134| ankyrin repeat [Pandoravirus dulcis]

@@ -1,0 +1,17 @@
+CLUSTER	962
+NUM_SEQ	9
+LENGTH	253
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	134.09
+FAMILIES	{'None': 1, 'Picornaviridae': 5}
+GENERA	{'Parechovirus': 2, 'None': 3, 'Avihepatovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|570033520|ref|YP_008992080.1|vFam_962| capsid protein 1AB (VP0) [Carp picornavirus 1]
+gi|402502239|ref|YP_006628177.1|vFam_962| VP0 capsid protein [Bluegill picornavirus]
+gi|157939780|ref|YP_001497174.1|vFam_962| VP0 [Seal picornavirus type 1]
+gi|495027912|ref|YP_007969873.1|vFam_962| capsid protein VP0 [Duck hepatitis A virus 1]
+gi|543145309|ref|YP_008549600.1|vFam_962| 1AB [Eel picornavirus 1]
+gi|397776127|ref|YP_006546259.1|vFam_962| VP0 [Swine pasivirus 1]
+gi|25121909|ref|NP_740384.1|vFam_962| VP0 protein [Human parechovirus]
+gi|512965470|ref|YP_008119835.1|vFam_962| VP0 protein [Sebokele virus 1]
+gi|23968325|ref|NP_705874.1|vFam_962| Capsid protein VP0 [Ljungan virus]

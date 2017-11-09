@@ -1,0 +1,26 @@
+CLUSTER	338
+NUM_SEQ	18
+LENGTH	436
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	231.08
+FAMILIES	{'Poxviridae': 18}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|115531740|ref|YP_784266.1|vFam_338| virion core protein [Nile crocodilepox virus]
+gi|571797974|ref|YP_008658473.1|vFam_338| predicted FEN-1 endonuclease [Squirrelpox virus]
+gi|9628992|ref|NP_044011.1|vFam_338| MC60R [Molluscum contagiosum virus subtype 1]
+gi|41057477|ref|NP_957950.1|vFam_338| ORF041 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183805|ref|YP_003457346.1|vFam_338| hypothetical protein PCPV_gp043 [Pseudocowpox virus]
+gi|41057104|ref|NP_957818.1|vFam_338| ORF041 hypothetical protein [Orf virus]
+gi|40556083|ref|NP_955168.1|vFam_338| CNPV145 conserved hypothetical protein [Canarypox virus]
+gi|9634787|ref|NP_039080.1|vFam_338| hypothetical protein FPV117 [Fowlpox virus]
+gi|113195262|ref|YP_717392.1|vFam_338| hypothetical protein TATV_DAH68_085 [Taterapox virus]
+gi|345107249|ref|YP_004821414.1|vFam_338| FEN1-like nuclease [Yoka poxvirus]
+gi|9633858|ref|NP_051938.1|vFam_338| gp049R [Rabbit fibroma virus]
+gi|9633685|ref|NP_051763.1|vFam_338| m049R [Myxoma virus]
+gi|157939677|ref|YP_001497049.1|vFam_338| hypothetical protein TANV_54R [Tanapox virus]
+gi|38229216|ref|NP_938309.1|vFam_338| 54R [Yaba monkey tumor virus]
+gi|377829963|ref|YP_005296258.1|vFam_338| unnamed protein product [Cotia virus SPAn232]
+gi|18640137|ref|NP_570211.1|vFam_338| SPV051 hypothetical protein [Swinepox virus]
+gi|148912931|ref|YP_001293245.1|vFam_338| hypothetical protein GTPV_gp050 [Goatpox virus Pellor]
+gi|211956334|ref|YP_002302403.1|vFam_338| hypothetical protein DpV84gp063 [Deerpox virus W-1170-84]

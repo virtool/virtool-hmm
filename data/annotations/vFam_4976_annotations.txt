@@ -1,0 +1,11 @@
+CLUSTER	4976
+NUM_SEQ	3
+LENGTH	90
+RELATIVE_ENTROPY_PER_POSITION	0.56
+TOTAL_RELATIVE_ENTROPY	50.4
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Orthopoxvirus': 1, 'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|20178523|ref|NP_619944.1|vFam_4976| CPXV160 protein [Cowpox virus]
+gi|40556029|ref|NP_955114.1|vFam_4976| CNPV091 HT motif protein [Canarypox virus]
+gi|9634737|ref|NP_039030.1|vFam_4976| HT motif gene family protein [Fowlpox virus]

@@ -1,0 +1,12 @@
+CLUSTER	2976
+NUM_SEQ	4
+LENGTH	271
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	143.63
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Betabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|285002367|ref|YP_003422431.1|vFam_2976| ssDNA binding protein [Pseudaletia unipuncta granulovirus]
+gi|164519282|ref|YP_001649069.1|vFam_2976| ssDNA binding protein [Helicoverpa armigera granulovirus]
+gi|148368891|ref|YP_001257021.1|vFam_2976| dbp [Spodoptera litura granulovirus]
+gi|11068064|ref|NP_068280.1|vFam_2976| PxORF61 peptide [Plutella xylostella granulovirus]

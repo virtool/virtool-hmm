@@ -1,0 +1,10 @@
+CLUSTER	6268
+NUM_SEQ	2
+LENGTH	224
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	116.48
+FAMILIES	{'Caliciviridae': 2}
+GENERA	{'Lagovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|28392827|ref|NP_786898.1|vFam_6268| Putative RHDV p23/p26 homolog [European brown hare syndrome virus]
+gi|25121575|ref|NP_740327.1|vFam_6268| p23/p26 [Rabbit hemorrhagic disease virus]

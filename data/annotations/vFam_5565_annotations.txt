@@ -1,0 +1,10 @@
+CLUSTER	5565
+NUM_SEQ	2
+LENGTH	418
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	217.36
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035388|ref|YP_008437017.1|vFam_5565| patatin-like phospholipase [Pandoravirus salinus]
+gi|526119166|ref|YP_008319069.1|vFam_5565| patatin-like phospholipase [Pandoravirus dulcis]

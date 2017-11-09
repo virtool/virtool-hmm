@@ -1,0 +1,14 @@
+CLUSTER	1869
+NUM_SEQ	6
+LENGTH	192
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	101.76
+FAMILIES	{'Picornaviridae': 4}
+GENERA	{'Kobuvirus': 2, 'None': 1, 'Orthoturdivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|304282496|ref|YP_003853297.1|vFam_1869| 3C [Turdivirus 1]
+gi|253761970|ref|YP_003038643.1|vFam_1869| 3C [Salivirus NG-J1]
+gi|557940305|ref|YP_008802671.1|vFam_1869| 3C [Feline sakobuvirus A]
+gi|25121751|ref|NP_740443.1|vFam_1869| 3C [Aichi virus 1]
+gi|219681387|ref|YP_002473943.1|vFam_1869| 3C [Porcine kobuvirus swine/S-1-HUN/2007/Hungary]
+gi|38201785|ref|NP_859027.1|vFam_1869| 3C [Aichivirus B]

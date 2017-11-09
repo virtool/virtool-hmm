@@ -1,0 +1,10 @@
+CLUSTER	2446
+NUM_SEQ	2
+LENGTH	187
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	97.24
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825139|ref|YP_007418070.1|vFam_2446| macro domain containing protein [Megavirus lba]
+gi|441432066|ref|YP_007354108.1|vFam_2446| macro domain containing protein [Acanthamoeba polyphaga moumouvirus]

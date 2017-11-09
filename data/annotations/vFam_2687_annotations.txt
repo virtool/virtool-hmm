@@ -1,0 +1,11 @@
+CLUSTER	2687
+NUM_SEQ	3
+LENGTH	191
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	99.32
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Roseolovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|51874238|ref|YP_073756.1|vFam_2687| protein U15 [Human herpesvirus 7]
+gi|224020400|ref|NP_042907.2|vFam_2687| protein U15 [Human herpesvirus 6A]
+gi|9633170|ref|NP_050196.1|vFam_2687| hypothetical protein HhV6Bgp021 [Human herpesvirus 6B]

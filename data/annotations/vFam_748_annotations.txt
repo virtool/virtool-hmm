@@ -1,0 +1,20 @@
+CLUSTER	748
+NUM_SEQ	12
+LENGTH	82
+RELATIVE_ENTROPY_PER_POSITION	0.64
+TOTAL_RELATIVE_ENTROPY	52.48
+FAMILIES	{'Baculoviridae': 8}
+GENERA	{'Alphabaculovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|119964626|ref|YP_950822.1|vFam_748| Mv-ORF92 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|438000421|ref|YP_007250526.1|vFam_748| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643652|ref|YP_002884342.1|vFam_748| Ac120-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|23577957|ref|NP_703108.1|vFam_748| hypothetical protein [Rachiplusia ou MNPV]
+gi|116326186|ref|YP_803512.1|vFam_748| hypothetical protein AGNV_gp118 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|99077897|ref|YP_611007.2|vFam_748| hypothetical protein APNV_p038 [Antheraea pernyi nucleopolyhedrovirus]
+gi|15320764|ref|NP_203276.1|vFam_748| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|86355554|ref|YP_473222.1|vFam_748| ORF34 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630058|ref|NP_046276.1|vFam_748| hypothetical protein OpmnVgp120 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153350|ref|YP_008378390.1|vFam_748| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|571031235|ref|YP_008992131.1|vFam_748| ac120 [Choristoneura murinana alphabaculovirus]
+gi|529153514|ref|YP_008378539.1|vFam_748| hypothetical protein [Choristoneura occidentalis alphabaculovirus]

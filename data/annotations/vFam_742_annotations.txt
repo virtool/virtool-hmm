@@ -1,0 +1,14 @@
+CLUSTER	742
+NUM_SEQ	6
+LENGTH	358
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	186.16
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|448260165|ref|YP_007348262.1|vFam_742| hypothetical protein STSV2_18 [Sulfolobus virus STSV2]
+gi|51980148|ref|YP_077215.1|vFam_742| hypothetical protein STSV1pORF22 [Sulfolobus virus STSV1]
+gi|448260166|ref|YP_007348263.1|vFam_742| hypothetical protein STSV2_19 [Sulfolobus virus STSV2]
+gi|51980147|ref|YP_077214.1|vFam_742| hypothetical protein STSV1pORF21 [Sulfolobus virus STSV1]
+gi|448260168|ref|YP_007348265.1|vFam_742| hypothetical protein STSV2_21 [Sulfolobus virus STSV2]
+gi|448260167|ref|YP_007348264.1|vFam_742| hypothetical protein STSV2_20 [Sulfolobus virus STSV2]

@@ -1,0 +1,25 @@
+CLUSTER	275
+NUM_SEQ	17
+LENGTH	1067
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	554.84
+FAMILIES	{'Bromoviridae': 16}
+GENERA	{'Alfamovirus': 1, 'Ilarvirus': 15}
+FASTA SEQUENCE TITLES:
+gi|20522135|ref|NP_620677.1|vFam_275| putative replicase [Spinach latent virus]
+gi|219504397|ref|YP_002455928.1|vFam_275| replicase [Asparagus virus 2]
+gi|20143445|ref|NP_619576.1|vFam_275| replicase [Elm mottle virus]
+gi|20564214|ref|NP_620753.1|vFam_275| viral replicase p1 [Tulare apple mosaic virus]
+gi|20087065|ref|NP_613282.1|vFam_275| hypothetical protein CiLRVs1gp1 [Citrus leaf rugose virus]
+gi|532565975|ref|YP_008470969.1|vFam_275| replicase protein [Ageratum latent virus]
+gi|46393297|ref|YP_006446.1|vFam_275| p1 protein [Parietaria mottle virus]
+gi|212525345|ref|YP_002308569.1|vFam_275| replicase [Blackberry chlorotic ringspot virus]
+gi|20564168|ref|NP_620772.1|vFam_275| putative viral replicase [Tobacco streak virus]
+gi|19697299|ref|NP_602312.1|vFam_275| putative viral replicase p1 [American plum line pattern virus]
+gi|50428567|ref|YP_054422.1|vFam_275| replicase [Humulus japonicus latent virus]
+gi|538602662|ref|YP_008519304.1|vFam_275| replicase P1 [Blueberry shock virus]
+gi|24817631|ref|NP_733823.1|vFam_275| replicase p1 [Prunus necrotic ringspot virus]
+gi|19744911|ref|NP_604469.1|vFam_275| putative methyltransferase/helicase [Apple mosaic virus]
+gi|9626925|ref|NP_041192.1|vFam_275| 125.7 kd protein [Alfalfa mosaic virus]
+gi|98960850|ref|YP_611154.1|vFam_275| putative viral replicase [Prune dwarf virus]
+gi|56692629|ref|YP_164801.1|vFam_275| replicase [Fragaria chiloensis latent virus]

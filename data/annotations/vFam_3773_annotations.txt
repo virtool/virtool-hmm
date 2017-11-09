@@ -1,0 +1,11 @@
+CLUSTER	3773
+NUM_SEQ	3
+LENGTH	72
+RELATIVE_ENTROPY_PER_POSITION	0.72
+TOTAL_RELATIVE_ENTROPY	51.84
+FAMILIES	{'None': 2, 'Mimiviridae': 1}
+GENERA	{'None': 2, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825040|ref|YP_007417971.1|vFam_3773| hypothetical protein LBA_00073 [Megavirus lba]
+gi|448825109|ref|YP_007418040.1|vFam_3773| putative chaperon protein DnaJ [Megavirus lba]
+gi|311978188|ref|YP_003987308.1|vFam_3773| putative chaperon protein DnaJ [Acanthamoeba polyphaga mimivirus]

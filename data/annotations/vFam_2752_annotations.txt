@@ -1,0 +1,12 @@
+CLUSTER	2752
+NUM_SEQ	4
+LENGTH	276
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	140.76
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|506498880|ref|YP_008004674.1|vFam_2752| unknown similar to AMEVITR05 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498578|ref|YP_008004374.1|vFam_2752| unknown similar to AMEVITR05 [Choristoneura biennis entomopoxvirus 'L']
+gi|506497905|ref|YP_008003704.1|vFam_2752| unknown similar to AMEVITR05 [Mythimna separata entomopoxvirus 'L']
+gi|9964596|ref|NP_064774.1|vFam_2752| hypothetical protein AMVITR05a [Amsacta moorei entomopoxvirus 'L']

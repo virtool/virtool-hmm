@@ -1,0 +1,21 @@
+CLUSTER	488
+NUM_SEQ	13
+LENGTH	292
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	154.76
+FAMILIES	{'Poxviridae': 13}
+GENERA	{'None': 1, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 1, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531793|ref|YP_784319.1|vFam_488| intermediate transcription factor VITF-3 [Nile crocodilepox virus]
+gi|40556183|ref|NP_955268.1|vFam_488| CNPV245 intermediate transcription factor VITF-3 [Canarypox virus]
+gi|9634842|ref|NP_039135.1|vFam_488| Intermediate transcription factor, VITF-3 [Fowlpox virus]
+gi|41057520|ref|NP_957993.1|vFam_488| ORF084 intermediate transcription factor VITF-3 [Bovine papular stomatitis virus]
+gi|289183849|ref|YP_003457390.1|vFam_488| intermediate transcription factor [Pseudocowpox virus]
+gi|17975032|ref|NP_536546.1|vFam_488| A9R [Monkeypox virus Zaire-96-I-16]
+gi|345107298|ref|YP_004821463.1|vFam_488| 32kDa small subunit of transcription factor VITF-3 [Yoka poxvirus]
+gi|38229261|ref|NP_938354.1|vFam_488| 99R [Yaba monkey tumor virus]
+gi|377830004|ref|YP_005296304.1|vFam_488| unnamed protein product [Cotia virus SPAn232]
+gi|148912976|ref|YP_001293290.1|vFam_488| hypothetical protein GTPV_gp095 [Goatpox virus Pellor]
+gi|18640182|ref|NP_570256.1|vFam_488| SPV096 putative intermediate transcription factor VITF-3 [Swinepox virus]
+gi|211956379|ref|YP_002302448.1|vFam_488| intermediate transcription factor VITF-3 [Deerpox virus W-1170-84]
+gi|9633907|ref|NP_051986.1|vFam_488| gp097R [Rabbit fibroma virus]

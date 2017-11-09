@@ -1,0 +1,13 @@
+CLUSTER	1121
+NUM_SEQ	5
+LENGTH	497
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	258.44
+FAMILIES	{'Flaviviridae': 5}
+GENERA	{'Pestivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|27885413|ref|NP_777492.1|vFam_1121| nonstructural protein NS5A [Bovine viral diarrhea virus 2]
+gi|27777753|ref|NP_776270.1|vFam_1121| nonstructural protein NS5A [Bovine viral diarrhea virus 1]
+gi|27885122|ref|NP_777531.1|vFam_1121| nonstructural protein NS5A [Pestivirus Giraffe-1]
+gi|27883898|ref|NP_777544.1|vFam_1121| nonstructural protein NS5A [Border disease virus]
+gi|27885154|ref|NP_777505.1|vFam_1121| nonstructural protein NS5A [Classical swine fever virus]

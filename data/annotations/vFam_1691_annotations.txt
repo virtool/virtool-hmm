@@ -1,0 +1,14 @@
+CLUSTER	1691
+NUM_SEQ	6
+LENGTH	182
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	92.82
+FAMILIES	{'Iridoviridae': 1, 'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15078775|ref|NP_149525.1|vFam_1691| 062L [Invertebrate iridescent virus 6]
+gi|9631357|ref|NP_048209.1|vFam_1691| ORF MSV138 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|506497785|ref|YP_008003584.1|vFam_1691| unknown similar to AMEV040 [Mythimna separata entomopoxvirus 'L']
+gi|506498067|ref|YP_008003864.1|vFam_1691| unknown similar to AMEV040 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498672|ref|YP_008004466.1|vFam_1691| unknown similar to AMEV040 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964354|ref|NP_064822.1|vFam_1691| hypothetical protein AMV040 [Amsacta moorei entomopoxvirus 'L']

@@ -1,0 +1,17 @@
+CLUSTER	671
+NUM_SEQ	9
+LENGTH	137
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	68.5
+FAMILIES	{'Baculoviridae': 6}
+GENERA	{'Alphabaculovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|15320689|ref|NP_203201.1|vFam_671| LEF-6 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|86355635|ref|YP_473303.1|vFam_671| LEF6 [Hyphantria cunea nucleopolyhedrovirus]
+gi|116326108|ref|YP_803433.1|vFam_671| late expression factor 6 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|9629978|ref|NP_046196.1|vFam_671| hypothetical protein OpmnVgp040 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153590|ref|YP_008378615.1|vFam_671| LEF-6 [Choristoneura occidentalis alphabaculovirus]
+gi|529153425|ref|YP_008378465.1|vFam_671| LEF-6 [Choristoneura rosaceana alphabaculovirus]
+gi|119964553|ref|YP_950749.1|vFam_671| late expression factor-6 [Maruca vitrata nucleopolyhedrovirus]
+gi|438000333|ref|YP_007250438.1|vFam_671| lef-6 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643569|ref|YP_002884259.1|vFam_671| LEF-6 [Bombyx mandarina nucleopolyhedrovirus]

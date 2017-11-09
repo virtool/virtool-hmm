@@ -1,0 +1,10 @@
+CLUSTER	1221
+NUM_SEQ	2
+LENGTH	387
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	197.37
+FAMILIES	{'Retroviridae': 2}
+GENERA	{'Gammaretrovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|194033120|ref|YP_002000607.1|vFam_1221| Hypothetical mature IN protein [Gibbon ape leukemia virus]
+gi|22477148|ref|NP_598371.2|vFam_1221| pol polyprotein fragment [Moloney murine sarcoma virus]

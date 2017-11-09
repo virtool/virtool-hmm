@@ -1,0 +1,12 @@
+CLUSTER	2489
+NUM_SEQ	4
+LENGTH	181
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	92.31
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Varicellovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|270339496|ref|YP_003331578.1|vFam_2489| protein V57 [Felid herpesvirus 1]
+gi|9629787|ref|NP_045276.1|vFam_2489| protein V57 [Equid herpesvirus 4]
+gi|216905912|ref|YP_002333540.1|vFam_2489| protein V57 [Equid herpesvirus 9]
+gi|50313300|ref|YP_053103.1|vFam_2489| protein V57 [Equid herpesvirus 1]

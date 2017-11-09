@@ -1,0 +1,13 @@
+CLUSTER	1346
+NUM_SEQ	5
+LENGTH	431
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	219.81
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|30984488|ref|NP_851920.1|vFam_1346| regulatory protein ICP22 [Macacine herpesvirus 1]
+gi|83722629|ref|YP_443907.1|vFam_1346| regulatory protein ICP22 [Papiine herpesvirus 2]
+gi|56694783|ref|YP_164503.1|vFam_1346| regulatory protein ICP22 [Cercopithecine herpesvirus 2]
+gi|9629442|ref|NP_044663.1|vFam_1346| regulatory protein ICP22 [Human herpesvirus 1]
+gi|9629331|ref|NP_044531.1|vFam_1346| regulatory protein ICP22 [Human herpesvirus 2]

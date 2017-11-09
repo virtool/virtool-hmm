@@ -1,0 +1,10 @@
+CLUSTER	4281
+NUM_SEQ	2
+LENGTH	362
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	188.24
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|56692760|ref|YP_164218.1|vFam_4281| hypothetical protein ORF123L [Singapore grouper iridovirus]
+gi|49237357|ref|YP_031638.1|vFam_4281| hypothetical protein FV3gorf59L [Frog virus 3]

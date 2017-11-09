@@ -1,0 +1,10 @@
+CLUSTER	4743
+NUM_SEQ	2
+LENGTH	111
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	57.72
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498731|ref|YP_008004525.1|vFam_4743| hypothetical protein CHREV_121 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498427|ref|YP_008004223.1|vFam_4743| hypothetical protein CHBEV_153 [Choristoneura biennis entomopoxvirus 'L']

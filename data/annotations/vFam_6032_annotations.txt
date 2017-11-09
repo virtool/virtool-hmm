@@ -1,0 +1,10 @@
+CLUSTER	6032
+NUM_SEQ	2
+LENGTH	211
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	109.72
+FAMILIES	{'Ophioviridae': 2}
+GENERA	{'Ophiovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|50355590|ref|YP_053237.1|vFam_6032| 22 kDa protein [Lettuce ring necrosis virus]
+gi|30410832|ref|NP_848528.1|vFam_6032| 25K protein [Mirafiore lettuce virus]

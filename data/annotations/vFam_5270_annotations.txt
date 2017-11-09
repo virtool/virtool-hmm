@@ -1,0 +1,10 @@
+CLUSTER	5270
+NUM_SEQ	2
+LENGTH	161
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	83.72
+FAMILIES	{'Closteroviridae': 2}
+GENERA	{'Closterovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|77118929|ref|YP_337918.1|vFam_5270| 19 kDa protein [Grapevine leafroll-associated virus 2]
+gi|30018244|ref|NP_835251.1|vFam_5270| p19 protein [Grapevine rootstock stem lesion associated virus]

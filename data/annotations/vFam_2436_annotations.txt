@@ -1,0 +1,11 @@
+CLUSTER	2436
+NUM_SEQ	3
+LENGTH	203
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	105.56
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 1, 'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313768127|ref|YP_004061558.1|vFam_2436| hypothetical protein BpV1_128c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|260666001|ref|YP_003212955.1|vFam_2436| hypothetical protein H665_p132 [Ostreococcus tauri virus 1]
+gi|313768341|ref|YP_004062021.1|vFam_2436| hypothetical protein MpV1_138c [Micromonas sp. RCC1109 virus MpV1]

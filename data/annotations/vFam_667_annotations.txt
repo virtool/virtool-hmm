@@ -1,0 +1,17 @@
+CLUSTER	667
+NUM_SEQ	9
+LENGTH	513
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	266.76
+FAMILIES	{'Astroviridae': 9}
+GENERA	{'None': 6, 'Avastrovirus': 1, 'Mamastrovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|225676454|ref|YP_002728002.1|vFam_667| ORF1b [Duck astrovirus C-NGB]
+gi|410493718|ref|YP_006905859.1|vFam_667| ORF1b, partial [Astrovirus VA3]
+gi|410493721|ref|YP_006905856.1|vFam_667| ORF1b, partial [Astrovirus VA4]
+gi|407868424|ref|YP_006792627.1|vFam_667| RNA-dependent RNA polymerase, partial [Astrovirus VA2]
+gi|410493724|ref|YP_006905853.1|vFam_667| ORF1b, partial [Astrovirus MLB3]
+gi|209902362|ref|YP_002290967.1|vFam_667| ORF1b [Astrovirus MLB1]
+gi|26026546|ref|NP_751905.1|vFam_667| orf1b product [Mamastrovirus 1]
+gi|407868431|ref|YP_006843891.1|vFam_667| RNA-dependent RNA polymerase, partial [Murine astrovirus]
+gi|378554474|ref|YP_005271208.1|vFam_667| ORF1b, partial [Astrovirus wild boar/WBAstV-1/2011/HUN]

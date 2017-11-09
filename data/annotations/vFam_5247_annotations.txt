@@ -1,0 +1,10 @@
+CLUSTER	5247
+NUM_SEQ	2
+LENGTH	57
+RELATIVE_ENTROPY_PER_POSITION	0.92
+TOTAL_RELATIVE_ENTROPY	52.44
+FAMILIES	{'Coronaviridae': 2}
+GENERA	{'Gammacoronavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|189313871|ref|YP_001941167.1|vFam_5247| 3a protein [Turkey coronavirus]
+gi|9626539|ref|NP_040832.1|vFam_5247| 3a protein [Infectious bronchitis virus]

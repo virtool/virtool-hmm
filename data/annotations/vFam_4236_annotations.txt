@@ -1,0 +1,10 @@
+CLUSTER	4236
+NUM_SEQ	2
+LENGTH	593
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	302.43
+FAMILIES	{'None': 1, 'Malacoherpesviridae': 1}
+GENERA	{'None': 1, 'Ostreavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|410493506|ref|YP_006908704.1|vFam_4236| hypothetical protein AbHV_ORF54 [Abalone herpesvirus Victoria/AUS/2009]
+gi|48696780|ref|YP_024604.1|vFam_4236| ORF61 [Ostreid herpesvirus 1]

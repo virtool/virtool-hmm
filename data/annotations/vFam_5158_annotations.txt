@@ -1,0 +1,10 @@
+CLUSTER	5158
+NUM_SEQ	2
+LENGTH	137
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	71.24
+FAMILIES	{'Betaflexiviridae': 2}
+GENERA	{'Trichovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|212681402|ref|YP_002308568.1|vFam_5158| putative nucleic acid-binding protein [Peach mosaic virus]
+gi|9635794|ref|NP_062431.1|vFam_5158| putative nucleic acid-binding protein [Cherry mottle leaf virus]

@@ -1,0 +1,10 @@
+CLUSTER	1461
+NUM_SEQ	2
+LENGTH	125
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	62.5
+FAMILIES	{'Phycodnaviridae': 1}
+GENERA	{'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182221|ref|YP_008052740.1|vFam_1461| GIY-YIG superfamily protein [Phaeocystis globosa virus]
+gi|45655879|ref|YP_003738.1|vFam_1461| hypothetical protein AFV1_ORF115 [Acidianus filamentous virus 1]

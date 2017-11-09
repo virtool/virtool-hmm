@@ -1,0 +1,11 @@
+CLUSTER	1842
+NUM_SEQ	3
+LENGTH	161
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	83.72
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Rhadinovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|13095618|ref|NP_076533.1|vFam_1842| helicase-primase complex component [Bovine herpesvirus 4]
+gi|9631233|ref|NP_048014.1|vFam_1842| orf 41 [Ateline herpesvirus 3]
+gi|9625997|ref|NP_040243.1|vFam_1842| unnamed protein product [Saimiriine herpesvirus 2]

@@ -1,0 +1,11 @@
+CLUSTER	3379
+NUM_SEQ	3
+LENGTH	207
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	107.64
+FAMILIES	{'Nimaviridae': 3}
+GENERA	{'Whispovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|17158106|ref|NP_477524.1|vFam_3379| wsv002 [Shrimp white spot syndrome virus]
+gi|17158413|ref|NP_477833.1|vFam_3379| wsv311 [Shrimp white spot syndrome virus]
+gi|17158523|ref|NP_477943.1|vFam_3379| wsv421 [Shrimp white spot syndrome virus]

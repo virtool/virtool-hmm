@@ -1,0 +1,10 @@
+CLUSTER	5949
+NUM_SEQ	2
+LENGTH	96
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	49.92
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498894|ref|YP_008004688.1|vFam_5949| unknown similar to AMEVITR03 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964605|ref|NP_065059.1|vFam_5949| similar to ferrochelatase [Amsacta moorei entomopoxvirus 'L']

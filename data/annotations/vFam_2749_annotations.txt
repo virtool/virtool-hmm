@@ -1,0 +1,11 @@
+CLUSTER	2749
+NUM_SEQ	3
+LENGTH	323
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	164.73
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977854|ref|YP_003986974.1|vFam_2749| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432276|ref|YP_007354318.1|vFam_2749| putative low complexity protein [Acanthamoeba polyphaga moumouvirus]
+gi|363540601|ref|YP_004894470.1|vFam_2749| mg419 gene product [Megavirus chiliensis]

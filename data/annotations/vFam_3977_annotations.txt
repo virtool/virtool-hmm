@@ -1,0 +1,10 @@
+CLUSTER	3977
+NUM_SEQ	2
+LENGTH	308
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	154.0
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409976|ref|YP_004347396.1|vFam_3977| hypothetical protein LAU_0434 [Lausannevirus]
+gi|284504058|ref|YP_003406773.1|vFam_3977| hypothetical protein MAR_ORF018 [Marseillevirus]

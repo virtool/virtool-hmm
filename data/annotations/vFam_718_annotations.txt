@@ -1,0 +1,21 @@
+CLUSTER	718
+NUM_SEQ	13
+LENGTH	90
+RELATIVE_ENTROPY_PER_POSITION	0.57
+TOTAL_RELATIVE_ENTROPY	51.3
+FAMILIES	{'Adenoviridae': 12}
+GENERA	{'Mastadenovirus': 12}
+FASTA SEQUENCE TITLES:
+gi|460042660|ref|YP_007518087.1|vFam_718| E3 RID-alpha [Simian adenovirus 20]
+gi|51518840|ref|YP_067927.1|vFam_718| E3 RID-alpha [Simian adenovirus 3]
+gi|56160460|ref|AP_000131.1|vFam_718| E3 RID-alpha [Human adenovirus A]
+gi|327415392|ref|YP_004300220.1|vFam_718| unnamed protein product [Simian adenovirus 49]
+gi|9626581|ref|NP_040871.1|vFam_718| membrane protein E3 RID-alpha [Human adenovirus F]
+gi|485191082|ref|YP_007906018.1|vFam_718| E3 RID-alpha [Simian adenovirus C]
+gi|61602108|ref|YP_213985.1|vFam_718| E3 RID-alpha [Simian adenovirus 1]
+gi|160409924|ref|YP_001551770.1|vFam_718| membrane protein E3 RID-alpha [Human adenovirus C]
+gi|56160865|ref|AP_000523.1|vFam_718| E3 RID-alpha [Human adenovirus 1]
+gi|253762001|ref|YP_003038623.1|vFam_718| 10.5 kDa protein [Human adenovirus 54]
+gi|197944755|ref|YP_002213792.1|vFam_718| membrane protein E3 RID-alpha [Human adenovirus B]
+gi|56160662|ref|AP_000326.1|vFam_718| E3 RID-alpha [Simian adenovirus 25]
+gi|51527291|ref|YP_068044.1|vFam_718| membrane protein E3 RID-alpha [Human adenovirus E]

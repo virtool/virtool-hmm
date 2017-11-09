@@ -1,0 +1,24 @@
+CLUSTER	482
+NUM_SEQ	16
+LENGTH	303
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	160.59
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531814|ref|YP_784340.1|vFam_482| RNA polymerase subunit RPO35 [Nile crocodilepox virus]
+gi|40556205|ref|NP_955290.1|vFam_482| CNPV267 RNA polymerase subunit RPO35 [Canarypox virus]
+gi|9634863|ref|NP_039156.1|vFam_482| RNA polymerase subunit, RP035 [Fowlpox virus]
+gi|41057542|ref|NP_958015.1|vFam_482| ORF106 RNA polymerase subunit RPO35 [Bovine papular stomatitis virus]
+gi|289183871|ref|YP_003457412.1|vFam_482| RNA-polymerase subunit RPO35 [Pseudocowpox virus]
+gi|9629067|ref|NP_044086.1|vFam_482| MC135L [Molluscum contagiosum virus subtype 1]
+gi|571798044|ref|YP_008658543.1|vFam_482| DNA-dependent RNA polymerase subunit rpo35 [Squirrelpox virus]
+gi|113195330|ref|YP_717460.1|vFam_482| DNA-dependent RNA polymerase rpo35 [Taterapox virus]
+gi|345107321|ref|YP_004821486.1|vFam_482| DNA-dependent RNA polymerase rpo35 [Yoka poxvirus]
+gi|157939742|ref|YP_001497114.1|vFam_482| RNA polymerase subunit rpo35 [Tanapox virus]
+gi|38229281|ref|NP_938374.1|vFam_482| 119L [Yaba monkey tumor virus]
+gi|377830023|ref|YP_005296324.1|vFam_482| unnamed protein product [Cotia virus SPAn232]
+gi|9633927|ref|NP_052006.1|vFam_482| gp117L [Rabbit fibroma virus]
+gi|18640202|ref|NP_570276.1|vFam_482| SPV116 RNA polymerase subunit RPO35 [Swinepox virus]
+gi|148912996|ref|YP_001293310.1|vFam_482| hypothetical protein GTPV_gp114 [Goatpox virus Pellor]
+gi|211956399|ref|YP_002302468.1|vFam_482| RNA polymerase subunit RPO35 [Deerpox virus W-1170-84]

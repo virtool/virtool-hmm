@@ -1,0 +1,26 @@
+CLUSTER	297
+NUM_SEQ	18
+LENGTH	382
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	194.82
+FAMILIES	{'Poxviridae': 18}
+GENERA	{'None': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Capripoxvirus': 2, 'Orthopoxvirus': 3, 'Avipoxvirus': 2, 'Yatapoxvirus': 1, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|15150585|ref|NP_150580.1|vFam_297| LSDV146 phospholipase D-like protein [Lumpy skin disease virus NI-2490]
+gi|113195215|ref|YP_717345.1|vFam_297| phospholipase-D-like protein [Taterapox virus]
+gi|377830101|ref|YP_005296349.1|vFam_297| unnamed protein product [Cotia virus SPAn232]
+gi|115531703|ref|YP_784229.1|vFam_297| palmitylated EEV envelope lipase [Nile crocodilepox virus]
+gi|40556073|ref|NP_955158.1|vFam_297| CNPV135 putative palmitylated EEV envelope lipase [Canarypox virus]
+gi|9634778|ref|NP_039071.1|vFam_297| Virion envelope protein [Fowlpox virus]
+gi|41057447|ref|NP_957920.1|vFam_297| ORF011 EEV phospholipase [Bovine papular stomatitis virus]
+gi|289183774|ref|YP_003457315.1|vFam_297| EEV envelope phospholipase [Pseudocowpox virus]
+gi|9628953|ref|NP_043972.1|vFam_297| MC021L [Molluscum contagiosum virus subtype 1]
+gi|571797940|ref|YP_008658439.1|vFam_297| palmitylated EEV envelope protein [Squirrelpox virus]
+gi|113195230|ref|YP_717360.1|vFam_297| palmytilated EEV membrane protein [Taterapox virus]
+gi|345107217|ref|YP_004821382.1|vFam_297| palmitoylprotein [Yoka poxvirus]
+gi|377830026|ref|YP_005296232.1|vFam_297| unnamed protein product [Cotia virus SPAn232]
+gi|9633658|ref|NP_051736.1|vFam_297| m22L [Myxoma virus]
+gi|211956307|ref|YP_002302376.1|vFam_297| palmitylated virion envelope protein [Deerpox virus W-1170-84]
+gi|18640111|ref|NP_570185.1|vFam_297| SPV025 putative EEV envelope protein [Swinepox virus]
+gi|148912904|ref|YP_001293218.1|vFam_297| hypothetical protein GTPV_gp024 [Goatpox virus Pellor]
+gi|157939648|ref|YP_001497020.1|vFam_297| palmitylated EEV envelope protein [Tanapox virus]

@@ -1,0 +1,13 @@
+CLUSTER	2874
+NUM_SEQ	5
+LENGTH	230
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	119.6
+FAMILIES	{'Flaviviridae': 5}
+GENERA	{'Flavivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|27596767|ref|NP_775518.1|vFam_2874| non-structural protein NS2a [Powassan virus]
+gi|27545509|ref|NP_775472.1|vFam_2874| non-structural protein NS2a [Alkhumra hemorrhagic fever virus]
+gi|25121529|ref|NP_740297.1|vFam_2874| nonstructural protein NS2a [Langat virus]
+gi|27596780|ref|NP_775505.1|vFam_2874| non-structural protein NS2a [Tick-borne encephalitis virus]
+gi|25121897|ref|NP_740724.1|vFam_2874| nonstructural protein NS2a [Louping ill virus]

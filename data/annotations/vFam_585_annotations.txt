@@ -1,0 +1,22 @@
+CLUSTER	585
+NUM_SEQ	14
+LENGTH	134
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	68.34
+FAMILIES	{'Adenoviridae': 13}
+GENERA	{'Mastadenovirus': 13}
+FASTA SEQUENCE TITLES:
+gi|253762002|ref|YP_003038624.1|vFam_585| 14.2 kDa protein [Human adenovirus 54]
+gi|56160485|ref|AP_000154.1|vFam_585| E3 RID-beta [Human adenovirus D]
+gi|56160663|ref|AP_000327.1|vFam_585| E3 RID-beta [Simian adenovirus 25]
+gi|51527293|ref|YP_068045.1|vFam_585| membrane protein E3 RID-beta [Human adenovirus E]
+gi|197944792|ref|YP_002213825.1|vFam_585| membrane protein E3 RID-beta [Human adenovirus B]
+gi|197944756|ref|YP_002213793.1|vFam_585| membrane protein E3 RID-beta [Human adenovirus B]
+gi|56160624|ref|AP_000289.1|vFam_585| E3 RID-beta [Simian adenovirus 21]
+gi|56160867|ref|AP_000524.1|vFam_585| E3 RID-beta [Human adenovirus 1]
+gi|160409925|ref|YP_001551771.1|vFam_585| membrane protein E3 RID-beta [Human adenovirus C]
+gi|56160556|ref|AP_000223.1|vFam_585| E3 RID-beta [Human adenovirus 5]
+gi|56160461|ref|AP_000132.1|vFam_585| E3 RID-beta [Human adenovirus A]
+gi|327415393|ref|YP_004300221.1|vFam_585| unnamed protein product [Simian adenovirus 49]
+gi|485191083|ref|YP_007906019.1|vFam_585| E3 RID-beta [Simian adenovirus C]
+gi|61602109|ref|YP_213986.1|vFam_585| E3 RID-beta [Simian adenovirus 1]

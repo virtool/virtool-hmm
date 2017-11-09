@@ -1,0 +1,15 @@
+CLUSTER	1240
+NUM_SEQ	7
+LENGTH	211
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	109.72
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Alphabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|116326191|ref|YP_803517.1|vFam_1240| late expression factor 7 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|96979800|ref|YP_611003.1|vFam_1240| lef-7 [Antheraea pernyi nucleopolyhedrovirus]
+gi|37651405|ref|NP_932729.1|vFam_1240| late expression factor 7 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|571031229|ref|YP_008992125.1|vFam_1240| lef7 [Choristoneura murinana alphabaculovirus]
+gi|529153510|ref|YP_008378535.1|vFam_1240| LEF-7 [Choristoneura occidentalis alphabaculovirus]
+gi|86355551|ref|YP_473219.1|vFam_1240| LEF7 [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630061|ref|NP_046279.1|vFam_1240| late expression factor 7 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]

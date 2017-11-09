@@ -1,0 +1,10 @@
+CLUSTER	2955
+NUM_SEQ	2
+LENGTH	531
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	276.12
+FAMILIES	{'None': 2}
+GENERA	{'Bacillariodnavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313493558|ref|YP_004046698.1|vFam_2955| putative replication-associated protein [Chaetoceros tenuissimus DNA virus]
+gi|326425108|ref|YP_004286322.1|vFam_2955| hypothetical protein [Chaetoceros lorenzianus DNA Virus]

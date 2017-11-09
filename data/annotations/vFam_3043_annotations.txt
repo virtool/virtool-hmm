@@ -1,0 +1,10 @@
+CLUSTER	3043
+NUM_SEQ	2
+LENGTH	728
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	378.56
+FAMILIES	{'Reoviridae': 2}
+GENERA	{'Aquareovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|182682785|ref|YP_001837098.1|vFam_3043| VP5 [American grass carp reovirus]
+gi|38147309|ref|NP_938064.1|vFam_3043| putative core protein NTPase/VP5 [Aquareovirus C]

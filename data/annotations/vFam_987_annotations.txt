@@ -1,0 +1,15 @@
+CLUSTER	987
+NUM_SEQ	7
+LENGTH	266
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	130.34
+FAMILIES	{'None': 1, 'Picornaviridae': 4}
+GENERA	{'Kobuvirus': 2, 'None': 2, 'Orthoturdivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|304282490|ref|YP_003853291.1|vFam_987| VP1 [Turdivirus 1]
+gi|488870556|ref|YP_007947661.1|vFam_987| VP1 [Canine picodicistrovirus]
+gi|253761964|ref|YP_003038637.1|vFam_987| VP1 [Salivirus NG-J1]
+gi|557940299|ref|YP_008802665.1|vFam_987| VP1 [Feline sakobuvirus A]
+gi|25121745|ref|NP_740437.1|vFam_987| VP1 [Aichi virus 1]
+gi|219681381|ref|YP_002473937.1|vFam_987| VP1 [Porcine kobuvirus swine/S-1-HUN/2007/Hungary]
+gi|38201779|ref|NP_859021.1|vFam_987| VP1 [Aichivirus B]

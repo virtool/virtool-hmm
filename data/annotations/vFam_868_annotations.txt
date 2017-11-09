@@ -1,0 +1,16 @@
+CLUSTER	868
+NUM_SEQ	8
+LENGTH	84
+RELATIVE_ENTROPY_PER_POSITION	0.60
+TOTAL_RELATIVE_ENTROPY	50.4
+FAMILIES	{'Tombusviridae': 8}
+GENERA	{'Carmovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|326537253|ref|YP_004300266.1|vFam_868| putative movement protein 2 [TGP Carmovirus 1]
+gi|20153392|ref|NP_619675.1|vFam_868| putative movement protein P9 [Hibiscus chlorotic ringspot virus]
+gi|9627423|ref|NP_041886.1|vFam_868| p9 protein [Cardamine chlorotic fleck virus]
+gi|126010922|ref|YP_001039886.1|vFam_868| MP2 [Nootka lupine vein clearing virus]
+gi|85718597|ref|YP_459963.1|vFam_868| p10 [Angelonia flower break virus]
+gi|529154250|ref|YP_008378654.1|vFam_868| P9 [Calibrachoa mottle virus]
+gi|46517826|ref|YP_009033.1|vFam_868| movement protein [Carnation mottle virus]
+gi|9629195|ref|NP_044387.1|vFam_868| SCVP9 [Saguaro cactus virus]

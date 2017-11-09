@@ -1,0 +1,11 @@
+CLUSTER	4884
+NUM_SEQ	3
+LENGTH	242
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	123.42
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978002|ref|YP_003987122.1|vFam_4884| structural PPIase-like protein [Acanthamoeba polyphaga mimivirus]
+gi|448825715|ref|YP_007418646.1|vFam_4884| structural ppiase-like protein [Megavirus lba]
+gi|441432555|ref|YP_007354597.1|vFam_4884| Cyclophilin family protein [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,11 @@
+CLUSTER	2491
+NUM_SEQ	3
+LENGTH	332
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	166.0
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|360041026|ref|YP_004940150.1|vFam_2491| protein A26 [Aotine herpesvirus 1]
+gi|360086610|ref|YP_004940299.1|vFam_2491| membrane protein A32 [Saimiriine herpesvirus 3]
+gi|360041034|ref|YP_004940157.1|vFam_2491| membrane protein A32 [Aotine herpesvirus 1]

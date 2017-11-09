@@ -1,0 +1,39 @@
+CLUSTER	40
+NUM_SEQ	31
+LENGTH	390
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	195.0
+FAMILIES	{'Phycodnaviridae': 31}
+GENERA	{'None': 7, 'Prasinovirus': 11, 'Phaeovirus': 1, 'Chlorovirus': 12}
+FASTA SEQUENCE TITLES:
+gi|313768079|ref|YP_004061510.1|vFam_40| hypothetical protein BpV1_080 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768296|ref|YP_004061976.1|vFam_40| hypothetical protein MpV1_093 [Micromonas sp. RCC1109 virus MpV1]
+gi|313844066|ref|YP_004061729.1|vFam_40| hypothetical protein OlV1_096 [Ostreococcus lucimarinus virus OlV1]
+gi|260665962|ref|YP_003212916.1|vFam_40| hypothetical protein H665_p093 [Ostreococcus tauri virus 1]
+gi|314055180|ref|YP_004063518.1|vFam_40| major capsid protein [Ostreococcus tauri virus 2]
+gi|313768080|ref|YP_004061511.1|vFam_40| hypothetical protein BpV1_081 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768297|ref|YP_004061977.1|vFam_40| hypothetical protein MpV1_094 [Micromonas sp. RCC1109 virus MpV1]
+gi|314055181|ref|YP_004063519.1|vFam_40| major capsid protein [Ostreococcus tauri virus 2]
+gi|313844067|ref|YP_004061730.1|vFam_40| hypothetical protein OlV1_097 [Ostreococcus lucimarinus virus OlV1]
+gi|163955073|ref|YP_001648177.1|vFam_40| hypothetical protein OsV5_100f [Ostreococcus virus OsV5]
+gi|197322408|ref|YP_002154681.1|vFam_40| putative major capsid protein [Feldmannia species virus]
+gi|313768268|ref|YP_004061948.1|vFam_40| hypothetical protein MpV1_065 [Micromonas sp. RCC1109 virus MpV1]
+gi|314055152|ref|YP_004063490.1|vFam_40| major capsid protein [Ostreococcus tauri virus 2]
+gi|313844038|ref|YP_004061701.1|vFam_40| hypothetical protein OlV1_068 [Ostreococcus lucimarinus virus OlV1]
+gi|260665935|ref|YP_003212889.1|vFam_40| hypothetical protein OTV1_065 [Ostreococcus tauri virus 1]
+gi|155370352|ref|YP_001425886.1|vFam_40| hypothetical protein FR483_N254L [Paramecium bursaria Chlorella virus FR483]
+gi|155370568|ref|YP_001426102.1|vFam_40| hypothetical protein FR483_N470L [Paramecium bursaria Chlorella virus FR483]
+gi|155371227|ref|YP_001426761.1|vFam_40| hypothetical protein ATCV1_Z280L [Acanthocystis turfacea Chlorella virus 1]
+gi|157953748|ref|YP_001498639.1|vFam_40| hypothetical protein AR158_C558L [Paramecium bursaria Chlorella virus AR158]
+gi|313768156|ref|YP_004061587.1|vFam_40| hypothetical protein BpV1_157 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768372|ref|YP_004062052.1|vFam_40| hypothetical protein MpV1_169 [Micromonas sp. RCC1109 virus MpV1]
+gi|314055249|ref|YP_004063587.1|vFam_40| major capsid protein [Ostreococcus tauri virus 2]
+gi|313844136|ref|YP_004061799.1|vFam_40| hypothetical protein OlV1_167 [Ostreococcus lucimarinus virus OlV1]
+gi|340025681|ref|NP_048358.2|vFam_40| Capsid protein [Paramecium bursaria Chlorella virus 1]
+gi|9631580|ref|NP_048359.1|vFam_40| Capsid protein [Paramecium bursaria Chlorella virus 1]
+gi|157953865|ref|YP_001498756.1|vFam_40| hypothetical protein AR158_C675L [Paramecium bursaria Chlorella virus AR158]
+gi|155371453|ref|YP_001426987.1|vFam_40| hypothetical protein ATCV1_Z506L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370372|ref|YP_001425906.1|vFam_40| hypothetical protein FR483_N274L [Paramecium bursaria Chlorella virus FR483]
+gi|155371611|ref|YP_001427145.1|vFam_40| hypothetical protein ATCV1_Z664R [Acanthocystis turfacea Chlorella virus 1]
+gi|157953239|ref|YP_001498130.1|vFam_40| hypothetical protein AR158_C048R [Paramecium bursaria Chlorella virus AR158]
+gi|155370172|ref|YP_001425706.1|vFam_40| hypothetical protein FR483_N074R [Paramecium bursaria Chlorella virus FR483]

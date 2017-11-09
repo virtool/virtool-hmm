@@ -1,0 +1,13 @@
+CLUSTER	1668
+NUM_SEQ	5
+LENGTH	440
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	224.4
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631365|ref|NP_048228.1|vFam_1668| ORF MSV157 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|506497928|ref|YP_008003727.1|vFam_1668| unknown similar to AMEV173 [Mythimna separata entomopoxvirus 'L']
+gi|506498186|ref|YP_008003983.1|vFam_1668| unknown similar to AMEV173 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498794|ref|YP_008004588.1|vFam_1668| unknown similar to AMEV173 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964487|ref|NP_064955.1|vFam_1668| hypothetical protein AMV173 [Amsacta moorei entomopoxvirus 'L']

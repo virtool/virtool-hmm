@@ -1,0 +1,13 @@
+CLUSTER	2711
+NUM_SEQ	5
+LENGTH	162
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	82.62
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9631518|ref|NP_048115.1|vFam_2711| ORF MSV044 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|506497806|ref|YP_008003605.1|vFam_2711| unknown similar to AMEV072 [Mythimna separata entomopoxvirus 'L']
+gi|506498089|ref|YP_008003886.1|vFam_2711| unknown similar to AMEV072 [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964386|ref|NP_064854.1|vFam_2711| hypothetical protein AMV072 [Amsacta moorei entomopoxvirus 'L']
+gi|506498398|ref|YP_008004194.1|vFam_2711| unknown similar to AMEV072 [Choristoneura biennis entomopoxvirus 'L']

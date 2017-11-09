@@ -1,0 +1,10 @@
+CLUSTER	6086
+NUM_SEQ	2
+LENGTH	199
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	103.48
+FAMILIES	{'None': 1, 'Asfarviridae': 1}
+GENERA	{'None': 1, 'Asfivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831404|ref|YP_003970047.1|vFam_6086| hypothetical protein crov414 [Cafeteria roenbergensis virus BV-PW1]
+gi|9628236|ref|NP_042822.1|vFam_6086| pE199L [African swine fever virus]

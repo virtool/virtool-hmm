@@ -1,0 +1,10 @@
+CLUSTER	3778
+NUM_SEQ	2
+LENGTH	127
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	63.5
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441432093|ref|YP_007354135.1|vFam_3778| hypothetical protein Moumou_00155 [Acanthamoeba polyphaga moumouvirus]
+gi|363540547|ref|YP_004894264.1|vFam_3778| mg213 gene product [Megavirus chiliensis]

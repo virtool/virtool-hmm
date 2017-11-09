@@ -1,0 +1,10 @@
+CLUSTER	6305
+NUM_SEQ	2
+LENGTH	277
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	141.27
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'Mimivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|311977970|ref|YP_003987090.1|vFam_6305| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977969|ref|YP_003987089.1|vFam_6305| hypothetical protein [Acanthamoeba polyphaga mimivirus]

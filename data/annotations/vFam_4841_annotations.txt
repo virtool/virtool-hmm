@@ -1,0 +1,10 @@
+CLUSTER	4841
+NUM_SEQ	2
+LENGTH	422
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	215.22
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|422933894|ref|YP_007003953.1|vFam_4841| protein ORF129 [Cyprinid herpesvirus 2]
+gi|131840155|ref|YP_001096164.1|vFam_4841| unnamed protein product [Cyprinid herpesvirus 3]

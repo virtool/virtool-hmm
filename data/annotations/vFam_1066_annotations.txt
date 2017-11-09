@@ -1,0 +1,14 @@
+CLUSTER	1066
+NUM_SEQ	6
+LENGTH	984
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	511.68
+FAMILIES	{'Retroviridae': 6}
+GENERA	{'Spumavirus': 6}
+FASTA SEQUENCE TITLES:
+gi|9629927|ref|NP_056915.1|vFam_1066| hypothetical protein FFV_gp1 [Feline foamy virus]
+gi|9626106|ref|NP_056804.1|vFam_1066| envelope protein [Simian foamy virus]
+gi|189909154|ref|YP_001961123.1|vFam_1066| Env [Macaque simian foamy virus]
+gi|189677276|ref|YP_001956723.2|vFam_1066| Env [African green monkey simian foamy virus]
+gi|9634980|ref|NP_054717.1|vFam_1066| Env [equine foamy virus]
+gi|9629647|ref|NP_044930.1|vFam_1066| envelope protein [Bovine foamy virus]

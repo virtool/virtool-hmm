@@ -1,0 +1,11 @@
+CLUSTER	4901
+NUM_SEQ	3
+LENGTH	194
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	100.88
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977985|ref|YP_003987105.1|vFam_4901| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825697|ref|YP_007418628.1|vFam_4901| hypothetical protein LBA_00734 [Megavirus lba]
+gi|441432542|ref|YP_007354584.1|vFam_4901| peptidase C19 subfamily protein [Acanthamoeba polyphaga moumouvirus]

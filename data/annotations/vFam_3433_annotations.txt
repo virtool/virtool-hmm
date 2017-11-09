@@ -1,0 +1,12 @@
+CLUSTER	3433
+NUM_SEQ	4
+LENGTH	331
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	172.12
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329462|ref|YP_001604262.1|vFam_3433| putative glycosyltransferase [Acidianus filamentous virus 7]
+gi|16753130|ref|NP_445708.1|vFam_3433| hypothetical protein SIFV0045 [Sulfolobus islandicus filamentous virus]
+gi|171473691|ref|YP_001798561.1|vFam_3433| putative glycosyltransferase [Acidianus filamentous virus 9]
+gi|162329523|ref|YP_001604322.1|vFam_3433| putative glycosyltransferase [Acidianus filamentous virus 8]

@@ -1,0 +1,16 @@
+CLUSTER	1144
+NUM_SEQ	8
+LENGTH	122
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	62.22
+FAMILIES	{'Flaviviridae': 8}
+GENERA	{'Flavivirus': 8}
+FASTA SEQUENCE TITLES:
+gi|73671168|ref|NP_740314.1|vFam_1144| anchored capsid (anchC) protein [Dengue virus 4]
+gi|159024808|ref|NP_739581.2|vFam_1144| Anchored capsid protein [Dengue virus 2]
+gi|164654854|ref|YP_001531165.2|vFam_1144| Anchored capsid protein [Dengue virus 3]
+gi|158348408|ref|NP_722457.2|vFam_1144| anchored capsid protein [Dengue virus 1]
+gi|27735299|ref|NP_776011.1|vFam_1144| unnamed protein product [West Nile virus]
+gi|56692443|ref|YP_164807.1|vFam_1144| anchored core protein C [Usutu virus]
+gi|24418979|ref|NP_722515.1|vFam_1144| anchored core protein [Murray Valley encephalitis virus]
+gi|27696325|ref|NP_775663.1|vFam_1144| anchored core protein C, partial [Japanese encephalitis virus]

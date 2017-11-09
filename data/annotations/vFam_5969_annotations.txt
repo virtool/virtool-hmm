@@ -1,0 +1,10 @@
+CLUSTER	5969
+NUM_SEQ	2
+LENGTH	235
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	122.2
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441431996|ref|YP_007354038.1|vFam_5969| SET domain protein [Acanthamoeba polyphaga moumouvirus]
+gi|363539957|ref|YP_004894946.1|vFam_5969| mg895 gene product [Megavirus chiliensis]

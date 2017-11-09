@@ -1,0 +1,11 @@
+CLUSTER	4027
+NUM_SEQ	3
+LENGTH	615
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	319.8
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036301|ref|YP_008437938.1|vFam_4027| hypothetical protein ps_1532 [Pandoravirus salinus]
+gi|531036734|ref|YP_008438371.1|vFam_4027| hypothetical protein ps_1965 [Pandoravirus salinus]
+gi|531036657|ref|YP_008438294.1|vFam_4027| hypothetical protein ps_1888 [Pandoravirus salinus]

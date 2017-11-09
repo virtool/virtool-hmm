@@ -1,0 +1,10 @@
+CLUSTER	4725
+NUM_SEQ	2
+LENGTH	124
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	64.48
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|506498597|ref|YP_008004393.1|vFam_4725| hypothetical protein CHBEV_323 [Choristoneura biennis entomopoxvirus 'L']
+gi|506498314|ref|YP_008004110.1|vFam_4725| hypothetical protein CHBEV_040 [Choristoneura biennis entomopoxvirus 'L']

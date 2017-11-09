@@ -1,0 +1,13 @@
+CLUSTER	2690
+NUM_SEQ	5
+LENGTH	81
+RELATIVE_ENTROPY_PER_POSITION	0.64
+TOTAL_RELATIVE_ENTROPY	51.84
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631341|ref|NP_048179.1|vFam_2690| ORF MSV108 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|506498199|ref|YP_008003996.1|vFam_2690| viral membrane associated, early morphogenesis protein (Cop-A9L) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497915|ref|YP_008003714.1|vFam_2690| viral membrane associated, early morphogenesis protein (Cop-A9L) [Mythimna separata entomopoxvirus 'L']
+gi|9964475|ref|NP_064943.1|vFam_2690| hypothetical protein AMV161 [Amsacta moorei entomopoxvirus 'L']
+gi|506498781|ref|YP_008004575.1|vFam_2690| viral membrane associated, early morphogenesis protein (Cop-A9L) [Choristoneura rosaceana entomopoxvirus 'L']

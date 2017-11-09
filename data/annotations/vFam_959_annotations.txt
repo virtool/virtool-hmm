@@ -1,0 +1,11 @@
+CLUSTER	959
+NUM_SEQ	3
+LENGTH	380
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	201.4
+FAMILIES	{'None': 2, 'Partitiviridae': 1}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|308814347|ref|YP_003934624.1|vFam_959| ORF1 [Blueberry latent virus]
+gi|213496075|ref|YP_002321510.1|vFam_959| putative coat protein p42 [Southern tomato virus]
+gi|306478699|ref|YP_003868437.1|vFam_959| putative coat protein [Rhododendron virus A]

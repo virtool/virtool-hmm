@@ -1,0 +1,13 @@
+CLUSTER	1573
+NUM_SEQ	5
+LENGTH	256
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	133.12
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Cytomegalovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|359946589|ref|YP_004936122.1|vFam_1573| membrane protein US12A [Cercopithecine herpesvirus 5]
+gi|356640527|ref|YP_004933969.1|vFam_1573| membrane protein US13 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|20026745|ref|NP_612787.1|vFam_1573| membrane protein US14 [Panine herpesvirus 2]
+gi|52139323|ref|YP_081598.1|vFam_1573| membrane protein US13 [Human herpesvirus 5]
+gi|20026744|ref|NP_612786.1|vFam_1573| membrane protein US13 [Panine herpesvirus 2]

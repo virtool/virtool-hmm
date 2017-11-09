@@ -1,0 +1,30 @@
+CLUSTER	53
+NUM_SEQ	22
+LENGTH	514
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	257.0
+FAMILIES	{'Herpesviridae': 22}
+GENERA	{'None': 4, 'Muromegalovirus': 6, 'Cytomegalovirus': 12}
+FASTA SEQUENCE TITLES:
+gi|9845435|ref|NP_064249.1|vFam_53| pr142 [Murid herpesvirus 2]
+gi|9845436|ref|NP_064250.1|vFam_53| pr143 [Murid herpesvirus 2]
+gi|425707333|ref|YP_007016530.1|vFam_53| e143 [Murid herpesvirus 8]
+gi|61660252|ref|YP_214143.1|vFam_53| US22 family homolog [Murid herpesvirus 1]
+gi|360086621|ref|YP_004940303.1|vFam_53| protein US26 [Saimiriine herpesvirus 3]
+gi|360041039|ref|YP_004940162.1|vFam_53| protein US26 [Aotine herpesvirus 1]
+gi|61660250|ref|YP_214141.1|vFam_53| US22 family homolog [Murid herpesvirus 1]
+gi|9845434|ref|NP_064248.1|vFam_53| pr141 [Murid herpesvirus 2]
+gi|448824960|ref|YP_007417892.1|vFam_53| gp142 [Caviid herpesvirus 2]
+gi|14250970|ref|NP_116332.1|vFam_53| T3 [Tupaiid herpesvirus 1]
+gi|360041037|ref|YP_004940160.1|vFam_53| tegument protein US24 [Aotine herpesvirus 1]
+gi|52139334|ref|YP_081609.1|vFam_53| tegument protein US24 [Human herpesvirus 5]
+gi|20026755|ref|NP_612797.1|vFam_53| tegument protein US24 [Panine herpesvirus 2]
+gi|360086619|ref|YP_004940300.1|vFam_53| tegument protein US22 [Saimiriine herpesvirus 3]
+gi|360041035|ref|YP_004940158.1|vFam_53| tegument protein US22 [Aotine herpesvirus 1]
+gi|52139332|ref|YP_081607.1|vFam_53| tegument protein US22 [Human herpesvirus 5]
+gi|359946599|ref|YP_004936132.1|vFam_53| tegument protein US22 [Cercopithecine herpesvirus 5]
+gi|356640538|ref|YP_004933980.1|vFam_53| tegument protein US22 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|448824959|ref|YP_007417891.1|vFam_53| gp141 [Caviid herpesvirus 2]
+gi|14250971|ref|NP_116333.1|vFam_53| T4 [Tupaiid herpesvirus 1]
+gi|360086620|ref|YP_004940301.1|vFam_53| protein US23 [Saimiriine herpesvirus 3]
+gi|360041036|ref|YP_004940159.1|vFam_53| protein US23 [Aotine herpesvirus 1]

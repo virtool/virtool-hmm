@@ -1,0 +1,12 @@
+CLUSTER	3859
+NUM_SEQ	4
+LENGTH	23
+RELATIVE_ENTROPY_PER_POSITION	2.29
+TOTAL_RELATIVE_ENTROPY	52.67
+FAMILIES	{'Flaviviridae': 4}
+GENERA	{'Flavivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|73671177|ref|NP_740323.1|vFam_3859| 2K protein [Dengue virus 4]
+gi|159024818|ref|NP_739593.2|vFam_3859| 2K peptide [Dengue virus 2]
+gi|25014071|ref|NP_722467.1|vFam_3859| 2K protein [Dengue virus 1]
+gi|164654863|ref|YP_001531174.2|vFam_3859| 2K peptide [Dengue virus 3]

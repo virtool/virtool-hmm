@@ -1,0 +1,10 @@
+CLUSTER	6015
+NUM_SEQ	2
+LENGTH	117
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	58.5
+FAMILIES	{'Herpesviridae': 1}
+GENERA	{'Proboscivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|496991111|ref|YP_007969848.1|vFam_6015| protein EE32 [Elephantid herpesvirus 1]
+gi|75750405|ref|YP_319867.1|vFam_6015| hypothetical protein ATV_gp36 [Acidianus two-tailed virus]

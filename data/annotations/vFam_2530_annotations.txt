@@ -1,0 +1,11 @@
+CLUSTER	2530
+NUM_SEQ	3
+LENGTH	332
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	169.32
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977746|ref|YP_003986866.1|vFam_2530| thioredoxin domain-containing protein [Acanthamoeba polyphaga mimivirus]
+gi|448825510|ref|YP_007418441.1|vFam_2530| thioredoxin domain-containing protein [Megavirus lba]
+gi|441432393|ref|YP_007354435.1|vFam_2530| TRX domain-containing protein [Acanthamoeba polyphaga moumouvirus]

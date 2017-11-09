@@ -1,0 +1,11 @@
+CLUSTER	4087
+NUM_SEQ	3
+LENGTH	416
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	216.32
+FAMILIES	{'Secoviridae': 3}
+GENERA	{'Nepovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|50553889|ref|YP_054439.1|vFam_4087| protease cofactor [Arabis mosaic virus]
+gi|387970882|ref|YP_006347728.1|vFam_4087| putative proteinase cofactor [Grapevine deformation virus]
+gi|72198732|ref|NP_734039.3|vFam_4087| protease cofactor [Grapevine fanleaf virus]

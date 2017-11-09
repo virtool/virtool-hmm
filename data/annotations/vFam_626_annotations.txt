@@ -1,0 +1,20 @@
+CLUSTER	626
+NUM_SEQ	12
+LENGTH	104
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	54.08
+FAMILIES	{'Baculoviridae': 11}
+GENERA	{'Betabaculovirus': 11}
+FASTA SEQUENCE TITLES:
+gi|285002307|ref|YP_003422371.1|vFam_626| hypothetical protein PsunGV_gp032 [Pseudaletia unipuncta granulovirus]
+gi|148368852|ref|YP_001256982.1|vFam_626| hypothetical protein SlGVgp031 [Spodoptera litura granulovirus]
+gi|46309420|ref|YP_006310.1|vFam_626| ORF34 [Agrotis segetum granulovirus]
+gi|410493610|ref|YP_006908548.1|vFam_626| hypothetical protein [Epinotia aporema granulovirus]
+gi|32698568|ref|NP_872483.1|vFam_626| ORF_29 [Adoxophyes orana granulovirus]
+gi|556549075|ref|YP_008719989.1|vFam_626| hypothetical protein CalGV041 [Clostera anastomosis granulovirus]
+gi|334265718|ref|YP_004376247.1|vFam_626| hypothetical protein ClanGV_gp039 [Clostera anachoreta granulovirus]
+gi|109255300|ref|YP_654449.1|vFam_626| hypothetical protein COGV_gp028 [Choristoneura occidentalis granulovirus]
+gi|21686699|ref|NP_663199.1|vFam_626| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|288804670|ref|YP_003429355.1|vFam_626| PrGVORF31 [Pieris rapae granulovirus]
+gi|33622236|ref|NP_891883.1|vFam_626| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602276|ref|NP_148823.1|vFam_626| ORF39 similar to XcGV ORF34 [Cydia pomonella granulovirus]

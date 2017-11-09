@@ -1,0 +1,25 @@
+CLUSTER	254
+NUM_SEQ	17
+LENGTH	1007
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	533.71
+FAMILIES	{'Poxviridae': 17}
+GENERA	{'None': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9631524|ref|NP_048107.1|vFam_254| ORF MSV036 putative DNA polymerase, Choristoneura biennis entomopox virus DPOL homolog (vaccinia E9L), similar to SW:P30319 [Melanoplus sanguinipes entomopoxvirus]
+gi|115531723|ref|YP_784249.1|vFam_254| DNA polymerase [Nile crocodilepox virus]
+gi|40556059|ref|NP_955144.1|vFam_254| CNPV121 DNA polymerase [Canarypox virus]
+gi|9634764|ref|NP_039057.1|vFam_254| DNA polymerase [Fowlpox virus]
+gi|9628971|ref|NP_043990.1|vFam_254| MC039L [Molluscum contagiosum virus subtype 1]
+gi|41057461|ref|NP_957934.1|vFam_254| ORF025 DNA polymerase [Bovine papular stomatitis virus]
+gi|41057088|ref|NP_957802.1|vFam_254| ORF025 DNA polymerase [Orf virus]
+gi|571797958|ref|YP_008658457.1|vFam_254| DNA polymerase [Squirrelpox virus]
+gi|113195243|ref|YP_717373.1|vFam_254| DNA polymerase [Taterapox virus]
+gi|345107231|ref|YP_004821396.1|vFam_254| DNA polymerase [Yoka poxvirus]
+gi|377829949|ref|YP_005296243.1|vFam_254| unnamed protein product [Cotia virus SPAn232]
+gi|157939661|ref|YP_001497033.1|vFam_254| DNA polymerase [Tanapox virus]
+gi|38229202|ref|NP_938295.1|vFam_254| 39L [Yaba monkey tumor virus]
+gi|148912916|ref|YP_001293230.1|vFam_254| hypothetical protein GTPV_gp035 [Goatpox virus Pellor]
+gi|9633670|ref|NP_051748.1|vFam_254| m34L [Myxoma virus]
+gi|18640122|ref|NP_570196.1|vFam_254| SPV036 DNA polymerase [Swinepox virus]
+gi|211956319|ref|YP_002302388.1|vFam_254| DNA polymerase [Deerpox virus W-1170-84]

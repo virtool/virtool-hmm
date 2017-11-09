@@ -1,0 +1,13 @@
+CLUSTER	1794
+NUM_SEQ	5
+LENGTH	53
+RELATIVE_ENTROPY_PER_POSITION	0.96
+TOTAL_RELATIVE_ENTROPY	50.88
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|438000402|ref|YP_007250507.1|vFam_1794| p6.9 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643636|ref|YP_002884326.1|vFam_1794| P6.9 [Bombyx mandarina nucleopolyhedrovirus]
+gi|86355573|ref|YP_473241.1|vFam_1794| P6.9 [Hyphantria cunea nucleopolyhedrovirus]
+gi|571031252|ref|YP_008992148.1|vFam_1794| p6.9 [Choristoneura murinana alphabaculovirus]
+gi|116326164|ref|YP_803490.1|vFam_1794| basic DNA binding protein [Anticarsia gemmatalis nucleopolyhedrovirus]

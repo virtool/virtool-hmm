@@ -1,0 +1,10 @@
+CLUSTER	5727
+NUM_SEQ	2
+LENGTH	71
+RELATIVE_ENTROPY_PER_POSITION	0.72
+TOTAL_RELATIVE_ENTROPY	51.12
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Betabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|556549128|ref|YP_008720042.1|vFam_5727| hypothetical protein CaLGV095 [Clostera anastomosis granulovirus]
+gi|334265772|ref|YP_004376301.1|vFam_5727| hypothetical protein ClanGV_gp093 [Clostera anachoreta granulovirus]

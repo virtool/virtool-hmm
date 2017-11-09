@@ -1,0 +1,11 @@
+CLUSTER	4634
+NUM_SEQ	3
+LENGTH	70
+RELATIVE_ENTROPY_PER_POSITION	0.74
+TOTAL_RELATIVE_ENTROPY	51.8
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Gammabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|48843620|ref|YP_025193.1|vFam_4634| hypothetical protein NeseNPV_gp86 [Neodiprion sertifer nucleopolyhedrovirus]
+gi|48843713|ref|YP_025285.1|vFam_4634| unknown [Neodiprion lecontei nucleopolyhedrovirus]
+gi|110645298|ref|YP_667937.1|vFam_4634| hypothetical protein [Neodiprion abietis NPV]

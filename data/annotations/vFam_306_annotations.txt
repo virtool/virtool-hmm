@@ -1,0 +1,22 @@
+CLUSTER	306
+NUM_SEQ	14
+LENGTH	410
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	209.1
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036828|ref|YP_008438467.1|vFam_306| BTB/POZ domain motif-containing [Pandoravirus salinus]
+gi|526119859|ref|YP_008319762.1|vFam_306| BTB/POZ domain motif-containing [Pandoravirus dulcis]
+gi|531036611|ref|YP_008438248.1|vFam_306| hypothetical protein ps_1842 [Pandoravirus salinus]
+gi|531036596|ref|YP_008438233.1|vFam_306| hypothetical protein ps_1827 [Pandoravirus salinus]
+gi|531035442|ref|YP_008437072.1|vFam_306| hypothetical protein ps_658 [Pandoravirus salinus]
+gi|526119209|ref|YP_008319112.1|vFam_306| hypothetical protein [Pandoravirus dulcis]
+gi|526119210|ref|YP_008319113.1|vFam_306| hypothetical protein [Pandoravirus dulcis]
+gi|531036083|ref|YP_008437719.1|vFam_306| BTB/POZ domain motif-containing [Pandoravirus salinus]
+gi|526119562|ref|YP_008319465.1|vFam_306| BTB/POZ domain motif-containing [Pandoravirus dulcis]
+gi|531035421|ref|YP_008437050.1|vFam_306| BTB/POZ domain motif-containing [Pandoravirus salinus]
+gi|526119190|ref|YP_008319093.1|vFam_306| hypothetical protein [Pandoravirus dulcis]
+gi|531035417|ref|YP_008437046.1|vFam_306| BTB/POZ domain motif-containing [Pandoravirus salinus]
+gi|531035419|ref|YP_008437048.1|vFam_306| BTB/POZ domain motif-containing [Pandoravirus salinus]
+gi|526119188|ref|YP_008319091.1|vFam_306| BTB/POZ domain motif-containing [Pandoravirus dulcis]

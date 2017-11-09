@@ -1,0 +1,21 @@
+CLUSTER	590
+NUM_SEQ	13
+LENGTH	300
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	159.0
+FAMILIES	{'Bromoviridae': 12}
+GENERA	{'Alfamovirus': 1, 'Ilarvirus': 11}
+FASTA SEQUENCE TITLES:
+gi|19697303|ref|NP_602314.1|vFam_590| putative movement protein 3a [American plum line pattern virus]
+gi|50428571|ref|YP_054424.1|vFam_590| 3a protein [Humulus japonicus latent virus]
+gi|9626929|ref|NP_041194.1|vFam_590| 32.4 kd protein [Alfalfa mosaic virus]
+gi|98960847|ref|YP_611152.1|vFam_590| movement protein [Prune dwarf virus]
+gi|56692634|ref|YP_164804.1|vFam_590| movement protein [Fragaria chiloensis latent virus]
+gi|20564219|ref|NP_620756.1|vFam_590| putative movement protein 3a [Tulare apple mosaic virus]
+gi|20522140|ref|NP_620680.1|vFam_590| putative movement protein [Spinach latent virus]
+gi|20143447|ref|NP_619577.1|vFam_590| movement protein [Elm mottle virus]
+gi|46393302|ref|YP_006463.1|vFam_590| 3a protein [Parietaria mottle virus]
+gi|532565985|ref|YP_008470972.1|vFam_590| movement protein [Ageratum latent virus]
+gi|212525350|ref|YP_002308572.1|vFam_590| movement protein [Blackberry chlorotic ringspot virus]
+gi|20564170|ref|NP_620773.1|vFam_590| movement protein [Tobacco streak virus]
+gi|119943074|ref|YP_941470.1|vFam_590| movement protein [Strawberry necrotic shock virus]

@@ -1,0 +1,11 @@
+CLUSTER	3993
+NUM_SEQ	3
+LENGTH	464
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	241.28
+FAMILIES	{'Secoviridae': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|360040891|ref|YP_004940017.1|vFam_3993| unnamed protein product [Chocolate lily virus A]
+gi|109240524|ref|YP_654557.1|vFam_3993| protein cofactor [Black raspberry necrosis virus]
+gi|25014016|ref|NP_733950.1|vFam_3993| putative protein cofactor [Strawberry mottle virus]

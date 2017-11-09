@@ -1,0 +1,12 @@
+CLUSTER	3642
+NUM_SEQ	4
+LENGTH	73
+RELATIVE_ENTROPY_PER_POSITION	0.71
+TOTAL_RELATIVE_ENTROPY	51.83
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497984|ref|YP_008003783.1|vFam_3642| unknown similar to AMEV241 [Mythimna separata entomopoxvirus 'L']
+gi|9964555|ref|NP_065023.1|vFam_3642| hypothetical protein AMV241 [Amsacta moorei entomopoxvirus 'L']
+gi|506498854|ref|YP_008004648.1|vFam_3642| unknown similar to AMEV241 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498245|ref|YP_008004042.1|vFam_3642| unknown similar to AMEV241 [Adoxophyes honmai entomopoxvirus 'L']

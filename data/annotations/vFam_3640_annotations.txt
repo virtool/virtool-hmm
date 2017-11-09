@@ -1,0 +1,11 @@
+CLUSTER	3640
+NUM_SEQ	3
+LENGTH	486
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	252.72
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497995|ref|YP_008003794.1|vFam_3640| leucine rich repeat gene family [Mythimna separata entomopoxvirus 'L']
+gi|506498866|ref|YP_008004660.1|vFam_3640| leucine rich repeat gene family [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964567|ref|NP_065035.1|vFam_3640| possible surface protein [Amsacta moorei entomopoxvirus 'L']

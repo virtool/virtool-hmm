@@ -1,0 +1,11 @@
+CLUSTER	4693
+NUM_SEQ	3
+LENGTH	122
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	64.66
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|359946452|ref|YP_004935984.1|vFam_4693| membrane protein RL11N [Cercopithecine herpesvirus 5]
+gi|356640310|ref|YP_004933752.1|vFam_4693| putative membrane glycoprotein UL9 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556484|ref|YP_068118.1|vFam_4693| rh24 [Macacine herpesvirus 3]

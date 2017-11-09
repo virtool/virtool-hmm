@@ -1,0 +1,26 @@
+CLUSTER	423
+NUM_SEQ	18
+LENGTH	95
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	51.3
+FAMILIES	{'Baculoviridae': 16}
+GENERA	{'Alphabaculovirus': 16}
+FASTA SEQUENCE TITLES:
+gi|114679959|ref|YP_758409.1|vFam_423| ORF112 [Leucania separata nucleopolyhedrovirus]
+gi|15617565|ref|NP_258365.1|vFam_423| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|209401151|ref|YP_002274020.1|vFam_423| hypothetical protein HaSNPVNNg1_gp097 [Helicoverpa armigera NPV NNg1]
+gi|292397778|ref|YP_003517844.1|vFam_423| ORF104 [Lymantria xylina MNPV]
+gi|9631075|ref|NP_047745.1|vFam_423| LdOrf-108 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|402502184|ref|YP_006607842.1|vFam_423| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|529218148|ref|YP_008378311.1|vFam_423| ac108 [Hemileuca sp. nucleopolyhedrovirus]
+gi|118197567|ref|YP_874279.1|vFam_423| hypothetical protein EONV_gp086 [Ectropis obliqua nucleopolyhedrovirus]
+gi|228861684|ref|YP_002854704.1|vFam_423| hypothetical protein EupsNPV_gp094 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|165969104|ref|YP_001651004.1|vFam_423| hypothetical protein [Orgyia leucostigma NPV]
+gi|74229780|ref|YP_308984.1|vFam_423| orf95 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304236|ref|YP_249704.1|vFam_423| ORF-100 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549480|ref|NP_689253.1|vFam_423| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|125860180|ref|YP_001036350.1|vFam_423| hypothetical protein SFMNPV_gp058 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401457|ref|YP_002332760.1|vFam_423| hypothetical protein SlnV2_gp062 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634279|ref|NP_037818.1|vFam_423| ORF58 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|90592782|ref|YP_529735.1|vFam_423| ORF-65 [Agrotis segetum nucleopolyhedrovirus]
+gi|209170956|ref|YP_002268102.1|vFam_423| agip72 [Agrotis ipsilon multiple nucleopolyhedrovirus]

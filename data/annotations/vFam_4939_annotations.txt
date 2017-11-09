@@ -1,0 +1,10 @@
+CLUSTER	4939
+NUM_SEQ	2
+LENGTH	238
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	123.76
+FAMILIES	{'Marseillevirus family': 1, 'Phycodnaviridae': 1}
+GENERA	{'None': 1, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|284504056|ref|YP_003406771.1|vFam_4939| hypothetical protein MAR_ORF016 [Marseillevirus]
+gi|340025904|ref|NP_048935.2|vFam_4939| R.CviAI restriction endonuclease [Paramecium bursaria Chlorella virus 1]

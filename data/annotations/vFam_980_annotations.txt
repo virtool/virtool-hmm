@@ -1,0 +1,16 @@
+CLUSTER	980
+NUM_SEQ	8
+LENGTH	282
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	146.64
+FAMILIES	{'Poxviridae': 8}
+GENERA	{'None': 1, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Capripoxvirus': 1, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|377830086|ref|YP_005296334.1|vFam_980| unnamed protein product [Cotia virus SPAn232]
+gi|38229291|ref|NP_938384.1|vFam_980| 128L [Yaba monkey tumor virus]
+gi|12085111|ref|NP_073513.1|vFam_980| 128L protein [Yaba-like disease virus]
+gi|21492580|ref|NP_659700.1|vFam_980| CD47-like protein [Sheeppox virus]
+gi|18640211|ref|NP_570285.1|vFam_980| SPV125 CD47-like protein [Swinepox virus]
+gi|211956409|ref|YP_002302478.1|vFam_980| CD47-like protein [Deerpox virus W-1170-84]
+gi|9633938|ref|NP_052017.1|vFam_980| gp128L [Rabbit fibroma virus]
+gi|9633764|ref|NP_051842.1|vFam_980| m128L [Myxoma virus]

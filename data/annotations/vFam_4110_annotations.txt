@@ -1,0 +1,10 @@
+CLUSTER	4110
+NUM_SEQ	2
+LENGTH	394
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	200.94
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036762|ref|YP_008438401.1|vFam_4110| putative Radical SAM enzyme [Pandoravirus salinus]
+gi|526119816|ref|YP_008319719.1|vFam_4110| putative radical sam enzyme [Pandoravirus dulcis]

@@ -1,0 +1,10 @@
+CLUSTER	5968
+NUM_SEQ	2
+LENGTH	55
+RELATIVE_ENTROPY_PER_POSITION	0.96
+TOTAL_RELATIVE_ENTROPY	52.8
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498558|ref|YP_008004354.1|vFam_5968| hypothetical protein CHBEV_284 [Choristoneura biennis entomopoxvirus 'L']
+gi|506497991|ref|YP_008003790.1|vFam_5968| hypothetical protein MYSEV_273 [Mythimna separata entomopoxvirus 'L']

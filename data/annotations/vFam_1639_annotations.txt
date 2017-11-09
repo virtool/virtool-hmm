@@ -1,0 +1,13 @@
+CLUSTER	1639
+NUM_SEQ	5
+LENGTH	57
+RELATIVE_ENTROPY_PER_POSITION	0.90
+TOTAL_RELATIVE_ENTROPY	51.3
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Betabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|11068105|ref|NP_068321.1|vFam_1639| PxORF102 peptide [Plutella xylostella granulovirus]
+gi|46309343|ref|YP_006233.1|vFam_1639| ORF111 [Agrotis segetum granulovirus]
+gi|21686783|ref|NP_663283.1|vFam_1639| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|288804742|ref|YP_003429427.1|vFam_1639| PrGVORF103 [Pieris rapae granulovirus]
+gi|109255372|ref|YP_654521.1|vFam_1639| hypothetical protein COGV_gp100 [Choristoneura occidentalis granulovirus]

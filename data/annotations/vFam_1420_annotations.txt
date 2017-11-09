@@ -1,0 +1,12 @@
+CLUSTER	1420
+NUM_SEQ	4
+LENGTH	858
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	446.16
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|9631396|ref|NP_048295.1|vFam_1420| ORF MSV224 putative NTPase/helicase [Melanoplus sanguinipes entomopoxvirus]
+gi|506497815|ref|YP_008003614.1|vFam_1420| NTPase/helicase [Mythimna separata entomopoxvirus 'L']
+gi|506498095|ref|YP_008003892.1|vFam_1420| NTPase/helicase [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498710|ref|YP_008004504.1|vFam_1420| NTPase/helicase [Choristoneura rosaceana entomopoxvirus 'L']

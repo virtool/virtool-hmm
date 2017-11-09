@@ -1,0 +1,10 @@
+CLUSTER	2658
+NUM_SEQ	2
+LENGTH	248
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	128.96
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|314055122|ref|YP_004063460.1|vFam_2658| putative TPR domain-containing protein [Ostreococcus tauri virus 2]
+gi|313844009|ref|YP_004061672.1|vFam_2658| hypothetical protein OlV1_039c [Ostreococcus lucimarinus virus OlV1]

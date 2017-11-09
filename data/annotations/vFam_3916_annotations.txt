@@ -1,0 +1,10 @@
+CLUSTER	3916
+NUM_SEQ	2
+LENGTH	286
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	148.72
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035701|ref|YP_008437334.1|vFam_3916| transcription elongation factor S-II [Pandoravirus salinus]
+gi|526119388|ref|YP_008319291.1|vFam_3916| transcription elongation factor S-II [Pandoravirus dulcis]

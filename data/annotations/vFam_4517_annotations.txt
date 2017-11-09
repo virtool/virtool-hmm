@@ -1,0 +1,11 @@
+CLUSTER	4517
+NUM_SEQ	3
+LENGTH	203
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	105.56
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329487|ref|YP_001604286.1|vFam_4517| putative nuclease [Acidianus filamentous virus 8]
+gi|171473656|ref|YP_001798526.1|vFam_4517| putative nuclease [Acidianus filamentous virus 9]
+gi|16753093|ref|NP_445671.1|vFam_4517| hypothetical protein SIFV0006 [Sulfolobus islandicus filamentous virus]

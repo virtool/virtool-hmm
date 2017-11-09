@@ -1,0 +1,10 @@
+CLUSTER	4474
+NUM_SEQ	2
+LENGTH	364
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	185.64
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|422933665|ref|YP_007003790.1|vFam_4474| protein ORF135 [Cyprinid herpesvirus 1]
+gi|131840161|ref|YP_001096170.1|vFam_4474| unnamed protein product [Cyprinid herpesvirus 3]

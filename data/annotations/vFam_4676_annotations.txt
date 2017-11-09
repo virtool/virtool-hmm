@@ -1,0 +1,11 @@
+CLUSTER	4676
+NUM_SEQ	3
+LENGTH	423
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	219.96
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977890|ref|YP_003987010.1|vFam_4676| probable zinc-type alcohol dehydrogenase-like protein [Acanthamoeba polyphaga mimivirus]
+gi|441432240|ref|YP_007354282.1|vFam_4676| Zn-dependent alcohol dehydrogenase [Acanthamoeba polyphaga moumouvirus]
+gi|363540145|ref|YP_004894430.1|vFam_4676| mg379 gene product [Megavirus chiliensis]

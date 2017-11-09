@@ -1,0 +1,10 @@
+CLUSTER	5153
+NUM_SEQ	2
+LENGTH	176
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	89.76
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Molluscipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|571797933|ref|YP_008658432.1|vFam_5153| hypothetical pox protein [Squirrelpox virus]
+gi|9628940|ref|NP_043959.1|vFam_5153| MC008L [Molluscum contagiosum virus subtype 1]

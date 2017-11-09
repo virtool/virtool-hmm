@@ -1,0 +1,21 @@
+CLUSTER	695
+NUM_SEQ	13
+LENGTH	267
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	136.17
+FAMILIES	{'Togaviridae': 13}
+GENERA	{'Alphavirus': 13}
+FASTA SEQUENCE TITLES:
+gi|25121766|ref|NP_740639.1|vFam_695| capside protein [Salmon pancreas disease virus]
+gi|25121757|ref|NP_740657.1|vFam_695| capside protein [Sleeping disease virus]
+gi|25121487|ref|NP_740707.1|vFam_695| C protein [O'nyong-nyong virus]
+gi|29612006|ref|NP_818998.1|vFam_695| C protein [Barmah Forest virus]
+gi|25121717|ref|NP_740691.1|vFam_695| capsid protein [Mayaro virus]
+gi|25121496|ref|NP_740682.1|vFam_695| C protein [Ross River virus]
+gi|29612012|ref|NP_819004.1|vFam_695| C protein [Semliki forest virus]
+gi|25140294|ref|NP_740700.1|vFam_695| core protein [Venezuelan equine encephalitis virus]
+gi|269954652|ref|YP_003324595.1|vFam_695| capsid protein [Fort Morgan virus]
+gi|226823173|ref|YP_002802305.1|vFam_695| capsid protein [Highlands J virus]
+gi|25121474|ref|NP_740644.1|vFam_695| C protein [Eastern equine encephalitis virus]
+gi|29653357|ref|NP_819015.1|vFam_695| C protein [Aura virus]
+gi|25121509|ref|NP_740673.1|vFam_695| capsid (c) protein [Sindbis virus]

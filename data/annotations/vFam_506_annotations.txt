@@ -1,0 +1,23 @@
+CLUSTER	506
+NUM_SEQ	15
+LENGTH	471
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	249.63
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 1, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531718|ref|YP_784244.1|vFam_506| poly(A) polymerase large subunit [Nile crocodilepox virus]
+gi|41057454|ref|NP_957927.1|vFam_506| ORF018 poly-A polymerase catalytic subunit PAPL [Bovine papular stomatitis virus]
+gi|289183782|ref|YP_003457323.1|vFam_506| poly(A)-polymerase subunit [Pseudocowpox virus]
+gi|40556067|ref|NP_955152.1|vFam_506| CNPV129 poly(A) polymerase large subunit PAPL [Canarypox virus]
+gi|9634772|ref|NP_039065.1|vFam_506| Poly(A) polymerase large subunit, PAP-L [Fowlpox virus]
+gi|113195235|ref|YP_717365.1|vFam_506| poly-A polymerase catalytic subunit VP55 [Taterapox virus]
+gi|345107223|ref|YP_004821388.1|vFam_506| VP55 [Yoka poxvirus]
+gi|157939654|ref|YP_001497026.1|vFam_506| poly (A) polymerase [Tanapox virus]
+gi|377829944|ref|YP_005296237.1|vFam_506| unnamed protein product [Cotia virus SPAn232]
+gi|9633837|ref|NP_051916.1|vFam_506| gp027L [Rabbit fibroma virus]
+gi|18640116|ref|NP_570190.1|vFam_506| SPV030 poly(A) polymerase lage subunit PAPL [Swinepox virus]
+gi|211956312|ref|YP_002302381.1|vFam_506| poly(A) polymerase large subunit [Deerpox virus W-1170-84]
+gi|148912909|ref|YP_001293223.1|vFam_506| hypothetical protein GTPV_gp028 [Goatpox virus Pellor]
+gi|9628963|ref|NP_043982.1|vFam_506| MC031L [Molluscum contagiosum virus subtype 1]
+gi|571797949|ref|YP_008658448.1|vFam_506| poly(A) polymerase catalytic subunit [Squirrelpox virus]

@@ -1,0 +1,13 @@
+CLUSTER	2033
+NUM_SEQ	5
+LENGTH	140
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	72.8
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'None': 1, 'Yatapoxvirus': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|377830087|ref|YP_005296335.1|vFam_2033| unnamed protein product [Cotia virus SPAn232]
+gi|9633765|ref|NP_051843.1|vFam_2033| m129R [Myxoma virus]
+gi|157939753|ref|YP_001497125.1|vFam_2033| myristylprotein [Tanapox virus]
+gi|38229292|ref|NP_938385.1|vFam_2033| 129R [Yaba monkey tumor virus]
+gi|211956410|ref|YP_002302479.1|vFam_2033| hypothetical protein DpV84gp138 [Deerpox virus W-1170-84]

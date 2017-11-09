@@ -1,0 +1,23 @@
+CLUSTER	490
+NUM_SEQ	15
+LENGTH	288
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	149.76
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 1, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531783|ref|YP_784309.1|vFam_490| mRNA capping enzyme small subunit [Nile crocodilepox virus]
+gi|41057510|ref|NP_957983.1|vFam_490| ORF074 mRNA capping enzyme small subunit [Bovine papular stomatitis virus]
+gi|41057137|ref|NP_957851.1|vFam_490| ORF074 mRNA capping enzyme small subunit [Orf virus]
+gi|40556009|ref|NP_955094.1|vFam_490| CNPV071 mRNA capping enzyme small subunit [Canarypox virus]
+gi|9634721|ref|NP_039014.1|vFam_490| mRNA capping enzyme, small subunit [Fowlpox virus]
+gi|9629033|ref|NP_044052.1|vFam_490| MC101L [Molluscum contagiosum virus subtype 1]
+gi|571798012|ref|YP_008658511.1|vFam_490| mRNA capping small sub-unit [Squirrelpox virus]
+gi|377829995|ref|YP_005296294.1|vFam_490| unnamed protein product [Cotia virus SPAn232]
+gi|113195296|ref|YP_717426.1|vFam_490| small subunit of mRNA capping enzyme [Taterapox virus]
+gi|9633898|ref|NP_051976.1|vFam_490| gp087L [Rabbit fibroma virus]
+gi|345107287|ref|YP_004821452.1|vFam_490| small subunit of mRNA capping enzyme [Yoka poxvirus]
+gi|148912966|ref|YP_001293280.1|vFam_490| hypothetical protein GTPV_gp085 [Goatpox virus Pellor]
+gi|211956369|ref|YP_002302438.1|vFam_490| MRNA capping enzyme small subunit [Deerpox virus W-1170-84]
+gi|157939712|ref|YP_001497084.1|vFam_490| mRNA capping enzyme VITF [Tanapox virus]
+gi|18640172|ref|NP_570246.1|vFam_490| SPV086 mRNA capping enzyme small subunit [Swinepox virus]

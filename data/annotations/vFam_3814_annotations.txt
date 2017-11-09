@@ -1,0 +1,11 @@
+CLUSTER	3814
+NUM_SEQ	3
+LENGTH	310
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	161.2
+FAMILIES	{'Reoviridae': 3}
+GENERA	{'Cypovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|187764196|ref|YP_001883316.1|vFam_3814| non-structural protein [Cypovirus 5]
+gi|14993648|ref|NP_149154.1|vFam_3814| hypothetical protein LdCPV1s9gp1 [Cypovirus 1]
+gi|14993627|ref|NP_149143.1|vFam_3814| hypothetical protein LdcV14s9gp1 [Cypovirus 14]

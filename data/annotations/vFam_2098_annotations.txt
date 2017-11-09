@@ -1,0 +1,12 @@
+CLUSTER	2098
+NUM_SEQ	4
+LENGTH	133
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	67.83
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|52139291|ref|YP_081566.1|vFam_2098| envelope protein UL131A [Human herpesvirus 5]
+gi|20026708|ref|NP_612750.1|vFam_2098| envelope protein UL131A [Panine herpesvirus 2]
+gi|360086598|ref|YP_004940281.1|vFam_2098| envelope protein UL131A [Saimiriine herpesvirus 3]
+gi|360041011|ref|YP_004940135.1|vFam_2098| envelope protein UL131A [Aotine herpesvirus 1]

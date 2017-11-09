@@ -1,0 +1,13 @@
+CLUSTER	1785
+NUM_SEQ	5
+LENGTH	95
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	48.45
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Betabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|46309358|ref|YP_006248.1|vFam_1785| ORF96 [Agrotis segetum granulovirus]
+gi|148368917|ref|YP_001257047.1|vFam_1785| hypothetical protein SlGVgp096 [Spodoptera litura granulovirus]
+gi|11068091|ref|NP_068307.1|vFam_1785| PxORF88 peptide [Plutella xylostella granulovirus]
+gi|285002401|ref|YP_003422465.1|vFam_1785| hypothetical protein PsunGV_gp126 [Pseudaletia unipuncta granulovirus]
+gi|164519320|ref|YP_001649107.1|vFam_1785| hypothetical protein HaGV_gp125 [Helicoverpa armigera granulovirus]

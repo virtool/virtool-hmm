@@ -1,0 +1,13 @@
+CLUSTER	1204
+NUM_SEQ	5
+LENGTH	316
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	164.32
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631471|ref|NP_048222.1|vFam_1204| ORF MSV151 putative vaccinia A11R homolog, similar to SW:P33836 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497898|ref|YP_008003697.1|vFam_1204| viral membrane formation (Cop-A11R) [Mythimna separata entomopoxvirus 'L']
+gi|506498214|ref|YP_008004011.1|vFam_1204| viral membrane formation (Cop-A11R) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498766|ref|YP_008004560.1|vFam_1204| viral membrane formation (Cop-A11R) [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964452|ref|NP_064920.1|vFam_1204| hypothetical protein AMV138 [Amsacta moorei entomopoxvirus 'L']

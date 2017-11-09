@@ -1,0 +1,14 @@
+CLUSTER	559
+NUM_SEQ	6
+LENGTH	558
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	279.0
+FAMILIES	{'Herpesviridae': 6}
+GENERA	{'Varicellovirus': 5, 'Iltovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|38638267|ref|NP_944450.1|vFam_559| envelope glycoprotein E [Psittacid herpesvirus 1]
+gi|270339514|ref|YP_003331591.1|vFam_559| envelope glycoprotein E [Felid herpesvirus 1]
+gi|216905927|ref|YP_002333555.1|vFam_559| envelope glycoprotein E [Equid herpesvirus 9]
+gi|9629804|ref|NP_045291.1|vFam_559| envelope glycoprotein E [Equid herpesvirus 4]
+gi|51557555|ref|YP_068389.1|vFam_559| envelope glycoprotein E [Suid herpesvirus 1]
+gi|9629888|ref|NP_045372.1|vFam_559| envelope glycoprotein E [Bovine herpesvirus 1]

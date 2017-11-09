@@ -1,0 +1,20 @@
+CLUSTER	721
+NUM_SEQ	12
+LENGTH	184
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	92.0
+FAMILIES	{'Poxviridae': 12}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9629074|ref|NP_044093.1|vFam_721| MC142R [Molluscum contagiosum virus subtype 1]
+gi|571798048|ref|YP_008658547.1|vFam_721| EEV protein [Squirrelpox virus]
+gi|377830081|ref|YP_005296328.1|vFam_721| unnamed protein product [Cotia virus SPAn232]
+gi|20178531|ref|NP_619952.1|vFam_721| CPXV168 protein [Cowpox virus]
+gi|345107327|ref|YP_004821492.1|vFam_721| EEV membrane phosphoglycoprotein [Yoka poxvirus]
+gi|148913000|ref|YP_001293314.1|vFam_721| hypothetical protein GTPV_gp117 [Goatpox virus Pellor]
+gi|157939746|ref|YP_001497118.1|vFam_721| EEV glycoprotein [Tanapox virus]
+gi|38229285|ref|NP_938378.1|vFam_721| 122R [Yaba monkey tumor virus]
+gi|18640205|ref|NP_570279.1|vFam_721| SPV119 putative EEV glycoprotein [Swinepox virus]
+gi|211956403|ref|YP_002302472.1|vFam_721| EEV glycoprotein [Deerpox virus W-1170-84]
+gi|9633931|ref|NP_052010.1|vFam_721| gp121R [Rabbit fibroma virus]
+gi|9633757|ref|NP_051835.1|vFam_721| m121R [Myxoma virus]

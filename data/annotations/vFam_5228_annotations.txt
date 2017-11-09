@@ -1,0 +1,10 @@
+CLUSTER	5228
+NUM_SEQ	2
+LENGTH	418
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	213.18
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|410493566|ref|YP_006908764.1|vFam_5228| hypothetical protein AbHV_ORF112 [Abalone herpesvirus Victoria/AUS/2009]
+gi|410493517|ref|YP_006908715.1|vFam_5228| hypothetical protein AbHV_ORF63 [Abalone herpesvirus Victoria/AUS/2009]

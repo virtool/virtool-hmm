@@ -1,0 +1,14 @@
+CLUSTER	1768
+NUM_SEQ	6
+LENGTH	124
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	65.72
+FAMILIES	{'Nanoviridae': 4}
+GENERA	{'Nanovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|255961491|ref|YP_003104743.1|vFam_1768| U2 protein [Faba bean necrotic stunt virus]
+gi|20143462|ref|NP_619571.1|vFam_1768| hypothetical protein [Faba bean necrotic yellows virus]
+gi|20177470|ref|NP_619765.1|vFam_1768| viral non-structural protein [Milk vetch dwarf virus]
+gi|571797917|ref|YP_008997805.1|vFam_1768| U2 protein [Black medic leafroll virus]
+gi|570033509|ref|YP_008992021.1|vFam_1768| U2 protein [Pea necrotic yellow dwarf virus]
+gi|571797899|ref|YP_008997796.1|vFam_1768| U2 protein [Pea yellow stunt virus]

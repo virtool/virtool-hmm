@@ -1,0 +1,11 @@
+CLUSTER	4998
+NUM_SEQ	3
+LENGTH	60
+RELATIVE_ENTROPY_PER_POSITION	0.86
+TOTAL_RELATIVE_ENTROPY	51.6
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Betabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|11068119|ref|NP_068335.1|vFam_4998| PxORF116 peptide [Plutella xylostella granulovirus]
+gi|164519369|ref|YP_001649156.1|vFam_4998| hypothetical protein HaGV_gp174 [Helicoverpa armigera granulovirus]
+gi|148368952|ref|YP_001257082.1|vFam_4998| hypothetical protein SlGVgp131 [Spodoptera litura granulovirus]

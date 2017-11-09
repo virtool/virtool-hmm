@@ -1,0 +1,10 @@
+CLUSTER	5737
+NUM_SEQ	2
+LENGTH	325
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	169.0
+FAMILIES	{'None': 2}
+GENERA	{'Tenuivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|20428593|ref|NP_620548.1|vFam_5737| coat protein [Rice stripe virus]
+gi|9635242|ref|NP_058536.1|vFam_5737| nucleocapsid protein [Rice grassy stunt virus]

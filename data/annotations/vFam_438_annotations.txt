@@ -1,0 +1,21 @@
+CLUSTER	438
+NUM_SEQ	13
+LENGTH	319
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	165.88
+FAMILIES	{'Poxviridae': 13}
+GENERA	{'None': 1, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|66275887|ref|YP_232972.1|vFam_438| hypothetical protein VACWR090 [Vaccinia virus]
+gi|345107258|ref|YP_004821423.1|vFam_438| virion protein [Yoka poxvirus]
+gi|157939685|ref|YP_001497057.1|vFam_438| hypothetical protein TANV_62L [Tanapox virus]
+gi|38229224|ref|NP_938317.1|vFam_438| 62L [Yaba monkey tumor virus]
+gi|9633866|ref|NP_051946.1|vFam_438| gp057L [Rabbit fibroma virus]
+gi|377829971|ref|YP_005296266.1|vFam_438| unnamed protein product [Cotia virus SPAn232]
+gi|18640145|ref|NP_570219.1|vFam_438| SPV059 hypothetical protein [Swinepox virus]
+gi|148912939|ref|YP_001293253.1|vFam_438| hypothetical protein GTPV_gp058 [Goatpox virus Pellor]
+gi|211956342|ref|YP_002302411.1|vFam_438| hypothetical protein DpV84gp071 [Deerpox virus W-1170-84]
+gi|115531756|ref|YP_784282.1|vFam_438| hypothetical protein CRV092 [Nile crocodilepox virus]
+gi|9629004|ref|NP_044023.1|vFam_438| MC072L [Molluscum contagiosum virus subtype 1]
+gi|40556113|ref|NP_955198.1|vFam_438| CNPV175 conserved hypothetical protein [Canarypox virus]
+gi|9634800|ref|NP_039093.1|vFam_438| hypothetical protein FPV130 [Fowlpox virus]

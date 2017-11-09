@@ -1,0 +1,11 @@
+CLUSTER	3470
+NUM_SEQ	3
+LENGTH	91
+RELATIVE_ENTROPY_PER_POSITION	0.56
+TOTAL_RELATIVE_ENTROPY	50.96
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|9625549|ref|NP_039806.1|vFam_3470| hypothetical protein SSV-1p32 [Sulfolobus spindle-shaped virus 1]
+gi|22122295|ref|NP_666556.1|vFam_3470| hypothetical protein SIRV2gp22 [Sulfolobus islandicus rod-shaped virus 2]
+gi|22122242|ref|NP_666603.1|vFam_3470| hypothetical protein SIRV1gp15 [Sulfolobus islandicus rod-shaped virus 1]

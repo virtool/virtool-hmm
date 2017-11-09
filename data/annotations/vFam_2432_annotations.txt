@@ -1,0 +1,11 @@
+CLUSTER	2432
+NUM_SEQ	3
+LENGTH	312
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	159.12
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|526119578|ref|YP_008319481.1|vFam_2432| BTB/POZ domain [Pandoravirus dulcis]
+gi|531034898|ref|YP_008436523.1|vFam_2432| BTB/POZ domain motif-containing [Pandoravirus salinus]
+gi|526118693|ref|YP_008318596.1|vFam_2432| BTB/POZ domain motif-containing [Pandoravirus dulcis]

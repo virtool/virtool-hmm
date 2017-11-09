@@ -1,0 +1,10 @@
+CLUSTER	1185
+NUM_SEQ	2
+LENGTH	121
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	62.92
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Gammabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|48843657|ref|YP_025228.1|vFam_1185| DNA binding protein [Neodiprion lecontei nucleopolyhedrovirus]
+gi|506498752|ref|YP_008004546.1|vFam_1185| hypothetical protein CHREV_142 [Choristoneura rosaceana entomopoxvirus 'L']

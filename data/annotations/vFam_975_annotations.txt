@@ -1,0 +1,16 @@
+CLUSTER	975
+NUM_SEQ	8
+LENGTH	422
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	227.88
+FAMILIES	{'Herpesviridae': 8}
+GENERA	{'Percavirus': 1, 'None': 1, 'Rhadinovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|321496565|ref|YP_004207850.1|vFam_975| hypothetical protein RHVP.10 [Rodent herpesvirus Peru]
+gi|9629561|ref|NP_044850.1|vFam_975| protein G10 [Murid herpesvirus 4]
+gi|9628014|ref|NP_042608.1|vFam_975| ORF 10 [Equid herpesvirus 2]
+gi|139472862|ref|YP_001129356.1|vFam_975| ORF10 [Human herpesvirus 8]
+gi|18653817|ref|NP_570751.1|vFam_975| hypothetical protein MmrVgp08 [Macacine herpesvirus 5]
+gi|13095587|ref|NP_076502.1|vFam_975| unknown [Bovine herpesvirus 4]
+gi|9631200|ref|NP_047984.1|vFam_975| orf 10; similar to Raji LF1 [Ateline herpesvirus 3]
+gi|9625966|ref|NP_040212.1|vFam_975| unnamed protein product [Saimiriine herpesvirus 2]

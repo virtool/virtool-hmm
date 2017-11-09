@@ -1,0 +1,10 @@
+CLUSTER	6192
+NUM_SEQ	2
+LENGTH	318
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	165.36
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825033|ref|YP_007417964.1|vFam_6192| putative lipoprotein [Megavirus lba]
+gi|441432756|ref|YP_007354798.1|vFam_6192| putative lipoprotein [Acanthamoeba polyphaga moumouvirus]

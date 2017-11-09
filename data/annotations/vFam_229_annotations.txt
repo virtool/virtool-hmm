@@ -1,0 +1,27 @@
+CLUSTER	229
+NUM_SEQ	19
+LENGTH	191
+RELATIVE_ENTROPY_PER_POSITION	0.47
+TOTAL_RELATIVE_ENTROPY	89.77
+FAMILIES	{'Adenoviridae': 18}
+GENERA	{'None': 1, 'Mastadenovirus': 17}
+FASTA SEQUENCE TITLES:
+gi|318065985|ref|YP_004123752.1|vFam_229| 22K [Murine adenovirus 2]
+gi|46852421|ref|YP_009215.1|vFam_229| 22K [Porcine adenovirus 3]
+gi|227122435|ref|YP_002822220.1|vFam_229| 22k [Murine adenovirus 3]
+gi|496838708|ref|YP_007518327.1|vFam_229| 22K [Titi monkey adenovirus ECC-2011]
+gi|378554432|ref|YP_005271196.1|vFam_229| unnamed protein product [Bat adenovirus TJM]
+gi|345462112|ref|YP_004782114.1|vFam_229| unnamed protein product [Bat adenovirus 2]
+gi|13487874|ref|NP_108671.1|vFam_229| 33 kDa protein [Porcine adenovirus C]
+gi|52801697|ref|YP_094044.1|vFam_229| 22K [Bovine adenovirus A]
+gi|56158842|ref|AP_000017.1|vFam_229| 22K [Ovine adenovirus A]
+gi|56160455|ref|AP_000126.1|vFam_229| 22K [Human adenovirus A]
+gi|540155846|ref|YP_008520240.1|vFam_229| 22K [Simian adenovirus 18]
+gi|9626577|ref|NP_040867.1|vFam_229| encapsidation protein 22K [Human adenovirus F]
+gi|485191077|ref|YP_007906013.1|vFam_229| 22K [Simian adenovirus C]
+gi|61602103|ref|YP_213980.1|vFam_229| 22K [Simian adenovirus 1]
+gi|56160549|ref|AP_000216.1|vFam_229| 22K [Human adenovirus 5]
+gi|56160654|ref|AP_000318.1|vFam_229| 22K [Simian adenovirus 25]
+gi|197944776|ref|YP_002213817.1|vFam_229| encapsidation protein 22K [Human adenovirus B]
+gi|197944747|ref|YP_002213784.1|vFam_229| encapsidation protein 22K [Human adenovirus B]
+gi|56160615|ref|AP_000280.1|vFam_229| 22K [Simian adenovirus 21]

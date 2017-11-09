@@ -1,0 +1,14 @@
+CLUSTER	1692
+NUM_SEQ	6
+LENGTH	90
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	48.6
+FAMILIES	{'Phycodnaviridae': 6}
+GENERA	{'None': 2, 'Phaeovirus': 1, 'Prymnesiovirus': 1, 'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|508181895|ref|YP_008052414.1|vFam_1692| hypothetical protein PGCG_00095 [Phaeocystis globosa virus]
+gi|197322462|ref|YP_002154735.1|vFam_1692| hypothetical protein FeldSpV_gp113 [Feldmannia species virus]
+gi|313768126|ref|YP_004061557.1|vFam_1692| hypothetical protein BpV1_127 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|314055215|ref|YP_004063553.1|vFam_1692| hypothetical protein OtV2_120 [Ostreococcus tauri virus 2]
+gi|313844116|ref|YP_004061779.1|vFam_1692| hypothetical protein OlV1_146c [Ostreococcus lucimarinus virus OlV1]
+gi|260665999|ref|YP_003212953.1|vFam_1692| hypothetical protein H665_p130 [Ostreococcus tauri virus 1]

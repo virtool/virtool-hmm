@@ -1,0 +1,13 @@
+CLUSTER	2095
+NUM_SEQ	5
+LENGTH	116
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	61.48
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Cytomegalovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|52139297|ref|YP_081572.1|vFam_2095| protein UL145 [Human herpesvirus 5]
+gi|359946564|ref|YP_004936097.1|vFam_2095| protein UL145 [Cercopithecine herpesvirus 5]
+gi|356640488|ref|YP_004933930.1|vFam_2095| protein UL145 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086604|ref|YP_004940289.1|vFam_2095| protein UL145 [Saimiriine herpesvirus 3]
+gi|360041025|ref|YP_004940149.1|vFam_2095| protein UL145 [Aotine herpesvirus 1]

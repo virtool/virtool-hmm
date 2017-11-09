@@ -1,0 +1,17 @@
+CLUSTER	780
+NUM_SEQ	9
+LENGTH	612
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	318.24
+FAMILIES	{'Partitiviridae': 7}
+GENERA	{'Partitivirus': 2, 'None': 2, 'Alphacryptovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|448826159|ref|YP_007419077.1|vFam_780| RNA-dependent RNA polymerase [Rosellinia necatrix partitivirus 2]
+gi|254728913|ref|YP_003082248.1|vFam_780| RNA-dependent RNA polymerase [Sclerotinia sclerotiorum partitivirus S]
+gi|109390413|ref|YP_656506.1|vFam_780| RNA-dependent RNA polymerase [Raphanus sativus cryptic virus 1]
+gi|55770805|ref|YP_138537.1|vFam_780| RNA-dependent RNA polymerase [Amasya cherry disease-associated mycovirus]
+gi|71658857|ref|YP_272124.1|vFam_780| putative RNA dependent RNA polymerase [Vicia cryptic virus]
+gi|555928250|ref|YP_008719880.1|vFam_780| RNA-dependent RNA polymerase [Dill cryptic virus 1]
+gi|212681404|ref|YP_002308574.1|vFam_780| putative RNA-dependent RNA polymerase [Beet cryptic virus 1]
+gi|555928254|ref|YP_008719882.1|vFam_780| RNA-dependent RNA polymerase [Red clover cryptic virus 1]
+gi|52220884|ref|YP_086754.1|vFam_780| RNA dependent RNA polymerase [White clover cryptic virus 1]

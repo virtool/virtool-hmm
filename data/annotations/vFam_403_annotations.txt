@@ -1,0 +1,26 @@
+CLUSTER	403
+NUM_SEQ	18
+LENGTH	75
+RELATIVE_ENTROPY_PER_POSITION	0.71
+TOTAL_RELATIVE_ENTROPY	53.25
+FAMILIES	{'Poxviridae': 18}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 3, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|115531787|ref|YP_784313.1|vFam_403| virion redox protein [Nile crocodilepox virus]
+gi|9629037|ref|NP_044056.1|vFam_403| MC105L [Molluscum contagiosum virus subtype 1]
+gi|40556177|ref|NP_955262.1|vFam_403| CNPV239 virion redox protein [Canarypox virus]
+gi|9634836|ref|NP_039129.1|vFam_403| Molluscum contagiosum virus MC105L homolog [Fowlpox virus]
+gi|41057514|ref|NP_957987.1|vFam_403| ORF078 thioredoxin-like protein [Bovine papular stomatitis virus]
+gi|289183843|ref|YP_003457384.1|vFam_403| thioredoxin-like protein [Pseudocowpox virus]
+gi|41057141|ref|NP_957855.1|vFam_403| ORF078 thioredoxin-like protein [Orf virus]
+gi|571798016|ref|YP_008658515.1|vFam_403| redox virion protein [Squirrelpox virus]
+gi|113195300|ref|YP_717430.1|vFam_403| hypothetical protein TATV_DAH68_123 [Taterapox virus]
+gi|17975026|ref|NP_536540.1|vFam_403| A3L [Monkeypox virus Zaire-96-I-16]
+gi|345107291|ref|YP_004821456.1|vFam_403| S-S bond formation pathway [Yoka poxvirus]
+gi|377829999|ref|YP_005296298.1|vFam_403| unnamed protein product [Cotia virus SPAn232]
+gi|157939716|ref|YP_001497088.1|vFam_403| redox virion protein [Tanapox virus]
+gi|38229255|ref|NP_938348.1|vFam_403| 93L [Yaba monkey tumor virus]
+gi|211956373|ref|YP_002302442.1|vFam_403| hypothetical protein DpV84gp102 [Deerpox virus W-1170-84]
+gi|9633902|ref|NP_051980.1|vFam_403| gp091L [Rabbit fibroma virus]
+gi|148912970|ref|YP_001293284.1|vFam_403| hypothetical protein GTPV_gp089 [Goatpox virus Pellor]
+gi|18640176|ref|NP_570250.1|vFam_403| SPV090 hypothetical protein [Swinepox virus]

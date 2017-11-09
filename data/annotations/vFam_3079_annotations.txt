@@ -1,0 +1,11 @@
+CLUSTER	3079
+NUM_SEQ	3
+LENGTH	411
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	213.72
+FAMILIES	{'Tombusviridae': 2}
+GENERA	{'Panicovirus': 1, 'Machlomovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|20162538|ref|NP_619719.1|vFam_3079| putative replicase [Maize chlorotic mottle virus]
+gi|523587725|ref|YP_008219058.1|vFam_3079| putative replicase-associated protein [Thin paspalum asymptomatic virus]
+gi|11072112|ref|NP_068343.1|vFam_3079| 48 kDa replicase protein [Panicum mosaic virus]

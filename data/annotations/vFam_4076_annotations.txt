@@ -1,0 +1,11 @@
+CLUSTER	4076
+NUM_SEQ	3
+LENGTH	860
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	447.2
+FAMILIES	{'None': 3}
+GENERA	{'Ourmiavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|255987653|ref|YP_003104770.1|vFam_4076| putative RNA dependent RNA polymerase [Cassava virus C]
+gi|194351524|ref|YP_002019754.1|vFam_4076| putative RNA dependent RNA polymerase [Epirus cherry virus]
+gi|194351518|ref|YP_002019757.1|vFam_4076| putative RNA dependent RNA polymerase [Ourmia melon virus]

@@ -1,0 +1,13 @@
+CLUSTER	566
+NUM_SEQ	5
+LENGTH	454
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	227.0
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Cytomegalovirus': 2, 'Proboscivirus': 1, 'Roseolovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|496991167|ref|YP_007969783.1|vFam_566| DNA packaging tegument protein UL17 [Elephantid herpesvirus 1]
+gi|360086571|ref|YP_004940255.1|vFam_566| DNA packaging tegument protein UL17 [Saimiriine herpesvirus 3]
+gi|538447261|ref|YP_008493001.1|vFam_566| tegument protein [Porcine cytomegalovirus]
+gi|9633133|ref|NP_050244.1|vFam_566| tegument protein [Human herpesvirus 6B]
+gi|51874286|ref|YP_073805.1|vFam_566| DNA packaging tegument protein UL17 [Human herpesvirus 7]

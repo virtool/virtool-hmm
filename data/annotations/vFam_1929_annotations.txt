@@ -1,0 +1,12 @@
+CLUSTER	1929
+NUM_SEQ	4
+LENGTH	186
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	91.14
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1, 'Mimiviridae': 1}
+GENERA	{'None': 1, 'Mimivirus': 1, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852874|ref|YP_294158.1|vFam_1929| hypothetical protein EhV400 [Emiliania huxleyi virus 86]
+gi|526119963|ref|YP_008319866.1|vFam_1929| lipocalin-like domain containing protein [Pandoravirus dulcis]
+gi|448825718|ref|YP_007418649.1|vFam_1929| putative lipocalin [Megavirus lba]
+gi|311978291|ref|YP_003987412.1|vFam_1929| putative lipocalin [Acanthamoeba polyphaga mimivirus]

@@ -1,0 +1,11 @@
+CLUSTER	3678
+NUM_SEQ	3
+LENGTH	213
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	110.76
+FAMILIES	{'None': 3}
+GENERA	{'None': 2, 'Cilevirus': 1}
+FASTA SEQUENCE TITLES:
+gi|353332648|ref|YP_004901704.1|vFam_3678| p24 [Blueberry necrotic ring blotch virus]
+gi|109255271|ref|YP_654543.1|vFam_3678| p24 [Citrus leprosis virus C]
+gi|355348570|ref|YP_004928121.1|vFam_3678| p23 [Hibiscus green spot virus]

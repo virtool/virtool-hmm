@@ -1,0 +1,11 @@
+CLUSTER	3077
+NUM_SEQ	3
+LENGTH	210
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	111.3
+FAMILIES	{'Secoviridae': 3}
+GENERA	{'Nepovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|50429221|ref|NP_734016.2|vFam_3077| cysteine protease [Cycas necrotic stunt virus]
+gi|194033126|ref|YP_002000613.1|vFam_3077| cysteine protease [Grapevine chrome mosaic virus]
+gi|50428980|ref|NP_734034.2|vFam_3077| cysteine protease [Beet ringspot virus]

@@ -1,0 +1,14 @@
+CLUSTER	351
+NUM_SEQ	6
+LENGTH	507
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	253.5
+FAMILIES	{'Herpesviridae': 6}
+GENERA	{'Muromegalovirus': 1, 'Roseolovirus': 1, 'None': 2, 'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|61660154|ref|YP_214045.1|vFam_351| hypothetical protein MuHV1_gp037 [Murid herpesvirus 1]
+gi|448824873|ref|YP_007417805.1|vFam_351| GP31 [Caviid herpesvirus 2]
+gi|14251018|ref|NP_116380.1|vFam_351| T31 [Tupaiid herpesvirus 1]
+gi|9633083|ref|NP_050191.1|vFam_351| hypothetical protein HhV6Bgp016 [Human herpesvirus 6B]
+gi|359946475|ref|YP_004936007.1|vFam_351| protein UL31 [Cercopithecine herpesvirus 5]
+gi|356640341|ref|YP_004933783.1|vFam_351| protein UL31 [Cynomolgus macaque cytomegalovirus strain Ottawa]

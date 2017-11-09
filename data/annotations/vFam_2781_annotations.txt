@@ -1,0 +1,13 @@
+CLUSTER	2781
+NUM_SEQ	5
+LENGTH	69
+RELATIVE_ENTROPY_PER_POSITION	0.75
+TOTAL_RELATIVE_ENTROPY	51.75
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631325|ref|NP_048158.1|vFam_2781| ORF MSV087 putative thioredoxin, similar to Neurospora crassa GB:D45892 [Melanoplus sanguinipes entomopoxvirus]
+gi|506498099|ref|YP_008003896.1|vFam_2781| putative thioredoxin [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498714|ref|YP_008004508.1|vFam_2781| putative thioredoxin [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506497820|ref|YP_008003619.1|vFam_2781| putative thioredoxin [Mythimna separata entomopoxvirus 'L']
+gi|9964393|ref|NP_064861.1|vFam_2781| putative thioredoxin [Amsacta moorei entomopoxvirus 'L']

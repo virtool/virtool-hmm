@@ -1,0 +1,10 @@
+CLUSTER	5579
+NUM_SEQ	2
+LENGTH	347
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	180.44
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409895|ref|YP_004347315.1|vFam_5579| putative transcription factor A2-like protein [Lausannevirus]
+gi|284504354|ref|YP_003407069.1|vFam_5579| transcription factor A2-like protein [Marseillevirus]

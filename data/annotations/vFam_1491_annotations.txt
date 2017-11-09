@@ -1,0 +1,13 @@
+CLUSTER	1491
+NUM_SEQ	5
+LENGTH	238
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	126.14
+FAMILIES	{'Luteoviridae': 5}
+GENERA	{'Polerovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|308125286|ref|YP_003915147.1|vFam_1491| PO protein [Cotton leafroll dwarf virus]
+gi|19881390|ref|NP_612214.1|vFam_1491| hypothetical protein P1 [Beet mild yellowing virus]
+gi|30248020|ref|NP_840095.1|vFam_1491| P0 protein [Beet western yellows virus]
+gi|189418878|ref|YP_001949869.1|vFam_1491| P0 [Melon aphid-borne yellows virus]
+gi|20260787|ref|NP_620100.1|vFam_1491| hypothetical protein P1 [Cucurbit aphid-borne yellows virus]

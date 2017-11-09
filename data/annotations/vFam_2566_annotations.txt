@@ -1,0 +1,11 @@
+CLUSTER	2566
+NUM_SEQ	3
+LENGTH	187
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	97.24
+FAMILIES	{'None': 1, 'Secoviridae': 2}
+GENERA	{'Torradovirus': 2, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|126010928|ref|YP_001040017.1|vFam_2566| Orf1 [Tomato torrado virus]
+gi|255694014|ref|YP_003097230.1|vFam_2566| hypothetical protein ToChV_s2_gp1 [Tomato chocolate spot virus]
+gi|190643472|ref|YP_001976148.1|vFam_2566| hypothetical protein [Tomato marchitez virus]

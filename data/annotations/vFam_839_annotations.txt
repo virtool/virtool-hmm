@@ -1,0 +1,14 @@
+CLUSTER	839
+NUM_SEQ	6
+LENGTH	354
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	180.54
+FAMILIES	{'None': 1, 'Mimiviridae': 5}
+GENERA	{'None': 5, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|441432539|ref|YP_007354581.1|vFam_839| hypothetical protein Moumou_00621 [Acanthamoeba polyphaga moumouvirus]
+gi|363540025|ref|YP_004894754.1|vFam_839| mg703 gene product [Megavirus chiliensis]
+gi|448825121|ref|YP_007418052.1|vFam_839| putative virion-associated membrane protein [Megavirus lba]
+gi|441432644|ref|YP_007354686.1|vFam_839| DUF230 super family[cl03829], Poxvirus proteins of unknown function [Acanthamoeba polyphaga moumouvirus]
+gi|441432052|ref|YP_007354094.1|vFam_839| putative virion-associated membrane protein [Acanthamoeba polyphaga moumouvirus]
+gi|311977435|ref|YP_003986554.1|vFam_839| uncharacterized virion-associated membrane protein [Acanthamoeba polyphaga mimivirus]

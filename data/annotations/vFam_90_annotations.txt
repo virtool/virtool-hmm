@@ -1,0 +1,43 @@
+CLUSTER	90
+NUM_SEQ	35
+LENGTH	484
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	251.68
+FAMILIES	{'Adenoviridae': 33}
+GENERA	{'Atadenovirus': 5, 'Siadenovirus': 4, 'Mastadenovirus': 19, 'Aviadenovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|388570686|ref|YP_006383560.1|vFam_90| capsid protein III [Goose adenovirus 4]
+gi|308222748|ref|YP_003933585.1|vFam_90| unnamed protein product [Turkey adenovirus 1]
+gi|327409481|ref|YP_004346925.1|vFam_90| penton base [Fowl adenovirus C]
+gi|501000356|ref|YP_007985650.1|vFam_90| capsid protein III, penton base [Fowl adenovirus 5]
+gi|555928225|ref|YP_008719856.1|vFam_90| penton base [Turkey adenovirus 5]
+gi|56160746|ref|AP_000414.1|vFam_90| III [Fowl adenovirus A]
+gi|9635803|ref|NP_062439.1|vFam_90| III [Frog adenovirus 1]
+gi|56160823|ref|AP_000482.1|vFam_90| III [Turkey adenovirus A]
+gi|363540920|ref|YP_004935935.1|vFam_90| unnamed protein product [Skua adenovirus A]
+gi|331271179|ref|YP_004414804.1|vFam_90| penton base protein [Raptor adenovirus A]
+gi|56158888|ref|AP_000084.1|vFam_90| III [Duck adenovirus A]
+gi|160700561|ref|YP_001552251.1|vFam_90| unnamed protein product [Snake adenovirus 1]
+gi|21450900|ref|NP_659519.1|vFam_90| III [Ovine adenovirus D]
+gi|440382971|ref|YP_007347002.1|vFam_90| penton base [Bovine adenovirus 6]
+gi|13242721|ref|NP_077393.1|vFam_90| III [Bovine adenovirus D]
+gi|227122425|ref|YP_002822211.1|vFam_90| pIII [Murine adenovirus 3]
+gi|56160683|ref|AP_000346.1|vFam_90| III [Murine adenovirus A]
+gi|318065975|ref|YP_004123742.1|vFam_90| III [Murine adenovirus 2]
+gi|56158809|ref|AP_000028.1|vFam_90| III [Bovine adenovirus B]
+gi|378554422|ref|YP_005271186.1|vFam_90| unnamed protein product [Bat adenovirus TJM]
+gi|345462102|ref|YP_004782104.1|vFam_90| unnamed protein product [Bat adenovirus 2]
+gi|56160962|ref|AP_000617.1|vFam_90| III [Canine adenovirus 2]
+gi|460042647|ref|YP_007518074.1|vFam_90| penton base [Simian adenovirus 20]
+gi|190340985|ref|YP_001974428.1|vFam_90| penton base [Human adenovirus D]
+gi|56160445|ref|AP_000116.1|vFam_90| III [Human adenovirus A]
+gi|327415380|ref|YP_004300208.1|vFam_90| unnamed protein product [Simian adenovirus 49]
+gi|540155836|ref|YP_008520230.1|vFam_90| penton base [Simian adenovirus 18]
+gi|485191067|ref|YP_007906003.1|vFam_90| III [Simian adenovirus C]
+gi|51527274|ref|YP_068027.1|vFam_90| penton base [Human adenovirus E]
+gi|197944737|ref|YP_002213774.1|vFam_90| penton base [Human adenovirus B]
+gi|51556703|ref|YP_068064.1|vFam_90| III [Tree shrew adenovirus 1]
+gi|46852412|ref|YP_009205.1|vFam_90| III [Porcine adenovirus 3]
+gi|56160574|ref|AP_000240.1|vFam_90| III [Porcine adenovirus C]
+gi|52801689|ref|YP_094036.1|vFam_90| III [Bovine adenovirus A]
+gi|56158835|ref|AP_000009.1|vFam_90| III [Ovine adenovirus A]

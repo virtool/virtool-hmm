@@ -1,0 +1,17 @@
+CLUSTER	862
+NUM_SEQ	9
+LENGTH	451
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	234.52
+FAMILIES	{'Herpesviridae': 9}
+GENERA	{'Macavirus': 2, 'None': 1, 'Rhadinovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|321496583|ref|YP_004207868.1|vFam_862| viral DNA cleavage/packaging protein [Rodent herpesvirus Peru]
+gi|9629573|ref|NP_044869.1|vFam_862| DNA packaging tegument protein UL17 [Murid herpesvirus 4]
+gi|83642868|ref|YP_438155.1|vFam_862| ORF32 [Ovine herpesvirus 2]
+gi|10140953|ref|NP_065530.1|vFam_862| ORF32 [Alcelaphine herpesvirus 1]
+gi|139472827|ref|YP_001129385.1|vFam_862| ORF32 [Human herpesvirus 8]
+gi|18653838|ref|NP_570772.1|vFam_862| hypothetical protein MmrVgp31 [Macacine herpesvirus 5]
+gi|13095608|ref|NP_076524.1|vFam_862| viral DNA cleavage/packaging protein [Bovine herpesvirus 4]
+gi|9631224|ref|NP_048004.1|vFam_862| orf 32 [Ateline herpesvirus 3]
+gi|9625987|ref|NP_040234.1|vFam_862| unnamed protein product [Saimiriine herpesvirus 2]

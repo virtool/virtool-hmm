@@ -1,0 +1,10 @@
+CLUSTER	4341
+NUM_SEQ	2
+LENGTH	118
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	61.36
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Lymphocystivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|51870176|ref|YP_073729.1|vFam_4341| hypothetical protein LDVICp225 [Lymphocystis disease virus - isolate China]
+gi|13358494|ref|NP_078646.1|vFam_4341| hypothetical protein LCDV1gp022 [Lymphocystis disease virus 1]

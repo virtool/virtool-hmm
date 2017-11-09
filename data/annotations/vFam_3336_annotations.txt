@@ -1,0 +1,11 @@
+CLUSTER	3336
+NUM_SEQ	3
+LENGTH	500
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	250.0
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Iridovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|15078925|ref|NP_149676.1|vFam_3336| 213R [Invertebrate iridescent virus 6]
+gi|527333680|ref|YP_008357464.1|vFam_3336| hypothetical protein IIV22_166L [Invertebrate iridovirus 22]
+gi|339906102|ref|YP_004732899.1|vFam_3336| hypothetical protein WIV_gp116 [Wiseana iridescent virus]

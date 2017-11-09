@@ -1,0 +1,15 @@
+CLUSTER	1677
+NUM_SEQ	7
+LENGTH	156
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	81.12
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|22122314|ref|NP_666575.1|vFam_1677| hypothetical protein SIRV2gp41 [Sulfolobus islandicus rod-shaped virus 2]
+gi|414089976|ref|YP_006990107.1|vFam_1677| putative SAM-dependent methyltransferase [Sulfolobales Mexican rudivirus 1]
+gi|159341092|ref|YP_001542651.1|vFam_1677| hypothetical protein [Acidianus rod-shaped virus 1]
+gi|171473709|ref|YP_001798579.1|vFam_1677| putative methyltransferase [Acidianus filamentous virus 9]
+gi|16753150|ref|NP_445728.1|vFam_1677| conserved hypothetical protein [Sulfolobus islandicus filamentous virus]
+gi|162329538|ref|YP_001604337.1|vFam_1677| putative SAM-dependent methyltransferase [Acidianus filamentous virus 8]
+gi|162329477|ref|YP_001604277.1|vFam_1677| hypothetical protein AFV7_gp53 [Acidianus filamentous virus 7]

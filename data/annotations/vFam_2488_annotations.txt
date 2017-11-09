@@ -1,0 +1,11 @@
+CLUSTER	2488
+NUM_SEQ	3
+LENGTH	110
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	56.1
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281842|ref|YP_003331508.1|vFam_2488| hypothetical protein SSSV7_gp25 [Sulfolobus spindle-shaped virus 7]
+gi|198449259|ref|YP_002221497.1|vFam_2488| hypothetical protein SSSV5_gp32 [Sulfolobus spindle-shaped virus 5]
+gi|42495079|ref|NP_963989.1|vFam_2488| ORF B111 [Sulfolobus virus Kamchatka 1]

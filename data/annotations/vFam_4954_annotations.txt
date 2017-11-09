@@ -1,0 +1,10 @@
+CLUSTER	4954
+NUM_SEQ	2
+LENGTH	222
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	115.44
+FAMILIES	{'Tombusviridae': 2}
+GENERA	{'Aureusvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|89888603|ref|YP_512364.1|vFam_4954| P25 protein [Cucumber leaf spot virus]
+gi|9633614|ref|NP_051031.1|vFam_4954| hypothetical protein, 25K [Pothos latent virus]

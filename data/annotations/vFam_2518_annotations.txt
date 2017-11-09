@@ -1,0 +1,13 @@
+CLUSTER	2518
+NUM_SEQ	5
+LENGTH	103
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	51.5
+FAMILIES	{'Phycodnaviridae': 5}
+GENERA	{'Prymnesiovirus': 1, 'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|508181877|ref|YP_008052396.1|vFam_2518| hypothetical protein PGCG_00077 [Phaeocystis globosa virus]
+gi|155370963|ref|YP_001426497.1|vFam_2518| hypothetical protein ATCV1_Z016R [Acanthocystis turfacea Chlorella virus 1]
+gi|155370250|ref|YP_001425784.1|vFam_2518| hypothetical protein FR483_N152R [Paramecium bursaria Chlorella virus FR483]
+gi|340025713|ref|NP_048469.2|vFam_2518| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953351|ref|YP_001498242.1|vFam_2518| hypothetical protein AR158_C160R [Paramecium bursaria Chlorella virus AR158]

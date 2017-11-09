@@ -1,0 +1,11 @@
+CLUSTER	3810
+NUM_SEQ	3
+LENGTH	57
+RELATIVE_ENTROPY_PER_POSITION	0.91
+TOTAL_RELATIVE_ENTROPY	51.87
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Capripoxvirus': 1, 'Yatapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|148912905|ref|YP_001293219.1|vFam_3810| hypothetical protein GTPV_gp24.5 [Goatpox virus Pellor]
+gi|157939650|ref|YP_001497022.1|vFam_3810| hypothetical protein TANV_28.5L [Tanapox virus]
+gi|38229191|ref|NP_938284.1|vFam_3810| 28.5L [Yaba monkey tumor virus]

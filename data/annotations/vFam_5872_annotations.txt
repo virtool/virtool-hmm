@@ -1,0 +1,10 @@
+CLUSTER	5872
+NUM_SEQ	2
+LENGTH	154
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	80.08
+FAMILIES	{'Papillomaviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448261103|ref|YP_007349393.1|vFam_5872| E4 [Equus ferus caballus papillomavirus type 4]
+gi|448261095|ref|YP_007349386.1|vFam_5872| E4 [Equus ferus caballus papillomavirus type 5]

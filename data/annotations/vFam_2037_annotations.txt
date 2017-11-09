@@ -1,0 +1,12 @@
+CLUSTER	2037
+NUM_SEQ	4
+LENGTH	205
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	104.55
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'Avipoxvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|40556021|ref|NP_955106.1|vFam_2037| CNPV083 CC chemokine-like protein [Canarypox virus]
+gi|9634730|ref|NP_039023.1|vFam_2037| CC chemokine gene family protein [Fowlpox virus]
+gi|40556170|ref|NP_955255.1|vFam_2037| CNPV232 CC chemokine-like protein [Canarypox virus]
+gi|40556153|ref|NP_955238.1|vFam_2037| CNPV215 CC chemokine-like protein [Canarypox virus]

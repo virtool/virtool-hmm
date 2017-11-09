@@ -1,0 +1,11 @@
+CLUSTER	4296
+NUM_SEQ	3
+LENGTH	121
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	59.29
+FAMILIES	{'Herpesviridae': 1, 'Marseillevirus family': 2}
+GENERA	{'Muromegalovirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|61660256|ref|YP_214147.1|vFam_4296| Possible multiple membrane spanning protein [Murid herpesvirus 1]
+gi|327409557|ref|YP_004346977.1|vFam_4296| hypothetical protein LAU_0009 [Lausannevirus]
+gi|284504452|ref|YP_003407167.1|vFam_4296| hypothetical protein MAR_ORF443 [Marseillevirus]

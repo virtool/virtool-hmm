@@ -1,0 +1,12 @@
+CLUSTER	1924
+NUM_SEQ	4
+LENGTH	190
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	93.1
+FAMILIES	{'Malacoherpesviridae': 1, 'Baculoviridae': 3}
+GENERA	{'Ostreavirus': 1, 'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|48696786|ref|YP_024610.1|vFam_1924| ORF70 [Ostreid herpesvirus 1]
+gi|125860218|ref|YP_001036388.1|vFam_1924| hypothetical protein SFMNPV_gp096 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401454|ref|YP_002332757.1|vFam_1924| hypothetical protein SlnV2_gp059 [Spodoptera litura nucleopolyhedrovirus II]
+gi|125860177|ref|YP_001036347.1|vFam_1924| hypothetical protein SFMNPV_gp055 [Spodoptera frugiperda multiple nucleopolyhedrovirus]

@@ -1,0 +1,20 @@
+CLUSTER	382
+NUM_SEQ	12
+LENGTH	2123
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	1125.19
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'None': 1, 'Cytomegalovirus': 6, 'Proboscivirus': 1, 'Roseolovirus': 2, 'Muromegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|496991145|ref|YP_007969807.1|vFam_382| large tegument protein [Elephantid herpesvirus 1]
+gi|538447230|ref|YP_008492970.1|vFam_382| large tegument protein [Porcine cytomegalovirus]
+gi|9633102|ref|NP_050212.1|vFam_382| large tegument protein [Human herpesvirus 6B]
+gi|51874253|ref|YP_073771.1|vFam_382| large tegument protein [Human herpesvirus 7]
+gi|448824889|ref|YP_007417821.1|vFam_382| GP48 [Caviid herpesvirus 2]
+gi|425707257|ref|YP_007016454.1|vFam_382| E48 [Murid herpesvirus 8]
+gi|9845340|ref|NP_064154.1|vFam_382| pR48 [Murid herpesvirus 2]
+gi|52139234|ref|YP_081506.1|vFam_382| large tegument protein [Human herpesvirus 5]
+gi|359946491|ref|YP_004936023.1|vFam_382| large tegument protein [Cercopithecine herpesvirus 5]
+gi|356640368|ref|YP_004933810.1|vFam_382| tegument protein UL48 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086535|ref|YP_004940220.1|vFam_382| large tegument protein [Saimiriine herpesvirus 3]
+gi|360040939|ref|YP_004940074.1|vFam_382| large tegument protein [Aotine herpesvirus 1]

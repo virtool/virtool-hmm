@@ -1,0 +1,14 @@
+CLUSTER	792
+NUM_SEQ	6
+LENGTH	213
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	108.63
+FAMILIES	{'Phycodnaviridae': 6}
+GENERA	{'Phaeovirus': 1, 'None': 1, 'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|197322371|ref|YP_002154644.1|vFam_792| putative VLTF2 transcription factor [Feldmannia species virus]
+gi|314055137|ref|YP_004063475.1|vFam_792| hypothetical protein OtV2_042 [Ostreococcus tauri virus 2]
+gi|157953776|ref|YP_001498667.1|vFam_792| hypothetical protein AR158_C586R [Paramecium bursaria Chlorella virus AR158]
+gi|9632049|ref|NP_048838.1|vFam_792| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|155371236|ref|YP_001426770.1|vFam_792| hypothetical protein ATCV1_Z289L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370738|ref|YP_001426272.1|vFam_792| hypothetical protein FR483_N640R [Paramecium bursaria Chlorella virus FR483]

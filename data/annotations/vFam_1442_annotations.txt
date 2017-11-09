@@ -1,0 +1,15 @@
+CLUSTER	1442
+NUM_SEQ	7
+LENGTH	172
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	89.44
+FAMILIES	{'Nanoviridae': 5}
+GENERA	{'Nanovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|570033505|ref|YP_008992019.1|vFam_1442| capsid protein [Pea necrotic yellow dwarf virus]
+gi|20530235|ref|NP_620699.1|vFam_1442| coat protein [Subterranean clover stunt virus]
+gi|571797919|ref|YP_008997806.1|vFam_1442| capsid protein [Pea yellow stunt virus]
+gi|571797911|ref|YP_008997802.1|vFam_1442| capsid protein [Black medic leafroll virus]
+gi|20177474|ref|NP_619767.1|vFam_1442| capsid protein [Milk vetch dwarf virus]
+gi|20143460|ref|NP_619570.1|vFam_1442| capsid protein (CP) [Faba bean necrotic yellows virus]
+gi|255961481|ref|YP_003104738.1|vFam_1442| capsid protein [Faba bean necrotic stunt virus]

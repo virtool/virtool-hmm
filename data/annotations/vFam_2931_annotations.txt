@@ -1,0 +1,10 @@
+CLUSTER	2931
+NUM_SEQ	2
+LENGTH	179
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	93.08
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441432019|ref|YP_007354061.1|vFam_2931| hypothetical protein Moumou_00079 [Acanthamoeba polyphaga moumouvirus]
+gi|363540867|ref|YP_004895027.1|vFam_2931| mg976 gene product [Megavirus chiliensis]

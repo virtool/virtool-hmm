@@ -1,0 +1,14 @@
+CLUSTER	1527
+NUM_SEQ	6
+LENGTH	311
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	164.83
+FAMILIES	{'Secoviridae': 6}
+GENERA	{'Comovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|25013694|ref|NP_734008.1|vFam_1527| protease cofactor [Squash mosaic virus]
+gi|25013707|ref|NP_734053.1|vFam_1527| protease cofactor [Cowpea mosaic virus]
+gi|530323595|ref|YP_008400139.1|vFam_1527| proteinase cofactor [Broad bean true mosaic virus]
+gi|25013689|ref|NP_734026.1|vFam_1527| protease cofactor [Red clover mottle virus]
+gi|25013681|ref|NP_734058.1|vFam_1527| protease cofactor [Cowpea severe mosaic virus]
+gi|25013673|ref|NP_734066.1|vFam_1527| protease co-factor [Bean pod mottle virus]

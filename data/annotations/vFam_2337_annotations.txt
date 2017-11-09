@@ -1,0 +1,10 @@
+CLUSTER	2337
+NUM_SEQ	2
+LENGTH	196
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	101.92
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1}
+GENERA	{'None': 1, 'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508181960|ref|YP_008052479.1|vFam_2337| hypothetical protein PGCG_00161 [Phaeocystis globosa virus]
+gi|310831491|ref|YP_003970134.1|vFam_2337| hypothetical protein crov501 [Cafeteria roenbergensis virus BV-PW1]

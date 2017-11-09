@@ -1,0 +1,11 @@
+CLUSTER	4673
+NUM_SEQ	3
+LENGTH	88
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	51.92
+FAMILIES	{'Picornaviridae': 3}
+GENERA	{'Cardiovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|25121612|ref|NP_740409.1|vFam_4673| protein 3AB [Encephalomyocarditis virus]
+gi|25121883|ref|NP_740432.1|vFam_4673| protein 3A [Theilovirus]
+gi|189418903|ref|YP_001950229.1|vFam_4673| protein 3A [Human TMEV-like cardiovirus]

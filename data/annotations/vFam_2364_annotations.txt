@@ -1,0 +1,11 @@
+CLUSTER	2364
+NUM_SEQ	3
+LENGTH	188
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	97.76
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Lymphocystivirus': 2, 'Ranavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|56692712|ref|YP_164170.1|vFam_2364| hypothetical protein ORF075R [Singapore grouper iridovirus]
+gi|51870007|ref|YP_073560.1|vFam_2364| hypothetical protein LDVICp053 [Lymphocystis disease virus - isolate China]
+gi|13358457|ref|NP_078763.1|vFam_2364| hypothetical protein LCDV1gp105 [Lymphocystis disease virus 1]

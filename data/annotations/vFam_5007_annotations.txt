@@ -1,0 +1,10 @@
+CLUSTER	5007
+NUM_SEQ	2
+LENGTH	64
+RELATIVE_ENTROPY_PER_POSITION	0.81
+TOTAL_RELATIVE_ENTROPY	51.84
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Orthopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|377830050|ref|YP_005296210.1|vFam_5007| unnamed protein product [Cotia virus SPAn232]
+gi|17974924|ref|NP_536438.1|vFam_5007| D8L [Monkeypox virus Zaire-96-I-16]

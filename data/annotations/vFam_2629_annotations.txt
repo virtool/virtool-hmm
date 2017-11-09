@@ -1,0 +1,11 @@
+CLUSTER	2629
+NUM_SEQ	3
+LENGTH	128
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	65.28
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329450|ref|YP_001604250.1|vFam_2629| hypothetical protein AFV7_gp26 [Acidianus filamentous virus 7]
+gi|171473678|ref|YP_001798548.1|vFam_2629| hypothetical protein AFV9_gp30 [Acidianus filamentous virus 9]
+gi|16753120|ref|NP_445698.1|vFam_2629| hypothetical protein SIFV0033 [Sulfolobus islandicus filamentous virus]

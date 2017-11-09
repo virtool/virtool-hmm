@@ -1,0 +1,16 @@
+CLUSTER	1288
+NUM_SEQ	8
+LENGTH	56
+RELATIVE_ENTROPY_PER_POSITION	0.95
+TOTAL_RELATIVE_ENTROPY	53.2
+FAMILIES	{'Adenoviridae': 8}
+GENERA	{'Mastadenovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|51556720|ref|YP_068080.1|vFam_1288| U exon, partial [Tree shrew adenovirus 1]
+gi|378554435|ref|YP_005271199.1|vFam_1288| unnamed protein product [Bat adenovirus TJM]
+gi|56160976|ref|AP_000631.1|vFam_1288| U exon [Canine adenovirus 2]
+gi|9629120|ref|NP_044206.1|vFam_1288| hypothetical protein CaV1gp24 [Canine adenovirus A]
+gi|52801699|ref|YP_094048.1|vFam_1288| U exon, partial [Bovine adenovirus A]
+gi|46852425|ref|YP_009219.1|vFam_1288| U exon, partial [Porcine adenovirus 3]
+gi|56158844|ref|AP_000019.1|vFam_1288| U exon, partial [Ovine adenovirus A]
+gi|56158821|ref|AP_000040.1|vFam_1288| U exon, partial [Bovine adenovirus B]

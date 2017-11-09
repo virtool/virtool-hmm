@@ -1,0 +1,10 @@
+CLUSTER	5621
+NUM_SEQ	2
+LENGTH	86
+RELATIVE_ENTROPY_PER_POSITION	0.58
+TOTAL_RELATIVE_ENTROPY	49.88
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035078|ref|YP_008436703.1|vFam_5621| hypothetical protein ps_287 [Pandoravirus salinus]
+gi|526118905|ref|YP_008318808.1|vFam_5621| hypothetical protein [Pandoravirus dulcis]

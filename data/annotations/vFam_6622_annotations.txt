@@ -1,0 +1,10 @@
+CLUSTER	6622
+NUM_SEQ	2
+LENGTH	96
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	50.88
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|157952794|ref|YP_001497686.1|vFam_6622| hypothetical protein NY2A_b490L [Paramecium bursaria Chlorella virus NY2A]
+gi|9631913|ref|NP_048702.1|vFam_6622| hypothetical protein [Paramecium bursaria Chlorella virus 1]

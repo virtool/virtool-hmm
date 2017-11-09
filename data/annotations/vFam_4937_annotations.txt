@@ -1,0 +1,11 @@
+CLUSTER	4937
+NUM_SEQ	3
+LENGTH	133
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	66.5
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|32453852|ref|NP_861615.1|vFam_4937| hypothetical protein HalHV1gp027 [Halovirus HF1]
+gi|441432779|ref|YP_007354821.1|vFam_4937| hypothetical protein Moumou_00870 [Acanthamoeba polyphaga moumouvirus]
+gi|311977505|ref|YP_003986625.1|vFam_4937| hypothetical protein [Acanthamoeba polyphaga mimivirus]

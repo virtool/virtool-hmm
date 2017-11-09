@@ -1,0 +1,11 @@
+CLUSTER	4838
+NUM_SEQ	3
+LENGTH	120
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	61.2
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|422933599|ref|YP_007003724.1|vFam_4838| protein ORF59 [Cyprinid herpesvirus 1]
+gi|422933928|ref|YP_007003879.1|vFam_4838| protein ORF59 [Cyprinid herpesvirus 2]
+gi|131840085|ref|YP_001096094.1|vFam_4838| unnamed protein product [Cyprinid herpesvirus 3]

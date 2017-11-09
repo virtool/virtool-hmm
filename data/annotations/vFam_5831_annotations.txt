@@ -1,0 +1,10 @@
+CLUSTER	5831
+NUM_SEQ	2
+LENGTH	101
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	51.51
+FAMILIES	{'Papillomaviridae': 2}
+GENERA	{'Kappapapillomavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|13186226|ref|NP_077111.1|vFam_5831| E5 [Kappapapillomavirus 2]
+gi|9635139|ref|NP_057846.1|vFam_5831| E5 [Kappapapillomavirus 1]

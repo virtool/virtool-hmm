@@ -1,0 +1,10 @@
+CLUSTER	5616
+NUM_SEQ	2
+LENGTH	367
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	187.17
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035116|ref|YP_008436741.1|vFam_5616| collagen triple helix repeat motif-containing [Pandoravirus salinus]
+gi|526118936|ref|YP_008318839.1|vFam_5616| collagen triple helix repeat motif-containing [Pandoravirus dulcis]

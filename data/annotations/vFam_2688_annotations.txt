@@ -1,0 +1,13 @@
+CLUSTER	2688
+NUM_SEQ	5
+LENGTH	390
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	202.8
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Muromegalovirus': 3, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|9845320|ref|NP_064134.1|vFam_2688| pR28 [Murid herpesvirus 2]
+gi|425707236|ref|YP_007016433.1|vFam_2688| E28 [Murid herpesvirus 8]
+gi|61660150|ref|YP_214041.1|vFam_2688| hypothetical protein MuHV1_gp033 [Murid herpesvirus 1]
+gi|448824868|ref|YP_007417800.1|vFam_2688| GP28 [Caviid herpesvirus 2]
+gi|14251010|ref|NP_116372.1|vFam_2688| T28 [Tupaiid herpesvirus 1]

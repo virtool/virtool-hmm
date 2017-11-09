@@ -1,0 +1,10 @@
+CLUSTER	1479
+NUM_SEQ	2
+LENGTH	200
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	102.0
+FAMILIES	{'Arteriviridae': 2}
+GENERA	{'Arterivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9627977|ref|NP_042577.1|vFam_1479| major structural glycoprotein GP5 [Lactate dehydrogenase-elevating virus]
+gi|9630811|ref|NP_047411.1|vFam_1479| GP5 glycosylated envelope protein [Porcine reproductive and respiratory syndrome virus]

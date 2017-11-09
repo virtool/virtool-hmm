@@ -1,0 +1,33 @@
+CLUSTER	196
+NUM_SEQ	25
+LENGTH	523
+RELATIVE_ENTROPY_PER_POSITION	0.55
+TOTAL_RELATIVE_ENTROPY	287.65
+FAMILIES	{'Paramyxoviridae': 25}
+GENERA	{'Morbillivirus': 5, 'Respirovirus': 4, 'None': 5, 'Henipavirus': 1, 'Rubulavirus': 9, 'Avulavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|10937871|ref|NP_067148.1|vFam_196| nucleocapsid protein [Human parainfluenza virus 3]
+gi|9634110|ref|NP_037641.1|vFam_196| nucleoprotein N [Bovine parainfluenza virus 3]
+gi|19718364|ref|NP_604433.1|vFam_196| nucleoprotein [Human parainfluenza virus 1]
+gi|9627220|ref|NP_056871.1|vFam_196| nucleocapsid protein [Sendai virus]
+gi|9630646|ref|NP_047201.1|vFam_196| nucleocapsid protein N [Canine distemper virus]
+gi|54310709|ref|YP_133821.1|vFam_196| nucleocapsid protein [Peste-des-petits-ruminants virus]
+gi|38707563|ref|NP_945024.1|vFam_196| nucleocapsid protein [Dolphin morbillivirus]
+gi|9626946|ref|NP_056918.1|vFam_196| nucleocapsid protein [Measles virus]
+gi|56410432|ref|YP_087120.2|vFam_196| N protein [Rinderpest virus (strain Kabete O)]
+gi|9630558|ref|NP_047106.1|vFam_196| nucleocapsid [Hendra virus]
+gi|9634969|ref|NP_054690.1|vFam_196| nucleocapsid protein [Tupaia paramyxovirus]
+gi|387935516|ref|YP_006347582.1|vFam_196| nucleocapsid protein [Nariva virus]
+gi|41057594|ref|NP_958048.1|vFam_196| nucleocapsid protein [Mossman virus]
+gi|89888071|ref|YP_512244.1|vFam_196| nucleocapsid protein [Beilong virus]
+gi|77124338|ref|YP_338075.1|vFam_196| nucleocapsid protein [J-virus]
+gi|32563516|ref|NP_872273.1|vFam_196| nucleocapsid protein [Goose paramyxovirus SF02]
+gi|529217038|ref|YP_008378659.1|vFam_196| nucleocapsid protein [Human parainfluenza virus 4a]
+gi|82712720|ref|YP_415508.1|vFam_196| nucleocapsid protein [Menangle virus]
+gi|22003843|ref|NP_665864.1|vFam_196| nucleocapsid protein [Tioman virus]
+gi|55775698|ref|YP_138511.1|vFam_196| nucleocapsid protein [Parainfluenza virus 5]
+gi|55770821|ref|YP_138504.1|vFam_196| nucleocapsid [Simian virus 41]
+gi|19525722|ref|NP_598401.1|vFam_196| nucleocapsid protein [Human parainfluenza virus 2]
+gi|9695416|ref|NP_054707.1|vFam_196| nucleocapsid protein [Mumps virus]
+gi|151266278|ref|YP_001331027.1|vFam_196| nucleocapsid protein [Porcine rubulavirus]
+gi|148283123|ref|YP_001249270.1|vFam_196| nucleocapsid protein [Mapuera virus]

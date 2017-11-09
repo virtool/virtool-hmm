@@ -1,0 +1,25 @@
+CLUSTER	375
+NUM_SEQ	17
+LENGTH	594
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	308.88
+FAMILIES	{'Poxviridae': 17}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|40556046|ref|NP_955131.1|vFam_375| CNPV108 putative metalloprotease, virion morphogenesis [Canarypox virus]
+gi|9634751|ref|NP_039044.1|vFam_375| Metalloprotease [Fowlpox virus]
+gi|115531736|ref|YP_784262.1|vFam_375| metalloprotease [Nile crocodilepox virus]
+gi|113195258|ref|YP_717388.1|vFam_375| insulin metalloproteinase-like protein [Taterapox virus]
+gi|345107245|ref|YP_004821410.1|vFam_375| essential metalloproteinase [Yoka poxvirus]
+gi|377829959|ref|YP_005296254.1|vFam_375| unnamed protein product [Cotia virus SPAn232]
+gi|9633854|ref|NP_051934.1|vFam_375| gp045L [Rabbit fibroma virus]
+gi|9633681|ref|NP_051759.1|vFam_375| m45L [Myxoma virus]
+gi|157939673|ref|YP_001497045.1|vFam_375| metalloprotease [Tanapox virus]
+gi|38229212|ref|NP_938305.1|vFam_375| 50L [Yaba monkey tumor virus]
+gi|15150489|ref|NP_150484.1|vFam_375| LSDV050 putative metalloprotease [Lumpy skin disease virus NI-2490]
+gi|211956330|ref|YP_002302399.1|vFam_375| metalloprotease [Deerpox virus W-1170-84]
+gi|18640133|ref|NP_570207.1|vFam_375| SPV047 putative metalloprotease [Swinepox virus]
+gi|41057473|ref|NP_957946.1|vFam_375| ORF037 metalloprotease [Bovine papular stomatitis virus]
+gi|41057100|ref|NP_957814.1|vFam_375| ORF037 putative metalloprotease [Orf virus]
+gi|571797970|ref|YP_008658469.1|vFam_375| metalloproteinase G1-MEROPS peptidase family M44 (clan ME) [Squirrelpox virus]
+gi|9628988|ref|NP_044007.1|vFam_375| MC056L [Molluscum contagiosum virus subtype 1]

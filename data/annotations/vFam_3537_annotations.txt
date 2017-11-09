@@ -1,0 +1,11 @@
+CLUSTER	3537
+NUM_SEQ	3
+LENGTH	329
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	171.08
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 1, 'Roseolovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|538447219|ref|YP_008492959.1|vFam_3537| IE-B [Porcine cytomegalovirus]
+gi|224020401|ref|NP_042910.2|vFam_3537| tegument protein vICA [Human herpesvirus 6A]
+gi|51874239|ref|YP_073757.1|vFam_3537| tegument protein vICA [Human herpesvirus 7]

@@ -1,0 +1,21 @@
+CLUSTER	120
+NUM_SEQ	13
+LENGTH	563
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	287.13
+FAMILIES	{'Baculoviridae': 10}
+GENERA	{'Alphabaculovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|438000445|ref|YP_007250550.1|vFam_120| IE-1 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964649|ref|YP_950845.1|vFam_120| IE-1 [Maruca vitrata nucleopolyhedrovirus]
+gi|96979779|ref|YP_610980.1|vFam_120| ie-1 [Antheraea pernyi nucleopolyhedrovirus]
+gi|9630083|ref|NP_046301.1|vFam_120| immediate early gene 1 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|86355530|ref|YP_473198.1|vFam_120| IE1 [Hyphantria cunea nucleopolyhedrovirus]
+gi|529153486|ref|YP_008378511.1|vFam_120| IE-1 [Choristoneura occidentalis alphabaculovirus]
+gi|529153323|ref|YP_008378363.1|vFam_120| IE-1 [Choristoneura rosaceana alphabaculovirus]
+gi|116326211|ref|YP_803537.1|vFam_120| immediate early protein 1 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320786|ref|NP_203298.1|vFam_120| IE1 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|292397686|ref|YP_003517752.1|vFam_120| IE-1 [Lymantria xylina MNPV]
+gi|9630981|ref|NP_047651.1|vFam_120| immediate early transactivator 1 [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|22549562|ref|NP_689335.1|vFam_120| ie1 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|228861598|ref|YP_002854618.1|vFam_120| ie-1 [Euproctis pseudoconspersa nucleopolyhedrovirus]

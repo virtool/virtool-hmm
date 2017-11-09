@@ -1,0 +1,10 @@
+CLUSTER	896
+NUM_SEQ	2
+LENGTH	130
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	65.0
+FAMILIES	{'Baculoviridae': 1, 'Polydnaviridae': 1}
+GENERA	{'Ichnovirus': 1, 'Betabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|124484653|ref|YP_001031246.1|vFam_896| b2.1 [Hyposoter fugitivus ichnovirus]
+gi|11068047|ref|NP_068263.1|vFam_896| PxORF44 peptide [Plutella xylostella granulovirus]

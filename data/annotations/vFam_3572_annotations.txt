@@ -1,0 +1,12 @@
+CLUSTER	3572
+NUM_SEQ	4
+LENGTH	51
+RELATIVE_ENTROPY_PER_POSITION	1.02
+TOTAL_RELATIVE_ENTROPY	52.02
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Aviadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|56160770|ref|AP_000402.1|vFam_3572| ORF1A, partial [Fowl adenovirus A]
+gi|308222736|ref|YP_003933573.1|vFam_3572| unnamed protein product, partial [Turkey adenovirus 1]
+gi|501000344|ref|YP_007985638.1|vFam_3572| ORF1A, partial [Fowl adenovirus 5]
+gi|56160705|ref|AP_000368.1|vFam_3572| ORF1A, partial [Fowl adenovirus D]

@@ -1,0 +1,11 @@
+CLUSTER	4765
+NUM_SEQ	3
+LENGTH	122
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	62.22
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9845331|ref|NP_064145.1|vFam_4765| pr40 [Murid herpesvirus 2]
+gi|425707248|ref|YP_007016445.1|vFam_4765| e40 [Murid herpesvirus 8]
+gi|61660161|ref|YP_214052.1|vFam_4765| hypothetical protein MuHV1_gp044 [Murid herpesvirus 1]

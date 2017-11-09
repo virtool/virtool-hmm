@@ -1,0 +1,11 @@
+CLUSTER	4729
+NUM_SEQ	3
+LENGTH	111
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	55.5
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|506498249|ref|YP_008004046.1|vFam_4729| hypothetical protein AHEV_223 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498858|ref|YP_008004652.1|vFam_4729| hypothetical protein CHREV_248 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506497988|ref|YP_008003787.1|vFam_4729| hypothetical protein MYSEV_270 [Mythimna separata entomopoxvirus 'L']

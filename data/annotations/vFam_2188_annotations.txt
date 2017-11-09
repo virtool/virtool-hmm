@@ -1,0 +1,13 @@
+CLUSTER	2188
+NUM_SEQ	5
+LENGTH	242
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	125.84
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631462|ref|NP_048242.1|vFam_2188| ORF MSV171 ATP/GTP binding motif homolog (vaccinia A32L), similar to GB:D11079 [Melanoplus sanguinipes entomopoxvirus]
+gi|9964464|ref|NP_064932.1|vFam_2188| putative ATP/GTP-binding protein [Amsacta moorei entomopoxvirus 'L']
+gi|506497908|ref|YP_008003707.1|vFam_2188| ATPase/DNA packaging protein [Mythimna separata entomopoxvirus 'L']
+gi|506498774|ref|YP_008004568.1|vFam_2188| ATPase/DNA packaging protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498206|ref|YP_008004003.1|vFam_2188| ATPase/DNA packaging protein [Adoxophyes honmai entomopoxvirus 'L']

@@ -1,0 +1,10 @@
+CLUSTER	6153
+NUM_SEQ	2
+LENGTH	262
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	133.62
+FAMILIES	{'None': 1, 'Hytrosaviridae': 1}
+GENERA	{'None': 1, 'Muscavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|213159279|ref|YP_002321322.1|vFam_6153| mitochondrial carrier protein-like protein [Oryctes rhinoceros virus]
+gi|187903047|ref|YP_001883338.1|vFam_6153| mitochondrial carrier protein [Musca domestica salivary gland hypertrophy virus]

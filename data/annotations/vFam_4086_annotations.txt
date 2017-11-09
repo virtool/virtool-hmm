@@ -1,0 +1,11 @@
+CLUSTER	4086
+NUM_SEQ	3
+LENGTH	257
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	133.64
+FAMILIES	{'Virgaviridae': 3}
+GENERA	{'Tobravirus': 3}
+FASTA SEQUENCE TITLES:
+gi|20522120|ref|NP_620671.1|vFam_4086| 29 kDa protein [Tobacco rattle virus]
+gi|20178601|ref|NP_620035.1|vFam_4086| 29K protein [Pepper ringspot virus]
+gi|9632341|ref|NP_049327.1|vFam_4086| putative movement protein [Pea early-browning virus]

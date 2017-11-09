@@ -1,0 +1,14 @@
+CLUSTER	2096
+NUM_SEQ	6
+LENGTH	101
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	52.52
+FAMILIES	{'Herpesviridae': 6}
+GENERA	{'Cytomegalovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|360086503|ref|YP_004940187.1|vFam_2096| protein UL19 [Saimiriine herpesvirus 3]
+gi|360040905|ref|YP_004940039.1|vFam_2096| protein UL19 [Aotine herpesvirus 1]
+gi|52139205|ref|YP_081478.1|vFam_2096| protein UL19 [Human herpesvirus 5]
+gi|20026621|ref|NP_612663.1|vFam_2096| protein UL19 [Panine herpesvirus 2]
+gi|359946463|ref|YP_004935995.1|vFam_2096| protein UL19 [Cercopithecine herpesvirus 5]
+gi|356640322|ref|YP_004933764.1|vFam_2096| protein UL19 [Cynomolgus macaque cytomegalovirus strain Ottawa]

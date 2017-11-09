@@ -1,0 +1,15 @@
+CLUSTER	765
+NUM_SEQ	7
+LENGTH	520
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	270.4
+FAMILIES	{'Asfarviridae': 7}
+GENERA	{'Asfivirus': 7}
+FASTA SEQUENCE TITLES:
+gi|9628254|ref|NP_042840.1|vFam_765| pDP542L [African swine fever virus]
+gi|9628138|ref|NP_042724.1|vFam_765| pA528R [African swine fever virus]
+gi|9628139|ref|NP_042725.1|vFam_765| pA506R [African swine fever virus]
+gi|9628140|ref|NP_042726.1|vFam_765| pA542R [African swine fever virus]
+gi|9628134|ref|NP_042720.1|vFam_765| pA489R [African swine fever virus]
+gi|9628136|ref|NP_042722.1|vFam_765| pA505R [African swine fever virus]
+gi|9628137|ref|NP_042723.1|vFam_765| pA498R [African swine fever virus]

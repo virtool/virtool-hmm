@@ -1,0 +1,40 @@
+CLUSTER	160
+NUM_SEQ	32
+LENGTH	266
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	138.32
+FAMILIES	{'Baculoviridae': 24}
+GENERA	{'Alphabaculovirus': 24}
+FASTA SEQUENCE TITLES:
+gi|292397710|ref|YP_003517776.1|vFam_160| P26 [Lymantria xylina MNPV]
+gi|9631006|ref|NP_047676.1|vFam_160| Ld-p26 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|438000435|ref|YP_007250540.1|vFam_160| p26 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643669|ref|YP_002884359.1|vFam_160| P26 [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964638|ref|YP_950834.1|vFam_160| P26 [Maruca vitrata nucleopolyhedrovirus]
+gi|15320776|ref|NP_203288.1|vFam_160| P26 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|9630070|ref|NP_046288.1|vFam_160| p26 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|96979789|ref|YP_610991.1|vFam_160| p26 [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326200|ref|YP_803526.1|vFam_160| p26 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651395|ref|NP_932739.1|vFam_160| hypothetical protein CFDNVgORF130 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|86355541|ref|YP_473209.1|vFam_160| P26 [Hyphantria cunea nucleopolyhedrovirus]
+gi|529153335|ref|YP_008378375.1|vFam_160| P26B [Choristoneura rosaceana alphabaculovirus]
+gi|571031218|ref|YP_008992114.1|vFam_160| p26 [Choristoneura murinana alphabaculovirus]
+gi|529153498|ref|YP_008378523.1|vFam_160| P26B [Choristoneura occidentalis alphabaculovirus]
+gi|114679867|ref|YP_758317.1|vFam_160| p26 [Leucania separata nucleopolyhedrovirus]
+gi|118197499|ref|YP_874211.1|vFam_160| p26-a [Ectropis obliqua nucleopolyhedrovirus]
+gi|209401075|ref|YP_002273944.1|vFam_160| hypothetical protein HaSNPVNNg1_gp021 [Helicoverpa armigera NPV NNg1]
+gi|228861641|ref|YP_002854661.1|vFam_160| P26-1 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|165969030|ref|YP_001650930.1|vFam_160| p26-a [Orgyia leucostigma NPV]
+gi|113195530|ref|YP_717557.1|vFam_160| P26 [Clanis bilineata nucleopolyhedrovirus]
+gi|529218075|ref|YP_008378238.1|vFam_160| p26-a [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502213|ref|YP_006607871.1|vFam_160| p26-a [Apocheima cinerarium nucleopolyhedrovirus]
+gi|529153620|ref|YP_008378645.1|vFam_160| P26A [Choristoneura occidentalis alphabaculovirus]
+gi|209978805|ref|YP_002300548.1|vFam_160| P26 [Adoxophyes orana nucleopolyhedrovirus]
+gi|74229704|ref|YP_308908.1|vFam_160| orf19 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304155|ref|YP_249623.1|vFam_160| P26 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|125860253|ref|YP_001036423.1|vFam_160| p26b [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401527|ref|YP_002332831.1|vFam_160| P26 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634350|ref|NP_037889.1|vFam_160| ORF129 p26 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|20070037|ref|NP_613241.1|vFam_160| p26 [Mamestra configurata nucleopolyhedrovirus A]
+gi|90592859|ref|YP_529812.1|vFam_160| P26 [Agrotis segetum nucleopolyhedrovirus]
+gi|209171032|ref|YP_002268179.1|vFam_160| P26 [Agrotis ipsilon multiple nucleopolyhedrovirus]

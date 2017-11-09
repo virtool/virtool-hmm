@@ -1,0 +1,12 @@
+CLUSTER	2198
+NUM_SEQ	4
+LENGTH	208
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	106.08
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Iridovirus': 2, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|109287978|ref|YP_654672.1|vFam_2198| hypothetical protein MIV100L [Invertebrate iridescent virus 3]
+gi|15079089|ref|NP_149841.1|vFam_2198| 378R [Invertebrate iridescent virus 6]
+gi|527333652|ref|YP_008357436.1|vFam_2198| hypothetical protein IIV22_138R [Invertebrate iridovirus 22]
+gi|339906072|ref|YP_004732869.1|vFam_2198| hypothetical protein WIV_gp086 [Wiseana iridescent virus]

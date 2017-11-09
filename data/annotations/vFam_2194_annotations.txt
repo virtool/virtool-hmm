@@ -1,0 +1,13 @@
+CLUSTER	2194
+NUM_SEQ	5
+LENGTH	112
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	58.24
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631388|ref|NP_048280.1|vFam_2194| ORF MSV209 putative vaccinia A21L homolog, similar to SW:P20996 [Melanoplus sanguinipes entomopoxvirus]
+gi|506498252|ref|YP_008004049.1|vFam_2194| IMV membrane protein entry/fusion complex component (Cop-A21L) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497993|ref|YP_008003792.1|vFam_2194| IMV membrane protein entry/fusion complex component (Cop-A21L) [Mythimna separata entomopoxvirus 'L']
+gi|9964563|ref|NP_065031.1|vFam_2194| hypothetical protein AMV249 [Amsacta moorei entomopoxvirus 'L']
+gi|506498863|ref|YP_008004657.1|vFam_2194| IMV membrane protein entry/fusion complex component (Cop-A21L) [Choristoneura rosaceana entomopoxvirus 'L']

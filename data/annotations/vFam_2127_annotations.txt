@@ -1,0 +1,13 @@
+CLUSTER	2127
+NUM_SEQ	5
+LENGTH	75
+RELATIVE_ENTROPY_PER_POSITION	0.70
+TOTAL_RELATIVE_ENTROPY	52.5
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631464|ref|NP_048234.1|vFam_2127| ORF MSV163 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|506497927|ref|YP_008003726.1|vFam_2127| unknown similar to AMEV169 [Mythimna separata entomopoxvirus 'L']
+gi|506498190|ref|YP_008003987.1|vFam_2127| unknown similar to AMEV169 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498790|ref|YP_008004584.1|vFam_2127| unknown similar to AMEV169 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964483|ref|NP_064951.1|vFam_2127| hypothetical protein AMV169 [Amsacta moorei entomopoxvirus 'L']

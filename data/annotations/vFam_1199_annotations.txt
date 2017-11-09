@@ -1,0 +1,13 @@
+CLUSTER	1199
+NUM_SEQ	5
+LENGTH	175
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	91.0
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'Capripoxvirus': 1, 'Yatapoxvirus': 2, 'Cervidpoxvirus': 1, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|18640098|ref|NP_570172.1|vFam_1199| SPV012 putative integral membrane protein, apoptosis regulator [Swinepox virus]
+gi|148912894|ref|YP_001293208.1|vFam_1199| hypothetical protein GTPV_gp014 [Goatpox virus Pellor]
+gi|211956296|ref|YP_002302364.1|vFam_1199| antiapoptotic membrane protein [Deerpox virus W-1170-84]
+gi|157939636|ref|YP_001497008.1|vFam_1199| mitochondria anti-apoptotic factor [Tanapox virus]
+gi|38229180|ref|NP_938273.1|vFam_1199| 16L [Yaba monkey tumor virus]

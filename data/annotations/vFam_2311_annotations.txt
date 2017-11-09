@@ -1,0 +1,13 @@
+CLUSTER	2311
+NUM_SEQ	5
+LENGTH	236
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	122.72
+FAMILIES	{'Bromoviridae': 4}
+GENERA	{'Ilarvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|46393303|ref|YP_006464.1|vFam_2311| coat protein [Parietaria mottle virus]
+gi|212525351|ref|YP_002308573.1|vFam_2311| coat protein [Blackberry chlorotic ringspot virus]
+gi|119943075|ref|YP_941471.1|vFam_2311| coat protein [Strawberry necrotic shock virus]
+gi|20564171|ref|NP_620774.1|vFam_2311| coat protein [Tobacco streak virus]
+gi|532565986|ref|YP_008470973.1|vFam_2311| coat protein [Ageratum latent virus]

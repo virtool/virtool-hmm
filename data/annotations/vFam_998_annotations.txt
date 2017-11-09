@@ -1,0 +1,14 @@
+CLUSTER	998
+NUM_SEQ	6
+LENGTH	267
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	138.84
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|526119427|ref|YP_008319330.1|vFam_998| hypothetical protein [Pandoravirus dulcis]
+gi|531036742|ref|YP_008438380.1|vFam_998| hypothetical protein ps_1975 [Pandoravirus salinus]
+gi|526119795|ref|YP_008319698.1|vFam_998| hypothetical protein [Pandoravirus dulcis]
+gi|526119937|ref|YP_008319840.1|vFam_998| hypothetical protein [Pandoravirus dulcis]
+gi|531036999|ref|YP_008438641.1|vFam_998| hypothetical protein ps_2239 [Pandoravirus salinus]
+gi|526118720|ref|YP_008318623.1|vFam_998| hypothetical protein [Pandoravirus dulcis]

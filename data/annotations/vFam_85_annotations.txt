@@ -1,0 +1,37 @@
+CLUSTER	85
+NUM_SEQ	29
+LENGTH	2196
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	1163.88
+FAMILIES	{'Arenaviridae': 29}
+GENERA	{'None': 2, 'Arenavirus': 27}
+FASTA SEQUENCE TITLES:
+gi|401829643|ref|YP_006590093.1|vFam_85| L protein [CAS virus]
+gi|401829636|ref|YP_006590089.1|vFam_85| L protein [Golden Gate virus]
+gi|188531116|ref|YP_001911118.1|vFam_85| RNA-dependent RNA polymerase [Tamiami virus]
+gi|164607207|ref|YP_001649225.1|vFam_85| RNA-dependent RNA polymerase [Bear Canyon virus]
+gi|188531122|ref|YP_001911120.1|vFam_85| RNA-dependent RNA polymerase [Whitewater Arroyo virus]
+gi|55775707|ref|YP_138534.1|vFam_85| L polymerase [Pichinde virus]
+gi|164607203|ref|YP_001649212.1|vFam_85| L protein [Allpahuayo virus]
+gi|48696026|ref|YP_025093.1|vFam_85| L protein [Pirital virus]
+gi|189026282|ref|YP_001936028.1|vFam_85| L protein [Parana virus]
+gi|189026273|ref|YP_001936024.1|vFam_85| L protein [Flexal virus]
+gi|189026279|ref|YP_001936026.1|vFam_85| L protein [Latino virus]
+gi|164607197|ref|YP_001649214.1|vFam_85| L protein [Oliveros virus]
+gi|164607212|ref|YP_001649218.1|vFam_85| L protein [Cupixi virus]
+gi|164607200|ref|YP_001649216.1|vFam_85| L protein [Amapari virus]
+gi|34365543|ref|NP_899221.1|vFam_85| L protein [Guanarito virus]
+gi|172088176|ref|YP_001816785.1|vFam_85| L polymerase [Chapare virus]
+gi|52627078|ref|YP_089660.1|vFam_85| L protein [Sabia virus]
+gi|23334593|ref|NP_694848.1|vFam_85| L protein [Tacaribe virus]
+gi|34365537|ref|NP_899215.1|vFam_85| L protein [Machupo virus]
+gi|34365528|ref|NP_899217.1|vFam_85| L protein [Junin virus]
+gi|238890542|ref|YP_002929493.1|vFam_85| large RNA-dependent RNA polymerase [Lujo virus]
+gi|408354105|ref|YP_006858709.1|vFam_85| L protein [Lunk virus NKS-1]
+gi|23334586|ref|NP_694845.1|vFam_85| L protein [Lymphocytic choriomeningitis virus]
+gi|89902997|ref|YP_516233.1|vFam_85| L protein [Ippy virus]
+gi|23343514|ref|NP_694872.1|vFam_85| L protein [Lassa virus]
+gi|356491222|ref|YP_004933733.1|vFam_85| L gene product [Luna virus]
+gi|89903003|ref|YP_516229.1|vFam_85| L protein [Mobala virus]
+gi|56699500|ref|YP_170704.1|vFam_85| polymerase RDRP [Mopeia Lassa virus reassortant 29]
+gi|255237731|ref|YP_003090217.1|vFam_85| polymerase [Morogoro virus]

@@ -1,0 +1,23 @@
+CLUSTER	456
+NUM_SEQ	15
+LENGTH	718
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	380.54
+FAMILIES	{'Herpesviridae': 15}
+GENERA	{'None': 2, 'Roseolovirus': 2, 'Cytomegalovirus': 7, 'Proboscivirus': 1, 'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|496991152|ref|YP_007969798.1|vFam_456| envelope glycoprotein H [Elephantid herpesvirus 1]
+gi|360086553|ref|YP_004940238.1|vFam_456| envelope glycoprotein H [Saimiriine herpesvirus 3]
+gi|360040957|ref|YP_004940092.1|vFam_456| envelope glycoprotein H [Aotine herpesvirus 1]
+gi|359946508|ref|YP_004936041.1|vFam_456| envelope glycoprotein H [Cercopithecine herpesvirus 5]
+gi|356640398|ref|YP_004933840.1|vFam_456| glycoprotein UL75 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139248|ref|YP_081523.1|vFam_456| envelope glycoprotein H [Human herpesvirus 5]
+gi|20026666|ref|NP_612708.1|vFam_456| envelope glycoprotein H [Panine herpesvirus 2]
+gi|9845361|ref|NP_064175.1|vFam_456| pR75 [Murid herpesvirus 2]
+gi|425707276|ref|YP_007016473.1|vFam_456| E75 [Murid herpesvirus 8]
+gi|61660187|ref|YP_214078.1|vFam_456| Glycoprotein H [Murid herpesvirus 1]
+gi|448824909|ref|YP_007417841.1|vFam_456| GP75 [Caviid herpesvirus 2]
+gi|14251063|ref|NP_116425.1|vFam_456| Y75 [Tupaiid herpesvirus 1]
+gi|538447245|ref|YP_008492985.1|vFam_456| glycoprotein H [Porcine cytomegalovirus]
+gi|9633119|ref|NP_050229.1|vFam_456| glycoprotein H [Human herpesvirus 6B]
+gi|51874270|ref|YP_073788.1|vFam_456| envelope glycoprotein H [Human herpesvirus 7]

@@ -1,0 +1,10 @@
+CLUSTER	4046
+NUM_SEQ	2
+LENGTH	415
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	211.65
+FAMILIES	{'Partitiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|218148637|ref|YP_002364402.1|vFam_4046| hypothetical protein RSCV3_s2gp1 [Raphanus sativus cryptic virus 3]
+gi|389581807|ref|YP_006390090.1|vFam_4046| coat protein [Persimmon cryptic virus]

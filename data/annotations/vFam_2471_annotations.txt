@@ -1,0 +1,10 @@
+CLUSTER	2471
+NUM_SEQ	2
+LENGTH	87
+RELATIVE_ENTROPY_PER_POSITION	0.58
+TOTAL_RELATIVE_ENTROPY	50.46
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036646|ref|YP_008438283.1|vFam_2471| hypothetical protein ps_1877 [Pandoravirus salinus]
+gi|526119668|ref|YP_008319571.1|vFam_2471| hypothetical protein [Pandoravirus dulcis]

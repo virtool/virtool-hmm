@@ -1,0 +1,13 @@
+CLUSTER	816
+NUM_SEQ	5
+LENGTH	719
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	373.88
+FAMILIES	{'Flaviviridae': 5}
+GENERA	{'Pestivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|27885123|ref|NP_777532.1|vFam_816| nonstructural protein NS5B [Pestivirus Giraffe-1]
+gi|27885155|ref|NP_777506.1|vFam_816| nonstructural protein NS5B [Classical swine fever virus]
+gi|27883899|ref|NP_777545.1|vFam_816| nonstructural protein NS5B [Border disease virus]
+gi|27885414|ref|NP_777493.1|vFam_816| nonstructural protein NS5B [Bovine viral diarrhea virus 2]
+gi|27777754|ref|NP_776271.1|vFam_816| nonstructural protein NS5B [Bovine viral diarrhea virus 1]

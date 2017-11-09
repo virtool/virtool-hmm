@@ -1,0 +1,11 @@
+CLUSTER	4364
+NUM_SEQ	3
+LENGTH	463
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	236.13
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|61660190|ref|YP_214081.1|vFam_4364| GCR homolog [Murid herpesvirus 1]
+gi|425707279|ref|YP_007016476.1|vFam_4364| E78 [Murid herpesvirus 8]
+gi|9845364|ref|NP_064178.1|vFam_4364| pR78 [Murid herpesvirus 2]

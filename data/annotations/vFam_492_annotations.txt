@@ -1,0 +1,24 @@
+CLUSTER	492
+NUM_SEQ	16
+LENGTH	238
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	123.76
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531781|ref|YP_784307.1|vFam_492| MutT motif protein [Nile crocodilepox virus]
+gi|40556013|ref|NP_955098.1|vFam_492| CNPV075 mutT motif putative gene expression regulator [Canarypox virus]
+gi|9634723|ref|NP_039016.1|vFam_492| mutT motif, gene expression regulator [Fowlpox virus]
+gi|41057507|ref|NP_957980.1|vFam_492| ORF071 NPH-PPH downregulator [Bovine papular stomatitis virus]
+gi|289183835|ref|YP_003457376.1|vFam_492| NTP pyrophosphohydrolase [Pseudocowpox virus]
+gi|22164704|ref|NP_671617.1|vFam_492| EVM099 [Ectromelia virus]
+gi|345107284|ref|YP_004821449.1|vFam_492| mRNA decapping enzyme [Yoka poxvirus]
+gi|377829993|ref|YP_005296292.1|vFam_492| unnamed protein product [Cotia virus SPAn232]
+gi|18640170|ref|NP_570244.1|vFam_492| SPV084 mutT motif gene expression regulator [Swinepox virus]
+gi|9633896|ref|NP_051974.1|vFam_492| gp085R [Rabbit fibroma virus]
+gi|157939710|ref|YP_001497082.1|vFam_492| mutT motif protein [Tanapox virus]
+gi|38229249|ref|NP_938342.1|vFam_492| 87R [Yaba monkey tumor virus]
+gi|148912964|ref|YP_001293278.1|vFam_492| hypothetical protein GTPV_gp083 [Goatpox virus Pellor]
+gi|211956367|ref|YP_002302436.1|vFam_492| MutT motif protein [Deerpox virus W-1170-84]
+gi|9629031|ref|NP_044050.1|vFam_492| MC099R [Molluscum contagiosum virus subtype 1]
+gi|571798007|ref|YP_008658506.1|vFam_492| MutT motif protein / mRNA de-capping protein [Squirrelpox virus]

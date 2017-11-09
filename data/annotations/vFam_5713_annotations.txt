@@ -1,0 +1,10 @@
+CLUSTER	5713
+NUM_SEQ	2
+LENGTH	101
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	52.52
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Lymphocryptovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|557041985|ref|YP_401720.2|vFam_5713| hypothetical BNLF2B protein, partial [Human herpesvirus 4]
+gi|51518087|ref|YP_068015.1|vFam_5713| BNLF2b [Macacine herpesvirus 4]

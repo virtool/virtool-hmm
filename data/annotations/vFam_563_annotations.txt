@@ -1,0 +1,22 @@
+CLUSTER	563
+NUM_SEQ	14
+LENGTH	106
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	56.18
+FAMILIES	{'Adenoviridae': 13}
+GENERA	{'None': 1, 'Mastadenovirus': 12}
+FASTA SEQUENCE TITLES:
+gi|460042657|ref|YP_007518084.1|vFam_563| E3 12.5K [Simian adenovirus 20]
+gi|51518837|ref|YP_067924.1|vFam_563| E3 12.5 kDa protein [Simian adenovirus 3]
+gi|496838711|ref|YP_007518329.1|vFam_563| E3 12.5K [Titi monkey adenovirus ECC-2011]
+gi|160409922|ref|YP_001551768.1|vFam_563| control protein E3 12.5K [Human adenovirus C]
+gi|56160551|ref|AP_000218.1|vFam_563| E3 12.5K [Human adenovirus 5]
+gi|540155848|ref|YP_008520242.1|vFam_563| E3 12.5K [Simian adenovirus 18]
+gi|327415390|ref|YP_004300218.1|vFam_563| unnamed protein product [Simian adenovirus 49]
+gi|485191079|ref|YP_007906015.1|vFam_563| E12.5 [Simian adenovirus C]
+gi|61602105|ref|YP_213982.1|vFam_563| E3 12.5K [Simian adenovirus 1]
+gi|253761996|ref|YP_003038618.1|vFam_563| 12.2 kDa protein [Human adenovirus 54]
+gi|56160457|ref|AP_000128.1|vFam_563| E3 12.5K [Human adenovirus A]
+gi|386522705|ref|YP_006272970.1|vFam_563| E3 12.5K [Chimpanzee adenovirus Y25]
+gi|197944749|ref|YP_002213786.1|vFam_563| control protein E3 12.5K [Human adenovirus B]
+gi|197944790|ref|YP_002213819.1|vFam_563| control protein E3 12.5K [Human adenovirus B]

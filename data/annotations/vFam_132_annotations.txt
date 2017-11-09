@@ -1,0 +1,27 @@
+CLUSTER	132
+NUM_SEQ	19
+LENGTH	869
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	443.19
+FAMILIES	{'Baculoviridae': 14, 'Poxviridae': 3}
+GENERA	{'Betaentomopoxvirus': 3, 'Alphabaculovirus': 14}
+FASTA SEQUENCE TITLES:
+gi|506497754|ref|YP_008003553.1|vFam_132| unknown similar to AMEV003 [Mythimna separata entomopoxvirus 'L']
+gi|9964572|ref|NP_065040.1|vFam_132| hypothetical protein AMV258 [Amsacta moorei entomopoxvirus 'L']
+gi|9964317|ref|NP_064785.1|vFam_132| hypothetical protein AMV003 [Amsacta moorei entomopoxvirus 'L']
+gi|506498871|ref|YP_008004665.1|vFam_132| unknown similar to AMEV003 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498569|ref|YP_008004365.1|vFam_132| unknown similar to AMEV003 [Choristoneura biennis entomopoxvirus 'L']
+gi|22549439|ref|NP_689212.1|vFam_132| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069921|ref|NP_613125.1|vFam_132| hypothetical protein McnAVgp042 [Mamestra configurata nucleopolyhedrovirus A]
+gi|125860152|ref|YP_001036321.1|vFam_132| hypothetical protein SFMNPV_gp029 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401426|ref|YP_002332728.1|vFam_132| hypothetical protein SlnV2_gp030 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634251|ref|NP_037790.1|vFam_132| ORF30 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209170919|ref|YP_002268065.1|vFam_132| agip35 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592748|ref|YP_529701.1|vFam_132| ORF-31 [Agrotis segetum nucleopolyhedrovirus]
+gi|15617586|ref|NP_258386.1|vFam_132| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|209978890|ref|YP_002300633.1|vFam_132| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|29567204|ref|NP_818766.1|vFam_132| hypothetical protein AhnVgp119 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|292397801|ref|YP_003517867.1|vFam_132| ORF127 [Lymantria xylina MNPV]
+gi|9631096|ref|NP_047766.1|vFam_132| LdOrf-129 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|228861723|ref|YP_002854743.1|vFam_132| hypothetical protein EupsNPV_gp133 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|118197600|ref|YP_874312.1|vFam_132| hypothetical protein EONV_gp119 [Ectropis obliqua nucleopolyhedrovirus]

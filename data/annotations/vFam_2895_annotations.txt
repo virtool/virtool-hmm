@@ -1,0 +1,11 @@
+CLUSTER	2895
+NUM_SEQ	3
+LENGTH	935
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	476.85
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Lymphocryptovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|51518092|ref|YP_067965.1|vFam_2895| EBNA-3A [Macacine herpesvirus 4]
+gi|82503225|ref|YP_401669.1|vFam_2895| EBNA3A nuclear protein [Human herpesvirus 4]
+gi|139424498|ref|YP_001129463.1|vFam_2895| EBNA-3A [Human herpesvirus 4 type 2]

@@ -1,0 +1,12 @@
+CLUSTER	3694
+NUM_SEQ	4
+LENGTH	82
+RELATIVE_ENTROPY_PER_POSITION	0.61
+TOTAL_RELATIVE_ENTROPY	50.02
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Varicellovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|50313292|ref|YP_053095.1|vFam_3694| myristylated tegument protein [Equid herpesvirus 1]
+gi|9629779|ref|NP_045268.1|vFam_3694| myristylated tegument protein [Equid herpesvirus 4]
+gi|13242442|ref|NP_077463.1|vFam_3694| myristylated tegument protein [Cercopithecine herpesvirus 9]
+gi|9625923|ref|NP_040171.1|vFam_3694| myristylated tegument protein [Human herpesvirus 3]

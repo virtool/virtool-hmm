@@ -1,0 +1,11 @@
+CLUSTER	2827
+NUM_SEQ	3
+LENGTH	276
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	143.52
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978129|ref|YP_003987249.1|vFam_2827| endonuclease VIII-like protein [Acanthamoeba polyphaga mimivirus]
+gi|448825224|ref|YP_007418155.1|vFam_2827| endonuclease VIII-like protein [Megavirus lba]
+gi|441432141|ref|YP_007354183.1|vFam_2827| formamidopyrimidine-DNA glycosylase [Acanthamoeba polyphaga moumouvirus]

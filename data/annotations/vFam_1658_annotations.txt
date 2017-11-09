@@ -1,0 +1,11 @@
+CLUSTER	1658
+NUM_SEQ	3
+LENGTH	265
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	135.15
+FAMILIES	{'None': 2, 'Mimiviridae': 1}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|310831227|ref|YP_003969870.1|vFam_1658| hypothetical protein crov238 [Cafeteria roenbergensis virus BV-PW1]
+gi|448825297|ref|YP_007418228.1|vFam_1658| hypothetical protein LBA_00333 [Megavirus lba]
+gi|441432210|ref|YP_007354252.1|vFam_1658| hypothetical protein Moumou_00272 [Acanthamoeba polyphaga moumouvirus]

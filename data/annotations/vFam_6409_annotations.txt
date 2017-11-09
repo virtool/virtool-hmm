@@ -1,0 +1,10 @@
+CLUSTER	6409
+NUM_SEQ	2
+LENGTH	166
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	86.32
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|197322497|ref|YP_002154770.1|vFam_6409| putative nuclease [Feldmannia species virus]
+gi|13242638|ref|NP_077653.1|vFam_6409| EsV-1-168 [Ectocarpus siliculosus virus 1]

@@ -1,0 +1,10 @@
+CLUSTER	5807
+NUM_SEQ	2
+LENGTH	340
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	173.4
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|422933919|ref|YP_007003979.1|vFam_5807| protein ORF1 [Cyprinid herpesvirus 2]
+gi|131840183|ref|YP_001096192.1|vFam_5807| unnamed protein product [Cyprinid herpesvirus 3]

@@ -1,0 +1,10 @@
+CLUSTER	1666
+NUM_SEQ	2
+LENGTH	154
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	78.54
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|359946532|ref|YP_004936065.1|vFam_1666| myristylated tegument protein [Cercopithecine herpesvirus 5]
+gi|51556594|ref|YP_068228.1|vFam_1666| rh137 [Macacine herpesvirus 3]

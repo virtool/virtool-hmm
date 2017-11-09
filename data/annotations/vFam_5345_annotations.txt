@@ -1,0 +1,10 @@
+CLUSTER	5345
+NUM_SEQ	2
+LENGTH	470
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	239.7
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036182|ref|YP_008437818.1|vFam_5345| dihydrofolate reductase [Pandoravirus salinus]
+gi|531036123|ref|YP_008437759.1|vFam_5345| dihydrofolate reductase [Pandoravirus salinus]

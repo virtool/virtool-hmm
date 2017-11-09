@@ -1,0 +1,12 @@
+CLUSTER	2390
+NUM_SEQ	4
+LENGTH	131
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	66.81
+FAMILIES	{'Picornaviridae': 3}
+GENERA	{'Kobuvirus': 2, 'Orthoturdivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|304282491|ref|YP_003853292.1|vFam_2390| 2A [Turdivirus 1]
+gi|25121746|ref|NP_740438.1|vFam_2390| 2A [Aichi virus 1]
+gi|219681382|ref|YP_002473938.1|vFam_2390| 2A [Porcine kobuvirus swine/S-1-HUN/2007/Hungary]
+gi|38201780|ref|NP_859022.1|vFam_2390| 2A [Aichivirus B]

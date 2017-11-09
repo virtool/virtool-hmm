@@ -1,0 +1,18 @@
+CLUSTER	943
+NUM_SEQ	10
+LENGTH	370
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	192.4
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|438000369|ref|YP_007250474.1|vFam_943| lef-3 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964585|ref|YP_950781.1|vFam_943| late expression factor-3 [Maruca vitrata nucleopolyhedrovirus]
+gi|237643606|ref|YP_002884296.1|vFam_943| LEF-3 [Bombyx mandarina nucleopolyhedrovirus]
+gi|86355603|ref|YP_473271.1|vFam_943| LEF3 [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630010|ref|NP_046228.1|vFam_943| late expression factor 3 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153562|ref|YP_008378587.1|vFam_943| LEF-3 [Choristoneura occidentalis alphabaculovirus]
+gi|529153396|ref|YP_008378436.1|vFam_943| LEF-3 [Choristoneura rosaceana alphabaculovirus]
+gi|96979848|ref|YP_611054.1|vFam_943| lef-3 [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326135|ref|YP_803461.1|vFam_943| late expression factor 3 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320717|ref|NP_203229.1|vFam_943| LEF-3 [Epiphyas postvittana nucleopolyhedrovirus]

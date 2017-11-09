@@ -1,0 +1,11 @@
+CLUSTER	4461
+NUM_SEQ	3
+LENGTH	312
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	162.24
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Lymphocryptovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|82503267|ref|YP_401711.1|vFam_4461| membrane protein [Human herpesvirus 4]
+gi|51518078|ref|YP_068006.1|vFam_4461| BILF1 [Macacine herpesvirus 4]
+gi|24943096|ref|NP_733858.1|vFam_4461| ORF6 [callitrichine herpesvirus 3]

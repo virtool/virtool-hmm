@@ -1,0 +1,10 @@
+CLUSTER	1170
+NUM_SEQ	2
+LENGTH	229
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	114.5
+FAMILIES	{'Phycodnaviridae': 1, 'Mimiviridae': 1}
+GENERA	{'None': 1, 'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508181888|ref|YP_008052407.1|vFam_1170| eukaryotic initiation factor 4E family protein [Phaeocystis globosa virus]
+gi|441432243|ref|YP_007354285.1|vFam_1170| Translation initiation factor 4E [Acanthamoeba polyphaga moumouvirus]

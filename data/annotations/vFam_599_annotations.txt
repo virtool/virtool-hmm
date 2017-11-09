@@ -1,0 +1,20 @@
+CLUSTER	599
+NUM_SEQ	12
+LENGTH	536
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	278.72
+FAMILIES	{'Togaviridae': 12}
+GENERA	{'Alphavirus': 12}
+FASTA SEQUENCE TITLES:
+gi|25121753|ref|NP_740653.1|vFam_599| non structural protein P1 [Sleeping disease virus]
+gi|29653352|ref|NP_819010.1|vFam_599| Nonstructural protein nsP1 [Aura virus]
+gi|25121506|ref|NP_740670.1|vFam_599| nsp1 nonstructural protein [Sindbis virus]
+gi|29612003|ref|NP_818995.1|vFam_599| nsP1 [Barmah Forest virus]
+gi|25121483|ref|NP_740703.1|vFam_599| nonstructural protein P1 [O'nyong-nyong virus]
+gi|25121492|ref|NP_740678.1|vFam_599| nsP1 protein [Ross River virus]
+gi|25121713|ref|NP_740687.1|vFam_599| nonstructural protein nsP1 [Mayaro virus]
+gi|25121501|ref|NP_740665.1|vFam_599| nonstructural protein nsP1 [Semliki forest virus]
+gi|25140290|ref|NP_740696.1|vFam_599| putative nonstructural protein nsP1 [Venezuelan equine encephalitis virus]
+gi|269954648|ref|YP_003324591.1|vFam_599| nsP1 [Fort Morgan virus]
+gi|119380832|ref|YP_913811.1|vFam_599| nsP1 protein [Eastern equine encephalitis virus]
+gi|226823169|ref|YP_002802301.1|vFam_599| nsP1 [Highlands J virus]

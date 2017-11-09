@@ -1,0 +1,29 @@
+CLUSTER	137
+NUM_SEQ	21
+LENGTH	451
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	234.52
+FAMILIES	{'Herpesviridae': 21}
+GENERA	{'Percavirus': 1, 'None': 2, 'Cytomegalovirus': 3, 'Macavirus': 2, 'Roseolovirus': 2, 'Proboscivirus': 1, 'Rhadinovirus': 4, 'Lymphocryptovirus': 3, 'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|496991142|ref|YP_007969812.1|vFam_137| DNA packaging protein UL32 [Elephantid herpesvirus 1]
+gi|538447235|ref|YP_008492975.1|vFam_137| virion protein [Porcine cytomegalovirus]
+gi|9633107|ref|NP_050217.1|vFam_137| virion protein [Human herpesvirus 6B]
+gi|51874258|ref|YP_073776.1|vFam_137| DNA packaging protein UL32 [Human herpesvirus 7]
+gi|360086540|ref|YP_004940225.1|vFam_137| DNA packaging protein UL32 [Saimiriine herpesvirus 3]
+gi|360040944|ref|YP_004940079.1|vFam_137| DNA packaging protein UL32 [Aotine herpesvirus 1]
+gi|448824895|ref|YP_007417827.1|vFam_137| GP52 [Caviid herpesvirus 2]
+gi|9845344|ref|NP_064158.1|vFam_137| pR52 [Murid herpesvirus 2]
+gi|425707262|ref|YP_007016459.1|vFam_137| E52 [Murid herpesvirus 8]
+gi|61660174|ref|YP_214065.1|vFam_137| hypothetical protein MuHV1_gp057 [Murid herpesvirus 1]
+gi|321496620|ref|YP_004207905.1|vFam_137| hypothetical protein RHVP.68 [Rodent herpesvirus Peru]
+gi|209976847|ref|NP_044906.2|vFam_137| DNA packaging protein UL32 [Murid herpesvirus 4]
+gi|24943154|ref|NP_733916.1|vFam_137| ORF62 [callitrichine herpesvirus 3]
+gi|82503206|ref|YP_401648.1|vFam_137| BFLF1 [Human herpesvirus 4]
+gi|51518022|ref|YP_067946.1|vFam_137| BFLF1 [Macacine herpesvirus 4]
+gi|83642905|ref|YP_438193.1|vFam_137| ORF68 [Ovine herpesvirus 2]
+gi|10140991|ref|NP_065568.1|vFam_137| putative major envelope glycoprotein [Alcelaphine herpesvirus 1]
+gi|9628073|ref|NP_042667.1|vFam_137| ORF 68 [Equid herpesvirus 2]
+gi|13095646|ref|NP_076561.1|vFam_137| probable glycoprotein [Bovine herpesvirus 4]
+gi|18653882|ref|NP_570816.1|vFam_137| glycoprotein [Macacine herpesvirus 5]
+gi|139472883|ref|YP_001129426.1|vFam_137| ORF68 [Human herpesvirus 8]

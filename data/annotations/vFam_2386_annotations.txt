@@ -1,0 +1,13 @@
+CLUSTER	2386
+NUM_SEQ	5
+LENGTH	139
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	72.28
+FAMILIES	{'Tombusviridae': 4}
+GENERA	{'Aureusvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|89888606|ref|YP_512367.1|vFam_2386| P17 protein [Cucumber leaf spot virus]
+gi|559797745|ref|YP_008828160.1|vFam_2386| 18 kDa protein [Yam spherical virus]
+gi|9633618|ref|NP_051034.1|vFam_2386| hypothetical protein, 14K [Pothos latent virus]
+gi|148717973|ref|YP_001285478.1|vFam_2386| unnamed protein product [Maize white line mosaic virus]
+gi|39163653|ref|NP_945132.1|vFam_2386| hypothetical protein JCSMV_gp5 [Johnsongrass chlorotic stripe mosaic virus]

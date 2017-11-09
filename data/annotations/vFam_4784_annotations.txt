@@ -1,0 +1,10 @@
+CLUSTER	4784
+NUM_SEQ	2
+LENGTH	241
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	125.32
+FAMILIES	{'Paramyxoviridae': 2}
+GENERA	{'Pneumovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9631271|ref|NP_048051.1|vFam_4784| P [Bovine respiratory syncytial virus]
+gi|9629371|ref|NP_044592.1|vFam_4784| Phosphoprotein (P) [Respiratory syncytial virus]

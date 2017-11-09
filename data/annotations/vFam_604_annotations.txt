@@ -1,0 +1,20 @@
+CLUSTER	604
+NUM_SEQ	12
+LENGTH	377
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	196.04
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Macavirus': 2, 'None': 1, 'Lymphocryptovirus': 2, 'Rhadinovirus': 6, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|321496591|ref|YP_004207876.1|vFam_604| glycoprotein M [Rodent herpesvirus Peru]
+gi|9629609|ref|NP_044877.1|vFam_604| envelope glycoprotein M [Murid herpesvirus 4]
+gi|13095616|ref|NP_076531.1|vFam_604| glycoprotein M [Bovine herpesvirus 4]
+gi|9631231|ref|NP_048012.1|vFam_604| orf 39 [Ateline herpesvirus 3]
+gi|9625995|ref|NP_040241.1|vFam_604| integral membrane protein [Saimiriine herpesvirus 2]
+gi|139472832|ref|YP_001129392.1|vFam_604| ORF39 [Human herpesvirus 8]
+gi|18653846|ref|NP_570780.1|vFam_604| glycoprotein M [Macacine herpesvirus 5]
+gi|83642875|ref|YP_438162.1|vFam_604| ORF39 [Ovine herpesvirus 2]
+gi|10140960|ref|NP_065537.1|vFam_604| integral membrane protein [Alcelaphine herpesvirus 1]
+gi|9628042|ref|NP_042636.1|vFam_604| glycoprotein M [Equid herpesvirus 2]
+gi|24943121|ref|NP_733883.1|vFam_604| ORF30 [callitrichine herpesvirus 3]
+gi|51518054|ref|YP_067982.1|vFam_604| BBRF3 [Macacine herpesvirus 4]

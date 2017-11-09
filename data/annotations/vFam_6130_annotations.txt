@@ -1,0 +1,10 @@
+CLUSTER	6130
+NUM_SEQ	2
+LENGTH	441
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	229.32
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409836|ref|YP_004347256.1|vFam_6130| conserved putative membrane protein [Lausannevirus]
+gi|284504295|ref|YP_003407010.1|vFam_6130| hypothetical protein MAR_ORF274 [Marseillevirus]

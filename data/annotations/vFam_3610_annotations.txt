@@ -1,0 +1,12 @@
+CLUSTER	3610
+NUM_SEQ	4
+LENGTH	389
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	202.28
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Rhadinovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|18653870|ref|NP_570804.1|vFam_3610| R12 [Macacine herpesvirus 5]
+gi|18653866|ref|NP_570800.1|vFam_3610| R8 [Macacine herpesvirus 5]
+gi|18653869|ref|NP_570803.1|vFam_3610| R11 [Macacine herpesvirus 5]
+gi|18653865|ref|NP_570799.1|vFam_3610| R7 [Macacine herpesvirus 5]

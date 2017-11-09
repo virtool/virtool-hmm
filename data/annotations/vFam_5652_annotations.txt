@@ -1,0 +1,10 @@
+CLUSTER	5652
+NUM_SEQ	2
+LENGTH	457
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	237.64
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|300116745|ref|YP_003773391.1|vFam_5652| IS element Dka2 orfB [Hyperthermophilic Archaeal Virus 2]
+gi|75750438|ref|YP_319871.1|vFam_5652| putative transposase [Acidianus two-tailed virus]

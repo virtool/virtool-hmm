@@ -1,0 +1,12 @@
+CLUSTER	3482
+NUM_SEQ	4
+LENGTH	71
+RELATIVE_ENTROPY_PER_POSITION	0.75
+TOTAL_RELATIVE_ENTROPY	53.25
+FAMILIES	{'Potyviridae': 3}
+GENERA	{'Potyvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|526118370|ref|YP_008240478.1|vFam_3482| PIPO, partial [Habenaria mosaic virus]
+gi|390371009|ref|YP_006405415.1|vFam_3482| PIPO, partial [Wild tomato mosaic virus]
+gi|390013270|ref|YP_006395333.1|vFam_3482| PIPO, partial [Chilli veinal mottle virus]
+gi|390433020|ref|YP_006405426.1|vFam_3482| PIPO, partial [Pepper veinal mottle virus]

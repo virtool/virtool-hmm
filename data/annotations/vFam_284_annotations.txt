@@ -1,0 +1,24 @@
+CLUSTER	284
+NUM_SEQ	16
+LENGTH	751
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	390.52
+FAMILIES	{'Herpesviridae': 16}
+GENERA	{'Varicellovirus': 6, 'Iltovirus': 1, 'Mardivirus': 4, 'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|57790983|ref|YP_182387.1|vFam_284| helicase-primase subunit [Gallid herpesvirus 1]
+gi|255683151|ref|YP_003084415.1|vFam_284| UL8 [Anatid herpesvirus 1]
+gi|12084836|ref|NP_073301.1|vFam_284| helicase-primase subunit [Meleagrid herpesvirus 1]
+gi|125745059|ref|YP_001033936.1|vFam_284| helicase-primase subunit [Gallid herpesvirus 2]
+gi|10834877|ref|NP_066838.1|vFam_284| helicase-primase subunit [Gallid herpesvirus 3]
+gi|312162847|ref|YP_003933832.1|vFam_284| helicase-primase subunit [Saimiriine herpesvirus 1]
+gi|9629388|ref|NP_044609.1|vFam_284| helicase-primase subunit [Human herpesvirus 1]
+gi|9629277|ref|NP_044477.1|vFam_284| helicase-primase subunit [Human herpesvirus 2]
+gi|56694730|ref|YP_164450.1|vFam_284| helicase-primase subunit [Cercopithecine herpesvirus 2]
+gi|30984436|ref|NP_851867.1|vFam_284| helicase-primase subunit [Macacine herpesvirus 1]
+gi|13242446|ref|NP_077466.1|vFam_284| helicase-primase subunit [Cercopithecine herpesvirus 9]
+gi|9625926|ref|NP_040174.1|vFam_284| helicase-primase subunit [Human herpesvirus 3]
+gi|296316053|ref|YP_003662517.1|vFam_284| helicase-primase subunit [Bovine herpesvirus 5]
+gi|270339491|ref|YP_003331573.1|vFam_284| helicase-primase subunit [Felid herpesvirus 1]
+gi|216905907|ref|YP_002333535.1|vFam_284| helicase-primase subunit [Equid herpesvirus 9]
+gi|9629782|ref|NP_045271.1|vFam_284| helicase-primase subunit [Equid herpesvirus 4]

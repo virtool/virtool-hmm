@@ -1,0 +1,12 @@
+CLUSTER	3511
+NUM_SEQ	4
+LENGTH	431
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	224.12
+FAMILIES	{'Flaviviridae': 4}
+GENERA	{'Flavivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|392002744|ref|YP_006470611.1|vFam_3511| envelope protein E [Culex flavivirus]
+gi|27735341|ref|NP_776040.1|vFam_3511| putative envelope protein [Cell fusing agent virus]
+gi|254688381|ref|YP_003084125.1|vFam_3511| envelope (E) region [Aedes flavivirus]
+gi|37695582|ref|NP_937773.1|vFam_3511| envelope protein [Kamiti River virus]

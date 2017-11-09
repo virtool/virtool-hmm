@@ -1,0 +1,11 @@
+CLUSTER	4255
+NUM_SEQ	3
+LENGTH	217
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	112.84
+FAMILIES	{'Hepadnaviridae': 2}
+GENERA	{'Orthohepadnavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|77680741|ref|YP_355335.1|vFam_4255| precore/core protein [Hepatitis B virus]
+gi|472438223|ref|YP_007678002.1|vFam_4255| core antigen [Bat hepatitis virus]
+gi|9626715|ref|NP_040993.1|vFam_4255| hypothetical protein [Ground squirrel hepatitis virus]

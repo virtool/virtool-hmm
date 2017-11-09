@@ -1,0 +1,12 @@
+CLUSTER	1643
+NUM_SEQ	4
+LENGTH	230
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	117.3
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Iridovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|527333583|ref|YP_008357367.1|vFam_1643| hypothetical protein IIV22_069R [Invertebrate iridovirus 22]
+gi|15079115|ref|NP_149867.1|vFam_1643| 404L [Invertebrate iridescent virus 6]
+gi|527333679|ref|YP_008357463.1|vFam_1643| hypothetical protein IIV22_165R [Invertebrate iridovirus 22]
+gi|339906101|ref|YP_004732898.1|vFam_1643| hypothetical protein WIV_gp115 [Wiseana iridescent virus]

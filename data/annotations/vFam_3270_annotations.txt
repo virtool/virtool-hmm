@@ -1,0 +1,11 @@
+CLUSTER	3270
+NUM_SEQ	3
+LENGTH	198
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	100.98
+FAMILIES	{'Marseillevirus family': 2, 'Phycodnaviridae': 1}
+GENERA	{'None': 2, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|155371047|ref|YP_001426581.1|vFam_3270| hypothetical protein ATCV1_Z100L [Acanthocystis turfacea Chlorella virus 1]
+gi|327409893|ref|YP_004347313.1|vFam_3270| conserved putative membrane protein [Lausannevirus]
+gi|284504352|ref|YP_003407067.1|vFam_3270| membrane protein [Marseillevirus]

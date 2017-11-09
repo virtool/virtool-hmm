@@ -1,0 +1,13 @@
+CLUSTER	1060
+NUM_SEQ	5
+LENGTH	991
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	505.41
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631500|ref|NP_048144.1|vFam_1060| ORF MSV076 putative spheroidin, similar to Amsacta moorei entomopoxvirus SW:P29815 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497939|ref|YP_008003738.1|vFam_1060| spheroidin [Mythimna separata entomopoxvirus 'L']
+gi|506498177|ref|YP_008003974.1|vFam_1060| spheroidin [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498805|ref|YP_008004599.1|vFam_1060| spheroidin [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964501|ref|NP_064969.1|vFam_1060| spheroidin [Amsacta moorei entomopoxvirus 'L']

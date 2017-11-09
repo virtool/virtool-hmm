@@ -1,0 +1,13 @@
+CLUSTER	1967
+NUM_SEQ	5
+LENGTH	227
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	115.77
+FAMILIES	{'Flaviviridae': 5}
+GENERA	{'Pestivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|27777744|ref|NP_776261.1|vFam_1967| structural protein E-rns [Bovine viral diarrhea virus 1]
+gi|27885145|ref|NP_777496.1|vFam_1967| structural protein E-rns [Classical swine fever virus]
+gi|27883889|ref|NP_777535.1|vFam_1967| structural protein E-rns [Border disease virus]
+gi|27885404|ref|NP_777483.1|vFam_1967| structural protein E-rns [Bovine viral diarrhea virus 2]
+gi|27885113|ref|NP_777522.1|vFam_1967| structural protein E-rns [Pestivirus Giraffe-1]

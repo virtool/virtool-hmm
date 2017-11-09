@@ -1,0 +1,10 @@
+CLUSTER	5376
+NUM_SEQ	2
+LENGTH	377
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	192.27
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|292397825|ref|YP_003517891.1|vFam_5376| ORF151 [Lymantria xylina MNPV]
+gi|9631125|ref|NP_047795.1|vFam_5376| LdOrf-158 peptide [Lymantria dispar multiple nucleopolyhedrovirus]

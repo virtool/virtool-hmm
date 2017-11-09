@@ -1,0 +1,26 @@
+CLUSTER	417
+NUM_SEQ	18
+LENGTH	245
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	129.85
+FAMILIES	{'Herpesviridae': 18}
+GENERA	{'Varicellovirus': 8, 'Mardivirus': 4, 'Simplexvirus': 6}
+FASTA SEQUENCE TITLES:
+gi|10834923|ref|NP_066884.1|vFam_417| tegument protein UL51 [Gallid herpesvirus 3]
+gi|125745104|ref|YP_001033981.1|vFam_417| tegument protein UL51 [Gallid herpesvirus 2]
+gi|12084882|ref|NP_073346.1|vFam_417| tegument protein UL51 [Meleagrid herpesvirus 1]
+gi|255683141|ref|YP_003084368.1|vFam_417| UL51 [Anatid herpesvirus 1]
+gi|312162804|ref|YP_003933789.1|vFam_417| tegument protein UL51 [Saimiriine herpesvirus 1]
+gi|30984480|ref|NP_851912.1|vFam_417| tegument protein UL51 [Macacine herpesvirus 1]
+gi|56694775|ref|YP_164495.1|vFam_417| tegument protein UL51 [Cercopithecine herpesvirus 2]
+gi|83722621|ref|YP_443899.1|vFam_417| tegument protein UL51 [Papiine herpesvirus 2]
+gi|9629433|ref|NP_044654.1|vFam_417| tegument protein UL51 [Human herpesvirus 1]
+gi|9629322|ref|NP_044522.1|vFam_417| tegument protein UL51 [Human herpesvirus 2]
+gi|13242463|ref|NP_077421.1|vFam_417| tegument protein UL51 [Cercopithecine herpesvirus 9]
+gi|9625882|ref|NP_040130.1|vFam_417| tegument protein UL51 [Human herpesvirus 3]
+gi|270339447|ref|YP_003331527.1|vFam_417| tegument protein UL51 [Felid herpesvirus 1]
+gi|216905861|ref|YP_002333489.1|vFam_417| tegument protein UL51 [Equid herpesvirus 9]
+gi|9629807|ref|NP_045225.1|vFam_417| tegument protein UL51 [Equid herpesvirus 4]
+gi|51557489|ref|YP_068323.1|vFam_417| tegument protein UL51 [Suid herpesvirus 1]
+gi|296316009|ref|YP_003662473.1|vFam_417| tegument protein UL51 [Bovine herpesvirus 5]
+gi|9629823|ref|NP_045307.1|vFam_417| tegument protein UL51 [Bovine herpesvirus 1]

@@ -1,0 +1,48 @@
+CLUSTER	61
+NUM_SEQ	40
+LENGTH	1367
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	724.51
+FAMILIES	{'Herpesviridae': 40}
+GENERA	{'Iltovirus': 2, 'None': 3, 'Cytomegalovirus': 6, 'Muromegalovirus': 2, 'Mardivirus': 4, 'Macavirus': 2, 'Roseolovirus': 2, 'Proboscivirus': 1, 'Simplexvirus': 3, 'Varicellovirus': 6, 'Rhadinovirus': 6, 'Lymphocryptovirus': 2, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|57790972|ref|YP_182376.1|vFam_61| major capsid protein [Gallid herpesvirus 1]
+gi|38638237|ref|NP_944420.1|vFam_61| major capsid protein [Psittacid herpesvirus 1]
+gi|312162836|ref|YP_003933821.1|vFam_61| major capsid protein [Saimiriine herpesvirus 1]
+gi|83722587|ref|YP_443865.1|vFam_61| major capsid protein [Papiine herpesvirus 2]
+gi|9629399|ref|NP_044620.1|vFam_61| major capsid protein [Human herpesvirus 1]
+gi|13242434|ref|NP_077455.1|vFam_61| major capsid protein [Cercopithecine herpesvirus 9]
+gi|9625915|ref|NP_040163.1|vFam_61| major capsid protein [Human herpesvirus 3]
+gi|296316042|ref|YP_003662506.1|vFam_61| major capsid protein [Bovine herpesvirus 5]
+gi|51557522|ref|YP_068356.1|vFam_61| major capsid protein [Suid herpesvirus 1]
+gi|216905896|ref|YP_002333524.1|vFam_61| major capsid protein [Equid herpesvirus 9]
+gi|270339480|ref|YP_003331562.1|vFam_61| major capsid protein [Felid herpesvirus 1]
+gi|255683195|ref|YP_003084403.1|vFam_61| UL19 [Anatid herpesvirus 1]
+gi|12084847|ref|NP_073312.1|vFam_61| major capsid protein [Meleagrid herpesvirus 1]
+gi|125745070|ref|YP_001033947.1|vFam_61| major capsid protein [Gallid herpesvirus 2]
+gi|10834888|ref|NP_066849.1|vFam_61| major capsid protein [Gallid herpesvirus 3]
+gi|83642862|ref|YP_438149.1|vFam_61| ORF25 [Ovine herpesvirus 2]
+gi|10140947|ref|NP_065524.1|vFam_61| major capsid protein [Alcelaphine herpesvirus 1]
+gi|321496576|ref|YP_004207861.1|vFam_61| major capsid protein [Rodent herpesvirus Peru]
+gi|9629568|ref|NP_044863.1|vFam_61| major capsid protein [Murid herpesvirus 4]
+gi|82503253|ref|YP_401697.1|vFam_61| major capsid protein [Human herpesvirus 4]
+gi|24943108|ref|NP_733870.1|vFam_61| ORF17 [callitrichine herpesvirus 3]
+gi|9628027|ref|NP_042621.1|vFam_61| capsid protein [Equid herpesvirus 2]
+gi|139472823|ref|YP_001129378.1|vFam_61| ORF25 [Human herpesvirus 8]
+gi|18653831|ref|NP_570765.1|vFam_61| major capsid protein [Macacine herpesvirus 5]
+gi|13095602|ref|NP_076517.1|vFam_61| major capsid protein [Bovine herpesvirus 4]
+gi|9631215|ref|NP_047996.1|vFam_61| major capsid protein [Ateline herpesvirus 3]
+gi|9625981|ref|NP_040227.1|vFam_61| major capsid protein [Saimiriine herpesvirus 2]
+gi|496991161|ref|YP_007969788.1|vFam_61| major capsid protein [Elephantid herpesvirus 1]
+gi|448824921|ref|YP_007417853.1|vFam_61| GP86 [Caviid herpesvirus 2]
+gi|425707286|ref|YP_007016483.1|vFam_61| E86 [Murid herpesvirus 8]
+gi|9845371|ref|NP_064185.1|vFam_61| pR86 [Murid herpesvirus 2]
+gi|14251073|ref|NP_116435.1|vFam_61| T86 [Tupaiid herpesvirus 1]
+gi|359946520|ref|YP_004936053.1|vFam_61| major capsid protein [Cercopithecine herpesvirus 5]
+gi|52139259|ref|YP_081534.1|vFam_61| major capsid protein [Human herpesvirus 5]
+gi|20026677|ref|NP_612719.1|vFam_61| major capsid protein [Panine herpesvirus 2]
+gi|360086564|ref|YP_004940249.1|vFam_61| major capsid protein [Saimiriine herpesvirus 3]
+gi|360040968|ref|YP_004940103.1|vFam_61| major capsid protein [Aotine herpesvirus 1]
+gi|538447254|ref|YP_008492994.1|vFam_61| major capsid protein [Porcine cytomegalovirus]
+gi|9633128|ref|NP_050238.1|vFam_61| major capsid protein [Human herpesvirus 6B]
+gi|51874281|ref|YP_073799.1|vFam_61| major capsid protein [Human herpesvirus 7]

@@ -1,0 +1,42 @@
+CLUSTER	46
+NUM_SEQ	34
+LENGTH	816
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	416.16
+FAMILIES	{'None': 1, 'Baculoviridae': 28}
+GENERA	{'None': 1, 'Betabaculovirus': 1, 'Gammabaculovirus': 3, 'Alphabaculovirus': 24}
+FASTA SEQUENCE TITLES:
+gi|370703035|ref|YP_004956837.1|vFam_46| orf89 gene product [Helicoverpa zea nudivirus 2]
+gi|48843618|ref|YP_025191.1|vFam_46| viral capsid protein 91 [Neodiprion sertifer nucleopolyhedrovirus]
+gi|48843711|ref|YP_025283.1|vFam_46| viral capsid associated protein [Neodiprion lecontei nucleopolyhedrovirus]
+gi|110645296|ref|YP_667935.1|vFam_46| viral capsid associated protein 91 [Neodiprion abietis NPV]
+gi|285002397|ref|YP_003422461.1|vFam_46| P91 [Pseudaletia unipuncta granulovirus]
+gi|15617547|ref|NP_258347.1|vFam_46| VP91 [Spodoptera litura nucleopolyhedrovirus]
+gi|438000385|ref|YP_007250490.1|vFam_46| vp91 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964600|ref|YP_950796.1|vFam_46| p95 [Maruca vitrata nucleopolyhedrovirus]
+gi|23577824|ref|NP_703073.1|vFam_46| p95 [Rachiplusia ou MNPV]
+gi|15320732|ref|NP_203244.1|vFam_46| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326150|ref|YP_803476.1|vFam_46| viral capsid associated protein [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|96979832|ref|YP_611038.1|vFam_46| vp91 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355588|ref|YP_473256.1|vFam_46| VP91 [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630024|ref|NP_046242.1|vFam_46| hypothetical protein OpmnVgp086 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031268|ref|YP_008992164.1|vFam_46| vp91 [Choristoneura murinana alphabaculovirus]
+gi|529153381|ref|YP_008378421.1|vFam_46| VP91 [Choristoneura rosaceana alphabaculovirus]
+gi|113195477|ref|YP_717614.1|vFam_46| VP91 [Clanis bilineata nucleopolyhedrovirus]
+gi|209401132|ref|YP_002274001.1|vFam_46| viral capsid associated protein [Helicoverpa armigera NPV NNg1]
+gi|209978838|ref|YP_002300581.1|vFam_46| VP91 capsid [Adoxophyes orana nucleopolyhedrovirus]
+gi|114679941|ref|YP_758391.1|vFam_46| vp91 capsid protein [Leucania separata nucleopolyhedrovirus]
+gi|292397761|ref|YP_003517827.1|vFam_46| P95 [Lymantria xylina MNPV]
+gi|9631058|ref|NP_047728.1|vFam_46| capsid associated protein [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|74229761|ref|YP_308965.1|vFam_46| orf76 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304217|ref|YP_249685.1|vFam_46| VP91 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549502|ref|NP_689275.1|vFam_46| 91k gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209170977|ref|YP_002268124.1|vFam_46| VP91 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592805|ref|YP_529758.1|vFam_46| VP91 CAPSID [Agrotis segetum nucleopolyhedrovirus]
+gi|125860201|ref|YP_001036371.1|vFam_46| vp91 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401476|ref|YP_002332780.1|vFam_46| VP91 capsid [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634298|ref|NP_037837.1|vFam_46| ORF77 virion protein 91kD (vp91) [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|118197547|ref|YP_874259.1|vFam_46| Vp91 [Ectropis obliqua nucleopolyhedrovirus]
+gi|165969085|ref|YP_001650985.1|vFam_46| vp91 capsid protein [Orgyia leucostigma NPV]
+gi|402502165|ref|YP_006607823.1|vFam_46| Vp91 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|228861664|ref|YP_002854684.1|vFam_46| vp91 capsid [Euproctis pseudoconspersa nucleopolyhedrovirus]

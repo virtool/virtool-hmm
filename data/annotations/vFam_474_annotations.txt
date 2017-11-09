@@ -1,0 +1,16 @@
+CLUSTER	474
+NUM_SEQ	8
+LENGTH	723
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	368.73
+FAMILIES	{'Herpesviridae': 8}
+GENERA	{'None': 1, 'Cytomegalovirus': 5, 'Proboscivirus': 1, 'Muromegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|496991175|ref|YP_007969773.1|vFam_474| helicase-primase subunit [Elephantid herpesvirus 1]
+gi|538447271|ref|YP_008493011.1|vFam_474| helicase-primase subunit HP3 [Porcine cytomegalovirus]
+gi|425707301|ref|YP_007016498.1|vFam_474| E102 [Murid herpesvirus 8]
+gi|448824936|ref|YP_007417868.1|vFam_474| GP102 [Caviid herpesvirus 2]
+gi|359946534|ref|YP_004936067.1|vFam_474| helicase-primase subunit [Cercopithecine herpesvirus 5]
+gi|356640437|ref|YP_004933879.1|vFam_474| protein UL102 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086578|ref|YP_004940263.1|vFam_474| helicase-primase subunit [Saimiriine herpesvirus 3]
+gi|360040982|ref|YP_004940117.1|vFam_474| helicase-primase subunit [Aotine herpesvirus 1]

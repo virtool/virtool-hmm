@@ -1,0 +1,14 @@
+CLUSTER	1322
+NUM_SEQ	6
+LENGTH	290
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	147.9
+FAMILIES	{'Phycodnaviridae': 1, 'Poxviridae': 2}
+GENERA	{'None': 1, 'Prymnesiovirus': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182098|ref|YP_008052617.1|vFam_1322| glycosyltransferase family 25 protein [Phaeocystis globosa virus]
+gi|9631442|ref|NP_048277.1|vFam_1322| ORF MSV206 putative glycosyl transferase, similar to Haemophilus somnus GB:U20824 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497992|ref|YP_008003791.1|vFam_1322| IMV heparin binding surface protein [Mythimna separata entomopoxvirus 'L']
+gi|506498251|ref|YP_008004048.1|vFam_1322| IMV heparin binding surface protein [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498862|ref|YP_008004656.1|vFam_1322| IMV heparin binding surface protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964562|ref|NP_065030.1|vFam_1322| putative glycosyl transferase [Amsacta moorei entomopoxvirus 'L']

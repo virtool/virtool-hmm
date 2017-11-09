@@ -1,0 +1,11 @@
+CLUSTER	2887
+NUM_SEQ	3
+LENGTH	94
+RELATIVE_ENTROPY_PER_POSITION	0.55
+TOTAL_RELATIVE_ENTROPY	51.7
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Lymphocystivirus': 1, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|51869959|ref|YP_073512.1|vFam_2887| hypothetical protein LDVICp002 [Lymphocystis disease virus - isolate China]
+gi|49237362|ref|YP_031643.1|vFam_2887| putative interleukin-1 beta convertase precursor [Frog virus 3]
+gi|56692685|ref|YP_164143.1|vFam_2887| CARD-like protein [Singapore grouper iridovirus]

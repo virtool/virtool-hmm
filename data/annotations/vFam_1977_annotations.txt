@@ -1,0 +1,11 @@
+CLUSTER	1977
+NUM_SEQ	3
+LENGTH	207
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	103.5
+FAMILIES	{'Phycodnaviridae': 1, 'Mimiviridae': 2}
+GENERA	{'None': 2, 'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508181930|ref|YP_008052449.1|vFam_1977| ribonuclease H [Phaeocystis globosa virus]
+gi|441432460|ref|YP_007354502.1|vFam_1977| ribonuclease H [Acanthamoeba polyphaga moumouvirus]
+gi|363539939|ref|YP_004894660.1|vFam_1977| mg609 gene product [Megavirus chiliensis]

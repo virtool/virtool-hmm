@@ -1,0 +1,10 @@
+CLUSTER	4124
+NUM_SEQ	2
+LENGTH	402
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	213.06
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|531036605|ref|YP_008438242.1|vFam_4124| tryptophan-tRNA ligase [Pandoravirus salinus]
+gi|448825844|ref|YP_007418775.1|vFam_4124| tryptophanyl-tRNA synthetase [Megavirus lba]

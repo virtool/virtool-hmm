@@ -1,0 +1,11 @@
+CLUSTER	2728
+NUM_SEQ	3
+LENGTH	282
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	146.64
+FAMILIES	{'Papillomaviridae': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|363540901|ref|YP_004895384.1|vFam_2728| unnamed protein product [Canine papillomavirus 10]
+gi|430025790|ref|YP_007195266.1|vFam_2728| E4 [Canine papillomavirus 14]
+gi|347750424|ref|YP_004857846.1|vFam_2728| E4 [Canine papillomavirus 8]

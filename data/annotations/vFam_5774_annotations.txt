@@ -1,0 +1,10 @@
+CLUSTER	5774
+NUM_SEQ	2
+LENGTH	274
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	139.74
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|209978817|ref|YP_002300560.1|vFam_5774| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|29567130|ref|NP_818692.1|vFam_5774| hypothetical protein AhnVgp045 [Adoxophyes honmai nucleopolyhedrovirus]

@@ -1,0 +1,10 @@
+CLUSTER	4082
+NUM_SEQ	2
+LENGTH	543
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	271.5
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|422933911|ref|YP_007003970.1|vFam_4082| protein ORF152 [Cyprinid herpesvirus 2]
+gi|131840178|ref|YP_001096187.1|vFam_4082| unnamed protein product [Cyprinid herpesvirus 3]

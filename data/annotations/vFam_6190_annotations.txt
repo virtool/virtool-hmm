@@ -1,0 +1,10 @@
+CLUSTER	6190
+NUM_SEQ	2
+LENGTH	108
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	55.08
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825064|ref|YP_007417995.1|vFam_6190| hypothetical protein LBA_00097 [Megavirus lba]
+gi|441432012|ref|YP_007354054.1|vFam_6190| RING finger family protein [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,11 @@
+CLUSTER	3756
+NUM_SEQ	3
+LENGTH	104
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	55.12
+FAMILIES	{'Marseillevirus family': 1, 'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|284504244|ref|YP_003406959.1|vFam_3756| hypothetical protein MAR_ORF218 [Marseillevirus]
+gi|448825982|ref|YP_007418913.1|vFam_3756| hypothetical protein LBA_01019 [Megavirus lba]
+gi|441432721|ref|YP_007354763.1|vFam_3756| integral membrane protein [Acanthamoeba polyphaga moumouvirus]

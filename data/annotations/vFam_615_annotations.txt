@@ -1,0 +1,15 @@
+CLUSTER	615
+NUM_SEQ	7
+LENGTH	498
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	253.98
+FAMILIES	{'Phycodnaviridae': 1, 'Mimiviridae': 6}
+GENERA	{'None': 3, 'Mimivirus': 3, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|157953259|ref|YP_001498150.1|vFam_615| hypothetical protein AR158_C068R [Paramecium bursaria Chlorella virus AR158]
+gi|311977474|ref|YP_003986594.1|vFam_615| putative transposase [Acanthamoeba polyphaga mimivirus]
+gi|441432213|ref|YP_007354255.1|vFam_615| putative transposase [Acanthamoeba polyphaga moumouvirus]
+gi|363539993|ref|YP_004894452.1|vFam_615| mg401 gene product [Megavirus chiliensis]
+gi|311977560|ref|YP_003986680.1|vFam_615| putative transposase [Acanthamoeba polyphaga mimivirus]
+gi|363540737|ref|YP_004895071.1|vFam_615| mg1020 gene product [Megavirus chiliensis]
+gi|311978264|ref|YP_003987385.1|vFam_615| putative transposase [Acanthamoeba polyphaga mimivirus]

@@ -1,0 +1,10 @@
+CLUSTER	1414
+NUM_SEQ	2
+LENGTH	126
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	63.0
+FAMILIES	{'Phycodnaviridae': 1}
+GENERA	{'Phaeovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531035037|ref|YP_008436662.1|vFam_1414| hypothetical protein ps_246 [Pandoravirus salinus]
+gi|13242521|ref|NP_077534.1|vFam_1414| EsV-1-49 [Ectocarpus siliculosus virus 1]

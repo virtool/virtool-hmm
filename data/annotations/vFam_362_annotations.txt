@@ -1,0 +1,27 @@
+CLUSTER	362
+NUM_SEQ	19
+LENGTH	214
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	109.14
+FAMILIES	{'Herpesviridae': 19}
+GENERA	{'Varicellovirus': 8, 'Iltovirus': 2, 'Mardivirus': 4, 'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|13242452|ref|NP_077472.1|vFam_362| nuclear protein UL3 [Cercopithecine herpesvirus 9]
+gi|148753575|ref|NP_944437.2|vFam_362| nuclear protein UL3 [Psittacid herpesvirus 1]
+gi|57790988|ref|YP_182392.1|vFam_362| nuclear protein UL3 [Gallid herpesvirus 1]
+gi|9625932|ref|NP_040180.1|vFam_362| nuclear protein UL3 [Human herpesvirus 3]
+gi|51557540|ref|YP_068374.1|vFam_362| nuclear protein UL3 [Suid herpesvirus 1]
+gi|30984431|ref|NP_851862.1|vFam_362| nuclear protein UL3 [Macacine herpesvirus 1]
+gi|83722571|ref|YP_443849.1|vFam_362| nuclear protein UL3 [Papiine herpesvirus 2]
+gi|56694725|ref|YP_164445.1|vFam_362| nuclear protein UL3 [Cercopithecine herpesvirus 2]
+gi|9629383|ref|NP_044604.1|vFam_362| nuclear protein UL3 [Human herpesvirus 1]
+gi|9629272|ref|NP_044472.1|vFam_362| nuclear protein UL3 [Human herpesvirus 2]
+gi|296316059|ref|YP_003662523.1|vFam_362| nuclear protein UL3 [Bovine herpesvirus 5]
+gi|9629873|ref|NP_045357.1|vFam_362| nuclear protein UL3 [Bovine herpesvirus 1]
+gi|12084831|ref|NP_073296.1|vFam_362| nuclear protein UL3 [Meleagrid herpesvirus 1]
+gi|10834871|ref|NP_066832.1|vFam_362| nuclear protein UL3 [Gallid herpesvirus 3]
+gi|155041955|ref|YP_001033931.2|vFam_362| nuclear protein UL3 [Gallid herpesvirus 2]
+gi|255683157|ref|YP_003084421.1|vFam_362| UL3 [Anatid herpesvirus 1]
+gi|270339497|ref|YP_003331579.1|vFam_362| nuclear protein UL3 [Felid herpesvirus 1]
+gi|216905913|ref|YP_002333541.1|vFam_362| nuclear protein UL3 [Equid herpesvirus 9]
+gi|9629789|ref|NP_045277.1|vFam_362| nuclear protein UL3 [Equid herpesvirus 4]

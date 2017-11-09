@@ -1,0 +1,12 @@
+CLUSTER	1797
+NUM_SEQ	4
+LENGTH	314
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	163.28
+FAMILIES	{'None': 3, 'Mimiviridae': 1}
+GENERA	{'None': 4}
+FASTA SEQUENCE TITLES:
+gi|441432468|ref|YP_007354510.1|vFam_1797| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]
+gi|448825603|ref|YP_007418534.1|vFam_1797| hypothetical protein LBA_00640 [Megavirus lba]
+gi|448825602|ref|YP_007418533.1|vFam_1797| hypothetical protein LBA_00639 [Megavirus lba]
+gi|448825601|ref|YP_007418532.1|vFam_1797| hypothetical protein LBA_00638 [Megavirus lba]

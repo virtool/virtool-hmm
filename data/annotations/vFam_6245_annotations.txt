@@ -1,0 +1,10 @@
+CLUSTER	6245
+NUM_SEQ	2
+LENGTH	65
+RELATIVE_ENTROPY_PER_POSITION	0.79
+TOTAL_RELATIVE_ENTROPY	51.35
+FAMILIES	{'Nimaviridae': 2}
+GENERA	{'Whispovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|17158361|ref|NP_477780.1|vFam_6245| wsv258 [Shrimp white spot syndrome virus]
+gi|17158345|ref|NP_477763.1|vFam_6245| wsv241 [Shrimp white spot syndrome virus]

@@ -1,0 +1,12 @@
+CLUSTER	1426
+NUM_SEQ	4
+LENGTH	1146
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	595.92
+FAMILIES	{'None': 2, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831098|ref|YP_003969741.1|vFam_1426| putative superfamily II helicase/VV D6-like early transcription factor small subunit [Cafeteria roenbergensis virus BV-PW1]
+gi|311977762|ref|YP_003986882.1|vFam_1426| putative NTPase [Acanthamoeba polyphaga mimivirus]
+gi|448825485|ref|YP_007418416.1|vFam_1426| putative NTPase [Megavirus lba]
+gi|441432373|ref|YP_007354415.1|vFam_1426| DEAD-like helicase [Acanthamoeba polyphaga moumouvirus]

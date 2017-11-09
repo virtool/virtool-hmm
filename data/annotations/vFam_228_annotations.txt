@@ -1,0 +1,29 @@
+CLUSTER	228
+NUM_SEQ	21
+LENGTH	902
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	469.04
+FAMILIES	{'Flaviviridae': 21}
+GENERA	{'Flavivirus': 21}
+FASTA SEQUENCE TITLES:
+gi|392002752|ref|YP_006470619.1|vFam_228| nonstructural protein NS5 [Culex flavivirus]
+gi|254688388|ref|YP_003084132.1|vFam_228| putative NS5 protein [Aedes flavivirus]
+gi|37695589|ref|NP_937780.1|vFam_228| NS5 protein [Kamiti River virus]
+gi|27735349|ref|NP_776048.1|vFam_228| putative non-structural protein NS5; RNA-dependent RNA polymerase; methyltransferase component of capping enzyme [Cell fusing agent virus]
+gi|27697405|ref|NP_775688.1|vFam_228| non-structural protein NS5; RNA-dependent RNA polymerase; methyltransferase component of capping enzyme [Apoi virus]
+gi|25121731|ref|NP_740267.1|vFam_228| non-structural protein 5 [Modoc virus]
+gi|27735371|ref|NP_776080.1|vFam_228| non-structural protein NS5; RNA-dependent RNA polymerase; methyltransferase component of capping enzyme [Rio Bravo virus]
+gi|27669998|ref|NP_775653.1|vFam_228| non-structural protein NS5 [Montana myotis leukoencephalitis virus]
+gi|27596773|ref|NP_775524.1|vFam_228| non-structural protein NS5 [Powassan virus]
+gi|27545515|ref|NP_775478.1|vFam_228| non-structural protein NS5 [Alkhumra hemorrhagic fever virus]
+gi|27596786|ref|NP_775511.1|vFam_228| non-structural protein NS5 [Tick-borne encephalitis virus]
+gi|25121534|ref|NP_740302.1|vFam_228| nonstructural protein NS5 [Langat virus]
+gi|27735297|ref|NP_776009.1|vFam_228| non-structural protein NS5 [Yellow fever virus]
+gi|27735310|ref|NP_776022.1|vFam_228| unnamed protein product [West Nile virus]
+gi|24418990|ref|NP_722539.1|vFam_228| NS5 [Murray Valley encephalitis virus]
+gi|56692454|ref|YP_164818.1|vFam_228| NS5 [Usutu virus]
+gi|27696336|ref|NP_775674.1|vFam_228| non-structural protein NS5, partial [Japanese encephalitis virus]
+gi|73671179|ref|NP_740325.1|vFam_228| NS5 protein [Dengue virus 4]
+gi|159024820|ref|NP_739590.2|vFam_228| Nonstructural protein NS5 [Dengue virus 2]
+gi|164654861|ref|YP_001531176.2|vFam_228| Nonstructural protein NS5 [Dengue virus 3]
+gi|25014069|ref|NP_722465.1|vFam_228| nonstructural protein 5 [Dengue virus 1]

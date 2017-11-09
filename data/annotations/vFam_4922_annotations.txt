@@ -1,0 +1,10 @@
+CLUSTER	4922
+NUM_SEQ	2
+LENGTH	274
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	139.74
+FAMILIES	{'Coronaviridae': 2}
+GENERA	{'None': 1, 'Betacoronavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|304633678|ref|YP_003858585.1|vFam_4922| ORF3 protein [Bat coronavirus BM48-31/BGR/2008]
+gi|30124073|ref|NP_828852.2|vFam_4922| hypothetical protein sars3a [SARS coronavirus]

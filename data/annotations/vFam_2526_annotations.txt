@@ -1,0 +1,12 @@
+CLUSTER	2526
+NUM_SEQ	4
+LENGTH	267
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	138.84
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|360086622|ref|YP_004940304.1|vFam_2526| membrane protein S20 [Saimiriine herpesvirus 3]
+gi|360041041|ref|YP_004940164.1|vFam_2526| membrane protein A35 [Aotine herpesvirus 1]
+gi|360086631|ref|YP_004940313.1|vFam_2526| membrane protein S29 [Saimiriine herpesvirus 3]
+gi|360041046|ref|YP_004940169.1|vFam_2526| membrane protein A40 [Aotine herpesvirus 1]

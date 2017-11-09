@@ -1,0 +1,10 @@
+CLUSTER	5992
+NUM_SEQ	2
+LENGTH	151
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	78.52
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497773|ref|YP_008003572.1|vFam_5992| unknown similar to AMEV031 [Mythimna separata entomopoxvirus 'L']
+gi|9964345|ref|NP_064813.1|vFam_5992| hypothetical protein AMV031 [Amsacta moorei entomopoxvirus 'L']

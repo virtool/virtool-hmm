@@ -1,0 +1,12 @@
+CLUSTER	2023
+NUM_SEQ	4
+LENGTH	248
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	126.48
+FAMILIES	{'Luteoviridae': 3}
+GENERA	{'Polerovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|512721875|ref|YP_008083738.1|vFam_2023| PO protein [Maize yellow dwarf virus-RMV]
+gi|14010735|ref|NP_114360.1|vFam_2023| putative protein P0 [Beet chlorosis virus]
+gi|348020286|ref|YP_004869990.1|vFam_2023| P0 [Brassica yellows virus]
+gi|20428572|ref|NP_620484.1|vFam_2023| hypothetical protein [Turnip yellows virus]

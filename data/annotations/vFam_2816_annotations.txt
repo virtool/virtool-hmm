@@ -1,0 +1,13 @@
+CLUSTER	2816
+NUM_SEQ	5
+LENGTH	76
+RELATIVE_ENTROPY_PER_POSITION	0.68
+TOTAL_RELATIVE_ENTROPY	51.68
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|295441842|ref|YP_003591080.1|vFam_2816| hypothetical protein STIV2_B72 [Sulfolobus turreted icosahedral virus 2]
+gi|472438249|ref|YP_007678026.1|vFam_2816| VP2-like protein [Sulfolobales Mexican fusellovirus 1]
+gi|9625545|ref|NP_039802.1|vFam_2816| VP2 protein [Sulfolobus spindle-shaped virus 1]
+gi|270281786|ref|YP_003331451.1|vFam_2816| VP2-like protein [Sulfolobus spindle-shaped virus 6]
+gi|270281747|ref|YP_003331406.1|vFam_2816| VP2-like protein [Acidianus spindle-shaped virus 1]

@@ -1,0 +1,16 @@
+CLUSTER	851
+NUM_SEQ	8
+LENGTH	409
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	208.59
+FAMILIES	{'Herpesviridae': 8}
+GENERA	{'Varicellovirus': 6, 'Iltovirus': 1, 'Mardivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|148828640|ref|YP_182405.2|vFam_851| envelope glycoprotein D [Gallid herpesvirus 1]
+gi|255683169|ref|YP_003084434.1|vFam_851| US6 [Anatid herpesvirus 1]
+gi|216905925|ref|YP_002333553.1|vFam_851| envelope glycoprotein D [Equid herpesvirus 9]
+gi|9629802|ref|NP_045289.1|vFam_851| envelope glycoprotein D [Equid herpesvirus 4]
+gi|270339505|ref|YP_003331589.1|vFam_851| envelope glycoprotein D [Felid herpesvirus 1]
+gi|51557553|ref|YP_068387.1|vFam_851| envelope glycoprotein D [Suid herpesvirus 1]
+gi|296316069|ref|YP_003662533.1|vFam_851| envelope glycoprotein D [Bovine herpesvirus 5]
+gi|9629886|ref|NP_045370.1|vFam_851| envelope glycoprotein D [Bovine herpesvirus 1]

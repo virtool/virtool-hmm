@@ -1,0 +1,12 @@
+CLUSTER	2323
+NUM_SEQ	4
+LENGTH	232
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	118.32
+FAMILIES	{'Parvoviridae': 4}
+GENERA	{'Densovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|9630379|ref|NP_046812.1|vFam_2323| nonstructural protein NS3 [Diatraea saccharalis densovirus]
+gi|422933780|ref|YP_007003822.1|vFam_2323| nonstructural protein NS3 [Pseudoplusia includens densovirus]
+gi|41057572|ref|NP_958098.1|vFam_2323| NS3 [Mythimna loreyi densovirus]
+gi|34447097|ref|NP_899649.1|vFam_2323| nonstructural protein NS3 [Galleria mellonella densovirus]

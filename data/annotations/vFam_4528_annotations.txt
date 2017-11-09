@@ -1,0 +1,10 @@
+CLUSTER	4528
+NUM_SEQ	2
+LENGTH	137
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	71.24
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825962|ref|YP_007418893.1|vFam_4528| hypothetical protein LBA_00999 [Megavirus lba]
+gi|363540567|ref|YP_004895001.1|vFam_4528| mg950 gene product [Megavirus chiliensis]

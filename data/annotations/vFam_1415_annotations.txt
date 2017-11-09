@@ -1,0 +1,10 @@
+CLUSTER	1415
+NUM_SEQ	2
+LENGTH	155
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	80.6
+FAMILIES	{'Alloherpesviridae': 1, 'Polydnaviridae': 1}
+GENERA	{'Cyprinivirus': 1, 'Bracovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|422933696|ref|YP_007003804.1|vFam_1415| protein ORF147E [Cyprinid herpesvirus 1]
+gi|57753391|ref|YP_184824.1|vFam_1415| hypothetical protein CcBV_14.3 [Cotesia congregata bracovirus]

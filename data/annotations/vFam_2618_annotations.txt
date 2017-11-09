@@ -1,0 +1,13 @@
+CLUSTER	2618
+NUM_SEQ	5
+LENGTH	156
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	81.12
+FAMILIES	{'Iridoviridae': 1, 'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497869|ref|YP_008003668.1|vFam_2618| unknown similar to AMEV075 [Mythimna separata entomopoxvirus 'L']
+gi|506498467|ref|YP_008004263.1|vFam_2618| unknown similar to AMEV075 [Choristoneura biennis entomopoxvirus 'L']
+gi|339906108|ref|YP_004732905.1|vFam_2618| hypothetical protein WIV_gp122 [Wiseana iridescent virus]
+gi|506498038|ref|YP_008003835.1|vFam_2618| unknown similar to AMEV075 [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964389|ref|NP_064857.1|vFam_2618| hypothetical protein AMV075 [Amsacta moorei entomopoxvirus 'L']

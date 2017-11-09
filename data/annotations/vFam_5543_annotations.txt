@@ -1,0 +1,10 @@
+CLUSTER	5543
+NUM_SEQ	2
+LENGTH	101
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	51.51
+FAMILIES	{'Herpesviridae': 1}
+GENERA	{'Cytomegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531035607|ref|YP_008437239.1|vFam_5543| hypothetical protein ps_826 [Pandoravirus salinus]
+gi|51556537|ref|YP_068171.1|vFam_5543| rh77 [Macacine herpesvirus 3]

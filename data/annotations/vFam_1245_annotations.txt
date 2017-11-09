@@ -1,0 +1,16 @@
+CLUSTER	1245
+NUM_SEQ	8
+LENGTH	254
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	129.54
+FAMILIES	{'Geminiviridae': 8}
+GENERA	{'None': 1, 'Curtovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|306478724|ref|YP_003778175.1|vFam_1245| coat protein [Turnip curly top virus]
+gi|169303567|ref|YP_001715619.1|vFam_1245| coat protein [Beet curly top Iran virus]
+gi|10257476|ref|NP_066183.1|vFam_1245| capsid protein [Horseradish curly top virus]
+gi|148659001|ref|YP_001274386.1|vFam_1245| coat protein [Pepper curly top virus]
+gi|197914889|ref|YP_002158818.1|vFam_1245| capsid protein [Pepper yellow dwarf virus - New Mexico]
+gi|46402154|ref|YP_006993.1|vFam_1245| capsid protein [Spinach curly top virus]
+gi|322840371|ref|YP_004207923.1|vFam_1245| coat protein [Spinach curly top Arizona virus]
+gi|310288307|ref|YP_003966135.1|vFam_1245| capsid protein [Spinach severe curly top virus]

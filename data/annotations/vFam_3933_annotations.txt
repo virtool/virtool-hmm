@@ -1,0 +1,10 @@
+CLUSTER	3933
+NUM_SEQ	2
+LENGTH	331
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	172.12
+FAMILIES	{'None': 2}
+GENERA	{'Bacillariodnavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|326425106|ref|YP_004286320.1|vFam_3933| hypothetical protein [Chaetoceros lorenzianus DNA Virus]
+gi|86476042|ref|YP_473363.1|vFam_3933| hypothetical protein [Chaetoceros salsugineum DNA virus]

@@ -1,0 +1,11 @@
+CLUSTER	2897
+NUM_SEQ	3
+LENGTH	178
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	89.0
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'None': 2, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825230|ref|YP_007418161.1|vFam_2897| hypothetical protein LBA_00265 [Megavirus lba]
+gi|441432147|ref|YP_007354189.1|vFam_2897| hypothetical protein Moumou_00209 [Acanthamoeba polyphaga moumouvirus]
+gi|311978133|ref|YP_003987253.1|vFam_2897| hypothetical protein [Acanthamoeba polyphaga mimivirus]

@@ -1,0 +1,11 @@
+CLUSTER	3884
+NUM_SEQ	3
+LENGTH	91
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	49.14
+FAMILIES	{'Herpesviridae': 2, 'Poxviridae': 1}
+GENERA	{'None': 1, 'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|571798059|ref|YP_008658558.1|vFam_3884| hypothetical pox protein [Squirrelpox virus]
+gi|52139307|ref|YP_081582.1|vFam_3884| protein UL148A [Human herpesvirus 5]
+gi|20026725|ref|NP_612767.1|vFam_3884| protein UL148A [Panine herpesvirus 2]

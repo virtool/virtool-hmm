@@ -1,0 +1,16 @@
+CLUSTER	1237
+NUM_SEQ	8
+LENGTH	97
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	51.41
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|526118836|ref|YP_008318739.1|vFam_1237| hypothetical protein [Pandoravirus dulcis]
+gi|116326184|ref|YP_803510.1|vFam_1237| hypothetical protein AGNV_gp116 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320761|ref|NP_203273.1|vFam_1237| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|9630055|ref|NP_046273.1|vFam_1237| hypothetical protein OpmnVgp117 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|86355557|ref|YP_473225.1|vFam_1237| ORF37 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|529153353|ref|YP_008378393.1|vFam_1237| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|571031237|ref|YP_008992133.1|vFam_1237| ac117 [Choristoneura murinana alphabaculovirus]
+gi|529153516|ref|YP_008378541.1|vFam_1237| hypothetical protein [Choristoneura occidentalis alphabaculovirus]

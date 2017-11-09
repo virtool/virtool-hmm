@@ -1,0 +1,11 @@
+CLUSTER	4852
+NUM_SEQ	3
+LENGTH	62
+RELATIVE_ENTROPY_PER_POSITION	0.85
+TOTAL_RELATIVE_ENTROPY	52.7
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281828|ref|YP_003331492.1|vFam_4852| hypothetical protein SSSV7_gp09 [Sulfolobus spindle-shaped virus 7]
+gi|270281755|ref|YP_003331415.1|vFam_4852| hypothetical protein [Acidianus spindle-shaped virus 1]
+gi|157929279|ref|YP_001496931.1|vFam_4852| hypothetical protein AFV2_gp06 [Acidianus filamentous virus 2]

@@ -1,0 +1,20 @@
+CLUSTER	750
+NUM_SEQ	12
+LENGTH	287
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	149.24
+FAMILIES	{'Baculoviridae': 11}
+GENERA	{'Betabaculovirus': 11}
+FASTA SEQUENCE TITLES:
+gi|410493663|ref|YP_006908601.1|vFam_750| ODV-EC27 [Epinotia aporema granulovirus]
+gi|21686754|ref|NP_663254.1|vFam_750| occlusion derived virus envelope and capsid protein 27 [Phthorimaea operculella granulovirus]
+gi|32698621|ref|NP_872536.1|vFam_750| odv-ec27 [Adoxophyes orana granulovirus]
+gi|33622288|ref|NP_891935.1|vFam_750| odv-ec27 [Cryptophlebia leucotreta granulovirus]
+gi|14602334|ref|NP_148881.1|vFam_750| ORF97 ODV-EC27 [Cydia pomonella granulovirus]
+gi|109255349|ref|YP_654498.1|vFam_750| ODV-E27 [Choristoneura occidentalis granulovirus]
+gi|556549118|ref|YP_008720032.1|vFam_750| odv-e27 [Clostera anastomosis granulovirus]
+gi|288804721|ref|YP_003429406.1|vFam_750| ODV-e27 [Pieris rapae granulovirus]
+gi|11068083|ref|NP_068299.1|vFam_750| PxORF80 peptide [Plutella xylostella granulovirus]
+gi|46309367|ref|YP_006257.1|vFam_750| ORF87 [Agrotis segetum granulovirus]
+gi|285002391|ref|YP_003422455.1|vFam_750| ODV-EC27 [Pseudaletia unipuncta granulovirus]
+gi|148368909|ref|YP_001257039.1|vFam_750| odv-ec27 [Spodoptera litura granulovirus]

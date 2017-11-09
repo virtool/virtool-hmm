@@ -1,0 +1,10 @@
+CLUSTER	6469
+NUM_SEQ	2
+LENGTH	141
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	73.32
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|295441840|ref|YP_003591077.1|vFam_6469| hypothetical protein STIV2_C141 [Sulfolobus turreted icosahedral virus 2]
+gi|48696994|ref|YP_024991.1|vFam_6469| hypothetical protein B130 [Sulfolobus turreted icosahedral virus]

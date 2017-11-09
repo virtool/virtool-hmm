@@ -1,0 +1,10 @@
+CLUSTER	4066
+NUM_SEQ	2
+LENGTH	384
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	199.68
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409710|ref|YP_004347130.1|vFam_4066| eukaryotic peptide chain release factor subunit 1 [Lausannevirus]
+gi|284504159|ref|YP_003406874.1|vFam_4066| eukaryotic peptide chain release translation termination factor 1 [Marseillevirus]

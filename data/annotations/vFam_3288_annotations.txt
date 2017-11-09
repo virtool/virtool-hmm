@@ -1,0 +1,12 @@
+CLUSTER	3288
+NUM_SEQ	4
+LENGTH	160
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	78.4
+FAMILIES	{'Iridoviridae': 3, 'Polydnaviridae': 1}
+GENERA	{'Ichnovirus': 1, 'Iridovirus': 2, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|124484753|ref|YP_001031318.1|vFam_3288| d4.2 [Hyposoter fugitivus ichnovirus]
+gi|15078908|ref|NP_149659.1|vFam_3288| 196R [Invertebrate iridescent virus 6]
+gi|339906029|ref|YP_004732826.1|vFam_3288| hypothetical protein WIV_gp043 [Wiseana iridescent virus]
+gi|109287898|ref|YP_654592.1|vFam_3288| hypothetical protein MIV020R [Invertebrate iridescent virus 3]

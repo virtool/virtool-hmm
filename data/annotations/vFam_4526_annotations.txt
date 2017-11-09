@@ -1,0 +1,10 @@
+CLUSTER	4526
+NUM_SEQ	2
+LENGTH	170
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	88.4
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Gammabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|48843646|ref|YP_025214.1|vFam_4526| unknown [Neodiprion lecontei nucleopolyhedrovirus]
+gi|48843559|ref|YP_025132.1|vFam_4526| hypothetical protein NeseNPV_gp25 [Neodiprion sertifer nucleopolyhedrovirus]

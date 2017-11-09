@@ -1,0 +1,20 @@
+CLUSTER	713
+NUM_SEQ	12
+LENGTH	265
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	140.45
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Macavirus': 2, 'None': 1, 'Lymphocryptovirus': 2, 'Rhadinovirus': 6, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|83642877|ref|YP_438164.1|vFam_713| ORF42 [Ovine herpesvirus 2]
+gi|10140963|ref|NP_065540.1|vFam_713| ORF42 [Alcelaphine herpesvirus 1]
+gi|82503239|ref|YP_401683.1|vFam_713| BBRF2 protein [Human herpesvirus 4]
+gi|24943124|ref|NP_733886.1|vFam_713| ORF33 [callitrichine herpesvirus 3]
+gi|321496593|ref|YP_004207878.1|vFam_713| hypothetical protein RHVP.42 [Rodent herpesvirus Peru]
+gi|9629610|ref|NP_044879.1|vFam_713| tegument protein UL7 [Murid herpesvirus 4]
+gi|18653849|ref|NP_570783.1|vFam_713| hypothetical protein MmrVgp42 [Macacine herpesvirus 5]
+gi|139472834|ref|YP_001129394.1|vFam_713| ORF42 [Human herpesvirus 8]
+gi|9628045|ref|NP_042639.1|vFam_713| ORF 42 [Equid herpesvirus 2]
+gi|13095619|ref|NP_076534.1|vFam_713| unknown [Bovine herpesvirus 4]
+gi|9631234|ref|NP_048015.1|vFam_713| orf 42 [Ateline herpesvirus 3]
+gi|9625998|ref|NP_040244.1|vFam_713| unnamed protein product [Saimiriine herpesvirus 2]

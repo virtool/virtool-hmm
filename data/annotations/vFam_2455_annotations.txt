@@ -1,0 +1,12 @@
+CLUSTER	2455
+NUM_SEQ	4
+LENGTH	199
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	101.49
+FAMILIES	{'Marseillevirus family': 4}
+GENERA	{'None': 4}
+FASTA SEQUENCE TITLES:
+gi|284504083|ref|YP_003406798.1|vFam_2455| hypothetical protein MAR_ORF048 [Marseillevirus]
+gi|284504461|ref|YP_003407176.1|vFam_2455| hypothetical protein MAR_ORF452 [Marseillevirus]
+gi|327409565|ref|YP_004346985.1|vFam_2455| hypothetical protein LAU_0017 [Lausannevirus]
+gi|284504462|ref|YP_003407177.1|vFam_2455| hypothetical protein MAR_ORF453 [Marseillevirus]

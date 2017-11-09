@@ -1,0 +1,10 @@
+CLUSTER	529
+NUM_SEQ	2
+LENGTH	741
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	377.91
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Varicellovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|296316014|ref|YP_003662478.1|vFam_529| tegument protein VP13/14 [Bovine herpesvirus 5]
+gi|13242403|ref|NP_077426.1|vFam_529| tegument protein VP13/14 [Cercopithecine herpesvirus 9]

@@ -1,0 +1,11 @@
+CLUSTER	3042
+NUM_SEQ	3
+LENGTH	265
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	135.15
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|61660269|ref|YP_214160.1|vFam_3042| Putative membrane glycoprotein [Murid herpesvirus 1]
+gi|425707346|ref|YP_007016543.1|vFam_3042| e160 [Murid herpesvirus 8]
+gi|9845457|ref|NP_064271.1|vFam_3042| pr160 [Murid herpesvirus 2]

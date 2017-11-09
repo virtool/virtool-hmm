@@ -1,0 +1,12 @@
+CLUSTER	2620
+NUM_SEQ	4
+LENGTH	449
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	228.99
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|52139338|ref|YP_081613.1|vFam_2620| membrane protein US29 [Human herpesvirus 5]
+gi|20026759|ref|NP_612801.1|vFam_2620| membrane protein US29 [Panine herpesvirus 2]
+gi|359946608|ref|YP_004936141.1|vFam_2620| membrane protein US29 [Cercopithecine herpesvirus 5]
+gi|51556674|ref|YP_068308.1|vFam_2620| rh221 [Macacine herpesvirus 3]

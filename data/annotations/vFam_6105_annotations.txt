@@ -1,0 +1,10 @@
+CLUSTER	6105
+NUM_SEQ	2
+LENGTH	315
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	163.8
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|56692769|ref|YP_164227.1|vFam_6105| hypothetical protein ORF132R [Singapore grouper iridovirus]
+gi|45686094|ref|YP_003857.1|vFam_6105| unknown [Ambystoma tigrinum virus]

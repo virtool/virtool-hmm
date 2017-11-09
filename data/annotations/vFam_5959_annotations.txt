@@ -1,0 +1,10 @@
+CLUSTER	5959
+NUM_SEQ	2
+LENGTH	223
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	115.96
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|356640456|ref|YP_004933898.1|vFam_5959| hypothetical protein cy157_ex2 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556608|ref|YP_068242.1|vFam_5959| rh152 [Macacine herpesvirus 3]

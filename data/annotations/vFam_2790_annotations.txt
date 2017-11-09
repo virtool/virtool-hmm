@@ -1,0 +1,12 @@
+CLUSTER	2790
+NUM_SEQ	4
+LENGTH	114
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	59.28
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Betabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|285002364|ref|YP_003422428.1|vFam_2790| hypothetical protein PsunGV_gp089 [Pseudaletia unipuncta granulovirus]
+gi|164519279|ref|YP_001649066.1|vFam_2790| hypothetical protein HaGV_gp084 [Helicoverpa armigera granulovirus]
+gi|148368888|ref|YP_001257018.1|vFam_2790| hypothetical protein SlGVgp067 [Spodoptera litura granulovirus]
+gi|11068060|ref|NP_068276.1|vFam_2790| PxORF57 peptide [Plutella xylostella granulovirus]

@@ -1,0 +1,11 @@
+CLUSTER	5017
+NUM_SEQ	3
+LENGTH	75
+RELATIVE_ENTROPY_PER_POSITION	0.69
+TOTAL_RELATIVE_ENTROPY	51.75
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Ranavirus': 2, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15079141|ref|NP_149893.1|vFam_5017| 430R [Invertebrate iridescent virus 6]
+gi|56692711|ref|YP_164169.1|vFam_5017| hypothetical protein ORF074R [Singapore grouper iridovirus]
+gi|45686053|ref|YP_003816.1|vFam_5017| unknown [Ambystoma tigrinum virus]

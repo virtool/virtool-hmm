@@ -1,0 +1,22 @@
+CLUSTER	467
+NUM_SEQ	14
+LENGTH	379
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	197.08
+FAMILIES	{'Marseillevirus family': 13, 'Retroviridae': 1}
+GENERA	{'None': 13, 'Alpharetrovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|40796161|ref|NP_955614.1|vFam_467| gp85 SU [Rous sarcoma virus]
+gi|327409574|ref|YP_004346994.1|vFam_467| hypothetical protein LAU_0026 [Lausannevirus]
+gi|327409972|ref|YP_004347392.1|vFam_467| hypothetical protein LAU_0430 [Lausannevirus]
+gi|284504099|ref|YP_003406814.1|vFam_467| hypothetical protein MAR_ORF067 [Marseillevirus]
+gi|327409559|ref|YP_004346979.1|vFam_467| hypothetical protein LAU_0011 [Lausannevirus]
+gi|284504080|ref|YP_003406795.1|vFam_467| hypothetical protein MAR_ORF045 [Marseillevirus]
+gi|327409569|ref|YP_004346989.1|vFam_467| hypothetical protein LAU_0021 [Lausannevirus]
+gi|327409571|ref|YP_004346991.1|vFam_467| hypothetical protein LAU_0023 [Lausannevirus]
+gi|284504066|ref|YP_003406781.1|vFam_467| hypothetical protein MAR_ORF026 [Marseillevirus]
+gi|284504065|ref|YP_003406780.1|vFam_467| hypothetical protein MAR_ORF025 [Marseillevirus]
+gi|327409570|ref|YP_004346990.1|vFam_467| hypothetical protein LAU_0022 [Lausannevirus]
+gi|327409568|ref|YP_004346988.1|vFam_467| hypothetical protein LAU_0020 [Lausannevirus]
+gi|327409971|ref|YP_004347391.1|vFam_467| hypothetical protein LAU_0429 [Lausannevirus]
+gi|327409560|ref|YP_004346980.1|vFam_467| hypothetical protein LAU_0012 [Lausannevirus]

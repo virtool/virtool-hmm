@@ -1,0 +1,11 @@
+CLUSTER	3819
+NUM_SEQ	3
+LENGTH	155
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	80.6
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|41057442|ref|NP_957915.1|vFam_3819| ORF006 vascular endothelial growth factor [Bovine papular stomatitis virus]
+gi|289183894|ref|YP_003457435.1|vFam_3819| VEGF [Pseudocowpox virus]
+gi|41057195|ref|NP_957909.1|vFam_3819| ORF132 vascular endothelial growth factor-like protein [Orf virus]

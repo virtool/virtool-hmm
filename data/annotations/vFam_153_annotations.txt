@@ -1,0 +1,40 @@
+CLUSTER	153
+NUM_SEQ	32
+LENGTH	213
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	110.76
+FAMILIES	{'None': 1, 'Baculoviridae': 26}
+GENERA	{'None': 1, 'Alphabaculovirus': 26}
+FASTA SEQUENCE TITLES:
+gi|28261424|ref|NP_783209.1|vFam_153| 23 kDa unknown protein [Oyster mushroom spherical virus]
+gi|119964660|ref|YP_950856.1|vFam_153| late expression factor-2 [Maruca vitrata nucleopolyhedrovirus]
+gi|438000313|ref|YP_007250418.1|vFam_153| lef-2 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643690|ref|YP_002884380.1|vFam_153| LEF-2 [Bombyx mandarina nucleopolyhedrovirus]
+gi|15320661|ref|NP_203173.1|vFam_153| LEF-2 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326072|ref|YP_803397.1|vFam_153| late expression factor 2 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|154551151|ref|YP_611108.2|vFam_153| lef-2 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355667|ref|YP_473335.1|vFam_153| LEF2 [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629944|ref|NP_046162.1|vFam_153| late expression factor 2 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153461|ref|YP_008378501.1|vFam_153| LEF-2 [Choristoneura rosaceana alphabaculovirus]
+gi|571031340|ref|YP_008992237.1|vFam_153| lef2 [Choristoneura murinana alphabaculovirus]
+gi|30387236|ref|NP_848315.1|vFam_153| late expression factor 2 [Choristoneura fumiferana multiple nucleopolyhedrovirus]
+gi|15617582|ref|NP_258382.1|vFam_153| LEF-2 [Spodoptera litura nucleopolyhedrovirus]
+gi|209978870|ref|YP_002300613.1|vFam_153| LEF-2 [Adoxophyes orana nucleopolyhedrovirus]
+gi|292397792|ref|YP_003517858.1|vFam_153| LEF-2 [Lymantria xylina MNPV]
+gi|9631104|ref|NP_047774.1|vFam_153| late expression factor 2 [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|15426373|ref|NP_203673.1|vFam_153| lef2 [Helicoverpa armigera nucleopolyhedrovirus]
+gi|74229813|ref|YP_309017.1|vFam_153| late expression factor 2 (lef2) [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304272|ref|YP_249740.1|vFam_153| LEF-2 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549415|ref|NP_689188.1|vFam_153| lef2 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069893|ref|NP_613097.1|vFam_153| LEF-2 [Mamestra configurata nucleopolyhedrovirus A]
+gi|90592730|ref|YP_529683.1|vFam_153| LEF-2 [Agrotis segetum nucleopolyhedrovirus]
+gi|209170901|ref|YP_002268047.1|vFam_153| agip17 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|125860139|ref|YP_001036308.1|vFam_153| late expression factor 2 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401409|ref|YP_002332712.1|vFam_153| LEF-2 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634233|ref|NP_037772.1|vFam_153| ORF12 lef2 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|118197584|ref|YP_874296.1|vFam_153| late expression factor 2 [Ectropis obliqua nucleopolyhedrovirus]
+gi|529218167|ref|YP_008378330.1|vFam_153| lef2 [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502198|ref|YP_006607856.1|vFam_153| late expression factor 2 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|165969124|ref|YP_001651024.1|vFam_153| late expression factor 2 [Orgyia leucostigma NPV]
+gi|228861708|ref|YP_002854728.1|vFam_153| lef2 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|113195509|ref|YP_717647.1|vFam_153| LEF-2 [Clanis bilineata nucleopolyhedrovirus]

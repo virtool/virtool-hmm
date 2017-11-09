@@ -1,0 +1,19 @@
+CLUSTER	613
+NUM_SEQ	11
+LENGTH	217
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	108.5
+FAMILIES	{'Baculoviridae': 8}
+GENERA	{'Alphabaculovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|438000393|ref|YP_007250498.1|vFam_613| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|114680144|ref|YP_758557.1|vFam_613| hypothetical protein PXMNV_gp091 [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|23577891|ref|NP_703081.1|vFam_613| hypothetical protein [Rachiplusia ou MNPV]
+gi|15320736|ref|NP_203248.1|vFam_613| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|529153541|ref|YP_008378566.1|vFam_613| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|30387315|ref|NP_848394.1|vFam_613| hypothetical protein CfMNPVgpORF83 [Choristoneura fumiferana multiple nucleopolyhedrovirus]
+gi|571031262|ref|YP_008992158.1|vFam_613| ac91 [Choristoneura murinana alphabaculovirus]
+gi|529153376|ref|YP_008378416.1|vFam_613| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|99077898|ref|YP_611034.2|vFam_613| hypothetical protein APNV_p066 [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326156|ref|YP_803482.1|vFam_613| hypothetical protein AGNV_gp088 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651399|ref|NP_932693.1|vFam_613| hypothetical protein CFDNVgORF84 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]

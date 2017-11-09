@@ -1,0 +1,11 @@
+CLUSTER	3910
+NUM_SEQ	3
+LENGTH	801
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	416.52
+FAMILIES	{'Reoviridae': 3}
+GENERA	{'Phytoreovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|134287155|ref|YP_001111372.1|vFam_3910| P5 protein [Rice gall dwarf virus]
+gi|226423330|ref|YP_002790888.1|vFam_3910| minor core protein [Homalodisca vitripennis reovirus]
+gi|20428548|ref|NP_620532.1|vFam_3910| viral structural protein [Rice dwarf virus]

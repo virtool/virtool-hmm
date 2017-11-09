@@ -1,0 +1,11 @@
+CLUSTER	3158
+NUM_SEQ	3
+LENGTH	282
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	146.64
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 2, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|313768380|ref|YP_004062060.1|vFam_3158| hypothetical protein MpV1_177 [Micromonas sp. RCC1109 virus MpV1]
+gi|260666041|ref|YP_003212995.1|vFam_3158| hypothetical protein H665_p172 [Ostreococcus tauri virus 1]
+gi|314055254|ref|YP_004063592.1|vFam_3158| 6-phosphofructokinase [Ostreococcus tauri virus 2]

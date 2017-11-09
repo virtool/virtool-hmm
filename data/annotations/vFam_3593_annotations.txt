@@ -1,0 +1,12 @@
+CLUSTER	3593
+NUM_SEQ	4
+LENGTH	133
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	66.5
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|359946465|ref|YP_004935997.1|vFam_3593| protein UL21A [Cercopithecine herpesvirus 5]
+gi|51556497|ref|YP_068131.1|vFam_3593| rh37 [Macacine herpesvirus 3]
+gi|52139207|ref|YP_081480.1|vFam_3593| protein UL21A [Human herpesvirus 5]
+gi|20026623|ref|NP_612665.1|vFam_3593| protein UL21A [Panine herpesvirus 2]

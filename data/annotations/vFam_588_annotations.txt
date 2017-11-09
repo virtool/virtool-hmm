@@ -1,0 +1,21 @@
+CLUSTER	588
+NUM_SEQ	13
+LENGTH	300
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	156.0
+FAMILIES	{'Bromoviridae': 13}
+GENERA	{'Anulavirus': 2, 'Bromovirus': 6, 'Cucumovirus': 4, 'Oleavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|20178604|ref|NP_620038.1|vFam_588| cell-to-cell movement protein [Olive latent virus 2]
+gi|20177489|ref|NP_619772.1|vFam_588| putative movement protein [Pelargonium zonate spot virus]
+gi|400355026|ref|YP_006576520.1|vFam_588| movement protein [Amazon lily mild mottle virus]
+gi|9626473|ref|NP_040776.1|vFam_588| 3a protein [Cucumber mosaic virus]
+gi|9632351|ref|NP_049333.1|vFam_588| 3a protein [Peanut stunt virus]
+gi|224808903|ref|YP_002640503.1|vFam_588| 3a protein [Gayfeather mild mottle virus]
+gi|20564158|ref|NP_620758.1|vFam_588| 3a protein [Tomato aspermy virus]
+gi|21426910|ref|NP_658997.1|vFam_588| 3a protein [Broad bean mottle virus]
+gi|22550382|ref|NP_689394.1|vFam_588| 3a protein [Spring beauty latent virus]
+gi|66090970|ref|YP_233103.1|vFam_588| 3a protein [Cassia yellow blotch virus]
+gi|20087042|ref|NP_613276.1|vFam_588| movement protein [Cowpea chlorotic mottle virus]
+gi|9626936|ref|NP_041198.1|vFam_588| hypothetical protein BMVs3gp1 [Brome mosaic virus]
+gi|261041622|ref|YP_003208109.1|vFam_588| 3a protein [Melandrium yellow fleck virus]

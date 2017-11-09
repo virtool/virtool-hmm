@@ -1,0 +1,10 @@
+CLUSTER	4206
+NUM_SEQ	2
+LENGTH	638
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	331.76
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036816|ref|YP_008438455.1|vFam_4206| Fad-linked oxidase domain [Pandoravirus salinus]
+gi|526119854|ref|YP_008319757.1|vFam_4206| fad-linked oxidase domain [Pandoravirus dulcis]

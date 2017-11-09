@@ -1,0 +1,12 @@
+CLUSTER	2531
+NUM_SEQ	4
+LENGTH	106
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	56.18
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|157953744|ref|YP_001498635.1|vFam_2531| hypothetical protein AR158_C554L [Paramecium bursaria Chlorella virus AR158]
+gi|9632016|ref|NP_048805.1|vFam_2531| Protein disulphide isomerase with heme binding site [Paramecium bursaria Chlorella virus 1]
+gi|155370518|ref|YP_001426052.1|vFam_2531| hypothetical protein FR483_N420R [Paramecium bursaria Chlorella virus FR483]
+gi|155371028|ref|YP_001426562.1|vFam_2531| hypothetical protein ATCV1_Z081L [Acanthocystis turfacea Chlorella virus 1]

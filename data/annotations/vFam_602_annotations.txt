@@ -1,0 +1,19 @@
+CLUSTER	602
+NUM_SEQ	11
+LENGTH	454
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	240.62
+FAMILIES	{'Baculoviridae': 10}
+GENERA	{'Betabaculovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|21686671|ref|NP_663171.1|vFam_602| immediate early protein 1 [Phthorimaea operculella granulovirus]
+gi|32698545|ref|NP_872460.1|vFam_602| ie-1 [Adoxophyes orana granulovirus]
+gi|556549040|ref|YP_008719954.1|vFam_602| ie-1 [Clostera anastomosis granulovirus]
+gi|33622209|ref|NP_891854.1|vFam_602| ie-1 [Cryptophlebia leucotreta granulovirus]
+gi|14602248|ref|NP_148791.1|vFam_602| ORF7 IE-1 [Cydia pomonella granulovirus]
+gi|109255279|ref|YP_654428.1|vFam_602| IE-1 [Choristoneura occidentalis granulovirus]
+gi|288804645|ref|YP_003429330.1|vFam_602| ie-1 [Pieris rapae granulovirus]
+gi|46309446|ref|YP_006336.1|vFam_602| ORF8 [Agrotis segetum granulovirus]
+gi|148368828|ref|YP_001256958.1|vFam_602| ie [Spodoptera litura granulovirus]
+gi|285002283|ref|YP_003422347.1|vFam_602| IE-1 [Pseudaletia unipuncta granulovirus]
+gi|164519203|ref|YP_001648990.1|vFam_602| immediate-early transcriptional regulatory protein-1 [Helicoverpa armigera granulovirus]

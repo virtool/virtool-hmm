@@ -1,0 +1,12 @@
+CLUSTER	1592
+NUM_SEQ	4
+LENGTH	512
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	266.24
+FAMILIES	{'Secoviridae': 4}
+GENERA	{'Nepovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|332290645|ref|YP_004429257.1|vFam_1592| capsid protein (CP) [Grapevine Bulgarian latent virus]
+gi|25013713|ref|NP_734052.1|vFam_1592| coat protein [grapevine chrome mosaic virus]
+gi|27261882|ref|NP_758856.1|vFam_1592| coat protein [Tomato black ring virus]
+gi|25014032|ref|NP_733980.1|vFam_1592| capsid protein [Beet ringspot virus]

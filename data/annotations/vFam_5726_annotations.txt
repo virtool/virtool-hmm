@@ -1,0 +1,10 @@
+CLUSTER	5726
+NUM_SEQ	2
+LENGTH	71
+RELATIVE_ENTROPY_PER_POSITION	0.73
+TOTAL_RELATIVE_ENTROPY	51.83
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|33622311|ref|NP_891958.1|vFam_5726| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602358|ref|NP_148905.1|vFam_5726| ORF121 similar to XcGV ORF142 [Cydia pomonella granulovirus]

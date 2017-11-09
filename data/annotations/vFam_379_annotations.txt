@@ -1,0 +1,18 @@
+CLUSTER	379
+NUM_SEQ	10
+LENGTH	481
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	245.31
+FAMILIES	{'Herpesviridae': 10}
+GENERA	{'Varicellovirus': 5, 'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|386522739|ref|YP_006272995.1|vFam_379| ORF16 gene product [Equid herpesvirus 8]
+gi|9629740|ref|NP_045233.1|vFam_379| envelope glycoprotein C [Equid herpesvirus 4]
+gi|56694767|ref|YP_164487.1|vFam_379| envelope glycoprotein C [Cercopithecine herpesvirus 2]
+gi|83722613|ref|YP_443891.1|vFam_379| envelope glycoprotein C [Papiine herpesvirus 2]
+gi|30984472|ref|NP_851904.1|vFam_379| envelope glycoprotein C [Macacine herpesvirus 1]
+gi|9629425|ref|NP_044646.1|vFam_379| envelope glycoprotein C [Human herpesvirus 1]
+gi|9629314|ref|NP_044514.1|vFam_379| envelope glycoprotein C [Human herpesvirus 2]
+gi|51557513|ref|YP_068347.1|vFam_379| envelope glycoprotein C [Suid herpesvirus 1]
+gi|296316016|ref|YP_003662480.1|vFam_379| envelope glycoprotein C [Bovine herpesvirus 5]
+gi|9629830|ref|NP_045314.1|vFam_379| envelope glycoprotein C [Bovine herpesvirus 1]

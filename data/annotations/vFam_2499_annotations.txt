@@ -1,0 +1,10 @@
+CLUSTER	2499
+NUM_SEQ	2
+LENGTH	175
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	89.25
+FAMILIES	{'Iridoviridae': 1}
+GENERA	{'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|527333541|ref|YP_008357325.1|vFam_2499| hypothetical protein IIV22_027L [Invertebrate iridovirus 22]
+gi|109287896|ref|YP_654590.1|vFam_2499| hypothetical protein MIV018L [Invertebrate iridescent virus 3]

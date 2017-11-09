@@ -1,0 +1,11 @@
+CLUSTER	2898
+NUM_SEQ	3
+LENGTH	490
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	254.8
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Mardivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|12084908|ref|NP_073378.1|vFam_2898| envelope glycoprotein E [Meleagrid herpesvirus 1]
+gi|155042204|ref|NP_066914.2|vFam_2898| envelope glycoprotein E [Gallid herpesvirus 3]
+gi|125745129|ref|YP_001034013.1|vFam_2898| envelope glycoprotein E [Gallid herpesvirus 2]

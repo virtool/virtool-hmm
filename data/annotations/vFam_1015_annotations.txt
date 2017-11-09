@@ -1,0 +1,15 @@
+CLUSTER	1015
+NUM_SEQ	7
+LENGTH	739
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	391.67
+FAMILIES	{'Filoviridae': 7}
+GENERA	{'Marburgvirus': 1, 'None': 1, 'Ebolavirus': 5}
+FASTA SEQUENCE TITLES:
+gi|158539109|ref|YP_001531153.1|vFam_1015| nucleoprotein [Marburg marburgvirus]
+gi|355469072|ref|YP_004928135.1|vFam_1015| nucleoprotein [Lloviu virus]
+gi|55770808|ref|YP_138520.1|vFam_1015| major nucleoprotein [Sudan ebolavirus]
+gi|22789223|ref|NP_690580.1|vFam_1015| nucleoprotein [Reston ebolavirus]
+gi|10314000|ref|NP_066243.1|vFam_1015| NP gene product [Ebola virus - Mayinga, Zaire, 1976]
+gi|302371214|ref|YP_003815432.1|vFam_1015| nucleoprotein [Bundibugyo ebolavirus]
+gi|302315370|ref|YP_003815423.1|vFam_1015| NP [Tai Forest ebolavirus]

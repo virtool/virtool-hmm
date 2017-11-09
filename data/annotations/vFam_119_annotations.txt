@@ -1,0 +1,33 @@
+CLUSTER	119
+NUM_SEQ	25
+LENGTH	302
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	154.02
+FAMILIES	{'Baculoviridae': 22}
+GENERA	{'Gammabaculovirus': 1, 'Betabaculovirus': 11, 'Alphabaculovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|48843581|ref|YP_025154.1|vFam_119| glycoprotein 41 [Neodiprion sertifer nucleopolyhedrovirus]
+gi|96979835|ref|YP_611041.1|vFam_119| gp41 [Antheraea pernyi nucleopolyhedrovirus]
+gi|118197544|ref|YP_874256.1|vFam_119| Gp41 [Ectropis obliqua nucleopolyhedrovirus]
+gi|22549505|ref|NP_689278.1|vFam_119| gp41 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|215401479|ref|YP_002332783.1|vFam_119| GP41 [Spodoptera litura nucleopolyhedrovirus II]
+gi|209170980|ref|YP_002268127.1|vFam_119| GP41 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|74229758|ref|YP_308962.1|vFam_119| orf72 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|113195474|ref|YP_717611.1|vFam_119| GP41 [Clanis bilineata nucleopolyhedrovirus]
+gi|9631055|ref|NP_047725.1|vFam_119| Ld-gp41 [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|114679938|ref|YP_758388.1|vFam_119| gp41 [Leucania separata nucleopolyhedrovirus]
+gi|15617544|ref|NP_258344.1|vFam_119| glycoprotein GP41 [Spodoptera litura nucleopolyhedrovirus]
+gi|209401129|ref|YP_002273998.1|vFam_119| occlusion-derived virus glycoprotein [Helicoverpa armigera NPV NNg1]
+gi|29567148|ref|NP_818710.1|vFam_119| GP41 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|32698627|ref|NP_872542.1|vFam_119| gp41 [Adoxophyes orana granulovirus]
+gi|11068090|ref|NP_068306.1|vFam_119| PxORF87 peptide [Plutella xylostella granulovirus]
+gi|46309359|ref|YP_006249.1|vFam_119| ORF95 [Agrotis segetum granulovirus]
+gi|556549124|ref|YP_008720038.1|vFam_119| gp41 [Clostera anastomosis granulovirus]
+gi|410493669|ref|YP_006908607.1|vFam_119| GP41 [Epinotia aporema granulovirus]
+gi|21686762|ref|NP_663262.1|vFam_119| GP41 [Phthorimaea operculella granulovirus]
+gi|109255355|ref|YP_654504.1|vFam_119| GP41 [Choristoneura occidentalis granulovirus]
+gi|288804727|ref|YP_003429412.1|vFam_119| GP41 [Pieris rapae granulovirus]
+gi|33622295|ref|NP_891942.1|vFam_119| gp41 [Cryptophlebia leucotreta granulovirus]
+gi|14602341|ref|NP_148888.1|vFam_119| ORF104 GP41 [Cydia pomonella granulovirus]
+gi|285002400|ref|YP_003422464.1|vFam_119| GP41 [Pseudaletia unipuncta granulovirus]
+gi|148368916|ref|YP_001257046.1|vFam_119| gp41 [Spodoptera litura granulovirus]

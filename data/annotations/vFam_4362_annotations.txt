@@ -1,0 +1,11 @@
+CLUSTER	4362
+NUM_SEQ	3
+LENGTH	282
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	143.82
+FAMILIES	{'Phycodnaviridae': 1}
+GENERA	{'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852581|ref|YP_293865.1|vFam_4362| hypothetical protein EhV111 [Emiliania huxleyi virus 86]
+gi|531035109|ref|YP_008436734.1|vFam_4362| hypothetical protein ps_318 [Pandoravirus salinus]
+gi|526118931|ref|YP_008318834.1|vFam_4362| hypothetical protein [Pandoravirus dulcis]

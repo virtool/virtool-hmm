@@ -1,0 +1,13 @@
+CLUSTER	1179
+NUM_SEQ	5
+LENGTH	353
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	183.56
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631561|ref|NP_048152.1|vFam_1179| ORF MSV081 putative protein phosphatase 2C (PP2C), similar to Mus musculus SW:P36993 [Melanoplus sanguinipes entomopoxvirus]
+gi|506498123|ref|YP_008003920.1|vFam_1179| protein phosphatase 1B [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964433|ref|NP_064901.1|vFam_1179| putative protein phosphatase 2C [Amsacta moorei entomopoxvirus 'L']
+gi|506497847|ref|YP_008003646.1|vFam_1179| protein phosphatase 1B [Mythimna separata entomopoxvirus 'L']
+gi|506498745|ref|YP_008004539.1|vFam_1179| protein phosphatase 1B [Choristoneura rosaceana entomopoxvirus 'L']

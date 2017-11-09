@@ -1,0 +1,11 @@
+CLUSTER	3845
+NUM_SEQ	3
+LENGTH	134
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	69.68
+FAMILIES	{'Polydnaviridae': 3}
+GENERA	{'Bracovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|57753377|ref|YP_184851.1|vFam_3845| hypothetical protein CcBV_19.6 [Cotesia congregata bracovirus]
+gi|57753375|ref|YP_184849.1|vFam_3845| cystatin 2 [Cotesia congregata bracovirus]
+gi|57753372|ref|YP_184846.1|vFam_3845| cystatin 1 [Cotesia congregata bracovirus]

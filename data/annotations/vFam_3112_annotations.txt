@@ -1,0 +1,11 @@
+CLUSTER	3112
+NUM_SEQ	3
+LENGTH	215
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	111.8
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|438000423|ref|YP_007250528.1|vFam_3112| pk-2 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643655|ref|YP_002884345.1|vFam_3112| PK2 [Bombyx mandarina nucleopolyhedrovirus]
+gi|23577899|ref|NP_703110.1|vFam_3112| protein kinase - 2 [Rachiplusia ou MNPV]

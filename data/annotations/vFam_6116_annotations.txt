@@ -1,0 +1,10 @@
+CLUSTER	6116
+NUM_SEQ	2
+LENGTH	49
+RELATIVE_ENTROPY_PER_POSITION	1.07
+TOTAL_RELATIVE_ENTROPY	52.43
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281851|ref|YP_003331502.1|vFam_6116| hypothetical protein SSSV7_gp19 [Sulfolobus spindle-shaped virus 7]
+gi|270281818|ref|YP_003331469.1|vFam_6116| hypothetical protein SSSV6_gp19 [Sulfolobus spindle-shaped virus 6]

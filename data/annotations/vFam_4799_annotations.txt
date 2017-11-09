@@ -1,0 +1,11 @@
+CLUSTER	4799
+NUM_SEQ	3
+LENGTH	165
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	84.15
+FAMILIES	{'Flaviviridae': 2}
+GENERA	{'Hepacivirus': 1, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|157781218|ref|YP_001491549.1|vFam_4799| C [Hepatitis C virus genotype 3]
+gi|485191033|ref|YP_007905984.1|vFam_4799| core protein [Rodent hepacivirus]
+gi|26251694|ref|NP_757352.1|vFam_4799| putative core protein [Hepatitis GB virus B]

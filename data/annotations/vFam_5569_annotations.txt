@@ -1,0 +1,10 @@
+CLUSTER	5569
+NUM_SEQ	2
+LENGTH	197
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	100.47
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 1, 'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182042|ref|YP_008052561.1|vFam_5569| HNH endonuclease [Phaeocystis globosa virus]
+gi|13242488|ref|NP_077501.1|vFam_5569| EsV-1-16 [Ectocarpus siliculosus virus 1]

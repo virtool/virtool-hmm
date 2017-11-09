@@ -1,0 +1,12 @@
+CLUSTER	309
+NUM_SEQ	4
+LENGTH	529
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	269.79
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Muromegalovirus': 1, 'Roseolovirus': 2, 'Cytomegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9633124|ref|NP_050234.1|vFam_309| proteinase [Human herpesvirus 6B]
+gi|51874275|ref|YP_073793.1|vFam_309| capsid maturation protease [Human herpesvirus 7]
+gi|360086558|ref|YP_004940243.1|vFam_309| capsid maturation protease [Saimiriine herpesvirus 3]
+gi|425707281|ref|YP_007016478.1|vFam_309| E80 [Murid herpesvirus 8]

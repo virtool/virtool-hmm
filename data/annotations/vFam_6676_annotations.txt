@@ -1,0 +1,10 @@
+CLUSTER	6676
+NUM_SEQ	2
+LENGTH	58
+RELATIVE_ENTROPY_PER_POSITION	0.90
+TOTAL_RELATIVE_ENTROPY	52.2
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|114680172|ref|YP_758585.1|vFam_6676| hypothetical protein PXMNV_gp119 [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|9630921|ref|NP_047518.1|vFam_6676| AcMNPV orf121 [Bombyx mori nucleopolyhedrovirus]

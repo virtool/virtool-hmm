@@ -1,0 +1,11 @@
+CLUSTER	3733
+NUM_SEQ	3
+LENGTH	74
+RELATIVE_ENTROPY_PER_POSITION	0.70
+TOTAL_RELATIVE_ENTROPY	51.8
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281844|ref|YP_003331510.1|vFam_3733| hypothetical protein SSSV7_gp27 [Sulfolobus spindle-shaped virus 7]
+gi|42494957|ref|NP_963955.1|vFam_3733| ORF B74 [Sulfolobus virus Ragged Hills]
+gi|42494958|ref|NP_963956.1|vFam_3733| ORF C82 [Sulfolobus virus Ragged Hills]

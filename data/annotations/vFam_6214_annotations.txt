@@ -1,0 +1,10 @@
+CLUSTER	6214
+NUM_SEQ	2
+LENGTH	164
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	85.28
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|171473704|ref|YP_001798574.1|vFam_6214| hypothetical protein AFV9_gp56 [Acidianus filamentous virus 9]
+gi|162329534|ref|YP_001604333.1|vFam_6214| hypothetical protein AFV8_gp52 [Acidianus filamentous virus 8]

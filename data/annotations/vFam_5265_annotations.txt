@@ -1,0 +1,10 @@
+CLUSTER	5265
+NUM_SEQ	2
+LENGTH	273
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	141.96
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|359946434|ref|YP_004935967.1|vFam_5265| membrane protein RL11A [Cercopithecine herpesvirus 5]
+gi|356640299|ref|YP_004933741.1|vFam_5265| membrane glycoprotein RL11 [Cynomolgus macaque cytomegalovirus strain Ottawa]

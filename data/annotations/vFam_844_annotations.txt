@@ -1,0 +1,12 @@
+CLUSTER	844
+NUM_SEQ	4
+LENGTH	206
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	103.0
+FAMILIES	{'Adenoviridae': 2, 'None': 1}
+GENERA	{'None': 1, 'Aviadenovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|370703020|ref|YP_004956822.1|vFam_844| orf74 gene product [Helicoverpa zea nudivirus 2]
+gi|388570702|ref|YP_006383576.1|vFam_844| protein ORF56 [Goose adenovirus 4]
+gi|555928247|ref|YP_008719878.1|vFam_844| ORF11 [Turkey adenovirus 5]
+gi|320202776|ref|YP_004191843.1|vFam_844| ORF11 [Fowl adenovirus E]

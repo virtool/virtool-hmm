@@ -1,0 +1,14 @@
+CLUSTER	1961
+NUM_SEQ	6
+LENGTH	472
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	245.44
+FAMILIES	{'Partitiviridae': 6}
+GENERA	{'None': 6}
+FASTA SEQUENCE TITLES:
+gi|218148635|ref|YP_002364401.1|vFam_1961| putative RNA-dependent RNA polymerase [Raphanus sativus cryptic virus 3]
+gi|389581809|ref|YP_006390091.1|vFam_1961| RNA dependent RNA polymerase [Persimmon cryptic virus]
+gi|332290647|ref|YP_004429258.1|vFam_1961| RNA-dependent RNA polymerase [Fig cryptic virus]
+gi|167832332|ref|YP_001686783.1|vFam_1961| putative RNA dependent RNA polymerse [Raphanus sativus cryptic virus 2]
+gi|167832340|ref|YP_001686786.1|vFam_1961| RNA-dependent RNA polymerase [Rose cryptic virus 1]
+gi|148641519|ref|YP_001274391.1|vFam_1961| RNA-dependent RNA polymerase [Fragaria chiloensis cryptic virus]

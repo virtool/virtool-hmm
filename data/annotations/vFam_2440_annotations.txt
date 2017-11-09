@@ -1,0 +1,13 @@
+CLUSTER	2440
+NUM_SEQ	5
+LENGTH	151
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	77.01
+FAMILIES	{'Phycodnaviridae': 5}
+GENERA	{'Chlorovirus': 4, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852493|ref|YP_293777.1|vFam_2440| putative deoxycytidylate deaminase [Emiliania huxleyi virus 86]
+gi|155370644|ref|YP_001426178.1|vFam_2440| hypothetical protein FR483_N546L [Paramecium bursaria Chlorella virus FR483]
+gi|155371563|ref|YP_001427097.1|vFam_2440| hypothetical protein ATCV1_Z616L [Acanthocystis turfacea Chlorella virus 1]
+gi|157953908|ref|YP_001498799.1|vFam_2440| hypothetical protein AR158_C718R [Paramecium bursaria Chlorella virus AR158]
+gi|9632136|ref|NP_048952.1|vFam_2440| hypothetical protein [Paramecium bursaria Chlorella virus 1]

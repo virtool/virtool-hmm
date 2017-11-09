@@ -1,0 +1,11 @@
+CLUSTER	4524
+NUM_SEQ	3
+LENGTH	205
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	104.55
+FAMILIES	{'None': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|370702999|ref|YP_004956801.1|vFam_4524| orf53 gene product [Helicoverpa zea nudivirus 2]
+gi|213159375|ref|YP_002321418.1|vFam_4524| pif-3 [Oryctes rhinoceros virus]
+gi|134303401|ref|YP_001111270.1|vFam_4524| per os infectivity factor 3 [Gryllus bimaculatus nudivirus]

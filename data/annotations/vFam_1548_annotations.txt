@@ -1,0 +1,11 @@
+CLUSTER	1548
+NUM_SEQ	3
+LENGTH	391
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	199.41
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531037178|ref|YP_008438820.1|vFam_1548| hypothetical protein ps_2418 [Pandoravirus salinus]
+gi|531037154|ref|YP_008438796.1|vFam_1548| hypothetical protein ps_2394 [Pandoravirus salinus]
+gi|531036217|ref|YP_008437853.1|vFam_1548| hypothetical protein ps_1442 [Pandoravirus salinus]

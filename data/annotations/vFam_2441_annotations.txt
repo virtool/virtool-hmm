@@ -1,0 +1,12 @@
+CLUSTER	2441
+NUM_SEQ	4
+LENGTH	90
+RELATIVE_ENTROPY_PER_POSITION	0.57
+TOTAL_RELATIVE_ENTROPY	51.3
+FAMILIES	{'None': 1, 'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 3}
+FASTA SEQUENCE TITLES:
+gi|311977445|ref|YP_003986564.1|vFam_2441| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448826045|ref|YP_007418976.1|vFam_2441| hypothetical protein LBA_01082 [Megavirus lba]
+gi|441432798|ref|YP_007354840.1|vFam_2441| hypothetical protein Moumou_00889 [Acanthamoeba polyphaga moumouvirus]
+gi|363540786|ref|YP_004895065.1|vFam_2441| mg1014 gene product [Megavirus chiliensis]

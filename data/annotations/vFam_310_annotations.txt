@@ -1,0 +1,29 @@
+CLUSTER	310
+NUM_SEQ	21
+LENGTH	140
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	72.8
+FAMILIES	{'Poxviridae': 19}
+GENERA	{'None': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Betaentomopoxvirus': 2, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Suipoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Yatapoxvirus': 2, 'Parapoxvirus': 2, 'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9631353|ref|NP_048203.1|vFam_310| ORF MSV132 putative Amsacta moorei entomopoxvirus G4R homolog (vaccinia A28L), similar to SW:P29816 [Melanoplus sanguinipes entomopoxvirus]
+gi|506498178|ref|YP_008003975.1|vFam_310| IMV MP/virus entry (Cop-A28L) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497938|ref|YP_008003737.1|vFam_310| IMV MP/virus entry (Cop-A28L) [Mythimna separata entomopoxvirus 'L']
+gi|312490910|ref|NP_064968.2|vFam_310| viral replication protein A28-like [Amsacta moorei entomopoxvirus 'L']
+gi|506498500|ref|YP_008004296.1|vFam_310| IMV MP/virus entry (Cop-A28L) [Choristoneura biennis entomopoxvirus 'L']
+gi|41057541|ref|NP_958014.1|vFam_310| ORF105 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183870|ref|YP_003457411.1|vFam_310| IMV surface protein [Pseudocowpox virus]
+gi|113195329|ref|YP_717459.1|vFam_310| IMV membrane protein [Taterapox virus]
+gi|345107320|ref|YP_004821485.1|vFam_310| virion surface protein [Yoka poxvirus]
+gi|377830022|ref|YP_005296323.1|vFam_310| unnamed protein product [Cotia virus SPAn232]
+gi|148912995|ref|YP_001293309.1|vFam_310| hypothetical protein GTPV_gp113 [Goatpox virus Pellor]
+gi|157939741|ref|YP_001497113.1|vFam_310| viral replication A28-like protein [Tanapox virus]
+gi|38229280|ref|NP_938373.1|vFam_310| 118L [Yaba monkey tumor virus]
+gi|9633926|ref|NP_052005.1|vFam_310| gp116L [Rabbit fibroma virus]
+gi|211956398|ref|YP_002302467.1|vFam_310| hypothetical protein DpV84gp127 [Deerpox virus W-1170-84]
+gi|18640201|ref|NP_570275.1|vFam_310| SPV115 hypothetical protein [Swinepox virus]
+gi|9629066|ref|NP_044085.1|vFam_310| MC134L [Molluscum contagiosum virus subtype 1]
+gi|571798043|ref|YP_008658542.1|vFam_310| IMV surface protein [Squirrelpox virus]
+gi|115531813|ref|YP_784339.1|vFam_310| IMV membrane protein [Nile crocodilepox virus]
+gi|40556204|ref|NP_955289.1|vFam_310| CNPV266 conserved hypothetical protein [Canarypox virus]
+gi|9634862|ref|NP_039155.1|vFam_310| hypothetical protein FPV192 [Fowlpox virus]

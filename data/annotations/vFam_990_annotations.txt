@@ -1,0 +1,18 @@
+CLUSTER	990
+NUM_SEQ	10
+LENGTH	99
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	51.48
+FAMILIES	{'Anelloviridae': 10}
+GENERA	{'Betatorquevirus': 9, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|470457051|ref|YP_007518449.1|vFam_990| hypothetical protein [TTV-like mini virus]
+gi|295441878|ref|YP_003587892.1|vFam_990| hypothetical protein TTMV5_gp1 [Torque teno mini virus 5]
+gi|295413983|ref|YP_003587883.1|vFam_990| hypothetical protein TTMV2_gp1 [Torque teno mini virus 2]
+gi|295441909|ref|YP_003587915.1|vFam_990| hypothetical protein TTMV1_gp1 [Torque teno mini virus 1]
+gi|295441874|ref|YP_003587889.1|vFam_990| hypothetical protein TTMV3_gp1 [Torque teno mini virus 3]
+gi|295441882|ref|YP_003587895.1|vFam_990| hypothetical protein TTMV4_gp1 [Torque teno mini virus 4]
+gi|295413916|ref|YP_003587825.1|vFam_990| ORF2 [Torque teno mini virus 8]
+gi|9634958|ref|NP_054655.1|vFam_990| ORF2 [Torque teno mini virus 9]
+gi|295441902|ref|YP_003587910.1|vFam_990| hypothetical protein TTMV6_gp1 [Torque teno mini virus 6]
+gi|295413966|ref|YP_003587870.1|vFam_990| hypothetical protein TTMV7_gp1 [Torque teno mini virus 7]

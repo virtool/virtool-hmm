@@ -1,0 +1,23 @@
+CLUSTER	410
+NUM_SEQ	15
+LENGTH	349
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	184.97
+FAMILIES	{'Herpesviridae': 15}
+GENERA	{'Muromegalovirus': 3, 'Cytomegalovirus': 7, 'Proboscivirus': 1, 'Roseolovirus': 2, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|496991173|ref|YP_007969775.1|vFam_410| envelope glycoprotein M [Elephantid herpesvirus 1]
+gi|538447269|ref|YP_008493009.1|vFam_410| glycoprotein M [Porcine cytomegalovirus]
+gi|9633141|ref|NP_050251.1|vFam_410| glycoprotein M [Human herpesvirus 6B]
+gi|51874294|ref|YP_073812.1|vFam_410| envelope glycoprotein M [Human herpesvirus 7]
+gi|9845387|ref|NP_064201.1|vFam_410| pR100 [Murid herpesvirus 2]
+gi|425707300|ref|YP_007016497.1|vFam_410| E100 [Murid herpesvirus 8]
+gi|61660210|ref|YP_214101.1|vFam_410| Glycoprotein M or integral membrane protein [Murid herpesvirus 1]
+gi|359946533|ref|YP_004936066.1|vFam_410| envelope glycoprotein M [Cercopithecine herpesvirus 5]
+gi|356640436|ref|YP_004933878.1|vFam_410| glycoprotein UL100 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139272|ref|YP_081547.1|vFam_410| envelope glycoprotein M [Human herpesvirus 5]
+gi|20026690|ref|NP_612732.1|vFam_410| envelope glycoprotein M [Panine herpesvirus 2]
+gi|360086577|ref|YP_004940262.1|vFam_410| envelope glycoprotein M [Saimiriine herpesvirus 3]
+gi|360040981|ref|YP_004940116.1|vFam_410| envelope glycoprotein M [Aotine herpesvirus 1]
+gi|448824935|ref|YP_007417867.1|vFam_410| GP100 [Caviid herpesvirus 2]
+gi|14251086|ref|NP_116448.1|vFam_410| T100 [Tupaiid herpesvirus 1]

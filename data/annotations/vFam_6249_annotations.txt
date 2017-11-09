@@ -1,0 +1,10 @@
+CLUSTER	6249
+NUM_SEQ	2
+LENGTH	113
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	58.76
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Roseolovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9633152|ref|NP_050262.1|vFam_6249| Intercrine cytokine [Human herpesvirus 6B]
+gi|9628385|ref|NP_042976.1|vFam_6249| chemokine U83 [Human herpesvirus 6A]

@@ -1,0 +1,13 @@
+CLUSTER	1856
+NUM_SEQ	5
+LENGTH	178
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	89.0
+FAMILIES	{'Herpesviridae': 1, 'Iridoviridae': 2, 'Poxviridae': 1}
+GENERA	{'Lymphocystivirus': 2, 'Cytomegalovirus': 1, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|538447282|ref|YP_008493022.1|vFam_1856| putative protein U89 [Porcine cytomegalovirus]
+gi|114679873|ref|YP_758323.1|vFam_1856| ORF26 [Leucania separata nucleopolyhedrovirus]
+gi|9631529|ref|NP_048101.1|vFam_1856| ORF MSV030 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|51870010|ref|YP_073563.1|vFam_1856| hypothetical protein LDVICp056 [Lymphocystis disease virus - isolate China]
+gi|13358465|ref|NP_078732.1|vFam_1856| hypothetical protein LCDV1gp079 [Lymphocystis disease virus 1]

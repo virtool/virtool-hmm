@@ -1,0 +1,12 @@
+CLUSTER	3212
+NUM_SEQ	4
+LENGTH	227
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	115.77
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Iridovirus': 2, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15079062|ref|NP_149813.1|vFam_3212| 350L [Invertebrate iridescent virus 6]
+gi|109287904|ref|YP_654598.1|vFam_3212| hypothetical protein MIV026R [Invertebrate iridescent virus 3]
+gi|527333576|ref|YP_008357360.1|vFam_3212| hypothetical protein IIV22_062R [Invertebrate iridovirus 22]
+gi|339906177|ref|YP_004732974.1|vFam_3212| hypothetical protein WIV_gp191 [Wiseana iridescent virus]

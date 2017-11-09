@@ -1,0 +1,11 @@
+CLUSTER	4069
+NUM_SEQ	3
+LENGTH	132
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	69.96
+FAMILIES	{'None': 2}
+GENERA	{'Benyvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|524005187|ref|YP_008219068.1|vFam_4069| third triple-gene-block protein [Burdock mottle virus]
+gi|19919959|ref|NP_612592.1|vFam_4069| 15KDa protein [Beet soil-borne mosaic virus]
+gi|19919913|ref|NP_612619.1|vFam_4069| 15k transport protein [Beet necrotic yellow vein virus]

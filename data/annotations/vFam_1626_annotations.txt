@@ -1,0 +1,10 @@
+CLUSTER	1626
+NUM_SEQ	2
+LENGTH	809
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	412.59
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825226|ref|YP_007418157.1|vFam_1626| putative bifunctional metalloprotease/ubiquitin-protein ligase [Megavirus lba]
+gi|441432143|ref|YP_007354185.1|vFam_1626| Zinc-dependent metalloprotease domain containing protein [Acanthamoeba polyphaga moumouvirus]

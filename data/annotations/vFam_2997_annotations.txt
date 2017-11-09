@@ -1,0 +1,11 @@
+CLUSTER	2997
+NUM_SEQ	3
+LENGTH	195
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	99.45
+FAMILIES	{'Caulimoviridae': 3}
+GENERA	{'Soymovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|11344954|ref|NP_068726.1|vFam_2997| hypothetical protein SbCMVgp2 [Soybean chlorotic mottle virus]
+gi|32306486|ref|NP_861407.1|vFam_2997| putative aphid transmission factor [Cestrum yellow leaf curling virus]
+gi|21263122|ref|NP_395466.2|vFam_2997| hypothetical protein [Blueberry red ringspot virus]

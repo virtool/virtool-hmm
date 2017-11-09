@@ -1,0 +1,10 @@
+CLUSTER	5285
+NUM_SEQ	2
+LENGTH	135
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	70.2
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409759|ref|YP_004347179.1|vFam_5285| putative RING finger E3 ubiquitin ligase [Lausannevirus]
+gi|284504232|ref|YP_003406947.1|vFam_5285| RING finger E3 ubiquitin protein ligase [Marseillevirus]

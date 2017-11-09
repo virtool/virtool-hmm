@@ -1,0 +1,17 @@
+CLUSTER	622
+NUM_SEQ	9
+LENGTH	543
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	287.79
+FAMILIES	{'None': 2, 'Mimiviridae': 7}
+GENERA	{'None': 6, 'Mimivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|363539781|ref|YP_004894865.1|vFam_622| mg814 gene product [Megavirus chiliensis]
+gi|311978075|ref|YP_003987195.1|vFam_622| putative serine/threonine-protein kinase [Acanthamoeba polyphaga mimivirus]
+gi|441432663|ref|YP_007354705.1|vFam_622| cyclin-domain fused to serine-threonine kinase [Acanthamoeba polyphaga moumouvirus]
+gi|448825825|ref|YP_007418756.1|vFam_622| putative serine/threonine-protein kinase [Megavirus lba]
+gi|441432665|ref|YP_007354707.1|vFam_622| cyclin-domain fused to serine-threonine kinase [Acanthamoeba polyphaga moumouvirus]
+gi|311978072|ref|YP_003987192.1|vFam_622| putative serine/threonine-protein kinase [Acanthamoeba polyphaga mimivirus]
+gi|311977646|ref|YP_003986766.1|vFam_622| putative serine/threonine-protein kinase [Acanthamoeba polyphaga mimivirus]
+gi|448825136|ref|YP_007418067.1|vFam_622| putative serine/threonine-protein kinase [Megavirus lba]
+gi|441432065|ref|YP_007354107.1|vFam_622| cyclin domain fused to cyclin-dependent serine/threonine protein kinase [Acanthamoeba polyphaga moumouvirus]

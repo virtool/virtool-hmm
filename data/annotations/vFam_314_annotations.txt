@@ -1,0 +1,19 @@
+CLUSTER	314
+NUM_SEQ	11
+LENGTH	2248
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	1191.44
+FAMILIES	{'Bunyaviridae': 7, 'None': 2}
+GENERA	{'Emaravirus': 2, 'Orthobunyavirus': 7}
+FASTA SEQUENCE TITLES:
+gi|554505421|ref|YP_008709776.1|vFam_314| RNA-dependent RNA polymerase [Murrumbidgee virus]
+gi|22256024|ref|NP_671968.1|vFam_314| RNA-dependent RNA polymerase [La Crosse virus]
+gi|9630657|ref|NP_047211.1|vFam_314| hypothetical protein BUNVsLgp1 [Bunyamwera virus]
+gi|530323626|ref|YP_008400138.1|vFam_314| polymerase [Brazoran virus]
+gi|44965094|ref|NP_982304.1|vFam_314| RNA polymerase [Oropouche virus]
+gi|401829620|ref|YP_006590079.1|vFam_314| RNA-dependent RNA polymerase [Aino virus]
+gi|401829626|ref|YP_006590082.1|vFam_314| RNA-dependent RNA polymerase [Simbu virus]
+gi|401829615|ref|YP_006590076.1|vFam_314| RNA-dependent RNA polymerase [Shamonda virus]
+gi|157939616|ref|YP_001497159.1|vFam_314| RNA-dependent RNA polymerase [Akabane virus]
+gi|326910943|ref|YP_004327589.1|vFam_314| RNA-dependent RNA-polymerase p1 [Rose rosette virus]
+gi|270358327|ref|YP_003104764.1|vFam_314| RNA-dependent RNA polymerase [European mountain ash ringspot-associated virus]

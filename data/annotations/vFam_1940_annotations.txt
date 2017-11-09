@@ -1,0 +1,13 @@
+CLUSTER	1940
+NUM_SEQ	5
+LENGTH	268
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	139.36
+FAMILIES	{'None': 1, 'Phycodnaviridae': 4}
+GENERA	{'None': 2, 'Prymnesiovirus': 1, 'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|310831063|ref|YP_003969706.1|vFam_1940| putative DNA N6-adenine methyltransferase [Cafeteria roenbergensis virus BV-PW1]
+gi|157953677|ref|YP_001498568.1|vFam_1940| hypothetical protein AR158_C487L [Paramecium bursaria Chlorella virus AR158]
+gi|157952663|ref|YP_001497555.1|vFam_1940| hypothetical protein NY2A_B359R [Paramecium bursaria Chlorella virus NY2A]
+gi|508181814|ref|YP_008052333.1|vFam_1940| type II DNA modification enzyme [Phaeocystis globosa virus]
+gi|163955097|ref|YP_001648201.1|vFam_1940| hypothetical protein OsV5_124f [Ostreococcus virus OsV5]

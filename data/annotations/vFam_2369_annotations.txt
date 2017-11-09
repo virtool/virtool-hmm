@@ -1,0 +1,12 @@
+CLUSTER	2369
+NUM_SEQ	4
+LENGTH	402
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	209.04
+FAMILIES	{'Secoviridae': 3}
+GENERA	{'Fabavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|564614872|ref|YP_008877672.1|vFam_2369| large coat protein [Lamium mild mosaic virus]
+gi|25013976|ref|NP_733956.1|vFam_2369| large capsid protein [Broad bean wilt virus 2]
+gi|197725708|ref|YP_002158826.1|vFam_2369| unnamed protein product [Mikania micrantha mosaic virus]
+gi|39979437|ref|NP_951024.1|vFam_2369| large capsid protein [Broad bean wilt virus 1]

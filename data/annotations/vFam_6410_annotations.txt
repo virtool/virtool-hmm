@@ -1,0 +1,10 @@
+CLUSTER	6410
+NUM_SEQ	2
+LENGTH	126
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	65.52
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313768396|ref|YP_004062076.1|vFam_6410| hypothetical protein MpV1_193 [Micromonas sp. RCC1109 virus MpV1]
+gi|313768395|ref|YP_004062075.1|vFam_6410| hypothetical protein MpV1_192 [Micromonas sp. RCC1109 virus MpV1]

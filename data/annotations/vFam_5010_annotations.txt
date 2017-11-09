@@ -1,0 +1,10 @@
+CLUSTER	5010
+NUM_SEQ	2
+LENGTH	110
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	56.1
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|356640526|ref|YP_004933968.1|vFam_5010| hypothetical protein cy223 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556646|ref|YP_068280.1|vFam_5010| rh191 [Macacine herpesvirus 3]

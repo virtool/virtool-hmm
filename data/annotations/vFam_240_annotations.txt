@@ -1,0 +1,33 @@
+CLUSTER	240
+NUM_SEQ	25
+LENGTH	98
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	52.92
+FAMILIES	{'Baculoviridae': 20}
+GENERA	{'Alphabaculovirus': 20}
+FASTA SEQUENCE TITLES:
+gi|209401180|ref|YP_002274049.1|vFam_240| hypothetical protein HaSNPVNNg1_gp126 [Helicoverpa armigera NPV NNg1]
+gi|438000430|ref|YP_007250535.1|vFam_240| gp16 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964633|ref|YP_950829.1|vFam_240| gp16 [Maruca vitrata nucleopolyhedrovirus]
+gi|15320772|ref|NP_203284.1|vFam_240| GP16 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|96979795|ref|YP_610998.1|vFam_240| gp16 [Antheraea pernyi nucleopolyhedrovirus]
+gi|571031223|ref|YP_008992119.1|vFam_240| gp16 [Choristoneura murinana alphabaculovirus]
+gi|529153340|ref|YP_008378380.1|vFam_240| GP16 [Choristoneura rosaceana alphabaculovirus]
+gi|9630066|ref|NP_046284.1|vFam_240| gp16 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|86355546|ref|YP_473214.1|vFam_240| GP16 [Hyphantria cunea nucleopolyhedrovirus]
+gi|116326194|ref|YP_803520.1|vFam_240| hypothetical protein AGNV_gp126 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|228861728|ref|YP_002854748.1|vFam_240| gp16 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|74229810|ref|YP_309014.1|vFam_240| orf125 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304269|ref|YP_249737.1|vFam_240| GP16 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|125860136|ref|YP_001036305.1|vFam_240| gp16 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|22549412|ref|NP_689185.1|vFam_240| gp16 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|215401406|ref|YP_002332709.1|vFam_240| GP16 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634230|ref|NP_037769.1|vFam_240| ORF9 gp16 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209170898|ref|YP_002268044.1|vFam_240| GP16 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592727|ref|YP_529680.1|vFam_240| GP16 [Agrotis segetum nucleopolyhedrovirus]
+gi|529218170|ref|YP_008378333.1|vFam_240| gp16 [Hemileuca sp. nucleopolyhedrovirus]
+gi|165969128|ref|YP_001651028.1|vFam_240| gp16 [Orgyia leucostigma NPV]
+gi|402502201|ref|YP_006607859.1|vFam_240| GP16 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|118197580|ref|YP_874292.1|vFam_240| Gp16 [Ectropis obliqua nucleopolyhedrovirus]
+gi|113195513|ref|YP_717651.1|vFam_240| GP16 [Clanis bilineata nucleopolyhedrovirus]
+gi|209978873|ref|YP_002300616.1|vFam_240| GP16 [Adoxophyes orana nucleopolyhedrovirus]

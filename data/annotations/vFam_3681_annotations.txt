@@ -1,0 +1,12 @@
+CLUSTER	3681
+NUM_SEQ	4
+LENGTH	142
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	72.42
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Atadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|160700576|ref|YP_001552266.1|vFam_3681| unnamed protein product [Snake adenovirus 1]
+gi|21450909|ref|NP_659532.1|vFam_3681| E4.1 [Ovine adenovirus D]
+gi|440382986|ref|YP_007347017.1|vFam_3681| E4.1 [Bovine adenovirus 6]
+gi|13242712|ref|NP_077407.1|vFam_3681| E4.1 [Bovine adenovirus D]

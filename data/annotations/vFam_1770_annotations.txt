@@ -1,0 +1,13 @@
+CLUSTER	1770
+NUM_SEQ	5
+LENGTH	203
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	103.53
+FAMILIES	{'Adenoviridae': 5}
+GENERA	{'Mastadenovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|197944795|ref|YP_002213822.1|vFam_1770| membrane glycoprotein E3 CR1-beta [Human adenovirus B]
+gi|197944752|ref|YP_002213789.1|vFam_1770| membrane glycoprotein E3 CR1-beta [Human adenovirus B]
+gi|56160620|ref|AP_000285.1|vFam_1770| E3 CR1-beta1 [Simian adenovirus 21]
+gi|56160659|ref|AP_000323.1|vFam_1770| E3 CR1-beta1 [Simian adenovirus 25]
+gi|51527289|ref|YP_068042.1|vFam_1770| membrane glycoprotein E3 CR1-beta [Human adenovirus E]

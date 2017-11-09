@@ -1,0 +1,10 @@
+CLUSTER	2756
+NUM_SEQ	2
+LENGTH	71
+RELATIVE_ENTROPY_PER_POSITION	0.74
+TOTAL_RELATIVE_ENTROPY	52.54
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825579|ref|YP_007418510.1|vFam_2756| hypothetical protein LBA_00616 [Megavirus lba]
+gi|311977691|ref|YP_003986811.1|vFam_2756| hypothetical protein [Acanthamoeba polyphaga mimivirus]

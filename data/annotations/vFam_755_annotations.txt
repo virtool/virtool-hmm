@@ -1,0 +1,19 @@
+CLUSTER	755
+NUM_SEQ	11
+LENGTH	430
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	215.0
+FAMILIES	{'Coronaviridae': 10}
+GENERA	{'None': 1, 'Betacoronavirus': 9}
+FASTA SEQUENCE TITLES:
+gi|56807330|ref|YP_173242.1|vFam_755| nucleocapsid phosphoprotein [Human coronavirus HKU1]
+gi|60115400|ref|YP_209238.1|vFam_755| nucleocapsid protein (N) [Murine hepatitis virus strain JHM]
+gi|167600363|ref|YP_001672005.1|vFam_755| nucleocapsid protein [Equine coronavirus]
+gi|85718623|ref|YP_459957.1|vFam_755| nucleocapsid protein [Porcine hemagglutinating encephalomyelitis virus]
+gi|126030138|ref|YP_001039975.1|vFam_755| nucleocapsid phosphoprotein [Bat coronavirus HKU9]
+gi|304633684|ref|YP_003858591.1|vFam_755| nucleocapsid [Bat coronavirus BM48-31/BGR/2008]
+gi|29836503|ref|NP_828858.1|vFam_755| nucleocapsid protein [SARS coronavirus]
+gi|556333871|ref|YP_008719940.1|vFam_755| N [Betacoronavirus Erinaceus/VMC/DEU/2012]
+gi|429535813|ref|YP_007188586.1|vFam_755| N protein [Betacoronavirus England 1]
+gi|126030131|ref|YP_001039969.1|vFam_755| nucleocapsid phosphoprotein [Bat coronavirus HKU5]
+gi|113882965|ref|YP_729209.1|vFam_755| nucleocapsid protein [Bat coronavirus (BtCoV/133/2005)]

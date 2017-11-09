@@ -1,0 +1,10 @@
+CLUSTER	5987
+NUM_SEQ	2
+LENGTH	196
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	98.0
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159312|ref|YP_002321355.1|vFam_5987| GrBNV_gp97-like protein [Oryctes rhinoceros virus]
+gi|134303495|ref|YP_001111364.1|vFam_5987| hypothetical protein GrBNV_gp97 [Gryllus bimaculatus nudivirus]

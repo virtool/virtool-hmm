@@ -1,0 +1,16 @@
+CLUSTER	1056
+NUM_SEQ	8
+LENGTH	158
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	83.74
+FAMILIES	{'Poxviridae': 8}
+GENERA	{'None': 1, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Capripoxvirus': 1, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9633973|ref|NP_051982.1|vFam_1056| gp093L [Rabbit fibroma virus]
+gi|9633729|ref|NP_051807.1|vFam_1056| m93L [Myxoma virus]
+gi|377830077|ref|YP_005296300.1|vFam_1056| unnamed protein product [Cotia virus SPAn232]
+gi|18640178|ref|NP_570252.1|vFam_1056| SPV092 putative virion core protein virion morphogenesis [Swinepox virus]
+gi|148912972|ref|YP_001293286.1|vFam_1056| hypothetical protein GTPV_gp091 [Goatpox virus Pellor]
+gi|211956375|ref|YP_002302444.1|vFam_1056| Virion core protein [Deerpox virus W-1170-84]
+gi|157939718|ref|YP_001497090.1|vFam_1056| virion core protein [Tanapox virus]
+gi|38229257|ref|NP_938350.1|vFam_1056| 95L [Yaba monkey tumor virus]

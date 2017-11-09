@@ -1,0 +1,27 @@
+CLUSTER	299
+NUM_SEQ	19
+LENGTH	376
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	191.76
+FAMILIES	{'Baculoviridae': 16}
+GENERA	{'Alphabaculovirus': 16}
+FASTA SEQUENCE TITLES:
+gi|15617596|ref|NP_258396.1|vFam_299| 38.7 kDa protein [Spodoptera litura nucleopolyhedrovirus]
+gi|114679996|ref|YP_758446.1|vFam_299| 38.7 kDa protein [Leucania separata nucleopolyhedrovirus]
+gi|209978896|ref|YP_002300639.1|vFam_299| 38.7 kDa protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|29567210|ref|NP_818772.1|vFam_299| hypothetical protein AhnVgp125 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|18138315|ref|NP_542750.1|vFam_299| ORF127 [Helicoverpa zea single nucleopolyhedrovirus]
+gi|113195522|ref|YP_717660.1|vFam_299| 38.7K protein [Clanis bilineata nucleopolyhedrovirus]
+gi|165969143|ref|YP_001651043.1|vFam_299| 38.7K [Orgyia leucostigma NPV]
+gi|228861717|ref|YP_002854737.1|vFam_299| 38.7K protein [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|118197605|ref|YP_874318.1|vFam_299| 38.7K [Ectropis obliqua nucleopolyhedrovirus]
+gi|74229814|ref|YP_309018.1|vFam_299| orf129 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304273|ref|YP_249741.1|vFam_299| 38.7 K protein [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|20069915|ref|NP_613119.1|vFam_299| 38.7 kDa protein [Mamestra configurata nucleopolyhedrovirus A]
+gi|209170905|ref|YP_002268051.1|vFam_299| 38.7K protein [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592733|ref|YP_529686.1|vFam_299| 38.7K protein [Agrotis segetum nucleopolyhedrovirus]
+gi|125860140|ref|YP_001036309.1|vFam_299| 38.7 kDa protein [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401410|ref|YP_002332713.1|vFam_299| 38.7 kDa protein [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634234|ref|NP_037773.1|vFam_299| ORF13 38.7kD [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|529218189|ref|YP_008378352.1|vFam_299| ac13 [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502114|ref|YP_006607772.1|vFam_299| 38.7K protein [Apocheima cinerarium nucleopolyhedrovirus]

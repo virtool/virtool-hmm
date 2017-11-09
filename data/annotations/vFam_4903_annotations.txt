@@ -1,0 +1,11 @@
+CLUSTER	4903
+NUM_SEQ	3
+LENGTH	222
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	113.22
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977954|ref|YP_003987074.1|vFam_4903| uncharacterized HTH-type transcriptional regulator [Acanthamoeba polyphaga mimivirus]
+gi|448825670|ref|YP_007418601.1|vFam_4903| putative HTH-type transcriptional regulator [Megavirus lba]
+gi|441432518|ref|YP_007354560.1|vFam_4903| Helix-turn-helix XRE-family like protein [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,12 @@
+CLUSTER	3559
+NUM_SEQ	4
+LENGTH	155
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	80.6
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|118197510|ref|YP_874221.1|vFam_3559| hypothetical protein EONV_gp028 [Ectropis obliqua nucleopolyhedrovirus]
+gi|438000365|ref|YP_007250470.1|vFam_3559| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964581|ref|YP_950777.1|vFam_3559| Mv-ORF47 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|23577923|ref|NP_703053.1|vFam_3559| hypothetical protein [Rachiplusia ou MNPV]

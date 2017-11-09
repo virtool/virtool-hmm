@@ -1,0 +1,15 @@
+CLUSTER	776
+NUM_SEQ	7
+LENGTH	470
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	249.1
+FAMILIES	{'None': 1, 'Rhabdoviridae': 6}
+GENERA	{'None': 1, 'Nucleorhabdovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|134305392|ref|NP_042281.2|vFam_776| nucleocapsid protein [Sonchus yellow net virus]
+gi|149944273|ref|YP_001294924.1|vFam_776| nucleocapsid protein [Orchid fleck virus]
+gi|50234104|ref|YP_052843.1|vFam_776| N [Maize fine streak virus]
+gi|354459082|ref|YP_004927965.1|vFam_776| nucleocapsid protein [Potato yellow dwarf virus]
+gi|212671438|ref|YP_002308454.1|vFam_776| nucleocapsid protein [Maize Iranian mosaic virus]
+gi|62327480|ref|YP_224078.1|vFam_776| N [Taro vein chlorosis virus]
+gi|50234107|ref|YP_052850.1|vFam_776| N [Maize mosaic virus]

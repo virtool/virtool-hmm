@@ -1,0 +1,11 @@
+CLUSTER	37
+NUM_SEQ	3
+LENGTH	793
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	404.43
+FAMILIES	{'Caulimoviridae': 3}
+GENERA	{'None': 1, 'Badnavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|478756001|ref|YP_007761644.1|vFam_37| reverse transcriptase [Rose yellow vein virus]
+gi|238563978|ref|YP_002916057.1|vFam_37| polyprotein [Sweetpotato badnavirus B]
+gi|336125402|ref|YP_004581513.1|vFam_37| RNaseH/reverse transcriptase [Sweetpotato badnavirus A]

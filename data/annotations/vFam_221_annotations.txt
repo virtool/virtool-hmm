@@ -1,0 +1,28 @@
+CLUSTER	221
+NUM_SEQ	20
+LENGTH	839
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	436.28
+FAMILIES	{'Poxviridae': 17}
+GENERA	{'Betaentomopoxvirus': 1, 'None': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531773|ref|YP_784299.1|vFam_221| mRNA capping enzyme large subunit [Nile crocodilepox virus]
+gi|40556130|ref|NP_955215.1|vFam_221| CNPV192 mRNA capping enzyme large subunit [Canarypox virus]
+gi|9634816|ref|NP_039109.1|vFam_221| mRNA Capping enzyme, large subunit [Fowlpox virus]
+gi|17975011|ref|NP_536525.1|vFam_221| E1R [Monkeypox virus Zaire-96-I-16]
+gi|345107274|ref|YP_004821439.1|vFam_221| large subunit of mRNA capping enzyme [Yoka poxvirus]
+gi|377829986|ref|YP_005296283.1|vFam_221| unnamed protein product [Cotia virus SPAn232]
+gi|9633885|ref|NP_051965.1|vFam_221| gp076R [Rabbit fibroma virus]
+gi|157939702|ref|YP_001497074.1|vFam_221| mRNA capping enzyme large subunit [Tanapox virus]
+gi|38229241|ref|NP_938334.1|vFam_221| 79R [Yaba monkey tumor virus]
+gi|18640162|ref|NP_570236.1|vFam_221| SPV076 mRNA capping enzyme large subunit [Swinepox virus]
+gi|148912956|ref|YP_001293270.1|vFam_221| hypothetical protein GTPV_gp075 [Goatpox virus Pellor]
+gi|211956359|ref|YP_002302428.1|vFam_221| MRNA capping enzyme large subunit [Deerpox virus W-1170-84]
+gi|571797998|ref|YP_008658497.1|vFam_221| large subunit of mRNA capping enzyme,transcription termination factor VTF [Squirrelpox virus]
+gi|41057500|ref|NP_957973.1|vFam_221| ORF064 mRNA capping enzyme large subunit [Bovine papular stomatitis virus]
+gi|289183828|ref|YP_003457369.1|vFam_221| mRNA capping enzyme subunit [Pseudocowpox virus]
+gi|9631502|ref|NP_048137.1|vFam_221| ORF MSV067 putative mRNA capping enzyme large subunit homolog (vaccinia D1R), similar to SW:P20979 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497896|ref|YP_008003695.1|vFam_221| mRNA capping enzyme large subunit [Mythimna separata entomopoxvirus 'L']
+gi|506498216|ref|YP_008004013.1|vFam_221| mRNA capping enzyme large subunit [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964449|ref|NP_064917.1|vFam_221| putative mRNA capping enzyme large subunit [Amsacta moorei entomopoxvirus 'L']
+gi|506498764|ref|YP_008004558.1|vFam_221| mRNA capping enzyme large subunit [Choristoneura rosaceana entomopoxvirus 'L']

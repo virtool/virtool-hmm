@@ -1,0 +1,10 @@
+CLUSTER	5197
+NUM_SEQ	2
+LENGTH	367
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	190.84
+FAMILIES	{'Virgaviridae': 2}
+GENERA	{'Pecluvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|30018264|ref|NP_835264.1|vFam_5197| P38 protein [Indian peanut clump virus]
+gi|20178591|ref|NP_620029.1|vFam_5197| hypothetical protein PeaCVs2gp2 [Peanut clump virus]

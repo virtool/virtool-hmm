@@ -1,0 +1,10 @@
+CLUSTER	4832
+NUM_SEQ	2
+LENGTH	382
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	191.0
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441432292|ref|YP_007354334.1|vFam_4832| putative low complexity protein [Acanthamoeba polyphaga moumouvirus]
+gi|363540059|ref|YP_004894487.1|vFam_4832| mg436 gene product [Megavirus chiliensis]

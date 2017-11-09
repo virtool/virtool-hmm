@@ -1,0 +1,10 @@
+CLUSTER	5300
+NUM_SEQ	2
+LENGTH	385
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	196.35
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035562|ref|YP_008437193.1|vFam_5300| disulfide isomerase motif-containing [Pandoravirus salinus]
+gi|526119285|ref|YP_008319188.1|vFam_5300| disulfide isomerase motif-containing [Pandoravirus dulcis]

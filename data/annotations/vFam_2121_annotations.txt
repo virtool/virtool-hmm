@@ -1,0 +1,12 @@
+CLUSTER	2121
+NUM_SEQ	4
+LENGTH	186
+RELATIVE_ENTROPY_PER_POSITION	0.47
+TOTAL_RELATIVE_ENTROPY	87.42
+FAMILIES	{'Phycodnaviridae': 1, 'Polydnaviridae': 3}
+GENERA	{'Prymnesiovirus': 1, 'Bracovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|508181862|ref|YP_008052381.1|vFam_2121| hypothetical protein PGCG_00062 [Phaeocystis globosa virus]
+gi|57753398|ref|YP_184815.1|vFam_2121| hypothetical protein CcBV_12.3 [Cotesia congregata bracovirus]
+gi|57659689|ref|YP_184895.1|vFam_2121| hypothetical protein CcBV_32.9 [Cotesia congregata bracovirus]
+gi|57659289|ref|YP_184811.1|vFam_2121| hypothetical protein CcBV_2-11.1 [Cotesia congregata bracovirus]

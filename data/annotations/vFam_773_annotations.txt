@@ -1,0 +1,10 @@
+CLUSTER	773
+NUM_SEQ	2
+LENGTH	148
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	75.48
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Deltabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|119756992|ref|YP_919034.1|vFam_773| hypothetical protein BJ1_gp07 [Archaeal BJ1 virus]
+gi|15320878|ref|NP_203387.1|vFam_773| CUN084 hypothetical protein [Culex nigripalpus nucleopolyhedrovirus]

@@ -1,0 +1,13 @@
+CLUSTER	1634
+NUM_SEQ	5
+LENGTH	590
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	306.8
+FAMILIES	{'Reoviridae': 5}
+GENERA	{'Fijivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|20177451|ref|NP_619782.1|vFam_1634| 73.5KD protein [Nilaparvata lugens reovirus]
+gi|68532389|ref|YP_249764.1|vFam_1634| hypothetical protein [Fiji disease virus]
+gi|120407009|ref|YP_956843.1|vFam_1634| NTP binding protein P-S8 [Mal de Rio Cuarto virus]
+gi|312274956|ref|YP_004021932.1|vFam_1634| P8 [Southern rice black-streaked dwarf virus]
+gi|20386783|ref|NP_620458.1|vFam_1634| hypothetical protein RBSDVs8gp1 [Rice black streaked dwarf virus]

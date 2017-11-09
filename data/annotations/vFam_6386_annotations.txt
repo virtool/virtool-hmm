@@ -1,0 +1,10 @@
+CLUSTER	6386
+NUM_SEQ	2
+LENGTH	112
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	58.24
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409683|ref|YP_004347103.1|vFam_6386| hypothetical protein LAU_0140 [Lausannevirus]
+gi|284504153|ref|YP_003406868.1|vFam_6386| small membrane protein [Marseillevirus]

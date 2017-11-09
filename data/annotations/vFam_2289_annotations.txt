@@ -1,0 +1,11 @@
+CLUSTER	2289
+NUM_SEQ	3
+LENGTH	75
+RELATIVE_ENTROPY_PER_POSITION	0.67
+TOTAL_RELATIVE_ENTROPY	50.25
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|86355524|ref|YP_473192.1|vFam_2289| ORF4 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|571031200|ref|YP_008992096.1|vFam_2289| hypothetical protein chmu004 [Choristoneura murinana alphabaculovirus]
+gi|529153317|ref|YP_008378357.1|vFam_2289| hypothetical protein [Choristoneura rosaceana alphabaculovirus]

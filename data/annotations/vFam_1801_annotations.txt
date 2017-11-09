@@ -1,0 +1,11 @@
+CLUSTER	1801
+NUM_SEQ	3
+LENGTH	196
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	101.92
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'None': 1, 'Orthopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9631404|ref|NP_048308.1|vFam_1801| ORF MSV237 putative vaccinia B2R homolog, similar to SW:P20999 [Melanoplus sanguinipes entomopoxvirus]
+gi|66275981|ref|YP_233066.1|vFam_1801| hypothetical protein VACWR184 [Vaccinia virus]
+gi|345107348|ref|YP_004821513.1|vFam_1801| schlafen-like protein [Yoka poxvirus]

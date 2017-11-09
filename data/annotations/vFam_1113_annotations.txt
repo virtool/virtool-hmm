@@ -1,0 +1,10 @@
+CLUSTER	1113
+NUM_SEQ	2
+LENGTH	308
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	154.0
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|448826067|ref|YP_007418998.1|vFam_1113| putative Sel1-like repeat-containing protein [Megavirus lba]
+gi|90403489|ref|YP_529528.1|vFam_1113| hypothetical protein His1V_gp16 [His 1 virus]

@@ -1,0 +1,10 @@
+CLUSTER	3277
+NUM_SEQ	2
+LENGTH	136
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	69.36
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 1, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|197322453|ref|YP_002154726.1|vFam_3277| hypothetical protein FeldSpV_gp104 [Feldmannia species virus]
+gi|155370748|ref|YP_001426282.1|vFam_3277| hypothetical protein FR483_n650L [Paramecium bursaria Chlorella virus FR483]

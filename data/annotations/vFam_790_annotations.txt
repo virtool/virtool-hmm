@@ -1,0 +1,18 @@
+CLUSTER	790
+NUM_SEQ	10
+LENGTH	355
+RELATIVE_ENTROPY_PER_POSITION	0.55
+TOTAL_RELATIVE_ENTROPY	195.25
+FAMILIES	{'Herpesviridae': 10}
+GENERA	{'Macavirus': 2, 'Rhadinovirus': 6, 'None': 1, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9629620|ref|NP_044896.1|vFam_790| envelope protein UL43 [Murid herpesvirus 4]
+gi|321496609|ref|YP_004207894.1|vFam_790| hypothetical protein RHVP.58 [Rodent herpesvirus Peru]
+gi|83642894|ref|YP_438182.1|vFam_790| ORF58 [Ovine herpesvirus 2]
+gi|10140980|ref|NP_065557.1|vFam_790| ORF58 [Alcelaphine herpesvirus 1]
+gi|9628061|ref|NP_042655.1|vFam_790| ORF 58 [Equid herpesvirus 2]
+gi|13095635|ref|NP_076550.1|vFam_790| unknown [Bovine herpesvirus 4]
+gi|9631248|ref|NP_048029.1|vFam_790| orf 58 [Ateline herpesvirus 3]
+gi|9626014|ref|NP_040260.1|vFam_790| unnamed protein product [Saimiriine herpesvirus 2]
+gi|139472879|ref|YP_001129415.1|vFam_790| ORF58 [Human herpesvirus 8]
+gi|18653872|ref|NP_570806.1|vFam_790| hypothetical protein MmrVgp68 [Macacine herpesvirus 5]

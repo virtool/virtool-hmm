@@ -1,0 +1,22 @@
+CLUSTER	376
+NUM_SEQ	14
+LENGTH	429
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	227.37
+FAMILIES	{'Poxviridae': 14}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 1, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531734|ref|YP_784260.1|vFam_376| virion core proteinase [Nile crocodilepox virus]
+gi|40556048|ref|NP_955133.1|vFam_376| CNPV110 virion core proteinase [Canarypox virus]
+gi|9634753|ref|NP_039046.1|vFam_376| Virion core protein [Fowlpox virus]
+gi|41057471|ref|NP_957944.1|vFam_376| ORF035 virion core protease [Bovine papular stomatitis virus]
+gi|289183799|ref|YP_003457340.1|vFam_376| virion core protease [Pseudocowpox virus]
+gi|571797968|ref|YP_008658467.1|vFam_376| processing peptidase-cysteine peptidase MEROPS peptidase family C57 (clan CE) [Squirrelpox virus]
+gi|113195256|ref|YP_717386.1|vFam_376| viral core cysteine proteinase [Taterapox virus]
+gi|345107243|ref|YP_004821408.1|vFam_376| essential viral core cysteine proteinase [Yoka poxvirus]
+gi|9633852|ref|NP_051932.1|vFam_376| gp043L [Rabbit fibroma virus]
+gi|377829957|ref|YP_005296252.1|vFam_376| unnamed protein product [Cotia virus SPAn232]
+gi|157939671|ref|YP_001497043.1|vFam_376| topoisomerase II [Tanapox virus]
+gi|18640131|ref|NP_570205.1|vFam_376| SPV045 putative virion core protein [Swinepox virus]
+gi|148912925|ref|YP_001293239.1|vFam_376| hypothetical protein GTPV_gp044 [Goatpox virus Pellor]
+gi|211956328|ref|YP_002302397.1|vFam_376| virion core protein [Deerpox virus W-1170-84]

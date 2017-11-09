@@ -1,0 +1,10 @@
+CLUSTER	5722
+NUM_SEQ	2
+LENGTH	436
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	226.72
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Macavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|83642912|ref|YP_438181.1|vFam_5722| ORF57 [Ovine herpesvirus 2]
+gi|10140979|ref|NP_065556.1|vFam_5722| transcriptional control protein [Alcelaphine herpesvirus 1]

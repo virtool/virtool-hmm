@@ -1,0 +1,13 @@
+CLUSTER	1500
+NUM_SEQ	5
+LENGTH	222
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	115.44
+FAMILIES	{'Orthomyxoviridae': 5}
+GENERA	{'Influenzavirus A': 5}
+FASTA SEQUENCE TITLES:
+gi|73921187|ref|YP_308876.1|vFam_1500| HA2 [Influenza A virus (A/New York/392/2004(H3N2))]
+gi|90093250|ref|YP_529489.1|vFam_1500| HA2 [Influenza A virus (A/Hong Kong/1073/99(H9N2))]
+gi|56605626|ref|YP_163736.1|vFam_1500| HA2 [Influenza A virus (A/Puerto Rico/8/34(H1N1))]
+gi|90093248|ref|YP_529487.1|vFam_1500| HA2 [Influenza A virus (A/goose/Guangdong/1/1996(H5N1))]
+gi|73921185|ref|YP_308874.1|vFam_1500| HA2 [Influenza A virus (A/Korea/426/68(H2N2))]

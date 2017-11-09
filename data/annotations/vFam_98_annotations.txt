@@ -1,0 +1,38 @@
+CLUSTER	98
+NUM_SEQ	30
+LENGTH	497
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	258.44
+FAMILIES	{'Baculoviridae': 25}
+GENERA	{'Betabaculovirus': 7, 'Alphabaculovirus': 18}
+FASTA SEQUENCE TITLES:
+gi|32698657|ref|NP_872572.1|vFam_98| egt [Adoxophyes orana granulovirus]
+gi|46309325|ref|YP_006215.1|vFam_98| ORF129 [Agrotis segetum granulovirus]
+gi|410493701|ref|YP_006908639.1|vFam_98| ecdysteroid UDP-glucosyltransferase [Epinotia aporema granulovirus]
+gi|33622328|ref|NP_891975.1|vFam_98| egt [Cryptophlebia leucotreta granulovirus]
+gi|14602378|ref|NP_148925.1|vFam_98| ORF141 EGT [Cydia pomonella granulovirus]
+gi|556549155|ref|YP_008720069.1|vFam_98| egt [Clostera anastomosis granulovirus]
+gi|109255387|ref|YP_654536.1|vFam_98| EGT [Choristoneura occidentalis granulovirus]
+gi|288804758|ref|YP_003429443.1|vFam_98| egt [Pieris rapae granulovirus]
+gi|438000321|ref|YP_007250426.1|vFam_98| egt protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964541|ref|YP_950737.1|vFam_98| ecysteroid UDP-glucosyltransferase [Maruca vitrata nucleopolyhedrovirus]
+gi|237643556|ref|YP_002884246.1|vFam_98| EGT [Bombyx mandarina nucleopolyhedrovirus]
+gi|86355658|ref|YP_473326.1|vFam_98| Ecdysteroid UDP glucosyltransferase [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629952|ref|NP_046170.1|vFam_98| ecdysteroid UDP-glucosyltransferase [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|30387247|ref|NP_848326.1|vFam_98| ecdysteroid UDP glucosyltransferase [Choristoneura fumiferana multiple nucleopolyhedrovirus]
+gi|529153451|ref|YP_008378491.1|vFam_98| ecdysteroid UDP-glucosyltransferase [Choristoneura rosaceana alphabaculovirus]
+gi|15320669|ref|NP_203181.1|vFam_98| EGT [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326087|ref|YP_803412.1|vFam_98| ecdysteroid UDP-glucosyltransferase precursor [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15617589|ref|NP_258389.1|vFam_98| ecdysteroid UDP-glucosyltransferase [Spodoptera litura nucleopolyhedrovirus]
+gi|209401187|ref|YP_002274056.1|vFam_98| ecdysteroid UDP-glucosyl transferase [Helicoverpa armigera NPV NNg1]
+gi|113195531|ref|YP_717663.1|vFam_98| ecdysteroid UDP-glucosyl transferase [Clanis bilineata nucleopolyhedrovirus]
+gi|29567207|ref|NP_818769.1|vFam_98| ecdysteroid UDP-glucosyl transferase [Adoxophyes honmai nucleopolyhedrovirus]
+gi|529218186|ref|YP_008378349.1|vFam_98| egt [Hemileuca sp. nucleopolyhedrovirus]
+gi|74229818|ref|YP_309022.1|vFam_98| ecdysone glucose transferase (egt) [Trichoplusia ni single nucleopolyhedrovirus]
+gi|215401265|ref|YP_002332569.1|vFam_98| ecdysteroid UDP-glucosyltransferase [Helicoverpa armigera multiple nucleopolyhedrovirus]
+gi|215401419|ref|YP_002332722.1|vFam_98| EGT [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634248|ref|NP_037787.1|vFam_98| ORF27 egt [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209170916|ref|YP_002268062.1|vFam_98| agip32 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592745|ref|YP_529698.1|vFam_98| EGT [Agrotis segetum nucleopolyhedrovirus]
+gi|402502117|ref|YP_006607775.1|vFam_98| ecdysteroid UDP-glucosyltransferase [Apocheima cinerarium nucleopolyhedrovirus]
+gi|165969140|ref|YP_001651040.1|vFam_98| ecdysteroid UDP-glucosyltransferase [Orgyia leucostigma NPV]

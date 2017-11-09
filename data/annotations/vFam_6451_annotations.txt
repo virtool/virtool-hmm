@@ -1,0 +1,10 @@
+CLUSTER	6451
+NUM_SEQ	2
+LENGTH	236
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	125.08
+FAMILIES	{'Polydnaviridae': 2}
+GENERA	{'Bracovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|57753379|ref|YP_184837.1|vFam_6451| hypothetical protein CcBVs18gp1 [Cotesia congregata bracovirus]
+gi|57659614|ref|YP_184876.1|vFam_6451| hypothetical protein CcBV_30.1 [Cotesia congregata bracovirus]

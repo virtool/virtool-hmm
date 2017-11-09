@@ -1,0 +1,10 @@
+CLUSTER	3952
+NUM_SEQ	2
+LENGTH	374
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	194.48
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825544|ref|YP_007418475.1|vFam_3952| putative zinc finger MynD domain-containing protein [Megavirus lba]
+gi|311977714|ref|YP_003986834.1|vFam_3952| putative zinc finger MYND domain-containing protein [Acanthamoeba polyphaga mimivirus]

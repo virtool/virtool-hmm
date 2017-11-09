@@ -1,0 +1,24 @@
+CLUSTER	249
+NUM_SEQ	16
+LENGTH	442
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	229.84
+FAMILIES	{'Iridoviridae': 12}
+GENERA	{'Iridovirus': 12}
+FASTA SEQUENCE TITLES:
+gi|15078923|ref|NP_149674.1|vFam_249| 211L [Invertebrate iridescent virus 6]
+gi|15079179|ref|NP_149463.1|vFam_249| 468L [Invertebrate iridescent virus 6]
+gi|339906132|ref|YP_004732929.1|vFam_249| hypothetical protein WIV_gp146 [Wiseana iridescent virus]
+gi|339906105|ref|YP_004732902.1|vFam_249| hypothetical protein WIV_gp119 [Wiseana iridescent virus]
+gi|527333650|ref|YP_008357434.1|vFam_249| hypothetical protein IIV22_136L [Invertebrate iridovirus 22]
+gi|339906040|ref|YP_004732837.1|vFam_249| hypothetical protein WIV_gp054 [Wiseana iridescent virus]
+gi|339906130|ref|YP_004732927.1|vFam_249| hypothetical protein WIV_gp144 [Wiseana iridescent virus]
+gi|339905992|ref|YP_004732789.1|vFam_249| hypothetical protein WIV_gp006 [Wiseana iridescent virus]
+gi|339906012|ref|YP_004732809.1|vFam_249| hypothetical protein WIV_gp026 [Wiseana iridescent virus]
+gi|339906090|ref|YP_004732887.1|vFam_249| hypothetical protein WIV_gp104 [Wiseana iridescent virus]
+gi|339906032|ref|YP_004732829.1|vFam_249| hypothetical protein WIV_gp046 [Wiseana iridescent virus]
+gi|527333676|ref|YP_008357460.1|vFam_249| hypothetical protein IIV22_162R [Invertebrate iridovirus 22]
+gi|527333617|ref|YP_008357401.1|vFam_249| hypothetical protein IIV22_103R [Invertebrate iridovirus 22]
+gi|527333569|ref|YP_008357353.1|vFam_249| hypothetical protein IIV22_055R [Invertebrate iridovirus 22]
+gi|339906170|ref|YP_004732967.1|vFam_249| hypothetical protein WIV_gp184 [Wiseana iridescent virus]
+gi|339906058|ref|YP_004732855.1|vFam_249| hypothetical protein WIV_gp072 [Wiseana iridescent virus]

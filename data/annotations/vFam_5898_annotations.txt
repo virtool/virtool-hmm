@@ -1,0 +1,10 @@
+CLUSTER	5898
+NUM_SEQ	2
+LENGTH	328
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	170.56
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|157953532|ref|YP_001498423.1|vFam_5898| hypothetical protein AR158_C342L [Paramecium bursaria Chlorella virus AR158]
+gi|9631860|ref|NP_048646.1|vFam_5898| Chitosanase [Paramecium bursaria Chlorella virus 1]

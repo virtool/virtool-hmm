@@ -1,0 +1,10 @@
+CLUSTER	5358
+NUM_SEQ	2
+LENGTH	227
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	118.04
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|56693005|ref|YP_164349.1|vFam_5358| hypothetical protein TTSV1_gp08 [Thermoproteus tenax spherical virus 1]
+gi|47131170|ref|YP_015536.1|vFam_5358| hypothetical protein PyrSV_gp15 [Pyrobaculum spherical virus]

@@ -1,0 +1,16 @@
+CLUSTER	1394
+NUM_SEQ	8
+LENGTH	130
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	67.6
+FAMILIES	{'Poxviridae': 8}
+GENERA	{'Orthopoxvirus': 2, 'Capripoxvirus': 2, 'Leporipoxvirus': 2, 'None': 1, 'Cervidpoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|148913019|ref|YP_001293333.1|vFam_1394| hypothetical protein GTPV_gp135 [Goatpox virus Pellor]
+gi|21492592|ref|NP_659712.1|vFam_1394| Secreted virulence factor [Sheeppox virus]
+gi|377830096|ref|YP_005296344.1|vFam_1394| unnamed protein product [Cotia virus SPAn232]
+gi|211956428|ref|YP_002302498.1|vFam_1394| virulence factor [Deerpox virus W-1170-84]
+gi|9633951|ref|NP_052031.1|vFam_1394| gp146R [Rabbit fibroma virus]
+gi|9633781|ref|NP_051859.1|vFam_1394| m146R [Myxoma virus]
+gi|113195207|ref|YP_717337.1|vFam_1394| hypothetical protein TATV_DAH68_030 [Taterapox virus]
+gi|345107201|ref|YP_004821366.1|vFam_1394| anti-apoptotic Bcl-2-like protein [Yoka poxvirus]

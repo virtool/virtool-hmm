@@ -1,0 +1,21 @@
+CLUSTER	432
+NUM_SEQ	13
+LENGTH	176
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	86.24
+FAMILIES	{'Poxviridae': 13}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|40556187|ref|NP_955272.1|vFam_432| CNPV249 virion protein [Canarypox virus]
+gi|9634846|ref|NP_039139.1|vFam_432| Virion protein [Fowlpox virus]
+gi|66275928|ref|YP_233013.1|vFam_432| core protein [Vaccinia virus]
+gi|345107303|ref|YP_004821468.1|vFam_432| virion core protein [Yoka poxvirus]
+gi|148912980|ref|YP_001293294.1|vFam_432| hypothetical protein GTPV_gp099 [Goatpox virus Pellor]
+gi|377830008|ref|YP_005296308.1|vFam_432| unnamed protein product [Cotia virus SPAn232]
+gi|18640186|ref|NP_570260.1|vFam_432| SPV100 putative virion core protein [Swinepox virus]
+gi|38229265|ref|NP_938358.1|vFam_432| 103L [Yaba monkey tumor virus]
+gi|12085086|ref|NP_073488.1|vFam_432| 103L protein [Yaba-like disease virus]
+gi|211956383|ref|YP_002302452.1|vFam_432| virion core protein [Deerpox virus W-1170-84]
+gi|9633737|ref|NP_051815.1|vFam_432| m101L [Myxoma virus]
+gi|571798026|ref|YP_008658525.1|vFam_432| core protein [Squirrelpox virus]
+gi|9629047|ref|NP_044066.1|vFam_432| MC115L [Molluscum contagiosum virus subtype 1]

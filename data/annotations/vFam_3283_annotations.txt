@@ -1,0 +1,11 @@
+CLUSTER	3283
+NUM_SEQ	3
+LENGTH	61
+RELATIVE_ENTROPY_PER_POSITION	0.88
+TOTAL_RELATIVE_ENTROPY	53.68
+FAMILIES	{'Phycodnaviridae': 1}
+GENERA	{'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|340025752|ref|YP_004678917.1|vFam_3283| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|531035167|ref|YP_008436793.1|vFam_3283| hypothetical protein ps_378 [Pandoravirus salinus]
+gi|526118991|ref|YP_008318894.1|vFam_3283| hypothetical protein [Pandoravirus dulcis]

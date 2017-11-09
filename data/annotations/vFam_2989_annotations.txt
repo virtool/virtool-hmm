@@ -1,0 +1,11 @@
+CLUSTER	2989
+NUM_SEQ	3
+LENGTH	65
+RELATIVE_ENTROPY_PER_POSITION	0.80
+TOTAL_RELATIVE_ENTROPY	52.0
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977485|ref|YP_003986605.1|vFam_2989| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825993|ref|YP_007418924.1|vFam_2989| hypothetical protein LBA_01030 [Megavirus lba]
+gi|363540170|ref|YP_004894175.1|vFam_2989| mg124 gene product [Megavirus chiliensis]

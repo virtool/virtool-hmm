@@ -1,0 +1,11 @@
+CLUSTER	4857
+NUM_SEQ	3
+LENGTH	92
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	49.68
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|9625526|ref|NP_039783.1|vFam_4857| hypothetical protein SSV-1p07 [Sulfolobus spindle-shaped virus 1]
+gi|270281762|ref|YP_003331422.1|vFam_4857| putative HTH transcriptional regulator [Acidianus spindle-shaped virus 1]
+gi|42495072|ref|NP_963981.1|vFam_4857| ORF E81 [Sulfolobus virus Kamchatka 1]

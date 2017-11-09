@@ -1,0 +1,12 @@
+CLUSTER	2408
+NUM_SEQ	4
+LENGTH	341
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	177.32
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|526120100|ref|YP_008320003.1|vFam_2408| hypothetical protein [Pandoravirus dulcis]
+gi|526120098|ref|YP_008320001.1|vFam_2408| hypothetical protein [Pandoravirus dulcis]
+gi|531037256|ref|YP_008438899.1|vFam_2408| hypothetical protein ps_2497 [Pandoravirus salinus]
+gi|526120104|ref|YP_008320007.1|vFam_2408| hypothetical protein [Pandoravirus dulcis]

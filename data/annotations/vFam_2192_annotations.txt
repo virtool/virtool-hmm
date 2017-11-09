@@ -1,0 +1,10 @@
+CLUSTER	2192
+NUM_SEQ	2
+LENGTH	328
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	170.56
+FAMILIES	{'Reoviridae': 2}
+GENERA	{'Orthoreovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|459014630|ref|YP_007507328.1|vFam_2192| sigma C [Melaka orthoreovirus]
+gi|323714226|ref|YP_004226527.1|vFam_2192| sigma-C protein [Avian orthoreovirus]

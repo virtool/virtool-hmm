@@ -1,0 +1,15 @@
+CLUSTER	649
+NUM_SEQ	7
+LENGTH	244
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	126.88
+FAMILIES	{'Phycodnaviridae': 7}
+GENERA	{'None': 3, 'Prymnesiovirus': 1, 'Prasinovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|508182170|ref|YP_008052689.1|vFam_649| hypothetical protein PGCG_00371 [Phaeocystis globosa virus]
+gi|260666053|ref|YP_003213007.1|vFam_649| hypothetical protein H665_p184 [Ostreococcus tauri virus 1]
+gi|313768389|ref|YP_004062069.1|vFam_649| hypothetical protein MpV1_186c [Micromonas sp. RCC1109 virus MpV1]
+gi|313768159|ref|YP_004061590.1|vFam_649| hypothetical protein BpV1_160 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768375|ref|YP_004062055.1|vFam_649| hypothetical protein MpV1_172 [Micromonas sp. RCC1109 virus MpV1]
+gi|314055252|ref|YP_004063590.1|vFam_649| hypothetical protein OtV2_157 [Ostreococcus tauri virus 2]
+gi|163955165|ref|YP_001648269.1|vFam_649| hypothetical protein OsV5_193f [Ostreococcus virus OsV5]

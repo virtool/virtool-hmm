@@ -1,0 +1,16 @@
+CLUSTER	1017
+NUM_SEQ	8
+LENGTH	90
+RELATIVE_ENTROPY_PER_POSITION	0.57
+TOTAL_RELATIVE_ENTROPY	51.3
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281750|ref|YP_003331409.1|vFam_1017| hypothetical protein [Acidianus spindle-shaped virus 1]
+gi|42494930|ref|NP_963928.1|vFam_1017| ORF A93 [Sulfolobus virus Ragged Hills]
+gi|198449236|ref|YP_002221474.1|vFam_1017| hypothetical protein SSSV5_gp09 [Sulfolobus spindle-shaped virus 5]
+gi|270281820|ref|YP_003331486.1|vFam_1017| hypothetical protein SSSV7_gp03 [Sulfolobus spindle-shaped virus 7]
+gi|160688425|ref|YP_001552187.1|vFam_1017| hypothetical protein SSSV4_ORF89 [Sulfolobus spindle-shaped virus 4]
+gi|38639835|ref|NP_944486.1|vFam_1017| hypothetical protein SSV2p34 [Sulfolobus spindle-shaped virus 2]
+gi|42495060|ref|NP_963969.1|vFam_1017| ORF B90 [Sulfolobus virus Kamchatka 1]
+gi|270281789|ref|YP_003331454.1|vFam_1017| hypothetical protein SSSV6_gp04 [Sulfolobus spindle-shaped virus 6]

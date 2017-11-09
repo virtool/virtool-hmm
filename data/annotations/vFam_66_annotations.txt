@@ -1,0 +1,28 @@
+CLUSTER	66
+NUM_SEQ	20
+LENGTH	735
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	382.2
+FAMILIES	{'Adenoviridae': 19}
+GENERA	{'Siadenovirus': 2, 'Mastadenovirus': 16, 'Atadenovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|227122433|ref|YP_002822219.1|vFam_66| 100k [Murine adenovirus 3]
+gi|56160691|ref|AP_000354.1|vFam_66| 100K [Murine adenovirus A]
+gi|345462110|ref|YP_004782112.1|vFam_66| unnamed protein product [Bat adenovirus 2]
+gi|56160970|ref|AP_000625.1|vFam_66| 100K [Canine adenovirus 2]
+gi|460042655|ref|YP_007518082.1|vFam_66| 100K [Simian adenovirus 20]
+gi|51518833|ref|YP_067920.1|vFam_66| 100 kDa protein [Simian adenovirus 3]
+gi|327415388|ref|YP_004300216.1|vFam_66| unnamed protein product [Simian adenovirus 49]
+gi|56160454|ref|AP_000124.1|vFam_66| 100K [Human adenovirus A]
+gi|190340993|ref|YP_001974431.1|vFam_66| hexon assembly protein 100K [Human adenovirus D]
+gi|540155844|ref|YP_008520238.1|vFam_66| 100K [Simian adenovirus 18]
+gi|9626576|ref|NP_040865.1|vFam_66| hexon assembly protein 100K [Human adenovirus F]
+gi|485191075|ref|YP_007906011.1|vFam_66| 100K [Simian adenovirus C]
+gi|61602101|ref|YP_213978.1|vFam_66| 100K [Simian adenovirus 1]
+gi|51556712|ref|YP_068073.1|vFam_66| 100K [Tree shrew adenovirus 1]
+gi|56160582|ref|AP_000248.1|vFam_66| 100K [Porcine adenovirus C]
+gi|56158840|ref|AP_000015.1|vFam_66| 100K [Ovine adenovirus A]
+gi|52801695|ref|YP_094042.1|vFam_66| 100K [Bovine adenovirus A]
+gi|56158895|ref|AP_000091.1|vFam_66| 100K [Duck adenovirus A]
+gi|363540927|ref|YP_004935942.1|vFam_66| unnamed protein product [Skua adenovirus A]
+gi|331271190|ref|YP_004414811.1|vFam_66| 100K protein [Raptor adenovirus A]

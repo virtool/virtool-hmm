@@ -1,0 +1,10 @@
+CLUSTER	5756
+NUM_SEQ	2
+LENGTH	270
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	140.4
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409752|ref|YP_004347172.1|vFam_5756| putative transcription initiation factor TFIIB [Lausannevirus]
+gi|284504239|ref|YP_003406954.1|vFam_5756| transcription initiation factor TFIIB [Marseillevirus]

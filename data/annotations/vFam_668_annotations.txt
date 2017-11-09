@@ -1,0 +1,18 @@
+CLUSTER	668
+NUM_SEQ	10
+LENGTH	147
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	76.44
+FAMILIES	{'Baculoviridae': 8}
+GENERA	{'Alphabaculovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|22549474|ref|NP_689247.1|vFam_668| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|15320663|ref|NP_203175.1|vFam_668| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|96979898|ref|YP_611107.1|vFam_668| hypothetical protein APNV_p141 [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326074|ref|YP_803399.1|vFam_668| hypothetical protein AGNV_gp005 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|571031338|ref|YP_008992235.1|vFam_668| ac4 [Choristoneura murinana alphabaculovirus]
+gi|529153622|ref|YP_008378647.1|vFam_668| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|9629946|ref|NP_046164.1|vFam_668| hypothetical protein OpmnVgp008 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|86355665|ref|YP_473333.1|vFam_668| ORF145 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|438000311|ref|YP_007250416.1|vFam_668| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643688|ref|YP_002884378.1|vFam_668| Ac4-like protein [Bombyx mandarina nucleopolyhedrovirus]

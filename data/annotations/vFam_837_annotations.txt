@@ -1,0 +1,13 @@
+CLUSTER	837
+NUM_SEQ	5
+LENGTH	512
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	256.0
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|215401234|ref|YP_002332538.1|vFam_837| viral capsid associated protein [Helicoverpa armigera multiple nucleopolyhedrovirus]
+gi|215401397|ref|YP_002332700.1|vFam_837| orf1629 [Spodoptera litura nucleopolyhedrovirus II]
+gi|209170886|ref|YP_002268032.1|vFam_837| ORF1629 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|228861592|ref|YP_002854612.1|vFam_837| hypothetical protein EupsNPV_gp002 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|529218055|ref|YP_008378218.1|vFam_837| orf1629 [Hemileuca sp. nucleopolyhedrovirus]

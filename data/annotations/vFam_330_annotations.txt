@@ -1,0 +1,24 @@
+CLUSTER	330
+NUM_SEQ	16
+LENGTH	375
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	195.0
+FAMILIES	{'Mimiviridae': 16}
+GENERA	{'None': 2, 'Mimivirus': 14}
+FASTA SEQUENCE TITLES:
+gi|441431965|ref|YP_007354007.1|vFam_330| hypothetical protein Moumou_00023 [Acanthamoeba polyphaga moumouvirus]
+gi|311977547|ref|YP_003986667.1|vFam_330| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977559|ref|YP_003986679.1|vFam_330| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977558|ref|YP_003986678.1|vFam_330| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977557|ref|YP_003986677.1|vFam_330| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977549|ref|YP_003986669.1|vFam_330| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977556|ref|YP_003986676.1|vFam_330| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977555|ref|YP_003986675.1|vFam_330| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977554|ref|YP_003986674.1|vFam_330| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977550|ref|YP_003986670.1|vFam_330| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977551|ref|YP_003986671.1|vFam_330| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977553|ref|YP_003986673.1|vFam_330| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977552|ref|YP_003986672.1|vFam_330| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977544|ref|YP_003986664.1|vFam_330| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311978105|ref|YP_003987225.1|vFam_330| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432027|ref|YP_007354069.1|vFam_330| hypothetical protein Moumou_00087 [Acanthamoeba polyphaga moumouvirus]

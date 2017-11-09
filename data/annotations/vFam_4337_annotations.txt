@@ -1,0 +1,11 @@
+CLUSTER	4337
+NUM_SEQ	3
+LENGTH	452
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	230.52
+FAMILIES	{'Ophioviridae': 3}
+GENERA	{'Ophiovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|52630363|ref|YP_089663.1|vFam_4337| 54 kDa protein [Citrus psorosis virus]
+gi|50355591|ref|YP_053238.1|vFam_4337| 50 kDa protein [Lettuce ring necrosis virus]
+gi|30410837|ref|NP_848532.1|vFam_4337| 55K protein [Mirafiore lettuce virus]

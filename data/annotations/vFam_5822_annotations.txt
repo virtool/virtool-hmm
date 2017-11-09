@@ -1,0 +1,10 @@
+CLUSTER	5822
+NUM_SEQ	2
+LENGTH	139
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	73.67
+FAMILIES	{'Potyviridae': 2}
+GENERA	{'Poacevirus': 2}
+FASTA SEQUENCE TITLES:
+gi|390442742|ref|YP_006423933.1|vFam_5822| PIPO, partial [Sugarcane streak mosaic virus]
+gi|295822309|ref|YP_003620395.1|vFam_5822| PIPO, partial [Triticum mosaic virus]

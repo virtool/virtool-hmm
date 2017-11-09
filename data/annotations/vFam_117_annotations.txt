@@ -1,0 +1,21 @@
+CLUSTER	117
+NUM_SEQ	13
+LENGTH	353
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	183.56
+FAMILIES	{'Phycodnaviridae': 2, 'Mimiviridae': 1, 'Poxviridae': 8}
+GENERA	{'None': 1, 'Chlorovirus': 2, 'Avipoxvirus': 8}
+FASTA SEQUENCE TITLES:
+gi|531036204|ref|YP_008437840.1|vFam_117| ankyrin repeat [Pandoravirus salinus]
+gi|526119658|ref|YP_008319561.1|vFam_117| ankyrin repeat [Pandoravirus dulcis]
+gi|157953992|ref|YP_001498883.1|vFam_117| hypothetical protein AR158_C802L [Paramecium bursaria Chlorella virus AR158]
+gi|9632186|ref|NP_049038.1|vFam_117| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|441432315|ref|YP_007354357.1|vFam_117| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]
+gi|9634897|ref|NP_039190.1|vFam_117| Ankyrin repeat gene family protein [Fowlpox virus]
+gi|40555988|ref|NP_955073.1|vFam_117| CNPV050 ankyrin repeat protein [Canarypox virus]
+gi|9634701|ref|NP_038994.1|vFam_117| Ankyrin repeat gene family protein [Fowlpox virus]
+gi|40556088|ref|NP_955173.1|vFam_117| CNPV150 ankyrin repeat protein [Canarypox virus]
+gi|40555968|ref|NP_955053.1|vFam_117| CNPV030 ankyrin repeat protein [Canarypox virus]
+gi|9634682|ref|NP_038975.1|vFam_117| Ankyrin repeat gene family protein [Fowlpox virus]
+gi|40556246|ref|NP_955331.1|vFam_117| CNPV308 ankyrin repeat protein [Canarypox virus]
+gi|40555966|ref|NP_955051.1|vFam_117| CNPV028 ankyrin repeat protein [Canarypox virus]

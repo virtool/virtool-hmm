@@ -1,0 +1,10 @@
+CLUSTER	4426
+NUM_SEQ	2
+LENGTH	116
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	60.32
+FAMILIES	{'Phycodnaviridae': 1}
+GENERA	{'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|526119548|ref|YP_008319451.1|vFam_4426| hypothetical protein [Pandoravirus dulcis]
+gi|155370590|ref|YP_001426124.1|vFam_4426| hypothetical protein FR483_n492R [Paramecium bursaria Chlorella virus FR483]

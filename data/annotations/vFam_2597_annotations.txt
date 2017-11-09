@@ -1,0 +1,11 @@
+CLUSTER	2597
+NUM_SEQ	3
+LENGTH	404
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	210.08
+FAMILIES	{'Marseillevirus family': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|327409957|ref|YP_004347377.1|vFam_2597| hypothetical protein LAU_0415 [Lausannevirus]
+gi|284504338|ref|YP_003407053.1|vFam_2597| zinc finger protein [Marseillevirus]
+gi|284504102|ref|YP_003406817.1|vFam_2597| zinc finger protein [Marseillevirus]

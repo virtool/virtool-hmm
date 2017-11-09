@@ -1,0 +1,12 @@
+CLUSTER	2643
+NUM_SEQ	4
+LENGTH	81
+RELATIVE_ENTROPY_PER_POSITION	0.62
+TOTAL_RELATIVE_ENTROPY	50.22
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Siadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|9635815|ref|NP_062451.1|vFam_2643| hypothetical protein FaV1gp20 [Frog adenovirus 1]
+gi|56160835|ref|AP_000494.1|vFam_2643| U exon [Turkey adenovirus A]
+gi|363540932|ref|YP_004935947.1|vFam_2643| unnamed protein product [Skua adenovirus A]
+gi|331271195|ref|YP_004414816.1|vFam_2643| U exon [Raptor adenovirus A]

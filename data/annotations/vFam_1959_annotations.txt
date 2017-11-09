@@ -1,0 +1,14 @@
+CLUSTER	1959
+NUM_SEQ	6
+LENGTH	53
+RELATIVE_ENTROPY_PER_POSITION	1.00
+TOTAL_RELATIVE_ENTROPY	53.0
+FAMILIES	{'Potyviridae': 6}
+GENERA	{'None': 1, 'Ipomovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|25013878|ref|NP_734289.1|vFam_1959| 6K2 protein [Sweet potato mild mottle virus]
+gi|410493745|ref|YP_006908984.1|vFam_1959| 6K2 [Rose yellow mosaic virus]
+gi|426580893|ref|YP_007032442.1|vFam_1959| 6K2 [Cassava brown streak virus]
+gi|314998987|ref|YP_004063979.1|vFam_1959| 6K2 [Ugandan cassava brown streak virus]
+gi|170778508|ref|YP_001788997.1|vFam_1959| 6K2 [Squash vein yellowing virus]
+gi|74009226|ref|YP_308882.1|vFam_1959| 6K2 protein [Cucumber vein yellowing virus]

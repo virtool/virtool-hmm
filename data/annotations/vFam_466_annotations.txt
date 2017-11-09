@@ -1,0 +1,17 @@
+CLUSTER	466
+NUM_SEQ	9
+LENGTH	225
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	119.25
+FAMILIES	{'Herpesviridae': 9}
+GENERA	{'None': 1, 'Cytomegalovirus': 5, 'Roseolovirus': 2, 'Muromegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|538447243|ref|YP_008492983.1|vFam_466| tegument protein [Porcine cytomegalovirus]
+gi|9633115|ref|NP_050225.1|vFam_466| hypothetical protein HhV6Bgp050 [Human herpesvirus 6B]
+gi|51874266|ref|YP_073784.1|vFam_466| tegument protein UL51 [Human herpesvirus 7]
+gi|448824904|ref|YP_007417836.1|vFam_466| GP71 [Caviid herpesvirus 2]
+gi|425707271|ref|YP_007016468.1|vFam_466| E71 [Murid herpesvirus 8]
+gi|359946503|ref|YP_004936036.1|vFam_466| tegument protein UL51 [Cercopithecine herpesvirus 5]
+gi|356640393|ref|YP_004933835.1|vFam_466| tegument protein UL71 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086548|ref|YP_004940233.1|vFam_466| tegument protein UL51 [Saimiriine herpesvirus 3]
+gi|360040952|ref|YP_004940087.1|vFam_466| tegument protein UL51 [Aotine herpesvirus 1]

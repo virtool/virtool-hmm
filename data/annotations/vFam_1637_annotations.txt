@@ -1,0 +1,13 @@
+CLUSTER	1637
+NUM_SEQ	5
+LENGTH	343
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	178.36
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9631361|ref|NP_048220.1|vFam_1637| ORF MSV149 putative RPO35 homolog (vaccinia A29L), similar to SW:P21087 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497794|ref|YP_008003593.1|vFam_1637| RNA polymerase RPO35 [Mythimna separata entomopoxvirus 'L']
+gi|506498077|ref|YP_008003874.1|vFam_1637| RNA polymerase RPO35 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498368|ref|YP_008004164.1|vFam_1637| RNA polymerase RPO35 [Choristoneura biennis entomopoxvirus 'L']
+gi|9964365|ref|NP_064833.1|vFam_1637| putative RPO35 (vaccinia A29L) [Amsacta moorei entomopoxvirus 'L']

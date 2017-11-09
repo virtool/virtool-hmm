@@ -1,0 +1,10 @@
+CLUSTER	4356
+NUM_SEQ	2
+LENGTH	521
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	265.71
+FAMILIES	{'None': 1, 'Malacoherpesviridae': 1}
+GENERA	{'None': 1, 'Ostreavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|410493550|ref|YP_006908748.1|vFam_4356| hypothetical protein AbHV_ORF96 [Abalone herpesvirus Victoria/AUS/2009]
+gi|48696777|ref|YP_024601.1|vFam_4356| ORF58 [Ostreid herpesvirus 1]

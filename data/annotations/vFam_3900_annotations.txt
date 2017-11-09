@@ -1,0 +1,10 @@
+CLUSTER	3900
+NUM_SEQ	2
+LENGTH	225
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	117.0
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|41057502|ref|NP_957975.1|vFam_3900| ORF066 virion protein [Bovine papular stomatitis virus]
+gi|289183830|ref|YP_003457371.1|vFam_3900| virion protein [Pseudocowpox virus]

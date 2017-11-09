@@ -1,0 +1,15 @@
+CLUSTER	917
+NUM_SEQ	7
+LENGTH	607
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	315.64
+FAMILIES	{'None': 1, 'Phycodnaviridae': 4, 'Mimiviridae': 2}
+GENERA	{'None': 2, 'Mimivirus': 1, 'Prymnesiovirus': 1, 'Chlorovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|155370133|ref|YP_001425667.1|vFam_917| hypothetical protein FR483_N035R [Paramecium bursaria Chlorella virus FR483]
+gi|340025710|ref|NP_048448.2|vFam_917| Glutamine:fructose-6-phosphate amidotransferase [Paramecium bursaria Chlorella virus 1]
+gi|157952447|ref|YP_001497339.1|vFam_917| hypothetical protein NY2A_B143R [Paramecium bursaria Chlorella virus NY2A]
+gi|508181910|ref|YP_008052429.1|vFam_917| glucosamine-fructose-6-phosphate aminotransferase [Phaeocystis globosa virus]
+gi|311978016|ref|YP_003987136.1|vFam_917| probable glucosamine--fructose-6-phosphate aminotransferase [Acanthamoeba polyphaga mimivirus]
+gi|448825737|ref|YP_007418668.1|vFam_917| putative glucosamine-fructose-6-phosphate aminotransferase [Megavirus lba]
+gi|441432573|ref|YP_007354615.1|vFam_917| putative glucosamine-fructose-6-phosphate aminotransferase [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,12 @@
+CLUSTER	2310
+NUM_SEQ	4
+LENGTH	279
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	139.5
+FAMILIES	{'Alloherpesviridae': 4}
+GENERA	{'Cyprinivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|282174053|ref|YP_003358155.1|vFam_2310| protein ORF16 [Anguillid herpesvirus 1]
+gi|282174050|ref|YP_003358152.1|vFam_2310| protein ORF13 [Anguillid herpesvirus 1]
+gi|282174054|ref|YP_003358156.1|vFam_2310| protein ORF17 [Anguillid herpesvirus 1]
+gi|282174061|ref|YP_003358163.1|vFam_2310| protein ORF24 [Anguillid herpesvirus 1]

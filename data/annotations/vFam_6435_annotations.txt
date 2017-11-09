@@ -1,0 +1,10 @@
+CLUSTER	6435
+NUM_SEQ	2
+LENGTH	192
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	97.92
+FAMILIES	{'Rhabdoviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|216967214|ref|YP_002333275.1|vFam_6435| hypothetical protein WoV_gp05 [Wongabel virus]
+gi|216967213|ref|YP_002333274.1|vFam_6435| hypothetical protein WoV_gp04 [Wongabel virus]

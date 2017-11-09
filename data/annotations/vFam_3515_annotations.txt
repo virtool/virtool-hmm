@@ -1,0 +1,12 @@
+CLUSTER	3515
+NUM_SEQ	4
+LENGTH	166
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	86.32
+FAMILIES	{'Marseillevirus family': 2, 'Iridoviridae': 1}
+GENERA	{'None': 2, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|527333545|ref|YP_008357329.1|vFam_3515| putative deoxynucleotide monophosphate kinase [Invertebrate iridovirus 22]
+gi|339906143|ref|YP_004732940.1|vFam_3515| hypothetical protein WIV_gp157 [Wiseana iridescent virus]
+gi|327409766|ref|YP_004347186.1|vFam_3515| putative deoxynucleotide monophosphate kinase [Lausannevirus]
+gi|284504243|ref|YP_003406958.1|vFam_3515| dNMP kinase [Marseillevirus]

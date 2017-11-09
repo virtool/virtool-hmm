@@ -1,0 +1,11 @@
+CLUSTER	2426
+NUM_SEQ	3
+LENGTH	225
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	117.0
+FAMILIES	{'Paramyxoviridae': 3}
+GENERA	{'Rubulavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|82712718|ref|YP_415510.1|vFam_2426| V protein [Menangle virus]
+gi|22003846|ref|NP_665867.1|vFam_2426| W protein [Tioman virus]
+gi|22003845|ref|NP_665866.1|vFam_2426| V protein [Tioman virus]

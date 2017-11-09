@@ -1,0 +1,20 @@
+CLUSTER	666
+NUM_SEQ	12
+LENGTH	224
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	114.24
+FAMILIES	{'Parvoviridae': 11}
+GENERA	{'Bocavirus': 11}
+FASTA SEQUENCE TITLES:
+gi|372204039|ref|YP_005086949.1|vFam_666| NP1 gene product [Porcine bocavirus 5/JS677]
+gi|347762080|ref|YP_004869646.1|vFam_666| NP1 [Porcine bocavirus 4-1]
+gi|238621218|ref|YP_002916061.1|vFam_666| NP1 [Human bocavirus 4]
+gi|222824552|ref|YP_002586774.1|vFam_666| NP1 [Human bocavirus 2]
+gi|226938556|ref|YP_002808455.1|vFam_666| NP1 [Human bocavirus 3]
+gi|302317868|ref|YP_003799997.1|vFam_666| nucleoprotein 1 [Bocavirus gorilla/GBoV1/2009]
+gi|77125238|ref|YP_338087.1|vFam_666| NP-1 [Human bocavirus]
+gi|9627192|ref|NP_041403.1|vFam_666| hypothetical protein [Bovine parvovirus]
+gi|470457073|ref|YP_007518455.1|vFam_666| NP1 [Canine bocavirus]
+gi|27151465|ref|NP_758522.1|vFam_666| NP1 [Canine minute virus]
+gi|557940286|ref|YP_008802581.1|vFam_666| NP1 [Feline bocavirus 2]
+gi|386576361|ref|YP_006272945.1|vFam_666| NP1 [Feline bocavirus]

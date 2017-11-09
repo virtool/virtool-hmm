@@ -1,0 +1,10 @@
+CLUSTER	4308
+NUM_SEQ	2
+LENGTH	155
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	77.5
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531034980|ref|YP_008436605.1|vFam_4308| hypothetical protein ps_189 [Pandoravirus salinus]
+gi|526119392|ref|YP_008319295.1|vFam_4308| hypothetical protein [Pandoravirus dulcis]

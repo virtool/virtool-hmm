@@ -1,0 +1,11 @@
+CLUSTER	3973
+NUM_SEQ	3
+LENGTH	395
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	197.5
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Ictalurivirus': 1, 'Batrachovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9626898|ref|NP_041168.1|vFam_3973| ORF78 [Ictalurid herpesvirus 1]
+gi|109638488|ref|YP_656680.1|vFam_3973| ORF25 [Ranid herpesvirus 1]
+gi|109638654|ref|YP_656604.1|vFam_3973| ORF96 [Ranid herpesvirus 2]

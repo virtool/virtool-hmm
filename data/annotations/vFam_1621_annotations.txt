@@ -1,0 +1,12 @@
+CLUSTER	1621
+NUM_SEQ	4
+LENGTH	238
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	123.76
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|157953309|ref|YP_001498200.1|vFam_1621| hypothetical protein AR158_C118R [Paramecium bursaria Chlorella virus AR158]
+gi|9631654|ref|NP_048433.1|vFam_1621| Prolyl 4-hydroxylase [Paramecium bursaria Chlorella virus 1]
+gi|155371697|ref|YP_001427231.1|vFam_1621| hypothetical protein ATCV1_Z750R [Acanthocystis turfacea Chlorella virus 1]
+gi|155370516|ref|YP_001426050.1|vFam_1621| hypothetical protein FR483_N418R [Paramecium bursaria Chlorella virus FR483]

@@ -1,0 +1,10 @@
+CLUSTER	6021
+NUM_SEQ	2
+LENGTH	447
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	227.97
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|441432023|ref|YP_007354065.1|vFam_6021| Phospholipid methyltransferase [Acanthamoeba polyphaga moumouvirus]
+gi|311978219|ref|YP_003987339.1|vFam_6021| probable 7-dehydrocholesterol reductase [Acanthamoeba polyphaga mimivirus]

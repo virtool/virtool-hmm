@@ -1,0 +1,10 @@
+CLUSTER	5417
+NUM_SEQ	2
+LENGTH	314
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	160.14
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'None': 1, 'Rhadinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|321496624|ref|YP_004207909.1|vFam_5417| LANA-like protein [Rodent herpesvirus Peru]
+gi|9629629|ref|NP_044913.1|vFam_5417| nuclear antigen LANA [Murid herpesvirus 4]

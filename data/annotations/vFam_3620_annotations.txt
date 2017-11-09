@@ -1,0 +1,10 @@
+CLUSTER	3620
+NUM_SEQ	2
+LENGTH	132
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	69.96
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|155370435|ref|YP_001425969.1|vFam_3620| hypothetical protein FR483_n337R [Paramecium bursaria Chlorella virus FR483]
+gi|9631891|ref|NP_048679.1|vFam_3620| hypothetical protein [Paramecium bursaria Chlorella virus 1]

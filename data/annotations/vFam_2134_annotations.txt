@@ -1,0 +1,12 @@
+CLUSTER	2134
+NUM_SEQ	4
+LENGTH	152
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	79.04
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 2, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|22122243|ref|NP_666604.1|vFam_2134| hypothetical protein SIRV1gp16 [Sulfolobus islandicus rod-shaped virus 1]
+gi|313844099|ref|YP_004061762.1|vFam_2134| hypothetical protein OlV1_129 [Ostreococcus lucimarinus virus OlV1]
+gi|260666016|ref|YP_003212970.1|vFam_2134| hypothetical protein H665_p147 [Ostreococcus tauri virus 1]
+gi|314055232|ref|YP_004063570.1|vFam_2134| hypothetical protein OtV2_137 [Ostreococcus tauri virus 2]

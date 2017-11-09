@@ -1,0 +1,19 @@
+CLUSTER	865
+NUM_SEQ	11
+LENGTH	53
+RELATIVE_ENTROPY_PER_POSITION	0.99
+TOTAL_RELATIVE_ENTROPY	52.47
+FAMILIES	{'Adenoviridae': 10}
+GENERA	{'None': 1, 'Mastadenovirus': 9}
+FASTA SEQUENCE TITLES:
+gi|56160465|ref|AP_000134.1|vFam_865| U exon, partial [Human adenovirus A]
+gi|496838718|ref|YP_007518336.1|vFam_865| U exon [Titi monkey adenovirus ECC-2011]
+gi|160409926|ref|NP_597754.2|vFam_865| protein U [Human adenovirus C]
+gi|56160558|ref|AP_000225.1|vFam_865| U exon [Human adenovirus 5]
+gi|197944758|ref|YP_002213834.1|vFam_865| protein U [Human adenovirus B]
+gi|197944798|ref|YP_002213845.1|vFam_865| protein U [Human adenovirus B]
+gi|56160626|ref|AP_000291.1|vFam_865| U exon [Simian adenovirus 21]
+gi|190341005|ref|YP_001974433.1|vFam_865| protein U [Human adenovirus D]
+gi|56160665|ref|AP_000329.1|vFam_865| U exon [Simian adenovirus 25]
+gi|485191085|ref|YP_007906021.1|vFam_865| U exon [Simian adenovirus C]
+gi|32453790|ref|NP_040874.2|vFam_865| protein U [Human adenovirus F]

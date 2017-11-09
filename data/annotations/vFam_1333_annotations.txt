@@ -1,0 +1,12 @@
+CLUSTER	1333
+NUM_SEQ	4
+LENGTH	199
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	101.49
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|359946545|ref|YP_004936078.1|vFam_1333| membrane protein UL120 [Cercopithecine herpesvirus 5]
+gi|356640458|ref|YP_004933900.1|vFam_1333| putative membrane glycoprotein UL120 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139284|ref|YP_081559.1|vFam_1333| membrane protein UL120 [Human herpesvirus 5]
+gi|20026701|ref|NP_612743.1|vFam_1333| membrane protein UL120 [Panine herpesvirus 2]

@@ -1,0 +1,11 @@
+CLUSTER	4483
+NUM_SEQ	3
+LENGTH	404
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	202.0
+FAMILIES	{'Alloherpesviridae': 2, 'Phycodnaviridae': 1}
+GENERA	{'Batrachovirus': 2, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852656|ref|YP_293940.1|vFam_4483| hypothetical protein EhV186 [Emiliania huxleyi virus 86]
+gi|109638651|ref|YP_656579.1|vFam_4483| ORF71 [Ranid herpesvirus 2]
+gi|109638507|ref|YP_656700.1|vFam_4483| ORF45 [Ranid herpesvirus 1]

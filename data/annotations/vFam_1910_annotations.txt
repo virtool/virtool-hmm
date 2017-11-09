@@ -1,0 +1,10 @@
+CLUSTER	1910
+NUM_SEQ	2
+LENGTH	100
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531037145|ref|YP_008438787.1|vFam_1910| hypothetical protein ps_2385 [Pandoravirus salinus]
+gi|531037143|ref|YP_008438785.1|vFam_1910| hypothetical protein ps_2383 [Pandoravirus salinus]

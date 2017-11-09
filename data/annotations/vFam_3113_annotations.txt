@@ -1,0 +1,11 @@
+CLUSTER	3113
+NUM_SEQ	3
+LENGTH	351
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	179.01
+FAMILIES	{'Marseillevirus family': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|327409816|ref|YP_004347236.1|vFam_3113| putative serine/threonine protein kinase [Lausannevirus]
+gi|327409673|ref|YP_004347093.1|vFam_3113| putative serine/threonine protein kinase [Lausannevirus]
+gi|284504116|ref|YP_003406831.1|vFam_3113| serine/threonine protein kinase [Marseillevirus]

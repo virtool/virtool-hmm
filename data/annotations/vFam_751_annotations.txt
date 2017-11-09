@@ -1,0 +1,16 @@
+CLUSTER	751
+NUM_SEQ	8
+LENGTH	190
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	98.8
+FAMILIES	{'Poxviridae': 8}
+GENERA	{'None': 1, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Orthopoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|66275975|ref|YP_233060.1|vFam_751| Toll/IL1-receptor [Vaccinia virus]
+gi|345107344|ref|YP_004821509.1|vFam_751| Toll/IL-receptor-like protein [Yoka poxvirus]
+gi|377830092|ref|YP_005296340.1|vFam_751| unnamed protein product [Cotia virus SPAn232]
+gi|157939763|ref|YP_001497135.1|vFam_751| A52R-family [Tanapox virus]
+gi|38229298|ref|NP_938391.1|vFam_751| 139R [Yaba monkey tumor virus]
+gi|211956423|ref|YP_002302493.1|vFam_751| IL-1R/TLR signaling inhibitor [Deerpox virus W-1170-84]
+gi|9633775|ref|NP_051853.1|vFam_751| m139R [Myxoma virus]
+gi|18640221|ref|NP_570295.1|vFam_751| SPV135 A52R-like family protein [Swinepox virus]

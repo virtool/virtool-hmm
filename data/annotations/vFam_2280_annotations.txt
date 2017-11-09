@@ -1,0 +1,11 @@
+CLUSTER	2280
+NUM_SEQ	3
+LENGTH	135
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	66.15
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497902|ref|YP_008003701.1|vFam_2280| unknown similar to AMEV143 [Mythimna separata entomopoxvirus 'L']
+gi|506498770|ref|YP_008004564.1|vFam_2280| unknown similar to AMEV144 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964457|ref|NP_064925.1|vFam_2280| putative DNA primase [Amsacta moorei entomopoxvirus 'L']

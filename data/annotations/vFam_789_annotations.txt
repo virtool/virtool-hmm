@@ -1,0 +1,16 @@
+CLUSTER	789
+NUM_SEQ	8
+LENGTH	310
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	155.0
+FAMILIES	{'Herpesviridae': 8}
+GENERA	{'Varicellovirus': 7, 'Mardivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|255683209|ref|YP_003084437.1|vFam_789| US1 [Anatid herpesvirus 1]
+gi|13242470|ref|NP_077484.1|vFam_789| regulatory protein ICP22 [Cercopithecine herpesvirus 9]
+gi|9625944|ref|NP_040192.1|vFam_789| regulatory protein ICP22 [Human herpesvirus 3]
+gi|296316073|ref|YP_003662537.1|vFam_789| regulatory protein ICP22 [Bovine herpesvirus 5]
+gi|9629890|ref|NP_045374.1|vFam_789| regulatory protein ICP22 [Bovine herpesvirus 1]
+gi|270339509|ref|YP_003331595.1|vFam_789| regulatory protein ICP22 [Felid herpesvirus 1]
+gi|50313320|ref|YP_053123.1|vFam_789| regulatory protein ICP22 [Equid herpesvirus 1]
+gi|9629810|ref|NP_045295.1|vFam_789| regulatory protein ICP22 [Equid herpesvirus 4]

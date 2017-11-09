@@ -1,0 +1,11 @@
+CLUSTER	4274
+NUM_SEQ	3
+LENGTH	288
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	146.88
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|16753138|ref|NP_445716.1|vFam_4274| hypothetical protein SIFV0053 [Sulfolobus islandicus filamentous virus]
+gi|162329473|ref|YP_001604273.1|vFam_4274| hypothetical protein AFV7_gp49 [Acidianus filamentous virus 7]
+gi|157929315|ref|YP_001496967.1|vFam_4274| hypothetical protein AFV2_gp42 [Acidianus filamentous virus 2]

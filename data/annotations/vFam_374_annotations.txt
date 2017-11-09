@@ -1,0 +1,25 @@
+CLUSTER	374
+NUM_SEQ	17
+LENGTH	224
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	116.48
+FAMILIES	{'Poxviridae': 17}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531738|ref|YP_784264.1|vFam_374| transcriptional elongation factor [Nile crocodilepox virus]
+gi|40556043|ref|NP_955128.1|vFam_374| CNPV106 putative elongation factor [Canarypox virus]
+gi|9634749|ref|NP_039041.1|vFam_374| Putative elongation factor [Fowlpox virus]
+gi|377829960|ref|YP_005296256.1|vFam_374| unnamed protein product [Cotia virus SPAn232]
+gi|211956332|ref|YP_002302401.1|vFam_374| transcriptional elongation factor [Deerpox virus W-1170-84]
+gi|9633856|ref|NP_051936.1|vFam_374| gp047R [Rabbit fibroma virus]
+gi|9633683|ref|NP_051761.1|vFam_374| m047R [Myxoma virus]
+gi|148912929|ref|YP_001293243.1|vFam_374| hypothetical protein GTPV_gp048 [Goatpox virus Pellor]
+gi|18640135|ref|NP_570209.1|vFam_374| SPV048 putative transcriptional elongation factor [Swinepox virus]
+gi|157939675|ref|YP_001497047.1|vFam_374| transcriptional elongation factor [Tanapox virus]
+gi|38229214|ref|NP_938307.1|vFam_374| 52R [Yaba monkey tumor virus]
+gi|113195260|ref|YP_717390.1|vFam_374| late transcription elongation factor [Taterapox virus]
+gi|345107247|ref|YP_004821412.1|vFam_374| late transcription elongation factor [Yoka poxvirus]
+gi|41057475|ref|NP_957948.1|vFam_374| ORF038 late transcription elongation factor [Bovine papular stomatitis virus]
+gi|289183803|ref|YP_003457344.1|vFam_374| late transcription elongation factor [Pseudocowpox virus]
+gi|9628990|ref|NP_044009.1|vFam_374| MC058R [Molluscum contagiosum virus subtype 1]
+gi|571797972|ref|YP_008658471.1|vFam_374| transcriptional elongation factor [Squirrelpox virus]

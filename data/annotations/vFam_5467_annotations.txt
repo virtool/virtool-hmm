@@ -1,0 +1,10 @@
+CLUSTER	5467
+NUM_SEQ	2
+LENGTH	294
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	155.82
+FAMILIES	{'Paramyxoviridae': 2}
+GENERA	{'Metapneumovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|83716027|ref|YP_443838.1|vFam_5467| phosphoprotein [Avian metapneumovirus]
+gi|46852134|ref|YP_012606.1|vFam_5467| phosphoprotein [Human metapneumovirus]

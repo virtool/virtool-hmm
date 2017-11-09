@@ -1,0 +1,11 @@
+CLUSTER	3322
+NUM_SEQ	3
+LENGTH	393
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	204.36
+FAMILIES	{'Reoviridae': 3}
+GENERA	{'Rotavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|517501594|ref|YP_008136240.1|vFam_3322| VP6 [Rotavirus G chicken/03V0567/DEU/2003]
+gi|514360955|ref|YP_008126846.1|vFam_3322| inner capsid protein [Human rotavirus B]
+gi|78767274|ref|YP_392495.1|vFam_3322| VP6 [Adult diarrheal rotavirus strain J19]

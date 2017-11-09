@@ -1,0 +1,12 @@
+CLUSTER	3096
+NUM_SEQ	4
+LENGTH	339
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	172.89
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2, 'Phaeovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831319|ref|YP_003969962.1|vFam_3096| putative DNA replication factor C subunit [Cafeteria roenbergensis virus BV-PW1]
+gi|13242657|ref|NP_077672.1|vFam_3096| EsV-1-187 [Ectocarpus siliculosus virus 1]
+gi|441432263|ref|YP_007354305.1|vFam_3096| putative replication factor C small subunit [Acanthamoeba polyphaga moumouvirus]
+gi|311977866|ref|YP_003986986.1|vFam_3096| putative replication factor C small subunit [Acanthamoeba polyphaga mimivirus]

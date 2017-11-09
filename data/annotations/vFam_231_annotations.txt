@@ -1,0 +1,18 @@
+CLUSTER	231
+NUM_SEQ	10
+LENGTH	173
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	89.96
+FAMILIES	{'Virgaviridae': 9, 'Phycodnaviridae': 1}
+GENERA	{'Furovirus': 4, 'Pomovirus': 5, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|19919948|ref|NP_612610.1|vFam_231| 18K protein [Beet virus Q]
+gi|313768021|ref|YP_004061452.1|vFam_231| hypothetical protein BpV1_022c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|25140196|ref|NP_740763.1|vFam_231| capsid protein [Broad bean necrosis virus]
+gi|20373120|ref|NP_620437.1|vFam_231| coat protein [Potato mop-top virus]
+gi|19919945|ref|NP_612608.1|vFam_231| coat protein [Beet virus Q]
+gi|19919928|ref|NP_612624.1|vFam_231| coat protein [Beet soil-borne virus]
+gi|21453550|ref|NP_659546.1|vFam_231| hypothetical protein [Sorghum chlorotic spot virus]
+gi|9635447|ref|NP_059483.1|vFam_231| coat protein [Chinese wheat mosaic virus]
+gi|9635451|ref|NP_059486.1|vFam_231| coat protein [Oat golden stripe virus]
+gi|9632358|ref|NP_049339.1|vFam_231| 19 kDa capsid protein [Soil-borne wheat mosaic virus]

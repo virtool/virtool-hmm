@@ -1,0 +1,11 @@
+CLUSTER	4848
+NUM_SEQ	3
+LENGTH	190
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	96.9
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|422933577|ref|YP_007003701.1|vFam_4848| protein ORF32 [Cyprinid herpesvirus 1]
+gi|422933810|ref|YP_007003856.1|vFam_4848| protein ORF32 [Cyprinid herpesvirus 2]
+gi|131840059|ref|YP_001096068.1|vFam_4848| unnamed protein product [Cyprinid herpesvirus 3]

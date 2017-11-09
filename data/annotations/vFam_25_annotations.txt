@@ -1,0 +1,44 @@
+CLUSTER	25
+NUM_SEQ	36
+LENGTH	968
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	484.0
+FAMILIES	{'Hytrosaviridae': 2, 'Phycodnaviridae': 5, 'Iridoviridae': 3, 'Herpesviridae': 24, 'Ascoviridae': 2}
+GENERA	{'Percavirus': 1, 'Muscavirus': 1, 'Cytomegalovirus': 5, 'Phaeovirus': 2, 'Megalocytivirus': 1, 'Muromegalovirus': 1, 'Ascovirus': 2, 'None': 2, 'Glossinavirus': 1, 'Coccolithovirus': 1, 'Macavirus': 2, 'Roseolovirus': 2, 'Proboscivirus': 1, 'Prasinovirus': 1, 'Varicellovirus': 1, 'Iltovirus': 2, 'Lymphocryptovirus': 2, 'Rhadinovirus': 6, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|187903038|ref|YP_001883329.1|vFam_25| DNA polymerase [Musca domestica salivary gland hypertrophy virus]
+gi|168804095|ref|YP_001687027.1|vFam_25| DNA polymerase-like protein [Glossina pallidipes salivary gland hypertrophy virus]
+gi|51557499|ref|YP_068333.1|vFam_25| DNA polymerase catalytic subunit [Suid herpesvirus 1]
+gi|57790955|ref|YP_182359.1|vFam_25| DNA polymerase catalytic subunit [Gallid herpesvirus 1]
+gi|38638220|ref|NP_944403.1|vFam_25| DNA polymerase catalytic subunit [Psittacid herpesvirus 1]
+gi|82503268|ref|YP_401712.1|vFam_25| DNA polymerase [Human herpesvirus 4]
+gi|24943095|ref|NP_733857.1|vFam_25| ORF5 [callitrichine herpesvirus 3]
+gi|321496564|ref|YP_004207849.1|vFam_25| DNA polymerase [Rodent herpesvirus Peru]
+gi|9629560|ref|NP_044849.1|vFam_25| DNA polymerase catalytic subunit [Murid herpesvirus 4]
+gi|83642849|ref|YP_438136.1|vFam_25| ORF9 [Ovine herpesvirus 2]
+gi|10140935|ref|NP_065512.1|vFam_25| DNA Polymerase [Alcelaphine herpesvirus 1]
+gi|9628011|ref|NP_042605.1|vFam_25| DNA polymerase replicative subunit [Equid herpesvirus 2]
+gi|9631199|ref|NP_047983.1|vFam_25| DNA polymerase [Ateline herpesvirus 3]
+gi|9625965|ref|NP_040211.1|vFam_25| DNA polymerase [Saimiriine herpesvirus 2]
+gi|13095586|ref|NP_076501.1|vFam_25| DNA polymerase [Bovine herpesvirus 4]
+gi|139472809|ref|YP_001129355.1|vFam_25| ORF9 [Human herpesvirus 8]
+gi|18653816|ref|NP_570750.1|vFam_25| DNA polymerase [Macacine herpesvirus 5]
+gi|496991140|ref|YP_007969814.1|vFam_25| DNA polymerase catalytic subunit [Elephantid herpesvirus 1]
+gi|425707264|ref|YP_007016461.1|vFam_25| E54 [Murid herpesvirus 8]
+gi|359946444|ref|YP_004936030.1|vFam_25| DNA polymerase catalytic subunit [Cercopithecine herpesvirus 5]
+gi|356640379|ref|YP_004933821.1|vFam_25| protein UL54 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086542|ref|YP_004940227.1|vFam_25| DNA polymerase catalytic subunit [Saimiriine herpesvirus 3]
+gi|360040946|ref|YP_004940081.1|vFam_25| DNA polymerase catalytic subunit [Aotine herpesvirus 1]
+gi|538447237|ref|YP_008492977.1|vFam_25| DNA polymerase catalytic subunit [Porcine cytomegalovirus]
+gi|9633109|ref|NP_050219.1|vFam_25| DNA polymerase [Human herpesvirus 6B]
+gi|51874260|ref|YP_073778.1|vFam_25| DNA polymerase catalytic subunit [Human herpesvirus 7]
+gi|197322442|ref|YP_002154715.1|vFam_25| putative DNA-dependent DNA polymerase [Feldmannia species virus]
+gi|13242564|ref|NP_077578.1|vFam_25| EsV-1-93 [Ectocarpus siliculosus virus 1]
+gi|73852500|ref|YP_293784.1|vFam_25| putative DNA polymerase delta catalytic subunit [Emiliania huxleyi virus 86]
+gi|314055302|ref|YP_004063640.1|vFam_25| DNA polymerase [Ostreococcus tauri virus 2]
+gi|313768423|ref|YP_004062103.1|vFam_25| hypothetical protein MpV1_220 [Micromonas sp. RCC1109 virus MpV1]
+gi|134287157|ref|YP_001110854.1|vFam_25| DNA polymerase [Heliothis virescens ascovirus 3e]
+gi|116326850|ref|YP_803224.1|vFam_25| DNA polymerase [Trichoplusia ni ascovirus 2c]
+gi|19881424|ref|NP_612241.1|vFam_25| putative DNA polymerase [Infectious spleen and kidney necrosis virus]
+gi|388260125|ref|YP_006347653.1|vFam_25| DNA polymerase [European catfish virus]
+gi|56692765|ref|YP_164223.1|vFam_25| DNA polymerase [Singapore grouper iridovirus]

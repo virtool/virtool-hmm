@@ -1,0 +1,18 @@
+CLUSTER	349
+NUM_SEQ	10
+LENGTH	791
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	403.41
+FAMILIES	{'Baculoviridae': 8}
+GENERA	{'Betabaculovirus': 4, 'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|285002445|ref|YP_003422509.1|vFam_349| enhancin-4 [Pseudaletia unipuncta granulovirus]
+gi|164519359|ref|YP_001649146.1|vFam_349| enhancin-4 [Helicoverpa armigera granulovirus]
+gi|285002432|ref|YP_003422496.1|vFam_349| enhancin-1 [Pseudaletia unipuncta granulovirus]
+gi|9635400|ref|NP_059298.1|vFam_349| ORF150 [Xestia c-nigrum granulovirus]
+gi|529153597|ref|YP_008378622.1|vFam_349| VEF [Choristoneura occidentalis alphabaculovirus]
+gi|529153433|ref|YP_008378473.1|vFam_349| VEF [Choristoneura rosaceana alphabaculovirus]
+gi|292397736|ref|YP_003517802.1|vFam_349| viral enhancing factor 1 [Lymantria xylina MNPV]
+gi|9631032|ref|NP_047702.1|vFam_349| viral enhancing factor 1 [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|292397827|ref|YP_003517893.1|vFam_349| VEF-2 [Lymantria xylina MNPV]
+gi|228861612|ref|YP_002854632.1|vFam_349| vef [Euproctis pseudoconspersa nucleopolyhedrovirus]

@@ -1,0 +1,24 @@
+CLUSTER	370
+NUM_SEQ	16
+LENGTH	196
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	101.92
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 1, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531804|ref|YP_784330.1|vFam_370| IMV membrane protein [Nile crocodilepox virus]
+gi|40556194|ref|NP_955279.1|vFam_370| CNPV256 putative phosphorylated IMV membrane protein [Canarypox virus]
+gi|9634852|ref|NP_039145.1|vFam_370| Phosphorylated virion membrane protein [Fowlpox virus]
+gi|41057530|ref|NP_958003.1|vFam_370| ORF094 phosphorylated IMV membrane protein [Bovine papular stomatitis virus]
+gi|289183859|ref|YP_003457400.1|vFam_370| phosphorylated IMV membrane protein [Pseudocowpox virus]
+gi|571798032|ref|YP_008658531.1|vFam_370| IMV membrane protein [Squirrelpox virus]
+gi|9629054|ref|NP_044073.1|vFam_370| MC122L [Molluscum contagiosum virus subtype 1]
+gi|377830013|ref|YP_005296314.1|vFam_370| unnamed protein product [Cotia virus SPAn232]
+gi|9633917|ref|NP_051996.1|vFam_370| gp107L [Rabbit fibroma virus]
+gi|9633743|ref|NP_051821.1|vFam_370| m107L [Myxoma virus]
+gi|15150548|ref|NP_150543.1|vFam_370| LSDV109 putative phosphorylated IMV membrane protein [Lumpy skin disease virus NI-2490]
+gi|18640192|ref|NP_570266.1|vFam_370| SPV106 putative phosphorylated IMV membrane protein [Swinepox virus]
+gi|211956389|ref|YP_002302458.1|vFam_370| IMV membrane protein [Deerpox virus W-1170-84]
+gi|157939732|ref|YP_001497104.1|vFam_370| IMV membrane phosphoprotein [Tanapox virus]
+gi|17975041|ref|NP_536555.1|vFam_370| A18L [Monkeypox virus Zaire-96-I-16]
+gi|345107309|ref|YP_004821474.1|vFam_370| IMV membrane protein [Yoka poxvirus]

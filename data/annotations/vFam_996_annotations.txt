@@ -1,0 +1,14 @@
+CLUSTER	996
+NUM_SEQ	6
+LENGTH	399
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	207.48
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035088|ref|YP_008436713.1|vFam_996| hypothetical protein ps_297 [Pandoravirus salinus]
+gi|531036572|ref|YP_008438209.1|vFam_996| hypothetical protein ps_1803 [Pandoravirus salinus]
+gi|531036575|ref|YP_008438212.1|vFam_996| hypothetical protein ps_1806 [Pandoravirus salinus]
+gi|531034804|ref|YP_008436429.1|vFam_996| F-box domain [Pandoravirus salinus]
+gi|531036548|ref|YP_008438185.1|vFam_996| hypothetical protein ps_1779 [Pandoravirus salinus]
+gi|526119664|ref|YP_008319567.1|vFam_996| hypothetical protein [Pandoravirus dulcis]

@@ -1,0 +1,11 @@
+CLUSTER	1287
+NUM_SEQ	3
+LENGTH	377
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	192.27
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036601|ref|YP_008438238.1|vFam_1287| hypothetical protein ps_1832 [Pandoravirus salinus]
+gi|531036161|ref|YP_008437797.1|vFam_1287| F-box domain [Pandoravirus salinus]
+gi|531036116|ref|YP_008437752.1|vFam_1287| F-box domain [Pandoravirus salinus]

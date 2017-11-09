@@ -1,0 +1,26 @@
+CLUSTER	176
+NUM_SEQ	18
+LENGTH	840
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	436.8
+FAMILIES	{'Totiviridae': 17}
+GENERA	{'Leishmaniavirus': 3, 'None': 2, 'Totivirus': 4, 'Victorivirus': 8}
+FASTA SEQUENCE TITLES:
+gi|157939585|ref|YP_001497151.1|vFam_176| RNA-dependent RNA polymerase [Black raspberry virus F]
+gi|9627982|ref|NP_042581.1|vFam_176| RNA polymerase, partial [Saccharomyces cerevisiae virus L-BC (La)]
+gi|9628599|ref|NP_043465.1|vFam_176| RNA-dependent RNA polymerase [Leishmania RNA virus 2 - 1]
+gi|20153348|ref|NP_619653.1|vFam_176| RNA-dependent RNA polymerase, partial [Leishmania RNA virus 1 - 4]
+gi|9626923|ref|NP_041191.1|vFam_176| RNA dependent RNA polymerase [Leishmania RNA virus 1 - 1]
+gi|13487889|ref|NP_108651.1|vFam_176| RNA-dependent RNA polymerase [Eimeria brunetti RNA virus 1]
+gi|478755947|ref|YP_007761589.1|vFam_176| putative RNA-dependent RNA polymerase [Ustilaginoidea virens RNA virus 1]
+gi|78762704|ref|YP_392467.1|vFam_176| putative RNA-dependent RNA polymerase [Coniothyrium minitans RNA virus]
+gi|9630965|ref|NP_047560.1|vFam_176| RNA dependent RNA polymerase [Sphaeropsis sapinea RNA virus 2]
+gi|50080151|ref|YP_044807.1|vFam_176| putative RNA-dependent RNA polymerase [Gremmeniella abietina RNA virus L2]
+gi|164597962|ref|YP_001649206.1|vFam_176| RNA-dependent RNA polymerase [Magnaporthe oryzae virus 2]
+gi|33867952|ref|NP_898833.1|vFam_176| RNA-dependent RNA polymerase [Helicobasidium mompa No.17 dsRNA virus]
+gi|54193769|ref|YP_122352.1|vFam_176| putative RNA dependent RNA polymerase [Magnaporthe oryzae virus 1]
+gi|9630962|ref|NP_047558.1|vFam_176| RNA dependent RNA polymerase [Sphaeropsis sapinea RNA virus 1]
+gi|514361123|ref|YP_008130308.1|vFam_176| putative RNA dependent RNA polymerase [Rosellinia necatrix victorivirus 1]
+gi|124484602|ref|NP_619670.2|vFam_176| RNA dependent RNA polymerase [Helminthosporium victoriae virus 190S]
+gi|315573170|ref|YP_004089630.1|vFam_176| RNA dependent RNA polymerase [Tolypocladium cylindrosporum virus 1]
+gi|134141997|ref|YP_001109580.1|vFam_176| RNA-dependent RNA polymerase [Botryotinia fuckeliana totivirus 1]

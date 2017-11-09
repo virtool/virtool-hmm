@@ -1,0 +1,16 @@
+CLUSTER	22
+NUM_SEQ	8
+LENGTH	815
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	415.65
+FAMILIES	{'Secoviridae': 8}
+GENERA	{'Sequivirus': 1, 'None': 1, 'Nepovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|25013770|ref|NP_734447.1|vFam_22| RNA-dependent RNA polymerase [Parsnip yellow fleck virus]
+gi|109240528|ref|YP_654561.1|vFam_22| RNA-dependent RNA polymerase [Black raspberry necrosis virus]
+gi|387970886|ref|YP_006347732.1|vFam_22| putative RNA-dependent RNA polymerase [Grapevine deformation virus]
+gi|50553893|ref|YP_054443.1|vFam_22| RNA-dependent RNA polymerase [Arabis mosaic virus]
+gi|50429222|ref|NP_734017.2|vFam_22| RNA-dependent RNA polymerase [Cycas necrotic stunt virus]
+gi|194033123|ref|YP_002000610.1|vFam_22| RNA-dependent RNA polymerase [Grapevine chrome mosaic virus]
+gi|41387229|ref|NP_958841.1|vFam_22| Pol [Tomato black ring virus]
+gi|25014037|ref|NP_734035.1|vFam_22| RNA-dependent RNA polymerase [Beet ringspot virus]

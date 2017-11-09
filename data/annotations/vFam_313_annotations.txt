@@ -1,0 +1,18 @@
+CLUSTER	313
+NUM_SEQ	10
+LENGTH	376
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	191.76
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|571031202|ref|YP_008992098.1|vFam_313| ie2 [Choristoneura murinana alphabaculovirus]
+gi|529153483|ref|YP_008378508.1|vFam_313| IE-2 [Choristoneura occidentalis alphabaculovirus]
+gi|30387374|ref|NP_848453.1|vFam_313| immediate early gene 2 [Choristoneura fumiferana multiple nucleopolyhedrovirus]
+gi|37651350|ref|NP_932752.1|vFam_313| immediate early protein 2 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|86355526|ref|YP_473194.1|vFam_313| IE2 [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630089|ref|NP_046307.1|vFam_313| immediate early gene 2 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|438000449|ref|YP_007250554.1|vFam_313| IE-2 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|114680202|ref|YP_758615.1|vFam_313| immediate-early transcriptional regulatory protein-2 [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|119964653|ref|YP_950849.1|vFam_313| IE-2 [Maruca vitrata nucleopolyhedrovirus]
+gi|9627894|ref|NP_054182.1|vFam_313| early gene transactivator [Autographa californica nucleopolyhedrovirus]

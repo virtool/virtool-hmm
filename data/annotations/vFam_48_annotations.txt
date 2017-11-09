@@ -1,0 +1,36 @@
+CLUSTER	48
+NUM_SEQ	28
+LENGTH	1117
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	580.84
+FAMILIES	{'Virgaviridae': 26}
+GENERA	{'Pecluvirus': 2, 'Tobamovirus': 21, 'Tobravirus': 2, 'Hordeivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|219552916|ref|YP_002455904.1|vFam_48| 128 kDa [Cactus mild mottle virus]
+gi|360040885|ref|YP_004936167.1|vFam_48| unnamed protein product [Rattail cactus necrosis associated virus]
+gi|308125293|ref|YP_003915154.1|vFam_48| 129 kDa replicase [Frangipani mosaic virus]
+gi|366091749|ref|YP_004956728.1|vFam_48| unnamed protein product [Clitoria yellow mottle virus]
+gi|9790352|ref|NP_062914.1|vFam_48| 126 kDa protein [Tobacco mild green mosaic virus]
+gi|557940291|ref|YP_008802585.1|vFam_48| 129k replicase protein [Yellow tailflower mild mottle virus]
+gi|22212889|ref|NP_671719.1|vFam_48| 126kDa protein [Paprika mild mottle virus]
+gi|20806012|ref|NP_620842.1|vFam_48| 130K protein [Obuda pepper virus]
+gi|190149259|ref|YP_001974324.1|vFam_48| replicase [Brugmansia mild mottle virus]
+gi|20177426|ref|NP_619741.1|vFam_48| replication-associated protein [Pepper mild mottle virus]
+gi|151266413|ref|YP_001333650.1|vFam_48| 126 kDa replicase [Bell pepper mottle virus]
+gi|537711873|ref|YP_008492929.1|vFam_48| methyltransferase/helicase [Tomato mottle mosaic virus]
+gi|126165312|ref|YP_001041890.1|vFam_48| 126 kDa protein [Rehmannia mosaic virus]
+gi|115350052|ref|YP_762618.1|vFam_48| putative replicase [Streptocarpus flower break virus]
+gi|9628913|ref|NP_056809.1|vFam_48| 126KDa replicase [Odontoglossum ringspot virus]
+gi|383271569|ref|YP_005476601.1|vFam_48| RNA replicase component [Ribgrass mosaic virus]
+gi|18254498|ref|NP_543050.1|vFam_48| unnamed protein product [Wasabi mottle virus]
+gi|118725121|ref|YP_908761.1|vFam_48| 130 kDa replicase [Cucumber mottle virus]
+gi|20889367|ref|NP_624337.1|vFam_48| 131 kDa replicase [Zucchini green mottle mosaic virus]
+gi|9629354|ref|NP_044578.1|vFam_48| 129K protein [Cucumber green mottle mosaic virus]
+gi|113460147|ref|YP_719998.1|vFam_48| replicase [Hibiscus latent Singapore virus]
+gi|333595889|ref|YP_004465359.1|vFam_48| unnamed protein product [Passion fruit mosaic virus]
+gi|119964530|ref|YP_950421.1|vFam_48| 126 kDa replicase [Maracuja mosaic virus]
+gi|20522118|ref|NP_620670.1|vFam_48| 134 kDa protein [Tobacco rattle virus]
+gi|20178600|ref|NP_620034.1|vFam_48| 136K protein [Pepper ringspot virus]
+gi|19744918|ref|NP_604474.1|vFam_48| alpha protein [Barley stripe mosaic virus]
+gi|30018259|ref|NP_835261.1|vFam_48| methyltransferase [Indian peanut clump virus]
+gi|20178596|ref|NP_620040.1|vFam_48| hypothetical replicase [Peanut clump virus]

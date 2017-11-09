@@ -1,0 +1,22 @@
+CLUSTER	534
+NUM_SEQ	14
+LENGTH	75
+RELATIVE_ENTROPY_PER_POSITION	0.70
+TOTAL_RELATIVE_ENTROPY	52.5
+FAMILIES	{'Potyviridae': 14}
+GENERA	{'Potyvirus': 14}
+FASTA SEQUENCE TITLES:
+gi|390013204|ref|YP_006395314.1|vFam_534| PIPO, partial [Dasheen mosaic virus]
+gi|389885070|ref|YP_006393470.1|vFam_534| PIPO, partial [Zucchini yellow mosaic virus]
+gi|390371203|ref|YP_006405424.1|vFam_534| PIPO, partial [Zantedeschia mild mosaic virus]
+gi|390504037|ref|YP_006423983.1|vFam_534| PIPO, partial [Hardenbergia mosaic virus]
+gi|390371008|ref|YP_006405414.1|vFam_534| PIPO, partial [Telosma mosaic virus]
+gi|390508061|ref|YP_006424006.1|vFam_534| PIPO, partial [Yam bean mosaic virus]
+gi|389885072|ref|YP_006393472.1|vFam_534| PIPO, partial [Bean common mosaic virus]
+gi|390371016|ref|YP_006405423.1|vFam_534| PIPO, partial [Fritillary virus Y]
+gi|390013213|ref|YP_006395321.1|vFam_534| PIPO, partial [Cowpea aphid-borne mosaic virus]
+gi|390118504|ref|YP_006395351.1|vFam_534| PIPO, partial [East Asian Passiflora virus]
+gi|390013262|ref|YP_006395325.1|vFam_534| PIPO, partial [Bean common mosaic necrosis virus]
+gi|390577160|ref|YP_006424009.1|vFam_534| PIPO, partial [Wisteria vein mosaic virus]
+gi|390118489|ref|YP_006395337.1|vFam_534| PIPO, partial [Watermelon mosaic virus]
+gi|295413839|ref|YP_003587919.1|vFam_534| PIPO [Soybean mosaic virus]

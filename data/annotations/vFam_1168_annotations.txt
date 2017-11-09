@@ -1,0 +1,10 @@
+CLUSTER	1168
+NUM_SEQ	2
+LENGTH	193
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	98.43
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|216906073|ref|YP_002333631.1|vFam_1168| hypothetical protein ASSaV_gp14 [Abalone shriveling syndrome-associated virus]
+gi|114679973|ref|YP_758423.1|vFam_1168| ORF126 [Leucania separata nucleopolyhedrovirus]

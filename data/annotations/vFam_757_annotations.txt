@@ -1,0 +1,17 @@
+CLUSTER	757
+NUM_SEQ	9
+LENGTH	209
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	106.59
+FAMILIES	{'None': 2, 'Phycodnaviridae': 5, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 5, 'Prasinovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|313768105|ref|YP_004061536.1|vFam_757| hypothetical protein BpV1_106c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768324|ref|YP_004062004.1|vFam_757| hypothetical protein MpV1_121c [Micromonas sp. RCC1109 virus MpV1]
+gi|163955099|ref|YP_001648203.1|vFam_757| hypothetical protein OsV5_126r [Ostreococcus virus OsV5]
+gi|314055201|ref|YP_004063539.1|vFam_757| prolyl 4-hydroxylase [Ostreococcus tauri virus 2]
+gi|313844088|ref|YP_004061751.1|vFam_757| hypothetical protein OlV1_118c [Ostreococcus lucimarinus virus OlV1]
+gi|310831339|ref|YP_003969982.1|vFam_757| putative prolyl 4-hydroxylase alpha subunit [Cafeteria roenbergensis virus BV-PW1]
+gi|311977988|ref|YP_003987108.1|vFam_757| putative prolyl 4-hydroxylase [Acanthamoeba polyphaga mimivirus]
+gi|448825700|ref|YP_007418631.1|vFam_757| putative prolyl 4-hydroxylase [Megavirus lba]
+gi|441432545|ref|YP_007354587.1|vFam_757| Prolyl 4-hydroxylase [Acanthamoeba polyphaga moumouvirus]

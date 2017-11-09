@@ -1,0 +1,10 @@
+CLUSTER	4405
+NUM_SEQ	2
+LENGTH	73
+RELATIVE_ENTROPY_PER_POSITION	0.71
+TOTAL_RELATIVE_ENTROPY	51.83
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|478755970|ref|YP_007761611.1|vFam_4405| hypothetical protein HhPH1_gp22 [Halovirus PH1]
+gi|448261130|ref|YP_005352803.1|vFam_4405| putative protein 17 [Haloarcula hispanica icosahedral virus 2]

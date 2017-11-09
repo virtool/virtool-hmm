@@ -1,0 +1,11 @@
+CLUSTER	2055
+NUM_SEQ	3
+LENGTH	274
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	137.0
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|125860166|ref|YP_001036336.1|vFam_2055| hypothetical protein SFMNPV_gp044 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|116326215|ref|YP_803541.1|vFam_2055| hypothetical protein AGNV_gp147 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651382|ref|NP_932754.1|vFam_2055| hypothetical protein CFDNVgORF145 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]

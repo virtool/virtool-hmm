@@ -1,0 +1,10 @@
+CLUSTER	5232
+NUM_SEQ	2
+LENGTH	95
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	49.4
+FAMILIES	{'None': 2}
+GENERA	{'Sobemovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|474619573|ref|YP_007688705.1|vFam_5232| putative VPg protein [Subterranean clover mottle virus]
+gi|471819546|ref|YP_007652840.1|vFam_5232| VPg protein [Lucerne transient streak virus]

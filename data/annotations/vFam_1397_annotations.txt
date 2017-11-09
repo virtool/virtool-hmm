@@ -1,0 +1,15 @@
+CLUSTER	1397
+NUM_SEQ	7
+LENGTH	83
+RELATIVE_ENTROPY_PER_POSITION	0.62
+TOTAL_RELATIVE_ENTROPY	51.46
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|42495058|ref|NP_963967.1|vFam_1397| ORF B83 [Sulfolobus virus Kamchatka 1]
+gi|9625546|ref|NP_039803.1|vFam_1397| hypothetical protein SSV-1p29 [Sulfolobus spindle-shaped virus 1]
+gi|472438229|ref|YP_007678006.1|vFam_1397| hypothetical protein SMF1_0004 [Sulfolobales Mexican fusellovirus 1]
+gi|270281748|ref|YP_003331407.1|vFam_1397| hypothetical protein [Acidianus spindle-shaped virus 1]
+gi|270281787|ref|YP_003331452.1|vFam_1397| hypothetical protein SSSV6_gp02 [Sulfolobus spindle-shaped virus 6]
+gi|38639833|ref|NP_944484.1|vFam_1397| hypothetical protein SSV2p32 [Sulfolobus spindle-shaped virus 2]
+gi|198449234|ref|YP_002221472.1|vFam_1397| hypothetical protein SSSV5_gp07 [Sulfolobus spindle-shaped virus 5]

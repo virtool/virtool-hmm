@@ -1,0 +1,24 @@
+CLUSTER	241
+NUM_SEQ	16
+LENGTH	300
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	153.0
+FAMILIES	{'None': 1, 'Poxviridae': 15}
+GENERA	{'None': 1, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Capripoxvirus': 1, 'Betaentomopoxvirus': 1, 'Orthopoxvirus': 4, 'Avipoxvirus': 4, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|213159401|ref|YP_002321444.1|vFam_241| hypothetical protein OrNV_gp133 [Oryctes rhinoceros virus]
+gi|22164595|ref|NP_671679.1|vFam_241| protein kinase C6R [Ectromelia virus]
+gi|345107352|ref|YP_004821517.1|vFam_241| ser/thr protein kinase-like protein [Yoka poxvirus]
+gi|9964511|ref|NP_064979.1|vFam_241| putative ser/thr protein kinase [Amsacta moorei entomopoxvirus 'L']
+gi|40556237|ref|NP_955322.1|vFam_241| CNPV299 putative serine/threonine protein kinase [Canarypox virus]
+gi|9634896|ref|NP_039189.1|vFam_241| serine/threonine protein kinase [Fowlpox virus]
+gi|40556224|ref|NP_955309.1|vFam_241| CNPV286 putative serine/threonine protein kinase [Canarypox virus]
+gi|9634882|ref|NP_039175.1|vFam_241| serine/threonine protein kinase [Fowlpox virus]
+gi|66275980|ref|YP_233065.1|vFam_241| ser/thr kinase [Vaccinia virus]
+gi|345107347|ref|YP_004821512.1|vFam_241| ser/thr kinase [Yoka poxvirus]
+gi|157939766|ref|YP_001497138.1|vFam_241| serine/threonine protein kinase [Tanapox virus]
+gi|38229300|ref|NP_938393.1|vFam_241| 142R [Yaba monkey tumor virus]
+gi|18640223|ref|NP_570297.1|vFam_241| SPV137 putative serine/threonine protein kinase DNA replication [Swinepox virus]
+gi|9633949|ref|NP_052028.1|vFam_241| gp142R [Rabbit fibroma virus]
+gi|211956425|ref|YP_002302495.1|vFam_241| serine/threonine protein kinase [Deerpox virus W-1170-84]
+gi|148913016|ref|YP_001293330.1|vFam_241| hypothetical protein GTPV_gp132 [Goatpox virus Pellor]

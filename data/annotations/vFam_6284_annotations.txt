@@ -1,0 +1,10 @@
+CLUSTER	6284
+NUM_SEQ	2
+LENGTH	75
+RELATIVE_ENTROPY_PER_POSITION	0.69
+TOTAL_RELATIVE_ENTROPY	51.75
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40556228|ref|NP_955313.1|vFam_6284| CNPV290 conserved hypothetical protein [Canarypox virus]
+gi|9634885|ref|NP_039178.1|vFam_6284| hypothetical protein FPV215 [Fowlpox virus]

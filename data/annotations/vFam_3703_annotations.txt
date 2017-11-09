@@ -1,0 +1,10 @@
+CLUSTER	3703
+NUM_SEQ	2
+LENGTH	168
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	85.68
+FAMILIES	{'Flaviviridae': 2}
+GENERA	{'Flavivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|37695587|ref|NP_937778.1|vFam_3703| NS4A protein [Kamiti River virus]
+gi|27735346|ref|NP_776045.1|vFam_3703| putative non-structural protein NS4a [Cell fusing agent virus]

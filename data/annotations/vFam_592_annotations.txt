@@ -1,0 +1,11 @@
+CLUSTER	592
+NUM_SEQ	3
+LENGTH	717
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	372.84
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Betabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|21686697|ref|NP_663197.1|vFam_592| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|33622247|ref|NP_891894.1|vFam_592| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602287|ref|NP_148834.1|vFam_592| ORF50 similar to XcGV ORF47 [Cydia pomonella granulovirus]

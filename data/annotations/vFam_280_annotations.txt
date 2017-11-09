@@ -1,0 +1,21 @@
+CLUSTER	280
+NUM_SEQ	13
+LENGTH	725
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	362.5
+FAMILIES	{'Astroviridae': 13}
+GENERA	{'None': 8, 'Avastrovirus': 3, 'Mamastrovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|20514396|ref|NP_620618.1|vFam_280| structural polyprotein [Chicken astrovirus]
+gi|45239036|ref|NP_987088.1|vFam_280| capsid protein [Turkey astrovirus 2]
+gi|225676455|ref|YP_002728003.1|vFam_280| capsid protein [Duck astrovirus C-NGB]
+gi|209902363|ref|YP_002290968.1|vFam_280| capsid protein [Astrovirus MLB1]
+gi|410493725|ref|YP_006905854.1|vFam_280| putative capsid protein [Astrovirus MLB3]
+gi|380035086|ref|YP_004934010.1|vFam_280| unnamed protein product [Astrovirus MLB2]
+gi|345462126|ref|YP_004782206.1|vFam_280| ORF2 [Mouse astrovirus M-52/USA/2008]
+gi|28867242|ref|NP_795336.1|vFam_280| capsid protein precursor [Mamastrovirus 10]
+gi|9635575|ref|NP_059946.1|vFam_280| capsid protein precursor [Mamastrovirus 13]
+gi|410493722|ref|YP_006905857.1|vFam_280| putative capsid protein [Astrovirus VA4]
+gi|407868426|ref|YP_006792628.1|vFam_280| capsid protein [Astrovirus VA2]
+gi|410493719|ref|YP_006905860.1|vFam_280| putative capsid protein [Astrovirus VA3]
+gi|255357302|ref|YP_003090288.1|vFam_280| capsid protein precursor [Astrovirus VA1]

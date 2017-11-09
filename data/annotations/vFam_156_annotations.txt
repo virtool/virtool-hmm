@@ -1,0 +1,38 @@
+CLUSTER	156
+NUM_SEQ	30
+LENGTH	181
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	92.31
+FAMILIES	{'Baculoviridae': 24}
+GENERA	{'Alphabaculovirus': 24}
+FASTA SEQUENCE TITLES:
+gi|32453877|ref|NP_861640.1|vFam_156| hypothetical protein HalHV1gp052 [Halovirus HF1]
+gi|438000361|ref|YP_007250466.1|vFam_156| ChaB-like protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964577|ref|YP_950773.1|vFam_156| Mv-ORF43 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|114680113|ref|YP_758526.1|vFam_156| hypothetical protein PXMNV_gp060 [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|96979855|ref|YP_611061.1|vFam_156| ChaB [Antheraea pernyi nucleopolyhedrovirus]
+gi|15320710|ref|NP_203222.1|vFam_156| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326128|ref|YP_803453.1|vFam_156| hypothetical protein AGNV_gp059 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|86355612|ref|YP_473280.1|vFam_156| ORF92 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630000|ref|NP_046218.1|vFam_156| hypothetical protein OpmnVgp062 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153404|ref|YP_008378444.1|vFam_156| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|571031289|ref|YP_008992186.1|vFam_156| chaB-like protein [Choristoneura murinana alphabaculovirus]
+gi|529153569|ref|YP_008378594.1|vFam_156| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|15617523|ref|NP_258320.1|vFam_156| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|209978811|ref|YP_002300554.1|vFam_156| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|12597536|ref|NP_075120.1|vFam_156| hypothetical protein HanGV4gp051 [Helicoverpa armigera nucleopolyhedrovirus G4]
+gi|113195445|ref|YP_717582.1|vFam_156| ac59-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|292397732|ref|YP_003517798.1|vFam_156| ORF58 [Lymantria xylina MNPV]
+gi|9631027|ref|NP_047697.1|vFam_156| LdOrf-61 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|22549529|ref|NP_689302.1|vFam_156| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209171001|ref|YP_002268148.1|vFam_156| agip118 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592826|ref|YP_529779.1|vFam_156| ORF-109 [Agrotis segetum nucleopolyhedrovirus]
+gi|74229732|ref|YP_308936.1|vFam_156| orf46 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304184|ref|YP_249653.1|vFam_156| ORF-49 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|125860223|ref|YP_001036393.1|vFam_156| hypothetical protein SFMNPV_gp101 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401498|ref|YP_002332802.1|vFam_156| hypothetical protein SlnV2_gp104 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634322|ref|NP_037861.1|vFam_156| ORF101 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|228861622|ref|YP_002854642.1|vFam_156| chaB2 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|165969044|ref|YP_001650944.1|vFam_156| chaB1 [Orgyia leucostigma NPV]
+gi|118197525|ref|YP_874236.1|vFam_156| ChaB1 [Ectropis obliqua nucleopolyhedrovirus]
+gi|402502143|ref|YP_006607801.1|vFam_156| ChaB1 [Apocheima cinerarium nucleopolyhedrovirus]

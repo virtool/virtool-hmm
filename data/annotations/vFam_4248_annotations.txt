@@ -1,0 +1,10 @@
+CLUSTER	4248
+NUM_SEQ	2
+LENGTH	277
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	141.27
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409928|ref|YP_004347348.1|vFam_4248| histone H2B/H2A fusion protein [Lausannevirus]
+gi|284504423|ref|YP_003407138.1|vFam_4248| histone H2B/H2A fusion protein [Marseillevirus]

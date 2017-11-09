@@ -1,0 +1,17 @@
+CLUSTER	870
+NUM_SEQ	9
+LENGTH	115
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	58.65
+FAMILIES	{'None': 2, 'Virgaviridae': 6}
+GENERA	{'Pecluvirus': 1, 'Benyvirus': 2, 'Pomovirus': 4, 'Hordeivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|524005186|ref|YP_008219067.1|vFam_870| second triple-gene-block protein [Burdock mottle virus]
+gi|19919957|ref|NP_612590.1|vFam_870| 13KDa protein [Beet soil-borne mosaic virus]
+gi|19919912|ref|NP_612618.1|vFam_870| 13k transport protein [Beet necrotic yellow vein virus]
+gi|19744925|ref|NP_604488.1|vFam_870| beta C protein [Barley stripe mosaic virus]
+gi|30018266|ref|NP_835266.1|vFam_870| P14 protein (TGBp2) [Indian peanut clump virus]
+gi|25140199|ref|NP_740765.1|vFam_870| second triple-gene-block protein [Broad bean necrosis virus]
+gi|20373123|ref|NP_620439.1|vFam_870| triple-gene-block protein 2 (TGBp2) [Potato mop-top virus]
+gi|19919951|ref|NP_612612.1|vFam_870| Second triple gene block gene [Beet virus Q]
+gi|19919932|ref|NP_612626.1|vFam_870| 13K protein [Beet soil-borne virus]

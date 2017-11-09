@@ -1,0 +1,13 @@
+CLUSTER	903
+NUM_SEQ	5
+LENGTH	110
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	56.1
+FAMILIES	{'Phycodnaviridae': 5}
+GENERA	{'Chlorovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|157953304|ref|YP_001498195.1|vFam_903| hypothetical protein AR158_C113L [Paramecium bursaria Chlorella virus AR158]
+gi|157952425|ref|YP_001497317.1|vFam_903| hypothetical protein NY2A_b121L [Paramecium bursaria Chlorella virus NY2A]
+gi|157953987|ref|YP_001498878.1|vFam_903| hypothetical protein AR158_C797R [Paramecium bursaria Chlorella virus AR158]
+gi|9632019|ref|NP_048808.1|vFam_903| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|9631844|ref|NP_048630.1|vFam_903| hypothetical protein [Paramecium bursaria Chlorella virus 1]

@@ -1,0 +1,21 @@
+CLUSTER	475
+NUM_SEQ	13
+LENGTH	311
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	158.61
+FAMILIES	{'Herpesviridae': 13}
+GENERA	{'Varicellovirus': 4, 'Iltovirus': 2, 'Mardivirus': 4, 'Simplexvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|57790956|ref|YP_182360.1|vFam_475| nuclear egress lamina protein [Gallid herpesvirus 1]
+gi|38638221|ref|NP_944404.1|vFam_475| nuclear egress lamina protein [Psittacid herpesvirus 1]
+gi|312162823|ref|YP_003933808.1|vFam_475| nuclear egress lamina protein [Saimiriine herpesvirus 1]
+gi|83722600|ref|YP_443878.1|vFam_475| nuclear egress lamina protein [Papiine herpesvirus 2]
+gi|9629412|ref|NP_044633.1|vFam_475| nuclear egress lamina protein [Human herpesvirus 1]
+gi|12084860|ref|NP_073325.1|vFam_475| nuclear egress lamina protein [Meleagrid herpesvirus 1]
+gi|125745083|ref|YP_001033960.1|vFam_475| nuclear egress lamina protein [Gallid herpesvirus 2]
+gi|10834902|ref|NP_066863.1|vFam_475| nuclear egress lamina protein [Gallid herpesvirus 3]
+gi|255683182|ref|YP_003084390.1|vFam_475| UL31 [Anatid herpesvirus 1]
+gi|155041725|ref|NP_040150.2|vFam_475| nuclear egress lamina protein [Human herpesvirus 3]
+gi|13242419|ref|NP_077442.1|vFam_475| nuclear egress lamina protein [Cercopithecine herpesvirus 9]
+gi|216905882|ref|YP_002333510.1|vFam_475| nuclear egress lamina protein [Equid herpesvirus 9]
+gi|270339468|ref|YP_003331548.1|vFam_475| nuclear egress lamina protein [Felid herpesvirus 1]

@@ -1,0 +1,24 @@
+CLUSTER	239
+NUM_SEQ	16
+LENGTH	199
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	99.5
+FAMILIES	{'Baculoviridae': 16}
+GENERA	{'Alphabaculovirus': 16}
+FASTA SEQUENCE TITLES:
+gi|438000384|ref|YP_007250489.1|vFam_239| tlp protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643620|ref|YP_002884310.1|vFam_239| Ac82-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|114680136|ref|YP_758549.1|vFam_239| telokinin-like peptide [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|29567150|ref|NP_818712.1|vFam_239| hypothetical protein AhnVgp065 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|15617546|ref|NP_258346.1|vFam_239| telokin-like protein-20 [Spodoptera litura nucleopolyhedrovirus]
+gi|209401131|ref|YP_002274000.1|vFam_239| telokin-like protein-20 [Helicoverpa armigera NPV NNg1]
+gi|292397760|ref|YP_003517826.1|vFam_239| telokin-like protein [Lymantria xylina MNPV]
+gi|9631057|ref|NP_047727.1|vFam_239| LdOrf-82 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|402502164|ref|YP_006607822.1|vFam_239| Tlp-20 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|68304216|ref|YP_249684.1|vFam_239| ORF-80 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549503|ref|NP_689276.1|vFam_239| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209170978|ref|YP_002268125.1|vFam_239| agip95 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592806|ref|YP_529759.1|vFam_239| ORF-89 [Agrotis segetum nucleopolyhedrovirus]
+gi|9634299|ref|NP_037838.1|vFam_239| ORF78 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|215401477|ref|YP_002332781.1|vFam_239| hypothetical protein SlnV2_gp083 [Spodoptera litura nucleopolyhedrovirus II]
+gi|125860202|ref|YP_001036372.1|vFam_239| telokinin-like peptide [Spodoptera frugiperda multiple nucleopolyhedrovirus]

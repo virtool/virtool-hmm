@@ -1,0 +1,15 @@
+CLUSTER	848
+NUM_SEQ	7
+LENGTH	428
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	218.28
+FAMILIES	{'Herpesviridae': 7}
+GENERA	{'Varicellovirus': 1, 'Iltovirus': 2, 'Mardivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|57790936|ref|YP_182340.1|vFam_848| deoxyuridine triphosphatase [Gallid herpesvirus 1]
+gi|38638201|ref|NP_944384.1|vFam_848| deoxyuridine triphosphatase [Psittacid herpesvirus 1]
+gi|9625883|ref|NP_040131.1|vFam_848| deoxyuridine triphosphatase [Human herpesvirus 3]
+gi|255683142|ref|YP_003084369.1|vFam_848| UL50 [Anatid herpesvirus 1]
+gi|12084879|ref|NP_073345.1|vFam_848| deoxyuridine triphosphatase [Meleagrid herpesvirus 1]
+gi|10834922|ref|NP_066883.1|vFam_848| deoxyuridine triphosphatase [Gallid herpesvirus 3]
+gi|125745102|ref|YP_001033980.1|vFam_848| deoxyuridine triphosphatase [Gallid herpesvirus 2]

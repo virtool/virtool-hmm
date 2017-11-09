@@ -1,0 +1,13 @@
+CLUSTER	2157
+NUM_SEQ	5
+LENGTH	45
+RELATIVE_ENTROPY_PER_POSITION	1.17
+TOTAL_RELATIVE_ENTROPY	52.65
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281808|ref|YP_003331474.1|vFam_2157| hypothetical protein SSSV6_gp24 [Sulfolobus spindle-shaped virus 6]
+gi|198449255|ref|YP_002221493.1|vFam_2157| hypothetical protein SSSV5_gp28 [Sulfolobus spindle-shaped virus 5]
+gi|9625536|ref|NP_039793.1|vFam_2157| hypothetical protein SSV-1p17 [Sulfolobus spindle-shaped virus 1]
+gi|42495076|ref|NP_963985.1|vFam_2157| ORF C43 [Sulfolobus virus Kamchatka 1]
+gi|38639821|ref|NP_944472.1|vFam_2157| hypothetical protein SSV2p20 [Sulfolobus spindle-shaped virus 2]

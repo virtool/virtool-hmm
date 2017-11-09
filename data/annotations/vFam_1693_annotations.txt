@@ -1,0 +1,12 @@
+CLUSTER	1693
+NUM_SEQ	4
+LENGTH	259
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	134.68
+FAMILIES	{'Polydnaviridae': 1, 'Ascoviridae': 3}
+GENERA	{'Bracovirus': 1, 'Ascovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|134287158|ref|YP_001110855.1|vFam_1693| hypothetical protein HVAV3e_gp002 [Heliothis virescens ascovirus 3e]
+gi|116326770|ref|YP_803307.1|vFam_1693| hypothetical protein TNAV2c_gp084 [Trichoplusia ni ascovirus 2c]
+gi|57659686|ref|YP_184892.1|vFam_1693| hypothetical protein CcBV_32.6 [Cotesia congregata bracovirus]
+gi|134287267|ref|YP_001110963.1|vFam_1693| hypothetical protein HVAV3e_gp110 [Heliothis virescens ascovirus 3e]

@@ -1,0 +1,10 @@
+CLUSTER	3110
+NUM_SEQ	2
+LENGTH	142
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	71.0
+FAMILIES	{'Papillomaviridae': 2}
+GENERA	{'Omikronpapillomavirus': 1, 'Upsilonpapillomavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|195661188|ref|YP_002117843.1|vFam_3110| E4 [Tursiops truncatus papillomavirus 1]
+gi|18138520|ref|NP_542619.1|vFam_3110| E4 protein [Omikronpapillomavirus 1]

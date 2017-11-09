@@ -1,0 +1,10 @@
+CLUSTER	5983
+NUM_SEQ	2
+LENGTH	196
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	101.92
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|506498059|ref|YP_008003856.1|vFam_5983| hypothetical protein AHEV_033 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497772|ref|YP_008003571.1|vFam_5983| hypothetical protein MYSEV_054 [Mythimna separata entomopoxvirus 'L']

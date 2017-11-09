@@ -1,0 +1,13 @@
+CLUSTER	1763
+NUM_SEQ	5
+LENGTH	465
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	241.8
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631374|ref|NP_048244.1|vFam_1763| ORF MSV173 putative serine/threonine protein kinase Swinepox virus C20L homolog (vaccinia F10L), similar to SW:P32216 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497910|ref|YP_008003709.1|vFam_1763| essential ser/thr kinase morph (Cop-F10L) [Mythimna separata entomopoxvirus 'L']
+gi|9964467|ref|NP_064935.1|vFam_1763| putative serine/threonine protein kinase [Amsacta moorei entomopoxvirus 'L']
+gi|506498204|ref|YP_008004001.1|vFam_1763| essential ser/thr kinase morph (Cop-F10L) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498776|ref|YP_008004570.1|vFam_1763| essential ser/thr kinase morph (Cop-F10L) [Choristoneura rosaceana entomopoxvirus 'L']

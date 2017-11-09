@@ -1,0 +1,13 @@
+CLUSTER	2660
+NUM_SEQ	5
+LENGTH	242
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	123.42
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631371|ref|NP_048240.1|vFam_2660| ORF MSV169 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|506498202|ref|YP_008003999.1|vFam_2660| unknown similar to AMEV157 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497912|ref|YP_008003711.1|vFam_2660| unknown similar to AMEV157 [Mythimna separata entomopoxvirus 'L']
+gi|506498778|ref|YP_008004572.1|vFam_2660| unknown similar to AMEV157 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964471|ref|NP_064939.1|vFam_2660| putative glycerol uptake facilitator [Amsacta moorei entomopoxvirus 'L']

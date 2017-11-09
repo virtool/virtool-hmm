@@ -1,0 +1,17 @@
+CLUSTER	770
+NUM_SEQ	9
+LENGTH	337
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	171.87
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036878|ref|YP_008438519.1|vFam_770| hypothetical protein ps_2117 [Pandoravirus salinus]
+gi|526119397|ref|YP_008319300.1|vFam_770| hypothetical protein [Pandoravirus dulcis]
+gi|531035185|ref|YP_008436811.1|vFam_770| hypothetical protein ps_396 [Pandoravirus salinus]
+gi|526119006|ref|YP_008318909.1|vFam_770| hypothetical protein [Pandoravirus dulcis]
+gi|531036875|ref|YP_008438516.1|vFam_770| hypothetical protein ps_2114 [Pandoravirus salinus]
+gi|526119895|ref|YP_008319798.1|vFam_770| hypothetical protein [Pandoravirus dulcis]
+gi|526119892|ref|YP_008319795.1|vFam_770| hypothetical protein [Pandoravirus dulcis]
+gi|531036872|ref|YP_008438513.1|vFam_770| hypothetical protein ps_2111 [Pandoravirus salinus]
+gi|531036871|ref|YP_008438512.1|vFam_770| hypothetical protein ps_2110 [Pandoravirus salinus]

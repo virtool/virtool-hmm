@@ -1,0 +1,20 @@
+CLUSTER	272
+NUM_SEQ	12
+LENGTH	1406
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	688.94
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Varicellovirus': 8, 'Iltovirus': 1, 'Simplexvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|57791007|ref|YP_182411.1|vFam_272| transcriptional regulator ICP4 [Gallid herpesvirus 1]
+gi|9625945|ref|NP_040193.1|vFam_272| transcriptional regulator ICP4 [Human herpesvirus 3]
+gi|312162868|ref|YP_003933853.1|vFam_272| transcriptional regulator ICP4 [Saimiriine herpesvirus 1]
+gi|9629455|ref|NP_044676.1|vFam_272| transcriptional regulator ICP4 [Human herpesvirus 1]
+gi|9629344|ref|NP_044544.1|vFam_272| transcriptional regulator ICP4 [Human herpesvirus 2]
+gi|270339510|ref|YP_003331596.1|vFam_272| transcriptional regulator ICP4 [Felid herpesvirus 1]
+gi|9629809|ref|NP_045281.1|vFam_272| transcriptional regulator ICP4 [Equid herpesvirus 4]
+gi|386522804|ref|YP_006273060.1|vFam_272| ORF64 gene product [Equid herpesvirus 8]
+gi|50313321|ref|YP_053124.1|vFam_272| transcriptional regulator ICP4 [Equid herpesvirus 1]
+gi|51557559|ref|YP_068393.1|vFam_272| transcriptional regulator ICP4 [Suid herpesvirus 1]
+gi|296316074|ref|YP_003662538.1|vFam_272| transcriptional regulator ICP4 [Bovine herpesvirus 5]
+gi|9629891|ref|NP_045375.1|vFam_272| transcriptional regulator ICP4 [Bovine herpesvirus 1]

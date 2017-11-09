@@ -1,0 +1,10 @@
+CLUSTER	1304
+NUM_SEQ	2
+LENGTH	376
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	195.52
+FAMILIES	{'Secoviridae': 2}
+GENERA	{'Cheravirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52137002|ref|YP_081449.1|vFam_1304| putative movemenr protein [Cherry rasp leaf virus]
+gi|25014080|ref|NP_733989.1|vFam_1304| movement protein [Apple latent spherical virus]

@@ -1,0 +1,20 @@
+CLUSTER	594
+NUM_SEQ	12
+LENGTH	169
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	87.88
+FAMILIES	{'Baculoviridae': 6, 'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1, 'Alphabaculovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|506497989|ref|YP_008003788.1|vFam_594| protein tyrosine phosphatase 1 [Mythimna separata entomopoxvirus 'L']
+gi|506498859|ref|YP_008004653.1|vFam_594| protein tyrosine phosphatase 1 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964560|ref|NP_065028.1|vFam_594| protein tyrosine phosphatase 1 [Amsacta moorei entomopoxvirus 'L']
+gi|506497887|ref|YP_008003686.1|vFam_594| protein tyrosine phosphatase 1 [Mythimna separata entomopoxvirus 'L']
+gi|119964657|ref|YP_950853.1|vFam_594| protein tyrosine phosphatase; PTP [Maruca vitrata nucleopolyhedrovirus]
+gi|438000308|ref|YP_007250413.1|vFam_594| ptp protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643686|ref|YP_002884376.1|vFam_594| phosphotyrosine phosphatase [Bombyx mandarina nucleopolyhedrovirus]
+gi|96979895|ref|YP_611104.1|vFam_594| ptp-1 [Antheraea pernyi nucleopolyhedrovirus]
+gi|15320664|ref|NP_203176.1|vFam_594| PTP-1 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326078|ref|YP_803403.1|vFam_594| protein tyrosine phosphatase 1 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|529153618|ref|YP_008378643.1|vFam_594| protein tyrosine phosphatase 1 [Choristoneura occidentalis alphabaculovirus]
+gi|86355662|ref|YP_473330.1|vFam_594| Protein tyrosine phosphatase 1 [Hyphantria cunea nucleopolyhedrovirus]

@@ -1,0 +1,18 @@
+CLUSTER	547
+NUM_SEQ	10
+LENGTH	492
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	250.92
+FAMILIES	{'Iridoviridae': 9}
+GENERA	{'Lymphocystivirus': 2, 'Megalocytivirus': 1, 'Iridovirus': 3, 'Ranavirus': 2, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|19881412|ref|NP_612229.1|vFam_547| ORF007L [Infectious spleen and kidney necrosis virus]
+gi|56692725|ref|YP_164183.1|vFam_547| hypothetical protein ORF088L [Singapore grouper iridovirus]
+gi|45686061|ref|YP_003824.1|vFam_547| myristylated membrane protein [Ambystoma tigrinum virus]
+gi|51870110|ref|YP_073663.1|vFam_547| hypothetical protein LDVICp157 [Lymphocystis disease virus - isolate China]
+gi|13358422|ref|NP_078665.1|vFam_547| Myristylated membrane protein A [Lymphocystis disease virus 1]
+gi|15079169|ref|NP_149921.1|vFam_547| 458R [Invertebrate iridescent virus 6]
+gi|15078831|ref|NP_149581.1|vFam_547| 118L [Invertebrate iridescent virus 6]
+gi|109287884|ref|YP_654578.1|vFam_547| hypothetical protein MIV006R [Invertebrate iridescent virus 3]
+gi|527333581|ref|YP_008357365.1|vFam_547| Lipid membrane protein [Invertebrate iridovirus 22]
+gi|339905991|ref|YP_004732788.1|vFam_547| hypothetical protein WIV_gp005 [Wiseana iridescent virus]

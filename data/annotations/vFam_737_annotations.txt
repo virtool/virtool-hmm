@@ -1,0 +1,18 @@
+CLUSTER	737
+NUM_SEQ	10
+LENGTH	127
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	67.31
+FAMILIES	{'Flaviviridae': 9, 'Iridoviridae': 1}
+GENERA	{'Flavivirus': 9, 'Megalocytivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|19881455|ref|NP_612272.1|vFam_737| ORF050L [Infectious spleen and kidney necrosis virus]
+gi|27735294|ref|NP_776006.1|vFam_737| non-structural protein NS4a [Yellow fever virus]
+gi|158516896|ref|YP_001527885.1|vFam_737| unnamed protein product [West Nile virus]
+gi|27696333|ref|NP_775671.1|vFam_737| non-structural protein NS4a, partial [Japanese encephalitis virus]
+gi|56692451|ref|YP_164815.1|vFam_737| NS4a [Usutu virus]
+gi|24418987|ref|NP_722536.1|vFam_737| NS4A [Murray Valley encephalitis virus]
+gi|164654859|ref|YP_001531173.2|vFam_737| Nonstructural protein NS4A [Dengue virus 3]
+gi|25014067|ref|NP_733810.1|vFam_737| nonstructural protein 4A [Dengue virus 1]
+gi|159024817|ref|NP_739588.2|vFam_737| Nonstructural protein NS4A [Dengue virus 2]
+gi|73671176|ref|NP_740322.1|vFam_737| NS4A protein [Dengue virus 4]

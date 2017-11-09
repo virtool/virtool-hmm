@@ -1,0 +1,12 @@
+CLUSTER	2424
+NUM_SEQ	4
+LENGTH	175
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	89.25
+FAMILIES	{'Marseillevirus family': 3, 'Phycodnaviridae': 1}
+GENERA	{'None': 3, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|313768403|ref|YP_004062083.1|vFam_2424| hypothetical protein MpV1_200c [Micromonas sp. RCC1109 virus MpV1]
+gi|284504155|ref|YP_003406870.1|vFam_2424| MORN repeat-containing protein [Marseillevirus]
+gi|327409620|ref|YP_004347040.1|vFam_2424| hypothetical protein LAU_0074 [Lausannevirus]
+gi|327409616|ref|YP_004347036.1|vFam_2424| hypothetical protein LAU_0069 [Lausannevirus]

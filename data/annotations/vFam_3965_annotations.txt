@@ -1,0 +1,10 @@
+CLUSTER	3965
+NUM_SEQ	2
+LENGTH	492
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	250.92
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159328|ref|YP_002321371.1|vFam_3965| pif-1 [Oryctes rhinoceros virus]
+gi|134303450|ref|YP_001111319.1|vFam_3965| per os infectivity factor 1 [Gryllus bimaculatus nudivirus]

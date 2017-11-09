@@ -1,0 +1,13 @@
+CLUSTER	1606
+NUM_SEQ	5
+LENGTH	131
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	68.12
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Siadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|531035293|ref|YP_008436921.1|vFam_1606| hypothetical protein ps_506 [Pandoravirus salinus]
+gi|9635812|ref|NP_062447.1|vFam_1606| 33K [Frog adenovirus 1]
+gi|56160831|ref|AP_000490.1|vFam_1606| 33K [Turkey adenovirus A]
+gi|363540928|ref|YP_004935943.1|vFam_1606| unnamed protein product [Skua adenovirus A]
+gi|331271191|ref|YP_004414812.1|vFam_1606| 33K protein [Raptor adenovirus A]

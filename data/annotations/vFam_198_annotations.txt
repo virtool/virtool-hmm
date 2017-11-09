@@ -1,0 +1,31 @@
+CLUSTER	198
+NUM_SEQ	23
+LENGTH	257
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	136.21
+FAMILIES	{'Herpesviridae': 23}
+GENERA	{'Percavirus': 1, 'None': 3, 'Cytomegalovirus': 5, 'Macavirus': 2, 'Roseolovirus': 2, 'Proboscivirus': 1, 'Rhadinovirus': 3, 'Lymphocryptovirus': 3, 'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|496991154|ref|YP_007969796.1|vFam_198| nuclear protein UL24 [Elephantid herpesvirus 1]
+gi|538447246|ref|YP_008492986.1|vFam_198| fusion protein [Porcine cytomegalovirus]
+gi|9633120|ref|NP_050230.1|vFam_198| putative fusion protein [Human herpesvirus 6B]
+gi|51874271|ref|YP_073789.1|vFam_198| nuclear protein UL24 [Human herpesvirus 7]
+gi|448824910|ref|YP_007417842.1|vFam_198| GP76 [Caviid herpesvirus 2]
+gi|14251064|ref|NP_116426.1|vFam_198| T76 [Tupaiid herpesvirus 1]
+gi|61660188|ref|YP_214079.1|vFam_198| hypothetical protein MuHV1_gp071 [Murid herpesvirus 1]
+gi|9845362|ref|NP_064176.1|vFam_198| pR76 [Murid herpesvirus 2]
+gi|425707277|ref|YP_007016474.1|vFam_198| E76 [Murid herpesvirus 8]
+gi|359946509|ref|YP_004936042.1|vFam_198| nuclear protein UL24 [Cercopithecine herpesvirus 5]
+gi|356640399|ref|YP_004933841.1|vFam_198| protein UL76 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086554|ref|YP_004940239.1|vFam_198| nuclear protein UL24 [Saimiriine herpesvirus 3]
+gi|360040958|ref|YP_004940093.1|vFam_198| nuclear protein UL24 [Aotine herpesvirus 1]
+gi|321496571|ref|YP_004207856.1|vFam_198| hypothetical protein RHVP.20 [Rodent herpesvirus Peru]
+gi|83642857|ref|YP_438144.1|vFam_198| ORF20 [Ovine herpesvirus 2]
+gi|10140942|ref|NP_065519.1|vFam_198| ORF20 [Alcelaphine herpesvirus 1]
+gi|139472820|ref|YP_001129373.1|vFam_198| ORF20 [Human herpesvirus 8]
+gi|13095597|ref|NP_076512.1|vFam_198| unknown [Bovine herpesvirus 4]
+gi|9628022|ref|NP_042616.1|vFam_198| ORF 20 [Equid herpesvirus 2]
+gi|9629604|ref|NP_044858.1|vFam_198| nuclear protein UL24 [Murid herpesvirus 4]
+gi|24943103|ref|NP_733865.1|vFam_198| ORF12 [callitrichine herpesvirus 3]
+gi|82503258|ref|YP_401702.1|vFam_198| BXRF1 protein [Human herpesvirus 4]
+gi|51518071|ref|YP_067999.1|vFam_198| BXRF1 [Macacine herpesvirus 4]

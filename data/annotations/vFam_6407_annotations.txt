@@ -1,0 +1,10 @@
+CLUSTER	6407
+NUM_SEQ	2
+LENGTH	155
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	80.6
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|292397696|ref|YP_003517762.1|vFam_6407| ORF22 [Lymantria xylina MNPV]
+gi|9630991|ref|NP_047661.1|vFam_6407| LdOrf-25 peptide [Lymantria dispar multiple nucleopolyhedrovirus]

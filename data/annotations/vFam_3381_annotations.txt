@@ -1,0 +1,11 @@
+CLUSTER	3381
+NUM_SEQ	3
+LENGTH	511
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	270.83
+FAMILIES	{'Reoviridae': 3}
+GENERA	{'Phytoreovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|134302828|ref|YP_001111376.1|vFam_3381| Nonstructural protein [Rice gall dwarf virus]
+gi|226423332|ref|YP_002790889.1|vFam_3381| non-structural protein [Homalodisca vitripennis reovirus]
+gi|20428550|ref|NP_620533.1|vFam_3381| nonstructural protein [Rice dwarf virus]

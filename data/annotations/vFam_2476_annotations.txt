@@ -1,0 +1,10 @@
+CLUSTER	2476
+NUM_SEQ	2
+LENGTH	302
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	157.04
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|414089958|ref|YP_006990089.1|vFam_2476| hypothetical protein [Sulfolobales Mexican rudivirus 1]
+gi|22122315|ref|NP_666576.1|vFam_2476| hypothetical protein SIRV2gp42 [Sulfolobus islandicus rod-shaped virus 2]

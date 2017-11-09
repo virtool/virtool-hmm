@@ -1,0 +1,12 @@
+CLUSTER	2613
+NUM_SEQ	4
+LENGTH	63
+RELATIVE_ENTROPY_PER_POSITION	0.83
+TOTAL_RELATIVE_ENTROPY	52.29
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497823|ref|YP_008003622.1|vFam_2613| unknown similar to AMEV082 [Mythimna separata entomopoxvirus 'L']
+gi|506498106|ref|YP_008003903.1|vFam_2613| unknown similar to AMEV082 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498717|ref|YP_008004511.1|vFam_2613| unknown similar to AMEV082 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964396|ref|NP_064864.1|vFam_2613| putative P-type ATPase [Amsacta moorei entomopoxvirus 'L']

@@ -1,0 +1,15 @@
+CLUSTER	1405
+NUM_SEQ	7
+LENGTH	66
+RELATIVE_ENTROPY_PER_POSITION	0.76
+TOTAL_RELATIVE_ENTROPY	50.16
+FAMILIES	{'Poxviridae': 7}
+GENERA	{'None': 1, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Yatapoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|62637408|ref|YP_227406.1|vFam_1405| hypothetical protein DpV83gp029 [Deerpox virus W-848-83]
+gi|377830067|ref|YP_005296227.1|vFam_1405| unnamed protein product [Cotia virus SPAn232]
+gi|9633829|ref|NP_051907.1|vFam_1405| gp018L [Rabbit fibroma virus]
+gi|148912900|ref|YP_001293214.1|vFam_1405| hypothetical protein GTPV_gp020 [Goatpox virus Pellor]
+gi|38229186|ref|NP_938279.1|vFam_1405| 23.5L [Yaba monkey tumor virus]
+gi|113195225|ref|YP_717355.1|vFam_1405| hypothetical protein TATV_DAH68_048 [Taterapox virus]
+gi|345107211|ref|YP_004821376.1|vFam_1405| hypothetical protein YKV023c [Yoka poxvirus]

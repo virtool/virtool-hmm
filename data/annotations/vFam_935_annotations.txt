@@ -1,0 +1,14 @@
+CLUSTER	935
+NUM_SEQ	6
+LENGTH	486
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	252.72
+FAMILIES	{'Poxviridae': 6}
+GENERA	{'Capripoxvirus': 1, 'Yatapoxvirus': 1, 'Suipoxvirus': 1, 'Leporipoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9633799|ref|NP_051718.1|vFam_935| m5 [Myxoma virus]
+gi|12085129|ref|NP_073531.1|vFam_935| 146R protein [Yaba-like disease virus]
+gi|148913024|ref|YP_001293338.1|vFam_935| hypothetical protein GTPV_gp140 [Goatpox virus Pellor]
+gi|18640228|ref|NP_570302.1|vFam_935| SPV142 ankyrin repeat protein [Swinepox virus]
+gi|9633954|ref|NP_052034.1|vFam_935| gp149R [Rabbit fibroma virus]
+gi|9633784|ref|NP_051862.1|vFam_935| m149R [Myxoma virus]

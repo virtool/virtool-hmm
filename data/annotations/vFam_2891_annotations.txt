@@ -1,0 +1,13 @@
+CLUSTER	2891
+NUM_SEQ	5
+LENGTH	79
+RELATIVE_ENTROPY_PER_POSITION	0.63
+TOTAL_RELATIVE_ENTROPY	49.77
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|157929280|ref|YP_001496932.1|vFam_2891| hypothetical protein AFV2_gp07 [Acidianus filamentous virus 2]
+gi|162329493|ref|YP_001604292.1|vFam_2891| hypothetical protein AFV8_gp11 [Acidianus filamentous virus 8]
+gi|162329302|ref|YP_001604356.1|vFam_2891| hypothetical protein AFV3_gp14 [Acidianus filamentous virus 3]
+gi|162329433|ref|YP_001604233.1|vFam_2891| hypothetical protein AFV7_gp09 [Acidianus filamentous virus 7]
+gi|162329371|ref|YP_001604172.1|vFam_2891| hypothetical protein AFV6_gp14 [Acidianus filamentous virus 6]

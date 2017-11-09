@@ -1,0 +1,23 @@
+CLUSTER	504
+NUM_SEQ	15
+LENGTH	80
+RELATIVE_ENTROPY_PER_POSITION	0.66
+TOTAL_RELATIVE_ENTROPY	52.8
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|40556050|ref|NP_955135.1|vFam_504| CNPV112 putative IMV membrane protein [Canarypox virus]
+gi|9634755|ref|NP_039048.1|vFam_504| hypothetical protein FPV085 [Fowlpox virus]
+gi|115531732|ref|YP_784258.1|vFam_504| IMV membrane protein [Nile crocodilepox virus]
+gi|377829955|ref|YP_005296250.1|vFam_504| unnamed protein product [Cotia virus SPAn232]
+gi|113195254|ref|YP_717384.1|vFam_504| IMV protein VP13 [Taterapox virus]
+gi|345107241|ref|YP_004821406.1|vFam_504| IMV protein VP13 [Yoka poxvirus]
+gi|571797966|ref|YP_008658465.1|vFam_504| minor membrane component of the virion [Squirrelpox virus]
+gi|9628979|ref|NP_043998.1|vFam_504| MC047L [Molluscum contagiosum virus subtype 1]
+gi|9633850|ref|NP_051930.1|vFam_504| gp041L [Rabbit fibroma virus]
+gi|9633677|ref|NP_051755.1|vFam_504| m41L [Myxoma virus]
+gi|18640129|ref|NP_570203.1|vFam_504| SPV043 putative IMV membrane protein [Swinepox virus]
+gi|148912923|ref|YP_001293237.1|vFam_504| hypothetical protein GTPV_gp042 [Goatpox virus Pellor]
+gi|211956326|ref|YP_002302395.1|vFam_504| IMV membrane protein [Deerpox virus W-1170-84]
+gi|157939669|ref|YP_001497041.1|vFam_504| structural protein [Tanapox virus]
+gi|38229208|ref|NP_938301.1|vFam_504| 46L [Yaba monkey tumor virus]

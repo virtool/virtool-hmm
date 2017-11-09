@@ -1,0 +1,11 @@
+CLUSTER	3174
+NUM_SEQ	3
+LENGTH	259
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	132.09
+FAMILIES	{'Caliciviridae': 1}
+GENERA	{'Norovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|388683808|ref|YP_006390081.1|vFam_3174| virulence factor 1 [Murine norovirus 1]
+gi|531036955|ref|YP_008438597.1|vFam_3174| hypothetical protein ps_2195 [Pandoravirus salinus]
+gi|526119968|ref|YP_008319871.1|vFam_3174| hypothetical protein [Pandoravirus dulcis]

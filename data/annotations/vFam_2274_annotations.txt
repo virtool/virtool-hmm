@@ -1,0 +1,12 @@
+CLUSTER	2274
+NUM_SEQ	4
+LENGTH	518
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	264.18
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'None': 1, 'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|14251079|ref|NP_116442.1|vFam_2274| T93 [Tupaiid herpesvirus 1]
+gi|9845378|ref|NP_064192.1|vFam_2274| pR93 [Murid herpesvirus 2]
+gi|425707293|ref|YP_007016490.1|vFam_2274| E93 [Murid herpesvirus 8]
+gi|61660202|ref|YP_214093.1|vFam_2274| hypothetical protein MuHV1_gp085 [Murid herpesvirus 1]

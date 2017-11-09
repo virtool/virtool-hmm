@@ -1,0 +1,19 @@
+CLUSTER	609
+NUM_SEQ	11
+LENGTH	362
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	173.76
+FAMILIES	{'Baculoviridae': 9}
+GENERA	{'Alphabaculovirus': 9}
+FASTA SEQUENCE TITLES:
+gi|113195433|ref|YP_717569.1|vFam_609| BJDP [Clanis bilineata nucleopolyhedrovirus]
+gi|114679891|ref|YP_758341.1|vFam_609| bjdp [Leucania separata nucleopolyhedrovirus]
+gi|74229720|ref|YP_308924.1|vFam_609| orf34 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304174|ref|YP_249642.1|vFam_609| bJDP [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549540|ref|NP_689313.1|vFam_609| bjdp gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20070019|ref|NP_613223.1|vFam_609| hypothetical protein McnAVgp140 [Mamestra configurata nucleopolyhedrovirus A]
+gi|125860234|ref|YP_001036404.1|vFam_609| baculovirus J domain protein [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401510|ref|YP_002332814.1|vFam_609| hypothetical protein SlnV2_gp116 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634332|ref|NP_037871.1|vFam_609| ORF111 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209171012|ref|YP_002268159.1|vFam_609| agip129 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592837|ref|YP_529790.1|vFam_609| ORF-120 [Agrotis segetum nucleopolyhedrovirus]

@@ -1,0 +1,14 @@
+CLUSTER	517
+NUM_SEQ	6
+LENGTH	609
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	310.59
+FAMILIES	{'Iridoviridae': 1, 'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497942|ref|YP_008003741.1|vFam_517| NAD-dependent DNA ligase [Mythimna separata entomopoxvirus 'L']
+gi|506498174|ref|YP_008003971.1|vFam_517| NAD-dependent DNA ligase [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498504|ref|YP_008004300.1|vFam_517| NAD-dependent DNA ligase [Choristoneura biennis entomopoxvirus 'L']
+gi|9964513|ref|NP_064981.1|vFam_517| putative NAD+ dependent DNA ligase [Amsacta moorei entomopoxvirus 'L']
+gi|15078917|ref|NP_149668.1|vFam_517| 205R [Invertebrate iridescent virus 6]
+gi|527333673|ref|YP_008357457.1|vFam_517| NAD-dependent DNA ligase [Invertebrate iridovirus 22]

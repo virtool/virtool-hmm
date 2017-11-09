@@ -1,0 +1,10 @@
+CLUSTER	6683
+NUM_SEQ	2
+LENGTH	68
+RELATIVE_ENTROPY_PER_POSITION	0.76
+TOTAL_RELATIVE_ENTROPY	51.68
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|74229827|ref|YP_309031.1|vFam_6683| hypothetical protein TNSV_gp142 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304285|ref|YP_249753.1|vFam_6683| ORF-149 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]

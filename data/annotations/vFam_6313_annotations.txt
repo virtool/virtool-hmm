@@ -1,0 +1,10 @@
+CLUSTER	6313
+NUM_SEQ	2
+LENGTH	321
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	166.92
+FAMILIES	{'Ophioviridae': 2}
+GENERA	{'Ophiovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|50355593|ref|YP_053240.1|vFam_6313| 37 kDa protein [Lettuce ring necrosis virus]
+gi|30410834|ref|NP_848530.1|vFam_6313| 37K protein [Mirafiore lettuce virus]

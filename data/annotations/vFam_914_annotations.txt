@@ -1,0 +1,11 @@
+CLUSTER	914
+NUM_SEQ	3
+LENGTH	133
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	67.83
+FAMILIES	{'Hytrosaviridae': 1, 'Phycodnaviridae': 1, 'Iridoviridae': 1}
+GENERA	{'Iridovirus': 1, 'Glossinavirus': 1, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852748|ref|YP_294032.1|vFam_914| hypothetical protein EhV275 [Emiliania huxleyi virus 86]
+gi|168804141|ref|YP_001687073.1|vFam_914| Cg30-like protein [Glossina pallidipes salivary gland hypertrophy virus]
+gi|15078754|ref|NP_149504.1|vFam_914| 041L [Invertebrate iridescent virus 6]

@@ -1,0 +1,13 @@
+CLUSTER	1976
+NUM_SEQ	5
+LENGTH	261
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	133.11
+FAMILIES	{'Phycodnaviridae': 5}
+GENERA	{'Chlorovirus': 4, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852914|ref|YP_294198.1|vFam_1976| putative proliferating cell nuclear antigen [Emiliania huxleyi virus 86]
+gi|157953884|ref|YP_001498775.1|vFam_1976| hypothetical protein AR158_C694L [Paramecium bursaria Chlorella virus AR158]
+gi|9632127|ref|NP_048930.1|vFam_1976| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|155371477|ref|YP_001427011.1|vFam_1976| hypothetical protein ATCV1_Z530L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370785|ref|YP_001426319.1|vFam_1976| hypothetical protein FR483_N687L [Paramecium bursaria Chlorella virus FR483]

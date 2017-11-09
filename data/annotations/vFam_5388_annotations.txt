@@ -1,0 +1,10 @@
+CLUSTER	5388
+NUM_SEQ	2
+LENGTH	680
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	353.6
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825721|ref|YP_007418652.1|vFam_5388| glucose-methanol-choline oxidoreductase [Megavirus lba]
+gi|441432558|ref|YP_007354600.1|vFam_5388| glucose-methanol-choline oxidoreductase [Acanthamoeba polyphaga moumouvirus]

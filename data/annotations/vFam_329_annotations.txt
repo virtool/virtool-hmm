@@ -1,0 +1,24 @@
+CLUSTER	329
+NUM_SEQ	16
+LENGTH	578
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	312.12
+FAMILIES	{'Paramyxoviridae': 16}
+GENERA	{'Avulavirus': 4, 'Respirovirus': 4, 'Ferlavirus': 1, 'Rubulavirus': 7}
+FASTA SEQUENCE TITLES:
+gi|34482044|ref|NP_899660.1|vFam_329| hemagglutinin-neuraminidase protein HN [Fer-de-Lance paramyxovirus]
+gi|10937875|ref|NP_067152.1|vFam_329| hemagglutinin-neuraminidase [Human parainfluenza virus 3]
+gi|9634114|ref|NP_037645.1|vFam_329| hemagglutinin-neuraminidase HN [Bovine parainfluenza virus 3]
+gi|19718372|ref|NP_604441.1|vFam_329| HN glycoprotein [Human parainfluenza virus 1]
+gi|9627227|ref|NP_056878.1|vFam_329| hemagglutinin-neuraminidase protein [Sendai virus]
+gi|15081573|ref|NP_150062.1|vFam_329| hemagglutinin-neuraminidase [Avian paramyxovirus 6]
+gi|529217043|ref|YP_008378664.1|vFam_329| hemagglutinin-neuraminidase [Human parainfluenza virus 4a]
+gi|148283127|ref|YP_001249277.1|vFam_329| attachment protein [Mapuera virus]
+gi|151266285|ref|YP_001331034.1|vFam_329| attachment protein [Porcine rubulavirus]
+gi|9695422|ref|NP_054713.1|vFam_329| hemagglutinin-neuraminidase [Mumps virus]
+gi|55775704|ref|YP_138517.1|vFam_329| hemagglutinin-neuraminidase protein [Parainfluenza virus 5]
+gi|55770826|ref|YP_138509.1|vFam_329| heamagglutinin-neuraminidase [Simian virus 41]
+gi|19525726|ref|NP_598405.1|vFam_329| hemagglutinin-neuraminidase [Human parainfluenza virus 2]
+gi|32563520|ref|NP_872277.1|vFam_329| hemagglutinin-neuraminidase [Goose paramyxovirus SF02]
+gi|11545724|ref|NP_071470.1|vFam_329| hemagglutinin-neuraminidase [Newcastle disease virus B1]
+gi|422937950|ref|YP_007008151.1|vFam_329| hemagglutinin-neuraminidase protein [Avian paramyxovirus 4]

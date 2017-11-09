@@ -1,0 +1,24 @@
+CLUSTER	324
+NUM_SEQ	16
+LENGTH	696
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	361.92
+FAMILIES	{'Herpesviridae': 16}
+GENERA	{'Varicellovirus': 6, 'Iltovirus': 1, 'Mardivirus': 4, 'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|57790975|ref|YP_182379.1|vFam_324| DNA packaging tegument protein UL17 [Gallid herpesvirus 1]
+gi|12084845|ref|NP_073310.1|vFam_324| DNA packaging tegument protein UL17 [Meleagrid herpesvirus 1]
+gi|125745068|ref|YP_001033945.1|vFam_324| DNA packaging tegument protein UL17 [Gallid herpesvirus 2]
+gi|10834886|ref|NP_066847.1|vFam_324| DNA packaging tegument protein UL17 [Gallid herpesvirus 3]
+gi|13242436|ref|NP_077458.1|vFam_324| DNA packaging tegument protein UL17 [Cercopithecine herpesvirus 9]
+gi|9625917|ref|NP_040166.1|vFam_324| DNA packaging tegument protein UL17 [Human herpesvirus 3]
+gi|255683199|ref|YP_003084407.1|vFam_324| UL17 [Anatid herpesvirus 1]
+gi|312162839|ref|YP_003933824.1|vFam_324| DNA packaging tegument protein UL17 [Saimiriine herpesvirus 1]
+gi|83722585|ref|YP_443863.1|vFam_324| DNA packaging tegument protein UL17 [Papiine herpesvirus 2]
+gi|30984445|ref|NP_851876.1|vFam_324| DNA packaging tegument protein UL17 [Macacine herpesvirus 1]
+gi|9629396|ref|NP_044618.1|vFam_324| DNA packaging tegument protein UL17 [Human herpesvirus 1]
+gi|9629286|ref|NP_044486.1|vFam_324| DNA packaging tegument protein UL17 [Human herpesvirus 2]
+gi|296316045|ref|YP_003662509.1|vFam_324| DNA packaging tegument protein UL17 [Bovine herpesvirus 5]
+gi|270339482|ref|YP_003331565.1|vFam_324| DNA packaging tegument protein UL17 [Felid herpesvirus 1]
+gi|216905899|ref|YP_002333527.1|vFam_324| DNA packaging tegument protein UL17 [Equid herpesvirus 9]
+gi|9629772|ref|NP_045263.1|vFam_324| DNA packaging tegument protein UL17 [Equid herpesvirus 4]

@@ -1,0 +1,15 @@
+CLUSTER	554
+NUM_SEQ	7
+LENGTH	613
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	312.63
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|15320748|ref|NP_203260.1|vFam_554| P87 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|96979818|ref|YP_611023.1|vFam_554| p87 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355569|ref|YP_473237.1|vFam_554| P87 [Hyphantria cunea nucleopolyhedrovirus]
+gi|529153362|ref|YP_008378402.1|vFam_554| P87 [Choristoneura rosaceana alphabaculovirus]
+gi|9630043|ref|NP_046261.1|vFam_554| p87 capsid protein [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031248|ref|YP_008992144.1|vFam_554| vp80 [Choristoneura murinana alphabaculovirus]
+gi|529153527|ref|YP_008378552.1|vFam_554| P87 [Choristoneura occidentalis alphabaculovirus]

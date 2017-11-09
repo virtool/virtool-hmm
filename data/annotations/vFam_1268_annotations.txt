@@ -1,0 +1,14 @@
+CLUSTER	1268
+NUM_SEQ	6
+LENGTH	437
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	227.24
+FAMILIES	{'Virgaviridae': 6}
+GENERA	{'Pecluvirus': 2, 'Pomovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|30018265|ref|NP_835265.1|vFam_1268| P49 protein [Indian peanut clump virus]
+gi|20178592|ref|NP_620030.1|vFam_1268| first triple gene block protein [Peanut clump virus]
+gi|25140198|ref|NP_740764.1|vFam_1268| first triple-gene-block protein [Broad bean necrosis virus]
+gi|20373122|ref|NP_620438.1|vFam_1268| triple-gene-block protein 1 [Potato mop-top virus]
+gi|19919931|ref|NP_612625.1|vFam_1268| 48K protein [Beet soil-borne virus]
+gi|19919950|ref|NP_612611.1|vFam_1268| first triple gene block gene [Beet virus Q]

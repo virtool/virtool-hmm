@@ -1,0 +1,10 @@
+CLUSTER	1374
+NUM_SEQ	2
+LENGTH	386
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	200.72
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|314055138|ref|YP_004063476.1|vFam_1374| hypothetical protein OtV2_043 [Ostreococcus tauri virus 2]
+gi|163955026|ref|YP_001648130.1|vFam_1374| hypothetical protein OsV5_053r [Ostreococcus virus OsV5]

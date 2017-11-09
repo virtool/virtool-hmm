@@ -1,0 +1,21 @@
+CLUSTER	523
+NUM_SEQ	13
+LENGTH	228
+RELATIVE_ENTROPY_PER_POSITION	0.47
+TOTAL_RELATIVE_ENTROPY	107.16
+FAMILIES	{'Marseillevirus family': 13}
+GENERA	{'None': 13}
+FASTA SEQUENCE TITLES:
+gi|327409618|ref|YP_004347038.1|vFam_523| hypothetical protein LAU_0072 [Lausannevirus]
+gi|327409691|ref|YP_004347111.1|vFam_523| hypothetical protein LAU_0148 [Lausannevirus]
+gi|327409908|ref|YP_004347328.1|vFam_523| hypothetical protein LAU_0366 [Lausannevirus]
+gi|327409679|ref|YP_004347099.1|vFam_523| hypothetical protein LAU_0136 [Lausannevirus]
+gi|327409592|ref|YP_004347012.1|vFam_523| hypothetical protein LAU_0044 [Lausannevirus]
+gi|284504276|ref|YP_003406991.1|vFam_523| hypothetical protein MAR_ORF254 [Marseillevirus]
+gi|327409804|ref|YP_004347224.1|vFam_523| hypothetical protein LAU_0261 [Lausannevirus]
+gi|327409730|ref|YP_004347150.1|vFam_523| hypothetical protein LAU_0187 [Lausannevirus]
+gi|284504270|ref|YP_003406985.1|vFam_523| hypothetical protein MAR_ORF246 [Marseillevirus]
+gi|327409799|ref|YP_004347219.1|vFam_523| hypothetical protein LAU_0256 [Lausannevirus]
+gi|327409796|ref|YP_004347216.1|vFam_523| hypothetical protein LAU_0253 [Lausannevirus]
+gi|327409798|ref|YP_004347218.1|vFam_523| hypothetical protein LAU_0255 [Lausannevirus]
+gi|327409797|ref|YP_004347217.1|vFam_523| hypothetical protein LAU_0254 [Lausannevirus]

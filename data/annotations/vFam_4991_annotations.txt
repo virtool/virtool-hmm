@@ -1,0 +1,10 @@
+CLUSTER	4991
+NUM_SEQ	2
+LENGTH	142
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	72.42
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Orthopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|17974919|ref|NP_536433.1|vFam_4991| D3R [Monkeypox virus Zaire-96-I-16]
+gi|9627523|ref|NP_042046.1|vFam_4991| epidermal growth factor-like protein (EGF-like protein) [Variola virus]

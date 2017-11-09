@@ -1,0 +1,10 @@
+CLUSTER	4437
+NUM_SEQ	2
+LENGTH	1653
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	843.03
+FAMILIES	{'None': 1, 'Malacoherpesviridae': 1}
+GENERA	{'None': 1, 'Ostreavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|410493494|ref|YP_006908692.1|vFam_4437| hypothetical protein AbHV_ORF42 [Abalone herpesvirus Victoria/AUS/2009]
+gi|48696743|ref|YP_024567.1|vFam_4437| ORF22 [Ostreid herpesvirus 1]

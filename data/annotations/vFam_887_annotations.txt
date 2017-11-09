@@ -1,0 +1,17 @@
+CLUSTER	887
+NUM_SEQ	9
+LENGTH	181
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	90.5
+FAMILIES	{'None': 1, 'Hytrosaviridae': 1, 'Phycodnaviridae': 1, 'Alloherpesviridae': 1, 'Herpesviridae': 3}
+GENERA	{'Prymnesiovirus': 1, 'Muscavirus': 1, 'Cyprinivirus': 1, 'Rhadinovirus': 3, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|187903048|ref|YP_001883339.1|vFam_887| dihydrofolate reductase [Musca domestica salivary gland hypertrophy virus]
+gi|282174156|ref|YP_003358258.1|vFam_887| dihydrofolate reductase [Anguillid herpesvirus 1]
+gi|526119276|ref|YP_008319179.1|vFam_887| dihydrofolate reductase [Pandoravirus dulcis]
+gi|508182060|ref|YP_008052579.1|vFam_887| dihydrofolate reductase [Phaeocystis globosa virus]
+gi|139472863|ref|YP_001129359.1|vFam_887| ORF2 [Human herpesvirus 8]
+gi|9625957|ref|NP_040203.1|vFam_887| dihydrofolate reductase [Saimiriine herpesvirus 2]
+gi|18653811|ref|NP_570745.1|vFam_887| dihydrofolate reductase [Macacine herpesvirus 5]
+gi|370703057|ref|YP_004956859.1|vFam_887| orf111 gene product [Helicoverpa zea nudivirus 2]
+gi|527333618|ref|YP_008357402.1|vFam_887| dihydrofolate reductase [Invertebrate iridovirus 22]

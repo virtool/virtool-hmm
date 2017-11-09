@@ -1,0 +1,14 @@
+CLUSTER	1119
+NUM_SEQ	6
+LENGTH	374
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	198.22
+FAMILIES	{'Secoviridae': 6}
+GENERA	{'Comovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|25013679|ref|NP_734064.1|vFam_1119| large coat protein [Cowpea severe mosaic virus]
+gi|25013705|ref|NP_734001.1|vFam_1119| large capsid protein [Cowpea mosaic virus]
+gi|25013702|ref|NP_733987.1|vFam_1119| large capsid protein [Squash mosaic virus]
+gi|25013670|ref|NP_734072.1|vFam_1119| Large coat protein [Bean pod mottle virus]
+gi|530323609|ref|YP_008400145.1|vFam_1119| large capsid protein [Broad bean true mosaic virus]
+gi|25013687|ref|NP_733992.1|vFam_1119| large capsid protein [Red clover mottle virus]

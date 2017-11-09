@@ -1,0 +1,16 @@
+CLUSTER	569
+NUM_SEQ	8
+LENGTH	305
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	152.5
+FAMILIES	{'None': 3, 'Mimiviridae': 5}
+GENERA	{'None': 7, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|441432594|ref|YP_007354636.1|vFam_569| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]
+gi|441432529|ref|YP_007354571.1|vFam_569| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]
+gi|311978103|ref|YP_003987223.1|vFam_569| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825196|ref|YP_007418127.1|vFam_569| hypothetical protein LBA_00231 [Megavirus lba]
+gi|441432115|ref|YP_007354157.1|vFam_569| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]
+gi|448825680|ref|YP_007418611.1|vFam_569| hypothetical protein LBA_00717 [Megavirus lba]
+gi|448825678|ref|YP_007418609.1|vFam_569| putative ankyrin repeat protein [Megavirus lba]
+gi|441432705|ref|YP_007354747.1|vFam_569| putative ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]

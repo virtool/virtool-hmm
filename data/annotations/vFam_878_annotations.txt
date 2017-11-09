@@ -1,0 +1,16 @@
+CLUSTER	878
+NUM_SEQ	8
+LENGTH	246
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	120.54
+FAMILIES	{'Marseillevirus family': 8}
+GENERA	{'None': 8}
+FASTA SEQUENCE TITLES:
+gi|327409579|ref|YP_004346999.1|vFam_878| hypothetical protein LAU_0031 [Lausannevirus]
+gi|327409558|ref|YP_004346978.1|vFam_878| hypothetical protein LAU_0010 [Lausannevirus]
+gi|284504138|ref|YP_003406853.1|vFam_878| F-box containing protein [Marseillevirus]
+gi|284504078|ref|YP_003406793.1|vFam_878| F-box containing protein [Marseillevirus]
+gi|284504059|ref|YP_003406774.1|vFam_878| F-box containing protein [Marseillevirus]
+gi|327409909|ref|YP_004347329.1|vFam_878| hypothetical protein LAU_0367 [Lausannevirus]
+gi|284504100|ref|YP_003406815.1|vFam_878| F-box containing protein [Marseillevirus]
+gi|284504067|ref|YP_003406782.1|vFam_878| F-box containing protein [Marseillevirus]

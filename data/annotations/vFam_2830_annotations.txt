@@ -1,0 +1,13 @@
+CLUSTER	2830
+NUM_SEQ	5
+LENGTH	147
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	73.5
+FAMILIES	{'Baculoviridae': 4, 'Ascoviridae': 1}
+GENERA	{'Ascovirus': 1, 'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|116326717|ref|YP_803254.1|vFam_2830| hypothetical protein TNAV2c_gp031 [Trichoplusia ni ascovirus 2c]
+gi|22549542|ref|NP_689315.1|vFam_2830| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20070021|ref|NP_613225.1|vFam_2830| hypothetical protein McnAVgp142 [Mamestra configurata nucleopolyhedrovirus A]
+gi|90592839|ref|YP_529792.1|vFam_2830| ORF-122 [Agrotis segetum nucleopolyhedrovirus]
+gi|209171014|ref|YP_002268161.1|vFam_2830| agip131 [Agrotis ipsilon multiple nucleopolyhedrovirus]

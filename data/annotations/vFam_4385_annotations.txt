@@ -1,0 +1,11 @@
+CLUSTER	4385
+NUM_SEQ	3
+LENGTH	286
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	148.72
+FAMILIES	{'Bromoviridae': 3}
+GENERA	{'Ilarvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|19744915|ref|NP_604484.1|vFam_4385| putative cell-to-cell movement protein [Apple mosaic virus]
+gi|538602671|ref|YP_008519306.1|vFam_4385| movement protein [Blueberry shock virus]
+gi|24817635|ref|NP_733825.1|vFam_4385| movement protein [Prunus necrotic ringspot virus]

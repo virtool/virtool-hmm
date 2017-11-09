@@ -1,0 +1,13 @@
+CLUSTER	1325
+NUM_SEQ	5
+LENGTH	248
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	131.44
+FAMILIES	{'None': 1, 'Mimiviridae': 4}
+GENERA	{'Mimivirus': 1, 'None': 4}
+FASTA SEQUENCE TITLES:
+gi|311977758|ref|YP_003986878.1|vFam_1325| uncharacterized glycosyltransferase [Acanthamoeba polyphaga mimivirus]
+gi|448825492|ref|YP_007418423.1|vFam_1325| putative glycosyltransferase [Megavirus lba]
+gi|363540181|ref|YP_004894573.1|vFam_1325| mg522 gene product [Megavirus chiliensis]
+gi|441432379|ref|YP_007354421.1|vFam_1325| glycosyltransferase [Acanthamoeba polyphaga moumouvirus]
+gi|441432378|ref|YP_007354420.1|vFam_1325| glycosyltransferase [Acanthamoeba polyphaga moumouvirus]

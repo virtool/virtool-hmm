@@ -1,0 +1,13 @@
+CLUSTER	1118
+NUM_SEQ	5
+LENGTH	241
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	120.5
+FAMILIES	{'Parvoviridae': 3}
+GENERA	{'Pefudensovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|531035304|ref|YP_008436932.1|vFam_1118| hypothetical protein ps_517 [Pandoravirus salinus]
+gi|33235705|ref|NP_874379.1|vFam_1118| capsid protein [Blattella germanica densovirus]
+gi|557307523|ref|YP_008766864.1|vFam_1118| VP1 [Solenopsis invicta densovirus]
+gi|9633610|ref|NP_051016.1|vFam_1118| structural protein [Periplaneta fuliginosa densovirus]
+gi|62857331|ref|YP_227603.1|vFam_1118| Putative structural protein [Acheta domestica densovirus]

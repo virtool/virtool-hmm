@@ -1,0 +1,10 @@
+CLUSTER	4774
+NUM_SEQ	2
+LENGTH	105
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	51.45
+FAMILIES	{'Herpesviridae': 1, 'Phycodnaviridae': 1}
+GENERA	{'Proboscivirus': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|496991198|ref|YP_007969841.1|vFam_4774| protein EE25 [Elephantid herpesvirus 1]
+gi|313768433|ref|YP_004062113.1|vFam_4774| hypothetical protein MpV1_230 [Micromonas sp. RCC1109 virus MpV1]

@@ -1,0 +1,10 @@
+CLUSTER	2233
+NUM_SEQ	2
+LENGTH	404
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	197.96
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|109255293|ref|YP_654442.1|vFam_2233| hypothetical protein COGV_gp021 [Choristoneura occidentalis granulovirus]
+gi|14602264|ref|NP_148811.1|vFam_2233| ORF27 [Cydia pomonella granulovirus]

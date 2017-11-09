@@ -1,0 +1,10 @@
+CLUSTER	4984
+NUM_SEQ	2
+LENGTH	76
+RELATIVE_ENTROPY_PER_POSITION	0.67
+TOTAL_RELATIVE_ENTROPY	50.92
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|22122284|ref|NP_666545.1|vFam_4984| hypothetical protein SIRV2gp11 [Sulfolobus islandicus rod-shaped virus 2]
+gi|22122231|ref|NP_666592.1|vFam_4984| hypothetical protein SIRV1gp04 [Sulfolobus islandicus rod-shaped virus 1]

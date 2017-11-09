@@ -1,0 +1,18 @@
+CLUSTER	937
+NUM_SEQ	10
+LENGTH	328
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	170.56
+FAMILIES	{'Baculoviridae': 9}
+GENERA	{'Betabaculovirus': 9}
+FASTA SEQUENCE TITLES:
+gi|46309326|ref|YP_006216.1|vFam_937| ORF128 [Agrotis segetum granulovirus]
+gi|410493700|ref|YP_006908638.1|vFam_937| fibroblast growth factor 3 [Epinotia aporema granulovirus]
+gi|32698656|ref|NP_872571.1|vFam_937| fgf [Adoxophyes orana granulovirus]
+gi|21686793|ref|NP_663293.1|vFam_937| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|556549154|ref|YP_008720068.1|vFam_937| fgf-3 [Clostera anastomosis granulovirus]
+gi|334265800|ref|YP_004376329.1|vFam_937| fgf-3 [Clostera anachoreta granulovirus]
+gi|109255386|ref|YP_654535.1|vFam_937| FGF-3 [Choristoneura occidentalis granulovirus]
+gi|288804757|ref|YP_003429442.1|vFam_937| FGF-3 [Pieris rapae granulovirus]
+gi|14602377|ref|NP_148924.1|vFam_937| ORF140 similar to XcGV ORF178 [Cydia pomonella granulovirus]
+gi|33622327|ref|NP_891974.1|vFam_937| hypothetical protein [Cryptophlebia leucotreta granulovirus]

@@ -1,0 +1,32 @@
+CLUSTER	203
+NUM_SEQ	24
+LENGTH	286
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	145.86
+FAMILIES	{'Phycodnaviridae': 1, 'Baculoviridae': 19}
+GENERA	{'Phaeovirus': 1, 'Alphabaculovirus': 19}
+FASTA SEQUENCE TITLES:
+gi|13242687|ref|NP_077702.1|vFam_203| EsV-1-217 [Ectocarpus siliculosus virus 1]
+gi|29567107|ref|NP_818669.1|vFam_203| odv-ec27 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|237643676|ref|YP_002884366.1|vFam_203| ODV-EC27 [Bombyx mandarina nucleopolyhedrovirus]
+gi|9630079|ref|NP_046297.1|vFam_203| occlusion-derived virus envelope protein E27 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|96979782|ref|YP_610983.1|vFam_203| odv-e27 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355533|ref|YP_473201.1|vFam_203| ODV-E27 [Hyphantria cunea nucleopolyhedrovirus]
+gi|15320783|ref|NP_203295.1|vFam_203| ODV-E27 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|571031208|ref|YP_008992104.1|vFam_203| odv-ec27 [Choristoneura murinana alphabaculovirus]
+gi|116326208|ref|YP_803534.1|vFam_203| occlusion-derived virus envelope/capsid protein [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|114679860|ref|YP_758310.1|vFam_203| odv-e27 [Leucania separata nucleopolyhedrovirus]
+gi|15617485|ref|NP_258281.1|vFam_203| occlusion-derived virus envelope protein ODV-EC27 [Spodoptera litura nucleopolyhedrovirus]
+gi|209401065|ref|YP_002273934.1|vFam_203| occlusion-derived virus envelope/capsid protein 27 [Helicoverpa armigera NPV NNg1]
+gi|74229698|ref|YP_308902.1|vFam_203| orf13 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|125860261|ref|YP_001036431.1|vFam_203| ODV-EC27 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|209171039|ref|YP_002268186.1|vFam_203| agip156 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592866|ref|YP_529819.1|vFam_203| ODV-EC27 [Agrotis segetum nucleopolyhedrovirus]
+gi|20070044|ref|NP_613248.1|vFam_203| ODV-EC27 [Mamestra configurata nucleopolyhedrovirus A]
+gi|228861601|ref|YP_002854621.1|vFam_203| ODV-ec27 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|113195412|ref|YP_717547.1|vFam_203| ODV-EC27 [Clanis bilineata nucleopolyhedrovirus]
+gi|118197490|ref|YP_874202.1|vFam_203| occlusion derived viral protein-e27 [Ectropis obliqua nucleopolyhedrovirus]
+gi|292397689|ref|YP_003517755.1|vFam_203| ODV-E27 [Lymantria xylina MNPV]
+gi|9630984|ref|NP_047654.1|vFam_203| Ld-odv-e27 [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|529218065|ref|YP_008378228.1|vFam_203| odv-e27 [Hemileuca sp. nucleopolyhedrovirus]
+gi|165969020|ref|YP_001650920.1|vFam_203| occlusion-derived virus envelope protein 27 [Orgyia leucostigma NPV]

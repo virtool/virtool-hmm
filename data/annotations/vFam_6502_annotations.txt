@@ -1,0 +1,10 @@
+CLUSTER	6502
+NUM_SEQ	2
+LENGTH	46
+RELATIVE_ENTROPY_PER_POSITION	1.14
+TOTAL_RELATIVE_ENTROPY	52.44
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|388260165|ref|YP_006347693.1|vFam_6502| hypothetical protein [European catfish virus]
+gi|45686079|ref|YP_003842.1|vFam_6502| unknown [Ambystoma tigrinum virus]

@@ -1,0 +1,11 @@
+CLUSTER	3375
+NUM_SEQ	3
+LENGTH	96
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	50.88
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9964532|ref|NP_065000.1|vFam_3375| hypothetical protein AMV218 [Amsacta moorei entomopoxvirus 'L']
+gi|506498823|ref|YP_008004617.1|vFam_3375| unknown similar to AMEV218 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498518|ref|YP_008004314.1|vFam_3375| unknown similar to AMEV218 [Choristoneura biennis entomopoxvirus 'L']

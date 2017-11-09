@@ -1,0 +1,11 @@
+CLUSTER	1050
+NUM_SEQ	3
+LENGTH	312
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	156.0
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'None': 2, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|300116757|ref|YP_003773402.1|vFam_1050| hypothetical protein HAV1_gp04 [Hyperthermophilic Archaeal Virus 1]
+gi|441432140|ref|YP_007354182.1|vFam_1050| hypothetical protein Moumou_00202 [Acanthamoeba polyphaga moumouvirus]
+gi|311978128|ref|YP_003987248.1|vFam_1050| hypothetical protein [Acanthamoeba polyphaga mimivirus]

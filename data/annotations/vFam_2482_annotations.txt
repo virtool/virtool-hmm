@@ -1,0 +1,13 @@
+CLUSTER	2482
+NUM_SEQ	5
+LENGTH	189
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	94.5
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036474|ref|YP_008438111.1|vFam_2482| hypothetical protein ps_1705 [Pandoravirus salinus]
+gi|531034930|ref|YP_008436555.1|vFam_2482| hypothetical protein ps_139 [Pandoravirus salinus]
+gi|526118715|ref|YP_008318618.1|vFam_2482| hypothetical protein [Pandoravirus dulcis]
+gi|531036043|ref|YP_008437678.1|vFam_2482| hypothetical protein ps_1266 [Pandoravirus salinus]
+gi|526119545|ref|YP_008319448.1|vFam_2482| hypothetical protein [Pandoravirus dulcis]

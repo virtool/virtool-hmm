@@ -1,0 +1,10 @@
+CLUSTER	2784
+NUM_SEQ	2
+LENGTH	525
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	273.0
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825744|ref|YP_007418675.1|vFam_2784| putative GTP binding translation elongation/initiation factor [Megavirus lba]
+gi|311978021|ref|YP_003987141.1|vFam_2784| putative GTP binding translation elongation/initiation factor [Acanthamoeba polyphaga mimivirus]

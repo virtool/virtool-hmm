@@ -1,0 +1,12 @@
+CLUSTER	3792
+NUM_SEQ	4
+LENGTH	66
+RELATIVE_ENTROPY_PER_POSITION	0.80
+TOTAL_RELATIVE_ENTROPY	52.8
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|171473719|ref|YP_001798589.1|vFam_3792| viral structural protein [Acidianus filamentous virus 9]
+gi|162329356|ref|YP_001604410.1|vFam_3792| hypothetical protein AFV3_gp68 [Acidianus filamentous virus 3]
+gi|162329543|ref|YP_001604342.1|vFam_3792| hypothetical protein AFV8_gp61 [Acidianus filamentous virus 8]
+gi|162329353|ref|YP_001604407.1|vFam_3792| hypothetical protein AFV3_gp65 [Acidianus filamentous virus 3]

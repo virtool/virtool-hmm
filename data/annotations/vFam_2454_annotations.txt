@@ -1,0 +1,12 @@
+CLUSTER	2454
+NUM_SEQ	4
+LENGTH	322
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	164.22
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'None': 2, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531036882|ref|YP_008438523.1|vFam_2454| alpha/beta hydrolase [Pandoravirus salinus]
+gi|441432651|ref|YP_007354693.1|vFam_2454| Esterase lipase superfamily protein [Acanthamoeba polyphaga moumouvirus]
+gi|363540399|ref|YP_004894964.1|vFam_2454| mg913 gene product [Megavirus chiliensis]
+gi|311978256|ref|YP_003987376.1|vFam_2454| uncharacterized hydrolase [Acanthamoeba polyphaga mimivirus]

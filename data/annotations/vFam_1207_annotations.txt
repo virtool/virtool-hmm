@@ -1,0 +1,14 @@
+CLUSTER	1207
+NUM_SEQ	6
+LENGTH	359
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	183.09
+FAMILIES	{'None': 2, 'Phycodnaviridae': 1, 'Mimiviridae': 2, 'Asfarviridae': 1}
+GENERA	{'None': 3, 'Prymnesiovirus': 1, 'Mimivirus': 1, 'Asfivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508181977|ref|YP_008052496.1|vFam_1207| DNA-directed RNA polymerase II subunit D [Phaeocystis globosa virus]
+gi|9628220|ref|NP_042806.1|vFam_1207| RNA polymerase subunit 3 [African swine fever virus]
+gi|310831472|ref|YP_003970115.1|vFam_1207| putative DNA-dependent RNA polymerase subunit Rpb3/Rpb11 [Cafeteria roenbergensis virus BV-PW1]
+gi|311977857|ref|YP_003986977.1|vFam_1207| putative DNA directed RNA polymerase subunit [Acanthamoeba polyphaga mimivirus]
+gi|448825368|ref|YP_007418299.1|vFam_1207| putative DNA directed RNA polymerase subunit [Megavirus lba]
+gi|441432272|ref|YP_007354314.1|vFam_1207| DNA directed RNA polymerase subunit L [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,12 @@
+CLUSTER	3728
+NUM_SEQ	4
+LENGTH	187
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	93.5
+FAMILIES	{'Alloherpesviridae': 4}
+GENERA	{'Cyprinivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|282174154|ref|YP_003358256.1|vFam_3728| protein ORF117 [Anguillid herpesvirus 1]
+gi|422933650|ref|YP_007003775.1|vFam_3728| protein ORF127 [Cyprinid herpesvirus 1]
+gi|131840153|ref|YP_001096162.1|vFam_3728| unnamed protein product [Cyprinid herpesvirus 3]
+gi|422933884|ref|YP_007003943.1|vFam_3728| protein ORF127 [Cyprinid herpesvirus 2]

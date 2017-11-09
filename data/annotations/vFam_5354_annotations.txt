@@ -1,0 +1,10 @@
+CLUSTER	5354
+NUM_SEQ	2
+LENGTH	300
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	153.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531037050|ref|YP_008438692.1|vFam_5354| CYTH-like domain motif-containing [Pandoravirus salinus]
+gi|526120025|ref|YP_008319928.1|vFam_5354| cyth-like domain motif-containing [Pandoravirus dulcis]

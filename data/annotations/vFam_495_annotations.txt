@@ -1,0 +1,24 @@
+CLUSTER	495
+NUM_SEQ	16
+LENGTH	218
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	115.54
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531776|ref|YP_784302.1|vFam_495| uracil DNA glycosylase [Nile crocodilepox virus]
+gi|40556022|ref|NP_955107.1|vFam_495| CNPV084 uracil DNA glycosylase [Canarypox virus]
+gi|9634732|ref|NP_039025.1|vFam_495| Uracil DNA glycosylase [Fowlpox virus]
+gi|113195288|ref|YP_717418.1|vFam_495| uracil-DNA glycosylase [Taterapox virus]
+gi|345107277|ref|YP_004821442.1|vFam_495| uracil-DNA glycosylase [Yoka poxvirus]
+gi|157939705|ref|YP_001497077.1|vFam_495| uracil DNA glycosylase [Tanapox virus]
+gi|38229244|ref|NP_938337.1|vFam_495| 82R [Yaba monkey tumor virus]
+gi|18640165|ref|NP_570239.1|vFam_495| SPV079 uracil DNA glycosylase [Swinepox virus]
+gi|148912959|ref|YP_001293273.1|vFam_495| hypothetical protein GTPV_gp078 [Goatpox virus Pellor]
+gi|377829989|ref|YP_005296286.1|vFam_495| unnamed protein product [Cotia virus SPAn232]
+gi|211956362|ref|YP_002302431.1|vFam_495| uracil DNA glycosylase [Deerpox virus W-1170-84]
+gi|9633888|ref|NP_051968.1|vFam_495| gp079R [Rabbit fibroma virus]
+gi|41057503|ref|NP_957976.1|vFam_495| ORF067 uracil DNA glycosidase [Bovine papular stomatitis virus]
+gi|289183831|ref|YP_003457372.1|vFam_495| uracil-DNA glycosylase [Pseudocowpox virus]
+gi|9629025|ref|NP_044044.1|vFam_495| MC093R [Molluscum contagiosum virus subtype 1]
+gi|571798001|ref|YP_008658500.1|vFam_495| uracil DNA glycosylsae [Squirrelpox virus]

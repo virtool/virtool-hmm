@@ -1,0 +1,10 @@
+CLUSTER	2675
+NUM_SEQ	2
+LENGTH	450
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	234.0
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825170|ref|YP_007418101.1|vFam_2675| hypothetical protein LBA_00205 [Megavirus lba]
+gi|441432101|ref|YP_007354143.1|vFam_2675| 5-nucleotidase superfamily protein [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,10 @@
+CLUSTER	5529
+NUM_SEQ	2
+LENGTH	189
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	98.28
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035686|ref|YP_008437319.1|vFam_5529| hypothetical protein ps_907 [Pandoravirus salinus]
+gi|526119375|ref|YP_008319278.1|vFam_5529| hypothetical protein [Pandoravirus dulcis]

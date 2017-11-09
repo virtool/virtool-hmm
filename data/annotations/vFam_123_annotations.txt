@@ -1,0 +1,45 @@
+CLUSTER	123
+NUM_SEQ	37
+LENGTH	252
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	136.08
+FAMILIES	{'Baculoviridae': 32}
+GENERA	{'Gammabaculovirus': 3, 'Betabaculovirus': 11, 'Alphabaculovirus': 18}
+FASTA SEQUENCE TITLES:
+gi|48843558|ref|YP_025131.1|vFam_123| p33 [Neodiprion sertifer nucleopolyhedrovirus]
+gi|48843645|ref|YP_025213.1|vFam_123| unknown [Neodiprion lecontei nucleopolyhedrovirus]
+gi|110645217|ref|YP_667856.1|vFam_123| hypothetical protein [Neodiprion abietis NPV]
+gi|96979828|ref|YP_611033.1|vFam_123| p33 [Antheraea pernyi nucleopolyhedrovirus]
+gi|237643628|ref|YP_002884318.1|vFam_123| P33 [Bombyx mandarina nucleopolyhedrovirus]
+gi|9630031|ref|NP_046249.1|vFam_123| hypothetical protein OpmnVgp093 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|86355582|ref|YP_473250.1|vFam_123| ORF62 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|116326157|ref|YP_803483.1|vFam_123| hypothetical protein AGNV_gp089 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|571031261|ref|YP_008992157.1|vFam_123| sulfhydryl oxidase [Choristoneura murinana alphabaculovirus]
+gi|209978841|ref|YP_002300584.1|vFam_123| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|165969090|ref|YP_001650990.1|vFam_123| hypothetical protein [Orgyia leucostigma NPV]
+gi|114679945|ref|YP_758395.1|vFam_123| ORF98 [Leucania separata nucleopolyhedrovirus]
+gi|15617551|ref|NP_258351.1|vFam_123| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|292397764|ref|YP_003517830.1|vFam_123| P33 [Lymantria xylina MNPV]
+gi|9631061|ref|NP_047731.1|vFam_123| LdOrf-92 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|209401136|ref|YP_002274005.1|vFam_123| hypothetical protein HaSNPVNNg1_gp082 [Helicoverpa armigera NPV NNg1]
+gi|529218134|ref|YP_008378297.1|vFam_123| sulfhydryl oxidase [Hemileuca sp. nucleopolyhedrovirus]
+gi|74229764|ref|YP_308968.1|vFam_123| orf79 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|22549497|ref|NP_689270.1|vFam_123| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|215401472|ref|YP_002332776.1|vFam_123| hypothetical protein SlnV2_gp078 [Spodoptera litura nucleopolyhedrovirus II]
+gi|209170972|ref|YP_002268119.1|vFam_123| P33 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|228861669|ref|YP_002854689.1|vFam_123| hypothetical protein EupsNPV_gp079 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|118197552|ref|YP_874264.1|vFam_123| hypothetical protein EONV_gp071 [Ectropis obliqua nucleopolyhedrovirus]
+gi|113195481|ref|YP_717618.1|vFam_123| ac92-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|402502170|ref|YP_006607828.1|vFam_123| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|148368904|ref|YP_001257034.1|vFam_123| hypothetical protein SlGVgp083 [Spodoptera litura granulovirus]
+gi|164519295|ref|YP_001649082.1|vFam_123| p33 [Helicoverpa armigera granulovirus]
+gi|46309371|ref|YP_006261.1|vFam_123| ORF83 [Agrotis segetum granulovirus]
+gi|11068079|ref|NP_068295.1|vFam_123| PxORF76 peptide [Plutella xylostella granulovirus]
+gi|32698618|ref|NP_872533.1|vFam_123| ORF_79 [Adoxophyes orana granulovirus]
+gi|21686750|ref|NP_663250.1|vFam_123| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|410493658|ref|YP_006908596.1|vFam_123| P33 [Epinotia aporema granulovirus]
+gi|556549114|ref|YP_008720028.1|vFam_123| p33 [Clostera anastomosis granulovirus]
+gi|109255346|ref|YP_654495.1|vFam_123| P33 [Choristoneura occidentalis granulovirus]
+gi|288804717|ref|YP_003429402.1|vFam_123| PrGVORF78 [Pieris rapae granulovirus]
+gi|33622284|ref|NP_891931.1|vFam_123| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602330|ref|NP_148877.1|vFam_123| ORF93 similar to AcMNPV ORF92 [Cydia pomonella granulovirus]

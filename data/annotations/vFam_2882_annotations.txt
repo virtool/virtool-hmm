@@ -1,0 +1,13 @@
+CLUSTER	2882
+NUM_SEQ	5
+LENGTH	93
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	50.22
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|312162866|ref|YP_003933851.1|vFam_2882| membrane protein US9 [Saimiriine herpesvirus 1]
+gi|9629451|ref|NP_044672.1|vFam_2882| membrane protein US9 [Human herpesvirus 1]
+gi|9629340|ref|NP_044540.1|vFam_2882| membrane protein US9 [Human herpesvirus 2]
+gi|83722638|ref|YP_443916.1|vFam_2882| membrane protein US9 [Papiine herpesvirus 2]
+gi|30984497|ref|NP_851929.1|vFam_2882| membrane protein US9 [Macacine herpesvirus 1]

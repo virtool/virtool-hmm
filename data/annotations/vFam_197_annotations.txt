@@ -1,0 +1,30 @@
+CLUSTER	197
+NUM_SEQ	22
+LENGTH	350
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	182.0
+FAMILIES	{'Phycodnaviridae': 22}
+GENERA	{'Chlorovirus': 22}
+FASTA SEQUENCE TITLES:
+gi|157953022|ref|YP_001497914.1|vFam_197| hypothetical protein NY2A_B718L [Paramecium bursaria Chlorella virus NY2A]
+gi|157952503|ref|YP_001497395.1|vFam_197| hypothetical protein NY2A_B199R [Paramecium bursaria Chlorella virus NY2A]
+gi|157953730|ref|YP_001498621.1|vFam_197| hypothetical protein AR158_C540L [Paramecium bursaria Chlorella virus AR158]
+gi|157952365|ref|YP_001497257.1|vFam_197| hypothetical protein NY2A_B061R [Paramecium bursaria Chlorella virus NY2A]
+gi|157952902|ref|YP_001497794.1|vFam_197| hypothetical protein NY2A_B598L [Paramecium bursaria Chlorella virus NY2A]
+gi|157952522|ref|YP_001497414.1|vFam_197| hypothetical protein NY2A_B218R [Paramecium bursaria Chlorella virus NY2A]
+gi|157953209|ref|YP_001498100.1|vFam_197| hypothetical protein AR158_C018R [Paramecium bursaria Chlorella virus AR158]
+gi|157952326|ref|YP_001497218.1|vFam_197| hypothetical protein NY2A_B022R [Paramecium bursaria Chlorella virus NY2A]
+gi|157953996|ref|YP_001498887.1|vFam_197| hypothetical protein AR158_C806L [Paramecium bursaria Chlorella virus AR158]
+gi|157953394|ref|YP_001498285.1|vFam_197| hypothetical protein AR158_C203R [Paramecium bursaria Chlorella virus AR158]
+gi|155371297|ref|YP_001426831.1|vFam_197| hypothetical protein ATCV1_Z350L [Acanthocystis turfacea Chlorella virus 1]
+gi|155371639|ref|YP_001427173.1|vFam_197| hypothetical protein ATCV1_Z692L [Acanthocystis turfacea Chlorella virus 1]
+gi|155371729|ref|YP_001427263.1|vFam_197| hypothetical protein ATCV1_Z782L [Acanthocystis turfacea Chlorella virus 1]
+gi|155371172|ref|YP_001426706.1|vFam_197| hypothetical protein ATCV1_Z225R [Acanthocystis turfacea Chlorella virus 1]
+gi|155370804|ref|YP_001426338.1|vFam_197| hypothetical protein FR483_N706R [Paramecium bursaria Chlorella virus FR483]
+gi|155370913|ref|YP_001426447.1|vFam_197| hypothetical protein FR483_N815L [Paramecium bursaria Chlorella virus FR483]
+gi|155370707|ref|YP_001426241.1|vFam_197| hypothetical protein FR483_N609L [Paramecium bursaria Chlorella virus FR483]
+gi|155370285|ref|YP_001425819.1|vFam_197| hypothetical protein FR483_N187L [Paramecium bursaria Chlorella virus FR483]
+gi|340025818|ref|NP_048711.2|vFam_197| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953694|ref|YP_001498585.1|vFam_197| hypothetical protein AR158_C504L [Paramecium bursaria Chlorella virus AR158]
+gi|157953562|ref|YP_001498453.1|vFam_197| hypothetical protein AR158_C372L [Paramecium bursaria Chlorella virus AR158]
+gi|157952674|ref|YP_001497566.1|vFam_197| hypothetical protein NY2A_B370L [Paramecium bursaria Chlorella virus NY2A]

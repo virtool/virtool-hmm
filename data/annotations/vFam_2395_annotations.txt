@@ -1,0 +1,12 @@
+CLUSTER	2395
+NUM_SEQ	4
+LENGTH	191
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	95.5
+FAMILIES	{'None': 2, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831482|ref|YP_003970125.1|vFam_2395| putative DNA-dependent RNA polymerase subunit Rpb9 [Cafeteria roenbergensis virus BV-PW1]
+gi|311977584|ref|YP_003986704.1|vFam_2395| putative DNA-dependent RNA polymerase subunit Rpb9 [Acanthamoeba polyphaga mimivirus]
+gi|448825257|ref|YP_007418188.1|vFam_2395| putative DNA-dependent RNA polymerase subunit rpb9 [Megavirus lba]
+gi|441432171|ref|YP_007354213.1|vFam_2395| D5 family helicase-primase [Acanthamoeba polyphaga moumouvirus]

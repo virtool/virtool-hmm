@@ -1,0 +1,11 @@
+CLUSTER	4041
+NUM_SEQ	3
+LENGTH	313
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	162.76
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 1, 'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313768145|ref|YP_004061576.1|vFam_4041| hypothetical protein BpV1_146 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|314055237|ref|YP_004063575.1|vFam_4041| transcription initiation factor IIB [Ostreococcus tauri virus 2]
+gi|313768360|ref|YP_004062040.1|vFam_4041| hypothetical protein MpV1_157 [Micromonas sp. RCC1109 virus MpV1]

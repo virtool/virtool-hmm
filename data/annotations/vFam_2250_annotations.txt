@@ -1,0 +1,12 @@
+CLUSTER	2250
+NUM_SEQ	4
+LENGTH	197
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	100.47
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Deltabaculovirus': 1, 'Gammabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|15320819|ref|NP_203329.1|vFam_2250| CUN025 putative lef-2 late expression factor 2, N4_Mtase motif, similar to AcMNPV ORF6 [Culex nigripalpus nucleopolyhedrovirus]
+gi|48843591|ref|YP_025164.1|vFam_2250| late expression factor 2 [Neodiprion sertifer nucleopolyhedrovirus]
+gi|48843683|ref|YP_025254.1|vFam_2250| late expression factor-2 [Neodiprion lecontei nucleopolyhedrovirus]
+gi|110645266|ref|YP_667905.1|vFam_2250| late expression factor 2 [Neodiprion abietis NPV]

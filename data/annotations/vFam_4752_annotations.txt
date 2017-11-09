@@ -1,0 +1,10 @@
+CLUSTER	4752
+NUM_SEQ	2
+LENGTH	105
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	54.6
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|356640542|ref|YP_004933984.1|vFam_4752| hypothetical protein cy239 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556662|ref|YP_068296.1|vFam_4752| rh208 [Macacine herpesvirus 3]

@@ -1,0 +1,10 @@
+CLUSTER	5207
+NUM_SEQ	2
+LENGTH	305
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	158.6
+FAMILIES	{'Iridoviridae': 1}
+GENERA	{'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|527333594|ref|YP_008357378.1|vFam_5207| Chitinase [Invertebrate iridovirus 22]
+gi|339906006|ref|YP_004732803.1|vFam_5207| hypothetical protein WIV_gp020 [Wiseana iridescent virus]

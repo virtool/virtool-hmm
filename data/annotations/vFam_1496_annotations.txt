@@ -1,0 +1,10 @@
+CLUSTER	1496
+NUM_SEQ	2
+LENGTH	197
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	102.44
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159292|ref|YP_002321335.1|vFam_1496| GrBNV_gp75-like protein [Oryctes rhinoceros virus]
+gi|134303473|ref|YP_001111342.1|vFam_1496| hypothetical protein GrBNV_gp75 [Gryllus bimaculatus nudivirus]

@@ -1,0 +1,11 @@
+CLUSTER	3434
+NUM_SEQ	3
+LENGTH	139
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	69.5
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|295441855|ref|YP_003591096.1|vFam_3434| hypothetical protein STIV2_B140 [Sulfolobus turreted icosahedral virus 2]
+gi|48697012|ref|YP_025009.1|vFam_3434| hypothetical protein A137 [Sulfolobus turreted icosahedral virus]
+gi|448260200|ref|YP_007348297.1|vFam_3434| hypothetical protein STSV2_53 [Sulfolobus virus STSV2]

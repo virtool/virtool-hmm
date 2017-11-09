@@ -1,0 +1,30 @@
+CLUSTER	268
+NUM_SEQ	22
+LENGTH	154
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	81.62
+FAMILIES	{'Marseillevirus family': 1, 'Baculoviridae': 12, 'Iridoviridae': 2, 'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1, 'None': 1, 'Betabaculovirus': 2, 'Iridovirus': 2, 'Alphabaculovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|527333559|ref|YP_008357343.1|vFam_268| Putative dual specificity phosphatase 13 [Invertebrate iridovirus 22]
+gi|339906158|ref|YP_004732955.1|vFam_268| hypothetical protein WIV_gp172 [Wiseana iridescent virus]
+gi|327409621|ref|YP_004347041.1|vFam_268| dual specificity protein phosphatase [Lausannevirus]
+gi|15078836|ref|NP_149586.1|vFam_268| 123R [Invertebrate iridescent virus 6]
+gi|116326077|ref|YP_803402.1|vFam_268| protein tyrosine phosphatase 2 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|571031337|ref|YP_008992234.1|vFam_268| ptp-2 [Choristoneura murinana alphabaculovirus]
+gi|529153619|ref|YP_008378644.1|vFam_268| protein tyrosine phosphatase 2 [Choristoneura occidentalis alphabaculovirus]
+gi|96979897|ref|YP_611106.1|vFam_268| ptp-2 [Antheraea pernyi nucleopolyhedrovirus]
+gi|9629947|ref|NP_046165.1|vFam_268| protein tyrosine phosphatase 2 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|33622289|ref|NP_891936.1|vFam_268| ptp-2 [Cryptophlebia leucotreta granulovirus]
+gi|14602335|ref|NP_148882.1|vFam_268| ORF98 PTP-2 [Cydia pomonella granulovirus]
+gi|506498096|ref|YP_008003893.1|vFam_268| protein tyrosine phosphatase 2 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497816|ref|YP_008003615.1|vFam_268| protein tyrosine phosphatase 2 [Mythimna separata entomopoxvirus 'L']
+gi|506498712|ref|YP_008004506.1|vFam_268| protein tyrosine phosphatase 2 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964392|ref|NP_064860.1|vFam_268| protein tyrosine phosphatase [Amsacta moorei entomopoxvirus 'L']
+gi|74229817|ref|YP_309021.1|vFam_268| phosphotyrosine phosphatase (ptp) [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304276|ref|YP_249744.1|vFam_268| PTP2 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|125860148|ref|YP_001036317.1|vFam_268| protein tyrosine phosphatase-2 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401418|ref|YP_002332721.1|vFam_268| PTP2 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634247|ref|NP_037786.1|vFam_268| ORF26 ptp2 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209170915|ref|YP_002268061.1|vFam_268| agip31 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592744|ref|YP_529697.1|vFam_268| PTP-2 [Agrotis segetum nucleopolyhedrovirus]

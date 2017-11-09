@@ -1,0 +1,10 @@
+CLUSTER	3902
+NUM_SEQ	2
+LENGTH	174
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	90.48
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40556126|ref|NP_955211.1|vFam_3902| CNPV188 late transcription factor VLTF-4 [Canarypox virus]
+gi|9634812|ref|NP_039105.1|vFam_3902| Late transcription factor VLTF-4 [Fowlpox virus]

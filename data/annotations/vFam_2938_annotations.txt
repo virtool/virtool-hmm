@@ -1,0 +1,11 @@
+CLUSTER	2938
+NUM_SEQ	3
+LENGTH	380
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	193.8
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9845437|ref|NP_064251.1|vFam_2938| pr144 [Murid herpesvirus 2]
+gi|425707334|ref|YP_007016531.1|vFam_2938| e144 [Murid herpesvirus 8]
+gi|61660253|ref|YP_214144.1|vFam_2938| MHC class I homolog [Murid herpesvirus 1]

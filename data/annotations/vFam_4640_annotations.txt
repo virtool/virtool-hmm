@@ -1,0 +1,11 @@
+CLUSTER	4640
+NUM_SEQ	3
+LENGTH	85
+RELATIVE_ENTROPY_PER_POSITION	0.60
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Gammabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|48843599|ref|YP_025172.1|vFam_4640| occlusion-derived envelope protein e18 [Neodiprion sertifer nucleopolyhedrovirus]
+gi|48843691|ref|YP_025262.1|vFam_4640| occlusion-derived virus envelope protein [Neodiprion lecontei nucleopolyhedrovirus]
+gi|110645274|ref|YP_667913.1|vFam_4640| occlusion derived virus envelope protein e18 [Neodiprion abietis NPV]

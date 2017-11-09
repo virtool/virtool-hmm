@@ -1,0 +1,11 @@
+CLUSTER	4958
+NUM_SEQ	3
+LENGTH	81
+RELATIVE_ENTROPY_PER_POSITION	0.63
+TOTAL_RELATIVE_ENTROPY	51.03
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|154551154|ref|YP_611069.2|vFam_4958| ets [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355625|ref|YP_473293.1|vFam_4958| ORF105 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629989|ref|NP_046207.1|vFam_4958| hypothetical protein OpmnVgp051 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]

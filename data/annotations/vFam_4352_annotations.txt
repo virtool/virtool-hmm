@@ -1,0 +1,11 @@
+CLUSTER	4352
+NUM_SEQ	3
+LENGTH	205
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	106.6
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Varicellovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9629744|ref|NP_045219.1|vFam_4352| membrane protein V1 [Equid herpesvirus 4]
+gi|386522725|ref|YP_006272981.1|vFam_4352| ORF2 gene product [Equid herpesvirus 8]
+gi|50313243|ref|YP_053047.1|vFam_4352| membrane protein V1 [Equid herpesvirus 1]

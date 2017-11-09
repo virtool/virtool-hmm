@@ -1,0 +1,12 @@
+CLUSTER	2360
+NUM_SEQ	4
+LENGTH	219
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	113.88
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Atadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|160700574|ref|YP_001552264.1|vFam_2360| unnamed protein product [Snake adenovirus 1]
+gi|21450907|ref|NP_659530.1|vFam_2360| E4.3 [Ovine adenovirus D]
+gi|440382984|ref|YP_007347015.1|vFam_2360| E4.3 [Bovine adenovirus 6]
+gi|34303907|ref|NP_899148.1|vFam_2360| 34K-2 [Bovine adenovirus D]

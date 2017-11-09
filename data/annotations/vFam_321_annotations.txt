@@ -1,0 +1,18 @@
+CLUSTER	321
+NUM_SEQ	10
+LENGTH	389
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	202.28
+FAMILIES	{'Herpesviridae': 10}
+GENERA	{'Varicellovirus': 6, 'Mardivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|155042203|ref|NP_077480.2|vFam_321| serine/threonine protein kinase US3 [Cercopithecine herpesvirus 9]
+gi|9625940|ref|NP_040188.1|vFam_321| serine/threonine protein kinase US3 [Human herpesvirus 3]
+gi|296316067|ref|YP_003662531.1|vFam_321| serine/threonine protein kinase US3 [Bovine herpesvirus 5]
+gi|270339511|ref|YP_003331587.1|vFam_321| serine/threonine protein kinase US3 [Felid herpesvirus 1]
+gi|216905922|ref|YP_002333550.1|vFam_321| serine/threonine protein kinase US3 [Equid herpesvirus 9]
+gi|9629798|ref|NP_045286.1|vFam_321| serine/threonine protein kinase US3 [Equid herpesvirus 4]
+gi|255683166|ref|YP_003084431.1|vFam_321| US3 [Anatid herpesvirus 1]
+gi|12084905|ref|NP_073375.1|vFam_321| serine/threonine protein kinase US3 [Meleagrid herpesvirus 1]
+gi|125745125|ref|YP_001034009.1|vFam_321| serine/threonine protein kinase US3 [Gallid herpesvirus 2]
+gi|10834950|ref|NP_066911.1|vFam_321| serine/threonine protein kinase US3 [Gallid herpesvirus 3]

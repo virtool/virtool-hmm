@@ -1,0 +1,11 @@
+CLUSTER	4307
+NUM_SEQ	3
+LENGTH	114
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	55.86
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|425707325|ref|YP_007016522.1|vFam_4307| e135 [Murid herpesvirus 8]
+gi|61660244|ref|YP_214135.1|vFam_4307| hypothetical protein MuHV1_gp126 [Murid herpesvirus 1]
+gi|9845428|ref|NP_064242.1|vFam_4307| pr135 [Murid herpesvirus 2]

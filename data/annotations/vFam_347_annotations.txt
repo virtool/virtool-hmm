@@ -1,0 +1,24 @@
+CLUSTER	347
+NUM_SEQ	16
+LENGTH	325
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	172.25
+FAMILIES	{'Caulimoviridae': 16}
+GENERA	{'None': 2, 'Caulimovirus': 10, 'Soymovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|478755999|ref|YP_007761642.1|vFam_347| movement protein [Rose yellow vein virus]
+gi|9628901|ref|NP_043929.1|vFam_347| hypothetical protein [Strawberry vein banding virus]
+gi|189009870|ref|YP_001931963.1|vFam_347| movement protein [Eupatorium vein clearing virus]
+gi|406356616|ref|YP_006732330.1|vFam_347| movement protein [Dahlia mosaic virus]
+gi|21450044|ref|NP_659393.1|vFam_347| hypothetical protein [Mirabilis mosaic virus]
+gi|20143425|ref|NP_619544.1|vFam_347| Movement protein [Figwort mosaic virus]
+gi|189009863|ref|YP_001931957.1|vFam_347| movement protein [Lamium leaf distortion virus]
+gi|410492643|ref|YP_006907830.1|vFam_347| cell-to-cell transport protein [Horseradish latent virus]
+gi|9626939|ref|NP_056724.1|vFam_347| Movement protein [Cauliflower mosaic virus]
+gi|402502231|ref|YP_006607888.1|vFam_347| movement protein [Soybean Putnam virus]
+gi|19919890|ref|NP_612573.1|vFam_347| Movement protein [Carnation etched ring virus]
+gi|9629141|ref|NP_044299.1|vFam_347| putative transport protein [Soybean chlorotic mottle virus]
+gi|9627961|ref|NP_042515.1|vFam_347| hypothetical protein [Peanut chlorotic streak virus]
+gi|32306484|ref|NP_861411.1|vFam_347| putative movement protein [Cestrum yellow leaf curling virus]
+gi|221048145|ref|YP_002519384.1|vFam_347| putative cell-to-cell movement protein [Rudbeckia flower distortion virus]
+gi|16117445|ref|NP_395472.1|vFam_347| putative cell-to-cell movement protein [Blueberry red ringspot virus]

@@ -1,0 +1,43 @@
+CLUSTER	76
+NUM_SEQ	35
+LENGTH	617
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	320.84
+FAMILIES	{'Adenoviridae': 32}
+GENERA	{'Atadenovirus': 5, 'Siadenovirus': 4, 'Mastadenovirus': 18, 'Aviadenovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|9635800|ref|NP_062436.1|vFam_76| pTP [Frog adenovirus 1]
+gi|363540917|ref|YP_004935932.1|vFam_76| unnamed protein product [Skua adenovirus A]
+gi|331271176|ref|YP_004414801.1|vFam_76| terminal protein precursor [Raptor adenovirus A]
+gi|56160820|ref|AP_000479.1|vFam_76| pTP [Turkey adenovirus A]
+gi|388570683|ref|YP_006383557.1|vFam_76| terminal protein precursor pTP [Goose adenovirus 4]
+gi|308222745|ref|YP_003933582.1|vFam_76| unnamed protein product [Turkey adenovirus 1]
+gi|327409478|ref|YP_004346922.1|vFam_76| pTP [Fowl adenovirus C]
+gi|555928189|ref|YP_008719821.1|vFam_76| pTP [Turkey adenovirus 4]
+gi|56160715|ref|AP_000377.1|vFam_76| pTP [Fowl adenovirus D]
+gi|555928222|ref|YP_008719853.1|vFam_76| pTP [Turkey adenovirus 5]
+gi|56160743|ref|AP_000411.1|vFam_76| pTP [Fowl adenovirus A]
+gi|160700558|ref|YP_001552248.1|vFam_76| unnamed protein product [Snake adenovirus 1]
+gi|56158885|ref|AP_000081.1|vFam_76| pTP [Duck adenovirus A]
+gi|21450898|ref|NP_659516.1|vFam_76| Terminal Protein [Ovine adenovirus D]
+gi|440382968|ref|YP_007346999.1|vFam_76| pTP [Bovine adenovirus 6]
+gi|13242723|ref|NP_077390.1|vFam_76| pTP [Bovine adenovirus D]
+gi|227122422|ref|YP_002822208.1|vFam_76| TP [Murine adenovirus 3]
+gi|6446587|ref|NP_015538.1|vFam_76| pTP [Murine adenovirus A]
+gi|9630098|ref|NP_046315.1|vFam_76| terminal protein [Bovine adenovirus B]
+gi|56160443|ref|AP_000113.1|vFam_76| pTP [Human adenovirus A]
+gi|327415377|ref|YP_004300205.1|vFam_76| unnamed protein product [Simian adenovirus 49]
+gi|485191064|ref|YP_007906000.1|vFam_76| pTP [Simian adenovirus C]
+gi|540155833|ref|YP_008520227.1|vFam_76| pTP [Simian adenovirus 18]
+gi|9626560|ref|NP_040854.1|vFam_76| terminal protein precursor pTP [Human adenovirus F]
+gi|460042644|ref|YP_007518071.1|vFam_76| pre-terminal protein [Simian adenovirus 20]
+gi|51518822|ref|YP_067909.1|vFam_76| pTP [Simian adenovirus 3]
+gi|190340982|ref|YP_001974468.1|vFam_76| terminal protein precursor pTP [Human adenovirus D]
+gi|56160602|ref|AP_000267.1|vFam_76| pTP [Simian adenovirus 21]
+gi|51556700|ref|YP_068061.1|vFam_76| pTP [Tree shrew adenovirus 1]
+gi|46852409|ref|YP_009202.1|vFam_76| pTP [Porcine adenovirus 3]
+gi|378554419|ref|YP_005271183.1|vFam_76| unnamed protein product [Bat adenovirus TJM]
+gi|345462099|ref|YP_004782101.1|vFam_76| unnamed protein product [Bat adenovirus 2]
+gi|56160571|ref|AP_000237.1|vFam_76| pTP [Porcine adenovirus C]
+gi|52801686|ref|YP_094033.1|vFam_76| pTP [Bovine adenovirus A]
+gi|9845479|ref|NP_064287.1|vFam_76| terminal protein precursor [Ovine adenovirus A]

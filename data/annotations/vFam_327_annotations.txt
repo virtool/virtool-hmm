@@ -1,0 +1,15 @@
+CLUSTER	327
+NUM_SEQ	7
+LENGTH	170
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	88.4
+FAMILIES	{'Phycodnaviridae': 6}
+GENERA	{'None': 1, 'Prymnesiovirus': 1, 'Prasinovirus': 2, 'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|508182159|ref|YP_008052678.1|vFam_327| hypothetical protein PGCG_00360 [Phaeocystis globosa virus]
+gi|526119971|ref|YP_008319874.1|vFam_327| hypothetical protein [Pandoravirus dulcis]
+gi|313768088|ref|YP_004061519.1|vFam_327| hypothetical protein BpV1_089c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|260665970|ref|YP_003212924.1|vFam_327| hypothetical protein H665_p101 [Ostreococcus tauri virus 1]
+gi|313768304|ref|YP_004061984.1|vFam_327| hypothetical protein MpV1_101c [Micromonas sp. RCC1109 virus MpV1]
+gi|13242514|ref|NP_077527.1|vFam_327| EsV-1-42 [Ectocarpus siliculosus virus 1]
+gi|197322466|ref|YP_002154739.1|vFam_327| hypothetical protein FeldSpV_gp117 [Feldmannia species virus]

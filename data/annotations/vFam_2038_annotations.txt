@@ -1,0 +1,12 @@
+CLUSTER	2038
+NUM_SEQ	4
+LENGTH	222
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	113.22
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|22549521|ref|NP_689294.1|vFam_2038| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20070000|ref|NP_613204.1|vFam_2038| hypothetical protein McnAVgp121 [Mamestra configurata nucleopolyhedrovirus A]
+gi|209170994|ref|YP_002268141.1|vFam_2038| agip111 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592821|ref|YP_529774.1|vFam_2038| ORF-104 [Agrotis segetum nucleopolyhedrovirus]

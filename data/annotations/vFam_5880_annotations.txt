@@ -1,0 +1,10 @@
+CLUSTER	5880
+NUM_SEQ	2
+LENGTH	166
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	86.32
+FAMILIES	{'Paramyxoviridae': 2}
+GENERA	{'Henipavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9630561|ref|NP_047109.1|vFam_5880| nonstructural protein C [Hendra virus]
+gi|13559812|ref|NP_112024.1|vFam_5880| C protein [Nipah virus]

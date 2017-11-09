@@ -1,0 +1,16 @@
+CLUSTER	1361
+NUM_SEQ	8
+LENGTH	238
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	121.38
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|414089979|ref|YP_006990110.1|vFam_1361| hypothetical protein [Sulfolobales Mexican rudivirus 1]
+gi|171473711|ref|YP_001798581.1|vFam_1361| hypothetical protein AFV9_gp63 [Acidianus filamentous virus 9]
+gi|16753151|ref|NP_445729.1|vFam_1361| hypothetical protein SIFV0066 [Sulfolobus islandicus filamentous virus]
+gi|162329478|ref|YP_001604278.1|vFam_1361| hypothetical protein AFV7_gp54 [Acidianus filamentous virus 7]
+gi|162329539|ref|YP_001604338.1|vFam_1361| hypothetical protein AFV8_gp57 [Acidianus filamentous virus 8]
+gi|162329349|ref|YP_001604403.1|vFam_1361| hypothetical protein AFV3_gp61 [Acidianus filamentous virus 3]
+gi|157929317|ref|YP_001496969.1|vFam_1361| hypothetical protein AFV2_gp44 [Acidianus filamentous virus 2]
+gi|45655902|ref|YP_003761.1|vFam_1361| hypothetical protein AFV1_ORF224 [Acidianus filamentous virus 1]

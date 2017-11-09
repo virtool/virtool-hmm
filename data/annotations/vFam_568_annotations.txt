@@ -1,0 +1,22 @@
+CLUSTER	568
+NUM_SEQ	14
+LENGTH	177
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	92.04
+FAMILIES	{'Herpesviridae': 14}
+GENERA	{'Varicellovirus': 5, 'Mardivirus': 4, 'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|255683136|ref|YP_003084363.1|vFam_568| UL55 [Anatid herpesvirus 1]
+gi|312162800|ref|YP_003933785.1|vFam_568| nuclear protein UL55 [Saimiriine herpesvirus 1]
+gi|9629437|ref|NP_044658.1|vFam_568| nuclear protein UL55 [Human herpesvirus 1]
+gi|9629326|ref|NP_044526.1|vFam_568| nuclear protein UL55 [Human herpesvirus 2]
+gi|83722625|ref|YP_443903.1|vFam_568| nuclear protein UL55 [Papiine herpesvirus 2]
+gi|30984484|ref|NP_851916.1|vFam_568| nuclear protein UL55 [Macacine herpesvirus 1]
+gi|12084886|ref|NP_073351.1|vFam_568| nuclear protein UL55 [Meleagrid herpesvirus 1]
+gi|10834928|ref|NP_066889.1|vFam_568| nuclear protein UL55 [Gallid herpesvirus 3]
+gi|125745109|ref|YP_001033986.1|vFam_568| nuclear protein UL55 [Gallid herpesvirus 2]
+gi|13242422|ref|NP_077417.1|vFam_568| nuclear protein UL55 [Cercopithecine herpesvirus 9]
+gi|9625878|ref|NP_040126.1|vFam_568| nuclear protein UL55 [Human herpesvirus 3]
+gi|270339443|ref|YP_003331523.1|vFam_568| nuclear protein UL55 [Felid herpesvirus 1]
+gi|216905857|ref|YP_002333485.1|vFam_568| nuclear protein UL55 [Equid herpesvirus 9]
+gi|9629767|ref|NP_045221.1|vFam_568| nuclear protein UL55 [Equid herpesvirus 4]

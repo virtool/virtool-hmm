@@ -1,0 +1,12 @@
+CLUSTER	3641
+NUM_SEQ	4
+LENGTH	173
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	88.23
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497985|ref|YP_008003784.1|vFam_3641| unknown similar to AMEV245 [Mythimna separata entomopoxvirus 'L']
+gi|506498250|ref|YP_008004047.1|vFam_3641| unknown similar to AMEV245 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498857|ref|YP_008004651.1|vFam_3641| unknown similar to AMEV245 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964559|ref|NP_065027.1|vFam_3641| similar to caspase-8 [Amsacta moorei entomopoxvirus 'L']

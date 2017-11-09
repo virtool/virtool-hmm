@@ -1,0 +1,11 @@
+CLUSTER	1445
+NUM_SEQ	3
+LENGTH	428
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	222.56
+FAMILIES	{'Secoviridae': 3}
+GENERA	{'Comovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|25013701|ref|NP_733986.1|vFam_1445| movement protein [Squash mosaic virus]
+gi|530323608|ref|YP_008400144.1|vFam_1445| replication cofactor/movement protein [Broad bean true mosaic virus]
+gi|25013686|ref|NP_733991.1|vFam_1445| movement protein [Red clover mottle virus]

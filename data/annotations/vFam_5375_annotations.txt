@@ -1,0 +1,10 @@
+CLUSTER	5375
+NUM_SEQ	2
+LENGTH	288
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	146.88
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Muromegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|61660178|ref|YP_214069.1|vFam_5375| hypothetical protein MuHV1_gp061 [Murid herpesvirus 1]
+gi|9845350|ref|NP_064164.1|vFam_5375| pr58 [Murid herpesvirus 2]

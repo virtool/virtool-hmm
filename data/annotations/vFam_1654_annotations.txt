@@ -1,0 +1,14 @@
+CLUSTER	1654
+NUM_SEQ	6
+LENGTH	269
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	137.19
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'None': 2, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631305|ref|NP_048116.1|vFam_1654| ORF MSV045 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|9631503|ref|NP_048135.1|vFam_1654| ORF MSV064 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|506498137|ref|YP_008003934.1|vFam_1654| unknown similar to AMEV121 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497853|ref|YP_008003652.1|vFam_1654| unknown similar to AMEV121 [Mythimna separata entomopoxvirus 'L']
+gi|506498747|ref|YP_008004541.1|vFam_1654| unknown similar to AMEV121 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964435|ref|NP_064903.1|vFam_1654| hypothetical protein AMV121 [Amsacta moorei entomopoxvirus 'L']

@@ -1,0 +1,10 @@
+CLUSTER	3117
+NUM_SEQ	2
+LENGTH	236
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	120.36
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441432559|ref|YP_007354601.1|vFam_3117| hypothetical protein Moumou_00641 [Acanthamoeba polyphaga moumouvirus]
+gi|363540191|ref|YP_004894781.1|vFam_3117| mg730 gene product [Megavirus chiliensis]

@@ -1,0 +1,10 @@
+CLUSTER	4632
+NUM_SEQ	2
+LENGTH	124
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	63.24
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|56692776|ref|YP_164234.1|vFam_4632| hypothetical protein ORF139R [Singapore grouper iridovirus]
+gi|49237368|ref|YP_031649.1|vFam_4632| hypothetical protein FV3gorf70R [Frog virus 3]

@@ -1,0 +1,22 @@
+CLUSTER	612
+NUM_SEQ	14
+LENGTH	100
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	52.0
+FAMILIES	{'Baculoviridae': 11}
+GENERA	{'Betabaculovirus': 5, 'Alphabaculovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|113195463|ref|YP_717600.1|vFam_612| Ld30-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|21686708|ref|NP_663208.1|vFam_612| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|114679901|ref|YP_758351.1|vFam_612| ORF54 [Leucania separata nucleopolyhedrovirus]
+gi|148368850|ref|YP_001256980.1|vFam_612| hypothetical protein SlGVgp029 [Spodoptera litura granulovirus]
+gi|118197534|ref|YP_874246.1|vFam_612| ChtB2 [Ectropis obliqua nucleopolyhedrovirus]
+gi|96979812|ref|YP_611017.1|vFam_612| hypothetical protein APNV_p048 [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326176|ref|YP_803502.1|vFam_612| hypothetical protein AGNV_gp108 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651448|ref|NP_932713.1|vFam_612| hypothetical protein CFDNVgORF104 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|9630048|ref|NP_046266.1|vFam_612| hypothetical protein OpmnVgp110 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|292397701|ref|YP_003517767.1|vFam_612| ORF27 [Lymantria xylina MNPV]
+gi|529218114|ref|YP_008378277.1|vFam_612| ac150 [Hemileuca sp. nucleopolyhedrovirus]
+gi|285002406|ref|YP_003422470.1|vFam_612| hypothetical protein PsunGV_gp131 [Pseudaletia unipuncta granulovirus]
+gi|164519214|ref|YP_001649001.1|vFam_612| hypothetical protein HaGV_gp019 [Helicoverpa armigera granulovirus]
+gi|9635270|ref|NP_059168.1|vFam_612| ORF20 [Xestia c-nigrum granulovirus]

@@ -1,0 +1,14 @@
+CLUSTER	1029
+NUM_SEQ	6
+LENGTH	176
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	84.48
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1, 'Mimiviridae': 4}
+GENERA	{'Mimivirus': 1, 'None': 4, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631615|ref|NP_048394.1|vFam_1029| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|441432324|ref|YP_007354366.1|vFam_1029| hypothetical protein Moumou_00394 [Acanthamoeba polyphaga moumouvirus]
+gi|311977501|ref|YP_003986621.1|vFam_1029| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432826|ref|YP_007354868.1|vFam_1029| hypothetical protein Moumou_00917 [Acanthamoeba polyphaga moumouvirus]
+gi|448825796|ref|YP_007418727.1|vFam_1029| hypothetical protein LBA_00833 [Megavirus lba]
+gi|441432323|ref|YP_007354365.1|vFam_1029| hypothetical protein Moumou_00393 [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,19 @@
+CLUSTER	573
+NUM_SEQ	11
+LENGTH	259
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	137.27
+FAMILIES	{'Herpesviridae': 11}
+GENERA	{'Macavirus': 2, 'Rhadinovirus': 6, 'Lymphocryptovirus': 1, 'None': 1, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|557041982|ref|YP_007474187.1|vFam_573| BVLF1 [Human herpesvirus 4]
+gi|9629565|ref|NP_044856.1|vFam_573| protein UL79 [Murid herpesvirus 4]
+gi|321496569|ref|YP_004207854.1|vFam_573| hypothetical protein RHVP.18 [Rodent herpesvirus Peru]
+gi|83642855|ref|YP_438142.1|vFam_573| ORF18 [Ovine herpesvirus 2]
+gi|10140940|ref|NP_065517.1|vFam_573| ORF18 [Alcelaphine herpesvirus 1]
+gi|9631208|ref|NP_047989.1|vFam_573| orf 18 [Ateline herpesvirus 3]
+gi|9625973|ref|NP_040220.1|vFam_573| unnamed protein product [Saimiriine herpesvirus 2]
+gi|13095595|ref|NP_076510.1|vFam_573| unknown [Bovine herpesvirus 4]
+gi|9628020|ref|NP_042614.1|vFam_573| ORF 18 [Equid herpesvirus 2]
+gi|139472818|ref|YP_001129371.1|vFam_573| ORF18 [Human herpesvirus 8]
+gi|18653824|ref|NP_570758.1|vFam_573| hypothetical protein MmrVgp17 [Macacine herpesvirus 5]

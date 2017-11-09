@@ -1,0 +1,12 @@
+CLUSTER	2915
+NUM_SEQ	4
+LENGTH	68
+RELATIVE_ENTROPY_PER_POSITION	0.77
+TOTAL_RELATIVE_ENTROPY	52.36
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'Crocodylidpoxvirus': 1, 'Molluscipoxvirus': 1, 'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531799|ref|YP_784325.1|vFam_2915| IMV membrane protein [Nile crocodilepox virus]
+gi|40556189|ref|NP_955274.1|vFam_2915| CNPV251 putative IMV membrane protein [Canarypox virus]
+gi|9634848|ref|NP_039141.1|vFam_2915| Virion protein [Fowlpox virus]
+gi|9629049|ref|NP_044068.1|vFam_2915| MC117L [Molluscum contagiosum virus subtype 1]

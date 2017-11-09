@@ -1,0 +1,14 @@
+CLUSTER	1998
+NUM_SEQ	6
+LENGTH	187
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	93.5
+FAMILIES	{'Bromoviridae': 6}
+GENERA	{'Ilarvirus': 6}
+FASTA SEQUENCE TITLES:
+gi|20564217|ref|NP_620755.1|vFam_1998| putative 2b protein [Tulare apple mosaic virus]
+gi|20153418|ref|NP_619712.1|vFam_1998| putative 2b protein [Citrus leaf rugose virus]
+gi|20198954|ref|NP_620071.1|vFam_1998| putative 2b protein [Elm mottle virus]
+gi|20522138|ref|NP_620679.1|vFam_1998| putative 2b protein [Spinach latent virus]
+gi|219504474|ref|YP_002455930.1|vFam_1998| 2b protein [Asparagus virus 2]
+gi|148724424|ref|YP_001285484.1|vFam_1998| putative 2b protein [Citrus variegation virus]

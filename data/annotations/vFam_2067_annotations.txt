@@ -1,0 +1,13 @@
+CLUSTER	2067
+NUM_SEQ	5
+LENGTH	62
+RELATIVE_ENTROPY_PER_POSITION	0.84
+TOTAL_RELATIVE_ENTROPY	52.08
+FAMILIES	{'Alphaflexiviridae': 5}
+GENERA	{'Potexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|9626712|ref|NP_040991.1|vFam_2067| 6K triple gene block protein [Foxtail mosaic virus]
+gi|50428564|ref|YP_054410.1|vFam_2067| triple gene block protein 3 [Opuntia virus X]
+gi|217337297|ref|YP_002341562.1|vFam_2067| triple gene block protein 3 [Schlumbergera virus X]
+gi|14602403|ref|NP_148783.1|vFam_2067| 7 kDa protein [Cactus virus X]
+gi|50428558|ref|YP_054405.1|vFam_2067| triple gene block protein 3 [Zygocactus virus X]

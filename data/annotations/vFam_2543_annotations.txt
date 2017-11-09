@@ -1,0 +1,13 @@
+CLUSTER	2543
+NUM_SEQ	5
+LENGTH	205
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	106.6
+FAMILIES	{'None': 2, 'Phycodnaviridae': 1, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Prymnesiovirus': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182006|ref|YP_008052525.1|vFam_2543| DNA-directed RNA polymerase II subunit RPB5 [Phaeocystis globosa virus]
+gi|310831429|ref|YP_003970072.1|vFam_2543| putative DNA-directed RNA polymerase subunit Rpb5 [Cafeteria roenbergensis virus BV-PW1]
+gi|311977611|ref|YP_003986731.1|vFam_2543| DNA-directed RNA polymerase subunit 5 [Acanthamoeba polyphaga mimivirus]
+gi|448825283|ref|YP_007418214.1|vFam_2543| DNA-directed RNA polymerase subunit 5 [Megavirus lba]
+gi|441432195|ref|YP_007354237.1|vFam_2543| RNA polymerase subunit 5 [Acanthamoeba polyphaga moumouvirus]

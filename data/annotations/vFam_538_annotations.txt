@@ -1,0 +1,20 @@
+CLUSTER	538
+NUM_SEQ	12
+LENGTH	493
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	256.36
+FAMILIES	{'Arenaviridae': 12}
+GENERA	{'Arenavirus': 12}
+FASTA SEQUENCE TITLES:
+gi|238890538|ref|YP_002929490.1|vFam_538| glycoprotein precursor [Lujo virus]
+gi|55733699|ref|YP_138543.1|vFam_538| GPC precursor protein [Pichinde virus]
+gi|189043027|ref|YP_001936017.1|vFam_538| glycoprotein precursor [Parana virus]
+gi|189026269|ref|YP_001936019.1|vFam_538| glycoprotein precursor [Flexal virus]
+gi|164682565|ref|YP_001649221.1|vFam_538| glycoprotein precursor [Allpahuayo virus]
+gi|408354101|ref|YP_006858706.1|vFam_538| Glycoprotein precursor [Lunk virus NKS-1]
+gi|23334589|ref|NP_694851.1|vFam_538| envelope glycoprotein [Lymphocytic choriomeningitis virus]
+gi|89902999|ref|YP_516230.1|vFam_538| glycoprotein precursor [Ippy virus]
+gi|56699508|ref|YP_170709.1|vFam_538| glycoprotein precursor [Mopeia virus AN20410]
+gi|56699502|ref|YP_170705.1|vFam_538| glycoprotein precursor [Mopeia Lassa virus reassortant 29]
+gi|356491218|ref|YP_004933730.1|vFam_538| GP gene product [Luna virus]
+gi|89885730|ref|YP_516226.1|vFam_538| glycoprotein precursor [Mobala virus]

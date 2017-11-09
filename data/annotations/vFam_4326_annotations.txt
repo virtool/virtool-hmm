@@ -1,0 +1,11 @@
+CLUSTER	4326
+NUM_SEQ	3
+LENGTH	411
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	213.72
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|422933623|ref|YP_007003748.1|vFam_4326| protein ORF85 [Cyprinid herpesvirus 1]
+gi|422933849|ref|YP_007003904.1|vFam_4326| protein ORF85 [Cyprinid herpesvirus 2]
+gi|131840111|ref|YP_001096120.1|vFam_4326| unnamed protein product [Cyprinid herpesvirus 3]

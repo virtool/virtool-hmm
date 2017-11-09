@@ -1,0 +1,10 @@
+CLUSTER	5379
+NUM_SEQ	2
+LENGTH	219
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	111.69
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409755|ref|YP_004347175.1|vFam_5379| hypothetical protein LAU_0212 [Lausannevirus]
+gi|284504236|ref|YP_003406951.1|vFam_5379| Rossmann-fold nucleotide-binding protein [Marseillevirus]

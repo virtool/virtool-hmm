@@ -1,0 +1,46 @@
+CLUSTER	60
+NUM_SEQ	38
+LENGTH	854
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	452.62
+FAMILIES	{'Herpesviridae': 38}
+GENERA	{'Iltovirus': 2, 'None': 2, 'Cytomegalovirus': 6, 'Mardivirus': 3, 'Muromegalovirus': 3, 'Macavirus': 2, 'Roseolovirus': 2, 'Proboscivirus': 1, 'Simplexvirus': 4, 'Varicellovirus': 3, 'Percavirus': 1, 'Lymphocryptovirus': 3, 'Rhadinovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|57790952|ref|YP_182356.1|vFam_60| envelope glycoprotein B [Gallid herpesvirus 1]
+gi|38638217|ref|NP_944400.1|vFam_60| envelope glycoprotein B [Psittacid herpesvirus 1]
+gi|12084856|ref|NP_073321.1|vFam_60| envelope glycoprotein B [Meleagrid herpesvirus 1]
+gi|10834898|ref|NP_066859.1|vFam_60| envelope glycoprotein B [Gallid herpesvirus 3]
+gi|125745079|ref|YP_001033956.1|vFam_60| envelope glycoprotein B [Gallid herpesvirus 2]
+gi|155041726|ref|NP_040154.2|vFam_60| envelope glycoprotein B [Human herpesvirus 3]
+gi|13242424|ref|NP_077446.1|vFam_60| envelope glycoprotein B [Cercopithecine herpesvirus 9]
+gi|51557496|ref|YP_068330.1|vFam_60| envelope glycoprotein B [Suid herpesvirus 1]
+gi|312162827|ref|YP_003933812.1|vFam_60| envelope glycoprotein B [Saimiriine herpesvirus 1]
+gi|83722596|ref|YP_443874.1|vFam_60| envelope glycoprotein B [Papiine herpesvirus 2]
+gi|9629408|ref|NP_044629.1|vFam_60| envelope glycoprotein B [Human herpesvirus 1]
+gi|9629297|ref|NP_044497.1|vFam_60| envelope glycoprotein B [Human herpesvirus 2]
+gi|24943094|ref|NP_733856.1|vFam_60| ORF4 [callitrichine herpesvirus 3]
+gi|82503269|ref|YP_401713.1|vFam_60| glycoprotein gp110 precursor [Human herpesvirus 4]
+gi|51518081|ref|YP_068009.1|vFam_60| BALF4 [Macacine herpesvirus 4]
+gi|83642848|ref|YP_438135.1|vFam_60| ORF8 [Ovine herpesvirus 2]
+gi|10140934|ref|NP_065511.1|vFam_60| glycoprotein B [Alcelaphine herpesvirus 1]
+gi|9628010|ref|NP_042604.1|vFam_60| glycoprotein B [Equid herpesvirus 2]
+gi|321496563|ref|YP_004207848.1|vFam_60| glycoprotein B [Rodent herpesvirus Peru]
+gi|209976837|ref|NP_044848.2|vFam_60| envelope glycoprotein B [Murid herpesvirus 4]
+gi|13095585|ref|NP_076500.1|vFam_60| glycoprotein B [Bovine herpesvirus 4]
+gi|9631198|ref|NP_047982.1|vFam_60| glycoprotein B [Ateline herpesvirus 3]
+gi|9625964|ref|NP_040210.1|vFam_60| glycoprotein B [Saimiriine herpesvirus 2]
+gi|139472808|ref|YP_001129354.1|vFam_60| ORF8 [Human herpesvirus 8]
+gi|18653815|ref|NP_570749.1|vFam_60| glycoprotein B [Macacine herpesvirus 5]
+gi|496991139|ref|YP_007969815.1|vFam_60| envelope glycoprotein B [Elephantid herpesvirus 1]
+gi|9633110|ref|NP_050220.1|vFam_60| Glycoprotein B [Human herpesvirus 6B]
+gi|51874261|ref|YP_073779.1|vFam_60| envelope glycoprotein B [Human herpesvirus 7]
+gi|360086543|ref|YP_004940228.1|vFam_60| envelope glycoprotein B [Saimiriine herpesvirus 3]
+gi|360040947|ref|YP_004940082.1|vFam_60| envelope glycoprotein B [Aotine herpesvirus 1]
+gi|359946498|ref|YP_004936031.1|vFam_60| envelope glycoprotein B [Cercopithecine herpesvirus 5]
+gi|356640381|ref|YP_004933823.1|vFam_60| glycoprotein UL55 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139241|ref|YP_081514.1|vFam_60| envelope glycoprotein B [Human herpesvirus 5]
+gi|20026657|ref|NP_612699.1|vFam_60| envelope glycoprotein B [Panine herpesvirus 2]
+gi|448824898|ref|YP_007417830.1|vFam_60| glycoprotein B [Caviid herpesvirus 2]
+gi|9845347|ref|NP_064161.1|vFam_60| pR55 [Murid herpesvirus 2]
+gi|61660176|ref|YP_214067.1|vFam_60| Glycoprotein B [Murid herpesvirus 1]
+gi|425707265|ref|YP_007016462.1|vFam_60| E55 [Murid herpesvirus 8]

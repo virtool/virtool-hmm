@@ -1,0 +1,22 @@
+CLUSTER	245
+NUM_SEQ	14
+LENGTH	102
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	53.04
+FAMILIES	{'Herpesviridae': 14}
+GENERA	{'Percavirus': 1, 'None': 2, 'Cytomegalovirus': 5, 'Roseolovirus': 2, 'Proboscivirus': 1, 'Rhadinovirus': 2, 'Muromegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|496991190|ref|YP_007969811.1|vFam_245| DNA packaging protein UL33 [Elephantid herpesvirus 1]
+gi|538447234|ref|YP_008492974.1|vFam_245| DNA packaging protein [Porcine cytomegalovirus]
+gi|9633106|ref|NP_050216.1|vFam_245| hypothetical protein HhV6Bgp038 [Human herpesvirus 6B]
+gi|51874257|ref|YP_073775.1|vFam_245| DNA packaging protein UL33 [Human herpesvirus 7]
+gi|448824894|ref|YP_007417826.1|vFam_245| GP51 [Caviid herpesvirus 2]
+gi|425707261|ref|YP_007016458.1|vFam_245| E51 [Murid herpesvirus 8]
+gi|14251043|ref|NP_116405.1|vFam_245| T51 [Tupaiid herpesvirus 1]
+gi|360086539|ref|YP_004940224.1|vFam_245| DNA packaging protein UL33 [Saimiriine herpesvirus 3]
+gi|360040943|ref|YP_004940078.1|vFam_245| DNA packaging protein UL33 [Aotine herpesvirus 1]
+gi|359946495|ref|YP_004936027.1|vFam_245| DNA packaging protein UL33 [Cercopithecine herpesvirus 5]
+gi|356640374|ref|YP_004933816.1|vFam_245| protein UL51 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|209976846|ref|YP_002300518.1|vFam_245| DNA packaging protein UL33 [Murid herpesvirus 4]
+gi|9628071|ref|NP_042665.1|vFam_245| ORF 67A [Equid herpesvirus 2]
+gi|19424754|ref|NP_598363.1|vFam_245| Similar to ORF67.5, Macaca mulatta rhadinovirus 26-95 [Macacine herpesvirus 5]

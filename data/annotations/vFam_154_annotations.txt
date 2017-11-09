@@ -1,0 +1,24 @@
+CLUSTER	154
+NUM_SEQ	16
+LENGTH	748
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	388.96
+FAMILIES	{'Herpesviridae': 16}
+GENERA	{'None': 1, 'Cytomegalovirus': 1, 'Macavirus': 2, 'Roseolovirus': 2, 'Proboscivirus': 1, 'Rhadinovirus': 6, 'Lymphocryptovirus': 2, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|82503254|ref|YP_401698.1|vFam_154| BcRF1 protein [Human herpesvirus 4]
+gi|24943107|ref|NP_733869.1|vFam_154| ORF16 [callitrichine herpesvirus 3]
+gi|83642861|ref|YP_438148.1|vFam_154| ORF24 [Ovine herpesvirus 2]
+gi|10140946|ref|NP_065523.1|vFam_154| ORF24 [Alcelaphine herpesvirus 1]
+gi|321496575|ref|YP_004207860.1|vFam_154| hypothetical protein RHVP.24 [Rodent herpesvirus Peru]
+gi|9629606|ref|NP_044862.1|vFam_154| virion protein UL87 [Murid herpesvirus 4]
+gi|9628026|ref|NP_042620.1|vFam_154| ORF 24 [Equid herpesvirus 2]
+gi|9631214|ref|NP_047995.1|vFam_154| orf 24; similar to BCRF1 [Ateline herpesvirus 3]
+gi|9625980|ref|NP_040226.1|vFam_154| unnamed protein product [Saimiriine herpesvirus 2]
+gi|13095601|ref|NP_076516.1|vFam_154| unknown [Bovine herpesvirus 4]
+gi|139472822|ref|YP_001129377.1|vFam_154| ORF24 [Human herpesvirus 8]
+gi|18653830|ref|NP_570764.1|vFam_154| hypothetical protein MmrVgp23 [Macacine herpesvirus 5]
+gi|496991162|ref|YP_007969787.1|vFam_154| protein UL87 [Elephantid herpesvirus 1]
+gi|538447255|ref|YP_008492995.1|vFam_154| component of prereplication complexes [Porcine cytomegalovirus]
+gi|9633129|ref|NP_050239.1|vFam_154| hypothetical protein HhV6Bgp064 [Human herpesvirus 6B]
+gi|51874282|ref|YP_073800.1|vFam_154| protein UL87 [Human herpesvirus 7]

@@ -1,0 +1,12 @@
+CLUSTER	1100
+NUM_SEQ	4
+LENGTH	360
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	187.2
+FAMILIES	{'Reoviridae': 4}
+GENERA	{'Fijivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|68532393|ref|YP_249766.1|vFam_1100| hypothetical protein FDV_s7gp1 [Fiji disease virus]
+gi|120407025|ref|YP_956851.1|vFam_1100| ORF1 [Mal de Rio Cuarto virus]
+gi|312274953|ref|YP_004021930.1|vFam_1100| P7-1 [Southern rice black-streaked dwarf virus]
+gi|20386777|ref|NP_620454.1|vFam_1100| hypothetical protein RBSDVs7gp1 [Rice black streaked dwarf virus]

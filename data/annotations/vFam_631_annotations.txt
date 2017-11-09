@@ -1,0 +1,20 @@
+CLUSTER	631
+NUM_SEQ	12
+LENGTH	462
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	240.24
+FAMILIES	{'Marseillevirus family': 1, 'Iridoviridae': 8, 'Ascoviridae': 3}
+GENERA	{'None': 1, 'Chloriridovirus': 1, 'Ascovirus': 3, 'Ranavirus': 2, 'Lymphocystivirus': 2, 'Megalocytivirus': 1, 'Iridovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|284504356|ref|YP_003407071.1|vFam_631| major capsid protein [Marseillevirus]
+gi|19881411|ref|NP_612228.1|vFam_631| putative major capsid protein [Infectious spleen and kidney necrosis virus]
+gi|388260085|ref|YP_006347613.1|vFam_631| major capsid protein [European catfish virus]
+gi|56692709|ref|YP_164167.1|vFam_631| major capsid protein [Singapore grouper iridovirus]
+gi|48843722|ref|YP_025102.1|vFam_631| major capsid protein [Lymphocystis disease virus - isolate China]
+gi|9695414|ref|NP_044812.1|vFam_631| major capsid protein [Lymphocystis disease virus 1]
+gi|15078986|ref|NP_149737.1|vFam_631| 274L [Invertebrate iridescent virus 6]
+gi|339905996|ref|YP_004732793.1|vFam_631| hypothetical protein WIV_gp010 [Wiseana iridescent virus]
+gi|109287892|ref|YP_654586.1|vFam_631| hypothetical protein MIV014L [Invertebrate iridescent virus 3]
+gi|116326851|ref|YP_803368.1|vFam_631| major capsid protein [Trichoplusia ni ascovirus 2c]
+gi|134287212|ref|YP_001110908.1|vFam_631| major capsid protein [Heliothis virescens ascovirus 3e]
+gi|115298543|ref|YP_762396.1|vFam_631| 50.9 kDa Major capsid protein [Spodoptera frugiperda ascovirus 1a]

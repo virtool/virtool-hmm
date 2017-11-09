@@ -1,0 +1,11 @@
+CLUSTER	4739
+NUM_SEQ	3
+LENGTH	449
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	233.48
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978107|ref|YP_003987227.1|vFam_4739| putative procollagen-lysine,2-oxoglutarate dioxygenase [Acanthamoeba polyphaga mimivirus]
+gi|448825199|ref|YP_007418130.1|vFam_4739| putative procollagen-lysine 2-oxoglutarate dioxygenase [Megavirus lba]
+gi|441432117|ref|YP_007354159.1|vFam_4739| hypothetical protein Moumou_00179 [Acanthamoeba polyphaga moumouvirus]

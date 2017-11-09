@@ -1,0 +1,14 @@
+CLUSTER	1901
+NUM_SEQ	6
+LENGTH	191
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	101.23
+FAMILIES	{'Bromoviridae': 6}
+GENERA	{'Bromovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|21426911|ref|NP_658998.1|vFam_1901| coat protein [Broad bean mottle virus]
+gi|261041623|ref|YP_003208110.1|vFam_1901| coat protein [Melandrium yellow fleck virus]
+gi|66090971|ref|YP_233104.1|vFam_1901| coat protein [Cassia yellow blotch virus]
+gi|22550383|ref|NP_689395.1|vFam_1901| coat protein [Spring beauty latent virus]
+gi|20087043|ref|NP_613277.1|vFam_1901| coat protein [Cowpea chlorotic mottle virus]
+gi|9626937|ref|NP_041199.1|vFam_1901| hypothetical protein BMVs3gp2 [Brome mosaic virus]

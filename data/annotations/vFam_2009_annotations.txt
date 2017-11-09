@@ -1,0 +1,11 @@
+CLUSTER	2009
+NUM_SEQ	3
+LENGTH	129
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	67.08
+FAMILIES	{'Picornaviridae': 3}
+GENERA	{'Cardiovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|25121610|ref|NP_740407.1|vFam_2009| protein 2B [Encephalomyocarditis virus]
+gi|25121881|ref|NP_740430.1|vFam_2009| protein 2B [Theilovirus]
+gi|189418901|ref|YP_001950227.1|vFam_2009| protein 2B [Human TMEV-like cardiovirus]

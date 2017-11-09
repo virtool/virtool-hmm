@@ -1,0 +1,11 @@
+CLUSTER	4734
+NUM_SEQ	3
+LENGTH	196
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	101.92
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977591|ref|YP_003986711.1|vFam_4734| probable RAB-related GTPase [Acanthamoeba polyphaga mimivirus]
+gi|448825264|ref|YP_007418195.1|vFam_4734| putative rab-related GTPase [Megavirus lba]
+gi|441432178|ref|YP_007354220.1|vFam_4734| Rab family GTPase [Acanthamoeba polyphaga moumouvirus]

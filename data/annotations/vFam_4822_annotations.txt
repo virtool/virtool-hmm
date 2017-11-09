@@ -1,0 +1,10 @@
+CLUSTER	4822
+NUM_SEQ	2
+LENGTH	392
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	199.92
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Betabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|164519234|ref|YP_001649021.1|vFam_4822| hypothetical protein HaGV_gp039 [Helicoverpa armigera granulovirus]
+gi|114680012|ref|YP_758462.1|vFam_4822| ORF165 [Leucania separata nucleopolyhedrovirus]

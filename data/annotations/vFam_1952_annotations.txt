@@ -1,0 +1,12 @@
+CLUSTER	1952
+NUM_SEQ	4
+LENGTH	123
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	62.73
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Atadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|160700554|ref|YP_001552243.1|vFam_1952| unnamed protein product [Snake adenovirus 1]
+gi|163869642|ref|NP_659511.2|vFam_1952| LH1 [Ovine adenovirus D]
+gi|440382963|ref|YP_007346994.1|vFam_1952| LH1 [Bovine adenovirus 6]
+gi|13242709|ref|NP_077385.1|vFam_1952| LH1 [Bovine adenovirus D]

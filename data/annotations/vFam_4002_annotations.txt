@@ -1,0 +1,10 @@
+CLUSTER	4002
+NUM_SEQ	2
+LENGTH	98
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	49.98
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825714|ref|YP_007418645.1|vFam_4002| hypothetical protein LBA_00751 [Megavirus lba]
+gi|311978001|ref|YP_003987121.1|vFam_4002| hypothetical protein [Acanthamoeba polyphaga mimivirus]

@@ -1,0 +1,10 @@
+CLUSTER	2215
+NUM_SEQ	2
+LENGTH	457
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	237.64
+FAMILIES	{'Paramyxoviridae': 2}
+GENERA	{'Henipavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9630560|ref|NP_047108.1|vFam_2215| nonstructural protein V [Hendra virus]
+gi|13559816|ref|NP_112023.1|vFam_2215| V protein [Nipah virus]

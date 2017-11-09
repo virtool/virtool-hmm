@@ -1,0 +1,10 @@
+CLUSTER	4116
+NUM_SEQ	2
+LENGTH	337
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	175.24
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|422933876|ref|YP_007003934.1|vFam_4116| protein ORF118 [Cyprinid herpesvirus 2]
+gi|131840144|ref|YP_001096153.1|vFam_4116| unnamed protein product [Cyprinid herpesvirus 3]

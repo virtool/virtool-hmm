@@ -1,0 +1,22 @@
+CLUSTER	336
+NUM_SEQ	14
+LENGTH	492
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	246.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036708|ref|YP_008438345.1|vFam_336| hypothetical protein ps_1939 [Pandoravirus salinus]
+gi|531036148|ref|YP_008437784.1|vFam_336| hypothetical protein ps_1373 [Pandoravirus salinus]
+gi|531036533|ref|YP_008438170.1|vFam_336| hypothetical protein ps_1764 [Pandoravirus salinus]
+gi|531036936|ref|YP_008438578.1|vFam_336| hypothetical protein ps_2176 [Pandoravirus salinus]
+gi|526119945|ref|YP_008319848.1|vFam_336| hypothetical protein [Pandoravirus dulcis]
+gi|526120039|ref|YP_008319942.1|vFam_336| hypothetical protein [Pandoravirus dulcis]
+gi|531037258|ref|YP_008438901.1|vFam_336| hypothetical protein ps_2499 [Pandoravirus salinus]
+gi|526120101|ref|YP_008320004.1|vFam_336| hypothetical protein [Pandoravirus dulcis]
+gi|526120026|ref|YP_008319929.1|vFam_336| hypothetical protein [Pandoravirus dulcis]
+gi|531035096|ref|YP_008436721.1|vFam_336| hypothetical protein ps_305 [Pandoravirus salinus]
+gi|526118920|ref|YP_008318823.1|vFam_336| hypothetical protein [Pandoravirus dulcis]
+gi|526118921|ref|YP_008318824.1|vFam_336| hypothetical protein [Pandoravirus dulcis]
+gi|526119602|ref|YP_008319505.1|vFam_336| hypothetical protein [Pandoravirus dulcis]
+gi|531035098|ref|YP_008436723.1|vFam_336| hypothetical protein ps_307 [Pandoravirus salinus]

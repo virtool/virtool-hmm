@@ -1,0 +1,19 @@
+CLUSTER	458
+NUM_SEQ	11
+LENGTH	206
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	100.94
+FAMILIES	{'Adenoviridae': 8}
+GENERA	{'Aviadenovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|308222757|ref|YP_003933594.1|vFam_458| unnamed protein product [Turkey adenovirus 1]
+gi|308222756|ref|YP_003933593.1|vFam_458| unnamed protein product [Turkey adenovirus 1]
+gi|327409492|ref|YP_004346936.1|vFam_458| 22 kDa protein [Fowl adenovirus C]
+gi|56160754|ref|AP_000423.1|vFam_458| 22K [Fowl adenovirus A]
+gi|555928234|ref|YP_008719864.1|vFam_458| 33K [Turkey adenovirus 5]
+gi|56160755|ref|AP_000422.1|vFam_458| 33K [Fowl adenovirus A]
+gi|501000365|ref|YP_007985658.1|vFam_458| 33K [Fowl adenovirus 5]
+gi|501000364|ref|YP_007985659.1|vFam_458| 22K [Fowl adenovirus 5]
+gi|56160726|ref|AP_000387.1|vFam_458| 33K [Fowl adenovirus D]
+gi|555928201|ref|YP_008719832.1|vFam_458| 33K [Turkey adenovirus 4]
+gi|555928200|ref|YP_008719833.1|vFam_458| 22K [Turkey adenovirus 4]

@@ -1,0 +1,14 @@
+CLUSTER	1239
+NUM_SEQ	6
+LENGTH	78
+RELATIVE_ENTROPY_PER_POSITION	0.66
+TOTAL_RELATIVE_ENTROPY	51.48
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Alphabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|113195519|ref|YP_717657.1|vFam_1239| hypothetical protein CBNV_gp119 [Clanis bilineata nucleopolyhedrovirus]
+gi|209401169|ref|YP_002274038.1|vFam_1239| hypothetical protein HaSNPVNNg1_gp115 [Helicoverpa armigera NPV NNg1]
+gi|15617591|ref|NP_258391.1|vFam_1239| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|228861704|ref|YP_002854724.1|vFam_1239| hypothetical protein EupsNPV_gp114 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|209978883|ref|YP_002300626.1|vFam_1239| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|29567198|ref|NP_818760.1|vFam_1239| hypothetical protein AhnVgp113 [Adoxophyes honmai nucleopolyhedrovirus]

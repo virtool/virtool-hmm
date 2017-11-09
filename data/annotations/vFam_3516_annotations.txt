@@ -1,0 +1,12 @@
+CLUSTER	3516
+NUM_SEQ	4
+LENGTH	194
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	98.94
+FAMILIES	{'None': 1, 'Mimiviridae': 3}
+GENERA	{'None': 3, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831069|ref|YP_003969712.1|vFam_3516| putative deoxynucleoside monophosphate kinase [Cafeteria roenbergensis virus BV-PW1]
+gi|311977904|ref|YP_003987024.1|vFam_3516| putative deoxynucleotide monophosphate kinase [Acanthamoeba polyphaga mimivirus]
+gi|441432473|ref|YP_007354515.1|vFam_3516| Deoxynucleotide monophosphate kinase [Acanthamoeba polyphaga moumouvirus]
+gi|363540770|ref|YP_004894675.1|vFam_3516| mg624 gene product [Megavirus chiliensis]

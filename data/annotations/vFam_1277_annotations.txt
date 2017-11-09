@@ -1,0 +1,16 @@
+CLUSTER	1277
+NUM_SEQ	8
+LENGTH	205
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	108.65
+FAMILIES	{'Closteroviridae': 7}
+GENERA	{'None': 1, 'Closterovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|402783688|ref|YP_006628172.1|vFam_1277| coat protein [Blueberry virus A]
+gi|118197617|ref|YP_874191.1|vFam_1277| CP [Raspberry leaf mottle virus]
+gi|9628273|ref|NP_042867.1|vFam_1277| 25-kDa coat protein [Citrus tristeza virus]
+gi|254666625|ref|YP_003075971.1|vFam_1277| p26 [Carrot yellow leaf virus]
+gi|62327414|ref|YP_224096.1|vFam_1277| coat protein [Mint virus 1]
+gi|77118928|ref|YP_337917.1|vFam_1277| major capsid protein [Grapevine leafroll-associated virus 2]
+gi|563398782|ref|YP_008858536.1|vFam_1277| CP [Carnation yellow fleck virus]
+gi|9627409|ref|NP_041875.1|vFam_1277| coat protein [Beet yellows virus]

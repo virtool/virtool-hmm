@@ -1,0 +1,12 @@
+CLUSTER	3149
+NUM_SEQ	4
+LENGTH	324
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	165.24
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|526119424|ref|YP_008319327.1|vFam_3149| hypothetical protein [Pandoravirus dulcis]
+gi|526119396|ref|YP_008319299.1|vFam_3149| hypothetical protein [Pandoravirus dulcis]
+gi|531036889|ref|YP_008438530.1|vFam_3149| hypothetical protein ps_2128 [Pandoravirus salinus]
+gi|526119901|ref|YP_008319804.1|vFam_3149| hypothetical protein [Pandoravirus dulcis]

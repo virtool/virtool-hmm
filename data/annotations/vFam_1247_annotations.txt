@@ -1,0 +1,11 @@
+CLUSTER	1247
+NUM_SEQ	3
+LENGTH	215
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	111.8
+FAMILIES	{'Retroviridae': 3}
+GENERA	{'Deltaretrovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|40796166|ref|NP_777381.1|vFam_1247| p24 CA [Bovine leukemia virus]
+gi|40796173|ref|NP_955618.1|vFam_1247| p24 CA [Human T-lymphotropic virus 1]
+gi|40018530|ref|NP_954567.1|vFam_1247| p24-gag protein [2] [Human T-lymphotropic virus 2]

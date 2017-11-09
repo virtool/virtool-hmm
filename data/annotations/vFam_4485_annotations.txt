@@ -1,0 +1,11 @@
+CLUSTER	4485
+NUM_SEQ	3
+LENGTH	181
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	92.31
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|209401111|ref|YP_002273980.1|vFam_4485| hypothetical protein HaSNPVNNg1_gp057 [Helicoverpa armigera NPV NNg1]
+gi|22549519|ref|NP_689292.1|vFam_4485| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069998|ref|NP_613202.1|vFam_4485| hypothetical protein McnAVgp119 [Mamestra configurata nucleopolyhedrovirus A]

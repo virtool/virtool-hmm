@@ -1,0 +1,13 @@
+CLUSTER	1792
+NUM_SEQ	5
+LENGTH	207
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	107.64
+FAMILIES	{'Bromoviridae': 4}
+GENERA	{'Ilarvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|20564166|ref|NP_620769.1|vFam_1792| putative 2b protein [Tobacco streak virus]
+gi|46393300|ref|YP_006448.1|vFam_1792| 2b protein [Parietaria mottle virus]
+gi|532565979|ref|YP_008470971.1|vFam_1792| 2b protein [Ageratum latent virus]
+gi|212525348|ref|YP_002308571.1|vFam_1792| p2b protein [Blackberry chlorotic ringspot virus]
+gi|119943078|ref|YP_941473.1|vFam_1792| 2b protein [Strawberry necrotic shock virus]

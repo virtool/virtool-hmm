@@ -1,0 +1,10 @@
+CLUSTER	5951
+NUM_SEQ	2
+LENGTH	441
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	229.32
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|209170937|ref|YP_002268083.1|vFam_5951| agip53 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592765|ref|YP_529718.1|vFam_5951| ORF-48 [Agrotis segetum nucleopolyhedrovirus]

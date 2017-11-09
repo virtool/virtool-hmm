@@ -1,0 +1,11 @@
+CLUSTER	4411
+NUM_SEQ	3
+LENGTH	252
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	131.04
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 1, 'Chlorovirus': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|155371767|ref|YP_001427301.1|vFam_4411| hypothetical protein ATCV1_z820R [Acanthocystis turfacea Chlorella virus 1]
+gi|260665907|ref|YP_003212861.1|vFam_4411| hypothetical protein H665_p037 [Ostreococcus tauri virus 1]
+gi|313844012|ref|YP_004061675.1|vFam_4411| hypothetical protein OlV1_042c [Ostreococcus lucimarinus virus OlV1]

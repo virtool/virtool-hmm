@@ -1,0 +1,10 @@
+CLUSTER	6274
+NUM_SEQ	2
+LENGTH	269
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	139.88
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|171473688|ref|YP_001798558.1|vFam_6274| viral structural protein [Acidianus filamentous virus 9]
+gi|162329521|ref|YP_001604320.1|vFam_6274| hypothetical protein AFV8_gp39 [Acidianus filamentous virus 8]

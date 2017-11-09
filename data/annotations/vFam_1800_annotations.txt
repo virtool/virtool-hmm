@@ -1,0 +1,12 @@
+CLUSTER	1800
+NUM_SEQ	4
+LENGTH	458
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	238.16
+FAMILIES	{'Circoviridae': 3}
+GENERA	{'Gyrovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9626432|ref|NP_056775.1|vFam_1800| nucleocapsid protein [Chicken anemia virus]
+gi|557745626|ref|YP_008798241.1|vFam_1800| VP1 [Gyrovirus Tu789]
+gi|448261112|ref|YP_004564625.1|vFam_1800| VP1 protein [Human gyrovirus type 1]
+gi|394922887|ref|YP_005454312.1|vFam_1800| VP1 [Gyrovirus GyV3]

@@ -1,0 +1,11 @@
+CLUSTER	4953
+NUM_SEQ	3
+LENGTH	244
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	126.88
+FAMILIES	{'Reoviridae': 3}
+GENERA	{'Cypovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|14993630|ref|NP_149144.1|vFam_4953| polyhedrin [Cypovirus 14]
+gi|187765476|ref|YP_001883314.1|vFam_4953| polyhedrin [Cypovirus 5]
+gi|10518488|ref|NP_066381.1|vFam_4953| polyhedrin [Trichoplusia ni cypovirus 15]

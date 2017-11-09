@@ -1,0 +1,10 @@
+CLUSTER	2538
+NUM_SEQ	2
+LENGTH	608
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	316.16
+FAMILIES	{'Reoviridae': 2}
+GENERA	{'None': 1, 'Oryzavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|308928596|ref|YP_003934925.1|vFam_2538| non-structural protein NSP8 [Raspberry latent virus]
+gi|20428611|ref|NP_620540.1|vFam_2538| Pns7 [Rice ragged stunt virus]

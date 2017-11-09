@@ -1,0 +1,11 @@
+CLUSTER	3037
+NUM_SEQ	3
+LENGTH	160
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	81.6
+FAMILIES	{'None': 3}
+GENERA	{'Sobemovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|347762084|ref|YP_004869649.1|vFam_3037| putative movement protein [Soybean yellow common mosaic virus]
+gi|449265400|ref|YP_007438856.1|vFam_3037| putative movement protein [Southern bean mosaic virus]
+gi|10645642|ref|NP_066391.1|vFam_3037| movement protein [Sesbania mosaic virus]

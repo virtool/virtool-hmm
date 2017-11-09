@@ -1,0 +1,11 @@
+CLUSTER	2210
+NUM_SEQ	3
+LENGTH	565
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	288.15
+FAMILIES	{'None': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|284520911|ref|YP_003411998.1|vFam_2210| VP4 precursor [Haloarcula hispanica pleomorphic virus 1]
+gi|394922855|ref|YP_005454289.1|vFam_2210| VP5 precursor [Halorubrum pleomorphic virus 6]
+gi|394922819|ref|YP_005454262.1|vFam_2210| VP5 precursor [Halorubrum pleomorphic virus 2]

@@ -1,0 +1,10 @@
+CLUSTER	1964
+NUM_SEQ	2
+LENGTH	523
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	261.5
+FAMILIES	{'Herpesviridae': 1, 'None': 1}
+GENERA	{'Muromegalovirus': 1, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|425707328|ref|YP_007016525.1|vFam_1964| e138 [Murid herpesvirus 8]
+gi|310831255|ref|YP_003969898.1|vFam_1964| putative bifunctional N-acylneuraminate cytidylyltransferase/demethylmenaquinone methyltransferase [Cafeteria roenbergensis virus BV-PW1]

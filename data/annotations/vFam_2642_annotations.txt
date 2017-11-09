@@ -1,0 +1,11 @@
+CLUSTER	2642
+NUM_SEQ	3
+LENGTH	525
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	273.0
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977845|ref|YP_003986965.1|vFam_2642| putative translation initiation factor 4a [Acanthamoeba polyphaga mimivirus]
+gi|448825384|ref|YP_007418315.1|vFam_2642| putative translation initiation factor 4a [Megavirus lba]
+gi|441432286|ref|YP_007354328.1|vFam_2642| DEAD/SNF2-like helicase [Acanthamoeba polyphaga moumouvirus]

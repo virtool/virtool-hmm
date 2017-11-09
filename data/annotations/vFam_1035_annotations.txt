@@ -1,0 +1,18 @@
+CLUSTER	1035
+NUM_SEQ	10
+LENGTH	66
+RELATIVE_ENTROPY_PER_POSITION	0.78
+TOTAL_RELATIVE_ENTROPY	51.48
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|237643584|ref|YP_002884274.1|vFam_1035| Ac43-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964565|ref|YP_950761.1|vFam_1035| Mv-ORF31 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|96979866|ref|YP_611072.1|vFam_1035| hypothetical protein APNV_p105 [Antheraea pernyi nucleopolyhedrovirus]
+gi|15320697|ref|NP_203209.1|vFam_1035| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|86355627|ref|YP_473295.1|vFam_1035| ORF107 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|116326116|ref|YP_803441.1|vFam_1035| hypothetical protein AGNV_gp047 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|529153417|ref|YP_008378457.1|vFam_1035| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|9629986|ref|NP_046204.1|vFam_1035| hypothetical protein OpmnVgp048 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153582|ref|YP_008378607.1|vFam_1035| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|47777265|ref|YP_022513.1|vFam_1035| hypothetical protein CfMNPVgpORF43 [Choristoneura fumiferana multiple nucleopolyhedrovirus]

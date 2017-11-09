@@ -1,0 +1,12 @@
+CLUSTER	1835
+NUM_SEQ	4
+LENGTH	333
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	173.16
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|360086530|ref|YP_004940215.1|vFam_1835| tegument protein UL43 [Saimiriine herpesvirus 3]
+gi|360040934|ref|YP_004940069.1|vFam_1835| tegument protein UL43 [Aotine herpesvirus 1]
+gi|359946486|ref|YP_004936018.1|vFam_1835| tegument protein UL43 [Cercopithecine herpesvirus 5]
+gi|356640360|ref|YP_004933802.1|vFam_1835| tegument protein UL43 [Cynomolgus macaque cytomegalovirus strain Ottawa]

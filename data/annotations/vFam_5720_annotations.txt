@@ -1,0 +1,10 @@
+CLUSTER	5720
+NUM_SEQ	2
+LENGTH	148
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	76.96
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Lymphocryptovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|82503224|ref|YP_401668.1|vFam_5720| putative BLLF2 protein [Human herpesvirus 4]
+gi|51518038|ref|YP_067964.1|vFam_5720| BLLF2 [Macacine herpesvirus 4]

@@ -1,0 +1,11 @@
+CLUSTER	5117
+NUM_SEQ	3
+LENGTH	65
+RELATIVE_ENTROPY_PER_POSITION	0.78
+TOTAL_RELATIVE_ENTROPY	50.7
+FAMILIES	{'Baculoviridae': 1, 'Iridoviridae': 2}
+GENERA	{'Lymphocystivirus': 2, 'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|51869974|ref|YP_073527.1|vFam_5117| hypothetical protein LDVICp018 [Lymphocystis disease virus - isolate China]
+gi|13358532|ref|NP_078710.1|vFam_5117| hypothetical protein LCDV1gp065 [Lymphocystis disease virus 1]
+gi|9630997|ref|NP_047667.1|vFam_5117| LdOrf-31 peptide [Lymantria dispar multiple nucleopolyhedrovirus]

@@ -1,0 +1,13 @@
+CLUSTER	1623
+NUM_SEQ	5
+LENGTH	609
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	322.77
+FAMILIES	{'Paramyxoviridae': 5}
+GENERA	{'Morbillivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|9630651|ref|NP_047206.1|vFam_1623| haemagglutinin protein H [Canine distemper virus]
+gi|38707568|ref|NP_945029.1|vFam_1623| haemagglutinin protein [Dolphin morbillivirus]
+gi|71037364|ref|YP_133827.2|vFam_1623| haemagglutinin [Peste-des-petits-ruminants virus]
+gi|9626951|ref|NP_056923.1|vFam_1623| hemagglutinin protein [Measles virus]
+gi|56410435|ref|YP_087125.2|vFam_1623| H protein [Rinderpest virus (strain Kabete O)]

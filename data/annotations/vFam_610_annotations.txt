@@ -1,0 +1,14 @@
+CLUSTER	610
+NUM_SEQ	6
+LENGTH	460
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	230.0
+FAMILIES	{'Marseillevirus family': 1, 'None': 2, 'Mimiviridae': 1}
+GENERA	{'None': 4}
+FASTA SEQUENCE TITLES:
+gi|448826101|ref|YP_007419032.1|vFam_610| putative EGF-like domain-containing protein [Megavirus lba]
+gi|448825795|ref|YP_007418726.1|vFam_610| EGF-like domain-containing protein [Megavirus lba]
+gi|441432633|ref|YP_007354675.1|vFam_610| hypothetical protein Moumou_00718 [Acanthamoeba polyphaga moumouvirus]
+gi|284504219|ref|YP_003406934.1|vFam_610| zinc finger protein [Marseillevirus]
+gi|531035971|ref|YP_008437606.1|vFam_610| zinc finger protein [Pandoravirus salinus]
+gi|526119494|ref|YP_008319397.1|vFam_610| zinc finger protein [Pandoravirus dulcis]

@@ -1,0 +1,12 @@
+CLUSTER	1327
+NUM_SEQ	4
+LENGTH	316
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	151.68
+FAMILIES	{'Alloherpesviridae': 2, 'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 1, 'Cyprinivirus': 1, 'Batrachovirus': 1, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852699|ref|YP_293983.1|vFam_1327| hypothetical protein EhV228 [Emiliania huxleyi virus 86]
+gi|109638527|ref|YP_656675.1|vFam_1327| ORF20 [Ranid herpesvirus 1]
+gi|131840186|ref|YP_001096195.1|vFam_1327| unnamed protein product [Cyprinid herpesvirus 3]
+gi|13242568|ref|NP_077582.1|vFam_1327| EsV-1-97 [Ectocarpus siliculosus virus 1]

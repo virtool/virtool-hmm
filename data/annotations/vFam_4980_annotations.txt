@@ -1,0 +1,11 @@
+CLUSTER	4980
+NUM_SEQ	3
+LENGTH	129
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	65.79
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Varicellovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|75750391|ref|YP_319846.1|vFam_4980| hypothetical protein ATV_gp15 [Acidianus two-tailed virus]
+gi|50300474|ref|YP_053044.1|vFam_4980| membrane protein UL56 [Human herpesvirus 3]
+gi|13242400|ref|NP_077415.1|vFam_4980| membrane protein UL56 [Cercopithecine herpesvirus 9]

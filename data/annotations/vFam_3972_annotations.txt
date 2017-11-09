@@ -1,0 +1,11 @@
+CLUSTER	3972
+NUM_SEQ	3
+LENGTH	550
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	280.5
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|438000315|ref|YP_007250420.1|vFam_3972| pp78/83 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964536|ref|YP_950732.1|vFam_3972| ORF1629 [Maruca vitrata nucleopolyhedrovirus]
+gi|114680062|ref|YP_758475.1|vFam_3972| ORF1629 capsid protein [Plutella xylostella multiple nucleopolyhedrovirus]

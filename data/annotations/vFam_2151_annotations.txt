@@ -1,0 +1,10 @@
+CLUSTER	2151
+NUM_SEQ	2
+LENGTH	196
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	98.0
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Varicellovirus': 1, 'Muromegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|425707326|ref|YP_007016523.1|vFam_2151| e136 [Murid herpesvirus 8]
+gi|270339441|ref|YP_003331521.1|vFam_2151| membrane protein V1 [Felid herpesvirus 1]

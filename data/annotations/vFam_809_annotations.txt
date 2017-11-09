@@ -1,0 +1,11 @@
+CLUSTER	809
+NUM_SEQ	3
+LENGTH	349
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	181.48
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|32453896|ref|NP_861659.1|vFam_809| hypothetical protein HalHV1gp071 [Halovirus HF1]
+gi|441432554|ref|YP_007354596.1|vFam_809| hypothetical protein Moumou_00636 [Acanthamoeba polyphaga moumouvirus]
+gi|363539818|ref|YP_004894772.1|vFam_809| mg721 gene product [Megavirus chiliensis]

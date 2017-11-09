@@ -1,0 +1,12 @@
+CLUSTER	2735
+NUM_SEQ	4
+LENGTH	232
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	116.0
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|356640307|ref|YP_004933749.1|vFam_2735| putative membrane glycoprotein UL9 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556481|ref|YP_068115.1|vFam_2735| rh21 [Macacine herpesvirus 3]
+gi|359946450|ref|YP_004935982.1|vFam_2735| membrane protein RL11K [Cercopithecine herpesvirus 5]
+gi|51556482|ref|YP_068116.1|vFam_2735| rh22 [Macacine herpesvirus 3]

@@ -1,0 +1,13 @@
+CLUSTER	2560
+NUM_SEQ	5
+LENGTH	427
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	222.04
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|157929288|ref|YP_001496940.1|vFam_2560| hypothetical protein AFV2_gp15 [Acidianus filamentous virus 2]
+gi|45655881|ref|YP_003740.1|vFam_2560| hypothetical protein AFV1_ORF426 [Acidianus filamentous virus 1]
+gi|414089955|ref|YP_006990086.1|vFam_2560| hypothetical protein [Sulfolobales Mexican rudivirus 1]
+gi|159341074|ref|YP_001542633.1|vFam_2560| hypothetical protein [Acidianus rod-shaped virus 1]
+gi|22122238|ref|NP_666599.1|vFam_2560| hypothetical protein SIRV1gp11 [Sulfolobus islandicus rod-shaped virus 1]

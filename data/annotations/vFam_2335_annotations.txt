@@ -1,0 +1,12 @@
+CLUSTER	2335
+NUM_SEQ	4
+LENGTH	213
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	108.63
+FAMILIES	{'Picornaviridae': 4}
+GENERA	{'None': 4}
+FASTA SEQUENCE TITLES:
+gi|345461100|ref|YP_004782535.1|vFam_2335| 2A [Bat picornavirus 3]
+gi|358356453|ref|YP_004934024.1|vFam_2335| unnamed protein product [Feline picornavirus]
+gi|345461282|ref|YP_004782561.1|vFam_2335| 2A [Bat picornavirus 2]
+gi|345461266|ref|YP_004782547.1|vFam_2335| 2A [Bat picornavirus 1]

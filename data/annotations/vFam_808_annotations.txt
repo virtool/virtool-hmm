@@ -1,0 +1,18 @@
+CLUSTER	808
+NUM_SEQ	10
+LENGTH	67
+RELATIVE_ENTROPY_PER_POSITION	0.76
+TOTAL_RELATIVE_ENTROPY	50.92
+FAMILIES	{'Poxviridae': 10}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Capripoxvirus': 1, 'Orthopoxvirus': 1, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|571798027|ref|YP_008658526.1|vFam_808| hypothetical pox protein [Squirrelpox virus]
+gi|345107304|ref|YP_004821469.1|vFam_808| essential IMV membrane protein [Yoka poxvirus]
+gi|377830078|ref|YP_005296309.1|vFam_808| unnamed protein product [Cotia virus SPAn232]
+gi|18640187|ref|NP_570261.1|vFam_808| SPV101 putative IMV membrane protein [Swinepox virus]
+gi|157939727|ref|YP_001497099.1|vFam_808| IMV membrane protein [Tanapox virus]
+gi|38229266|ref|NP_938359.1|vFam_808| 104L [Yaba monkey tumor virus]
+gi|9633912|ref|NP_051991.1|vFam_808| gp102L [Rabbit fibroma virus]
+gi|9633738|ref|NP_051816.1|vFam_808| m102L [Myxoma virus]
+gi|211956384|ref|YP_002302453.1|vFam_808| IMV membrane protein [Deerpox virus W-1170-84]
+gi|148912981|ref|YP_001293295.1|vFam_808| hypothetical protein GTPV_gp100 [Goatpox virus Pellor]

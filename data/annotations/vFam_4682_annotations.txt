@@ -1,0 +1,10 @@
+CLUSTER	4682
+NUM_SEQ	2
+LENGTH	120
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	62.4
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|359946557|ref|YP_004936090.1|vFam_4682| chemokine vCXCL5 [Cercopithecine herpesvirus 5]
+gi|356640483|ref|YP_004933925.1|vFam_4682| protein UL146 [Cynomolgus macaque cytomegalovirus strain Ottawa]

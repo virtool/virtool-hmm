@@ -1,0 +1,10 @@
+CLUSTER	5882
+NUM_SEQ	2
+LENGTH	263
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	136.76
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|74229749|ref|YP_308953.1|vFam_5882| proliferating cell nuclear antigen (pcna) [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304202|ref|YP_249670.1|vFam_5882| PCNA [Chrysodeixis chalcites nucleopolyhedrovirus]

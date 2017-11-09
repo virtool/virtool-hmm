@@ -1,0 +1,12 @@
+CLUSTER	1848
+NUM_SEQ	4
+LENGTH	356
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	185.12
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Betabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|46309351|ref|YP_006241.1|vFam_1848| ORF103 [Agrotis segetum granulovirus]
+gi|148368924|ref|YP_001257054.1|vFam_1848| lef-3 [Spodoptera litura granulovirus]
+gi|285002415|ref|YP_003422479.1|vFam_1848| LEF-3 [Pseudaletia unipuncta granulovirus]
+gi|164519331|ref|YP_001649118.1|vFam_1848| late expression factor-3 [Helicoverpa armigera granulovirus]

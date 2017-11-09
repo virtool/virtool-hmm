@@ -1,0 +1,11 @@
+CLUSTER	3695
+NUM_SEQ	3
+LENGTH	171
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	83.79
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977945|ref|YP_003987065.1|vFam_3695| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825660|ref|YP_007418591.1|vFam_3695| hypothetical protein LBA_00697 [Megavirus lba]
+gi|441432510|ref|YP_007354552.1|vFam_3695| hypothetical protein Moumou_00590 [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,12 @@
+CLUSTER	1430
+NUM_SEQ	4
+LENGTH	415
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	215.8
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497933|ref|YP_008003732.1|vFam_1430| FEN1-like nuclease (Cop-G5R) [Mythimna separata entomopoxvirus 'L']
+gi|9964493|ref|NP_064961.1|vFam_1430| hypothetical protein AMV179 [Amsacta moorei entomopoxvirus 'L']
+gi|506498796|ref|YP_008004590.1|vFam_1430| FEN1-like nuclease (Cop-G5R) [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498183|ref|YP_008003980.1|vFam_1430| FEN1-like nuclease (Cop-G5R) [Adoxophyes honmai entomopoxvirus 'L']

@@ -1,0 +1,18 @@
+CLUSTER	971
+NUM_SEQ	10
+LENGTH	122
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	61.0
+FAMILIES	{'Caulimoviridae': 10}
+GENERA	{'Caulimovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|9628903|ref|NP_043931.1|vFam_971| hypothetical protein [Strawberry vein banding virus]
+gi|189009872|ref|YP_001931965.1|vFam_971| virion-associated protein [Eupatorium vein clearing virus]
+gi|189009865|ref|YP_001931959.1|vFam_971| virion-associated protein [Lamium leaf distortion virus]
+gi|19919892|ref|NP_612575.1|vFam_971| DNA-binding protein [Carnation etched ring virus]
+gi|21450046|ref|NP_659395.1|vFam_971| hypothetical protein [Mirabilis mosaic virus]
+gi|406356618|ref|YP_006732332.1|vFam_971| minor capsid protein [Dahlia mosaic virus]
+gi|20143427|ref|NP_619546.1|vFam_971| DNA-binding protein [Figwort mosaic virus]
+gi|402502233|ref|YP_006607890.1|vFam_971| DNA-binding protein [Soybean Putnam virus]
+gi|410492645|ref|YP_006907832.1|vFam_971| minor capsid protein [Horseradish latent virus]
+gi|9626941|ref|NP_056726.1|vFam_971| DNA-binding protein [Cauliflower mosaic virus]

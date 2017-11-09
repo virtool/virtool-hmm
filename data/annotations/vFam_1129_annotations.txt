@@ -1,0 +1,17 @@
+CLUSTER	1129
+NUM_SEQ	9
+LENGTH	384
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	195.84
+FAMILIES	{'None': 1, 'Iridoviridae': 7}
+GENERA	{'Lymphocystivirus': 2, 'None': 1, 'Iridovirus': 2, 'Ranavirus': 2, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|20806078|ref|NP_620833.1|vFam_1129| 36 kDa protein [Strawberry latent ringspot virus satellite RNA]
+gi|388260117|ref|YP_006347645.1|vFam_1129| ribonucleotide reductase small subunit [European catfish virus]
+gi|56692684|ref|YP_164142.1|vFam_1129| ribonucleoside-diphosphate reductase beta subunit [Singapore grouper iridovirus]
+gi|51869996|ref|YP_073549.1|vFam_1129| Ribonucleotide reductase [Lymphocystis disease virus - isolate China]
+gi|13358428|ref|NP_078636.1|vFam_1129| Ribonucleotide reductase small subunit [Lymphocystis disease virus 1]
+gi|15079087|ref|NP_149839.1|vFam_1129| 376L [Invertebrate iridescent virus 6]
+gi|109287926|ref|YP_654620.1|vFam_1129| hypothetical protein MIV048L [Invertebrate iridescent virus 3]
+gi|527333574|ref|YP_008357358.1|vFam_1129| Ribonucleoside-diphosphate reductase, beta subunit [Invertebrate iridovirus 22]
+gi|339906175|ref|YP_004732972.1|vFam_1129| hypothetical protein WIV_gp189 [Wiseana iridescent virus]

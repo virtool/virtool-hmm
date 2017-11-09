@@ -1,0 +1,13 @@
+CLUSTER	1116
+NUM_SEQ	5
+LENGTH	191
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	97.41
+FAMILIES	{'Retroviridae': 5}
+GENERA	{'Betaretrovirus': 2, 'Gammaretrovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|40795683|ref|NP_955544.1|vFam_1116| transmembrane protein [Squirrel monkey retrovirus]
+gi|40018526|ref|NP_954563.1|vFam_1116| gp20 TM [Mason-Pfizer monkey virus]
+gi|194033122|ref|YP_002000609.1|vFam_1116| p15E (TM) [Gibbon ape leukemia virus]
+gi|40796136|ref|NP_955589.1|vFam_1116| p15E [Moloney murine leukemia virus]
+gi|40796129|ref|NP_955582.1|vFam_1116| p15E protein [Feline leukemia virus]

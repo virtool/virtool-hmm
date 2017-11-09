@@ -1,0 +1,11 @@
+CLUSTER	4671
+NUM_SEQ	3
+LENGTH	177
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	90.27
+FAMILIES	{'Reoviridae': 3}
+GENERA	{'Rotavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|78768153|ref|YP_392500.1|vFam_4671| NSP5 [Adult diarrheal rotavirus strain J19]
+gi|517501584|ref|YP_008136239.1|vFam_4671| NSP5 [Rotavirus G chicken/03V0567/DEU/2003]
+gi|514360967|ref|YP_008126853.1|vFam_4671| nonstructural protein [Human rotavirus B]

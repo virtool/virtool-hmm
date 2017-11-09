@@ -1,0 +1,11 @@
+CLUSTER	1688
+NUM_SEQ	3
+LENGTH	164
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	82.0
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2, 'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182091|ref|YP_008052610.1|vFam_1688| hypothetical protein PGCG_00292 [Phaeocystis globosa virus]
+gi|448825352|ref|YP_007418283.1|vFam_1688| hypothetical protein LBA_00389 [Megavirus lba]
+gi|441432258|ref|YP_007354300.1|vFam_1688| Zn-finger domain-containing protein [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,11 @@
+CLUSTER	4223
+NUM_SEQ	3
+LENGTH	157
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	81.64
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Ranavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|56692723|ref|YP_164181.1|vFam_4223| putative immediate-early protein [Singapore grouper iridovirus]
+gi|388260095|ref|YP_006347623.1|vFam_4223| putative immediate-early protein [European catfish virus]
+gi|49237380|ref|YP_031661.1|vFam_4223| immediate early protein ICP-18 [Frog virus 3]

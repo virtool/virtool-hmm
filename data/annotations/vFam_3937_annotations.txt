@@ -1,0 +1,10 @@
+CLUSTER	3937
+NUM_SEQ	2
+LENGTH	214
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	109.14
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825142|ref|YP_007418073.1|vFam_3937| hypothetical protein LBA_00177 [Megavirus lba]
+gi|441432074|ref|YP_007354116.1|vFam_3937| NUDIX hydrolase [Acanthamoeba polyphaga moumouvirus]

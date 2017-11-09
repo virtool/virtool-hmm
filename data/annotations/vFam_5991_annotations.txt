@@ -1,0 +1,10 @@
+CLUSTER	5991
+NUM_SEQ	2
+LENGTH	117
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	59.67
+FAMILIES	{'Caulimoviridae': 1}
+GENERA	{'Soymovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497814|ref|YP_008003613.1|vFam_5991| hypothetical protein MYSEV_096 [Mythimna separata entomopoxvirus 'L']
+gi|32306485|ref|NP_861412.1|vFam_5991| hypothetical protein [Cestrum yellow leaf curling virus]

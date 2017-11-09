@@ -1,0 +1,10 @@
+CLUSTER	3979
+NUM_SEQ	2
+LENGTH	223
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	115.96
+FAMILIES	{'Picornaviridae': 2}
+GENERA	{'Tremovirus': 1, 'Hepatovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|25121595|ref|NP_740550.1|vFam_3979| 1B VP2 mature peptide [Hepatitis A virus]
+gi|23681743|ref|NP_705596.1|vFam_3979| putative VP2 [Avian encephalomyelitis virus]

@@ -1,0 +1,13 @@
+CLUSTER	1580
+NUM_SEQ	5
+LENGTH	137
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	67.13
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Iridovirus': 2, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|526118803|ref|YP_008318706.1|vFam_1580| hypothetical protein [Pandoravirus dulcis]
+gi|109287909|ref|YP_654603.1|vFam_1580| hypothetical protein MIV031R [Invertebrate iridescent virus 3]
+gi|15078828|ref|NP_149578.1|vFam_1580| 115R [Invertebrate iridescent virus 6]
+gi|527333665|ref|YP_008357449.1|vFam_1580| hypothetical protein IIV22_151R [Invertebrate iridovirus 22]
+gi|339906087|ref|YP_004732884.1|vFam_1580| hypothetical protein WIV_gp101 [Wiseana iridescent virus]

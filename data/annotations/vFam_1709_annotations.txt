@@ -1,0 +1,14 @@
+CLUSTER	1709
+NUM_SEQ	6
+LENGTH	183
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	95.16
+FAMILIES	{'None': 5}
+GENERA	{'None': 5}
+FASTA SEQUENCE TITLES:
+gi|90403539|ref|YP_529660.1|vFam_1709| hypothetical protein His2V_gp30 [His2 virus]
+gi|394922870|ref|YP_005454299.1|vFam_1709| ORF5 [Halogeometricum pleomorphic virus 1]
+gi|394922836|ref|YP_005454275.1|vFam_1709| ORF3 [Halorubrum pleomorphic virus 3]
+gi|226596535|ref|YP_002791891.1|vFam_1709| hypothetical protein HRPV-1_gp6 [Halorubrum pleomorphic virus 1]
+gi|284520912|ref|YP_003411999.1|vFam_1709| unkown [Haloarcula hispanica pleomorphic virus 1]
+gi|394922856|ref|YP_005454290.1|vFam_1709| ORF6 [Halorubrum pleomorphic virus 6]

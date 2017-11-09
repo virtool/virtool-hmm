@@ -1,0 +1,18 @@
+CLUSTER	645
+NUM_SEQ	10
+LENGTH	403
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	213.59
+FAMILIES	{'Herpesviridae': 10}
+GENERA	{'Percavirus': 1, 'Macavirus': 2, 'None': 1, 'Lymphocryptovirus': 2, 'Rhadinovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|321496574|ref|YP_004207859.1|vFam_645| hypothetical protein RHVP.23 [Rodent herpesvirus Peru]
+gi|9629605|ref|NP_044861.1|vFam_645| protein UL88 [Murid herpesvirus 4]
+gi|13095600|ref|NP_076515.1|vFam_645| unknown [Bovine herpesvirus 4]
+gi|139472870|ref|YP_001129376.1|vFam_645| ORF23 [Human herpesvirus 8]
+gi|18653829|ref|NP_570763.1|vFam_645| hypothetical protein MmrVgp22 [Macacine herpesvirus 5]
+gi|557041981|ref|YP_401699.2|vFam_645| BTRF1 protein, partial [Human herpesvirus 4]
+gi|24943106|ref|NP_733868.1|vFam_645| ORF15 [callitrichine herpesvirus 3]
+gi|9628025|ref|NP_042619.1|vFam_645| ORF 23 [Equid herpesvirus 2]
+gi|83642860|ref|YP_438147.1|vFam_645| ORF23 [Ovine herpesvirus 2]
+gi|10140945|ref|NP_065522.1|vFam_645| ORF 23 [Alcelaphine herpesvirus 1]

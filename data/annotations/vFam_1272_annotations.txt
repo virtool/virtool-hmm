@@ -1,0 +1,16 @@
+CLUSTER	1272
+NUM_SEQ	8
+LENGTH	528
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	274.56
+FAMILIES	{'Partitiviridae': 7}
+GENERA	{'Partitivirus': 6, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|71647189|ref|YP_271922.1|vFam_1272| putative dsRNA-dependent RNA polymerase [Penicillium stoloniferum virus F]
+gi|526246205|ref|YP_008327312.1|vFam_1272| RNA-dependent RNA polymerase [Ustilaginoidea virens partitivirus 2]
+gi|20889297|ref|NP_624350.1|vFam_1272| RNA-dependent RNA polymerase [Mycovirus FusoV]
+gi|167851791|ref|YP_001686789.1|vFam_1272| RNA-dependent RNA polymerase [Botryotinia fuckeliana partitivirus 1]
+gi|20279566|ref|NP_620301.1|vFam_1272| RNA-dependent RNA polymerase [Discula destructiva virus 2]
+gi|14327712|ref|NP_116716.1|vFam_1272| RNA-dependent RNA polymerase [Discula destructiva virus 1]
+gi|55733721|ref|YP_138540.1|vFam_1272| putative RNA-dependent RNA polymerase [Gremmeniella abietina RNA virus MS2]
+gi|94490708|ref|YP_052856.2|vFam_1272| RNA-dependent RNA polymerase [Penicillium stoloniferum virus S]

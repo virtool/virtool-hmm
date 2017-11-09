@@ -1,0 +1,10 @@
+CLUSTER	2873
+NUM_SEQ	2
+LENGTH	77
+RELATIVE_ENTROPY_PER_POSITION	0.66
+TOTAL_RELATIVE_ENTROPY	50.82
+FAMILIES	{'Herpesviridae': 1, 'Iridoviridae': 1}
+GENERA	{'Lymphocystivirus': 1, 'Cytomegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|356640470|ref|YP_004933912.1|vFam_2873| hypothetical protein cy168 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51869988|ref|YP_073541.1|vFam_2873| hypothetical protein LDVICp032 [Lymphocystis disease virus - isolate China]

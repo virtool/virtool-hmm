@@ -1,0 +1,12 @@
+CLUSTER	1502
+NUM_SEQ	4
+LENGTH	324
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	168.48
+FAMILIES	{'Iridoviridae': 4}
+GENERA	{'Lymphocystivirus': 2, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|51870095|ref|YP_073648.1|vFam_1502| hypothetical protein LDVICp142 [Lymphocystis disease virus - isolate China]
+gi|13358438|ref|NP_078700.1|vFam_1502| Ariadne-2 homolog [Lymphocystis disease virus 1]
+gi|56692783|ref|YP_164241.1|vFam_1502| NTPase/helicase [Singapore grouper iridovirus]
+gi|45686039|ref|YP_003802.1|vFam_1502| NTPase/helicase [Ambystoma tigrinum virus]

@@ -1,0 +1,10 @@
+CLUSTER	2242
+NUM_SEQ	2
+LENGTH	238
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	121.38
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|9631461|ref|NP_048245.1|vFam_2242| ORF MSV175 putative metalloprotease, similar to Bacteroides fragilis GB:U90931 [Melanoplus sanguinipes entomopoxvirus]
+gi|9631460|ref|NP_048247.1|vFam_2242| ORF MSV176 putative metalloprotease, similar to Homo sapiens GB:X89576 [Melanoplus sanguinipes entomopoxvirus]

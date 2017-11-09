@@ -1,0 +1,10 @@
+CLUSTER	5276
+NUM_SEQ	2
+LENGTH	113
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	57.63
+FAMILIES	{'Retroviridae': 2}
+GENERA	{'Lentivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|27311169|ref|NP_758889.1|vFam_5276| vpx protein [Simian immunodeficiency virus SIV-mnd 2]
+gi|9628884|ref|NP_056840.1|vFam_5276| vpx protein [Human immunodeficiency virus 2]

@@ -1,0 +1,12 @@
+CLUSTER	2071
+NUM_SEQ	4
+LENGTH	184
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	92.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|47131196|ref|YP_015562.1|vFam_2071| hypothetical protein PyrSV_gp41 [Pyrobaculum spherical virus]
+gi|47131201|ref|YP_015567.1|vFam_2071| hypothetical protein PyrSV_gp46 [Pyrobaculum spherical virus]
+gi|47131189|ref|YP_015555.1|vFam_2071| hypothetical protein PyrSV_gp34 [Pyrobaculum spherical virus]
+gi|47131195|ref|YP_015561.1|vFam_2071| hypothetical protein PyrSV_gp40 [Pyrobaculum spherical virus]

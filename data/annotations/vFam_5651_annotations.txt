@@ -1,0 +1,10 @@
+CLUSTER	5651
+NUM_SEQ	2
+LENGTH	383
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	199.16
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|75750418|ref|YP_319899.1|vFam_5651| putative transposase [Acidianus two-tailed virus]
+gi|75750409|ref|YP_319874.1|vFam_5651| putative transposase [Acidianus two-tailed virus]

@@ -1,0 +1,15 @@
+CLUSTER	1462
+NUM_SEQ	7
+LENGTH	155
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	80.6
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Alphabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|15320731|ref|NP_203243.1|vFam_1462| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|86355589|ref|YP_473257.1|vFam_1462| Telokin-like peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630023|ref|NP_046241.1|vFam_1462| hypothetical protein OpmnVgp085 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031269|ref|YP_008992165.1|vFam_1462| telokin-like protein [Choristoneura murinana alphabaculovirus]
+gi|529153382|ref|YP_008378422.1|vFam_1462| TLP [Choristoneura rosaceana alphabaculovirus]
+gi|116326149|ref|YP_803475.1|vFam_1462| telokin-like protein-20 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|96979833|ref|YP_611039.1|vFam_1462| telokin [Antheraea pernyi nucleopolyhedrovirus]

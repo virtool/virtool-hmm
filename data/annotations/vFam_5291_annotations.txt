@@ -1,0 +1,10 @@
+CLUSTER	5291
+NUM_SEQ	2
+LENGTH	81
+RELATIVE_ENTROPY_PER_POSITION	0.63
+TOTAL_RELATIVE_ENTROPY	51.03
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825936|ref|YP_007418867.1|vFam_5291| hypothetical protein LBA_00973 [Megavirus lba]
+gi|363539956|ref|YP_004894976.1|vFam_5291| mg925 gene product [Megavirus chiliensis]

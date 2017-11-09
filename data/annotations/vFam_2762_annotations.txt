@@ -1,0 +1,13 @@
+CLUSTER	2762
+NUM_SEQ	5
+LENGTH	141
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	70.5
+FAMILIES	{'None': 1, 'Phycodnaviridae': 4}
+GENERA	{'None': 3, 'Prymnesiovirus': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831065|ref|YP_003969708.1|vFam_2762| hypothetical protein crov076 [Cafeteria roenbergensis virus BV-PW1]
+gi|508181876|ref|YP_008052395.1|vFam_2762| hypothetical protein PGCG_00076 [Phaeocystis globosa virus]
+gi|313768043|ref|YP_004061474.1|vFam_2762| hypothetical protein BpV1_044c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|314055284|ref|YP_004063622.1|vFam_2762| hypothetical protein OtV2_189 [Ostreococcus tauri virus 2]
+gi|163955200|ref|YP_001648304.1|vFam_2762| hypothetical protein OsV5_228f [Ostreococcus virus OsV5]

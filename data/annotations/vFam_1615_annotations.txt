@@ -1,0 +1,12 @@
+CLUSTER	1615
+NUM_SEQ	4
+LENGTH	587
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	305.24
+FAMILIES	{'None': 4}
+GENERA	{'None': 4}
+FASTA SEQUENCE TITLES:
+gi|410493519|ref|YP_006908717.1|vFam_1615| hypothetical protein AbHV_ORF65 [Abalone herpesvirus Victoria/AUS/2009]
+gi|410493518|ref|YP_006908716.1|vFam_1615| putative phosphodiesterase [Abalone herpesvirus Victoria/AUS/2009]
+gi|410493473|ref|YP_006908671.1|vFam_1615| hypothetical protein AbHV_ORF21 [Abalone herpesvirus Victoria/AUS/2009]
+gi|410493456|ref|YP_006908654.1|vFam_1615| hypothetical protein AbHV_ORF4 [Abalone herpesvirus Victoria/AUS/2009]

@@ -1,0 +1,10 @@
+CLUSTER	4213
+NUM_SEQ	2
+LENGTH	111
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	57.72
+FAMILIES	{'Rhabdoviridae': 2}
+GENERA	{'Novirhabdovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|34610119|ref|NP_919034.1|vFam_4213| non-viral protein [Hirame rhabdovirus]
+gi|9628087|ref|NP_042680.1|vFam_4213| non-virion protein [Infectious hematopoietic necrosis virus]

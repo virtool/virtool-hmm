@@ -1,0 +1,10 @@
+CLUSTER	3289
+NUM_SEQ	2
+LENGTH	109
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	56.68
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825658|ref|YP_007418589.1|vFam_3289| thioredoxin-like protein [Megavirus lba]
+gi|441432508|ref|YP_007354550.1|vFam_3289| thioredoxin [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,10 @@
+CLUSTER	1503
+NUM_SEQ	2
+LENGTH	86
+RELATIVE_ENTROPY_PER_POSITION	0.57
+TOTAL_RELATIVE_ENTROPY	49.02
+FAMILIES	{'Phycodnaviridae': 1}
+GENERA	{'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531036594|ref|YP_008438231.1|vFam_1503| hypothetical protein ps_1825 [Pandoravirus salinus]
+gi|9631911|ref|NP_048700.1|vFam_1503| hypothetical protein [Paramecium bursaria Chlorella virus 1]

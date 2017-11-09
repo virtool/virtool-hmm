@@ -1,0 +1,10 @@
+CLUSTER	4543
+NUM_SEQ	2
+LENGTH	339
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	172.89
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40556035|ref|NP_955120.1|vFam_4543| CNPV097 conserved hypothetical protein [Canarypox virus]
+gi|9634741|ref|NP_039034.1|vFam_4543| hypothetical protein FPV071 [Fowlpox virus]

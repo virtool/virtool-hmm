@@ -1,0 +1,43 @@
+CLUSTER	124
+NUM_SEQ	35
+LENGTH	247
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	125.97
+FAMILIES	{'None': 2, 'Picornaviridae': 29}
+GENERA	{'Cosavirus': 3, 'None': 6, 'Aphthovirus': 3, 'Teschovirus': 1, 'Cardiovirus': 4, 'Erbovirus': 1, 'Sapelovirus': 3, 'Enterovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|488870554|ref|YP_007947659.1|vFam_124| VP2 [Canine picodicistrovirus]
+gi|239830834|ref|YP_002956120.1|vFam_124| VP2 [Human cosavirus D]
+gi|239828759|ref|YP_002956078.1|vFam_124| VP2 [Human cosavirus E]
+gi|239828783|ref|YP_002956098.1|vFam_124| VP2 [Cosavirus A]
+gi|239830821|ref|YP_002956109.1|vFam_124| VP2 [Human cosavirus B]
+gi|25121631|ref|NP_740458.1|vFam_124| VP2 [Foot-and-mouth disease virus - type O]
+gi|168480159|ref|YP_001686939.1|vFam_124| VP2 [Bovine rhinitis B virus]
+gi|25121691|ref|NP_740374.1|vFam_124| VP2 [Equine rhinitis A virus]
+gi|407868413|ref|YP_006846318.1|vFam_124| VP2 [Bovine hungarovirus 1]
+gi|25121773|ref|NP_740350.1|vFam_124| VP2 protein [Porcine teschovirus]
+gi|25121852|ref|NP_740516.1|vFam_124| 1B (VP2) [Human rhinovirus B14]
+gi|160700584|ref|YP_001552433.1|vFam_124| VP2 [Rhinovirus C]
+gi|25121642|ref|NP_740392.1|vFam_124| VP2 polypeptide [Rhinovirus A]
+gi|25121841|ref|NP_740469.1|vFam_124| coat protein VP2 [Enterovirus C]
+gi|25121819|ref|NP_740538.1|vFam_124| 1B(VP2) [Enterovirus B]
+gi|25121808|ref|NP_740527.1|vFam_124| VP2 (1B) [Enterovirus A]
+gi|282598696|ref|YP_003359167.1|vFam_124| 1B (VP2) [Enterovirus J]
+gi|25121583|ref|NP_740446.1|vFam_124| VP2 [Enterovirus E]
+gi|27262066|ref|NP_758531.1|vFam_124| 1B (VP2) [Enterovirus G]
+gi|25121920|ref|NP_740413.1|vFam_124| capsid protein 1B [Enterovirus D]
+gi|169798140|ref|YP_001718577.1|vFam_124| 1B (VP2) [Enterovirus J]
+gi|24231944|ref|NP_714930.1|vFam_124| putative VP2 [Enterovirus H]
+gi|56692983|ref|YP_164822.1|vFam_124| VP2 [Avian sapelovirus]
+gi|38018433|ref|NP_937970.1|vFam_124| VP2 [Simian sapelovirus 1]
+gi|25121797|ref|NP_740480.1|vFam_124| capsid protein 1B [Porcine sapelovirus 1]
+gi|358356450|ref|YP_004934021.1|vFam_124| unnamed protein product [Feline picornavirus]
+gi|380034921|ref|YP_005352646.1|vFam_124| VP2 [Canine picornavirus]
+gi|345461097|ref|YP_004782532.1|vFam_124| VP2 [Bat picornavirus 3]
+gi|345461279|ref|YP_004782558.1|vFam_124| VP2 [Bat picornavirus 2]
+gi|345461263|ref|YP_004782544.1|vFam_124| VP2 [Bat picornavirus 1]
+gi|25121703|ref|NP_740362.1|vFam_124| VP2 [Equine rhinitis B virus 1]
+gi|189418897|ref|YP_001950223.1|vFam_124| capsid protein VP2 [Human TMEV-like cardiovirus]
+gi|182406748|ref|YP_001816883.1|vFam_124| capsid protein VP2 [Saffold virus]
+gi|25121876|ref|NP_740425.1|vFam_124| capsid protein VP2 [Theilovirus]
+gi|25121606|ref|NP_740403.1|vFam_124| protein 1B [Encephalomyocarditis virus]

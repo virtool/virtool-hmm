@@ -1,0 +1,11 @@
+CLUSTER	4372
+NUM_SEQ	3
+LENGTH	203
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	105.56
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978116|ref|YP_003987236.1|vFam_4372| uncharacterized phosphoglycerate mutase family protein [Acanthamoeba polyphaga mimivirus]
+gi|448825211|ref|YP_007418142.1|vFam_4372| putative phosphoglycerate mutase family protein [Megavirus lba]
+gi|441432127|ref|YP_007354169.1|vFam_4372| phosphoglycerate mutase family protein [Acanthamoeba polyphaga moumouvirus]

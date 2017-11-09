@@ -1,0 +1,10 @@
+CLUSTER	4031
+NUM_SEQ	2
+LENGTH	188
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	94.0
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498706|ref|YP_008004500.1|vFam_4031| unknown similar to AMEV068 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964382|ref|NP_064850.1|vFam_4031| hypothetical protein AMV068 [Amsacta moorei entomopoxvirus 'L']

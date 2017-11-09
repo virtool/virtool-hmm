@@ -1,0 +1,14 @@
+CLUSTER	854
+NUM_SEQ	6
+LENGTH	539
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	285.67
+FAMILIES	{'Closteroviridae': 6}
+GENERA	{'Ampelovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|160707864|ref|YP_001552327.1|vFam_854| P61 [Plum bark necrosis and stem pitting-associated virus]
+gi|163932208|ref|YP_001642340.1|vFam_854| p46 [Pineapple mealybug wilt-associated virus 1]
+gi|218202723|ref|YP_002364306.1|vFam_854| 60kDa protein [Grapevine leafroll-associated virus 10]
+gi|365824252|ref|YP_004935372.1|vFam_854| unnamed protein product [Grapevine leafroll-associated virus 4]
+gi|365824259|ref|YP_004935378.1|vFam_854| unnamed protein product [Grapevine leafroll-associated virus 6]
+gi|352749714|ref|YP_004901690.1|vFam_854| p60 gene product [Grapevine leafroll-associated virus 5]

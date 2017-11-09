@@ -1,0 +1,19 @@
+CLUSTER	895
+NUM_SEQ	11
+LENGTH	83
+RELATIVE_ENTROPY_PER_POSITION	0.64
+TOTAL_RELATIVE_ENTROPY	53.12
+FAMILIES	{'Baculoviridae': 10}
+GENERA	{'Betabaculovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|11068012|ref|NP_068228.1|vFam_895| PxORF9 peptide [Plutella xylostella granulovirus]
+gi|21686670|ref|NP_663170.1|vFam_895| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|32698544|ref|NP_872459.1|vFam_895| ORF_5 [Adoxophyes orana granulovirus]
+gi|33622208|ref|NP_891853.1|vFam_895| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602246|ref|NP_148789.1|vFam_895| ORF5 similar to XcGV ORF8 [Cydia pomonella granulovirus]
+gi|556549039|ref|YP_008719953.1|vFam_895| hypothetical protein CaLGV005 [Clostera anastomosis granulovirus]
+gi|334265684|ref|YP_004376213.1|vFam_895| hypothetical protein ClanGV_gp005 [Clostera anachoreta granulovirus]
+gi|288804644|ref|YP_003429329.1|vFam_895| PrGVORF5 [Pieris rapae granulovirus]
+gi|109255278|ref|YP_654427.1|vFam_895| hypothetical protein COGV_gp006 [Choristoneura occidentalis granulovirus]
+gi|46309447|ref|YP_006337.1|vFam_895| ORF7 [Agrotis segetum granulovirus]
+gi|148368827|ref|YP_001256957.1|vFam_895| hypothetical protein SlGVgp006 [Spodoptera litura granulovirus]

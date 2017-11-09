@@ -1,0 +1,12 @@
+CLUSTER	2666
+NUM_SEQ	4
+LENGTH	131
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	68.12
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|506498310|ref|YP_008004106.1|vFam_2666| hypothetical protein CHBEV_036 [Choristoneura biennis entomopoxvirus 'L']
+gi|506498044|ref|YP_008003841.1|vFam_2666| unknown similar to AMEV006 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497729|ref|YP_008003528.1|vFam_2666| unknown similar to AMEV006 [Mythimna separata entomopoxvirus 'L']
+gi|9964320|ref|NP_064788.1|vFam_2666| hypothetical protein AMV006 [Amsacta moorei entomopoxvirus 'L']

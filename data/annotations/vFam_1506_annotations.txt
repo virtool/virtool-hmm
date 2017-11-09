@@ -1,0 +1,14 @@
+CLUSTER	1506
+NUM_SEQ	6
+LENGTH	467
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	238.17
+FAMILIES	{'Orthomyxoviridae': 6}
+GENERA	{'Influenzavirus A': 5, 'Influenzavirus B': 1}
+FASTA SEQUENCE TITLES:
+gi|8486158|ref|NP_056663.1|vFam_1506| neuraminidase [Influenza B virus]
+gi|73921266|ref|YP_308668.1|vFam_1506| neuraminidase [Influenza A virus (A/goose/Guangdong/1/1996(H5N1))]
+gi|8486128|ref|NP_040981.1|vFam_1506| neuraminidase [Influenza A virus (A/Puerto Rico/8/34(H1N1))]
+gi|73919136|ref|YP_308842.1|vFam_1506| neuraminidase [Influenza A virus (A/New York/392/2004(H3N2))]
+gi|73921304|ref|YP_308872.1|vFam_1506| neuraminidase [Influenza A virus (A/Korea/426/68(H2N2))]
+gi|32140166|ref|NP_859038.1|vFam_1506| neuraminidase [Influenza A virus (A/Hong Kong/1073/99(H9N2))]

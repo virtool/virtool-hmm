@@ -1,0 +1,10 @@
+CLUSTER	3555
+NUM_SEQ	2
+LENGTH	191
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	97.41
+FAMILIES	{'Alloherpesviridae': 1, 'Phycodnaviridae': 1}
+GENERA	{'Cyprinivirus': 1, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|282174097|ref|YP_003358199.1|vFam_3555| protein ORF60 [Anguillid herpesvirus 1]
+gi|73852607|ref|YP_293891.1|vFam_3555| hypothetical protein EhV138 [Emiliania huxleyi virus 86]

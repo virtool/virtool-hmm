@@ -1,0 +1,20 @@
+CLUSTER	386
+NUM_SEQ	12
+LENGTH	530
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	275.6
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Varicellovirus': 7, 'Iltovirus': 2, 'Mardivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|57790979|ref|YP_182383.1|vFam_386| deoxyribonuclease [Gallid herpesvirus 1]
+gi|38638245|ref|NP_944428.1|vFam_386| deoxyribonuclease [Psittacid herpesvirus 1]
+gi|12084840|ref|NP_073305.1|vFam_386| deoxyribonuclease [Meleagrid herpesvirus 1]
+gi|125745063|ref|YP_001033940.1|vFam_386| deoxyribonuclease [Gallid herpesvirus 2]
+gi|10834881|ref|NP_066842.1|vFam_386| deoxyribonuclease [Gallid herpesvirus 3]
+gi|13242441|ref|NP_077462.1|vFam_386| deoxyribonuclease [Cercopithecine herpesvirus 9]
+gi|9625922|ref|NP_040170.1|vFam_386| deoxyribonuclease [Human herpesvirus 3]
+gi|296316049|ref|YP_003662513.1|vFam_386| deoxyribonuclease [Bovine herpesvirus 5]
+gi|9629863|ref|NP_045347.1|vFam_386| deoxyribonuclease [Bovine herpesvirus 1]
+gi|270339487|ref|YP_003331569.1|vFam_386| deoxyribonuclease [Felid herpesvirus 1]
+gi|216905903|ref|YP_002333531.1|vFam_386| deoxyribonuclease [Equid herpesvirus 9]
+gi|9629778|ref|NP_045267.1|vFam_386| deoxyribonuclease [Equid herpesvirus 4]

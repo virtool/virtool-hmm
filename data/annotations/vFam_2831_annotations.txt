@@ -1,0 +1,11 @@
+CLUSTER	2831
+NUM_SEQ	3
+LENGTH	286
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	145.86
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|131840102|ref|YP_001096111.1|vFam_2831| unnamed protein product [Cyprinid herpesvirus 3]
+gi|422933841|ref|YP_007003895.1|vFam_2831| protein ORF76 [Cyprinid herpesvirus 2]
+gi|422933614|ref|YP_007003739.1|vFam_2831| protein ORF76 [Cyprinid herpesvirus 1]

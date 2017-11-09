@@ -1,0 +1,10 @@
+CLUSTER	5656
+NUM_SEQ	2
+LENGTH	73
+RELATIVE_ENTROPY_PER_POSITION	0.70
+TOTAL_RELATIVE_ENTROPY	51.1
+FAMILIES	{'Nimaviridae': 1}
+GENERA	{'Whispovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|526120011|ref|YP_008319914.1|vFam_5656| hypothetical protein [Pandoravirus dulcis]
+gi|17158579|ref|NP_478000.1|vFam_5656| wsv478 [Shrimp white spot syndrome virus]

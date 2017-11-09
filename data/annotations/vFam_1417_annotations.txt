@@ -1,0 +1,13 @@
+CLUSTER	1417
+NUM_SEQ	5
+LENGTH	145
+RELATIVE_ENTROPY_PER_POSITION	0.47
+TOTAL_RELATIVE_ENTROPY	68.15
+FAMILIES	{'Marseillevirus family': 4, 'Alloherpesviridae': 1}
+GENERA	{'None': 4, 'Cyprinivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|284504049|ref|YP_003406764.1|vFam_1417| hypothetical protein MAR_ORF009 [Marseillevirus]
+gi|327409628|ref|YP_004347048.1|vFam_1417| hypothetical protein LAU_0082 [Lausannevirus]
+gi|284504047|ref|YP_003406762.1|vFam_1417| hypothetical protein MAR_ORF007 [Marseillevirus]
+gi|282174069|ref|YP_003358171.1|vFam_1417| protein ORF32 [Anguillid herpesvirus 1]
+gi|327409615|ref|YP_004347035.1|vFam_1417| hypothetical protein LAU_0068 [Lausannevirus]

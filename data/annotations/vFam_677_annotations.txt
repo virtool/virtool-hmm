@@ -1,0 +1,18 @@
+CLUSTER	677
+NUM_SEQ	10
+LENGTH	372
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	193.44
+FAMILIES	{'Baculoviridae': 8}
+GENERA	{'Alphabaculovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|114679999|ref|YP_758449.1|vFam_677| ORF152 [Leucania separata nucleopolyhedrovirus]
+gi|74229801|ref|YP_309005.1|vFam_677| orf116 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304260|ref|YP_249728.1|vFam_677| ORF-124 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|118197588|ref|YP_874300.1|vFam_677| hypothetical protein EONV_gp107 [Ectropis obliqua nucleopolyhedrovirus]
+gi|402502186|ref|YP_006607844.1|vFam_677| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|165969121|ref|YP_001651021.1|vFam_677| hypothetical protein [Orgyia leucostigma NPV]
+gi|15320756|ref|NP_203268.1|vFam_677| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326180|ref|YP_803506.1|vFam_677| hypothetical protein AGNV_gp112 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|529153520|ref|YP_008378545.1|vFam_677| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|9630051|ref|NP_046269.1|vFam_677| hypothetical protein OpmnVgp113 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]

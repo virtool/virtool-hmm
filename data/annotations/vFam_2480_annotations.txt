@@ -1,0 +1,12 @@
+CLUSTER	2480
+NUM_SEQ	4
+LENGTH	318
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	162.18
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'None': 4}
+FASTA SEQUENCE TITLES:
+gi|14250986|ref|NP_116348.1|vFam_2480| t17 [Tupaiid herpesvirus 1]
+gi|14250990|ref|NP_116352.1|vFam_2480| t21 [Tupaiid herpesvirus 1]
+gi|14250987|ref|NP_116349.1|vFam_2480| t18 [Tupaiid herpesvirus 1]
+gi|14250989|ref|NP_116351.1|vFam_2480| t20 [Tupaiid herpesvirus 1]

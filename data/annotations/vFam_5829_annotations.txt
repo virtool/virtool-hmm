@@ -1,0 +1,10 @@
+CLUSTER	5829
+NUM_SEQ	2
+LENGTH	439
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	223.89
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159322|ref|YP_002321365.1|vFam_5829| GrBNV_gp83-like protein [Oryctes rhinoceros virus]
+gi|134303481|ref|YP_001111350.1|vFam_5829| hypothetical protein GrBNV_gp83 [Gryllus bimaculatus nudivirus]

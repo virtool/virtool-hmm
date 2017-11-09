@@ -1,0 +1,11 @@
+CLUSTER	3012
+NUM_SEQ	3
+LENGTH	422
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	215.22
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'Prymnesiovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|508182187|ref|YP_008052706.1|vFam_3012| protein kinase [Phaeocystis globosa virus]
+gi|508182148|ref|YP_008052667.1|vFam_3012| protein kinase [Phaeocystis globosa virus]
+gi|508182147|ref|YP_008052666.1|vFam_3012| serine/threonine kinase [Phaeocystis globosa virus]

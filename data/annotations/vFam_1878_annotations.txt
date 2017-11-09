@@ -1,0 +1,11 @@
+CLUSTER	1878
+NUM_SEQ	3
+LENGTH	186
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	96.72
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977421|ref|YP_003986540.1|vFam_1878| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441431949|ref|YP_007353991.1|vFam_1878| hypothetical protein Moumou_00007 [Acanthamoeba polyphaga moumouvirus]
+gi|363540763|ref|YP_004895169.1|vFam_1878| mg1118 gene product [Megavirus chiliensis]

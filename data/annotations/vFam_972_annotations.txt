@@ -1,0 +1,13 @@
+CLUSTER	972
+NUM_SEQ	5
+LENGTH	394
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	200.94
+FAMILIES	{'Alloherpesviridae': 4, 'Phycodnaviridae': 1}
+GENERA	{'Cyprinivirus': 4, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|313768073|ref|YP_004061504.1|vFam_972| hypothetical protein BpV1_074 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|282174079|ref|YP_003358181.1|vFam_972| capsid triplex subunit 1 [Anguillid herpesvirus 1]
+gi|422933604|ref|YP_007003729.1|vFam_972| putative capsid triplex subunit 1 [Cyprinid herpesvirus 1]
+gi|422933832|ref|YP_007003885.1|vFam_972| putative capsid triplex subunit 1 [Cyprinid herpesvirus 2]
+gi|131840092|ref|YP_001096101.1|vFam_972| unnamed protein product [Cyprinid herpesvirus 3]

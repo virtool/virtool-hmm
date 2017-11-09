@@ -1,0 +1,12 @@
+CLUSTER	3653
+NUM_SEQ	4
+LENGTH	72
+RELATIVE_ENTROPY_PER_POSITION	0.71
+TOTAL_RELATIVE_ENTROPY	51.12
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Betabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|46309424|ref|YP_006314.1|vFam_3653| ORF30 [Agrotis segetum granulovirus]
+gi|288804651|ref|YP_003429336.1|vFam_3653| PrGVORF12 [Pieris rapae granulovirus]
+gi|33622214|ref|NP_891859.1|vFam_3653| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602253|ref|NP_148796.1|vFam_3653| ORF12 [Cydia pomonella granulovirus]

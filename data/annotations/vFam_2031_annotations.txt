@@ -1,0 +1,12 @@
+CLUSTER	2031
+NUM_SEQ	4
+LENGTH	305
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	158.6
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|51980127|ref|YP_077194.1|vFam_2031| hypothetical protein STSV1pORF1 [Sulfolobus virus STSV1]
+gi|51980133|ref|YP_077200.1|vFam_2031| hypothetical protein STSV1pORF7 [Sulfolobus virus STSV1]
+gi|448260151|ref|YP_007348248.1|vFam_2031| hypothetical protein STSV2_04 [Sulfolobus virus STSV2]
+gi|51980131|ref|YP_077198.1|vFam_2031| hypothetical protein STSV1pORF5 [Sulfolobus virus STSV1]

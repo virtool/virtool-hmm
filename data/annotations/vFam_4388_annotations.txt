@@ -1,0 +1,10 @@
+CLUSTER	4388
+NUM_SEQ	2
+LENGTH	207
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	107.64
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|197322485|ref|YP_002154758.1|vFam_4388| putative lysine methyltransferase [Feldmannia species virus]
+gi|13242628|ref|NP_077643.1|vFam_4388| EsV-1-158 [Ectocarpus siliculosus virus 1]

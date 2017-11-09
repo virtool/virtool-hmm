@@ -1,0 +1,11 @@
+CLUSTER	4776
+NUM_SEQ	3
+LENGTH	82
+RELATIVE_ENTROPY_PER_POSITION	0.63
+TOTAL_RELATIVE_ENTROPY	51.66
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Mardivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|125745062|ref|YP_001033939.1|vFam_4776| myristylated tegument protein [Gallid herpesvirus 2]
+gi|10834880|ref|NP_066841.1|vFam_4776| myristylated tegument protein [Gallid herpesvirus 3]
+gi|12084839|ref|NP_073304.1|vFam_4776| myristylated tegument protein [Meleagrid herpesvirus 1]

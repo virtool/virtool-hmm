@@ -1,0 +1,11 @@
+CLUSTER	3048
+NUM_SEQ	3
+LENGTH	100
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 2, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|163955229|ref|YP_001648333.1|vFam_3048| hypothetical protein OsV5_257f [Ostreococcus virus OsV5]
+gi|314055316|ref|YP_004063654.1|vFam_3048| hypothetical protein OtV2_221 [Ostreococcus tauri virus 2]
+gi|313844202|ref|YP_004061865.1|vFam_3048| hypothetical protein OlV1_233 [Ostreococcus lucimarinus virus OlV1]

@@ -1,0 +1,11 @@
+CLUSTER	3608
+NUM_SEQ	3
+LENGTH	87
+RELATIVE_ENTROPY_PER_POSITION	0.58
+TOTAL_RELATIVE_ENTROPY	50.46
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Orthopoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|20178565|ref|NP_619986.1|vFam_3608| CPXV205 protein [Cowpox virus]
+gi|113195375|ref|YP_717505.1|vFam_3608| hypothetical protein TATV_DAH68_198 [Taterapox virus]
+gi|22164594|ref|NP_671678.1|vFam_3608| C5R [Ectromelia virus]

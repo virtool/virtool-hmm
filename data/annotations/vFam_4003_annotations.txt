@@ -1,0 +1,11 @@
+CLUSTER	4003
+NUM_SEQ	3
+LENGTH	61
+RELATIVE_ENTROPY_PER_POSITION	0.84
+TOTAL_RELATIVE_ENTROPY	51.24
+FAMILIES	{'Adenoviridae': 2}
+GENERA	{'Aviadenovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|308222737|ref|YP_003933574.1|vFam_4003| unnamed protein product [Turkey adenovirus 1]
+gi|555928214|ref|YP_008719845.1|vFam_4003| ORF1B [Turkey adenovirus 5]
+gi|56160772|ref|AP_000403.1|vFam_4003| ORF1B [Fowl adenovirus A]

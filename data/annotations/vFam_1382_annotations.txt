@@ -1,0 +1,11 @@
+CLUSTER	1382
+NUM_SEQ	3
+LENGTH	120
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	60.0
+FAMILIES	{'Asfarviridae': 3}
+GENERA	{'Asfivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9628122|ref|NP_042708.1|vFam_1382| pU104L precursor [African swine fever virus]
+gi|9628125|ref|NP_042711.1|vFam_1382| pY118L precursor [African swine fever virus]
+gi|9628123|ref|NP_042709.1|vFam_1382| pXP124L precursor [African swine fever virus]

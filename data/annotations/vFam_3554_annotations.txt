@@ -1,0 +1,10 @@
+CLUSTER	3554
+NUM_SEQ	2
+LENGTH	325
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	169.0
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|441432225|ref|YP_007354267.1|vFam_3554| putative low complexity protein [Acanthamoeba polyphaga moumouvirus]
+gi|311977643|ref|YP_003986763.1|vFam_3554| hypothetical protein [Acanthamoeba polyphaga mimivirus]

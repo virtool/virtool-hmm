@@ -1,0 +1,23 @@
+CLUSTER	446
+NUM_SEQ	15
+LENGTH	444
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	230.88
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531701|ref|YP_784227.1|vFam_446| serine/threonine protein kinase [Nile crocodilepox virus]
+gi|40556076|ref|NP_955161.1|vFam_446| CNPV138 putative serine/threonine protein kinase, virus assembly [Canarypox virus]
+gi|9634781|ref|NP_039074.1|vFam_446| Serine/threonine protein kinase, virus assembly [Fowlpox virus]
+gi|41057565|ref|NP_958038.1|vFam_446| ORF130 protein kinase [Bovine papular stomatitis virus]
+gi|113195227|ref|YP_717357.1|vFam_446| ser/thr kinase [Taterapox virus]
+gi|345107213|ref|YP_004821378.1|vFam_446| Ser/Thr kinase [Yoka poxvirus]
+gi|377829942|ref|YP_005296229.1|vFam_446| unnamed protein product [Cotia virus SPAn232]
+gi|157939646|ref|YP_001497018.1|vFam_446| serine/threonine protein kinase [Tanapox virus]
+gi|38229188|ref|NP_938281.1|vFam_446| 25L [Yaba monkey tumor virus]
+gi|9633831|ref|NP_051909.1|vFam_446| gp020L [Rabbit fibroma virus]
+gi|15150464|ref|NP_150459.1|vFam_446| LSDV025 putative ser/thr protein kinase [Lumpy skin disease virus NI-2490]
+gi|211956304|ref|YP_002302373.1|vFam_446| serine/threonine protein kinase [Deerpox virus W-1170-84]
+gi|18640108|ref|NP_570182.1|vFam_446| SPV022 putative serine/threonine protein kinase [Swinepox virus]
+gi|571797937|ref|YP_008658436.1|vFam_446| serine/threonine protein kinase [Squirrelpox virus]
+gi|9628949|ref|NP_043968.1|vFam_446| MC017L [Molluscum contagiosum virus subtype 1]

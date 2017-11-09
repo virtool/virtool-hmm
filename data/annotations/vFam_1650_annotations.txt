@@ -1,0 +1,14 @@
+CLUSTER	1650
+NUM_SEQ	6
+LENGTH	130
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	70.2
+FAMILIES	{'Anelloviridae': 6}
+GENERA	{'Betatorquevirus': 6}
+FASTA SEQUENCE TITLES:
+gi|295441880|ref|YP_003587894.1|vFam_1650| hypothetical protein TTMV5_gp3 [Torque teno mini virus 5]
+gi|295441911|ref|YP_003587917.1|vFam_1650| hypothetical protein TTMV1_gp3 [Torque teno mini virus 1]
+gi|295441876|ref|YP_003587891.1|vFam_1650| hypothetical protein TTMV3_gp3 [Torque teno mini virus 3]
+gi|295413985|ref|YP_003587885.1|vFam_1650| hypothetical protein TTMV2_gp3 [Torque teno mini virus 2]
+gi|295441904|ref|YP_003587912.1|vFam_1650| hypothetical protein TTMV6_gp3 [Torque teno mini virus 6]
+gi|9634960|ref|NP_054657.1|vFam_1650| ORF3 [Torque teno mini virus 9]

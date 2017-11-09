@@ -1,0 +1,15 @@
+CLUSTER	1077
+NUM_SEQ	7
+LENGTH	125
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	63.75
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|96979900|ref|YP_611110.1|vFam_1077| hypothetical protein APNV_p144 [Antheraea pernyi nucleopolyhedrovirus]
+gi|37651434|ref|NP_932611.1|vFam_1077| hypothetical protein CFDNVgORF2 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|15320660|ref|NP_203172.1|vFam_1077| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|9629943|ref|NP_046161.1|vFam_1077| hypothetical protein OpmnVgp005 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153625|ref|YP_008378650.1|vFam_1077| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|571031341|ref|YP_008992238.1|vFam_1077| hypothetical protein chmu147 [Choristoneura murinana alphabaculovirus]
+gi|529153462|ref|YP_008378502.1|vFam_1077| hypothetical protein [Choristoneura rosaceana alphabaculovirus]

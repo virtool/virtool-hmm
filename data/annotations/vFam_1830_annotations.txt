@@ -1,0 +1,13 @@
+CLUSTER	1830
+NUM_SEQ	5
+LENGTH	677
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	365.58
+FAMILIES	{'Reoviridae': 5}
+GENERA	{'Orthoreovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|343098554|ref|YP_004769551.1|vFam_1830| outer shell protein [Baboon orthoreovirus]
+gi|23309031|ref|NP_694683.1|vFam_1830| polyprotein [Mammalian orthoreovirus 3]
+gi|298201178|ref|YP_003717775.1|vFam_1830| major outer capsid protein [Broome virus]
+gi|459014590|ref|YP_007507320.1|vFam_1830| major outer capsid [Melaka orthoreovirus]
+gi|323409494|ref|YP_004226525.1|vFam_1830| mu-B protein [Avian orthoreovirus]

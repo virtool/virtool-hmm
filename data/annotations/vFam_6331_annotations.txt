@@ -1,0 +1,10 @@
+CLUSTER	6331
+NUM_SEQ	2
+LENGTH	100
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	52.0
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|356640551|ref|YP_004933993.1|vFam_6331| hypothetical protein cy248 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556670|ref|YP_068304.1|vFam_6331| rh217 [Macacine herpesvirus 3]

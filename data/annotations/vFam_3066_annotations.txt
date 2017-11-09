@@ -1,0 +1,11 @@
+CLUSTER	3066
+NUM_SEQ	3
+LENGTH	2916
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	1516.32
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977676|ref|YP_003986796.1|vFam_3066| kinesin-like protein [Acanthamoeba polyphaga mimivirus]
+gi|448825597|ref|YP_007418528.1|vFam_3066| kinesin-like protein [Megavirus lba]
+gi|441432464|ref|YP_007354506.1|vFam_3066| hypothetical protein Moumou_00536 [Acanthamoeba polyphaga moumouvirus]

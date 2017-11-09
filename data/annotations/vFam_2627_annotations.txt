@@ -1,0 +1,12 @@
+CLUSTER	2627
+NUM_SEQ	4
+LENGTH	77
+RELATIVE_ENTROPY_PER_POSITION	0.69
+TOTAL_RELATIVE_ENTROPY	53.13
+FAMILIES	{'Potyviridae': 4}
+GENERA	{'Ipomovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|426580899|ref|YP_006405427.2|vFam_2627| PIPO, partial [Cassava brown streak virus]
+gi|390504025|ref|YP_006423971.1|vFam_2627| PIPO, partial [Ugandan cassava brown streak virus]
+gi|390371013|ref|YP_006405420.1|vFam_2627| PIPO, partial [Squash vein yellowing virus]
+gi|390118490|ref|YP_006395336.1|vFam_2627| PIPO, partial [Cucumber vein yellowing virus]

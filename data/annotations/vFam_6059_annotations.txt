@@ -1,0 +1,10 @@
+CLUSTER	6059
+NUM_SEQ	2
+LENGTH	160
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	80.0
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'None': 1, 'Cytomegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448824919|ref|YP_007417851.1|vFam_6059| gp84.1 [Caviid herpesvirus 2]
+gi|356640414|ref|YP_004933856.1|vFam_6059| hypothetical protein cy120 [Cynomolgus macaque cytomegalovirus strain Ottawa]

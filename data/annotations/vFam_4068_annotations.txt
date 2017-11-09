@@ -1,0 +1,10 @@
+CLUSTER	4068
+NUM_SEQ	2
+LENGTH	178
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	92.56
+FAMILIES	{'Closteroviridae': 1}
+GENERA	{'Closterovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|563398784|ref|YP_008858538.1|vFam_4068| p18 [Carnation yellow fleck virus]
+gi|9627411|ref|NP_041877.1|vFam_4068| RNA silencing suppressor [Beet yellows virus]

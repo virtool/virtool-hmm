@@ -1,0 +1,11 @@
+CLUSTER	2520
+NUM_SEQ	3
+LENGTH	124
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	65.72
+FAMILIES	{'Picornaviridae': 2}
+GENERA	{'Parechovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|25121915|ref|NP_740734.1|vFam_2520| 3A protein [Human parechovirus]
+gi|512965476|ref|YP_008119841.1|vFam_2520| 3A protein [Sebokele virus 1]
+gi|23968332|ref|NP_705881.1|vFam_2520| 3A [Ljungan virus]

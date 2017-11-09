@@ -1,0 +1,10 @@
+CLUSTER	5889
+NUM_SEQ	2
+LENGTH	88
+RELATIVE_ENTROPY_PER_POSITION	0.58
+TOTAL_RELATIVE_ENTROPY	51.04
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|359946474|ref|YP_004936006.1|vFam_5889| protein UL30 [Cercopithecine herpesvirus 5]
+gi|356640339|ref|YP_004933781.1|vFam_5889| protein UL30 [Cynomolgus macaque cytomegalovirus strain Ottawa]

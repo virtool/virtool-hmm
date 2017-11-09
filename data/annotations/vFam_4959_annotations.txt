@@ -1,0 +1,11 @@
+CLUSTER	4959
+NUM_SEQ	3
+LENGTH	61
+RELATIVE_ENTROPY_PER_POSITION	0.83
+TOTAL_RELATIVE_ENTROPY	50.63
+FAMILIES	{'Phycodnaviridae': 1, 'Nimaviridae': 2}
+GENERA	{'Chlorovirus': 1, 'Whispovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|155370571|ref|YP_001426105.1|vFam_4959| hypothetical protein FR483_n473L [Paramecium bursaria Chlorella virus FR483]
+gi|17158577|ref|NP_477998.1|vFam_4959| wsv476 [Shrimp white spot syndrome virus]
+gi|17158576|ref|NP_477997.1|vFam_4959| wsv475 [Shrimp white spot syndrome virus]

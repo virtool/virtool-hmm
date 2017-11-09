@@ -1,0 +1,10 @@
+CLUSTER	6457
+NUM_SEQ	2
+LENGTH	95
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	50.35
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329520|ref|YP_001604319.1|vFam_6457| hypothetical protein AFV8_gp38 [Acidianus filamentous virus 8]
+gi|162329460|ref|YP_001604260.1|vFam_6457| hypothetical protein AFV7_gp36 [Acidianus filamentous virus 7]

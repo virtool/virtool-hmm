@@ -1,0 +1,19 @@
+CLUSTER	674
+NUM_SEQ	11
+LENGTH	134
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	69.68
+FAMILIES	{'Baculoviridae': 10}
+GENERA	{'Betabaculovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|285002448|ref|YP_003422512.1|vFam_674| hypothetical protein PsunGV_gp173 [Pseudaletia unipuncta granulovirus]
+gi|164519364|ref|YP_001649151.1|vFam_674| hypothetical protein HaGV_gp169 [Helicoverpa armigera granulovirus]
+gi|11068115|ref|NP_068331.1|vFam_674| PxORF112 peptide [Plutella xylostella granulovirus]
+gi|46309332|ref|YP_006222.1|vFam_674| ORF122 [Agrotis segetum granulovirus]
+gi|410493694|ref|YP_006908632.1|vFam_674| hypothetical protein [Epinotia aporema granulovirus]
+gi|556549148|ref|YP_008720062.1|vFam_674| hypothetical protein CaLGV115 [Clostera anastomosis granulovirus]
+gi|109255381|ref|YP_654530.1|vFam_674| hypothetical protein COGV_gp109 [Choristoneura occidentalis granulovirus]
+gi|21686787|ref|NP_663287.1|vFam_674| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|288804752|ref|YP_003429437.1|vFam_674| PrGVORF113 [Pieris rapae granulovirus]
+gi|33622321|ref|NP_891968.1|vFam_674| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602371|ref|NP_148918.1|vFam_674| ORF134 similar to AcMNPV ORF53 [Cydia pomonella granulovirus]

@@ -1,0 +1,12 @@
+CLUSTER	1603
+NUM_SEQ	4
+LENGTH	192
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	97.92
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|20026612|ref|NP_612654.1|vFam_1603| membrane glycoprotein UL9 [Panine herpesvirus 2]
+gi|359946449|ref|YP_004935981.1|vFam_1603| membrane protein RL11J [Cercopithecine herpesvirus 5]
+gi|356640306|ref|YP_004933748.1|vFam_1603| putative membrane glycoprotein UL6 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556480|ref|YP_068114.1|vFam_1603| rh20 [Macacine herpesvirus 3]

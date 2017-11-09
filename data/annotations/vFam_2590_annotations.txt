@@ -1,0 +1,12 @@
+CLUSTER	2590
+NUM_SEQ	4
+LENGTH	153
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	79.56
+FAMILIES	{'Luteoviridae': 3}
+GENERA	{'Luteovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|512721863|ref|YP_008083728.1|vFam_2590| movement protein P4 [Barley yellow dwarf virus Ker-II]
+gi|29366749|ref|NP_813793.1|vFam_2590| movement protein P4 [Barley yellow dwarf virus-GAV]
+gi|30146776|ref|NP_840016.1|vFam_2590| putative movement protein P4 [Barley yellow dwarf virus-PAV]
+gi|9634105|ref|NP_037639.1|vFam_2590| movement protein P4 [Barley yellow dwarf virus-PAS]

@@ -1,0 +1,14 @@
+CLUSTER	1186
+NUM_SEQ	6
+LENGTH	200
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	104.0
+FAMILIES	{'Baculoviridae': 5, 'Ascoviridae': 1}
+GENERA	{'Ascovirus': 1, 'Alphabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|74229748|ref|YP_308952.1|vFam_1186| hypothetical protein TNSV_gp062 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|116326776|ref|YP_803313.1|vFam_1186| hypothetical protein TNAV2c_gp090 [Trichoplusia ni ascovirus 2c]
+gi|68304211|ref|YP_249679.1|vFam_1186| ORF-75 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|438000386|ref|YP_007250491.1|vFam_1186| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|23577919|ref|NP_703074.1|vFam_1186| hypothetical protein [Rachiplusia ou MNPV]
+gi|9627827|ref|NP_054114.1|vFam_1186| AcOrf-84 peptide [Autographa californica nucleopolyhedrovirus]

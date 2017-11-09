@@ -1,0 +1,10 @@
+CLUSTER	3461
+NUM_SEQ	2
+LENGTH	160
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	81.6
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Lymphocystivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|51870103|ref|YP_073656.1|vFam_3461| hypothetical protein LDVICp150 [Lymphocystis disease virus - isolate China]
+gi|13358475|ref|NP_078641.1|vFam_3461| hypothetical protein LCDV1gp019 [Lymphocystis disease virus 1]

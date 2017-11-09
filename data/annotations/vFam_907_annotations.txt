@@ -1,0 +1,15 @@
+CLUSTER	907
+NUM_SEQ	7
+LENGTH	673
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	356.69
+FAMILIES	{'Partitiviridae': 3}
+GENERA	{'Partitivirus': 2, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|81355156|ref|YP_392481.1|vFam_907| putative coat protein [Rosellinia necatrix partitivirus 1-W8]
+gi|20522145|ref|NP_620660.1|vFam_907| putative capsid protein [Rhizoctonia solani virus 717]
+gi|255987651|ref|YP_003104769.1|vFam_907| putative capsid protein [Primula malacoides virus China/Mar2007]
+gi|482677388|ref|YP_007891055.1|vFam_907| coat protein [Dill cryptic virus 2]
+gi|482651012|ref|YP_007889826.1|vFam_907| coat protein [Hop trefoil cryptic virus 2]
+gi|482650999|ref|YP_007889824.1|vFam_907| coat protein [Red clover cryptic virus 2]
+gi|482650989|ref|YP_007889822.1|vFam_907| coat protein [White clover cryptic virus 2]

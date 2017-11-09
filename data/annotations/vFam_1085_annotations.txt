@@ -1,0 +1,10 @@
+CLUSTER	1085
+NUM_SEQ	2
+LENGTH	142
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	72.42
+FAMILIES	{'Paramyxoviridae': 1, 'Ascoviridae': 1}
+GENERA	{'Avulavirus': 1, 'Ascovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|116326792|ref|YP_803329.1|vFam_1085| hypothetical protein TNAV2c_gp106 [Trichoplusia ni ascovirus 2c]
+gi|15081572|ref|NP_150061.1|vFam_1085| small hydropobic protein [Avian paramyxovirus 6]

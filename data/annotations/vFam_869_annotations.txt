@@ -1,0 +1,14 @@
+CLUSTER	869
+NUM_SEQ	6
+LENGTH	119
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	59.5
+FAMILIES	{'Caliciviridae': 5, 'Phycodnaviridae': 1}
+GENERA	{'None': 2, 'Lagovirus': 1, 'Chlorovirus': 1, 'Vesivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|157953950|ref|YP_001498841.1|vFam_869| hypothetical protein AR158_C760L [Paramecium bursaria Chlorella virus AR158]
+gi|25121578|ref|NP_740330.1|vFam_869| VPg [Rabbit hemorrhagic disease virus]
+gi|28392846|ref|NP_786908.1|vFam_869| putative VPg [Canine calicivirus]
+gi|28268485|ref|NP_783307.1|vFam_869| VPg [Feline calicivirus]
+gi|28392837|ref|NP_786917.1|vFam_869| putative VPg [Walrus calicivirus]
+gi|28392823|ref|NP_786894.1|vFam_869| putative VPg [Vesicular exanthema of swine virus]

@@ -1,0 +1,12 @@
+CLUSTER	3400
+NUM_SEQ	4
+LENGTH	230
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	115.0
+FAMILIES	{'Papillomaviridae': 4}
+GENERA	{'Betapapillomavirus': 4}
+FASTA SEQUENCE TITLES:
+gi|338209362|ref|YP_004646335.1|vFam_3400| E4 [Macaca fascicularis papillomavirus 2]
+gi|9627150|ref|NP_041369.1|vFam_3400| E4 [Human papillomavirus type 5]
+gi|27531791|ref|NP_775309.1|vFam_3400| E4 [Human papillomavirus type 92]
+gi|37595914|ref|NP_932323.1|vFam_3400| E4 [Human papillomavirus type 96]

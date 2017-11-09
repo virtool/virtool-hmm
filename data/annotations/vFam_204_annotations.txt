@@ -1,0 +1,32 @@
+CLUSTER	204
+NUM_SEQ	24
+LENGTH	366
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	186.66
+FAMILIES	{'Adenoviridae': 23}
+GENERA	{'None': 1, 'Mastadenovirus': 18, 'Atadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|227122423|ref|YP_002822209.1|vFam_204| 52k [Murine adenovirus 3]
+gi|56160681|ref|AP_000344.1|vFam_204| 52K [Murine adenovirus A]
+gi|9630099|ref|NP_046316.1|vFam_204| hypothetical protein BAdVBgp09 [Bovine adenovirus B]
+gi|46852410|ref|YP_009203.1|vFam_204| 52K [Porcine adenovirus 3]
+gi|345462100|ref|YP_004782102.1|vFam_204| unnamed protein product [Bat adenovirus 2]
+gi|56160847|ref|AP_000505.1|vFam_204| 52K [Human adenovirus 1]
+gi|190340983|ref|YP_001974448.1|vFam_204| encapsidation protein 52K [Human adenovirus D]
+gi|386522691|ref|YP_006272956.1|vFam_204| 52/55kDa [Chimpanzee adenovirus Y25]
+gi|56160882|ref|AP_000541.1|vFam_204| 52K [Human adenovirus 7]
+gi|496838697|ref|YP_007518315.1|vFam_204| 52K [Titi monkey adenovirus ECC-2011]
+gi|460042645|ref|YP_007518072.1|vFam_204| 52K [Simian adenovirus 20]
+gi|327415378|ref|YP_004300206.1|vFam_204| unnamed protein product [Simian adenovirus 49]
+gi|56160444|ref|AP_000114.1|vFam_204| 52K [Human adenovirus A]
+gi|540155834|ref|YP_008520228.1|vFam_204| 52K [Simian adenovirus 18]
+gi|485191065|ref|YP_007906001.1|vFam_204| 52K [Simian adenovirus C]
+gi|61602091|ref|YP_213968.1|vFam_204| 52K [Simian adenovirus 1]
+gi|51556701|ref|YP_068062.1|vFam_204| 52K [Tree shrew adenovirus 1]
+gi|13487864|ref|NP_108660.1|vFam_204| 52 kDa protein [Porcine adenovirus C]
+gi|52801687|ref|YP_094034.1|vFam_204| 52K [Bovine adenovirus A]
+gi|56158834|ref|AP_000008.1|vFam_204| 52K [Ovine adenovirus A]
+gi|56158886|ref|AP_000082.1|vFam_204| 52K [Duck adenovirus A]
+gi|21450899|ref|NP_659517.1|vFam_204| 52K [Ovine adenovirus D]
+gi|440382969|ref|YP_007347000.1|vFam_204| 52K [Bovine adenovirus 6]
+gi|13242707|ref|NP_077391.1|vFam_204| 52K protein [Bovine adenovirus D]

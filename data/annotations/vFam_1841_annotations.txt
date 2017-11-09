@@ -1,0 +1,12 @@
+CLUSTER	1841
+NUM_SEQ	4
+LENGTH	179
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	89.5
+FAMILIES	{'Arteriviridae': 4}
+GENERA	{'Arterivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|15426265|ref|NP_203549.1|vFam_1841| ORF6 [Simian hemorrhagic fever virus]
+gi|15426262|ref|NP_203546.1|vFam_1841| ORF3 [Simian hemorrhagic fever virus]
+gi|9627976|ref|NP_042576.1|vFam_1841| glycoprotein GP4 [Lactate dehydrogenase-elevating virus]
+gi|9630810|ref|NP_047410.1|vFam_1841| GP4 [Porcine reproductive and respiratory syndrome virus]

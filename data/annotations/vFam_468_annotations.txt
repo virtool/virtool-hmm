@@ -1,0 +1,21 @@
+CLUSTER	468
+NUM_SEQ	13
+LENGTH	132
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	66.0
+FAMILIES	{'Adenoviridae': 13}
+GENERA	{'Mastadenovirus': 13}
+FASTA SEQUENCE TITLES:
+gi|13487882|ref|NP_108676.1|vFam_468| 146R protein [Porcine adenovirus C]
+gi|160409927|ref|YP_001551772.1|vFam_468| control protein E4orf6/7 [Human adenovirus C]
+gi|190341007|ref|YP_001974469.1|vFam_468| control protein E4orf6/7 [Human adenovirus D]
+gi|386522709|ref|YP_006272974.1|vFam_468| E4Orf6/7 [Chimpanzee adenovirus Y25]
+gi|197944760|ref|YP_002213835.1|vFam_468| control protein E4orf6/7 [Human adenovirus B]
+gi|56160628|ref|AP_000293.1|vFam_468| E4 ORF6/7 [Simian adenovirus 21]
+gi|460042664|ref|YP_007518091.1|vFam_468| E4 orf6/7 [Simian adenovirus 20]
+gi|51518844|ref|YP_067931.1|vFam_468| E4 ORF6/7 [Simian adenovirus 3]
+gi|327415398|ref|YP_004300225.1|vFam_468| unnamed protein product [Simian adenovirus 49]
+gi|56160466|ref|AP_000136.1|vFam_468| E4 ORF6/7 [Human adenovirus A]
+gi|61602113|ref|YP_213990.1|vFam_468| E4 ORF6/7 [Simian adenovirus 1]
+gi|540155850|ref|YP_008520244.1|vFam_468| E4 orf6/7 [Simian adenovirus 18]
+gi|33867688|ref|NP_040877.2|vFam_468| control protein E4orf6/7 [Human adenovirus F]

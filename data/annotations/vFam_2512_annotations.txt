@@ -1,0 +1,12 @@
+CLUSTER	2512
+NUM_SEQ	4
+LENGTH	275
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	143.0
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|359946595|ref|YP_004936128.1|vFam_2512| membrane protein US18 [Cercopithecine herpesvirus 5]
+gi|356640534|ref|YP_004933976.1|vFam_2512| membrane protein US18 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139328|ref|YP_081603.1|vFam_2512| membrane protein US18 [Human herpesvirus 5]
+gi|20026749|ref|NP_612791.1|vFam_2512| membrane protein US18 [Panine herpesvirus 2]

@@ -1,0 +1,10 @@
+CLUSTER	3606
+NUM_SEQ	2
+LENGTH	138
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	70.38
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|506498750|ref|YP_008004544.1|vFam_3606| hypothetical protein CHREV_140 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498139|ref|YP_008003936.1|vFam_3606| hypothetical protein AHEV_113 [Adoxophyes honmai entomopoxvirus 'L']

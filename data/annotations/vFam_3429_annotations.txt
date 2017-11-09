@@ -1,0 +1,11 @@
+CLUSTER	3429
+NUM_SEQ	3
+LENGTH	336
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	168.0
+FAMILIES	{'None': 2, 'Phycodnaviridae': 1}
+GENERA	{'None': 2, 'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831447|ref|YP_003970090.1|vFam_3429| putative ubiquitin carboxyl-terminal hydrolase [Cafeteria roenbergensis virus BV-PW1]
+gi|508182050|ref|YP_008052569.1|vFam_3429| ubiquitin specific peptidase C19 [Phaeocystis globosa virus]
+gi|448825561|ref|YP_007418492.1|vFam_3429| putative ubiquitin carboxyl-terminal hydrolase [Megavirus lba]

@@ -1,0 +1,12 @@
+CLUSTER	598
+NUM_SEQ	4
+LENGTH	231
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	120.12
+FAMILIES	{'None': 2, 'Phycodnaviridae': 1, 'Iridoviridae': 1}
+GENERA	{'None': 2, 'Phaeovirus': 1, 'Ranavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831060|ref|YP_003969703.1|vFam_598| putative tRNA pseudouridine 5S synthase [Cafeteria roenbergensis virus BV-PW1]
+gi|13242605|ref|NP_077619.1|vFam_598| EsV-1-134 [Ectocarpus siliculosus virus 1]
+gi|448825665|ref|YP_007418596.1|vFam_598| putative hydrolase [Megavirus lba]
+gi|56692768|ref|YP_164226.1|vFam_598| hypothetical protein ORF131R [Singapore grouper iridovirus]

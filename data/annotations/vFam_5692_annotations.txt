@@ -1,0 +1,10 @@
+CLUSTER	5692
+NUM_SEQ	2
+LENGTH	234
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	119.34
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825787|ref|YP_007418718.1|vFam_5692| putative ankyrin repeat protein [Megavirus lba]
+gi|363539805|ref|YP_004894843.1|vFam_5692| mg792 gene product [Megavirus chiliensis]

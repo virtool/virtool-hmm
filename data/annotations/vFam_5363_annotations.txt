@@ -1,0 +1,10 @@
+CLUSTER	5363
+NUM_SEQ	2
+LENGTH	371
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	189.21
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531037017|ref|YP_008438659.1|vFam_5363| phospho-2-dehydro-3-deoxyheptonate aldolase [Pandoravirus salinus]
+gi|526120001|ref|YP_008319904.1|vFam_5363| phospho-2-dehydro-3-deoxyheptonate aldolase [Pandoravirus dulcis]

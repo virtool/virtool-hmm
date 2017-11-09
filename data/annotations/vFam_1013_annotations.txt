@@ -1,0 +1,11 @@
+CLUSTER	1013
+NUM_SEQ	3
+LENGTH	216
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	108.0
+FAMILIES	{'None': 1, 'Rhabdoviridae': 2}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|310831109|ref|YP_003969752.1|vFam_1013| putative fatty acid hydroxylase [Cafeteria roenbergensis virus BV-PW1]
+gi|256535779|ref|YP_003126911.1|vFam_1013| matrix protein [Drosophila melanogaster sigmavirus AP30]
+gi|552558695|ref|YP_008686599.1|vFam_1013| matrix protein [Drosophila obscura sigmavirus 10A]

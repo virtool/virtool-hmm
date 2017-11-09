@@ -1,0 +1,10 @@
+CLUSTER	5164
+NUM_SEQ	2
+LENGTH	623
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	323.96
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Iltovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|57790998|ref|YP_182402.1|vFam_5164| tegument protein VP13/14 [Gallid herpesvirus 1]
+gi|38638262|ref|NP_944445.1|vFam_5164| tegument protein VP13/14 [Psittacid herpesvirus 1]

@@ -1,0 +1,11 @@
+CLUSTER	2710
+NUM_SEQ	3
+LENGTH	103
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	52.53
+FAMILIES	{'None': 1, 'Phycodnaviridae': 2}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|310831367|ref|YP_003970010.1|vFam_2710| hypothetical protein crov377 [Cafeteria roenbergensis virus BV-PW1]
+gi|260666000|ref|YP_003212954.1|vFam_2710| hypothetical protein H665_p131 [Ostreococcus tauri virus 1]
+gi|314055216|ref|YP_004063554.1|vFam_2710| hypothetical protein OtV2_121 [Ostreococcus tauri virus 2]

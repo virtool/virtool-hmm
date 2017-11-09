@@ -1,0 +1,11 @@
+CLUSTER	5077
+NUM_SEQ	3
+LENGTH	76
+RELATIVE_ENTROPY_PER_POSITION	0.67
+TOTAL_RELATIVE_ENTROPY	50.92
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'Chlorovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|155371122|ref|YP_001426656.1|vFam_5077| hypothetical protein ATCV1_z175R [Acanthocystis turfacea Chlorella virus 1]
+gi|157953659|ref|YP_001498550.1|vFam_5077| hypothetical protein AR158_C469R [Paramecium bursaria Chlorella virus AR158]
+gi|9631949|ref|NP_048738.1|vFam_5077| hypothetical protein [Paramecium bursaria Chlorella virus 1]

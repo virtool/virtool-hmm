@@ -1,0 +1,11 @@
+CLUSTER	3224
+NUM_SEQ	3
+LENGTH	124
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	62.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|114679954|ref|YP_758404.1|vFam_3224| ORF107 [Leucania separata nucleopolyhedrovirus]
+gi|531036400|ref|YP_008438037.1|vFam_3224| hypothetical protein ps_1631 [Pandoravirus salinus]
+gi|526119673|ref|YP_008319576.1|vFam_3224| hypothetical protein [Pandoravirus dulcis]

@@ -1,0 +1,13 @@
+CLUSTER	861
+NUM_SEQ	5
+LENGTH	573
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	303.69
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'None': 1, 'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|448824865|ref|YP_007417797.1|vFam_861| GP25 [Caviid herpesvirus 2]
+gi|359946470|ref|YP_004936002.1|vFam_861| tegument protein UL25 [Cercopithecine herpesvirus 5]
+gi|356640329|ref|YP_004933771.1|vFam_861| tegument phosphoprotein UL25 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086513|ref|YP_004940197.1|vFam_861| tegument protein UL25 [Saimiriine herpesvirus 3]
+gi|360040917|ref|YP_004940051.1|vFam_861| tegument protein UL25 [Aotine herpesvirus 1]

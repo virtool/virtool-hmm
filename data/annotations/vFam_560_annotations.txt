@@ -1,0 +1,21 @@
+CLUSTER	560
+NUM_SEQ	13
+LENGTH	288
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	152.64
+FAMILIES	{'Herpesviridae': 13}
+GENERA	{'Macavirus': 2, 'None': 1, 'Lymphocryptovirus': 3, 'Rhadinovirus': 6, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|321496605|ref|YP_004207890.1|vFam_560| dUTPase [Rodent herpesvirus Peru]
+gi|9629584|ref|NP_044891.1|vFam_560| deoxyuridine triphosphatase [Murid herpesvirus 4]
+gi|24943140|ref|NP_733902.1|vFam_560| ORF48 [callitrichine herpesvirus 3]
+gi|82503220|ref|YP_401664.1|vFam_560| deoxyuridine 5'-triphosphate nucleotidohydrolase [Human herpesvirus 4]
+gi|51518035|ref|YP_067960.1|vFam_560| BLLF3 [Macacine herpesvirus 4]
+gi|83642891|ref|YP_438178.1|vFam_560| ORF54 [Ovine herpesvirus 2]
+gi|10140976|ref|NP_065553.1|vFam_560| deoxyuridine triphosphatase [Alcelaphine herpesvirus 1]
+gi|139472845|ref|YP_001129407.1|vFam_560| ORF54 [Human herpesvirus 8]
+gi|9631245|ref|NP_048026.1|vFam_560| orf 54 [Ateline herpesvirus 3]
+gi|9626010|ref|NP_040256.1|vFam_560| dUTPase [Saimiriine herpesvirus 2]
+gi|13095631|ref|NP_076546.1|vFam_560| dUTPase [Bovine herpesvirus 4]
+gi|18653860|ref|NP_570794.1|vFam_560| dUTPase [Macacine herpesvirus 5]
+gi|9628057|ref|NP_042651.1|vFam_560| ORF 54 [Equid herpesvirus 2]

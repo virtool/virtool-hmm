@@ -1,0 +1,10 @@
+CLUSTER	3968
+NUM_SEQ	2
+LENGTH	337
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	171.87
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Lymphocystivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|51870130|ref|YP_073683.1|vFam_3968| hypothetical protein LDVICp178 [Lymphocystis disease virus - isolate China]
+gi|51870086|ref|YP_073639.1|vFam_3968| hypothetical protein LDVICp133 [Lymphocystis disease virus - isolate China]

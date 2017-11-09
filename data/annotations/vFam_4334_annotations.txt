@@ -1,0 +1,11 @@
+CLUSTER	4334
+NUM_SEQ	3
+LENGTH	259
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	132.09
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977850|ref|YP_003986970.1|vFam_4334| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432280|ref|YP_007354322.1|vFam_4334| hypothetical protein Moumou_00346 [Acanthamoeba polyphaga moumouvirus]
+gi|363540746|ref|YP_004894474.1|vFam_4334| mg423 gene product [Megavirus chiliensis]

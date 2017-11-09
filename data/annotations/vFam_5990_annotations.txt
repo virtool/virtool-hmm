@@ -1,0 +1,10 @@
+CLUSTER	5990
+NUM_SEQ	2
+LENGTH	122
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	63.44
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825159|ref|YP_007418090.1|vFam_5990| hypothetical protein LBA_00194 [Megavirus lba]
+gi|363540067|ref|YP_004894263.1|vFam_5990| mg212 gene product [Megavirus chiliensis]

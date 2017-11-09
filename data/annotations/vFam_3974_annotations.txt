@@ -1,0 +1,11 @@
+CLUSTER	3974
+NUM_SEQ	3
+LENGTH	76
+RELATIVE_ENTROPY_PER_POSITION	0.67
+TOTAL_RELATIVE_ENTROPY	50.92
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|157952920|ref|YP_001497812.1|vFam_3974| hypothetical protein NY2A_b616L [Paramecium bursaria Chlorella virus NY2A]
+gi|157952888|ref|YP_001497780.1|vFam_3974| hypothetical protein NY2A_b584L [Paramecium bursaria Chlorella virus NY2A]
+gi|570033527|ref|YP_008992087.1|vFam_3974| non-structural protein 3A [Carp picornavirus 1]

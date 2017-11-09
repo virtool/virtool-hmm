@@ -1,0 +1,13 @@
+CLUSTER	1080
+NUM_SEQ	5
+LENGTH	229
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	119.08
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Betabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|11068018|ref|NP_068234.1|vFam_1080| PxORF15 peptide [Plutella xylostella granulovirus]
+gi|46309441|ref|YP_006331.1|vFam_1080| ORF13 [Agrotis segetum granulovirus]
+gi|148368833|ref|YP_001256963.1|vFam_1080| hypothetical protein SlGVgp012 [Spodoptera litura granulovirus]
+gi|285002288|ref|YP_003422352.1|vFam_1080| hypothetical protein PsunGV_gp013 [Pseudaletia unipuncta granulovirus]
+gi|164519208|ref|YP_001648995.1|vFam_1080| hypothetical protein HaGV_gp013 [Helicoverpa armigera granulovirus]

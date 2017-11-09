@@ -1,0 +1,12 @@
+CLUSTER	2057
+NUM_SEQ	4
+LENGTH	212
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	106.0
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|90592742|ref|YP_529695.1|vFam_2057| ORF-25 [Agrotis segetum nucleopolyhedrovirus]
+gi|209170912|ref|YP_002268058.1|vFam_2057| agip28 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|22549418|ref|NP_689191.1|vFam_2057| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069897|ref|NP_613101.1|vFam_2057| hypothetical protein McnAVgp018 [Mamestra configurata nucleopolyhedrovirus A]

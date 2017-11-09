@@ -1,0 +1,11 @@
+CLUSTER	3354
+NUM_SEQ	3
+LENGTH	165
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	84.15
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977917|ref|YP_003987037.1|vFam_3354| putative rhomboid protein [Acanthamoeba polyphaga mimivirus]
+gi|448825630|ref|YP_007418561.1|vFam_3354| putative rhomboid protein [Megavirus lba]
+gi|441432485|ref|YP_007354527.1|vFam_3354| Integral membrane protein [Acanthamoeba polyphaga moumouvirus]

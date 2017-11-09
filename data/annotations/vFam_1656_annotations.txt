@@ -1,0 +1,13 @@
+CLUSTER	1656
+NUM_SEQ	5
+LENGTH	361
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	187.72
+FAMILIES	{'Iridoviridae': 5}
+GENERA	{'Lymphocystivirus': 2, 'Megalocytivirus': 1, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|19881520|ref|NP_612337.1|vFam_1656| ORF115R [Infectious spleen and kidney necrosis virus]
+gi|51870114|ref|YP_073667.1|vFam_1656| hypothetical protein LDVICp161 [Lymphocystis disease virus - isolate China]
+gi|13358429|ref|NP_078648.1|vFam_1656| hypothetical immediate-early protein [Lymphocystis disease virus 1]
+gi|388260084|ref|YP_006347612.1|vFam_1656| immediate early protein ICP-46 [European catfish virus]
+gi|56692799|ref|YP_164257.1|vFam_1656| hypothetical protein ORF162L [Singapore grouper iridovirus]

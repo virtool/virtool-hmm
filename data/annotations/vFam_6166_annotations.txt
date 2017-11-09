@@ -1,0 +1,10 @@
+CLUSTER	6166
+NUM_SEQ	2
+LENGTH	112
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	56.0
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825529|ref|YP_007418460.1|vFam_6166| hypothetical protein LBA_00566 [Megavirus lba]
+gi|441432409|ref|YP_007354451.1|vFam_6166| putative low complexity protein [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,16 @@
+CLUSTER	1408
+NUM_SEQ	8
+LENGTH	255
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	135.15
+FAMILIES	{'Flaviviridae': 8}
+GENERA	{'Flavivirus': 8}
+FASTA SEQUENCE TITLES:
+gi|27596772|ref|NP_775523.1|vFam_1408| non-structural protein NS4b [Powassan virus]
+gi|27545514|ref|NP_775477.1|vFam_1408| non-structural protein NS4b [Alkhumra hemorrhagic fever virus]
+gi|27596785|ref|NP_775510.1|vFam_1408| non-structural protein NS4b [Tick-borne encephalitis virus]
+gi|25121533|ref|NP_740301.1|vFam_1408| nonstructural protein NS4b [Langat virus]
+gi|27697404|ref|NP_775687.1|vFam_1408| non-structural protein NS4b [Apoi virus]
+gi|25121730|ref|NP_740266.1|vFam_1408| non-structural protein 4B [Modoc virus]
+gi|27735370|ref|NP_776079.1|vFam_1408| non-structural protein NS4b [Rio Bravo virus]
+gi|27669997|ref|NP_775652.1|vFam_1408| non-structural protein NS4b [Montana myotis leukoencephalitis virus]

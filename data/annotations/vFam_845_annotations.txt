@@ -1,0 +1,15 @@
+CLUSTER	845
+NUM_SEQ	7
+LENGTH	314
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	166.42
+FAMILIES	{'Adenoviridae': 5}
+GENERA	{'Aviadenovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|388570701|ref|YP_006383575.1|vFam_845| protein ORF20 [Goose adenovirus 4]
+gi|555928206|ref|YP_008719838.1|vFam_845| ORF20 [Turkey adenovirus 4]
+gi|501000371|ref|YP_007985665.1|vFam_845| ORF20 [Fowl adenovirus 5]
+gi|19263439|ref|NP_597825.1|vFam_845| hypothetical protein FAdVDgp23 [Fowl adenovirus D]
+gi|308222763|ref|YP_003933600.1|vFam_845| unnamed protein product [Turkey adenovirus 1]
+gi|555928240|ref|YP_008719871.1|vFam_845| ORF20 [Turkey adenovirus 5]
+gi|56160764|ref|AP_000430.1|vFam_845| ORF20 [Fowl adenovirus A]

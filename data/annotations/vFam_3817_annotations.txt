@@ -1,0 +1,11 @@
+CLUSTER	3817
+NUM_SEQ	3
+LENGTH	215
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	113.95
+FAMILIES	{'Paramyxoviridae': 3}
+GENERA	{'Respirovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|19551239|ref|NP_599251.1|vFam_3817| C protein [Human parainfluenza virus 3]
+gi|19718365|ref|NP_604434.1|vFam_3817| C' protein [Human parainfluenza virus 1]
+gi|9627221|ref|NP_056872.1|vFam_3817| C' protein [Sendai virus]

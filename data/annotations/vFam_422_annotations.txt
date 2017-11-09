@@ -1,0 +1,22 @@
+CLUSTER	422
+NUM_SEQ	14
+LENGTH	400
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	208.0
+FAMILIES	{'Herpesviridae': 14}
+GENERA	{'Roseolovirus': 2, 'None': 2, 'Proboscivirus': 1, 'Muromegalovirus': 3, 'Cytomegalovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|496991163|ref|YP_007969786.1|vFam_422| tegument protein UL88 [Elephantid herpesvirus 1]
+gi|448824923|ref|YP_007417855.1|vFam_422| GP88 [Caviid herpesvirus 2]
+gi|9845373|ref|NP_064187.1|vFam_422| pR88 [Murid herpesvirus 2]
+gi|425707288|ref|YP_007016485.1|vFam_422| E88 [Murid herpesvirus 8]
+gi|61660198|ref|YP_214089.1|vFam_422| hypothetical protein MuHV1_gp081 [Murid herpesvirus 1]
+gi|14251075|ref|NP_116437.1|vFam_422| T88 [Tupaiid herpesvirus 1]
+gi|360086566|ref|YP_004940251.1|vFam_422| tegument protein UL88 [Saimiriine herpesvirus 3]
+gi|360040970|ref|YP_004940105.1|vFam_422| tegument protein UL88 [Aotine herpesvirus 1]
+gi|52139261|ref|YP_081536.1|vFam_422| tegument protein UL88 [Human herpesvirus 5]
+gi|359946522|ref|YP_004936055.1|vFam_422| tegument protein UL88 [Cercopithecine herpesvirus 5]
+gi|356640420|ref|YP_004933862.1|vFam_422| tegument protein UL88 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|538447256|ref|YP_008492996.1|vFam_422| tegument protein [Porcine cytomegalovirus]
+gi|9633130|ref|NP_050240.1|vFam_422| hypothetical protein HhV6Bgp065 [Human herpesvirus 6B]
+gi|51874283|ref|YP_073801.1|vFam_422| tegument protein UL88 [Human herpesvirus 7]

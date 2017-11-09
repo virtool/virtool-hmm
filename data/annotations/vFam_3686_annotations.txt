@@ -1,0 +1,11 @@
+CLUSTER	3686
+NUM_SEQ	3
+LENGTH	235
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	124.55
+FAMILIES	{'Rhabdoviridae': 3}
+GENERA	{'Nucleorhabdovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|50234110|ref|YP_052853.1|vFam_3686| M [Maize mosaic virus]
+gi|212671441|ref|YP_002308457.1|vFam_3686| matrix protein [Maize Iranian mosaic virus]
+gi|62327483|ref|YP_224081.1|vFam_3686| M [Taro vein chlorosis virus]

@@ -1,0 +1,10 @@
+CLUSTER	1068
+NUM_SEQ	2
+LENGTH	471
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	244.92
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|360086592|ref|YP_004940277.1|vFam_1068| regulatory protein IE1 [Saimiriine herpesvirus 3]
+gi|360040996|ref|YP_004940131.1|vFam_1068| regulatory protein IE1 [Aotine herpesvirus 1]

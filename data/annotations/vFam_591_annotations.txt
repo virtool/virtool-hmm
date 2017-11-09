@@ -1,0 +1,18 @@
+CLUSTER	591
+NUM_SEQ	10
+LENGTH	543
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	282.36
+FAMILIES	{'Togaviridae': 10}
+GENERA	{'Alphavirus': 10}
+FASTA SEQUENCE TITLES:
+gi|25121764|ref|NP_740637.1|vFam_591| non structural protein P3 [Salmon pancreas disease virus]
+gi|29653354|ref|NP_819012.1|vFam_591| Nonstructural protein nsP3 [Aura virus]
+gi|25121508|ref|NP_740672.1|vFam_591| nsp3 nonstructural protein [Sindbis virus]
+gi|25140292|ref|NP_740698.1|vFam_591| putative nonstructural protein nsP3 [Venezuelan equine encephalitis virus]
+gi|269954650|ref|YP_003324593.1|vFam_591| nsP3 [Fort Morgan virus]
+gi|119380834|ref|YP_913813.1|vFam_591| nsP3 protein [Eastern equine encephalitis virus]
+gi|226823171|ref|YP_002802303.1|vFam_591| nsP3 [Highlands J virus]
+gi|29611987|ref|NP_818935.1|vFam_591| nonstructural protein nsP3 [Western equine encephalitis virus]
+gi|25121494|ref|NP_740680.1|vFam_591| nsP3 protein [Ross River virus]
+gi|25121485|ref|NP_740705.1|vFam_591| nonstructural protein P3 [O'nyong-nyong virus]

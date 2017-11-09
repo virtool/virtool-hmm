@@ -1,0 +1,10 @@
+CLUSTER	5189
+NUM_SEQ	2
+LENGTH	427
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	222.04
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|285002393|ref|YP_003422457.1|vFam_5189| BRO [Pseudaletia unipuncta granulovirus]
+gi|9635364|ref|NP_059262.1|vFam_5189| ORF114 [Xestia c-nigrum granulovirus]

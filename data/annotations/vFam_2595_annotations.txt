@@ -1,0 +1,12 @@
+CLUSTER	2595
+NUM_SEQ	4
+LENGTH	265
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	137.8
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497831|ref|YP_008003630.1|vFam_2595| unknown similar to AMEV090 [Mythimna separata entomopoxvirus 'L']
+gi|506498114|ref|YP_008003911.1|vFam_2595| unknown similar to AMEV090 [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964404|ref|NP_064872.1|vFam_2595| hypothetical protein AMV090 [Amsacta moorei entomopoxvirus 'L']
+gi|506498725|ref|YP_008004519.1|vFam_2595| unknown similar to AMEV090 [Choristoneura rosaceana entomopoxvirus 'L']

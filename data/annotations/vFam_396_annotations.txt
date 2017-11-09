@@ -1,0 +1,25 @@
+CLUSTER	396
+NUM_SEQ	17
+LENGTH	304
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	161.12
+FAMILIES	{'Herpesviridae': 17}
+GENERA	{'Varicellovirus': 8, 'Mardivirus': 4, 'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|312162848|ref|YP_003933833.1|vFam_396| tegument protein UL7 [Saimiriine herpesvirus 1]
+gi|83722575|ref|YP_443853.1|vFam_396| tegument protein UL7 [Papiine herpesvirus 2]
+gi|30984435|ref|NP_851866.1|vFam_396| tegument protein UL7 [Macacine herpesvirus 1]
+gi|9629387|ref|NP_044608.1|vFam_396| tegument protein UL7 [Human herpesvirus 1]
+gi|9629276|ref|NP_044476.1|vFam_396| tegument protein UL7 [Human herpesvirus 2]
+gi|255683152|ref|YP_003084416.1|vFam_396| UL7 [Anatid herpesvirus 1]
+gi|12084835|ref|NP_073300.1|vFam_396| tegument protein UL7 [Meleagrid herpesvirus 1]
+gi|125745058|ref|YP_001033935.1|vFam_396| tegument protein UL7 [Gallid herpesvirus 2]
+gi|10834876|ref|NP_066837.1|vFam_396| tegument protein UL7 [Gallid herpesvirus 3]
+gi|13242447|ref|NP_077467.1|vFam_396| tegument protein UL7 [Cercopithecine herpesvirus 9]
+gi|9625927|ref|NP_040175.1|vFam_396| tegument protein UL7 [Human herpesvirus 3]
+gi|51557535|ref|YP_068369.1|vFam_396| tegument protein UL7 [Suid herpesvirus 1]
+gi|296316054|ref|YP_003662518.1|vFam_396| tegument protein UL7 [Bovine herpesvirus 5]
+gi|9629868|ref|NP_045352.1|vFam_396| tegument protein UL7 [Bovine herpesvirus 1]
+gi|270339492|ref|YP_003331574.1|vFam_396| tegument protein UL7 [Felid herpesvirus 1]
+gi|261835096|ref|YP_002333536.2|vFam_396| tegument protein UL7 [Equid herpesvirus 9]
+gi|9629783|ref|NP_045272.1|vFam_396| tegument protein UL7 [Equid herpesvirus 4]

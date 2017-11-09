@@ -1,0 +1,15 @@
+CLUSTER	1231
+NUM_SEQ	7
+LENGTH	95
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	49.4
+FAMILIES	{'Baculoviridae': 6}
+GENERA	{'Alphabaculovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|438000375|ref|YP_007250480.1|vFam_1231| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964590|ref|YP_950786.1|vFam_1231| Mv-ORF56 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|237643611|ref|YP_002884301.1|vFam_1231| Ac73-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|114680127|ref|YP_758540.1|vFam_1231| hypothetical protein PXMNV_gp074 [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|15320722|ref|NP_203234.1|vFam_1231| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|96979843|ref|YP_611049.1|vFam_1231| hypothetical protein APNV_p081 [Antheraea pernyi nucleopolyhedrovirus]
+gi|37651444|ref|NP_932677.1|vFam_1231| hypothetical protein CFDNVgORF68 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]

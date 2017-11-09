@@ -1,0 +1,11 @@
+CLUSTER	2461
+NUM_SEQ	3
+LENGTH	527
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	274.04
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|422933600|ref|YP_007003725.1|vFam_2461| protein ORF60 [Cyprinid herpesvirus 1]
+gi|422933827|ref|YP_007003880.1|vFam_2461| protein ORF60 [Cyprinid herpesvirus 2]
+gi|131840086|ref|YP_001096095.1|vFam_2461| unnamed protein product [Cyprinid herpesvirus 3]

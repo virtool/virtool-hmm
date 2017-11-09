@@ -1,0 +1,28 @@
+CLUSTER	295
+NUM_SEQ	20
+LENGTH	346
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	179.92
+FAMILIES	{'Herpesviridae': 20}
+GENERA	{'Varicellovirus': 8, 'Iltovirus': 2, 'Mardivirus': 4, 'Simplexvirus': 6}
+FASTA SEQUENCE TITLES:
+gi|57790948|ref|YP_182352.1|vFam_295| thymidine kinase [Gallid herpesvirus 1]
+gi|38638212|ref|NP_944395.1|vFam_295| thymidine kinase [Psittacid herpesvirus 1]
+gi|12084852|ref|NP_073316.1|vFam_295| thymidine kinase [Meleagrid herpesvirus 1]
+gi|125745075|ref|YP_001033951.1|vFam_295| thymidine kinase [Gallid herpesvirus 2]
+gi|10834893|ref|NP_066854.1|vFam_295| thymidine kinase [Gallid herpesvirus 3]
+gi|13242429|ref|NP_077451.1|vFam_295| thymidine kinase [Cercopithecine herpesvirus 9]
+gi|9625911|ref|NP_040159.1|vFam_295| thymidine kinase [Human herpesvirus 3]
+gi|255683191|ref|YP_003084399.1|vFam_295| UL23 [Anatid herpesvirus 1]
+gi|312162832|ref|YP_003933817.1|vFam_295| thymidine kinase [Saimiriine herpesvirus 1]
+gi|30984502|ref|NP_851882.1|vFam_295| thymidine kinase [Macacine herpesvirus 1]
+gi|83722591|ref|YP_443869.1|vFam_295| thymidine kinase [Papiine herpesvirus 2]
+gi|56694745|ref|YP_164465.1|vFam_295| thymidine kinase [Cercopithecine herpesvirus 2]
+gi|9629403|ref|NP_044624.1|vFam_295| thymidine kinase [Human herpesvirus 1]
+gi|9629292|ref|NP_044492.1|vFam_295| thymidine kinase [Human herpesvirus 2]
+gi|296316038|ref|YP_003662502.1|vFam_295| thymidine kinase [Bovine herpesvirus 5]
+gi|9629852|ref|NP_045336.1|vFam_295| thymidine kinase [Bovine herpesvirus 1]
+gi|270339476|ref|YP_003331558.1|vFam_295| thymidine kinase [Felid herpesvirus 1]
+gi|216905892|ref|YP_002333520.1|vFam_295| thymidine kinase [Equid herpesvirus 9]
+gi|9629765|ref|NP_045256.1|vFam_295| thymidine kinase [Equid herpesvirus 4]
+gi|51557518|ref|YP_068352.1|vFam_295| thymidine kinase [Suid herpesvirus 1]

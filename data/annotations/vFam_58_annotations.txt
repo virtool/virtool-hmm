@@ -1,0 +1,10 @@
+CLUSTER	58
+NUM_SEQ	2
+LENGTH	494
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	251.94
+FAMILIES	{'Luteoviridae': 1}
+GENERA	{'Enamovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|514361119|ref|YP_008130305.1|vFam_58| CP readthrough protein [Citrus vein enation virus]
+gi|20178354|ref|NP_620027.1|vFam_58| aphid transmission protein [Pea enation mosaic virus-1]

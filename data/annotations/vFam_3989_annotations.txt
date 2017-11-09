@@ -1,0 +1,11 @@
+CLUSTER	3989
+NUM_SEQ	3
+LENGTH	389
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	202.28
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Roseolovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|51874311|ref|YP_073829.1|vFam_3989| protein DR6 [Human herpesvirus 7]
+gi|224020414|ref|NP_043000.2|vFam_3989| US22 family [Human herpesvirus 6A]
+gi|9633167|ref|NP_050277.1|vFam_3989| transactivator [Human herpesvirus 6B]

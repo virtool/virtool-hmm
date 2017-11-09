@@ -1,0 +1,15 @@
+CLUSTER	1714
+NUM_SEQ	7
+LENGTH	99
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	50.49
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281767|ref|YP_003331427.1|vFam_1714| zinc finger protein [Acidianus spindle-shaped virus 1]
+gi|42495087|ref|NP_963986.1|vFam_1714| ORF B98 [Sulfolobus virus Kamchatka 1]
+gi|9625537|ref|NP_039794.1|vFam_1714| hypothetical protein SSV-1p18 [Sulfolobus spindle-shaped virus 1]
+gi|42494951|ref|NP_963949.1|vFam_1714| ORF A102b [Sulfolobus virus Ragged Hills]
+gi|38639822|ref|NP_944473.1|vFam_1714| hypothetical protein SSV2p21 [Sulfolobus spindle-shaped virus 2]
+gi|270281839|ref|YP_003331505.1|vFam_1714| zinc finger protein [Sulfolobus spindle-shaped virus 7]
+gi|198449256|ref|YP_002221494.1|vFam_1714| hypothetical protein SSSV5_gp29 [Sulfolobus spindle-shaped virus 5]

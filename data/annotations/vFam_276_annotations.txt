@@ -1,0 +1,24 @@
+CLUSTER	276
+NUM_SEQ	16
+LENGTH	99
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	52.47
+FAMILIES	{'Baculoviridae': 13, 'Iridoviridae': 1, 'Ascoviridae': 1}
+GENERA	{'Betabaculovirus': 2, 'Ascovirus': 1, 'Iridovirus': 1, 'Alphabaculovirus': 11}
+FASTA SEQUENCE TITLES:
+gi|402502185|ref|YP_006607843.1|vFam_276| endonuclease [Apocheima cinerarium nucleopolyhedrovirus]
+gi|118197569|ref|YP_874281.1|vFam_276| endonuclease [Ectropis obliqua nucleopolyhedrovirus]
+gi|438000381|ref|YP_007250486.1|vFam_276| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643617|ref|YP_002884307.1|vFam_276| Ac79-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|96979836|ref|YP_611042.1|vFam_276| hypothetical protein APNV_p074 [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326146|ref|YP_803472.1|vFam_276| hypothetical protein AGNV_gp078 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320728|ref|NP_203240.1|vFam_276| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|571031272|ref|YP_008992168.1|vFam_276| ac79 [Choristoneura murinana alphabaculovirus]
+gi|86355592|ref|YP_473260.1|vFam_276| ORF72 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|22549417|ref|NP_689190.1|vFam_276| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209170913|ref|YP_002268059.1|vFam_276| agip29 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|285002349|ref|YP_003422413.1|vFam_276| hypothetical protein PsunGV_gp074 [Pseudaletia unipuncta granulovirus]
+gi|164519264|ref|YP_001649051.1|vFam_276| hypothetical protein HaGV_gp069 [Helicoverpa armigera granulovirus]
+gi|29567184|ref|NP_818746.1|vFam_276| hypothetical protein AhnVgp099 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|115298539|ref|YP_762392.1|vFam_276| 13 kDa GIY-YIG-like endonuclease [Spodoptera frugiperda ascovirus 1a]
+gi|15078954|ref|NP_149705.1|vFam_276| 242L [Invertebrate iridescent virus 6]

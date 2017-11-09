@@ -1,0 +1,12 @@
+CLUSTER	3445
+NUM_SEQ	4
+LENGTH	261
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	135.72
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'None': 2, 'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313768044|ref|YP_004061475.1|vFam_3445| hypothetical protein BpV1_045 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768258|ref|YP_004061938.1|vFam_3445| hypothetical protein MpV1_055 [Micromonas sp. RCC1109 virus MpV1]
+gi|260665926|ref|YP_003212880.1|vFam_3445| hypothetical protein H665_p056 [Ostreococcus tauri virus 1]
+gi|314055146|ref|YP_004063484.1|vFam_3445| FAD-dependent thymidylate synthase Thy X [Ostreococcus tauri virus 2]

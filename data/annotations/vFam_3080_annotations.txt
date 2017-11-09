@@ -1,0 +1,12 @@
+CLUSTER	3080
+NUM_SEQ	4
+LENGTH	281
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	146.12
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|359946588|ref|YP_004936121.1|vFam_3080| membrane protein US12 [Cercopithecine herpesvirus 5]
+gi|356640524|ref|YP_004933966.1|vFam_3080| membrane protein US12 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139322|ref|YP_081597.1|vFam_3080| membrane protein US12 [Human herpesvirus 5]
+gi|20026743|ref|NP_612785.1|vFam_3080| membrane protein US12 [Panine herpesvirus 2]

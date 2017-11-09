@@ -1,0 +1,13 @@
+CLUSTER	2099
+NUM_SEQ	5
+LENGTH	373
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	193.96
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'None': 5}
+FASTA SEQUENCE TITLES:
+gi|9631504|ref|NP_048133.1|vFam_2099| ORF MSV062 SCG gene family protein [Melanoplus sanguinipes entomopoxvirus]
+gi|9631436|ref|NP_048287.1|vFam_2099| ORF MSV216 SCG gene family protein [Melanoplus sanguinipes entomopoxvirus]
+gi|9631435|ref|NP_048288.1|vFam_2099| ORF MSV217 SCG gene family protein [Melanoplus sanguinipes entomopoxvirus]
+gi|9631438|ref|NP_048285.1|vFam_2099| ORF MSV214 SCG gene family protein [Melanoplus sanguinipes entomopoxvirus]
+gi|9631437|ref|NP_048286.1|vFam_2099| ORF MSV215 SCG gene family protein [Melanoplus sanguinipes entomopoxvirus]

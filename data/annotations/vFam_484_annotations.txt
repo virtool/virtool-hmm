@@ -1,0 +1,24 @@
+CLUSTER	484
+NUM_SEQ	16
+LENGTH	383
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	202.99
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531810|ref|YP_784336.1|vFam_484| intermediate transcription factor VITF-3 [Nile crocodilepox virus]
+gi|41057536|ref|NP_958009.1|vFam_484| ORF100 intermediate transcription factor VITF-3 [Bovine papular stomatitis virus]
+gi|289183865|ref|YP_003457406.1|vFam_484| intermediate transcription factor VITF3 [Pseudocowpox virus]
+gi|9629060|ref|NP_044079.1|vFam_484| MC128R [Molluscum contagiosum virus subtype 1]
+gi|571798038|ref|YP_008658537.1|vFam_484| transcription subunit (intermediate) large subunit [Squirrelpox virus]
+gi|40556200|ref|NP_955285.1|vFam_484| CNPV262 intermediate transcription factor VITF-3 [Canarypox virus]
+gi|9634858|ref|NP_039151.1|vFam_484| Intermediate transcription factor, VITF-3 [Fowlpox virus]
+gi|377830019|ref|YP_005296320.1|vFam_484| unnamed protein product [Cotia virus SPAn232]
+gi|113195322|ref|YP_717452.1|vFam_484| 45kDa large subunit of intermediate gene transcription factor VITF-3 [Taterapox virus]
+gi|345107315|ref|YP_004821480.1|vFam_484| 45kDa large subunit of intermediate gene transcription factor VITF-3 [Yoka poxvirus]
+gi|9633923|ref|NP_052002.1|vFam_484| gp113R [Rabbit fibroma virus]
+gi|157939738|ref|YP_001497110.1|vFam_484| intermediate transcription factor VITF-3 [Tanapox virus]
+gi|38229277|ref|NP_938370.1|vFam_484| 115R [Yaba monkey tumor virus]
+gi|211956395|ref|YP_002302464.1|vFam_484| intermediate transcription factor VITF-3 [Deerpox virus W-1170-84]
+gi|148912992|ref|YP_001293306.1|vFam_484| hypothetical protein GTPV_gp110 [Goatpox virus Pellor]
+gi|18640198|ref|NP_570272.1|vFam_484| SPV112 putative intermediate transcription factor VITF-3 [Swinepox virus]

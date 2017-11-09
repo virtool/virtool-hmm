@@ -1,0 +1,20 @@
+CLUSTER	629
+NUM_SEQ	12
+LENGTH	378
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	200.34
+FAMILIES	{'Baculoviridae': 11}
+GENERA	{'Betabaculovirus': 11}
+FASTA SEQUENCE TITLES:
+gi|11068069|ref|NP_068285.1|vFam_629| PxORF66 peptide [Plutella xylostella granulovirus]
+gi|21686742|ref|NP_663242.1|vFam_629| budded virus and occlusion derived virus capsid protein 42 [Phthorimaea operculella granulovirus]
+gi|410493650|ref|YP_006908588.1|vFam_629| BV/ODV-C42 [Epinotia aporema granulovirus]
+gi|46309380|ref|YP_006270.1|vFam_629| ORF74 [Agrotis segetum granulovirus]
+gi|148368896|ref|YP_001257026.1|vFam_629| hypothetical protein SlGVgp075 [Spodoptera litura granulovirus]
+gi|9635343|ref|NP_059241.1|vFam_629| ORF93 [Xestia c-nigrum granulovirus]
+gi|32698610|ref|NP_872525.1|vFam_629| ORF_71 [Adoxophyes orana granulovirus]
+gi|33622276|ref|NP_891923.1|vFam_629| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602322|ref|NP_148869.1|vFam_629| ORF85 similar to AcMNPV ORF101 [Cydia pomonella granulovirus]
+gi|109255338|ref|YP_654487.1|vFam_629| hypothetical protein COGV_gp066 [Choristoneura occidentalis granulovirus]
+gi|556549106|ref|YP_008720020.1|vFam_629| p40 [Clostera anastomosis granulovirus]
+gi|288804709|ref|YP_003429394.1|vFam_629| PrGVORF70 [Pieris rapae granulovirus]

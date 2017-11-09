@@ -1,0 +1,24 @@
+CLUSTER	429
+NUM_SEQ	16
+LENGTH	113
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	58.76
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|40556197|ref|NP_955282.1|vFam_429| CNPV260 conserved hypothetical protein [Canarypox virus]
+gi|9634856|ref|NP_039148.1|vFam_429| hypothetical protein FPV186 [Fowlpox virus]
+gi|289183862|ref|YP_003457403.1|vFam_429| hypothetical protein PCPV_gp100 [Pseudocowpox virus]
+gi|115531808|ref|YP_784333.1|vFam_429| IMV membrane protein [Nile crocodilepox virus]
+gi|9629057|ref|NP_044076.1|vFam_429| MC125L [Molluscum contagiosum virus subtype 1]
+gi|571798035|ref|YP_008658534.1|vFam_429| subunit of the poxvirus multiprotein entry-fusion complex [Squirrelpox virus]
+gi|22164729|ref|NP_671642.1|vFam_429| EVM123 [Ectromelia virus]
+gi|345107312|ref|YP_004821477.1|vFam_429| IMV membrane protein [Yoka poxvirus]
+gi|377830017|ref|YP_005296317.1|vFam_429| unnamed protein product [Cotia virus SPAn232]
+gi|157939735|ref|YP_001497107.1|vFam_429| fusion protein [Tanapox virus]
+gi|38229274|ref|NP_938367.1|vFam_429| 112L [Yaba monkey tumor virus]
+gi|148912989|ref|YP_001293303.1|vFam_429| hypothetical protein GTPV_gp107 [Goatpox virus Pellor]
+gi|9633920|ref|NP_051999.1|vFam_429| gp110L [Rabbit fibroma virus]
+gi|9633746|ref|NP_051824.1|vFam_429| m110L [Myxoma virus]
+gi|211956392|ref|YP_002302461.1|vFam_429| hypothetical protein DpV84gp122 [Deerpox virus W-1170-84]
+gi|18640195|ref|NP_570269.1|vFam_429| SPV110 hypothetical protein [Swinepox virus]

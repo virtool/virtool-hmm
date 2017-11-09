@@ -1,0 +1,17 @@
+CLUSTER	857
+NUM_SEQ	9
+LENGTH	533
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	277.16
+FAMILIES	{'Closteroviridae': 8}
+GENERA	{'None': 1, 'Closterovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|402783687|ref|YP_006628171.1|vFam_857| coat protein homolog [Blueberry virus A]
+gi|9628271|ref|NP_042865.1|vFam_857| 61-kDa protein [Citrus tristeza virus]
+gi|115304328|ref|YP_762626.1|vFam_857| CPh [Strawberry chlorotic fleck-associated virus]
+gi|118197615|ref|YP_874189.1|vFam_857| CPh [Raspberry leaf mottle virus]
+gi|62327412|ref|YP_224094.1|vFam_857| CPh [Mint virus 1]
+gi|77118926|ref|YP_337915.1|vFam_857| 63 kDa protein [Grapevine leafroll-associated virus 2]
+gi|30018241|ref|NP_835248.1|vFam_857| HSP90-like protein [Grapevine rootstock stem lesion associated virus]
+gi|563398780|ref|YP_008858534.1|vFam_857| p64 [Carnation yellow fleck virus]
+gi|9627407|ref|NP_041873.1|vFam_857| putative heat shock 90-related protein [Beet yellows virus]

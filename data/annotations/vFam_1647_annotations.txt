@@ -1,0 +1,14 @@
+CLUSTER	1647
+NUM_SEQ	6
+LENGTH	100
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	53.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|171473674|ref|YP_001798544.1|vFam_1647| putative RHH transcriptional regulator [Acidianus filamentous virus 9]
+gi|16753115|ref|NP_445693.1|vFam_1647| hypothetical protein SIFV0028 [Sulfolobus islandicus filamentous virus]
+gi|157929277|ref|YP_001496929.1|vFam_1647| hypothetical protein AFV2_gp04 [Acidianus filamentous virus 2]
+gi|162329316|ref|YP_001604370.1|vFam_1647| putative regulatory protein [Acidianus filamentous virus 3]
+gi|162329386|ref|YP_001604187.1|vFam_1647| putative regulatory protein [Acidianus filamentous virus 6]
+gi|162329506|ref|YP_001604305.1|vFam_1647| putative regulatory protein [Acidianus filamentous virus 8]

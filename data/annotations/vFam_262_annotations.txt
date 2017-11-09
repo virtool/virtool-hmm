@@ -1,0 +1,31 @@
+CLUSTER	262
+NUM_SEQ	23
+LENGTH	125
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	63.75
+FAMILIES	{'Baculoviridae': 18}
+GENERA	{'Alphabaculovirus': 18}
+FASTA SEQUENCE TITLES:
+gi|113195418|ref|YP_717553.1|vFam_262| ac26-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|74229708|ref|YP_308912.1|vFam_262| orf23 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304159|ref|YP_249627.1|vFam_262| ORF-23 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|292397706|ref|YP_003517772.1|vFam_262| ORF32 [Lymantria xylina MNPV]
+gi|9631002|ref|NP_047672.1|vFam_262| LdOrf-36 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|438000331|ref|YP_007250436.1|vFam_262| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643567|ref|YP_002884257.1|vFam_262| Ac26-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964551|ref|YP_950747.1|vFam_262| Mv-ORF17 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|15320691|ref|NP_203203.1|vFam_262| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326110|ref|YP_803435.1|vFam_262| hypothetical protein AGNV_gp041 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|96979872|ref|YP_611078.1|vFam_262| hypothetical protein APNV_p111 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355633|ref|YP_473301.1|vFam_262| ORF113 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629980|ref|NP_046198.1|vFam_262| hypothetical protein OpmnVgp042 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153588|ref|YP_008378613.1|vFam_262| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|529153423|ref|YP_008378463.1|vFam_262| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|114679879|ref|YP_758329.1|vFam_262| ORF32 [Leucania separata nucleopolyhedrovirus]
+gi|15617503|ref|NP_258299.1|vFam_262| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|125860248|ref|YP_001036418.1|vFam_262| hypothetical protein SFMNPV_gp126 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401523|ref|YP_002332827.1|vFam_262| hypothetical protein SlnV2_gp129 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634346|ref|NP_037885.1|vFam_262| ORF125 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|20070033|ref|NP_613237.1|vFam_262| hypothetical protein McnAVgp154 [Mamestra configurata nucleopolyhedrovirus A]
+gi|90592855|ref|YP_529808.1|vFam_262| ORF-138 [Agrotis segetum nucleopolyhedrovirus]
+gi|209171028|ref|YP_002268175.1|vFam_262| agip145 [Agrotis ipsilon multiple nucleopolyhedrovirus]

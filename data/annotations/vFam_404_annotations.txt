@@ -1,0 +1,25 @@
+CLUSTER	404
+NUM_SEQ	17
+LENGTH	171
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	90.63
+FAMILIES	{'Poxviridae': 17}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 3, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531766|ref|YP_784291.1|vFam_404| tyrosine/serine protein posphatase [Nile crocodilepox virus]
+gi|41057493|ref|NP_957966.1|vFam_404| ORF057 protein phosphatase [Bovine papular stomatitis virus]
+gi|289183821|ref|YP_003457362.1|vFam_404| tyrosine phosphatase [Pseudocowpox virus]
+gi|41057120|ref|NP_957834.1|vFam_404| ORF057 putative protein-tyrosine phosphatase [Orf virus]
+gi|40556121|ref|NP_955206.1|vFam_404| CNPV183 putative protein-tyrosine phosphatase, virus assembly [Canarypox virus]
+gi|9634808|ref|NP_039101.1|vFam_404| Protein-tyrosine phosphatase [Fowlpox virus]
+gi|9629014|ref|NP_044033.1|vFam_404| MC082L [Molluscum contagiosum virus subtype 1]
+gi|571797991|ref|YP_008658490.1|vFam_404| tyrosine kinase/phosphatase [Squirrelpox virus]
+gi|18640155|ref|NP_570229.1|vFam_404| SPV069 putative protein tyrosine phosphatase [Swinepox virus]
+gi|377829979|ref|YP_005296276.1|vFam_404| unnamed protein product [Cotia virus SPAn232]
+gi|157939695|ref|YP_001497067.1|vFam_404| dual specificity Ser/Thr and Tyr phosphatase [Tanapox virus]
+gi|38229234|ref|NP_938327.1|vFam_404| 72L [Yaba monkey tumor virus]
+gi|9633705|ref|NP_051783.1|vFam_404| m69L [Myxoma virus]
+gi|148912949|ref|YP_001293263.1|vFam_404| hypothetical protein GTPV_gp068 [Goatpox virus Pellor]
+gi|211956352|ref|YP_002302421.1|vFam_404| protein-tyrosine kinase [Deerpox virus W-1170-84]
+gi|113195278|ref|YP_717408.1|vFam_404| tyr/ser protein phosphatase [Taterapox virus]
+gi|345107267|ref|YP_004821432.1|vFam_404| tyr/ser protein phosphatase [Yoka poxvirus]

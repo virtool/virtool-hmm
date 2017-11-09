@@ -1,0 +1,11 @@
+CLUSTER	4300
+NUM_SEQ	3
+LENGTH	161
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	83.72
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|441432790|ref|YP_007354832.1|vFam_4300| hypothetical protein Moumou_00881 [Acanthamoeba polyphaga moumouvirus]
+gi|448825046|ref|YP_007417977.1|vFam_4300| hypothetical protein LBA_00079 [Megavirus lba]
+gi|441431968|ref|YP_007354010.1|vFam_4300| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]

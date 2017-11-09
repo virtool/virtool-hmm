@@ -1,0 +1,13 @@
+CLUSTER	2726
+NUM_SEQ	5
+LENGTH	182
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	96.46
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631427|ref|NP_048316.1|vFam_2726| ORF MSV245 putative RNA polymerase subunit RPO18 homolog (vaccinia D7R), similar to SW:P33058 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497971|ref|YP_008003770.1|vFam_2726| RNA polymerase RPO18 [Mythimna separata entomopoxvirus 'L']
+gi|506498842|ref|YP_008004636.1|vFam_2726| RNA polymerase RPO18 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498233|ref|YP_008004030.1|vFam_2726| RNA polymerase RPO18 [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964544|ref|NP_065012.1|vFam_2726| putative RNA polymerase subunit [Amsacta moorei entomopoxvirus 'L']

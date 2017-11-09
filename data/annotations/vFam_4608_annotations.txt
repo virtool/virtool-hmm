@@ -1,0 +1,11 @@
+CLUSTER	4608
+NUM_SEQ	3
+LENGTH	542
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	271.0
+FAMILIES	{'None': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|149274323|ref|YP_001294055.1|vFam_4608| winged helix [Pyrococcus abyssi virus 1]
+gi|394922879|ref|YP_005454308.1|vFam_4608| ORF14 [Halogeometricum pleomorphic virus 1]
+gi|394922842|ref|YP_005454281.1|vFam_4608| ORF9 [Halorubrum pleomorphic virus 3]

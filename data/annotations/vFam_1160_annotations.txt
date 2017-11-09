@@ -1,0 +1,15 @@
+CLUSTER	1160
+NUM_SEQ	7
+LENGTH	296
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	153.92
+FAMILIES	{'Tombusviridae': 7}
+GENERA	{'None': 1, 'Tombusvirus': 6}
+FASTA SEQUENCE TITLES:
+gi|85677471|ref|YP_459921.1|vFam_1160| putative p33 protein [Maize necrotic streak virus]
+gi|38707976|ref|NP_945115.1|vFam_1160| putative replicase [Pelargonium necrotic spot virus]
+gi|30018253|ref|NP_835254.1|vFam_1160| RNA polymerase pre-readthrough protein [Cucumber Bulgarian virus]
+gi|94536598|ref|YP_588431.1|vFam_1160| RNA-dependent RNA polymerase [Lisianthus necrosis virus]
+gi|20087026|ref|NP_613261.1|vFam_1160| putative RNA-dependent RNA polymerase [Cymbidium ringspot virus]
+gi|440382955|ref|YP_007346988.1|vFam_1160| 33 kDa protein [Moroccan pepper virus]
+gi|9626673|ref|NP_040954.1|vFam_1160| replicase [Cucumber necrosis virus]

@@ -1,0 +1,14 @@
+CLUSTER	1138
+NUM_SEQ	6
+LENGTH	129
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	65.79
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281772|ref|YP_003331432.1|vFam_1138| hypothetical protein [Acidianus spindle-shaped virus 1]
+gi|270281768|ref|YP_003331428.1|vFam_1138| hypothetical protein [Acidianus spindle-shaped virus 1]
+gi|270281809|ref|YP_003331475.1|vFam_1138| hypothetical protein SSSV6_gp25 [Sulfolobus spindle-shaped virus 6]
+gi|42494954|ref|NP_963952.1|vFam_1138| ORF C150 [Sulfolobus virus Ragged Hills]
+gi|38639824|ref|NP_944475.1|vFam_1138| hypothetical protein SSV2p23 [Sulfolobus spindle-shaped virus 2]
+gi|9625538|ref|NP_039795.1|vFam_1138| hypothetical protein SSV-1p19 [Sulfolobus spindle-shaped virus 1]

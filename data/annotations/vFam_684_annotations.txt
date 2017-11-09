@@ -1,0 +1,10 @@
+CLUSTER	684
+NUM_SEQ	2
+LENGTH	252
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	128.52
+FAMILIES	{'Closteroviridae': 1, 'None': 1}
+GENERA	{'None': 1, 'Crinivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|213159291|ref|YP_002321334.1|vFam_684| guanylate kinase-like protein [Oryctes rhinoceros virus]
+gi|20153358|ref|NP_619699.1|vFam_684| hypothetical protein LIYVs2gp5 [Lettuce infectious yellows virus]

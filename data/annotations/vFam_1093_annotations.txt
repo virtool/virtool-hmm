@@ -1,0 +1,17 @@
+CLUSTER	1093
+NUM_SEQ	9
+LENGTH	269
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	139.88
+FAMILIES	{'Bunyaviridae': 9}
+GENERA	{'Tospovirus': 9}
+FASTA SEQUENCE TITLES:
+gi|113200749|ref|YP_717921.1|vFam_1093| nucleoprotein [Melon yellow spot virus]
+gi|170676270|ref|YP_001740044.1|vFam_1093| N protein [Tomato zonate spot virus]
+gi|113200757|ref|YP_717923.1|vFam_1093| nucleocapsid protein [Capsicum chlorosis virus]
+gi|20153369|ref|NP_619701.1|vFam_1093| nucleocapsid protein [Groundnut bud necrosis virus]
+gi|20564193|ref|NP_620771.1|vFam_1093| N [Watermelon silver mottle virus]
+gi|391738073|ref|YP_006468900.1|vFam_1093| nucleocapsid protein [Bean necrotic mosaic virus]
+gi|20153338|ref|NP_619709.1|vFam_1093| nucleocapsid protein [Impatiens necrotic spot virus]
+gi|332290588|ref|YP_004421857.1|vFam_1093| nucleocapsid protein [Groundnut ringspot and Tomato chlorotic spot virus reassortant]
+gi|9632390|ref|NP_049361.1|vFam_1093| nucleocapsid protein [Tomato spotted wilt virus]

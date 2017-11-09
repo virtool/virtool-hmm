@@ -1,0 +1,13 @@
+CLUSTER	2249
+NUM_SEQ	5
+LENGTH	134
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	71.02
+FAMILIES	{'Papillomaviridae': 5}
+GENERA	{'Deltapapillomavirus': 4, 'Epsilonpapillomavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|23217015|ref|NP_694430.1|vFam_2249| putative transforming protein E6 [Epsilonpapillomavirus 1]
+gi|9627057|ref|NP_056737.1|vFam_2249| E6 protein [Bovine papillomavirus - 1]
+gi|194268065|ref|YP_002004567.1|vFam_2249| E6 [Capreolus capreolus papillomavirus 1]
+gi|9627075|ref|NP_041301.1|vFam_2249| transforming protein [Deltapapillomavirus 1]
+gi|9627066|ref|NP_041293.1|vFam_2249| transforming protein [Deltapapillomavirus 2]

@@ -1,0 +1,11 @@
+CLUSTER	4085
+NUM_SEQ	3
+LENGTH	205
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	106.6
+FAMILIES	{'Virgaviridae': 3}
+GENERA	{'Pecluvirus': 2, 'Hordeivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|19744923|ref|NP_604486.1|vFam_4085| coat protein [Barley stripe mosaic virus]
+gi|30018263|ref|NP_835263.1|vFam_4085| coat protein P23 [Indian peanut clump virus]
+gi|20178590|ref|NP_620028.1|vFam_4085| coat protein [Peanut clump virus]

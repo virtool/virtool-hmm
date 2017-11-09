@@ -1,0 +1,12 @@
+CLUSTER	1565
+NUM_SEQ	4
+LENGTH	272
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	138.72
+FAMILIES	{'Bunyaviridae': 4}
+GENERA	{'Phlebovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|330850813|ref|YP_004414704.1|vFam_1565| nonstructural protein [Aguacate virus]
+gi|330464827|ref|YP_004382745.1|vFam_1565| nonstructural protein [Sandfly fever Turkey virus]
+gi|328545955|ref|YP_004347995.1|vFam_1565| nonstructural protein [Candiru virus]
+gi|302596925|ref|YP_003848706.1|vFam_1565| non-structural protein [Rift Valley fever virus]

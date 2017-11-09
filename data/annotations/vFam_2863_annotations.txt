@@ -1,0 +1,12 @@
+CLUSTER	2863
+NUM_SEQ	4
+LENGTH	84
+RELATIVE_ENTROPY_PER_POSITION	0.62
+TOTAL_RELATIVE_ENTROPY	52.08
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329380|ref|YP_001604181.1|vFam_2863| hypothetical protein AFV6_gp23 [Acidianus filamentous virus 6]
+gi|162329440|ref|YP_001604240.1|vFam_2863| hypothetical protein AFV7_gp16 [Acidianus filamentous virus 7]
+gi|162329310|ref|YP_001604364.1|vFam_2863| hypothetical protein AFV3_gp22 [Acidianus filamentous virus 3]
+gi|162329379|ref|YP_001604180.1|vFam_2863| hypothetical protein AFV6_gp22 [Acidianus filamentous virus 6]

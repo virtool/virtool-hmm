@@ -1,0 +1,18 @@
+CLUSTER	852
+NUM_SEQ	10
+LENGTH	437
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	227.24
+FAMILIES	{'Herpesviridae': 10}
+GENERA	{'Macavirus': 2, 'Percavirus': 1, 'None': 1, 'Rhadinovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|83642902|ref|YP_438190.1|vFam_852| ORF66 [Ovine herpesvirus 2]
+gi|10140988|ref|NP_065565.1|vFam_852| ORF66 [Alcelaphine herpesvirus 1]
+gi|9628069|ref|NP_042663.1|vFam_852| ORF 66 [Equid herpesvirus 2]
+gi|321496617|ref|YP_004207902.1|vFam_852| hypothetical protein RHVP.66 [Rodent herpesvirus Peru]
+gi|9629626|ref|NP_044904.1|vFam_852| protein UL49 [Murid herpesvirus 4]
+gi|9631256|ref|NP_048037.1|vFam_852| orf 66 [Ateline herpesvirus 3]
+gi|9626022|ref|NP_040268.1|vFam_852| unnamed protein product [Saimiriine herpesvirus 2]
+gi|13095643|ref|NP_076558.1|vFam_852| unknown [Bovine herpesvirus 4]
+gi|139472857|ref|YP_001129423.1|vFam_852| ORF66 [Human herpesvirus 8]
+gi|18653880|ref|NP_570814.1|vFam_852| hypothetical protein MmrVgp76 [Macacine herpesvirus 5]

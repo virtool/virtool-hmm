@@ -1,0 +1,10 @@
+CLUSTER	2290
+NUM_SEQ	2
+LENGTH	417
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	212.67
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|74229686|ref|YP_308890.1|vFam_2290| viral capsid associated protein [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304138|ref|YP_249606.1|vFam_2290| ORF1629 [Chrysodeixis chalcites nucleopolyhedrovirus]

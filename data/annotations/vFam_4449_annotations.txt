@@ -1,0 +1,11 @@
+CLUSTER	4449
+NUM_SEQ	3
+LENGTH	228
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	116.28
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|157952487|ref|YP_001497379.1|vFam_4449| hypothetical protein NY2A_B183L [Paramecium bursaria Chlorella virus NY2A]
+gi|448825704|ref|YP_007418635.1|vFam_4449| methyltransferase FKBM family [Megavirus lba]
+gi|441432548|ref|YP_007354590.1|vFam_4449| methyltransferase [Acanthamoeba polyphaga moumouvirus]

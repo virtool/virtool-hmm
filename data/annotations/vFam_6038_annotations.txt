@@ -1,0 +1,10 @@
+CLUSTER	6038
+NUM_SEQ	2
+LENGTH	230
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	119.6
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|360086527|ref|YP_004940211.1|vFam_6038| membrane glycoprotein UL40 [Saimiriine herpesvirus 3]
+gi|360040931|ref|YP_004940065.1|vFam_6038| membrane glycoprotein UL40 [Aotine herpesvirus 1]

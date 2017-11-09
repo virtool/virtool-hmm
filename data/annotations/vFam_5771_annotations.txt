@@ -1,0 +1,10 @@
+CLUSTER	5771
+NUM_SEQ	2
+LENGTH	255
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	132.6
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1}
+GENERA	{'None': 1, 'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508181808|ref|YP_008052327.1|vFam_5771| hypothetical protein PGCG_00008 [Phaeocystis globosa virus]
+gi|310831244|ref|YP_003969887.1|vFam_5771| hypothetical protein crov255 [Cafeteria roenbergensis virus BV-PW1]

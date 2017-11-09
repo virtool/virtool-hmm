@@ -1,0 +1,12 @@
+CLUSTER	2811
+NUM_SEQ	4
+LENGTH	197
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	100.47
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Mardivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|255683211|ref|YP_003084423.1|vFam_2811| UL1 [Anatid herpesvirus 1]
+gi|149999617|ref|NP_073294.2|vFam_2811| envelope glycoprotein L [Meleagrid herpesvirus 1]
+gi|125745052|ref|YP_001033929.1|vFam_2811| envelope glycoprotein L [Gallid herpesvirus 2]
+gi|10834869|ref|NP_066830.1|vFam_2811| envelope glycoprotein L [Gallid herpesvirus 3]

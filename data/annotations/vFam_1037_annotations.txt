@@ -1,0 +1,17 @@
+CLUSTER	1037
+NUM_SEQ	9
+LENGTH	58
+RELATIVE_ENTROPY_PER_POSITION	0.87
+TOTAL_RELATIVE_ENTROPY	50.46
+FAMILIES	{'Herpesviridae': 9}
+GENERA	{'None': 1, 'Roseolovirus': 2, 'Cytomegalovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|448824908|ref|YP_007417840.1|vFam_1037| GP73.5 [Caviid herpesvirus 2]
+gi|224020416|ref|YP_002608175.1|vFam_1037| envelope glycoprotein 24 [Human herpesvirus 6A]
+gi|89112558|ref|YP_495283.1|vFam_1037| envelope glycoprotein 24 [Human herpesvirus 7]
+gi|359946507|ref|YP_004936040.1|vFam_1037| envelope glycoprotein 24 [Cercopithecine herpesvirus 5]
+gi|356640397|ref|YP_004933839.1|vFam_1037| envelope glycoprotein UL74A [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086552|ref|YP_004940237.1|vFam_1037| envelope glycoprotein 24, partial [Saimiriine herpesvirus 3]
+gi|360040956|ref|YP_004940091.1|vFam_1037| envelope glycoprotein 24, partial [Aotine herpesvirus 1]
+gi|405761859|ref|YP_004940335.1|vFam_1037| envelope glycoprotein 24 [Panine herpesvirus 2]
+gi|395342357|ref|YP_002802310.2|vFam_1037| envelope glycoprotein 24 [Human herpesvirus 5]

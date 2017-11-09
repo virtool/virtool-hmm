@@ -1,0 +1,11 @@
+CLUSTER	4260
+NUM_SEQ	3
+LENGTH	259
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	134.68
+FAMILIES	{'Ascoviridae': 3}
+GENERA	{'Ascovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|115298577|ref|YP_762430.1|vFam_4260| 29.6 kDa S1/P1 nuclease [Spodoptera frugiperda ascovirus 1a]
+gi|134287289|ref|YP_001110985.1|vFam_4260| putative S1/P1 nuclease [Heliothis virescens ascovirus 3e]
+gi|116326821|ref|YP_803358.1|vFam_4260| hypothetical protein TNAV2c_gp135 [Trichoplusia ni ascovirus 2c]

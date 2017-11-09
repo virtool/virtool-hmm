@@ -1,0 +1,10 @@
+CLUSTER	5768
+NUM_SEQ	2
+LENGTH	190
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	96.9
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|171473716|ref|YP_001798586.1|vFam_5768| hypothetical protein AFV9_gp68 [Acidianus filamentous virus 9]
+gi|158267609|ref|YP_001504371.1|vFam_5768| hypothetical protein SIFV0075 [Sulfolobus islandicus filamentous virus]

@@ -1,0 +1,11 @@
+CLUSTER	3581
+NUM_SEQ	3
+LENGTH	246
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	125.46
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Avipoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9634870|ref|NP_039163.1|vFam_3581| V-type Ig domain [Fowlpox virus]
+gi|40555970|ref|NP_955055.1|vFam_3581| CNPV032 Ig-like domain putative IFN-gamma binding protein [Canarypox virus]
+gi|9634686|ref|NP_038979.1|vFam_3581| hypothetical protein FPV016 [Fowlpox virus]

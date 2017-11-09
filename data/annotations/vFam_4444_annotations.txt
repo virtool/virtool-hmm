@@ -1,0 +1,10 @@
+CLUSTER	4444
+NUM_SEQ	2
+LENGTH	162
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	82.62
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|422933887|ref|YP_007003946.1|vFam_4444| membrane protein ORF136 [Cyprinid herpesvirus 2]
+gi|131840162|ref|YP_001096171.1|vFam_4444| unnamed protein product [Cyprinid herpesvirus 3]

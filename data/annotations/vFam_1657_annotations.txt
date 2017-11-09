@@ -1,0 +1,14 @@
+CLUSTER	1657
+NUM_SEQ	6
+LENGTH	276
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	143.52
+FAMILIES	{'Baculoviridae': 6}
+GENERA	{'Betabaculovirus': 2, 'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|125860255|ref|YP_001036425.1|vFam_1657| hypothetical protein SFMNPV_gp133 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401483|ref|YP_002332787.1|vFam_1657| hypothetical protein SlnV2_gp089 [Spodoptera litura nucleopolyhedrovirus II]
+gi|22549424|ref|NP_689197.1|vFam_1657| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069905|ref|NP_613109.1|vFam_1657| hypothetical protein McnAVgp026 [Mamestra configurata nucleopolyhedrovirus A]
+gi|285002330|ref|YP_003422394.1|vFam_1657| hypothetical protein PsunGV_gp055 [Pseudaletia unipuncta granulovirus]
+gi|164519247|ref|YP_001649034.1|vFam_1657| hypothetical protein HaGV_gp052 [Helicoverpa armigera granulovirus]

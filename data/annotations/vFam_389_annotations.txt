@@ -1,0 +1,21 @@
+CLUSTER	389
+NUM_SEQ	13
+LENGTH	399
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	203.49
+FAMILIES	{'Herpesviridae': 13}
+GENERA	{'Varicellovirus': 8, 'Mardivirus': 3, 'Simplexvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|12084871|ref|NP_073336.1|vFam_389| DNA polymerase processivity subunit [Meleagrid herpesvirus 1]
+gi|125745094|ref|YP_001033971.1|vFam_389| DNA polymerase processivity subunit [Gallid herpesvirus 2]
+gi|10834913|ref|NP_066874.1|vFam_389| DNA polymerase processivity subunit [Gallid herpesvirus 3]
+gi|13242408|ref|NP_077431.1|vFam_389| DNA polymerase processivity subunit [Cercopithecine herpesvirus 9]
+gi|9625891|ref|NP_040139.1|vFam_389| DNA polymerase processivity subunit [Human herpesvirus 3]
+gi|312162812|ref|YP_003933797.1|vFam_389| DNA polymerase processivity subunit [Saimiriine herpesvirus 1]
+gi|56694765|ref|YP_164485.1|vFam_389| DNA polymerase processivity subunit [Cercopithecine herpesvirus 2]
+gi|51557511|ref|YP_068345.1|vFam_389| DNA polymerase processivity subunit [Suid herpesvirus 1]
+gi|296316018|ref|YP_003662482.1|vFam_389| DNA polymerase processivity subunit [Bovine herpesvirus 5]
+gi|9629832|ref|NP_045316.1|vFam_389| DNA polymerase processivity subunit [Bovine herpesvirus 1]
+gi|270339457|ref|YP_003331537.1|vFam_389| DNA polymerase processivity subunit [Felid herpesvirus 1]
+gi|216905871|ref|YP_002333499.1|vFam_389| DNA polymerase processivity subunit [Equid herpesvirus 9]
+gi|9629742|ref|NP_045235.1|vFam_389| DNA polymerase processivity subunit [Equid herpesvirus 4]

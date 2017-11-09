@@ -1,0 +1,11 @@
+CLUSTER	2822
+NUM_SEQ	3
+LENGTH	81
+RELATIVE_ENTROPY_PER_POSITION	0.63
+TOTAL_RELATIVE_ENTROPY	51.03
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Betabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|285002319|ref|YP_003422383.1|vFam_2822| hypothetical protein PsunGV_gp044 [Pseudaletia unipuncta granulovirus]
+gi|164519238|ref|YP_001649025.1|vFam_2822| hypothetical protein HaGV_gp043 [Helicoverpa armigera granulovirus]
+gi|9635296|ref|NP_059194.1|vFam_2822| ORF46 [Xestia c-nigrum granulovirus]

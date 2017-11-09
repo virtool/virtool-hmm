@@ -1,0 +1,11 @@
+CLUSTER	4912
+NUM_SEQ	3
+LENGTH	222
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	113.22
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977759|ref|YP_003986879.1|vFam_4912| putative N-acetylglucosaminyl phosphatidylinositol deacetylase [Acanthamoeba polyphaga mimivirus]
+gi|448825489|ref|YP_007418420.1|vFam_4912| putative n-acetylglucosaminyl phosphatidylinositol deacetylase [Megavirus lba]
+gi|441432377|ref|YP_007354419.1|vFam_4912| hypothetical protein Moumou_00447 [Acanthamoeba polyphaga moumouvirus]

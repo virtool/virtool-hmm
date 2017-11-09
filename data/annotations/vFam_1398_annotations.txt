@@ -1,0 +1,13 @@
+CLUSTER	1398
+NUM_SEQ	5
+LENGTH	96
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	49.92
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Mardivirus': 1, 'Simplexvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|255683204|ref|YP_003084412.1|vFam_1398| UL11 [Anatid herpesvirus 1]
+gi|9629391|ref|NP_044612.1|vFam_1398| myristylated tegument protein [Human herpesvirus 1]
+gi|9629280|ref|NP_044480.1|vFam_1398| myristylated tegument protein [Human herpesvirus 2]
+gi|83722579|ref|YP_443857.1|vFam_1398| myristylated tegument protein [Papiine herpesvirus 2]
+gi|30984439|ref|NP_851870.1|vFam_1398| myristylated tegument protein [Macacine herpesvirus 1]

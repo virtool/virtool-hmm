@@ -1,0 +1,10 @@
+CLUSTER	5171
+NUM_SEQ	2
+LENGTH	409
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	212.68
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|285002426|ref|YP_003422490.1|vFam_5171| fibroblast growth factor-like protein [Pseudaletia unipuncta granulovirus]
+gi|164519340|ref|YP_001649127.1|vFam_5171| fibroblast growth factor-2 [Helicoverpa armigera granulovirus]

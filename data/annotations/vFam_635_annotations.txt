@@ -1,0 +1,21 @@
+CLUSTER	635
+NUM_SEQ	13
+LENGTH	216
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	112.32
+FAMILIES	{'Herpesviridae': 13}
+GENERA	{'None': 2, 'Roseolovirus': 2, 'Cytomegalovirus': 5, 'Proboscivirus': 1, 'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|496991166|ref|YP_007969784.1|vFam_635| protein UL92 [Elephantid herpesvirus 1]
+gi|359946525|ref|YP_004936058.1|vFam_635| protein UL92 [Cercopithecine herpesvirus 5]
+gi|356640424|ref|YP_004933866.1|vFam_635| protein UL92 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086570|ref|YP_004940254.1|vFam_635| protein UL92 [Saimiriine herpesvirus 3]
+gi|360040973|ref|YP_004940108.1|vFam_635| protein UL92 [Aotine herpesvirus 1]
+gi|425707292|ref|YP_007016489.1|vFam_635| E92 [Murid herpesvirus 8]
+gi|61660201|ref|YP_214092.1|vFam_635| hypothetical protein MuHV1_gp084 [Murid herpesvirus 1]
+gi|9845377|ref|NP_064191.1|vFam_635| pR92 [Murid herpesvirus 2]
+gi|448824926|ref|YP_007417858.1|vFam_635| GP92 [Caviid herpesvirus 2]
+gi|14251078|ref|NP_116441.1|vFam_635| T92 [Tupaiid herpesvirus 1]
+gi|538447260|ref|YP_008493000.1|vFam_635| protein U63 [Porcine cytomegalovirus]
+gi|9633132|ref|NP_050243.1|vFam_635| hypothetical protein HhV6Bgp068 [Human herpesvirus 6B]
+gi|51874285|ref|YP_073804.1|vFam_635| protein UL92 [Human herpesvirus 7]

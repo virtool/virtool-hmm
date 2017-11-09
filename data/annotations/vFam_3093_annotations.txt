@@ -1,0 +1,12 @@
+CLUSTER	3093
+NUM_SEQ	4
+LENGTH	209
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	108.68
+FAMILIES	{'Tombusviridae': 4}
+GENERA	{'Necrovirus': 2, 'Dianthovirus': 1, 'Carmovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|459642384|ref|YP_007517175.1|vFam_3093| polymerase-associated protein [Furcraea necrotic streak virus]
+gi|9629509|ref|NP_044733.1|vFam_3093| replicase [Galinsoga mosaic virus]
+gi|62327381|ref|YP_224016.1|vFam_3093| p23 [Olive mild mosaic virus]
+gi|9628876|ref|NP_043908.1|vFam_3093| hypothetical protein OLV1gp2 [Olive latent virus 1]

@@ -1,0 +1,11 @@
+CLUSTER	2180
+NUM_SEQ	3
+LENGTH	520
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	265.2
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|226596533|ref|YP_002791889.1|vFam_2180| VP4 precursor [Halorubrum pleomorphic virus 1]
+gi|394922869|ref|YP_005454298.1|vFam_2180| VP4 precursor [Halogeometricum pleomorphic virus 1]
+gi|90403538|ref|YP_529659.1|vFam_2180| VP1 [His2 virus]

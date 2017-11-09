@@ -1,0 +1,11 @@
+CLUSTER	3256
+NUM_SEQ	3
+LENGTH	200
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	104.0
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978028|ref|YP_003987148.1|vFam_3256| uncharacterized transmembrane protein [Acanthamoeba polyphaga mimivirus]
+gi|448825750|ref|YP_007418681.1|vFam_3256| putative transmembrane protein [Megavirus lba]
+gi|441432587|ref|YP_007354629.1|vFam_3256| putative ubiquitin-conjugating enzyme E2 [Acanthamoeba polyphaga moumouvirus]

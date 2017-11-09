@@ -1,0 +1,21 @@
+CLUSTER	710
+NUM_SEQ	13
+LENGTH	286
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	148.72
+FAMILIES	{'Herpesviridae': 13}
+GENERA	{'Macavirus': 2, 'Rhadinovirus': 6, 'Lymphocryptovirus': 3, 'None': 1, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|24943155|ref|NP_733917.1|vFam_710| ORF63 [callitrichine herpesvirus 3]
+gi|82503205|ref|YP_401647.1|vFam_710| BFLF2 protein [Human herpesvirus 4]
+gi|51518021|ref|YP_067945.1|vFam_710| BFLF2 [Macacine herpesvirus 4]
+gi|83642906|ref|YP_438194.1|vFam_710| ORF69 [Ovine herpesvirus 2]
+gi|10140992|ref|NP_065569.1|vFam_710| ORF69 [Alcelaphine herpesvirus 1]
+gi|9629591|ref|NP_044907.1|vFam_710| nuclear egress lamina protein [Murid herpesvirus 4]
+gi|321496621|ref|YP_004207906.1|vFam_710| hypothetical protein RHVP.69 [Rodent herpesvirus Peru]
+gi|9628074|ref|NP_042668.1|vFam_710| ORF 69 [Equid herpesvirus 2]
+gi|13095647|ref|NP_076562.1|vFam_710| unknown [Bovine herpesvirus 4]
+gi|9631260|ref|NP_048041.1|vFam_710| orf 69 [Ateline herpesvirus 3]
+gi|9626025|ref|NP_040271.1|vFam_710| unnamed protein product [Saimiriine herpesvirus 2]
+gi|139472884|ref|YP_001129427.1|vFam_710| ORF69 [Human herpesvirus 8]
+gi|18653883|ref|NP_570817.1|vFam_710| hypothetical protein MmrVgp80 [Macacine herpesvirus 5]

@@ -1,0 +1,10 @@
+CLUSTER	5525
+NUM_SEQ	2
+LENGTH	479
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	249.08
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409889|ref|YP_004347309.1|vFam_5525| conserved ankyrin repeat-containing protein [Lausannevirus]
+gi|284504345|ref|YP_003407060.1|vFam_5525| ankyrin repeat-containing protein [Marseillevirus]

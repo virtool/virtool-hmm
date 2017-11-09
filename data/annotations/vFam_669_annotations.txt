@@ -1,0 +1,21 @@
+CLUSTER	669
+NUM_SEQ	13
+LENGTH	168
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	82.32
+FAMILIES	{'Baculoviridae': 12}
+GENERA	{'Betabaculovirus': 12}
+FASTA SEQUENCE TITLES:
+gi|32698600|ref|NP_872515.1|vFam_669| 38.7kd [Adoxophyes orana granulovirus]
+gi|285002359|ref|YP_003422423.1|vFam_669| P38.7 [Pseudaletia unipuncta granulovirus]
+gi|164519274|ref|YP_001649061.1|vFam_669| p38.7 [Helicoverpa armigera granulovirus]
+gi|148368882|ref|YP_001257012.1|vFam_669| hypothetical protein SlGVgp061 [Spodoptera litura granulovirus]
+gi|21686730|ref|NP_663230.1|vFam_669| P38.7 [Phthorimaea operculella granulovirus]
+gi|556549095|ref|YP_008720009.1|vFam_669| p38.7 [Clostera anastomosis granulovirus]
+gi|33622265|ref|NP_891912.1|vFam_669| 38.7kD protein [Cryptophlebia leucotreta granulovirus]
+gi|14602310|ref|NP_148857.1|vFam_669| ORF73 38.7KD [Cydia pomonella granulovirus]
+gi|109255326|ref|YP_654475.1|vFam_669| 38.7KD protein [Choristoneura occidentalis granulovirus]
+gi|288804698|ref|YP_003429383.1|vFam_669| 38.7 kDa protein [Pieris rapae granulovirus]
+gi|46309391|ref|YP_006281.1|vFam_669| ORF63 [Agrotis segetum granulovirus]
+gi|410493637|ref|YP_006908575.1|vFam_669| hypothetical protein [Epinotia aporema granulovirus]
+gi|11068057|ref|NP_068273.1|vFam_669| PxORF54 peptide [Plutella xylostella granulovirus]

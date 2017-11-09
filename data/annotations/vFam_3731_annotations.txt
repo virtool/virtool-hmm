@@ -1,0 +1,12 @@
+CLUSTER	3731
+NUM_SEQ	4
+LENGTH	157
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	80.07
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Betabaculovirus': 3, 'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|438000336|ref|YP_007250441.1|vFam_3731| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|285002386|ref|YP_003422450.1|vFam_3731| hypothetical protein PsunGV_gp111 [Pseudaletia unipuncta granulovirus]
+gi|164519305|ref|YP_001649092.1|vFam_3731| hypothetical protein HaGV_gp110 [Helicoverpa armigera granulovirus]
+gi|9635358|ref|NP_059256.1|vFam_3731| ORF108 [Xestia c-nigrum granulovirus]

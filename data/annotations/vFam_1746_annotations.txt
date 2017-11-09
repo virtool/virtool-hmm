@@ -1,0 +1,11 @@
+CLUSTER	1746
+NUM_SEQ	3
+LENGTH	403
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	205.53
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448260208|ref|YP_007348305.1|vFam_1746| glycosyltransferase group I [Sulfolobus virus STSV2]
+gi|313843996|ref|YP_004061659.1|vFam_1746| hypothetical protein OlV1_026c [Ostreococcus lucimarinus virus OlV1]
+gi|163954993|ref|YP_001648097.1|vFam_1746| hypothetical protein OsV5_020r [Ostreococcus virus OsV5]

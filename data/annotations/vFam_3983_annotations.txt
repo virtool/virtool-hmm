@@ -1,0 +1,10 @@
+CLUSTER	3983
+NUM_SEQ	2
+LENGTH	122
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	62.22
+FAMILIES	{'Coronaviridae': 2}
+GENERA	{'None': 1, 'Betacoronavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|304633682|ref|YP_003858589.1|vFam_3983| ORF7a protein [Bat coronavirus BM48-31/BGR/2008]
+gi|29836501|ref|NP_828857.1|vFam_3983| hypothetical protein sars7a [SARS coronavirus]

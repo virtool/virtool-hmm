@@ -1,0 +1,30 @@
+CLUSTER	271
+NUM_SEQ	22
+LENGTH	96
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	48.96
+FAMILIES	{'Baculoviridae': 1, 'Poxviridae': 18}
+GENERA	{'Betaentomopoxvirus': 1, 'None': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Betabaculovirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|410493579|ref|YP_006908517.1|vFam_271| hypothetical protein [Epinotia aporema granulovirus]
+gi|115531724|ref|YP_784250.1|vFam_271| IMV redox protein [Nile crocodilepox virus]
+gi|40556058|ref|NP_955143.1|vFam_271| CNPV120 putative IMV redox protein, virus assembly [Canarypox virus]
+gi|9634763|ref|NP_039056.1|vFam_271| hypothetical protein FPV093 [Fowlpox virus]
+gi|41057462|ref|NP_957935.1|vFam_271| ORF026 IMV redox protein [Bovine papular stomatitis virus]
+gi|41057089|ref|NP_957803.1|vFam_271| ORF026 putative IMV redox protein [Orf virus]
+gi|9628972|ref|NP_043991.1|vFam_271| MC040R [Molluscum contagiosum virus subtype 1]
+gi|571797959|ref|YP_008658458.1|vFam_271| putative redox protein [Squirrelpox virus]
+gi|113195244|ref|YP_717374.1|vFam_271| sulfhydryl oxidase [Taterapox virus]
+gi|345107232|ref|YP_004821397.1|vFam_271| sulfhydryl oxidase [Yoka poxvirus]
+gi|157939662|ref|YP_001497034.1|vFam_271| hypothetical protein TANV_40R [Tanapox virus]
+gi|38229203|ref|NP_938296.1|vFam_271| 40R [Yaba monkey tumor virus]
+gi|18640123|ref|NP_570197.1|vFam_271| SPV037 potential redox protein [Swinepox virus]
+gi|211956320|ref|YP_002302389.1|vFam_271| IMV redox protein [Deerpox virus W-1170-84]
+gi|377829950|ref|YP_005296244.1|vFam_271| unnamed protein product [Cotia virus SPAn232]
+gi|148912917|ref|YP_001293231.1|vFam_271| hypothetical protein GTPV_gp036 [Goatpox virus Pellor]
+gi|9633844|ref|NP_051924.1|vFam_271| gp035R [Rabbit fibroma virus]
+gi|9631495|ref|NP_048164.1|vFam_271| ORF MSV093 putative vaccinia E10R homolog, similar to SW:P33821 and yeast ERV1, SW:P27882 [Melanoplus sanguinipes entomopoxvirus]
+gi|9964428|ref|NP_064896.1|vFam_271| sulfhydryl oxidase [Amsacta moorei entomopoxvirus 'L']
+gi|506497888|ref|YP_008003687.1|vFam_271| sulfhydryl oxidase FAD-linked (Cop-E10R) [Mythimna separata entomopoxvirus 'L']
+gi|506498129|ref|YP_008003926.1|vFam_271| sulfhydryl oxidase FAD-linked (Cop-E10R) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498739|ref|YP_008004533.1|vFam_271| sulfhydryl oxidase FAD-linked (Cop-E10R) [Choristoneura rosaceana entomopoxvirus 'L']

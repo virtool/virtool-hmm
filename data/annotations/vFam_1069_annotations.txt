@@ -1,0 +1,11 @@
+CLUSTER	1069
+NUM_SEQ	3
+LENGTH	128
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	66.56
+FAMILIES	{'Marseillevirus family': 1, 'Polydnaviridae': 1}
+GENERA	{'Ichnovirus': 1, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|124484741|ref|YP_001031308.1|vFam_1069| d2.4 [Hyposoter fugitivus ichnovirus]
+gi|327409815|ref|YP_004347235.1|vFam_1069| hypothetical protein LAU_0272 [Lausannevirus]
+gi|32453828|ref|NP_861591.1|vFam_1069| hypothetical protein HalHV1gp003 [Halovirus HF1]

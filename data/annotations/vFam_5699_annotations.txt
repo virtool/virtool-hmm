@@ -1,0 +1,10 @@
+CLUSTER	5699
+NUM_SEQ	2
+LENGTH	168
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	87.36
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313768323|ref|YP_004062003.1|vFam_5699| hypothetical protein MpV1_120 [Micromonas sp. RCC1109 virus MpV1]
+gi|313768102|ref|YP_004061533.1|vFam_5699| hypothetical protein BpV1_103 [Bathycoccus sp. RCC1105 virus BpV1]

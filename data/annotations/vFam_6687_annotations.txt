@@ -1,0 +1,10 @@
+CLUSTER	6687
+NUM_SEQ	2
+LENGTH	246
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	127.92
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|56693017|ref|YP_164361.1|vFam_6687| hypothetical protein TTSV1_gp20 [Thermoproteus tenax spherical virus 1]
+gi|47131175|ref|YP_015541.1|vFam_6687| virus coat protein VP2 [Pyrobaculum spherical virus]

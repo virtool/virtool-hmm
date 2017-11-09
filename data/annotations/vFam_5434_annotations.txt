@@ -1,0 +1,10 @@
+CLUSTER	5434
+NUM_SEQ	2
+LENGTH	547
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	284.44
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|292397788|ref|YP_003517854.1|vFam_5434| ORF114 [Lymantria xylina MNPV]
+gi|9631108|ref|NP_047778.1|vFam_5434| LdOrf-141 peptide [Lymantria dispar multiple nucleopolyhedrovirus]

@@ -1,0 +1,13 @@
+CLUSTER	2062
+NUM_SEQ	5
+LENGTH	80
+RELATIVE_ENTROPY_PER_POSITION	0.66
+TOTAL_RELATIVE_ENTROPY	52.8
+FAMILIES	{'Potyviridae': 5}
+GENERA	{'Potyvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|390013206|ref|YP_006395316.1|vFam_2062| PIPO, partial [Johnsongrass mosaic virus]
+gi|390013215|ref|YP_006395323.1|vFam_2062| PIPO, partial [Sorghum mosaic virus]
+gi|390118491|ref|YP_006395338.1|vFam_2062| PIPO, partial [Pennisetum mosaic virus]
+gi|389885073|ref|YP_006393473.1|vFam_2062| PIPO, partial [Sugarcane mosaic virus]
+gi|389885071|ref|YP_006393471.1|vFam_2062| PIPO, partial [Maize dwarf mosaic virus]

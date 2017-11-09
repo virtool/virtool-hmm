@@ -1,0 +1,40 @@
+CLUSTER	159
+NUM_SEQ	32
+LENGTH	246
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	130.38
+FAMILIES	{'Geminiviridae': 29}
+GENERA	{'Mastrevirus': 27, 'Topocuvirus': 1, 'Begomovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|20564195|ref|NP_620732.1|vFam_159| coat protein [Tomato pseudo-curly top virus]
+gi|532691878|ref|YP_008472703.1|vFam_159| coat protein [Chickpea chlorosis Australia virus]
+gi|313139313|ref|YP_004046666.1|vFam_159| V1 [Chickpea chlorosis virus-A]
+gi|20564137|ref|NP_620725.1|vFam_159| coat protein [Tobacco yellow dwarf virus]
+gi|166153477|ref|YP_001654980.1|vFam_159| capsid protein [Chickpea chlorotic dwarf virus]
+gi|313122771|ref|YP_004046662.1|vFam_159| V1 [Chickpea redleaf virus]
+gi|9625667|ref|NP_039918.1|vFam_159| 26.8 kD virion capsid protein [Maize streak virus]
+gi|9626689|ref|NP_040963.1|vFam_159| coat protein [Digitaria streak virus]
+gi|262396921|ref|YP_003288767.1|vFam_159| coat protein [Saccharum streak virus]
+gi|189303449|ref|YP_001941154.1|vFam_159| coat protein [Urochloa streak virus]
+gi|9629911|ref|NP_045943.1|vFam_159| coat protein [Sugarcane streak Egypt virus]
+gi|9627992|ref|NP_042589.1|vFam_159| coat protein [Panicum streak virus]
+gi|168164405|ref|YP_001686793.1|vFam_159| coat protein [Eragrostis streak virus]
+gi|30146793|ref|NP_840051.1|vFam_159| coat protein [Sugarcane streak Reunion virus]
+gi|20428541|ref|NP_620491.1|vFam_159| coat protein [Sugarcane streak virus]
+gi|387600897|ref|YP_006331072.1|vFam_159| capsid protein [Maize streak Reunion virus]
+gi|386361877|ref|YP_006273069.1|vFam_159| coat protein [Wheat dwarf India virus]
+gi|315570368|ref|YP_004089626.1|vFam_159| coat protein [Bromus catharticus striate mosaic virus]
+gi|404184316|ref|YP_006666534.1|vFam_159| capsid protein [Digitaria ciliaris striate mosaic virus]
+gi|404184257|ref|YP_006666522.1|vFam_159| capsid protein [Paspalum dilatatum striate mosaic virus]
+gi|403516100|ref|YP_006659973.1|vFam_159| coat protein [Paspalum striate mosaic virus]
+gi|308125299|ref|YP_003915158.1|vFam_159| coat protein [Digitaria didactyla striate mosaic virus]
+gi|9626668|ref|NP_040952.1|vFam_159| coat protein [Chloris striate mosaic virus]
+gi|404184274|ref|YP_006666526.1|vFam_159| capsid protein [Sporobolus striate mosaic virus 1]
+gi|422933998|ref|YP_007004037.1|vFam_159| capsid protein [Dragonfly-associated mastrevirus]
+gi|404184291|ref|YP_006666530.1|vFam_159| capsid protein [Sporobolus striate mosaic virus 2]
+gi|333595895|ref|YP_004465363.1|vFam_159| coat protein [Eragrostis minor streak virus]
+gi|18450239|ref|NP_569145.1|vFam_159| coat protein [Miscanthus streak virus]
+gi|229605060|ref|YP_002875758.1|vFam_159| coat protein [Eragrostis curvula streak virus]
+gi|189311150|ref|YP_001941161.1|vFam_159| Coat protein [Oat dwarf virus]
+gi|189311145|ref|YP_001941157.1|vFam_159| Coat protein [Wheat dwarf virus]
+gi|18071200|ref|NP_542348.1|vFam_159| Coat protein [Wheat dwarf virus]

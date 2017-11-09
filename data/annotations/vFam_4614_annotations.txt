@@ -1,0 +1,11 @@
+CLUSTER	4614
+NUM_SEQ	3
+LENGTH	230
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	115.0
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'Prymnesiovirus': 1, 'Coccolithovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|73852906|ref|YP_294190.1|vFam_4614| hypothetical protein EhV432 [Emiliania huxleyi virus 86]
+gi|508182215|ref|YP_008052734.1|vFam_4614| methyltransferase [Phaeocystis globosa virus]
+gi|73852526|ref|YP_293810.1|vFam_4614| hypothetical protein EhV056 [Emiliania huxleyi virus 86]

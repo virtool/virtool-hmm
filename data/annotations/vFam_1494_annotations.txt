@@ -1,0 +1,13 @@
+CLUSTER	1494
+NUM_SEQ	5
+LENGTH	450
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	234.0
+FAMILIES	{'None': 1, 'Rhabdoviridae': 4}
+GENERA	{'Varicosavirus': 1, 'Cytorhabdovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|212675448|ref|YP_002317202.1|vFam_1494| coat protein [Lettuce big-vein associated virus]
+gi|9635148|ref|NP_057954.1|vFam_1494| nucleocapsid protein [Northern cereal mosaic virus]
+gi|523587721|ref|YP_006576501.2|vFam_1494| nucleocapsid protein [Persimmon virus A]
+gi|212498332|ref|YP_002308371.1|vFam_1494| N protein [Lettuce yellow mottle virus]
+gi|83659772|ref|YP_425087.1|vFam_1494| nucleocapsid protein [Lettuce necrotic yellows virus]

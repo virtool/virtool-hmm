@@ -1,0 +1,11 @@
+CLUSTER	4004
+NUM_SEQ	3
+LENGTH	172
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	89.44
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|32453882|ref|NP_861645.1|vFam_4004| similar to dCTP deaminases [Halovirus HF1]
+gi|448260177|ref|YP_007348274.1|vFam_4004| dUTPase [Sulfolobus virus STSV2]
+gi|22122296|ref|NP_666557.1|vFam_4004| hypothetical protein SIRV2gp23 [Sulfolobus islandicus rod-shaped virus 2]

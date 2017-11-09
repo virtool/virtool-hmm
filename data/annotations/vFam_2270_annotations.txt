@@ -1,0 +1,11 @@
+CLUSTER	2270
+NUM_SEQ	3
+LENGTH	225
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	114.75
+FAMILIES	{'Phycodnaviridae': 1}
+GENERA	{'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852572|ref|YP_293856.1|vFam_2270| hypothetical protein EhV102 [Emiliania huxleyi virus 86]
+gi|531037221|ref|YP_008438864.1|vFam_2270| NUDIX hydrolase domain-like motif-containing [Pandoravirus salinus]
+gi|526120067|ref|YP_008319970.1|vFam_2270| nudix hydrolase domain-like motif-containing [Pandoravirus dulcis]

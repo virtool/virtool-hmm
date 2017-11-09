@@ -1,0 +1,11 @@
+CLUSTER	3013
+NUM_SEQ	3
+LENGTH	982
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	510.64
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977728|ref|YP_003986848.1|vFam_3013| putative regulator of chromosome condensation [Acanthamoeba polyphaga mimivirus]
+gi|448825530|ref|YP_007418461.1|vFam_3013| putative regulator of chromosome condensation [Megavirus lba]
+gi|441432410|ref|YP_007354452.1|vFam_3013| hypothetical protein Moumou_00482 [Acanthamoeba polyphaga moumouvirus]

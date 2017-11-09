@@ -1,0 +1,12 @@
+CLUSTER	2148
+NUM_SEQ	4
+LENGTH	303
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	151.5
+FAMILIES	{'Iridoviridae': 1, 'Ascoviridae': 3}
+GENERA	{'Ascovirus': 3, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15078966|ref|NP_149717.1|vFam_2148| 254L [Invertebrate iridescent virus 6]
+gi|116326812|ref|YP_803349.1|vFam_2148| hypothetical protein TNAV2c_gp126 [Trichoplusia ni ascovirus 2c]
+gi|134287222|ref|YP_001110918.1|vFam_2148| hypothetical protein HVAV3e_gp065 [Heliothis virescens ascovirus 3e]
+gi|115298557|ref|YP_762410.1|vFam_2148| 35.1 kDa [Spodoptera frugiperda ascovirus 1a]

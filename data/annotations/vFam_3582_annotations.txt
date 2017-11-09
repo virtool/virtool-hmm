@@ -1,0 +1,11 @@
+CLUSTER	3582
+NUM_SEQ	3
+LENGTH	617
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	314.67
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Roseolovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|51874309|ref|YP_073827.1|vFam_3582| envelope glycoprotein Q [Human herpesvirus 7]
+gi|224020412|ref|NP_042993.2|vFam_3582| envelope glycoprotein Q [Human herpesvirus 6A]
+gi|9633161|ref|NP_050271.1|vFam_3582| spliced envelope glycoprotein [Human herpesvirus 6B]

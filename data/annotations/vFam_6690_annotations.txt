@@ -1,0 +1,10 @@
+CLUSTER	6690
+NUM_SEQ	2
+LENGTH	77
+RELATIVE_ENTROPY_PER_POSITION	0.66
+TOTAL_RELATIVE_ENTROPY	50.82
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Iridovirus': 1, 'Ranavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|56692742|ref|YP_164200.1|vFam_6690| hypothetical protein ORF105R [Singapore grouper iridovirus]
+gi|15079056|ref|NP_149807.1|vFam_6690| 344R [Invertebrate iridescent virus 6]

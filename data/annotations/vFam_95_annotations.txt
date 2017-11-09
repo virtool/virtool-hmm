@@ -1,0 +1,48 @@
+CLUSTER	95
+NUM_SEQ	40
+LENGTH	269
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	139.88
+FAMILIES	{'Asfarviridae': 1, 'Baculoviridae': 35}
+GENERA	{'Betabaculovirus': 10, 'Alphabaculovirus': 25, 'Asfivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9628227|ref|NP_042813.1|vFam_95| serine protein kinase [African swine fever virus]
+gi|410493576|ref|YP_006908514.1|vFam_95| protein kinase 1 [Epinotia aporema granulovirus]
+gi|9635253|ref|NP_059151.1|vFam_95| ORF3 [Xestia c-nigrum granulovirus]
+gi|11068009|ref|NP_068225.1|vFam_95| PxORF6 peptide [Plutella xylostella granulovirus]
+gi|148368824|ref|YP_001256954.1|vFam_95| pk [Spodoptera litura granulovirus]
+gi|32698542|ref|NP_872457.1|vFam_95| pk-1 [Adoxophyes orana granulovirus]
+gi|33622206|ref|NP_891851.1|vFam_95| pk-1 [Cryptophlebia leucotreta granulovirus]
+gi|14602244|ref|NP_148787.1|vFam_95| ORF3 PK-1 [Cydia pomonella granulovirus]
+gi|21686668|ref|NP_663168.1|vFam_95| protein kinase 1 [Phthorimaea operculella granulovirus]
+gi|556549037|ref|YP_008719951.1|vFam_95| pk-1 [Clostera anastomosis granulovirus]
+gi|109255275|ref|YP_654424.1|vFam_95| PK-1 [Choristoneura occidentalis granulovirus]
+gi|288804642|ref|YP_003429327.1|vFam_95| PK-1 [Pieris rapae granulovirus]
+gi|438000316|ref|YP_007250421.1|vFam_95| pk-1 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|9630819|ref|NP_047416.1|vFam_95| Protein Kinase [Bombyx mori nucleopolyhedrovirus]
+gi|15320792|ref|NP_203304.1|vFam_95| PK-1 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326219|ref|YP_803545.1|vFam_95| protein kinase 1 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|96979772|ref|YP_610972.1|vFam_95| serine/threonine protein kinase [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355523|ref|YP_473191.1|vFam_95| Protein kinase 1 [Hyphantria cunea nucleopolyhedrovirus]
+gi|30387377|ref|NP_848456.1|vFam_95| protein kinase 1 [Choristoneura fumiferana multiple nucleopolyhedrovirus]
+gi|9629939|ref|NP_046157.1|vFam_95| protein kinase 1 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|15617477|ref|NP_258271.1|vFam_95| protein kinase [Spodoptera litura nucleopolyhedrovirus]
+gi|29567090|ref|NP_818652.1|vFam_95| protein kinase [Adoxophyes honmai nucleopolyhedrovirus]
+gi|114679850|ref|YP_758300.1|vFam_95| pk1 [Leucania separata nucleopolyhedrovirus]
+gi|402502228|ref|YP_006607886.1|vFam_95| protein kinase 1 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|292397677|ref|YP_003517743.1|vFam_95| protein kinase 1 [Lymantria xylina MNPV]
+gi|9630969|ref|NP_047639.1|vFam_95| protein kinase [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|113195406|ref|YP_717541.1|vFam_95| protein kinase 1 [Clanis bilineata nucleopolyhedrovirus]
+gi|118197484|ref|YP_874196.1|vFam_95| protein kinase 1 [Ectropis obliqua nucleopolyhedrovirus]
+gi|228861593|ref|YP_002854613.1|vFam_95| PK-1 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|529218056|ref|YP_008378219.1|vFam_95| protein kinase 1 [Hemileuca sp. nucleopolyhedrovirus]
+gi|165969013|ref|YP_001650913.1|vFam_95| protein kinase 1 [Orgyia leucostigma NPV]
+gi|209401057|ref|YP_002273926.1|vFam_95| protein kinase 1 [Helicoverpa armigera NPV NNg1]
+gi|22549405|ref|NP_689178.1|vFam_95| pk1 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069882|ref|NP_613086.1|vFam_95| protein kinase 1 [Mamestra configurata nucleopolyhedrovirus A]
+gi|74229687|ref|YP_308891.1|vFam_95| protein kinase 1 (pk1) [Trichoplusia ni single nucleopolyhedrovirus]
+gi|125860127|ref|YP_001036296.1|vFam_95| protein kinase 1 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401398|ref|YP_002332701.1|vFam_95| PK-1 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634224|ref|NP_037763.1|vFam_95| ORF3 protein kinase 1 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209170887|ref|YP_002268033.1|vFam_95| agip3 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592720|ref|YP_529673.1|vFam_95| PK1 [Agrotis segetum nucleopolyhedrovirus]

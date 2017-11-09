@@ -1,0 +1,12 @@
+CLUSTER	3364
+NUM_SEQ	4
+LENGTH	113
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	58.76
+FAMILIES	{'Bromoviridae': 4}
+GENERA	{'Cucumovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|20800438|ref|NP_620826.1|vFam_3364| 2b protein [Tomato aspermy virus]
+gi|20149788|ref|NP_619631.1|vFam_3364| 2b protein [Cucumber mosaic virus]
+gi|224808901|ref|YP_002640502.1|vFam_3364| 2b protein [Gayfeather mild mottle virus]
+gi|54401454|ref|YP_133829.1|vFam_3364| 2b protein [Peanut stunt virus]

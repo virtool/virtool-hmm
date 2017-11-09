@@ -1,0 +1,11 @@
+CLUSTER	3144
+NUM_SEQ	3
+LENGTH	316
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	161.16
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|422933620|ref|YP_007003745.1|vFam_3144| membrane protein ORF82 [Cyprinid herpesvirus 1]
+gi|422933846|ref|YP_007003901.1|vFam_3144| membrane protein ORF82 [Cyprinid herpesvirus 2]
+gi|131840108|ref|YP_001096117.1|vFam_3144| unnamed protein product [Cyprinid herpesvirus 3]

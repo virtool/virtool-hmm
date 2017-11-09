@@ -1,0 +1,12 @@
+CLUSTER	1458
+NUM_SEQ	4
+LENGTH	208
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	101.92
+FAMILIES	{'Malacoherpesviridae': 3, 'Reoviridae': 1}
+GENERA	{'None': 1, 'Ostreavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|308928592|ref|YP_003934928.1|vFam_1458| protein P10b [Raspberry latent virus]
+gi|48696844|ref|YP_024668.1|vFam_1458| ORF121 [Ostreid herpesvirus 1]
+gi|48696847|ref|YP_024671.1|vFam_1458| ORF118 [Ostreid herpesvirus 1]
+gi|48696758|ref|YP_024582.1|vFam_1458| ORF38 [Ostreid herpesvirus 1]

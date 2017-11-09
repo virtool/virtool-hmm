@@ -1,0 +1,14 @@
+CLUSTER	1381
+NUM_SEQ	6
+LENGTH	71
+RELATIVE_ENTROPY_PER_POSITION	0.73
+TOTAL_RELATIVE_ENTROPY	51.83
+FAMILIES	{'Alphaflexiviridae': 1, 'Betaflexiviridae': 4}
+GENERA	{'None': 4, 'Lolavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|20889402|ref|NP_624316.1|vFam_1381| movement protein 3 [Sugarcane striate mosaic-associated virus]
+gi|169803204|ref|YP_001718502.1|vFam_1381| triple gene block protein 3 [Lolium latent virus]
+gi|13559821|ref|NP_112032.1|vFam_1381| triple gene block protein 4 [Banana mild mosaic virus]
+gi|226309585|ref|YP_002776350.1|vFam_1381| TGB3 [African oil palm ringspot virus]
+gi|478755942|ref|YP_007761585.1|vFam_1381| triple gene block protein 3 [Cherry rusty mottle associated virus]
+gi|9635569|ref|NP_059941.1|vFam_1381| 7 kDa triple gene block protein [Cherry necrotic rusty mottle virus]

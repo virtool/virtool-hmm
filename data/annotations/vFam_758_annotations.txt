@@ -1,0 +1,10 @@
+CLUSTER	758
+NUM_SEQ	2
+LENGTH	156
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	78.0
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|119756993|ref|YP_919035.1|vFam_758| hypothetical protein BJ1_gp08 [Archaeal BJ1 virus]
+gi|9964420|ref|NP_064888.1|vFam_758| hypothetical protein AMV106 [Amsacta moorei entomopoxvirus 'L']

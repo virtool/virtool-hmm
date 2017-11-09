@@ -1,0 +1,11 @@
+CLUSTER	3886
+NUM_SEQ	3
+LENGTH	438
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	227.76
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977675|ref|YP_003986795.1|vFam_3886| putative ubiquitin carboxyl-terminal hydrolase [Acanthamoeba polyphaga mimivirus]
+gi|448825598|ref|YP_007418529.1|vFam_3886| putative ubiquitin carboxyl-terminal hydrolase [Megavirus lba]
+gi|441432465|ref|YP_007354507.1|vFam_3886| peptidase C19 subfamily protein [Acanthamoeba polyphaga moumouvirus]

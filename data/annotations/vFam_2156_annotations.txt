@@ -1,0 +1,13 @@
+CLUSTER	2156
+NUM_SEQ	5
+LENGTH	182
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	92.82
+FAMILIES	{'Iridoviridae': 5}
+GENERA	{'Ranavirus': 5}
+FASTA SEQUENCE TITLES:
+gi|56692764|ref|YP_164222.1|vFam_2156| hypothetical protein ORF127R [Singapore grouper iridovirus]
+gi|56692724|ref|YP_164182.1|vFam_2156| hypothetical protein ORF087R [Singapore grouper iridovirus]
+gi|56692763|ref|YP_164221.1|vFam_2156| hypothetical protein ORF126R [Singapore grouper iridovirus]
+gi|56692762|ref|YP_164220.1|vFam_2156| hypothetical protein ORF125R [Singapore grouper iridovirus]
+gi|56692761|ref|YP_164219.1|vFam_2156| hypothetical protein ORF124R [Singapore grouper iridovirus]

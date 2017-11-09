@@ -1,0 +1,11 @@
+CLUSTER	4879
+NUM_SEQ	3
+LENGTH	140
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	71.4
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|448826048|ref|YP_007418979.1|vFam_4879| hypothetical protein LBA_01085 [Megavirus lba]
+gi|441432762|ref|YP_007354804.1|vFam_4879| hypothetical protein Moumou_00853 [Acanthamoeba polyphaga moumouvirus]
+gi|363540037|ref|YP_004895158.1|vFam_4879| mg1107 gene product [Megavirus chiliensis]

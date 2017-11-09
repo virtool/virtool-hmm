@@ -1,0 +1,13 @@
+CLUSTER	2862
+NUM_SEQ	5
+LENGTH	83
+RELATIVE_ENTROPY_PER_POSITION	0.61
+TOTAL_RELATIVE_ENTROPY	50.63
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'Capripoxvirus': 1, 'Yatapoxvirus': 2, 'Cervidpoxvirus': 1, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|157939756|ref|YP_001497128.1|vFam_2862| hypothetical protein TANV_132R [Tanapox virus]
+gi|38229294|ref|NP_938387.1|vFam_2862| 132R [Yaba monkey tumor virus]
+gi|211956412|ref|YP_002302481.1|vFam_2862| hypothetical protein DpV84gp141 [Deerpox virus W-1170-84]
+gi|18640213|ref|NP_570287.1|vFam_2862| SPV127 hypothetical protein [Swinepox virus]
+gi|148913008|ref|YP_001293322.1|vFam_2862| hypothetical protein GTPV_gp125 [Goatpox virus Pellor]

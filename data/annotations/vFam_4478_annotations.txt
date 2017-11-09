@@ -1,0 +1,10 @@
+CLUSTER	4478
+NUM_SEQ	2
+LENGTH	422
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	215.22
+FAMILIES	{'None': 1, 'Malacoherpesviridae': 1}
+GENERA	{'None': 1, 'Ostreavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|410493551|ref|YP_006908749.1|vFam_4478| putative tRNA ligase [Abalone herpesvirus Victoria/AUS/2009]
+gi|48696781|ref|YP_024605.1|vFam_4478| ORF64 [Ostreid herpesvirus 1]

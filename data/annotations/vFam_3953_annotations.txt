@@ -1,0 +1,10 @@
+CLUSTER	3953
+NUM_SEQ	2
+LENGTH	236
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	122.72
+FAMILIES	{'Hytrosaviridae': 2}
+GENERA	{'Muscavirus': 1, 'Glossinavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|168804094|ref|YP_001687026.1|vFam_3953| hypothetical protein SGHV078 [Glossina pallidipes salivary gland hypertrophy virus]
+gi|187903145|ref|YP_001883436.1|vFam_3953| Ac81-like protein [Musca domestica salivary gland hypertrophy virus]

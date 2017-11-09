@@ -1,0 +1,18 @@
+CLUSTER	572
+NUM_SEQ	10
+LENGTH	260
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	135.2
+FAMILIES	{'Herpesviridae': 10}
+GENERA	{'Macavirus': 2, 'None': 1, 'Rhadinovirus': 6, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|321496618|ref|YP_004207903.1|vFam_572| tegument protein [Rodent herpesvirus Peru]
+gi|9629627|ref|NP_044905.1|vFam_572| nuclear egress type 2 membrane protein [Murid herpesvirus 4]
+gi|83642903|ref|YP_438191.1|vFam_572| ORF67 [Ovine herpesvirus 2]
+gi|10140989|ref|NP_065566.1|vFam_572| tegument protein [Alcelaphine herpesvirus 1]
+gi|139472856|ref|YP_001129424.1|vFam_572| ORF67 [Human herpesvirus 8]
+gi|18653881|ref|NP_570815.1|vFam_572| tegument protein [Macacine herpesvirus 5]
+gi|9628070|ref|NP_042664.1|vFam_572| tegument protein [Equid herpesvirus 2]
+gi|13095644|ref|NP_076559.1|vFam_572| tegument protein [Bovine herpesvirus 4]
+gi|9631258|ref|NP_048038.1|vFam_572| orf 67 [Ateline herpesvirus 3]
+gi|9626023|ref|NP_040269.1|vFam_572| unnamed protein product [Saimiriine herpesvirus 2]

@@ -1,0 +1,15 @@
+CLUSTER	946
+NUM_SEQ	7
+LENGTH	140
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	72.8
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Alphabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|113195512|ref|YP_717650.1|vFam_946| Ld135-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|209401124|ref|YP_002273993.1|vFam_946| hypothetical protein HaSNPVNNg1_gp070 [Helicoverpa armigera NPV NNg1]
+gi|9631102|ref|NP_047772.1|vFam_946| LdOrf-135 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|228861729|ref|YP_002854749.1|vFam_946| ldl35 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|118197581|ref|YP_874293.1|vFam_946| hypothetical protein EONV_gp100 [Ectropis obliqua nucleopolyhedrovirus]
+gi|529218171|ref|YP_008378334.1|vFam_946| HESP118 [Hemileuca sp. nucleopolyhedrovirus]
+gi|165969127|ref|YP_001651027.1|vFam_946| hypothetical protein [Orgyia leucostigma NPV]

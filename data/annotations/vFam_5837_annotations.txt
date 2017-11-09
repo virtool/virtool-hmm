@@ -1,0 +1,10 @@
+CLUSTER	5837
+NUM_SEQ	2
+LENGTH	99
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	51.48
+FAMILIES	{'Geminiviridae': 2}
+GENERA	{'Mastrevirus': 2}
+FASTA SEQUENCE TITLES:
+gi|333595894|ref|YP_004465362.1|vFam_5837| movement protein [Eragrostis minor streak virus]
+gi|18450243|ref|NP_569144.1|vFam_5837| putative movement protein [Miscanthus streak virus]

@@ -1,0 +1,10 @@
+CLUSTER	4047
+NUM_SEQ	2
+LENGTH	188
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	97.76
+FAMILIES	{'Caliciviridae': 2}
+GENERA	{'None': 1, 'Vesivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|28392847|ref|NP_786909.1|vFam_4047| Putative cysteine proteinase [Canine calicivirus]
+gi|28392824|ref|NP_786895.1|vFam_4047| Putative cysteine proteinase [Vesicular exanthema of swine virus]

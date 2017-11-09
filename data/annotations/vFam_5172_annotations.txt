@@ -1,0 +1,10 @@
+CLUSTER	5172
+NUM_SEQ	2
+LENGTH	100
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|529153482|ref|YP_008378507.1|vFam_5172| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|30387375|ref|NP_848454.1|vFam_5172| hypothetical protein CfMNPVgpORF143 [Choristoneura fumiferana multiple nucleopolyhedrovirus]

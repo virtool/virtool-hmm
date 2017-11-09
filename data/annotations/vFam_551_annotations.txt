@@ -1,0 +1,21 @@
+CLUSTER	551
+NUM_SEQ	13
+LENGTH	148
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	78.44
+FAMILIES	{'Poxviridae': 13}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9633834|ref|NP_051913.1|vFam_551| gp024L [Rabbit fibroma virus]
+gi|40556070|ref|NP_955155.1|vFam_551| CNPV132 conserved hypothetical protein [Canarypox virus]
+gi|9634775|ref|NP_039068.1|vFam_551| hypothetical protein FPV105 [Fowlpox virus]
+gi|9628957|ref|NP_043976.1|vFam_551| MC025L [Molluscum contagiosum virus subtype 1]
+gi|571797944|ref|YP_008658443.1|vFam_551| conserved hypothetical pox protein [Squirrelpox virus]
+gi|377830070|ref|YP_005296234.1|vFam_551| unnamed protein product [Cotia virus SPAn232]
+gi|345107220|ref|YP_004821385.1|vFam_551| hypothetical protein YKV032c [Yoka poxvirus]
+gi|9627560|ref|NP_042083.1|vFam_551| hypothetical protein VARVgp039 [Variola virus]
+gi|211956309|ref|YP_002302378.1|vFam_551| hypothetical protein DpV84gp037 [Deerpox virus W-1170-84]
+gi|157939651|ref|YP_001497023.1|vFam_551| hypothetical protein TANV_29L [Tanapox virus]
+gi|38229192|ref|NP_938285.1|vFam_551| 29L [Yaba monkey tumor virus]
+gi|18640113|ref|NP_570187.1|vFam_551| SPV027 hypothetical protein [Swinepox virus]
+gi|148912906|ref|YP_001293220.1|vFam_551| hypothetical protein GTPV_gp025 [Goatpox virus Pellor]

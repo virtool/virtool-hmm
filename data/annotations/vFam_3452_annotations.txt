@@ -1,0 +1,11 @@
+CLUSTER	3452
+NUM_SEQ	3
+LENGTH	203
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	103.53
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|414089975|ref|YP_006990106.1|vFam_3452| hypothetical protein [Sulfolobales Mexican rudivirus 1]
+gi|22122262|ref|NP_666623.1|vFam_3452| hypothetical protein SIRV1gp35 [Sulfolobus islandicus rod-shaped virus 1]
+gi|159341090|ref|YP_001542649.1|vFam_3452| hypothetical protein [Acidianus rod-shaped virus 1]

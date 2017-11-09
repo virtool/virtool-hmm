@@ -1,0 +1,11 @@
+CLUSTER	3282
+NUM_SEQ	3
+LENGTH	250
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	127.5
+FAMILIES	{'Filoviridae': 1, 'Phycodnaviridae': 2}
+GENERA	{'None': 1, 'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|157953628|ref|YP_001498519.1|vFam_3282| hypothetical protein AR158_C438L [Paramecium bursaria Chlorella virus AR158]
+gi|157952801|ref|YP_001497693.1|vFam_3282| hypothetical protein NY2A_B497L [Paramecium bursaria Chlorella virus NY2A]
+gi|355469078|ref|YP_004928141.1|vFam_3282| hypothetical protein LLOV_gp7 [Lloviu virus]

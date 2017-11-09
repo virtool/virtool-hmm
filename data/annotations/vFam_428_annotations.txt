@@ -1,0 +1,21 @@
+CLUSTER	428
+NUM_SEQ	13
+LENGTH	372
+RELATIVE_ENTROPY_PER_POSITION	0.55
+TOTAL_RELATIVE_ENTROPY	204.6
+FAMILIES	{'Paramyxoviridae': 13}
+GENERA	{'Avulavirus': 4, 'Rubulavirus': 9}
+FASTA SEQUENCE TITLES:
+gi|55775701|ref|YP_138514.1|vFam_428| membrane protein [Parainfluenza virus 5]
+gi|55770824|ref|YP_138507.1|vFam_428| matrix protein [Simian virus 41]
+gi|19525724|ref|NP_598403.1|vFam_428| matrix protein [Human parainfluenza virus 2]
+gi|151266283|ref|YP_001331032.1|vFam_428| matrix protein [Porcine rubulavirus]
+gi|148283125|ref|YP_001249275.1|vFam_428| matrix protein [Mapuera virus]
+gi|9695419|ref|NP_054710.1|vFam_428| membrane protein [Mumps virus]
+gi|529217041|ref|YP_008378662.1|vFam_428| matrix protein [Human parainfluenza virus 4a]
+gi|82712721|ref|YP_415511.1|vFam_428| membrane protein [Menangle virus]
+gi|22003847|ref|NP_665868.1|vFam_428| matrix protein [Tioman virus]
+gi|32563518|ref|NP_872275.1|vFam_428| matrix protein [Goose paramyxovirus SF02]
+gi|11545726|ref|NP_071468.1|vFam_428| matrix protein [Newcastle disease virus B1]
+gi|422937948|ref|YP_007008149.1|vFam_428| matrix protein [Avian paramyxovirus 4]
+gi|15081570|ref|NP_150059.1|vFam_428| matrix protein [Avian paramyxovirus 6]

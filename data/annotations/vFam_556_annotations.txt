@@ -1,0 +1,19 @@
+CLUSTER	556
+NUM_SEQ	11
+LENGTH	647
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	342.91
+FAMILIES	{'Reoviridae': 10}
+GENERA	{'Orbivirus': 10}
+FASTA SEQUENCE TITLES:
+gi|50253412|ref|YP_052945.1|vFam_556| VP4 [St Croix River virus]
+gi|555928262|ref|YP_008719907.1|vFam_556| VP4 [Mobuck virus]
+gi|85719278|ref|YP_460041.1|vFam_556| VP4 [Peruvian horse sickness virus]
+gi|83721678|ref|YP_443928.1|vFam_556| VP4 [Yunnan orbivirus]
+gi|312166201|ref|YP_003896060.1|vFam_556| VP3 [Great Island virus]
+gi|550455608|ref|YP_008658423.1|vFam_556| Cap [Wallal virus]
+gi|556333822|ref|YP_008719927.1|vFam_556| capping enzyme [Changuinola virus]
+gi|261181651|ref|YP_003240111.1|vFam_556| VP4 protein [Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey)]
+gi|85857780|ref|YP_052969.2|vFam_556| hypothetical protein BTVs4gp1 [Bluetongue virus]
+gi|50261335|ref|YP_052936.1|vFam_556| minor core protein VP4 [Palyam virus]
+gi|50261321|ref|YP_052957.1|vFam_556| inner capsid protein [African horse sickness virus]

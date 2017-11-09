@@ -1,0 +1,13 @@
+CLUSTER	876
+NUM_SEQ	5
+LENGTH	197
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	102.44
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'Crocodylidpoxvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|115531679|ref|YP_784205.1|vFam_876| F-box domain protein [Nile crocodilepox virus]
+gi|115531673|ref|YP_784199.1|vFam_876| F-box domain protein [Nile crocodilepox virus]
+gi|115531676|ref|YP_784202.1|vFam_876| F-box domain protein [Nile crocodilepox virus]
+gi|115531678|ref|YP_784204.1|vFam_876| F-box domain protein [Nile crocodilepox virus]
+gi|115531677|ref|YP_784203.1|vFam_876| F-box domain protein [Nile crocodilepox virus]

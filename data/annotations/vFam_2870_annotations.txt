@@ -1,0 +1,13 @@
+CLUSTER	2870
+NUM_SEQ	5
+LENGTH	67
+RELATIVE_ENTROPY_PER_POSITION	0.77
+TOTAL_RELATIVE_ENTROPY	51.59
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Alphabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|125860245|ref|YP_001036415.1|vFam_2870| hypothetical protein SFMNPV_gp123 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401521|ref|YP_002332825.1|vFam_2870| hypothetical protein SlnV2_gp127 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634343|ref|NP_037882.1|vFam_2870| ORF122 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209171024|ref|YP_002268171.1|vFam_2870| agip141 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592851|ref|YP_529804.1|vFam_2870| ORF-134 [Agrotis segetum nucleopolyhedrovirus]

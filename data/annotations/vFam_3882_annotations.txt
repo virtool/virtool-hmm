@@ -1,0 +1,11 @@
+CLUSTER	3882
+NUM_SEQ	3
+LENGTH	322
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	167.44
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|41057557|ref|NP_958030.1|vFam_3882| ORF122 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183885|ref|YP_003457426.1|vFam_3882| hypothetical protein PCPV_gp123 [Pseudocowpox virus]
+gi|41057185|ref|NP_957899.1|vFam_3882| ORF122 hypothetical protein [Orf virus]

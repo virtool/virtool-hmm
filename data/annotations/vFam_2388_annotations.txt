@@ -1,0 +1,13 @@
+CLUSTER	2388
+NUM_SEQ	5
+LENGTH	326
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	169.52
+FAMILIES	{'Virgaviridae': 5}
+GENERA	{'Furovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|21427640|ref|NP_659021.1|vFam_2388| 37-kDa movement protein [Sorghum chlorotic spot virus]
+gi|9635456|ref|NP_059512.1|vFam_2388| putative movement protein [Oat golden stripe virus]
+gi|9635443|ref|NP_059452.1|vFam_2388| putative movement protein [Soil-borne cereal mosaic virus]
+gi|9632356|ref|NP_049337.1|vFam_2388| 37 kDa protein [Soil-borne wheat mosaic virus]
+gi|9635460|ref|NP_059515.1|vFam_2388| movement protein [Chinese wheat mosaic virus]

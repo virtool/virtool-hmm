@@ -1,0 +1,12 @@
+CLUSTER	3026
+NUM_SEQ	4
+LENGTH	155
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	80.6
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497844|ref|YP_008003643.1|vFam_3026| unknown similar to AMEV107 [Mythimna separata entomopoxvirus 'L']
+gi|506498131|ref|YP_008003928.1|vFam_3026| unknown similar to AMEV107 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498738|ref|YP_008004532.1|vFam_3026| unknown similar to AMEV107 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964421|ref|NP_064889.1|vFam_3026| putative deoxyuridine 5'triphosphatenucleotidohydrolase [Amsacta moorei entomopoxvirus 'L']

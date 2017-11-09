@@ -1,0 +1,11 @@
+CLUSTER	2789
+NUM_SEQ	3
+LENGTH	184
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	95.68
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|131840100|ref|YP_001096109.1|vFam_2789| unnamed protein product [Cyprinid herpesvirus 3]
+gi|422933839|ref|YP_007003893.1|vFam_2789| protein ORF74 [Cyprinid herpesvirus 2]
+gi|422933612|ref|YP_007003737.1|vFam_2789| protein ORF74 [Cyprinid herpesvirus 1]

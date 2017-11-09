@@ -1,0 +1,10 @@
+CLUSTER	6682
+NUM_SEQ	2
+LENGTH	56
+RELATIVE_ENTROPY_PER_POSITION	0.94
+TOTAL_RELATIVE_ENTROPY	52.64
+FAMILIES	{'Closteroviridae': 2}
+GENERA	{'Closterovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|77118924|ref|YP_337913.1|vFam_6682| 6.3 kDa small hydrophobic protein [Grapevine leafroll-associated virus 2]
+gi|30018239|ref|NP_835246.1|vFam_6682| p6 protein [Grapevine rootstock stem lesion associated virus]

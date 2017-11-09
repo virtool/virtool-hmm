@@ -1,0 +1,36 @@
+CLUSTER	191
+NUM_SEQ	28
+LENGTH	273
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	144.69
+FAMILIES	{'Virgaviridae': 26}
+GENERA	{'Tobamovirus': 26}
+FASTA SEQUENCE TITLES:
+gi|219552918|ref|YP_002455906.1|vFam_191| 33 kDa [Cactus mild mottle virus]
+gi|366091751|ref|YP_004956729.1|vFam_191| unnamed protein product [Clitoria yellow mottle virus]
+gi|190149260|ref|YP_001974325.1|vFam_191| movement protein [Brugmansia mild mottle virus]
+gi|9790353|ref|NP_062915.1|vFam_191| 28.5 kDa protein [Tobacco mild green mosaic virus]
+gi|557940292|ref|YP_008802586.1|vFam_191| movement protein [Yellow tailflower mild mottle virus]
+gi|22212890|ref|NP_671720.1|vFam_191| 30kDa protein [Paprika mild mottle virus]
+gi|20806013|ref|NP_620843.1|vFam_191| 30K protein [Obuda pepper virus]
+gi|151266415|ref|YP_001333652.1|vFam_191| movement protein [Bell pepper mottle virus]
+gi|537711874|ref|YP_008492930.1|vFam_191| 29.8 kDa movement protein [Tomato mottle mosaic virus]
+gi|13357207|ref|NP_078448.1|vFam_191| unnamed protein product [Tomato mosaic virus]
+gi|126165313|ref|YP_001041891.1|vFam_191| 30 kDa protein [Rehmannia mosaic virus]
+gi|19263362|ref|NP_597748.1|vFam_191| Movement protein [Tobacco mosaic virus]
+gi|20177427|ref|NP_619742.1|vFam_191| movement protein [Pepper mild mottle virus]
+gi|9628916|ref|NP_056811.1|vFam_191| 34KDa movement protein [Odontoglossum ringspot virus]
+gi|115350054|ref|YP_762619.1|vFam_191| movement protein [Streptocarpus flower break virus]
+gi|25140189|ref|NP_740758.1|vFam_191| movement protein [Youcai mosaic virus]
+gi|18254499|ref|NP_543051.1|vFam_191| unnamed protein product [Wasabi mottle virus]
+gi|383271567|ref|YP_005476602.1|vFam_191| movement protein [Ribgrass mosaic virus]
+gi|9629933|ref|NP_046153.1|vFam_191| unnamed protein product [Turnip vein-clearing virus]
+gi|308125295|ref|YP_003915155.1|vFam_191| 28 kDa movement protein [Frangipani mosaic virus]
+gi|118725122|ref|YP_908762.1|vFam_191| 28 kDa movement protein [Cucumber mottle virus]
+gi|9629355|ref|NP_044579.1|vFam_191| movement protein [Cucumber green mottle mosaic virus]
+gi|12018229|ref|NP_072163.1|vFam_191| unnamed protein product [Cucumber fruit mottle mosaic virus]
+gi|20889368|ref|NP_624338.1|vFam_191| 28 kDa movement protein [Zucchini green mottle mosaic virus]
+gi|20153398|ref|NP_619686.1|vFam_191| 28 kDa movement protein [Kyuri green mottle mosaic virus]
+gi|113460148|ref|YP_719999.1|vFam_191| movement protein [Hibiscus latent Singapore virus]
+gi|333595891|ref|YP_004465360.1|vFam_191| unnamed protein product [Passion fruit mosaic virus]
+gi|119964532|ref|YP_950423.1|vFam_191| 34 kDa movement protein [Maracuja mosaic virus]

@@ -1,0 +1,12 @@
+CLUSTER	567
+NUM_SEQ	4
+LENGTH	366
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	190.32
+FAMILIES	{'Flaviviridae': 4}
+GENERA	{'Flavivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|392002745|ref|YP_006470612.1|vFam_567| nonstructural protein NS1 [Culex flavivirus]
+gi|254688382|ref|YP_003084126.1|vFam_567| putative NS1 protein [Aedes flavivirus]
+gi|37695583|ref|NP_937774.1|vFam_567| NS1 protein [Kamiti River virus]
+gi|27735342|ref|NP_776041.1|vFam_567| putative non-structural protein NS1 [Cell fusing agent virus]

@@ -1,0 +1,10 @@
+CLUSTER	6452
+NUM_SEQ	2
+LENGTH	139
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	72.28
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|171473653|ref|YP_001798523.1|vFam_6452| hypothetical protein AFV9_gp05 [Acidianus filamentous virus 9]
+gi|16753090|ref|NP_445668.1|vFam_6452| hypothetical protein SIFV0003 [Sulfolobus islandicus filamentous virus]

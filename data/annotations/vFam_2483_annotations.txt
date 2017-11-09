@@ -1,0 +1,12 @@
+CLUSTER	2483
+NUM_SEQ	4
+LENGTH	81
+RELATIVE_ENTROPY_PER_POSITION	0.61
+TOTAL_RELATIVE_ENTROPY	49.41
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'Chlorovirus': 2, 'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|157952640|ref|YP_001497532.1|vFam_2483| hypothetical protein NY2A_B336R [Paramecium bursaria Chlorella virus NY2A]
+gi|155371532|ref|YP_001427066.1|vFam_2483| hypothetical protein ATCV1_Z585R [Acanthocystis turfacea Chlorella virus 1]
+gi|313768376|ref|YP_004062056.1|vFam_2483| hypothetical protein MpV1_173 [Micromonas sp. RCC1109 virus MpV1]
+gi|313768009|ref|YP_004061440.1|vFam_2483| hypothetical protein BpV1_010c [Bathycoccus sp. RCC1105 virus BpV1]

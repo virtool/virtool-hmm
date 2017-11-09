@@ -1,0 +1,12 @@
+CLUSTER	1719
+NUM_SEQ	4
+LENGTH	143
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	74.36
+FAMILIES	{'Flaviviridae': 4}
+GENERA	{'Flavivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|392002743|ref|YP_006470610.1|vFam_1719| premembrane protein PrM [Culex flavivirus]
+gi|27735339|ref|NP_776038.1|vFam_1719| putative PreM protein [Cell fusing agent virus]
+gi|254688379|ref|YP_003084123.1|vFam_1719| putative premembrane protein [Aedes flavivirus]
+gi|42766922|ref|NP_976250.1|vFam_1719| premembrane protein [Kamiti River virus]

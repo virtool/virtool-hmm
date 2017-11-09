@@ -1,0 +1,13 @@
+CLUSTER	650
+NUM_SEQ	5
+LENGTH	197
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	100.47
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'None': 5}
+FASTA SEQUENCE TITLES:
+gi|9631399|ref|NP_048300.1|vFam_650| ORF MSV229 leucine rich repeat gene family protein, similar to Amsacta moorei entomopoxvirus Q3 ORF SW:P28854 [Melanoplus sanguinipes entomopoxvirus]
+gi|9631444|ref|NP_048275.1|vFam_650| ORF MSV204 ALI motif gene family protein [Melanoplus sanguinipes entomopoxvirus]
+gi|9631450|ref|NP_048267.1|vFam_650| ORF MSV196 ALI motif gene family protein [Melanoplus sanguinipes entomopoxvirus]
+gi|9631533|ref|NP_048096.1|vFam_650| ORF MSV026 ALI motif gene family protein [Melanoplus sanguinipes entomopoxvirus]
+gi|9631534|ref|NP_048095.1|vFam_650| ORF MSV024 ALI motif gene family protein [Melanoplus sanguinipes entomopoxvirus]

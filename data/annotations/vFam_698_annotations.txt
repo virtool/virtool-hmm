@@ -1,0 +1,21 @@
+CLUSTER	698
+NUM_SEQ	13
+LENGTH	331
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	175.43
+FAMILIES	{'Herpesviridae': 13}
+GENERA	{'Macavirus': 2, 'Rhadinovirus': 6, 'Lymphocryptovirus': 3, 'None': 1, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|209976844|ref|NP_044900.2|vFam_698| capsid triplex subunit 1 [Murid herpesvirus 4]
+gi|321496613|ref|YP_004207898.1|vFam_698| assembly/DNA maturation protein [Rodent herpesvirus Peru]
+gi|83642898|ref|YP_438186.1|vFam_698| ORF62 [Ovine herpesvirus 2]
+gi|10140984|ref|NP_065561.1|vFam_698| probable capsid assembly and DNA maturation protein [Alcelaphine herpesvirus 1]
+gi|24943148|ref|NP_733910.1|vFam_698| ORF56 [callitrichine herpesvirus 3]
+gi|82503212|ref|YP_401654.1|vFam_698| putative capsid protein VP19C [Human herpesvirus 4]
+gi|51518026|ref|YP_067952.1|vFam_698| BORF1 [Macacine herpesvirus 4]
+gi|139472854|ref|YP_001129419.1|vFam_698| ORF62 [Human herpesvirus 8]
+gi|18653876|ref|NP_570810.1|vFam_698| assembly/DNA maturation protein [Macacine herpesvirus 5]
+gi|9628065|ref|NP_042659.1|vFam_698| capsid protein [Equid herpesvirus 2]
+gi|13095639|ref|NP_076554.1|vFam_698| assembly/DNA maturation protein [Bovine herpesvirus 4]
+gi|9631252|ref|NP_048033.1|vFam_698| orf 62 [Ateline herpesvirus 3]
+gi|9626018|ref|NP_040264.1|vFam_698| unnamed protein product [Saimiriine herpesvirus 2]

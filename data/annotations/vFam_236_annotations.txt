@@ -1,0 +1,26 @@
+CLUSTER	236
+NUM_SEQ	18
+LENGTH	639
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	332.28
+FAMILIES	{'Phycodnaviridae': 1, 'Poxviridae': 14}
+GENERA	{'Betaentomopoxvirus': 1, 'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Capripoxvirus': 1, 'Phaeovirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 1, 'Yatapoxvirus': 1, 'Parapoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|13242495|ref|NP_077508.1|vFam_236| EsV-1-23 [Ectocarpus siliculosus virus 1]
+gi|9631511|ref|NP_048124.1|vFam_236| ORF MSV053 putative nucleoside triphosphate phosphohydrolase, Choristoneura biennis entomopox virus NPH-1 (vaccinia D11L) homolog, similar to SW:P24486 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497940|ref|YP_008003739.1|vFam_236| ATPase, NPH1 [Mythimna separata entomopoxvirus 'L']
+gi|506498176|ref|YP_008003973.1|vFam_236| ATPase, NPH1 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498806|ref|YP_008004600.1|vFam_236| ATPase, NPH1 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964506|ref|NP_064974.1|vFam_236| nucleoside triphosphate phosphohydrolase I [Amsacta moorei entomopoxvirus 'L']
+gi|115531782|ref|YP_784308.1|vFam_236| NPH-1 [Nile crocodilepox virus]
+gi|40556012|ref|NP_955097.1|vFam_236| CNPV074 NPH-I, transcription termination factor [Canarypox virus]
+gi|41057508|ref|NP_957981.1|vFam_236| transcription termination factor NPH-I [Bovine papular stomatitis virus]
+gi|113195295|ref|YP_717425.1|vFam_236| ATPase [Taterapox virus]
+gi|345107285|ref|YP_004821450.1|vFam_236| ATPase nucleoside triphosphate phosphohydrolase-I NPH-I [Yoka poxvirus]
+gi|9633897|ref|NP_051975.1|vFam_236| gp086L [Rabbit fibroma virus]
+gi|157939711|ref|YP_001497083.1|vFam_236| transcription termination factor NPH-1 [Tanapox virus]
+gi|18640171|ref|NP_570245.1|vFam_236| SPV085 putative NPH-I transcription termination factor [Swinepox virus]
+gi|148912965|ref|YP_001293279.1|vFam_236| hypothetical protein GTPV_gp084 [Goatpox virus Pellor]
+gi|211956368|ref|YP_002302437.1|vFam_236| transcription termination factor NPH-I [Deerpox virus W-1170-84]
+gi|9629032|ref|NP_044051.1|vFam_236| MC100R [Molluscum contagiosum virus subtype 1]
+gi|571798008|ref|YP_008658507.1|vFam_236| ATPase/ transcription termination factor [Squirrelpox virus]

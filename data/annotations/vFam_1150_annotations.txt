@@ -1,0 +1,15 @@
+CLUSTER	1150
+NUM_SEQ	7
+LENGTH	223
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	115.96
+FAMILIES	{'Bromoviridae': 7}
+GENERA	{'Ilarvirus': 7}
+FASTA SEQUENCE TITLES:
+gi|50428572|ref|YP_054425.1|vFam_1150| coat protein [Humulus japonicus latent virus]
+gi|19697304|ref|NP_602315.1|vFam_1150| putative coat protein [American plum line pattern virus]
+gi|19744916|ref|NP_604485.1|vFam_1150| coat protein [Apple mosaic virus]
+gi|538602672|ref|YP_008519307.1|vFam_1150| coat protein [Blueberry shock virus]
+gi|24817636|ref|NP_733826.1|vFam_1150| coat protein [Prunus necrotic ringspot virus]
+gi|98960848|ref|YP_611153.1|vFam_1150| coat protein [Prune dwarf virus]
+gi|56692635|ref|YP_164805.1|vFam_1150| coat protein [Fragaria chiloensis latent virus]

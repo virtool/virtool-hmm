@@ -1,0 +1,12 @@
+CLUSTER	2366
+NUM_SEQ	4
+LENGTH	179
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	93.08
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Mastadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|378554414|ref|YP_005271178.1|vFam_2366| unnamed protein product [Bat adenovirus TJM]
+gi|345462095|ref|YP_004782096.1|vFam_2366| unnamed protein product [Bat adenovirus 2]
+gi|56160954|ref|AP_000609.1|vFam_2366| E1B 19K [Canine adenovirus 2]
+gi|56158849|ref|AP_000046.1|vFam_2366| E1B 19K [Canine adenovirus 1]

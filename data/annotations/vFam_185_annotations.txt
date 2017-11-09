@@ -1,0 +1,29 @@
+CLUSTER	185
+NUM_SEQ	21
+LENGTH	479
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	249.08
+FAMILIES	{'Adenoviridae': 20}
+GENERA	{'Mastadenovirus': 20}
+FASTA SEQUENCE TITLES:
+gi|227122418|ref|YP_002822203.1|vFam_185| E1B 55k [Murine adenovirus 3]
+gi|56160676|ref|AP_000339.1|vFam_185| E1B 55K [Murine adenovirus A]
+gi|378554415|ref|YP_005271179.1|vFam_185| unnamed protein product [Bat adenovirus TJM]
+gi|345462096|ref|YP_004782097.1|vFam_185| unnamed protein product [Bat adenovirus 2]
+gi|56160955|ref|AP_000610.1|vFam_185| E1B 55K [Canine adenovirus 2]
+gi|56158850|ref|AP_000047.1|vFam_185| E1B 55K [Canine adenovirus 1]
+gi|46852405|ref|YP_009198.1|vFam_185| E1B 55K [Porcine adenovirus 3]
+gi|460042640|ref|YP_007518067.1|vFam_185| E1b 55K [Simian adenovirus 20]
+gi|51518818|ref|YP_067905.1|vFam_185| E1B 55 kDa protein [Simian adenovirus 3]
+gi|56160439|ref|AP_000109.1|vFam_185| E1B 55K [Human adenovirus A]
+gi|327415372|ref|YP_004300201.1|vFam_185| unnamed protein product [Simian adenovirus 49]
+gi|540155829|ref|YP_008520223.1|vFam_185| E1B 55K [Simian adenovirus 18]
+gi|9626564|ref|NP_040850.1|vFam_185| control protein E1B 55K [Human adenovirus F]
+gi|485191060|ref|YP_007905996.1|vFam_185| E1B55K [Simian adenovirus C]
+gi|61602121|ref|YP_213963.1|vFam_185| E1B 55K [Simian adenovirus 1]
+gi|56160842|ref|AP_000500.1|vFam_185| E1B 55K [Human adenovirus 1]
+gi|253761978|ref|YP_003038600.1|vFam_185| E1B 55 kDa protein [Human adenovirus 54]
+gi|386522686|ref|YP_006272951.1|vFam_185| E1B 55K [Chimpanzee adenovirus Y25]
+gi|197944769|ref|YP_002213800.1|vFam_185| control protein E1B 55K [Human adenovirus B]
+gi|197944729|ref|YP_002213767.1|vFam_185| control protein E1B 55K [Human adenovirus B]
+gi|56160598|ref|AP_000263.1|vFam_185| E1B 55K [Simian adenovirus 21]

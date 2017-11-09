@@ -1,0 +1,11 @@
+CLUSTER	1755
+NUM_SEQ	3
+LENGTH	550
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	286.0
+FAMILIES	{'Rhabdoviridae': 3}
+GENERA	{'Cytorhabdovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9635155|ref|NP_057961.1|vFam_1755| glycoprotein [Northern cereal mosaic virus]
+gi|212498336|ref|YP_002308375.1|vFam_1755| G protein [Lettuce yellow mottle virus]
+gi|83659776|ref|YP_425091.1|vFam_1755| glycoprotein [Lettuce necrotic yellows virus]

@@ -1,0 +1,14 @@
+CLUSTER	1811
+NUM_SEQ	6
+LENGTH	166
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	83.0
+FAMILIES	{'Phycodnaviridae': 6}
+GENERA	{'Prasinovirus': 1, 'Chlorovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|313843982|ref|YP_004061645.1|vFam_1811| hypothetical protein OlV1_012c [Ostreococcus lucimarinus virus OlV1]
+gi|340025712|ref|NP_048457.2|vFam_1811| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953337|ref|YP_001498228.1|vFam_1811| hypothetical protein AR158_C146L [Paramecium bursaria Chlorella virus AR158]
+gi|157952461|ref|YP_001497353.1|vFam_1811| hypothetical protein NY2A_B157L [Paramecium bursaria Chlorella virus NY2A]
+gi|155371660|ref|YP_001427194.1|vFam_1811| hypothetical protein ATCV1_Z713L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370235|ref|YP_001425769.1|vFam_1811| hypothetical protein FR483_N137L [Paramecium bursaria Chlorella virus FR483]

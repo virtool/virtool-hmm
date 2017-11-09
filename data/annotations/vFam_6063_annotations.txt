@@ -1,0 +1,10 @@
+CLUSTER	6063
+NUM_SEQ	2
+LENGTH	119
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	60.69
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|478755985|ref|YP_007761626.1|vFam_6063| hypothetical protein HhPH1_gp37 [Halovirus PH1]
+gi|448261145|ref|YP_005352818.1|vFam_6063| putative protein 32 [Haloarcula hispanica icosahedral virus 2]

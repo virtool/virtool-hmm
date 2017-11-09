@@ -1,0 +1,13 @@
+CLUSTER	2044
+NUM_SEQ	5
+LENGTH	115
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	59.8
+FAMILIES	{'Caulimoviridae': 5}
+GENERA	{'Badnavirus': 5}
+FASTA SEQUENCE TITLES:
+gi|94972341|ref|YP_595724.1|vFam_2044| ORF2 [Sugarcane bacilliform MO virus]
+gi|15029535|ref|NP_149412.1|vFam_2044| hypothetical protein SCBVgp2 [Sugarcane bacilliform IM virus]
+gi|332308945|ref|YP_004442832.1|vFam_2044| virion associated protein [Banana streak UM virus]
+gi|332308941|ref|YP_004442829.1|vFam_2044| virion associated protein [Banana streak UL virus]
+gi|332308938|ref|YP_004442826.1|vFam_2044| virion associated protein [Banana streak UI virus]

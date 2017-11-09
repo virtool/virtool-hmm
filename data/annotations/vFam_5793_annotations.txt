@@ -1,0 +1,10 @@
+CLUSTER	5793
+NUM_SEQ	2
+LENGTH	227
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	118.04
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409845|ref|YP_004347265.1|vFam_5793| SWIB/MDM2 domain-containing protein [Lausannevirus]
+gi|284504311|ref|YP_003407026.1|vFam_5793| SWIB/MDM2 domain-containing protein [Marseillevirus]

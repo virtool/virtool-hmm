@@ -1,0 +1,12 @@
+CLUSTER	3420
+NUM_SEQ	4
+LENGTH	69
+RELATIVE_ENTROPY_PER_POSITION	0.75
+TOTAL_RELATIVE_ENTROPY	51.75
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Betabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|46309438|ref|YP_006328.1|vFam_3420| ORF16 [Agrotis segetum granulovirus]
+gi|410493596|ref|YP_006908534.1|vFam_3420| hypothetical protein [Epinotia aporema granulovirus]
+gi|285002290|ref|YP_003422354.1|vFam_3420| hypothetical protein PsunGV_gp015 [Pseudaletia unipuncta granulovirus]
+gi|164519210|ref|YP_001648997.1|vFam_3420| hypothetical protein HaGV_gp015 [Helicoverpa armigera granulovirus]

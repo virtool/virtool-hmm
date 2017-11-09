@@ -1,0 +1,10 @@
+CLUSTER	4970
+NUM_SEQ	2
+LENGTH	29
+RELATIVE_ENTROPY_PER_POSITION	1.71
+TOTAL_RELATIVE_ENTROPY	49.59
+FAMILIES	{'Coronaviridae': 2}
+GENERA	{'None': 1, 'Betacoronavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|253756586|ref|YP_003038500.1|vFam_4970| 4.9 kD non-structural protein [Bovine respiratory coronavirus AH187]
+gi|85718619|ref|YP_459953.1|vFam_4970| non-structural protein [Porcine hemagglutinating encephalomyelitis virus]

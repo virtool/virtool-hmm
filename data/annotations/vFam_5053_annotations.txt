@@ -1,0 +1,11 @@
+CLUSTER	5053
+NUM_SEQ	3
+LENGTH	124
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	63.24
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'Phaeovirus': 2, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852920|ref|YP_294204.1|vFam_5053| hypothetical protein EhV446 [Emiliania huxleyi virus 86]
+gi|197322376|ref|YP_002154649.1|vFam_5053| hypothetical protein FeldSpV_gp027 [Feldmannia species virus]
+gi|13242571|ref|NP_077585.1|vFam_5053| EsV-1-100 [Ectocarpus siliculosus virus 1]

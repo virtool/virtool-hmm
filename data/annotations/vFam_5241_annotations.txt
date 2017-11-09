@@ -1,0 +1,10 @@
+CLUSTER	5241
+NUM_SEQ	2
+LENGTH	187
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	97.24
+FAMILIES	{'Closteroviridae': 1}
+GENERA	{'Ampelovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|530547433|ref|YP_008411017.1|vFam_5241| putative silencing suppressor [Blackberry vein banding associated virus]
+gi|29366695|ref|NP_813803.1|vFam_5241| 21 kDa protein [Grapevine leafroll-associated virus 3]

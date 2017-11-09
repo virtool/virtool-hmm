@@ -1,0 +1,10 @@
+CLUSTER	4800
+NUM_SEQ	2
+LENGTH	206
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	103.0
+FAMILIES	{'Adenoviridae': 1, 'Ophioviridae': 1}
+GENERA	{'Ophiovirus': 1, 'Mastadenovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|318065988|ref|YP_004123755.1|vFam_4800| E3 ORFA [Murine adenovirus 2]
+gi|52630361|ref|YP_089662.1|vFam_4800| 24 kDa protein [Citrus psorosis virus]

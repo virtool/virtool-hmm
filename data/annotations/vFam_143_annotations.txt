@@ -1,0 +1,43 @@
+CLUSTER	143
+NUM_SEQ	35
+LENGTH	76
+RELATIVE_ENTROPY_PER_POSITION	0.67
+TOTAL_RELATIVE_ENTROPY	50.92
+FAMILIES	{'Baculoviridae': 29}
+GENERA	{'Betabaculovirus': 7, 'Alphabaculovirus': 22}
+FASTA SEQUENCE TITLES:
+gi|14602374|ref|NP_148921.1|vFam_143| ORF137 LEF-10 [Cydia pomonella granulovirus]
+gi|33622324|ref|NP_891971.1|vFam_143| lef-10 [Cryptophlebia leucotreta granulovirus]
+gi|109255384|ref|YP_654533.1|vFam_143| LEF-10 [Choristoneura occidentalis granulovirus]
+gi|46309328|ref|YP_006218.1|vFam_143| ORF126 [Agrotis segetum granulovirus]
+gi|285002451|ref|YP_003422515.1|vFam_143| LEF-10 [Pseudaletia unipuncta granulovirus]
+gi|556549151|ref|YP_008720065.1|vFam_143| lef-10 [Clostera anastomosis granulovirus]
+gi|21686790|ref|NP_663290.1|vFam_143| late expression factor 10 [Phthorimaea operculella granulovirus]
+gi|410493697|ref|YP_006908635.1|vFam_143| late expression factor 10 [Epinotia aporema granulovirus]
+gi|438000356|ref|YP_007250461.1|vFam_143| lef-10 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643593|ref|YP_002884283.1|vFam_143| LEF-10 [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964573|ref|YP_950769.1|vFam_143| late expression factor-10 [Maruca vitrata nucleopolyhedrovirus]
+gi|9629995|ref|NP_046213.1|vFam_143| lef-10 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|15320705|ref|NP_203217.1|vFam_143| LEF-10 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|86355617|ref|YP_473285.1|vFam_143| LEF10 [Hyphantria cunea nucleopolyhedrovirus]
+gi|529153574|ref|YP_008378599.1|vFam_143| LEF-10 [Choristoneura occidentalis alphabaculovirus]
+gi|529153409|ref|YP_008378449.1|vFam_143| LEF-10 [Choristoneura rosaceana alphabaculovirus]
+gi|116326123|ref|YP_803448.1|vFam_143| late expression factor 10 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|99077900|ref|YP_611160.1|vFam_143| lef-10 [Antheraea pernyi nucleopolyhedrovirus]
+gi|292397728|ref|YP_003517794.1|vFam_143| LEF-10 [Lymantria xylina MNPV]
+gi|228861628|ref|YP_002854647.1|vFam_143| hypothetical protein EupsNPV_gp037 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|15617519|ref|NP_258316.1|vFam_143| LEF-10 [Spodoptera litura nucleopolyhedrovirus]
+gi|114679910|ref|YP_758360.1|vFam_143| lef-10 [Leucania separata nucleopolyhedrovirus]
+gi|209401100|ref|YP_002273969.1|vFam_143| late expression factor 10 [Helicoverpa armigera NPV NNg1]
+gi|118197520|ref|YP_874231.1|vFam_143| late expression factor 10 [Ectropis obliqua nucleopolyhedrovirus]
+gi|529218096|ref|YP_008378259.1|vFam_143| lef10 [Hemileuca sp. nucleopolyhedrovirus]
+gi|209978815|ref|YP_002300558.1|vFam_143| LEF-10 [Adoxophyes orana nucleopolyhedrovirus]
+gi|402502138|ref|YP_006607796.1|vFam_143| late expression factor 10 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|74229727|ref|YP_308931.1|vFam_143| late expression factor (lef10) [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304180|ref|YP_249648.1|vFam_143| LEF-10 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549534|ref|NP_689307.1|vFam_143| lef10 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|90592831|ref|YP_529784.1|vFam_143| LEF-10 [Agrotis segetum nucleopolyhedrovirus]
+gi|209171006|ref|YP_002268153.1|vFam_143| agip123 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|125860228|ref|YP_001036398.1|vFam_143| late expression factor 10 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|9634327|ref|NP_037866.1|vFam_143| ORF106 lef10 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|215401504|ref|YP_002332808.1|vFam_143| LEF-10 [Spodoptera litura nucleopolyhedrovirus II]

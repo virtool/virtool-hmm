@@ -1,0 +1,15 @@
+CLUSTER	1713
+NUM_SEQ	7
+LENGTH	287
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	149.24
+FAMILIES	{'Filoviridae': 7}
+GENERA	{'Marburgvirus': 1, 'None': 1, 'Ebolavirus': 5}
+FASTA SEQUENCE TITLES:
+gi|158539113|ref|YP_001531157.1|vFam_1713| VP30 [Marburg marburgvirus]
+gi|355469077|ref|YP_004928140.1|vFam_1713| VP30 [Lloviu virus]
+gi|22789227|ref|NP_690585.1|vFam_1713| transcription activation factor VP30 [Reston ebolavirus]
+gi|55770813|ref|YP_138525.1|vFam_1713| minor nucleoprotein [Sudan ebolavirus]
+gi|10313997|ref|NP_066249.1|vFam_1713| VP30 gene product [Ebola virus - Mayinga, Zaire, 1976]
+gi|302371219|ref|YP_003815438.1|vFam_1713| VP30 [Bundibugyo ebolavirus]
+gi|302315375|ref|YP_003815429.1|vFam_1713| VP30 [Tai Forest ebolavirus]

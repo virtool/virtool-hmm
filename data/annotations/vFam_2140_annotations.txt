@@ -1,0 +1,14 @@
+CLUSTER	2140
+NUM_SEQ	6
+LENGTH	205
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	108.65
+FAMILIES	{'None': 2, 'Mimiviridae': 4}
+GENERA	{'Mimivirus': 2, 'None': 4}
+FASTA SEQUENCE TITLES:
+gi|311977523|ref|YP_003986643.1|vFam_2140| uncharacterized acetyltransferase [Acanthamoeba polyphaga mimivirus]
+gi|441432047|ref|YP_007354089.1|vFam_2140| N-acetyltransferase [Acanthamoeba polyphaga moumouvirus]
+gi|448825001|ref|YP_007417932.1|vFam_2140| putative acetyltransferase [Megavirus lba]
+gi|441432695|ref|YP_007354737.1|vFam_2140| N-acetyltransferase [Acanthamoeba polyphaga moumouvirus]
+gi|448825087|ref|YP_007418018.1|vFam_2140| putative acetyltransferase [Megavirus lba]
+gi|311977662|ref|YP_003986782.1|vFam_2140| uncharacterized acetyltransferase [Acanthamoeba polyphaga mimivirus]

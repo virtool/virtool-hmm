@@ -1,0 +1,11 @@
+CLUSTER	4945
+NUM_SEQ	3
+LENGTH	193
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	98.43
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 2, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|163955206|ref|YP_001648310.1|vFam_4945| hypothetical protein OsV5_234r [Ostreococcus virus OsV5]
+gi|314055292|ref|YP_004063630.1|vFam_4945| hypothetical protein OtV2_197 [Ostreococcus tauri virus 2]
+gi|313844179|ref|YP_004061842.1|vFam_4945| hypothetical protein OlV1_210c [Ostreococcus lucimarinus virus OlV1]

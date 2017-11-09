@@ -1,0 +1,13 @@
+CLUSTER	1974
+NUM_SEQ	5
+LENGTH	319
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	162.69
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|30984498|ref|NP_851930.1|vFam_1974| virion protein US10 [Macacine herpesvirus 1]
+gi|83722639|ref|YP_443917.1|vFam_1974| virion protein US10 [Papiine herpesvirus 2]
+gi|56694793|ref|YP_164513.1|vFam_1974| virion protein US10 [Cercopithecine herpesvirus 2]
+gi|9629452|ref|NP_044673.1|vFam_1974| virion protein US10 [Human herpesvirus 1]
+gi|9629341|ref|NP_044541.1|vFam_1974| virion protein US10 [Human herpesvirus 2]

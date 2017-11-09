@@ -1,0 +1,11 @@
+CLUSTER	3303
+NUM_SEQ	3
+LENGTH	308
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	160.16
+FAMILIES	{'Ascoviridae': 3}
+GENERA	{'Ascovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|116326753|ref|YP_803290.1|vFam_3303| hypothetical protein TNAV2c_gp067 [Trichoplusia ni ascovirus 2c]
+gi|134287283|ref|YP_001110979.1|vFam_3303| patatin-like phospholipase [Heliothis virescens ascovirus 3e]
+gi|115298595|ref|YP_762448.1|vFam_3303| 34.5 kDa Patatin phospholipase [Spodoptera frugiperda ascovirus 1a]

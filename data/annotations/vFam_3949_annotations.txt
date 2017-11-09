@@ -1,0 +1,11 @@
+CLUSTER	3949
+NUM_SEQ	3
+LENGTH	378
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	196.56
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977789|ref|YP_003986909.1|vFam_3949| putative RNA methyltransferase [Acanthamoeba polyphaga mimivirus]
+gi|448825451|ref|YP_007418382.1|vFam_3949| putative RNA methyltransferase [Megavirus lba]
+gi|441432344|ref|YP_007354386.1|vFam_3949| SAM-dependent methyltransferase [Acanthamoeba polyphaga moumouvirus]

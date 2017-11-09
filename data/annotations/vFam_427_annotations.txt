@@ -1,0 +1,12 @@
+CLUSTER	427
+NUM_SEQ	4
+LENGTH	720
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	367.2
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Betabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|410493677|ref|YP_006908615.1|vFam_427| desmoplakin [Epinotia aporema granulovirus]
+gi|556549131|ref|YP_008720045.1|vFam_427| desmoplakin [Clostera anastomosis granulovirus]
+gi|33622302|ref|NP_891949.1|vFam_427| desmoplakin [Cryptophlebia leucotreta granulovirus]
+gi|14602349|ref|NP_148896.1|vFam_427| ORF112 DESMOPLAKIN [Cydia pomonella granulovirus]

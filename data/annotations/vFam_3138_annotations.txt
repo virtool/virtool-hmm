@@ -1,0 +1,11 @@
+CLUSTER	3138
+NUM_SEQ	3
+LENGTH	299
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	152.49
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036609|ref|YP_008438246.1|vFam_3138| hypothetical protein ps_1840 [Pandoravirus salinus]
+gi|531036694|ref|YP_008438331.1|vFam_3138| hypothetical protein ps_1925 [Pandoravirus salinus]
+gi|531036566|ref|YP_008438203.1|vFam_3138| hypothetical protein ps_1797 [Pandoravirus salinus]

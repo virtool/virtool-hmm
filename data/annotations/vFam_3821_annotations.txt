@@ -1,0 +1,12 @@
+CLUSTER	3821
+NUM_SEQ	4
+LENGTH	81
+RELATIVE_ENTROPY_PER_POSITION	0.62
+TOTAL_RELATIVE_ENTROPY	50.22
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'Orthopoxvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|18640276|ref|NP_570432.1|vFam_3821| CMLV042 [Camelpox virus]
+gi|9627552|ref|NP_042075.1|vFam_3821| hypothetical protein VARVgp031 [Variola virus]
+gi|22164635|ref|NP_671548.1|vFam_3821| EVM030 [Ectromelia virus]
+gi|17974952|ref|NP_536466.1|vFam_3821| C13L [Monkeypox virus Zaire-96-I-16]

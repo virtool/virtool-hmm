@@ -1,0 +1,21 @@
+CLUSTER	597
+NUM_SEQ	13
+LENGTH	262
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	131.0
+FAMILIES	{'Baculoviridae': 13}
+GENERA	{'Betabaculovirus': 13}
+FASTA SEQUENCE TITLES:
+gi|410493626|ref|YP_006908564.1|vFam_597| 39K/PP31 [Epinotia aporema granulovirus]
+gi|11068048|ref|NP_068264.1|vFam_597| PxORF45 peptide [Plutella xylostella granulovirus]
+gi|148368869|ref|YP_001256999.1|vFam_597| 39k protein [Spodoptera litura granulovirus]
+gi|285002328|ref|YP_003422392.1|vFam_597| 39K [Pseudaletia unipuncta granulovirus]
+gi|9635305|ref|NP_059203.1|vFam_597| ORF55 [Xestia c-nigrum granulovirus]
+gi|32698588|ref|NP_872503.1|vFam_597| 39K [Adoxophyes orana granulovirus]
+gi|21686717|ref|NP_663217.1|vFam_597| PP31 [Phthorimaea operculella granulovirus]
+gi|46309403|ref|YP_006293.1|vFam_597| ORF51 [Agrotis segetum granulovirus]
+gi|33622255|ref|NP_891902.1|vFam_597| 39k protein [Cryptophlebia leucotreta granulovirus]
+gi|14602294|ref|NP_148841.1|vFam_597| ORF57 39K [Cydia pomonella granulovirus]
+gi|109255314|ref|YP_654463.1|vFam_597| 39K [Choristoneura occidentalis granulovirus]
+gi|334265725|ref|YP_004376254.1|vFam_597| 39k [Clostera anachoreta granulovirus]
+gi|288804687|ref|YP_003429372.1|vFam_597| 39K [Pieris rapae granulovirus]

@@ -1,0 +1,16 @@
+CLUSTER	791
+NUM_SEQ	8
+LENGTH	314
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	160.14
+FAMILIES	{'Herpesviridae': 7, 'Baculoviridae': 1}
+GENERA	{'Cytomegalovirus': 7, 'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15617607|ref|NP_258408.1|vFam_791| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|360086495|ref|YP_004940179.1|vFam_791| membrane protein S3 [Saimiriine herpesvirus 3]
+gi|360041052|ref|YP_004940175.1|vFam_791| membrane protein A46 [Aotine herpesvirus 1]
+gi|360086612|ref|YP_004940292.1|vFam_791| membrane protein S13 [Saimiriine herpesvirus 3]
+gi|360041031|ref|YP_004940154.1|vFam_791| membrane protein A29 [Aotine herpesvirus 1]
+gi|360041030|ref|YP_004940153.1|vFam_791| membrane protein A28 [Aotine herpesvirus 1]
+gi|360086634|ref|YP_004940316.1|vFam_791| membrane protein S32 [Saimiriine herpesvirus 3]
+gi|360086635|ref|YP_004940317.1|vFam_791| membrane protein S33 [Saimiriine herpesvirus 3]

@@ -1,0 +1,11 @@
+CLUSTER	3765
+NUM_SEQ	3
+LENGTH	361
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	184.11
+FAMILIES	{'None': 2, 'Mimiviridae': 1}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|310831303|ref|YP_003969946.1|vFam_3765| putative phosphoesterase [Cafeteria roenbergensis virus BV-PW1]
+gi|448825458|ref|YP_007418389.1|vFam_3765| putative phosphoesterase [Megavirus lba]
+gi|441432351|ref|YP_007354393.1|vFam_3765| hypothetical protein Moumou_00421 [Acanthamoeba polyphaga moumouvirus]

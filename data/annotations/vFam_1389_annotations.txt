@@ -1,0 +1,10 @@
+CLUSTER	1389
+NUM_SEQ	2
+LENGTH	310
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	151.9
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Cervidpoxvirus': 1, 'Avipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|62637540|ref|YP_227538.1|vFam_1389| TGF-b1 [Deerpox virus W-848-83]
+gi|40556002|ref|NP_955087.1|vFam_1389| CNPV064 TGF-beta-like protein [Canarypox virus]

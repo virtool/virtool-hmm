@@ -1,0 +1,11 @@
+CLUSTER	2381
+NUM_SEQ	3
+LENGTH	416
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	212.16
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Ranavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|45686023|ref|YP_003786.1|vFam_2381| unknown [Ambystoma tigrinum virus]
+gi|388260086|ref|YP_006347614.1|vFam_2381| hypothetical protein [European catfish virus]
+gi|49237387|ref|YP_031668.1|vFam_2381| hypothetical protein FV3gorf89R [Frog virus 3]

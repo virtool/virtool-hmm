@@ -1,0 +1,13 @@
+CLUSTER	1882
+NUM_SEQ	5
+LENGTH	189
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	98.28
+FAMILIES	{'Tombusviridae': 5}
+GENERA	{'None': 1, 'Tombusvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|85677470|ref|YP_459923.1|vFam_1882| putative p21 protein [Maize necrotic streak virus]
+gi|30018256|ref|NP_835256.1|vFam_1882| movement protein [Cucumber Bulgarian virus]
+gi|20087028|ref|NP_613263.1|vFam_1882| putative movement protein [Cymbidium ringspot virus]
+gi|440382957|ref|YP_007346990.1|vFam_1882| 22 kDa protein [Moroccan pepper virus]
+gi|212498616|ref|YP_002308432.1|vFam_1882| movement protein [Grapevine Algerian latent virus]

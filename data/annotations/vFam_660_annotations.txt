@@ -1,0 +1,20 @@
+CLUSTER	660
+NUM_SEQ	12
+LENGTH	185
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	88.8
+FAMILIES	{'None': 1, 'Iridoviridae': 7, 'Ascoviridae': 3}
+GENERA	{'None': 1, 'Chloriridovirus': 1, 'Ascovirus': 3, 'Ranavirus': 2, 'Lymphocystivirus': 2, 'Iridovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134303454|ref|YP_001111323.1|vFam_660| hypothetical protein GrBNV_gp56 [Gryllus bimaculatus nudivirus]
+gi|116326779|ref|YP_803316.1|vFam_660| hypothetical protein TNAV2c_gp093 [Trichoplusia ni ascovirus 2c]
+gi|134287265|ref|YP_001110961.1|vFam_660| hypothetical protein HVAV3e_gp108 [Heliothis virescens ascovirus 3e]
+gi|115298611|ref|YP_762464.1|vFam_660| 22.4 kDa CTD phosphatase [Spodoptera frugiperda ascovirus 1a]
+gi|388260161|ref|YP_006347689.1|vFam_660| hypothetical protein [European catfish virus]
+gi|56692698|ref|YP_164156.1|vFam_660| hypothetical protein ORF061R [Singapore grouper iridovirus]
+gi|51870100|ref|YP_073653.1|vFam_660| Catalytic domain of ctd-like phosphatases [Lymphocystis disease virus - isolate China]
+gi|13358466|ref|NP_078678.1|vFam_660| Putative NIF/NLI interacting factor [Lymphocystis disease virus 1]
+gi|15079067|ref|NP_149818.1|vFam_660| 355R [Invertebrate iridescent virus 6]
+gi|109287982|ref|YP_654676.1|vFam_660| hypothetical protein MIV104L [Invertebrate iridescent virus 3]
+gi|527333607|ref|YP_008357391.1|vFam_660| Haloacid dehalogenase-like hydrolases [Invertebrate iridovirus 22]
+gi|339906022|ref|YP_004732819.1|vFam_660| hypothetical protein WIV_gp036 [Wiseana iridescent virus]

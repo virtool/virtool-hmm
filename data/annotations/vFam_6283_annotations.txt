@@ -1,0 +1,10 @@
+CLUSTER	6283
+NUM_SEQ	2
+LENGTH	98
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	49.0
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|41057441|ref|NP_957914.1|vFam_6283| ORF005 hypothetical protein [Bovine papular stomatitis virus]
+gi|41057069|ref|NP_957783.1|vFam_6283| ORF005 hypothetical protein [Orf virus]

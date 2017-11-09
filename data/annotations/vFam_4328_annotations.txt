@@ -1,0 +1,10 @@
+CLUSTER	4328
+NUM_SEQ	2
+LENGTH	224
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	114.24
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035506|ref|YP_008437137.1|vFam_4328| ERV-family thiol oxidoreductase [Pandoravirus salinus]
+gi|526119249|ref|YP_008319152.1|vFam_4328| erv-family thiol oxidoreductase [Pandoravirus dulcis]

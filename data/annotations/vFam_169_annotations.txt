@@ -1,0 +1,37 @@
+CLUSTER	169
+NUM_SEQ	29
+LENGTH	257
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	131.07
+FAMILIES	{'Baculoviridae': 23}
+GENERA	{'Alphabaculovirus': 23}
+FASTA SEQUENCE TITLES:
+gi|438000439|ref|YP_007250544.1|vFam_169| IE-0 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643673|ref|YP_002884363.1|vFam_169| IE-0 [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964643|ref|YP_950839.1|vFam_169| IE-0 [Maruca vitrata nucleopolyhedrovirus]
+gi|86355536|ref|YP_473204.1|vFam_169| IE0 [Hyphantria cunea nucleopolyhedrovirus]
+gi|96979785|ref|YP_610986.1|vFam_169| ie-0 [Antheraea pernyi nucleopolyhedrovirus]
+gi|9630076|ref|NP_046294.1|vFam_169| immediate early gene 0 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031211|ref|YP_008992107.1|vFam_169| ac141 [Choristoneura murinana alphabaculovirus]
+gi|529153329|ref|YP_008378369.1|vFam_169| IE-0 [Choristoneura rosaceana alphabaculovirus]
+gi|116326205|ref|YP_803531.1|vFam_169| immediate early protein 0 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320780|ref|NP_203292.1|vFam_169| IE0 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|292397692|ref|YP_003517758.1|vFam_169| IE-0 [Lymantria xylina MNPV]
+gi|9630987|ref|NP_047657.1|vFam_169| immediate early transactivator 0 [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|209978799|ref|YP_002300542.1|vFam_169| IE-0 [Adoxophyes orana nucleopolyhedrovirus]
+gi|113195414|ref|YP_717549.1|vFam_169| IE-0 [Clanis bilineata nucleopolyhedrovirus]
+gi|118197493|ref|YP_874205.1|vFam_169| ie-0 [Ectropis obliqua nucleopolyhedrovirus]
+gi|228861604|ref|YP_002854624.1|vFam_169| ie-0 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|74229695|ref|YP_308899.1|vFam_169| orf10 putative exon0 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|529218062|ref|YP_008378225.1|vFam_169| exon0 [Hemileuca sp. nucleopolyhedrovirus]
+gi|22549568|ref|NP_689341.1|vFam_169| exon0/ie0 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209171044|ref|YP_002268191.1|vFam_169| EXON0 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592869|ref|YP_529822.1|vFam_169| exon-0 [Agrotis segetum nucleopolyhedrovirus]
+gi|125860264|ref|YP_001036434.1|vFam_169| immediate-early transcriptional regulatory protein 0 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401539|ref|YP_002332843.1|vFam_169| IE-0 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634359|ref|NP_037898.1|vFam_169| ORF138 ie0 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|402502219|ref|YP_006607877.1|vFam_169| ie-0 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|165969023|ref|YP_001650923.1|vFam_169| immediate early 0 [Orgyia leucostigma NPV]
+gi|209401062|ref|YP_002273931.1|vFam_169| immediate early protein 0 [Helicoverpa armigera NPV NNg1]
+gi|15617481|ref|NP_258276.1|vFam_169| IE-0 [Spodoptera litura nucleopolyhedrovirus]
+gi|114679855|ref|YP_758305.1|vFam_169| ie-0 [Leucania separata nucleopolyhedrovirus]

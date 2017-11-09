@@ -1,0 +1,14 @@
+CLUSTER	1525
+NUM_SEQ	6
+LENGTH	117
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	62.01
+FAMILIES	{'Adenoviridae': 6}
+GENERA	{'Mastadenovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|345462114|ref|YP_004782116.1|vFam_1525| unnamed protein product [Bat adenovirus 2]
+gi|56160974|ref|AP_000629.1|vFam_1525| E3 12.5K [Canine adenovirus 2]
+gi|56158869|ref|AP_000066.1|vFam_1525| E3 12.5K [Canine adenovirus 1]
+gi|46852423|ref|YP_009217.1|vFam_1525| E3 12.5K [Porcine adenovirus 3]
+gi|52801679|ref|YP_094046.1|vFam_1525| E3 12.5K [Bovine adenovirus A]
+gi|56160586|ref|AP_000252.1|vFam_1525| E3 12.5K [Porcine adenovirus C]

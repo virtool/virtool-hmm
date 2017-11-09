@@ -1,0 +1,14 @@
+CLUSTER	928
+NUM_SEQ	6
+LENGTH	590
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	300.9
+FAMILIES	{'Rhabdoviridae': 6}
+GENERA	{'Nucleorhabdovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|9627726|ref|NP_042285.1|vFam_928| glycoprotein [Sonchus yellow net virus]
+gi|50234103|ref|YP_052848.1|vFam_928| G [Maize fine streak virus]
+gi|354459087|ref|YP_004927970.1|vFam_928| glycoprotein [Potato yellow dwarf virus]
+gi|62327484|ref|YP_224082.1|vFam_928| G [Taro vein chlorosis virus]
+gi|212671442|ref|YP_002308458.1|vFam_928| glycoprotein [Maize Iranian mosaic virus]
+gi|50234111|ref|YP_052854.1|vFam_928| G [Maize mosaic virus]

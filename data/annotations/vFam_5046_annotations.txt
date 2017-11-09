@@ -1,0 +1,11 @@
+CLUSTER	5046
+NUM_SEQ	3
+LENGTH	65
+RELATIVE_ENTROPY_PER_POSITION	0.81
+TOTAL_RELATIVE_ENTROPY	52.65
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329360|ref|YP_001604161.1|vFam_5046| hypothetical protein AFV6_gp03 [Acidianus filamentous virus 6]
+gi|171473715|ref|YP_001798585.1|vFam_5046| hypothetical protein AFV9_gp67 [Acidianus filamentous virus 9]
+gi|16753156|ref|NP_445734.1|vFam_5046| hypothetical protein SIFV0071 [Sulfolobus islandicus filamentous virus]

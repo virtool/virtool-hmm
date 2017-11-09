@@ -1,0 +1,25 @@
+CLUSTER	326
+NUM_SEQ	17
+LENGTH	89
+RELATIVE_ENTROPY_PER_POSITION	0.57
+TOTAL_RELATIVE_ENTROPY	50.73
+FAMILIES	{'None': 1, 'Picornaviridae': 14}
+GENERA	{'None': 1, 'Sapelovirus': 3, 'Enterovirus': 11}
+FASTA SEQUENCE TITLES:
+gi|380034927|ref|YP_005352652.1|vFam_326| 3A [Canine picornavirus]
+gi|56692989|ref|YP_164828.1|vFam_326| 3A [Avian sapelovirus]
+gi|160700590|ref|YP_001552439.1|vFam_326| 3A [Rhinovirus C]
+gi|25121648|ref|NP_740398.1|vFam_326| P-3A polypeptide [Rhinovirus A]
+gi|25121858|ref|NP_740522.1|vFam_326| 3A (P3-A) [Human rhinovirus B14]
+gi|25121589|ref|NP_740452.1|vFam_326| 3A [Enterovirus E]
+gi|24231950|ref|NP_714936.1|vFam_326| putative 3A [Enterovirus H]
+gi|27262072|ref|NP_758537.1|vFam_326| 3A [Enterovirus G]
+gi|25121814|ref|NP_740533.1|vFam_326| 3A [Enterovirus A]
+gi|25121930|ref|NP_740419.1|vFam_326| protein 3A [Enterovirus D]
+gi|440853797|ref|YP_007353733.1|vFam_326| protein 3AB [Enterovirus C]
+gi|25121846|ref|NP_740474.1|vFam_326| protein 3A [Enterovirus C]
+gi|25121825|ref|NP_740544.1|vFam_326| 3A [Enterovirus B]
+gi|282598702|ref|YP_003359173.1|vFam_326| 3A [Enterovirus J]
+gi|169798146|ref|YP_001718583.1|vFam_326| 3A [Enterovirus J]
+gi|38018439|ref|NP_937976.1|vFam_326| 3A [Simian sapelovirus 1]
+gi|25121803|ref|NP_740486.1|vFam_326| 3A protein [Porcine sapelovirus 1]

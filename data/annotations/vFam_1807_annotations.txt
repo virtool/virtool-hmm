@@ -1,0 +1,13 @@
+CLUSTER	1807
+NUM_SEQ	5
+LENGTH	356
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	188.68
+FAMILIES	{'Caliciviridae': 5}
+GENERA	{'None': 2, 'Lagovirus': 2, 'Vesivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|28392828|ref|NP_786899.1|vFam_1807| putative 2C-like NTPase protein [European brown hare syndrome virus]
+gi|25121576|ref|NP_740328.1|vFam_1807| 2C-like protein [Rabbit hemorrhagic disease virus]
+gi|28392844|ref|NP_786906.1|vFam_1807| putative NTPase protein [Canine calicivirus]
+gi|28392835|ref|NP_786915.1|vFam_1807| putative NTPase protein [Walrus calicivirus]
+gi|28268483|ref|NP_783305.1|vFam_1807| NTPase [Feline calicivirus]

@@ -1,0 +1,20 @@
+CLUSTER	516
+NUM_SEQ	12
+LENGTH	344
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	175.44
+FAMILIES	{'Virgaviridae': 1, 'Baculoviridae': 10}
+GENERA	{'Betabaculovirus': 10, 'Tobravirus': 1}
+FASTA SEQUENCE TITLES:
+gi|20522125|ref|NP_620684.1|vFam_516| hypothetical protein TRVs2gp3 [Tobacco rattle virus]
+gi|148368840|ref|YP_001256970.1|vFam_516| p10-2 [Spodoptera litura granulovirus]
+gi|11068024|ref|NP_068240.1|vFam_516| PxORF21 peptide [Plutella xylostella granulovirus]
+gi|46309435|ref|YP_006325.1|vFam_516| ORF19 [Agrotis segetum granulovirus]
+gi|32698556|ref|NP_872471.1|vFam_516| pp34/calyx [Adoxophyes orana granulovirus]
+gi|410493592|ref|YP_006908530.1|vFam_516| PEP/P10 [Epinotia aporema granulovirus]
+gi|556549070|ref|YP_008719984.1|vFam_516| pep/p10 [Clostera anastomosis granulovirus]
+gi|21686685|ref|NP_663185.1|vFam_516| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|109255290|ref|YP_654439.1|vFam_516| PEP/P10 [Choristoneura occidentalis granulovirus]
+gi|288804660|ref|YP_003429345.1|vFam_516| calyx/polyhedral envelope protein [Pieris rapae granulovirus]
+gi|33622225|ref|NP_891870.1|vFam_516| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602382|ref|NP_148806.1|vFam_516| ORF22 similar to XcGV ORF19 [Cydia pomonella granulovirus]

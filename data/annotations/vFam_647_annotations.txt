@@ -1,0 +1,22 @@
+CLUSTER	647
+NUM_SEQ	14
+LENGTH	109
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	55.59
+FAMILIES	{'Baculoviridae': 13}
+GENERA	{'Betabaculovirus': 13}
+FASTA SEQUENCE TITLES:
+gi|21686741|ref|NP_663241.1|vFam_647| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|109255337|ref|YP_654486.1|vFam_647| hypothetical protein COGV_gp065 [Choristoneura occidentalis granulovirus]
+gi|46309381|ref|YP_006271.1|vFam_647| ORF73 [Agrotis segetum granulovirus]
+gi|410493649|ref|YP_006908587.1|vFam_647| P12 [Epinotia aporema granulovirus]
+gi|32698609|ref|NP_872524.1|vFam_647| ORF_70 [Adoxophyes orana granulovirus]
+gi|556549105|ref|YP_008720019.1|vFam_647| hypothetical protein CaLGV072 [Clostera anastomosis granulovirus]
+gi|334265748|ref|YP_004376277.1|vFam_647| hypothetical protein ClanGV_gp069 [Clostera anachoreta granulovirus]
+gi|288804708|ref|YP_003429393.1|vFam_647| PrGVORF69 [Pieris rapae granulovirus]
+gi|33622275|ref|NP_891922.1|vFam_647| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602321|ref|NP_148868.1|vFam_647| ORF84 similar to AcMNPV ORF102 [Cydia pomonella granulovirus]
+gi|11068067|ref|NP_068283.1|vFam_647| PxORF64 peptide [Plutella xylostella granulovirus]
+gi|148368895|ref|YP_001257025.1|vFam_647| hypothetical protein SlGVgp074 [Spodoptera litura granulovirus]
+gi|285002371|ref|YP_003422435.1|vFam_647| P12 [Pseudaletia unipuncta granulovirus]
+gi|164519286|ref|YP_001649073.1|vFam_647| p12 [Helicoverpa armigera granulovirus]

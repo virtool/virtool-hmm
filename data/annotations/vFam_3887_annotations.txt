@@ -1,0 +1,10 @@
+CLUSTER	3887
+NUM_SEQ	2
+LENGTH	69
+RELATIVE_ENTROPY_PER_POSITION	0.74
+TOTAL_RELATIVE_ENTROPY	51.06
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Rhadinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|139472875|ref|YP_001129391.1|vFam_3887| ORF38 [Human herpesvirus 8]
+gi|18653845|ref|NP_570779.1|vFam_3887| hypothetical protein MmrVgp38 [Macacine herpesvirus 5]

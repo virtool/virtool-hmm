@@ -1,0 +1,12 @@
+CLUSTER	2765
+NUM_SEQ	4
+LENGTH	185
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	96.2
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|506498229|ref|YP_008004026.1|vFam_2765| unknown similar to AMEV225 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497966|ref|YP_008003765.1|vFam_2765| unknown similar to AMEV225 [Mythimna separata entomopoxvirus 'L']
+gi|506498535|ref|YP_008004331.1|vFam_2765| unknown similar to AMEV225 [Choristoneura biennis entomopoxvirus 'L']
+gi|9964539|ref|NP_065007.1|vFam_2765| hypothetical protein AMV225 [Amsacta moorei entomopoxvirus 'L']

@@ -1,0 +1,11 @@
+CLUSTER	1349
+NUM_SEQ	3
+LENGTH	206
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	103.0
+FAMILIES	{'Closteroviridae': 1, 'Alloherpesviridae': 1}
+GENERA	{'Crinivirus': 1, 'Batrachovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|109638560|ref|YP_656708.1|vFam_1349| ORF53 [Ranid herpesvirus 1]
+gi|72398365|ref|YP_293696.1|vFam_1349| P22 [Tomato chlorosis virus]
+gi|75750427|ref|YP_319840.1|vFam_1349| hypothetical protein ATV_gp09 [Acidianus two-tailed virus]

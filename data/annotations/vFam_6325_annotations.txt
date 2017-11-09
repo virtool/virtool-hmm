@@ -1,0 +1,10 @@
+CLUSTER	6325
+NUM_SEQ	2
+LENGTH	46
+RELATIVE_ENTROPY_PER_POSITION	1.14
+TOTAL_RELATIVE_ENTROPY	52.44
+FAMILIES	{'Closteroviridae': 2}
+GENERA	{'Ampelovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|365824257|ref|YP_004935376.1|vFam_6325| unnamed protein product [Grapevine leafroll-associated virus 6]
+gi|218202721|ref|YP_002364304.1|vFam_6325| small hydrophobic protein [Grapevine leafroll-associated virus 10]

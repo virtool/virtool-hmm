@@ -1,0 +1,34 @@
+CLUSTER	142
+NUM_SEQ	26
+LENGTH	309
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	157.59
+FAMILIES	{'Baculoviridae': 22}
+GENERA	{'Alphabaculovirus': 22}
+FASTA SEQUENCE TITLES:
+gi|15617502|ref|NP_258298.1|vFam_142| DBP [Spodoptera litura nucleopolyhedrovirus]
+gi|114679878|ref|YP_758328.1|vFam_142| dbp [Leucania separata nucleopolyhedrovirus]
+gi|438000330|ref|YP_007250435.1|vFam_142| dbp protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643566|ref|YP_002884256.1|vFam_142| DBP [Bombyx mandarina nucleopolyhedrovirus]
+gi|96979871|ref|YP_611077.1|vFam_142| ssdbp [Antheraea pernyi nucleopolyhedrovirus]
+gi|571031304|ref|YP_008992201.1|vFam_142| dbp [Choristoneura murinana alphabaculovirus]
+gi|9629981|ref|NP_046199.1|vFam_142| hypothetical protein OpmnVgp043 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|116326111|ref|YP_803436.1|vFam_142| ssDNA binding protein [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320692|ref|NP_203204.1|vFam_142| SSDBP [Epiphyas postvittana nucleopolyhedrovirus]
+gi|74229707|ref|YP_308911.1|vFam_142| dna binding protien (dbp) [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304158|ref|YP_249626.1|vFam_142| DBP1 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|209978802|ref|YP_002300545.1|vFam_142| dbp [Adoxophyes orana nucleopolyhedrovirus]
+gi|209401078|ref|YP_002273947.1|vFam_142| ssDNA binding protein [Helicoverpa armigera NPV NNg1]
+gi|125860249|ref|YP_001036419.1|vFam_142| single-stranded DNA binding protein [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401524|ref|YP_002332828.1|vFam_142| DNA binding protein [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634347|ref|NP_037886.1|vFam_142| ORF126 DNA binding protein [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|20070034|ref|NP_613238.1|vFam_142| DNA-binding protein DBP [Mamestra configurata nucleopolyhedrovirus A]
+gi|209171029|ref|YP_002268176.1|vFam_142| agip146 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592856|ref|YP_529809.1|vFam_142| ORF-139 [Agrotis segetum nucleopolyhedrovirus]
+gi|118197509|ref|YP_874220.1|vFam_142| Dbp-2 [Ectropis obliqua nucleopolyhedrovirus]
+gi|402502204|ref|YP_006607862.1|vFam_142| Dbp-2 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|165969063|ref|YP_001650963.1|vFam_142| DNA binding protein 2 [Orgyia leucostigma NPV]
+gi|529218083|ref|YP_008378246.1|vFam_142| dbp-2 [Hemileuca sp. nucleopolyhedrovirus]
+gi|228861634|ref|YP_002854654.1|vFam_142| DBP-1 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|292397717|ref|YP_003517783.1|vFam_142| DBP-1 [Lymantria xylina MNPV]
+gi|113195429|ref|YP_717565.1|vFam_142| DNA binding protein [Clanis bilineata nucleopolyhedrovirus]

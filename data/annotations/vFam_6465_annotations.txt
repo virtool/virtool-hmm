@@ -1,0 +1,10 @@
+CLUSTER	6465
+NUM_SEQ	2
+LENGTH	124
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	64.48
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|295441860|ref|YP_003591102.1|vFam_6465| hypothetical protein STIV2_A118 [Sulfolobus turreted icosahedral virus 2]
+gi|48697020|ref|YP_025017.1|vFam_6465| hypothetical protein B124 [Sulfolobus turreted icosahedral virus]

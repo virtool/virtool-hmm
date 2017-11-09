@@ -1,0 +1,10 @@
+CLUSTER	4026
+NUM_SEQ	2
+LENGTH	499
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	254.49
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Megalocytivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|19881522|ref|NP_612339.1|vFam_4026| ORF117R [Infectious spleen and kidney necrosis virus]
+gi|19881427|ref|NP_612244.1|vFam_4026| ORF022L [Infectious spleen and kidney necrosis virus]

@@ -1,0 +1,20 @@
+CLUSTER	736
+NUM_SEQ	12
+LENGTH	132
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	68.64
+FAMILIES	{'Poxviridae': 12}
+GENERA	{'None': 1, 'Molluscipoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531725|ref|YP_784251.1|vFam_736| Virion core protein [Nile crocodilepox virus]
+gi|40556057|ref|NP_955142.1|vFam_736| CNPV119 virion core protein [Canarypox virus]
+gi|9634762|ref|NP_039055.1|vFam_736| hypothetical protein FPV092 [Fowlpox virus]
+gi|113195245|ref|YP_717375.1|vFam_736| virion core protein [Taterapox virus]
+gi|345107233|ref|YP_004821398.1|vFam_736| putative virion core protein [Yoka poxvirus]
+gi|148912918|ref|YP_001293232.1|vFam_736| hypothetical protein GTPV_gp037 [Goatpox virus Pellor]
+gi|157939663|ref|YP_001497035.1|vFam_736| hypothetical protein TANV_41L [Tanapox virus]
+gi|38229204|ref|NP_938297.1|vFam_736| 41L [Yaba monkey tumor virus]
+gi|9628973|ref|NP_043992.1|vFam_736| MC041L [Molluscum contagiosum virus subtype 1]
+gi|571797960|ref|YP_008658459.1|vFam_736| conserved hypothetical pox protein [Squirrelpox virus]
+gi|41057463|ref|NP_957936.1|vFam_736| ORF027 virion core protein [Bovine papular stomatitis virus]
+gi|289183791|ref|YP_003457332.1|vFam_736| virion core protein [Pseudocowpox virus]

@@ -1,0 +1,24 @@
+CLUSTER	235
+NUM_SEQ	16
+LENGTH	734
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	367.0
+FAMILIES	{'Baculoviridae': 15}
+GENERA	{'Alphabaculovirus': 15}
+FASTA SEQUENCE TITLES:
+gi|209978829|ref|YP_002300572.1|vFam_235| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|29567142|ref|NP_818704.1|vFam_235| hypothetical protein AhnVgp057 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|15617536|ref|NP_258336.1|vFam_235| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|209401122|ref|YP_002273991.1|vFam_235| hypothetical protein HaSNPVNNg1_gp068 [Helicoverpa armigera NPV NNg1]
+gi|74229741|ref|YP_308945.1|vFam_235| orf55 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304195|ref|YP_249663.1|vFam_235| desmoplakin [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|215401338|ref|YP_002332642.1|vFam_235| desmoplakin [Helicoverpa armigera multiple nucleopolyhedrovirus]
+gi|20069993|ref|NP_613197.1|vFam_235| hypothetical protein McnAVgp114 [Mamestra configurata nucleopolyhedrovirus A]
+gi|209170988|ref|YP_002268135.1|vFam_235| agip105 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592816|ref|YP_529769.1|vFam_235| ORF-99 [Agrotis segetum nucleopolyhedrovirus]
+gi|125860213|ref|YP_001036383.1|vFam_235| hypothetical protein SFMNPV_gp091 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401489|ref|YP_002332793.1|vFam_235| hypothetical protein SlnV2_gp095 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634313|ref|NP_037852.1|vFam_235| ORF92 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|113195467|ref|YP_717604.1|vFam_235| desmoplakin [Clanis bilineata nucleopolyhedrovirus]
+gi|292397752|ref|YP_003517818.1|vFam_235| desmoplakin-like protein [Lymantria xylina MNPV]
+gi|9631049|ref|NP_047719.1|vFam_235| LdOrf-82 peptide [Lymantria dispar multiple nucleopolyhedrovirus]

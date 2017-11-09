@@ -1,0 +1,12 @@
+CLUSTER	1975
+NUM_SEQ	4
+LENGTH	241
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	125.32
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Varicellovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|122888766|ref|NP_040125.2|vFam_1975| myristylated tegument protein CIRC [Human herpesvirus 3]
+gi|270339442|ref|YP_003331522.1|vFam_1975| myristylated tegument protein CIRC [Felid herpesvirus 1]
+gi|216905856|ref|YP_002333484.1|vFam_1975| myristylated tegument protein CIRC [Equid herpesvirus 9]
+gi|9629755|ref|NP_045220.1|vFam_1975| myristylated tegument protein CIRC [Equid herpesvirus 4]

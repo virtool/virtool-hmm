@@ -1,0 +1,13 @@
+CLUSTER	995
+NUM_SEQ	5
+LENGTH	316
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	151.68
+FAMILIES	{'None': 1, 'Phycodnaviridae': 3, 'Baculoviridae': 1}
+GENERA	{'None': 1, 'Betabaculovirus': 1, 'Coccolithovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|213159270|ref|YP_002321313.1|vFam_995| trypsin-like serine protease-like protein [Oryctes rhinoceros virus]
+gi|73852629|ref|YP_293913.1|vFam_995| putative serine protease [Emiliania huxleyi virus 86]
+gi|285002408|ref|YP_003422472.1|vFam_995| hypothetical protein PsunGV_gp133 [Pseudaletia unipuncta granulovirus]
+gi|73852921|ref|YP_294205.1|vFam_995| putative serine protease [Emiliania huxleyi virus 86]
+gi|73852620|ref|YP_293904.1|vFam_995| putative serine protease [Emiliania huxleyi virus 86]

@@ -1,0 +1,12 @@
+CLUSTER	2615
+NUM_SEQ	4
+LENGTH	198
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	99.0
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Varicellovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|270339440|ref|YP_003331520.1|vFam_2615| membrane protein UL56 [Felid herpesvirus 1]
+gi|51557485|ref|YP_068319.1|vFam_2615| membrane protein UL56 [Suid herpesvirus 1]
+gi|261835092|ref|YP_002333482.2|vFam_2615| membrane protein UL56 [Equid herpesvirus 9]
+gi|9629733|ref|NP_045218.1|vFam_2615| membrane protein UL56 [Equid herpesvirus 4]

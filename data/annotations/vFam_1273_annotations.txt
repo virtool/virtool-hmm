@@ -1,0 +1,16 @@
+CLUSTER	1273
+NUM_SEQ	8
+LENGTH	191
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	101.23
+FAMILIES	{'Baculoviridae': 8}
+GENERA	{'Alphabaculovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|125860239|ref|YP_001036409.1|vFam_1273| hypothetical protein SFMNPV_gp117 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401515|ref|YP_002332819.1|vFam_1273| hypothetical protein SlnV2_gp121 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634337|ref|NP_037876.1|vFam_1273| ORF116 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|125860240|ref|YP_001036410.1|vFam_1273| hypothetical protein SFMNPV_gp118 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401516|ref|YP_002332820.1|vFam_1273| hypothetical protein SlnV2_gp122 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634338|ref|NP_037877.1|vFam_1273| ORF117 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209171019|ref|YP_002268166.1|vFam_1273| agip136 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592846|ref|YP_529799.1|vFam_1273| ORF-129 [Agrotis segetum nucleopolyhedrovirus]

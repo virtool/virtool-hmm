@@ -1,0 +1,14 @@
+CLUSTER	2088
+NUM_SEQ	6
+LENGTH	86
+RELATIVE_ENTROPY_PER_POSITION	0.57
+TOTAL_RELATIVE_ENTROPY	49.02
+FAMILIES	{'Baculoviridae': 6}
+GENERA	{'Alphabaculovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|125860257|ref|YP_001036427.1|vFam_2088| hypothetical protein SFMNPV_gp135 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|228861606|ref|YP_002854626.1|vFam_2088| hypothetical protein EupsNPV_gp016 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|215401530|ref|YP_002332834.1|vFam_2088| hypothetical protein SlnV2_gp136 [Spodoptera litura nucleopolyhedrovirus II]
+gi|20070040|ref|NP_613244.1|vFam_2088| hypothetical protein McnAVgp161 [Mamestra configurata nucleopolyhedrovirus A]
+gi|209171035|ref|YP_002268182.1|vFam_2088| agip152 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592862|ref|YP_529815.1|vFam_2088| ORF-145 [Agrotis segetum nucleopolyhedrovirus]

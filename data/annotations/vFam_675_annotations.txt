@@ -1,0 +1,17 @@
+CLUSTER	675
+NUM_SEQ	9
+LENGTH	55
+RELATIVE_ENTROPY_PER_POSITION	0.93
+TOTAL_RELATIVE_ENTROPY	51.15
+FAMILIES	{'Baculoviridae': 6}
+GENERA	{'Alphabaculovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|119964589|ref|YP_950785.1|vFam_675| Mv-ORF55 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|237643610|ref|YP_002884300.1|vFam_675| Ac72-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|438000374|ref|YP_007250479.1|vFam_675| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|15320721|ref|NP_203233.1|vFam_675| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|96979844|ref|YP_611050.1|vFam_675| hypothetical protein APNV_p082 [Antheraea pernyi nucleopolyhedrovirus]
+gi|529153558|ref|YP_008378583.1|vFam_675| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|9630013|ref|NP_046231.1|vFam_675| hypothetical protein OpmnVgp075 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153392|ref|YP_008378432.1|vFam_675| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|86355599|ref|YP_473267.1|vFam_675| ORF79 peptide [Hyphantria cunea nucleopolyhedrovirus]

@@ -1,0 +1,10 @@
+CLUSTER	3580
+NUM_SEQ	2
+LENGTH	286
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	148.72
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Orthopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|113195358|ref|YP_717488.1|vFam_3580| kelch-like ring canal protein [Taterapox virus]
+gi|18640408|ref|NP_570564.1|vFam_3580| CMLV174 [Camelpox virus]

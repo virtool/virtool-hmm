@@ -1,0 +1,12 @@
+CLUSTER	3359
+NUM_SEQ	4
+LENGTH	97
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	49.47
+FAMILIES	{'Retroviridae': 4}
+GENERA	{'Lentivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|9627207|ref|NP_054371.1|vFam_3359| vpx protein [Simian immunodeficiency virus]
+gi|28872817|ref|NP_057852.2|vFam_3359| Vpr [Human immunodeficiency virus 1]
+gi|9628885|ref|NP_056841.1|vFam_3359| vpr protein [Human immunodeficiency virus 2]
+gi|27311171|ref|NP_758890.1|vFam_3359| vpr protein [Simian immunodeficiency virus SIV-mnd 2]

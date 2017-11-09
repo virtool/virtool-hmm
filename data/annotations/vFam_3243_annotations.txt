@@ -1,0 +1,12 @@
+CLUSTER	3243
+NUM_SEQ	4
+LENGTH	190
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	98.8
+FAMILIES	{'Virgaviridae': 4}
+GENERA	{'Pomovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|19919933|ref|NP_612627.1|vFam_3243| 22K protein [Beet soil-borne virus]
+gi|25140200|ref|NP_740766.1|vFam_3243| third triple-gene-block protein [Broad bean necrosis virus]
+gi|20373124|ref|NP_620440.1|vFam_3243| triple-gene-block protein 3 [Potato mop-top virus]
+gi|19919952|ref|NP_612613.1|vFam_3243| Third triple gene block protein [Beet virus Q]

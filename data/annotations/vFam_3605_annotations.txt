@@ -1,0 +1,11 @@
+CLUSTER	3605
+NUM_SEQ	3
+LENGTH	251
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	130.52
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977703|ref|YP_003986823.1|vFam_3605| putative methyltransferase [Acanthamoeba polyphaga mimivirus]
+gi|448825560|ref|YP_007418491.1|vFam_3605| putative methyltransferase [Megavirus lba]
+gi|441432437|ref|YP_007354479.1|vFam_3605| putative RNA methylase [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,15 @@
+CLUSTER	1684
+NUM_SEQ	7
+LENGTH	94
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	50.76
+FAMILIES	{'Herpesviridae': 7}
+GENERA	{'Varicellovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|296316011|ref|YP_003662475.1|vFam_1684| envelope glycoprotein N [Bovine herpesvirus 5]
+gi|9629825|ref|NP_045309.1|vFam_1684| envelope glycoprotein N [Bovine herpesvirus 1]
+gi|13242466|ref|NP_077423.1|vFam_1684| envelope glycoprotein N [Cercopithecine herpesvirus 9]
+gi|51557491|ref|YP_068325.1|vFam_1684| envelope glycoprotein N [Suid herpesvirus 1]
+gi|270339449|ref|YP_003331529.1|vFam_1684| envelope glycoprotein N [Felid herpesvirus 1]
+gi|216905863|ref|YP_002333491.1|vFam_1684| envelope glycoprotein N [Equid herpesvirus 9]
+gi|9629734|ref|NP_045227.1|vFam_1684| envelope glycoprotein N [Equid herpesvirus 4]

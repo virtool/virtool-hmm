@@ -1,0 +1,15 @@
+CLUSTER	1567
+NUM_SEQ	7
+LENGTH	224
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	109.76
+FAMILIES	{'Marseillevirus family': 7}
+GENERA	{'None': 7}
+FASTA SEQUENCE TITLES:
+gi|284504162|ref|YP_003406877.1|vFam_1567| hypothetical protein MAR_ORF134 [Marseillevirus]
+gi|284504170|ref|YP_003406885.1|vFam_1567| hypothetical protein MAR_ORF142 [Marseillevirus]
+gi|284504172|ref|YP_003406887.1|vFam_1567| hypothetical protein MAR_ORF144 [Marseillevirus]
+gi|284504165|ref|YP_003406880.1|vFam_1567| hypothetical protein MAR_ORF137 [Marseillevirus]
+gi|284504171|ref|YP_003406886.1|vFam_1567| hypothetical protein MAR_ORF143 [Marseillevirus]
+gi|284504161|ref|YP_003406876.1|vFam_1567| hypothetical protein MAR_ORF133 [Marseillevirus]
+gi|284504084|ref|YP_003406799.1|vFam_1567| hypothetical protein MAR_ORF050 [Marseillevirus]

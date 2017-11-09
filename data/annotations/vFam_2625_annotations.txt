@@ -1,0 +1,13 @@
+CLUSTER	2625
+NUM_SEQ	5
+LENGTH	453
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	231.03
+FAMILIES	{'None': 1, 'Iridoviridae': 3}
+GENERA	{'None': 1, 'Iridovirus': 2, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831470|ref|YP_003970113.1|vFam_2625| hypothetical protein crov480 [Cafeteria roenbergensis virus BV-PW1]
+gi|15079104|ref|NP_149856.1|vFam_2625| 393L [Invertebrate iridescent virus 6]
+gi|109287917|ref|YP_654611.1|vFam_2625| hypothetical protein MIV039R [Invertebrate iridescent virus 3]
+gi|527333630|ref|YP_008357414.1|vFam_2625| immediate early protein ICP-46 [Invertebrate iridovirus 22]
+gi|339906045|ref|YP_004732842.1|vFam_2625| hypothetical protein WIV_gp059 [Wiseana iridescent virus]

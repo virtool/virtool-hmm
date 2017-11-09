@@ -1,0 +1,11 @@
+CLUSTER	3494
+NUM_SEQ	3
+LENGTH	135
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	70.2
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 1, 'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313768120|ref|YP_004061551.1|vFam_3494| hypothetical protein BpV1_121 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768336|ref|YP_004062016.1|vFam_3494| hypothetical protein MpV1_133 [Micromonas sp. RCC1109 virus MpV1]
+gi|163955117|ref|YP_001648221.1|vFam_3494| hypothetical protein OsV5_144f [Ostreococcus virus OsV5]

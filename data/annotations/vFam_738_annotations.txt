@@ -1,0 +1,19 @@
+CLUSTER	738
+NUM_SEQ	11
+LENGTH	127
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	66.04
+FAMILIES	{'Alphaflexiviridae': 6, 'Betaflexiviridae': 5}
+GENERA	{'Carlavirus': 5, 'Allexivirus': 6}
+FASTA SEQUENCE TITLES:
+gi|160700648|ref|YP_001552322.1|vFam_738| nucleic acid binding protein [Phlox Virus B]
+gi|360040871|ref|YP_004936164.1|vFam_738| unnamed protein product [Garlic common latent virus]
+gi|156616266|ref|YP_001430026.1|vFam_738| nucleic acid binding protein [Coleus vein necrosis virus]
+gi|9629351|ref|NP_044576.1|vFam_738| nucleic acid binding protein [Garlic virus X]
+gi|18450250|ref|NP_569137.1|vFam_738| 15kDa protein [Garlic virus C]
+gi|18450257|ref|NP_569131.1|vFam_738| 15kDa protein (NABP) [Garlic virus A]
+gi|20522102|ref|NP_620653.1|vFam_738| nucleic acid binding protein [Shallot virus X]
+gi|561142796|ref|YP_008855211.1|vFam_738| NTBP [Garlic virus D]
+gi|21427653|ref|NP_659017.1|vFam_738| nucleic acid binding protein [Garlic virus E]
+gi|224923886|ref|YP_002647026.1|vFam_738| nucleic acid binding protein [Red clover vein mosaic virus]
+gi|116734785|ref|YP_842443.1|vFam_738| hypothetical protein NSV_gp6 [Narcissus symptomless virus]

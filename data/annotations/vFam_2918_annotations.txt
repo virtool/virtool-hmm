@@ -1,0 +1,11 @@
+CLUSTER	2918
+NUM_SEQ	3
+LENGTH	489
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	254.28
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977967|ref|YP_003987087.1|vFam_2918| putative AAA family ATPase [Acanthamoeba polyphaga mimivirus]
+gi|441432089|ref|YP_007354131.1|vFam_2918| AAA family ATPase [Acanthamoeba polyphaga moumouvirus]
+gi|363540498|ref|YP_004894259.1|vFam_2918| mg208 gene product [Megavirus chiliensis]

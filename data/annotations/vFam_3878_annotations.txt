@@ -1,0 +1,11 @@
+CLUSTER	3878
+NUM_SEQ	3
+LENGTH	121
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	61.71
+FAMILIES	{'Retroviridae': 3}
+GENERA	{'Lentivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9626223|ref|NP_040565.1|vFam_3878| hypothetical protein BIVgp4 [Bovine immunodeficiency virus]
+gi|9628886|ref|NP_056842.1|vFam_3878| tat protein [Human immunodeficiency virus 2]
+gi|27311172|ref|NP_758891.1|vFam_3878| tat protein [Simian immunodeficiency virus SIV-mnd 2]

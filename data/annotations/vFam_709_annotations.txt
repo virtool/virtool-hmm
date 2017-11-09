@@ -1,0 +1,14 @@
+CLUSTER	709
+NUM_SEQ	6
+LENGTH	491
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	250.41
+FAMILIES	{'Retroviridae': 6}
+GENERA	{'Deltaretrovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|45239019|ref|NP_777385.2|vFam_709| gp60 SU [Bovine leukemia virus]
+gi|42766921|ref|NP_955620.2|vFam_709| gp46 SU [Human T-lymphotropic virus 1]
+gi|212499470|ref|YP_002308477.1|vFam_709| unnamed protein product [Simian T-cell lymphotropic virus 6]
+gi|219552912|ref|YP_002455789.1|vFam_709| envelope glycoprotein [Human T-lymphotropic virus 4]
+gi|9629502|ref|NP_056912.1|vFam_709| hypothetical protein STLV2gp09 [Simian T-lymphotropic virus 2]
+gi|9626730|ref|NP_041006.1|vFam_709| env propeptide [Human T-lymphotropic virus 2]

@@ -1,0 +1,11 @@
+CLUSTER	4146
+NUM_SEQ	3
+LENGTH	218
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	111.18
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498184|ref|YP_008003981.1|vFam_4146| hypothetical protein AHEV_158 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498798|ref|YP_008004592.1|vFam_4146| unknown similar to ClanGV085 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498494|ref|YP_008004290.1|vFam_4146| unknown similar to ClanGV085 [Choristoneura biennis entomopoxvirus 'L']

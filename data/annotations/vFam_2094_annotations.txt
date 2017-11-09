@@ -1,0 +1,14 @@
+CLUSTER	2094
+NUM_SEQ	6
+LENGTH	183
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	91.5
+FAMILIES	{'Herpesviridae': 6}
+GENERA	{'Cytomegalovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|52139298|ref|YP_081573.1|vFam_2094| membrane glycoprotein UL144 [Human herpesvirus 5]
+gi|20026715|ref|NP_612758.1|vFam_2094| membrane glycoprotein UL144 [Panine herpesvirus 2]
+gi|360086588|ref|YP_004940274.1|vFam_2094| membrane protein A21 [Saimiriine herpesvirus 3]
+gi|360040993|ref|YP_004940128.1|vFam_2094| membrane protein A21 [Aotine herpesvirus 1]
+gi|359946565|ref|YP_004936098.1|vFam_2094| membrane glycoprotein UL144 [Cercopithecine herpesvirus 5]
+gi|356640489|ref|YP_004933931.1|vFam_2094| membrane glycoprotein UL144 [Cynomolgus macaque cytomegalovirus strain Ottawa]

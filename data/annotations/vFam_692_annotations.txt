@@ -1,0 +1,11 @@
+CLUSTER	692
+NUM_SEQ	3
+LENGTH	405
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	210.6
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|425707322|ref|YP_007016519.1|vFam_692| e128 [Murid herpesvirus 8]
+gi|61660238|ref|YP_214129.1|vFam_692| hypothetical protein MuHV1_gp120 [Murid herpesvirus 1]
+gi|9845425|ref|NP_064239.1|vFam_692| pr128 [Murid herpesvirus 2]

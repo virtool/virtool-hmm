@@ -1,0 +1,23 @@
+CLUSTER	485
+NUM_SEQ	15
+LENGTH	160
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	83.2
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 1, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531809|ref|YP_784335.1|vFam_485| holliday junction resolvase [Nile crocodilepox virus]
+gi|40556199|ref|NP_955284.1|vFam_485| CNPV261 Holliday junction resolvase protein [Canarypox virus]
+gi|9634857|ref|NP_039150.1|vFam_485| hypothetical protein FPV187 [Fowlpox virus]
+gi|9633922|ref|NP_052001.1|vFam_485| gp112R [Rabbit fibroma virus]
+gi|9633748|ref|NP_051826.1|vFam_485| m112R [Myxoma virus]
+gi|148912991|ref|YP_001293305.1|vFam_485| hypothetical protein GTPV_gp109 [Goatpox virus Pellor]
+gi|345107314|ref|YP_004821479.1|vFam_485| holliday junction resolvase [Yoka poxvirus]
+gi|18640374|ref|NP_570530.1|vFam_485| CMLV140 [Camelpox virus]
+gi|38229276|ref|NP_938369.1|vFam_485| 114R [Yaba monkey tumor virus]
+gi|157939737|ref|YP_001497109.1|vFam_485| DNA processing [Tanapox virus]
+gi|18640197|ref|NP_570271.1|vFam_485| SPV111 putative DNA processing protein [Swinepox virus]
+gi|377830018|ref|YP_005296319.1|vFam_485| unnamed protein product [Cotia virus SPAn232]
+gi|211956394|ref|YP_002302463.1|vFam_485| holliday junction resolvase [Deerpox virus W-1170-84]
+gi|41057535|ref|NP_958008.1|vFam_485| ORF099 Holliday junction resolvase [Bovine papular stomatitis virus]
+gi|571798037|ref|YP_008658536.1|vFam_485| Holliday protein resolvase [Squirrelpox virus]

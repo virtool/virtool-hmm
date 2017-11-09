@@ -1,0 +1,15 @@
+CLUSTER	1388
+NUM_SEQ	7
+LENGTH	129
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	67.08
+FAMILIES	{'None': 1, 'Phycodnaviridae': 6}
+GENERA	{'None': 1, 'Prymnesiovirus': 1, 'Chlorovirus': 4, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|155370313|ref|YP_001425847.1|vFam_1388| hypothetical protein FR483_n215R [Paramecium bursaria Chlorella virus FR483]
+gi|73852854|ref|YP_294138.1|vFam_1388| hypothetical protein EhV380 [Emiliania huxleyi virus 86]
+gi|155371610|ref|YP_001427144.1|vFam_1388| hypothetical protein ATCV1_Z663R [Acanthocystis turfacea Chlorella virus 1]
+gi|155370839|ref|YP_001426373.1|vFam_1388| hypothetical protein FR483_N741R [Paramecium bursaria Chlorella virus FR483]
+gi|157953934|ref|YP_001498825.1|vFam_1388| hypothetical protein AR158_C744R [Paramecium bursaria Chlorella virus AR158]
+gi|508182178|ref|YP_008052697.1|vFam_1388| hypothetical protein PGCG_00386 [Phaeocystis globosa virus]
+gi|310831415|ref|YP_003970058.1|vFam_1388| hypothetical protein crov425 [Cafeteria roenbergensis virus BV-PW1]

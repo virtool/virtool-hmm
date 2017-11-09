@@ -1,0 +1,10 @@
+CLUSTER	2694
+NUM_SEQ	2
+LENGTH	109
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	55.59
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498887|ref|YP_008004681.1|vFam_2694| N1R/p28-like protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498298|ref|YP_008004094.1|vFam_2694| hypothetical protein CHBEV_024 [Choristoneura biennis entomopoxvirus 'L']

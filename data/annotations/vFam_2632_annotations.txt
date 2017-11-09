@@ -1,0 +1,13 @@
+CLUSTER	2632
+NUM_SEQ	5
+LENGTH	256
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	130.56
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Crocodylidpoxvirus': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531829|ref|YP_784355.1|vFam_2632| KDEL motif protein [Nile crocodilepox virus]
+gi|506498091|ref|YP_008003888.1|vFam_2632| unknown similar to AMEV070 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497809|ref|YP_008003608.1|vFam_2632| unknown similar to AMEV070 [Mythimna separata entomopoxvirus 'L']
+gi|9964384|ref|NP_064852.1|vFam_2632| putative matrix metalloproteinase [Amsacta moorei entomopoxvirus 'L']
+gi|506498704|ref|YP_008004498.1|vFam_2632| unknown similar to AMEV070 [Choristoneura rosaceana entomopoxvirus 'L']

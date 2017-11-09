@@ -1,0 +1,10 @@
+CLUSTER	5907
+NUM_SEQ	2
+LENGTH	257
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	133.64
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|359946578|ref|YP_004936111.1|vFam_5907| protein O22 [Cercopithecine herpesvirus 5]
+gi|356640506|ref|YP_004933948.1|vFam_5907| hypothetical protein cy203 [Cynomolgus macaque cytomegalovirus strain Ottawa]

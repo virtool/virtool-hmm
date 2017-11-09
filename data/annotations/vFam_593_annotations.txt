@@ -1,0 +1,22 @@
+CLUSTER	593
+NUM_SEQ	14
+LENGTH	210
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	111.3
+FAMILIES	{'Poxviridae': 14}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531780|ref|YP_784306.1|vFam_593| MutT motif protein [Nile crocodilepox virus]
+gi|9629030|ref|NP_044049.1|vFam_593| MC098R [Molluscum contagiosum virus subtype 1]
+gi|571798006|ref|YP_008658505.1|vFam_593| MutT motif protein [Squirrelpox virus]
+gi|40556014|ref|NP_955099.1|vFam_593| CNPV076 mutT motif [Canarypox virus]
+gi|9634724|ref|NP_039017.1|vFam_593| mutT motif [Fowlpox virus]
+gi|377830076|ref|YP_005296291.1|vFam_593| unnamed protein product [Cotia virus SPAn232]
+gi|113195293|ref|YP_717423.1|vFam_593| hypothetical protein TATV_DAH68_116 [Taterapox virus]
+gi|345107283|ref|YP_004821448.1|vFam_593| mRNA decapping enzyme [Yoka poxvirus]
+gi|9633895|ref|NP_051973.1|vFam_593| gp084R [Rabbit fibroma virus]
+gi|18640169|ref|NP_570243.1|vFam_593| SPV083 mutT motif [Swinepox virus]
+gi|21492539|ref|NP_659658.1|vFam_593| mutT motif [Sheeppox virus]
+gi|211956366|ref|YP_002302435.1|vFam_593| MutT motif protein [Deerpox virus W-1170-84]
+gi|157939709|ref|YP_001497081.1|vFam_593| mutT motif protein [Tanapox virus]
+gi|38229248|ref|NP_938341.1|vFam_593| 86R [Yaba monkey tumor virus]

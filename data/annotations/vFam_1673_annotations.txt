@@ -1,0 +1,13 @@
+CLUSTER	1673
+NUM_SEQ	5
+LENGTH	141
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	70.5
+FAMILIES	{'Baculoviridae': 1, 'Phycodnaviridae': 4}
+GENERA	{'Chlorovirus': 4, 'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15320770|ref|NP_203282.1|vFam_1673| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|155371739|ref|YP_001427273.1|vFam_1673| hypothetical protein ATCV1_z792R [Acanthocystis turfacea Chlorella virus 1]
+gi|9631700|ref|NP_048479.1|vFam_1673| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953362|ref|YP_001498253.1|vFam_1673| hypothetical protein AR158_C171L [Paramecium bursaria Chlorella virus AR158]
+gi|157952485|ref|YP_001497377.1|vFam_1673| hypothetical protein NY2A_B181L [Paramecium bursaria Chlorella virus NY2A]

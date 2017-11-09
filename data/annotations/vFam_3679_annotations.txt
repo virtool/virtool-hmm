@@ -1,0 +1,11 @@
+CLUSTER	3679
+NUM_SEQ	3
+LENGTH	202
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	105.04
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 2, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|313768022|ref|YP_004061453.1|vFam_3679| hypothetical protein BpV1_023 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|260665900|ref|YP_003212854.1|vFam_3679| hypothetical protein H665_p030 [Ostreococcus tauri virus 1]
+gi|314055119|ref|YP_004063457.1|vFam_3679| putative PhoH family protein [Ostreococcus tauri virus 2]

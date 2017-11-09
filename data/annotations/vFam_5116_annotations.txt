@@ -1,0 +1,10 @@
+CLUSTER	5116
+NUM_SEQ	2
+LENGTH	124
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	63.24
+FAMILIES	{'Virgaviridae': 2}
+GENERA	{'Pecluvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|30018260|ref|NP_835262.1|vFam_5116| 15 kDa protein [Indian peanut clump virus]
+gi|20178597|ref|NP_620041.1|vFam_5116| hypothetical protein PeaCVs1gp4 [Peanut clump virus]

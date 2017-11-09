@@ -1,0 +1,10 @@
+CLUSTER	6271
+NUM_SEQ	2
+LENGTH	195
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	97.5
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159307|ref|YP_002321350.1|vFam_6271| GrBNV_gp93-like protein [Oryctes rhinoceros virus]
+gi|134303491|ref|YP_001111360.1|vFam_6271| hypothetical protein GrBNV_gp93 [Gryllus bimaculatus nudivirus]

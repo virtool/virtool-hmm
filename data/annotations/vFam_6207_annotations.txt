@@ -1,0 +1,10 @@
+CLUSTER	6207
+NUM_SEQ	2
+LENGTH	149
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	77.48
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441432524|ref|YP_007354566.1|vFam_6207| type I cysteine dioxygenase [Acanthamoeba polyphaga moumouvirus]
+gi|310831403|ref|YP_003970046.1|vFam_6207| putative type I cysteine dioxygenase [Cafeteria roenbergensis virus BV-PW1]

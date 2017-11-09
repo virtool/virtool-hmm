@@ -1,0 +1,31 @@
+CLUSTER	281
+NUM_SEQ	23
+LENGTH	260
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	135.2
+FAMILIES	{'Tombusviridae': 7, 'None': 16}
+GENERA	{'Necrovirus': 6, 'Polemovirus': 1, 'None': 1, 'Sobemovirus': 15}
+FASTA SEQUENCE TITLES:
+gi|449265396|ref|YP_007438855.1|vFam_281| capsid protein [Ryegrass mottle virus]
+gi|387600885|ref|YP_006331063.1|vFam_281| capsid protein [Artemisia virus A]
+gi|212671452|ref|YP_002308463.1|vFam_281| coat protein [Poinsettia latent virus]
+gi|38349474|ref|NP_941377.1|vFam_281| capsid protein [Cocksfoot mottle virus]
+gi|449265359|ref|YP_007438863.1|vFam_281| capsid protein [Rice yellow mottle virus]
+gi|212498722|ref|YP_002308437.1|vFam_281| capsid protein [Imperata yellow mottle virus]
+gi|197914885|ref|YP_002158815.1|vFam_281| capsid protein [Sowbane mosaic virus]
+gi|564293604|ref|YP_008869288.1|vFam_281| coat protein [Turnip rosette virus]
+gi|449265363|ref|YP_007438851.1|vFam_281| coat protein [Lucerne transient streak virus]
+gi|24323601|ref|NP_715629.1|vFam_281| capsid protein [Subterranean clover mottle virus]
+gi|307346915|ref|YP_003896040.1|vFam_281| capsid protein [Velvet tobacco mottle virus]
+gi|401715656|ref|YP_006589927.1|vFam_281| capsid protein [Papaya lethal yellowing virus]
+gi|9627903|ref|NP_042303.1|vFam_281| capsid protein [Southern cowpea mosaic virus]
+gi|10645645|ref|NP_066394.1|vFam_281| coat protein [Sesbania mosaic virus]
+gi|347762087|ref|YP_004869652.1|vFam_281| capsid protein [Soybean yellow common mosaic virus]
+gi|449265399|ref|YP_007438859.1|vFam_281| capsid protein [Southern bean mosaic virus]
+gi|9629523|ref|NP_044744.1|vFam_281| capsid protein [Leek white stripe virus]
+gi|85677468|ref|YP_459922.1|vFam_281| putative capsid protein [Maize necrotic streak virus]
+gi|9628879|ref|NP_043911.1|vFam_281| capsid protein [Olive latent virus 1]
+gi|50080148|ref|NP_758815.2|vFam_281| coat protein [Beet black scorch virus]
+gi|9629187|ref|NP_056828.1|vFam_281| coat protein [Tobacco necrosis virus A]
+gi|62327386|ref|YP_224020.1|vFam_281| coat protein [Olive mild mosaic virus]
+gi|19774247|ref|NP_608316.1|vFam_281| 29 kDa coat protein [Tobacco necrosis virus D]

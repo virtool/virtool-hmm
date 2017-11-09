@@ -1,0 +1,10 @@
+CLUSTER	6219
+NUM_SEQ	2
+LENGTH	262
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	133.62
+FAMILIES	{'Rhabdoviridae': 2}
+GENERA	{'Nucleorhabdovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|354459086|ref|YP_004927969.1|vFam_6219| matrix protein [Potato yellow dwarf virus]
+gi|20428619|ref|NP_620499.1|vFam_6219| matrix protein [Rice yellow stunt virus]

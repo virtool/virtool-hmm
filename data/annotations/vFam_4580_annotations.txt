@@ -1,0 +1,11 @@
+CLUSTER	4580
+NUM_SEQ	3
+LENGTH	228
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	114.0
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Iridovirus': 1, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|109287994|ref|YP_654688.1|vFam_4580| hypothetical protein MIV116R [Invertebrate iridescent virus 3]
+gi|527333560|ref|YP_008357344.1|vFam_4580| hypothetical protein IIV22_046R [Invertebrate iridovirus 22]
+gi|339906159|ref|YP_004732956.1|vFam_4580| hypothetical protein WIV_gp173 [Wiseana iridescent virus]

@@ -1,0 +1,11 @@
+CLUSTER	4410
+NUM_SEQ	3
+LENGTH	284
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	144.84
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|422933881|ref|YP_007003940.1|vFam_4410| membrane protein ORF124 [Cyprinid herpesvirus 2]
+gi|422933652|ref|YP_007003777.1|vFam_4410| membrane protein ORF124 [Cyprinid herpesvirus 1]
+gi|131840150|ref|YP_001096159.1|vFam_4410| unnamed protein product [Cyprinid herpesvirus 3]

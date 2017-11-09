@@ -1,0 +1,22 @@
+CLUSTER	320
+NUM_SEQ	14
+LENGTH	741
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	385.32
+FAMILIES	{'Herpesviridae': 14}
+GENERA	{'Varicellovirus': 8, 'Mardivirus': 1, 'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|13242404|ref|NP_077427.1|vFam_320| tegument protein VP11/12 [Cercopithecine herpesvirus 9]
+gi|9625887|ref|NP_040135.1|vFam_320| tegument protein VP11/12 [Human herpesvirus 3]
+gi|30984474|ref|NP_851906.1|vFam_320| tegument protein VP11/12 [Macacine herpesvirus 1]
+gi|83722615|ref|YP_443893.1|vFam_320| tegument protein VP11/12 [Papiine herpesvirus 2]
+gi|56694769|ref|YP_164489.1|vFam_320| tegument protein VP11/12 [Cercopithecine herpesvirus 2]
+gi|9629427|ref|NP_044648.1|vFam_320| tegument protein VP11/12 [Human herpesvirus 1]
+gi|9629316|ref|NP_044516.1|vFam_320| tegument protein VP11/12 [Human herpesvirus 2]
+gi|255683146|ref|YP_003084374.1|vFam_320| UL46 [Anatid herpesvirus 1]
+gi|281190772|ref|YP_003331533.2|vFam_320| tegument protein VP11/12 [Felid herpesvirus 1]
+gi|50313255|ref|YP_053059.1|vFam_320| tegument protein VP11/12 [Equid herpesvirus 1]
+gi|9629738|ref|NP_045231.1|vFam_320| tegument protein VP11/12 [Equid herpesvirus 4]
+gi|51557495|ref|YP_068329.1|vFam_320| tegument protein VP11/12 [Suid herpesvirus 1]
+gi|296316015|ref|YP_003662479.1|vFam_320| tegument protein VP11/12 [Bovine herpesvirus 5]
+gi|9629829|ref|NP_045313.1|vFam_320| tegument protein VP11/12 [Bovine herpesvirus 1]

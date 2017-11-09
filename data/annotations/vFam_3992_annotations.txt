@@ -1,0 +1,10 @@
+CLUSTER	3992
+NUM_SEQ	2
+LENGTH	181
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	94.12
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40556210|ref|NP_955295.1|vFam_3992| CNPV272 C-type lectin-like EEV protein [Canarypox virus]
+gi|9634868|ref|NP_039161.1|vFam_3992| C-type lectin-like protein [Fowlpox virus]

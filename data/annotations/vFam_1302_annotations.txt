@@ -1,0 +1,14 @@
+CLUSTER	1302
+NUM_SEQ	6
+LENGTH	141
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	73.32
+FAMILIES	{'Asfarviridae': 1, 'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1, 'Asfivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9628222|ref|NP_042808.1|vFam_1302| pH124R [African swine fever virus]
+gi|9631320|ref|NP_048150.1|vFam_1302| ORF MSV079 hypothetical protein with C2H2 zinc finger [Melanoplus sanguinipes entomopoxvirus]
+gi|506497845|ref|YP_008003644.1|vFam_1302| unknown similar to AMEV101 [Mythimna separata entomopoxvirus 'L']
+gi|506498135|ref|YP_008003932.1|vFam_1302| unknown similar to AMEV101 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498734|ref|YP_008004528.1|vFam_1302| unknown similar to AMEV101 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964415|ref|NP_064883.1|vFam_1302| hypothetical protein AMV101 [Amsacta moorei entomopoxvirus 'L']

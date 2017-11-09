@@ -1,0 +1,10 @@
+CLUSTER	4391
+NUM_SEQ	2
+LENGTH	283
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	141.5
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531034954|ref|YP_008436579.1|vFam_4391| hypothetical protein ps_163 [Pandoravirus salinus]
+gi|526118835|ref|YP_008318738.1|vFam_4391| hypothetical protein [Pandoravirus dulcis]

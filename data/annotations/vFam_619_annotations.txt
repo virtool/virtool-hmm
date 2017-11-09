@@ -1,0 +1,20 @@
+CLUSTER	619
+NUM_SEQ	12
+LENGTH	965
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	501.8
+FAMILIES	{'Bromoviridae': 12}
+GENERA	{'Anulavirus': 2, 'Bromovirus': 6, 'Cucumovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|20177485|ref|NP_619770.1|vFam_619| replicase [Pelargonium zonate spot virus]
+gi|400354975|ref|YP_006576518.1|vFam_619| replication protein 1a [Amazon lily mild mottle virus]
+gi|9632347|ref|NP_049331.1|vFam_619| 1a protein [Peanut stunt virus]
+gi|9632335|ref|NP_049323.1|vFam_619| replicase [Cucumber mosaic virus]
+gi|224808898|ref|YP_002640500.1|vFam_619| 1a protein [Gayfeather mild mottle virus]
+gi|20564161|ref|NP_620760.1|vFam_619| 1a protein [Tomato aspermy virus]
+gi|513126895|ref|YP_233101.2|vFam_619| 1a protein [Cassia yellow blotch virus]
+gi|9626932|ref|NP_041196.1|vFam_619| replicase [Brome mosaic virus]
+gi|22550378|ref|NP_689392.1|vFam_619| 1a protein [Spring beauty latent virus]
+gi|20087045|ref|NP_613278.1|vFam_619| 1a protein [Cowpea chlorotic mottle virus]
+gi|21426915|ref|NP_659000.1|vFam_619| 1a protein [Broad bean mottle virus]
+gi|261041170|ref|YP_003208107.1|vFam_619| 1a protein [Melandrium yellow fleck virus]

@@ -1,0 +1,10 @@
+CLUSTER	5852
+NUM_SEQ	2
+LENGTH	274
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	142.48
+FAMILIES	{'Tombusviridae': 2}
+GENERA	{'Aureusvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|148717969|ref|YP_001285475.1|vFam_5852| unnamed protein product [Maize white line mosaic virus]
+gi|39163650|ref|NP_945129.1|vFam_5852| replicase [Johnsongrass chlorotic stripe mosaic virus]

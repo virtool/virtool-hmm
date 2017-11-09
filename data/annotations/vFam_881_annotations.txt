@@ -1,0 +1,12 @@
+CLUSTER	881
+NUM_SEQ	4
+LENGTH	360
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	187.2
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|360086556|ref|YP_004940241.1|vFam_881| envelope protein UL78 [Saimiriine herpesvirus 3]
+gi|360040960|ref|YP_004940095.1|vFam_881| envelope protein UL78 [Aotine herpesvirus 1]
+gi|359946511|ref|YP_004936044.1|vFam_881| envelope protein UL78 [Cercopithecine herpesvirus 5]
+gi|356640402|ref|YP_004933844.1|vFam_881| protein UL78 [Cynomolgus macaque cytomegalovirus strain Ottawa]

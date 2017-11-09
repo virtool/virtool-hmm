@@ -1,0 +1,12 @@
+CLUSTER	3036
+NUM_SEQ	4
+LENGTH	338
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	175.76
+FAMILIES	{'Reoviridae': 4}
+GENERA	{'Fijivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|68532378|ref|YP_249758.1|vFam_3036| structural protein [Fiji disease virus]
+gi|120407028|ref|YP_956853.1|vFam_3036| ORF1 [Mal de Rio Cuarto virus]
+gi|312274950|ref|YP_004021933.1|vFam_3036| hypothetical protein SRBSDVs9_gp1 [Southern rice black-streaked dwarf virus]
+gi|20386780|ref|NP_620456.1|vFam_3036| hypothetical protein RBSDVs9gp1 [Rice black streaked dwarf virus]

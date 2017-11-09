@@ -1,0 +1,11 @@
+CLUSTER	3880
+NUM_SEQ	3
+LENGTH	420
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	218.4
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Mardivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|12084872|ref|NP_073337.1|vFam_3880| envelope protein UL43 [Meleagrid herpesvirus 1]
+gi|125745095|ref|YP_001033972.1|vFam_3880| envelope protein UL43 [Gallid herpesvirus 2]
+gi|10834914|ref|NP_066875.1|vFam_3880| envelope protein UL43 [Gallid herpesvirus 3]

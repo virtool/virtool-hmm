@@ -1,0 +1,11 @@
+CLUSTER	3986
+NUM_SEQ	3
+LENGTH	324
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	165.24
+FAMILIES	{'Secoviridae': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|360040898|ref|YP_004940022.1|vFam_3986| unnamed protein product [Chocolate lily virus A]
+gi|109240531|ref|YP_654562.1|vFam_3986| movement protein [Black raspberry necrosis virus]
+gi|25014021|ref|NP_733983.1|vFam_3986| movement protein [Strawberry mottle virus]

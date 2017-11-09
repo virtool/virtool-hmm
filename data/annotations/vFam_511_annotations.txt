@@ -1,0 +1,16 @@
+CLUSTER	511
+NUM_SEQ	8
+LENGTH	312
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	156.0
+FAMILIES	{'Baculoviridae': 8}
+GENERA	{'Alphabaculovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|9627763|ref|NP_054050.1|vFam_511| actin rearrangement inducing factor [Autographa californica nucleopolyhedrovirus]
+gi|96979885|ref|YP_611094.1|vFam_511| arif-1 [Antheraea pernyi nucleopolyhedrovirus]
+gi|15320674|ref|NP_203186.1|vFam_511| ARIF-1 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|86355652|ref|YP_473320.1|vFam_511| Actin rearrangement inducing factor 1 [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629957|ref|NP_046175.1|vFam_511| hypothetical protein OpmnVgp019 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|30387252|ref|NP_848331.1|vFam_511| actin rearrangement inducing factor [Choristoneura fumiferana multiple nucleopolyhedrovirus]
+gi|116326082|ref|YP_803407.1|vFam_511| actin rearrangement inducing factor [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651370|ref|NP_932620.1|vFam_511| actin rearrangement inducing factor [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]

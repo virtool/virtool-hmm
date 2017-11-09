@@ -1,0 +1,24 @@
+CLUSTER	365
+NUM_SEQ	16
+LENGTH	75
+RELATIVE_ENTROPY_PER_POSITION	0.68
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{'Baculoviridae': 13}
+GENERA	{'Alphabaculovirus': 13}
+FASTA SEQUENCE TITLES:
+gi|209978813|ref|YP_002300556.1|vFam_365| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|9631024|ref|NP_047694.1|vFam_365| LdOrf-58 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|114679912|ref|YP_758362.1|vFam_365| ORF65 [Leucania separata nucleopolyhedrovirus]
+gi|15617521|ref|NP_258318.1|vFam_365| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|209401102|ref|YP_002273971.1|vFam_365| hypothetical protein HaSNPVNNg1_gp048 [Helicoverpa armigera NPV NNg1]
+gi|113195442|ref|YP_717579.1|vFam_365| ac55-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|228861625|ref|YP_002854645.1|vFam_365| hypothetical protein EupsNPV_gp035 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|74229729|ref|YP_308933.1|vFam_365| orf43 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304182|ref|YP_249650.1|vFam_365| ORF-46 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|118197522|ref|YP_874233.1|vFam_365| hypothetical protein EONV_gp040 [Ectropis obliqua nucleopolyhedrovirus]
+gi|165969047|ref|YP_001650947.1|vFam_365| hypothetical protein [Orgyia leucostigma NPV]
+gi|20070011|ref|NP_613215.1|vFam_365| hypothetical protein McnAVgp132 [Mamestra configurata nucleopolyhedrovirus A]
+gi|215401502|ref|YP_002332806.1|vFam_365| hypothetical protein SlnV2_gp108 [Spodoptera litura nucleopolyhedrovirus II]
+gi|90592829|ref|YP_529782.1|vFam_365| ORF-112 [Agrotis segetum nucleopolyhedrovirus]
+gi|529218098|ref|YP_008378261.1|vFam_365| ac55 [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502140|ref|YP_006607798.1|vFam_365| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]

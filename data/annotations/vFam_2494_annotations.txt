@@ -1,0 +1,11 @@
+CLUSTER	2494
+NUM_SEQ	3
+LENGTH	102
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	53.04
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281796|ref|YP_003331461.1|vFam_2494| hypothetical protein SSSV6_gp11 [Sulfolobus spindle-shaped virus 6]
+gi|22122285|ref|NP_666546.1|vFam_2494| hypothetical protein SIRV2gp12 [Sulfolobus islandicus rod-shaped virus 2]
+gi|22122232|ref|NP_666593.1|vFam_2494| hypothetical protein SIRV1gp05 [Sulfolobus islandicus rod-shaped virus 1]

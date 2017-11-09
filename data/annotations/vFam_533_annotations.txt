@@ -1,0 +1,21 @@
+CLUSTER	533
+NUM_SEQ	13
+LENGTH	111
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	57.72
+FAMILIES	{'Baculoviridae': 8, 'Phycodnaviridae': 1}
+GENERA	{'Chlorovirus': 1, 'Alphabaculovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|556549094|ref|YP_008720008.1|vFam_533| hypothetical protein CalGV061 [Clostera anastomosis granulovirus]
+gi|114680007|ref|YP_758457.1|vFam_533| ORF160 [Leucania separata nucleopolyhedrovirus]
+gi|118197586|ref|YP_874298.1|vFam_533| hypothetical protein EONV_gp105 [Ectropis obliqua nucleopolyhedrovirus]
+gi|215401428|ref|YP_002332731.1|vFam_533| hypothetical protein SlnV2_gp033 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634254|ref|NP_037793.1|vFam_533| ORF33 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|22549443|ref|NP_689216.1|vFam_533| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|90592751|ref|YP_529704.1|vFam_533| ORF-34 [Agrotis segetum nucleopolyhedrovirus]
+gi|209170924|ref|YP_002268070.1|vFam_533| agip40 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|228861710|ref|YP_002854730.1|vFam_533| hypothetical protein EupsNPV_gp120 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|529218164|ref|YP_008378327.1|vFam_533| HESP111 [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502196|ref|YP_006607854.1|vFam_533| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|526119045|ref|YP_008318948.1|vFam_533| hypothetical protein [Pandoravirus dulcis]
+gi|157953332|ref|YP_001498223.1|vFam_533| hypothetical protein AR158_c141R [Paramecium bursaria Chlorella virus AR158]

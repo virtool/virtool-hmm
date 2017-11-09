@@ -1,0 +1,29 @@
+CLUSTER	208
+NUM_SEQ	21
+LENGTH	615
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	319.8
+FAMILIES	{'Flaviviridae': 21}
+GENERA	{'Flavivirus': 21}
+FASTA SEQUENCE TITLES:
+gi|27735332|ref|NP_776031.1|vFam_208| putative non-structural protein NS3 [Tamana bat virus]
+gi|392002748|ref|YP_006470615.1|vFam_208| nonstructural protein NS3 [Culex flavivirus]
+gi|37695586|ref|NP_937777.1|vFam_208| NS3 protein [Kamiti River virus]
+gi|27735345|ref|NP_776044.1|vFam_208| putative non-structural protein NS3 [Cell fusing agent virus]
+gi|27596769|ref|NP_775520.1|vFam_208| non-structural protein NS3 [Powassan virus]
+gi|27545511|ref|NP_775474.1|vFam_208| non-structural protein NS3 [Alkhumra hemorrhagic fever virus]
+gi|27596782|ref|NP_775507.1|vFam_208| non-structural protein NS3 [Tick-borne encephalitis virus]
+gi|25121531|ref|NP_740299.1|vFam_208| nonstructural protein NS3 [Langat virus]
+gi|27697401|ref|NP_775684.1|vFam_208| non-structural protein NS3 [Apoi virus]
+gi|25121728|ref|NP_740264.1|vFam_208| non-structural protein 3 [Modoc virus]
+gi|27669994|ref|NP_775649.1|vFam_208| non-structural protein NS3 [Montana myotis leukoencephalitis virus]
+gi|27735367|ref|NP_776076.1|vFam_208| non-structural protein NS3 [Rio Bravo virus]
+gi|27735293|ref|NP_776005.1|vFam_208| non-structural protein NS3 [Yellow fever virus]
+gi|27735306|ref|NP_776018.1|vFam_208| unnamed protein product [West Nile virus]
+gi|27696332|ref|NP_775670.1|vFam_208| non-structural protein NS3, partial [Japanese encephalitis virus]
+gi|56692450|ref|YP_164814.1|vFam_208| NS3 [Usutu virus]
+gi|24418986|ref|NP_722535.1|vFam_208| NS3 [Murray Valley encephalitis virus]
+gi|73671175|ref|NP_740321.1|vFam_208| NS3 protein [Dengue virus 4]
+gi|159024816|ref|NP_739587.2|vFam_208| Nonstructural protein NS3 [Dengue virus 2]
+gi|164654858|ref|YP_001531172.2|vFam_208| Nonstructural protein NS3 [Dengue virus 3]
+gi|25014066|ref|NP_722463.1|vFam_208| nonstructural protein 3 [Dengue virus 1]

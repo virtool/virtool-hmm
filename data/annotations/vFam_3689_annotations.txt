@@ -1,0 +1,11 @@
+CLUSTER	3689
+NUM_SEQ	3
+LENGTH	323
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	167.96
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978030|ref|YP_003987150.1|vFam_3689| acid ceramidase-like protein [Acanthamoeba polyphaga mimivirus]
+gi|448825752|ref|YP_007418683.1|vFam_3689| acid ceramidase-like protein [Megavirus lba]
+gi|441432590|ref|YP_007354632.1|vFam_3689| Ntn (N-terminal nucleophile) hydrolase [Acanthamoeba polyphaga moumouvirus]

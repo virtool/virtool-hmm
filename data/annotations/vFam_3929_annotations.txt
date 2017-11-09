@@ -1,0 +1,10 @@
+CLUSTER	3929
+NUM_SEQ	2
+LENGTH	311
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	161.72
+FAMILIES	{'Rhabdoviridae': 2}
+GENERA	{'Cytorhabdovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|212498334|ref|YP_002308373.1|vFam_3929| protein 3 [Lettuce yellow mottle virus]
+gi|83659774|ref|YP_425089.1|vFam_3929| 4b protein [Lettuce necrotic yellows virus]

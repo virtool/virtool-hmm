@@ -1,0 +1,13 @@
+CLUSTER	1887
+NUM_SEQ	5
+LENGTH	229
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	114.5
+FAMILIES	{'None': 1, 'Circoviridae': 3}
+GENERA	{'Gyrovirus': 3, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|223951474|ref|YP_002600774.1|vFam_1887| hypothetical protein [Sea turtle tornovirus 1]
+gi|9626430|ref|NP_056773.1|vFam_1887| hypothetical protein CAVgp2 [Chicken anemia virus]
+gi|557745627|ref|YP_008798239.1|vFam_1887| VP2 [Gyrovirus Tu789]
+gi|448261110|ref|YP_004564623.1|vFam_1887| VP2 protein [Human gyrovirus type 1]
+gi|394922886|ref|YP_005454310.1|vFam_1887| VP2 [Gyrovirus GyV3]

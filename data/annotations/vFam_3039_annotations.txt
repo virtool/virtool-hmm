@@ -1,0 +1,10 @@
+CLUSTER	3039
+NUM_SEQ	2
+LENGTH	579
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	301.08
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|526119669|ref|YP_008319572.1|vFam_3039| pqq-dependent dehydrogenase [Pandoravirus dulcis]
+gi|526119470|ref|YP_008319373.1|vFam_3039| pyrroloquinoline quinone-dependent alcohol dehydrogenase [Pandoravirus dulcis]

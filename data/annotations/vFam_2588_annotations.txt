@@ -1,0 +1,11 @@
+CLUSTER	2588
+NUM_SEQ	3
+LENGTH	135
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	67.5
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Lymphocystivirus': 2, 'Ranavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|388260181|ref|YP_006347709.1|vFam_2588| hypothetical protein [European catfish virus]
+gi|51870027|ref|YP_073580.1|vFam_2588| hypothetical protein LDVICp073 [Lymphocystis disease virus - isolate China]
+gi|13358486|ref|NP_078769.1|vFam_2588| hypothetical protein LCDV1gp109 [Lymphocystis disease virus 1]

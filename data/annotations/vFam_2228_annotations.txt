@@ -1,0 +1,10 @@
+CLUSTER	2228
+NUM_SEQ	2
+LENGTH	341
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	177.32
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Orthopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|66275858|ref|YP_232943.1|vFam_2228| abundant component of virosome [Vaccinia virus]
+gi|20178437|ref|NP_619858.1|vFam_2228| CPXV071 protein [Cowpox virus]

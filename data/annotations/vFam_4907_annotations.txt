@@ -1,0 +1,11 @@
+CLUSTER	4907
+NUM_SEQ	3
+LENGTH	255
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	132.6
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978130|ref|YP_003987250.1|vFam_4907| putative chemotaxis protein CheD [Acanthamoeba polyphaga mimivirus]
+gi|448825225|ref|YP_007418156.1|vFam_4907| putative chemotaxis protein CheD [Megavirus lba]
+gi|441432142|ref|YP_007354184.1|vFam_4907| CheD, Chemotaxis protein [Acanthamoeba polyphaga moumouvirus]

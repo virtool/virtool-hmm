@@ -1,0 +1,12 @@
+CLUSTER	3811
+NUM_SEQ	4
+LENGTH	126
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	65.52
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'Orthopoxvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|345107194|ref|YP_004821359.1|vFam_3811| soluble IL-18-binding protein [Yoka poxvirus]
+gi|66275810|ref|YP_232895.1|vFam_3811| interleukin-18-binding protein [Vaccinia virus]
+gi|22164620|ref|NP_671531.1|vFam_3811| EVM013 [Ectromelia virus]
+gi|9627526|ref|NP_042049.1|vFam_3811| IL-18 binding protein [Variola virus]

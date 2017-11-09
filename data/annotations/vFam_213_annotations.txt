@@ -1,0 +1,28 @@
+CLUSTER	213
+NUM_SEQ	20
+LENGTH	346
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	166.08
+FAMILIES	{'Adenoviridae': 19}
+GENERA	{'None': 1, 'Mastadenovirus': 18}
+FASTA SEQUENCE TITLES:
+gi|318065977|ref|YP_004123744.1|vFam_213| V [Murine adenovirus 2]
+gi|9630103|ref|NP_046320.1|vFam_213| pV [Bovine adenovirus B]
+gi|56160576|ref|AP_000242.1|vFam_213| V [Porcine adenovirus C]
+gi|52801690|ref|YP_094037.1|vFam_213| V [Bovine adenovirus A]
+gi|56158837|ref|AP_000011.1|vFam_213| V [Ovine adenovirus A]
+gi|51556705|ref|YP_068066.1|vFam_213| V [Tree shrew adenovirus 1]
+gi|496838701|ref|YP_007518319.1|vFam_213| V [Titi monkey adenovirus ECC-2011]
+gi|56160497|ref|AP_000172.1|vFam_213| V [Human adenovirus 2]
+gi|190340987|ref|YP_001974451.1|vFam_213| core protein V [Human adenovirus D]
+gi|56160646|ref|AP_000310.1|vFam_213| V [Simian adenovirus 25]
+gi|197944783|ref|YP_002213809.1|vFam_213| core protein V [Human adenovirus B]
+gi|56160607|ref|AP_000272.1|vFam_213| V [Simian adenovirus 21]
+gi|460042649|ref|YP_007518076.1|vFam_213| V [Simian adenovirus 20]
+gi|51518827|ref|YP_067914.1|vFam_213| V [Simian adenovirus 3]
+gi|56160448|ref|AP_000118.1|vFam_213| V [Human adenovirus A]
+gi|327415382|ref|YP_004300210.1|vFam_213| unnamed protein product [Simian adenovirus 49]
+gi|485191069|ref|YP_007906005.1|vFam_213| pV [Simian adenovirus C]
+gi|61602095|ref|YP_213972.1|vFam_213| V [Simian adenovirus 1]
+gi|540155838|ref|YP_008520232.1|vFam_213| V [Simian adenovirus 18]
+gi|9626570|ref|NP_040859.1|vFam_213| core protein V [Human adenovirus F]

@@ -1,0 +1,11 @@
+CLUSTER	5066
+NUM_SEQ	3
+LENGTH	54
+RELATIVE_ENTROPY_PER_POSITION	0.96
+TOTAL_RELATIVE_ENTROPY	51.84
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|75750423|ref|YP_319835.1|vFam_5066| hypothetical protein ATV_gp04 [Acidianus two-tailed virus]
+gi|75750424|ref|YP_319836.1|vFam_5066| hypothetical protein ATV_gp05 [Acidianus two-tailed virus]
+gi|159341072|ref|YP_001542631.1|vFam_5066| hypothetical protein [Acidianus rod-shaped virus 1]

@@ -1,0 +1,29 @@
+CLUSTER	246
+NUM_SEQ	21
+LENGTH	838
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	435.76
+FAMILIES	{'Herpesviridae': 21}
+GENERA	{'Iltovirus': 2, 'Cytomegalovirus': 1, 'Mardivirus': 4, 'Roseolovirus': 2, 'Proboscivirus': 1, 'Simplexvirus': 4, 'Varicellovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|148828635|ref|YP_182386.2|vFam_246| DNA replication origin-binding helicase [Gallid herpesvirus 1]
+gi|38638248|ref|NP_944431.1|vFam_246| DNA replication origin-binding helicase [Psittacid herpesvirus 1]
+gi|13242445|ref|NP_077465.1|vFam_246| DNA replication origin-binding helicase [Cercopithecine herpesvirus 9]
+gi|9625924|ref|NP_040173.1|vFam_246| DNA replication origin-binding helicase [Human herpesvirus 3]
+gi|255683206|ref|YP_003084414.1|vFam_246| UL9 [Anatid herpesvirus 1]
+gi|12084837|ref|NP_073302.1|vFam_246| DNA replication origin-binding helicase [Meleagrid herpesvirus 1]
+gi|125745060|ref|YP_001033937.1|vFam_246| DNA replication origin-binding helicase [Gallid herpesvirus 2]
+gi|10834878|ref|NP_066839.1|vFam_246| DNA replication origin-binding helicase [Gallid herpesvirus 3]
+gi|312162846|ref|YP_003933831.1|vFam_246| DNA replication origin-binding helicase [Saimiriine herpesvirus 1]
+gi|83722577|ref|YP_443855.1|vFam_246| DNA replication origin-binding helicase [Papiine herpesvirus 2]
+gi|9629389|ref|NP_044610.1|vFam_246| DNA replication origin-binding helicase [Human herpesvirus 1]
+gi|9629278|ref|NP_044478.1|vFam_246| DNA replication origin-binding helicase [Human herpesvirus 2]
+gi|270339490|ref|YP_003331572.1|vFam_246| DNA replication origin-binding helicase [Felid herpesvirus 1]
+gi|261835095|ref|YP_002333534.2|vFam_246| DNA replication origin-binding helicase [Equid herpesvirus 9]
+gi|51557532|ref|YP_068366.1|vFam_246| DNA replication origin-binding helicase [Suid herpesvirus 1]
+gi|296316052|ref|YP_003662516.1|vFam_246| DNA replication origin-binding helicase [Bovine herpesvirus 5]
+gi|9629866|ref|NP_045350.1|vFam_246| DNA replication origin-binding helicase [Bovine herpesvirus 1]
+gi|496991174|ref|YP_007969774.1|vFam_246| DNA replication origin-binding helicase [Elephantid herpesvirus 1]
+gi|538447270|ref|YP_008493010.1|vFam_246| helicase [Porcine cytomegalovirus]
+gi|9633142|ref|NP_050252.1|vFam_246| origin binding protein [Human herpesvirus 6B]
+gi|51874295|ref|YP_073813.1|vFam_246| DNA replication origin-binding helicase [Human herpesvirus 7]

@@ -1,0 +1,29 @@
+CLUSTER	323
+NUM_SEQ	21
+LENGTH	57
+RELATIVE_ENTROPY_PER_POSITION	0.94
+TOTAL_RELATIVE_ENTROPY	53.58
+FAMILIES	{'Baculoviridae': 18}
+GENERA	{'Deltabaculovirus': 1, 'Betabaculovirus': 1, 'Alphabaculovirus': 16}
+FASTA SEQUENCE TITLES:
+gi|15320864|ref|NP_203374.1|vFam_323| CUN070 hypothetical protein [Culex nigripalpus nucleopolyhedrovirus]
+gi|11068044|ref|NP_068260.1|vFam_323| PxORF41 peptide [Plutella xylostella granulovirus]
+gi|209978853|ref|YP_002300596.1|vFam_323| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|209401149|ref|YP_002274018.1|vFam_323| hypothetical protein HaSNPVNNg1_gp095 [Helicoverpa armigera NPV NNg1]
+gi|15617563|ref|NP_258363.1|vFam_323| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|114679957|ref|YP_758407.1|vFam_323| ORF110 [Leucania separata nucleopolyhedrovirus]
+gi|292397776|ref|YP_003517842.1|vFam_323| ORF102 [Lymantria xylina MNPV]
+gi|9631073|ref|NP_047743.1|vFam_323| LdOrf-106 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|113195491|ref|YP_717629.1|vFam_323| ac110-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|74229778|ref|YP_308982.1|vFam_323| hypothetical protein TNSV_gp093 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304234|ref|YP_249702.1|vFam_323| ORF-98 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|228861682|ref|YP_002854702.1|vFam_323| hypothetical protein EupsNPV_gp092 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|209170958|ref|YP_002268104.1|vFam_323| agip74 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|22549482|ref|NP_689255.1|vFam_323| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|125860182|ref|YP_001036352.1|vFam_323| hypothetical protein SFMNPV_gp060 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|9634281|ref|NP_037820.1|vFam_323| ORF60 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|215401459|ref|YP_002332762.1|vFam_323| hypothetical protein SlnV2_gp064 [Spodoptera litura nucleopolyhedrovirus II]
+gi|165969102|ref|YP_001651002.1|vFam_323| hypothetical protein [Orgyia leucostigma NPV]
+gi|118197564|ref|YP_874277.1|vFam_323| hypothetical protein EONV_gp084 [Ectropis obliqua nucleopolyhedrovirus]
+gi|402502182|ref|YP_006607840.1|vFam_323| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|529218146|ref|YP_008378309.1|vFam_323| ac110 [Hemileuca sp. nucleopolyhedrovirus]

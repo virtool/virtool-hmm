@@ -1,0 +1,11 @@
+CLUSTER	4350
+NUM_SEQ	3
+LENGTH	115
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	57.5
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Capripoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|18640212|ref|NP_570286.1|vFam_4350| SPV126 hypothetical protein [Swinepox virus]
+gi|15150568|ref|NP_150563.1|vFam_4350| LSDV129 hypothetical protein [Lumpy skin disease virus NI-2490]
+gi|21492581|ref|NP_659701.1|vFam_4350| hypothetical protein SPPV_124 [Sheeppox virus]

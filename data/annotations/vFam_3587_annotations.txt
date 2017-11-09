@@ -1,0 +1,12 @@
+CLUSTER	3587
+NUM_SEQ	4
+LENGTH	354
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	169.92
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'None': 4}
+FASTA SEQUENCE TITLES:
+gi|14250993|ref|NP_116355.1|vFam_3587| t22.2 [Tupaiid herpesvirus 1]
+gi|14250991|ref|NP_116353.1|vFam_3587| t22 [Tupaiid herpesvirus 1]
+gi|14250994|ref|NP_116356.1|vFam_3587| t22.3 [Tupaiid herpesvirus 1]
+gi|14250992|ref|NP_116354.1|vFam_3587| t22.1 [Tupaiid herpesvirus 1]

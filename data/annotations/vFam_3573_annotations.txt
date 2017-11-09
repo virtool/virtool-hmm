@@ -1,0 +1,10 @@
+CLUSTER	3573
+NUM_SEQ	2
+LENGTH	156
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	76.44
+FAMILIES	{'Bornaviridae': 1, 'Baculoviridae': 1}
+GENERA	{'Betabaculovirus': 1, 'Bornavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|33622241|ref|NP_891888.1|vFam_3573| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|9627496|ref|NP_042022.1|vFam_3573| gp18 [Borna disease virus]

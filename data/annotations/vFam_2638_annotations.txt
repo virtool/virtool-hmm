@@ -1,0 +1,11 @@
+CLUSTER	2638
+NUM_SEQ	3
+LENGTH	263
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	136.76
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|16753148|ref|NP_445726.1|vFam_2638| first mannosyl transferase-related protein [Sulfolobus islandicus filamentous virus]
+gi|171473706|ref|YP_001798576.1|vFam_2638| putative glycosyltransferase [Acidianus filamentous virus 9]
+gi|162329535|ref|YP_001604334.1|vFam_2638| putative glycosyl transferase [Acidianus filamentous virus 8]

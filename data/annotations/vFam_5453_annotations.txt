@@ -1,0 +1,10 @@
+CLUSTER	5453
+NUM_SEQ	2
+LENGTH	300
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	156.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531034966|ref|YP_008436591.1|vFam_5453| hypothetical protein ps_175 [Pandoravirus salinus]
+gi|526118811|ref|YP_008318714.1|vFam_5453| hypothetical protein [Pandoravirus dulcis]

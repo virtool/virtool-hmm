@@ -1,0 +1,12 @@
+CLUSTER	3199
+NUM_SEQ	4
+LENGTH	208
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	104.0
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|531036107|ref|YP_008437743.1|vFam_3199| hypothetical protein ps_1332 [Pandoravirus salinus]
+gi|526119343|ref|YP_008319246.1|vFam_3199| hypothetical protein [Pandoravirus dulcis]
+gi|448824984|ref|YP_007417915.1|vFam_3199| hypothetical protein LBA_00016 [Megavirus lba]
+gi|448825980|ref|YP_007418911.1|vFam_3199| hypothetical protein LBA_01017 [Megavirus lba]

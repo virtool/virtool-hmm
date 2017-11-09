@@ -1,0 +1,10 @@
+CLUSTER	6376
+NUM_SEQ	2
+LENGTH	372
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	189.72
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|254688528|ref|YP_003084289.1|vFam_6376| hypothetical protein [Circovirus-like genome RW-D]
+gi|254688512|ref|YP_003084139.1|vFam_6376| hypothetical protein [Circovirus-like genome SAR-B]

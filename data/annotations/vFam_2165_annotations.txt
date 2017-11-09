@@ -1,0 +1,13 @@
+CLUSTER	2165
+NUM_SEQ	5
+LENGTH	80
+RELATIVE_ENTROPY_PER_POSITION	0.65
+TOTAL_RELATIVE_ENTROPY	52.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329425|ref|YP_001604225.1|vFam_2165| hypothetical protein AFV7_gp01 [Acidianus filamentous virus 7]
+gi|162329485|ref|YP_001604284.1|vFam_2165| hypothetical protein AFV8_gp03 [Acidianus filamentous virus 8]
+gi|162329294|ref|YP_001604348.1|vFam_2165| hypothetical protein AFV3_gp06 [Acidianus filamentous virus 3]
+gi|171473654|ref|YP_001798524.1|vFam_2165| hypothetical protein AFV9_gp06 [Acidianus filamentous virus 9]
+gi|16753091|ref|NP_445669.1|vFam_2165| hypothetical protein SIFV0004 [Sulfolobus islandicus filamentous virus]

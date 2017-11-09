@@ -1,0 +1,11 @@
+CLUSTER	2936
+NUM_SEQ	3
+LENGTH	99
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	51.48
+FAMILIES	{'Coronaviridae': 3}
+GENERA	{'Gammacoronavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|187251957|ref|YP_001876438.1|vFam_2936| small membrane protein [Beluga Whale coronavirus SW1]
+gi|189313873|ref|YP_001941169.1|vFam_2936| envelope protein [Turkey coronavirus]
+gi|9626541|ref|NP_040834.1|vFam_2936| small virion-associated protein [Infectious bronchitis virus]

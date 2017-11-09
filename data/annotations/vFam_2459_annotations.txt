@@ -1,0 +1,12 @@
+CLUSTER	2459
+NUM_SEQ	4
+LENGTH	85
+RELATIVE_ENTROPY_PER_POSITION	0.60
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|531036819|ref|YP_008438458.1|vFam_2459| hypothetical protein ps_2053 [Pandoravirus salinus]
+gi|526119107|ref|YP_008319010.1|vFam_2459| hypothetical protein [Pandoravirus dulcis]
+gi|157952432|ref|YP_001497324.1|vFam_2459| hypothetical protein NY2A_b128L [Paramecium bursaria Chlorella virus NY2A]
+gi|9631655|ref|NP_048434.1|vFam_2459| hypothetical protein [Paramecium bursaria Chlorella virus 1]

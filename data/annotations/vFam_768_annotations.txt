@@ -1,0 +1,18 @@
+CLUSTER	768
+NUM_SEQ	10
+LENGTH	297
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	157.41
+FAMILIES	{'Rhabdoviridae': 10}
+GENERA	{'Lyssavirus': 10}
+FASTA SEQUENCE TITLES:
+gi|406608986|ref|YP_006742181.1|vFam_768| phosphoprotein [Ikoma lyssavirus]
+gi|9627199|ref|NP_056794.1|vFam_768| phosphoprotein M1 [Rabies virus]
+gi|17158070|ref|NP_478340.1|vFam_768| phosphoprotein [Australian bat lyssavirus]
+gi|471237013|ref|YP_007641398.1|vFam_768| phosphoprotein [Irkut virus]
+gi|471237019|ref|YP_007641403.1|vFam_768| phosphoprotein [Duvenhage virus]
+gi|148724427|ref|YP_001285389.1|vFam_768| phosphoprotein [European bat lyssavirus 1]
+gi|148724433|ref|YP_001285394.1|vFam_768| phosphoprotein [European bat lyssavirus 2]
+gi|471237007|ref|YP_007641393.1|vFam_768| phosphoprotein [Aravan virus]
+gi|471237001|ref|YP_007641388.1|vFam_768| phosphoprotein [Lagos bat virus]
+gi|55793419|ref|YP_142351.1|vFam_768| phosphoprotein M1 [Mokola virus]

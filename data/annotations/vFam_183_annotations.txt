@@ -1,0 +1,24 @@
+CLUSTER	183
+NUM_SEQ	16
+LENGTH	1085
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	564.2
+FAMILIES	{'None': 1, 'Marseillevirus family': 2, 'Phycodnaviridae': 9, 'Iridoviridae': 3}
+GENERA	{'None': 3, 'Chloriridovirus': 1, 'Coccolithovirus': 1, 'Prasinovirus': 3, 'Prymnesiovirus': 1, 'Iridovirus': 2, 'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|73852918|ref|YP_294202.1|vFam_183| putative DNA topoisomerase [Emiliania huxleyi virus 86]
+gi|327409604|ref|YP_004347024.1|vFam_183| DNA topoisomerase II [Lausannevirus]
+gi|284504201|ref|YP_003406916.1|vFam_183| DNA topoisomerase II [Marseillevirus]
+gi|15078758|ref|NP_149508.1|vFam_183| 045L [Invertebrate iridescent virus 6]
+gi|109287964|ref|YP_654658.1|vFam_183| hypothetical protein MIV086L [Invertebrate iridescent virus 3]
+gi|527333655|ref|YP_008357439.1|vFam_183| DNA topoisomerase II [Invertebrate iridovirus 22]
+gi|339906076|ref|YP_004732873.1|vFam_183| hypothetical protein WIV_gp090 [Wiseana iridescent virus]
+gi|310831536|ref|YP_003970179.1|vFam_183| putative DNA topoisomerase IIA [Cafeteria roenbergensis virus BV-PW1]
+gi|508181851|ref|YP_008052370.1|vFam_183| DNA gyrase/DNA topoisomerase IV subunit A [Phaeocystis globosa virus]
+gi|313768187|ref|YP_004061618.1|vFam_183| hypothetical protein BpV1_188c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313844192|ref|YP_004061855.1|vFam_183| hypothetical protein OlV1_223c [Ostreococcus lucimarinus virus OlV1]
+gi|313768427|ref|YP_004062107.1|vFam_183| hypothetical protein MpV1_224c [Micromonas sp. RCC1109 virus MpV1]
+gi|340025908|ref|NP_048939.2|vFam_183| DNA topoisomerase II [Paramecium bursaria Chlorella virus 1]
+gi|157953897|ref|YP_001498788.1|vFam_183| hypothetical protein AR158_C707L [Paramecium bursaria Chlorella virus AR158]
+gi|155371498|ref|YP_001427032.1|vFam_183| hypothetical protein ATCV1_Z551L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370647|ref|YP_001426181.1|vFam_183| hypothetical protein FR483_N549R [Paramecium bursaria Chlorella virus FR483]

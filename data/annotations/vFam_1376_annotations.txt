@@ -1,0 +1,12 @@
+CLUSTER	1376
+NUM_SEQ	4
+LENGTH	241
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	125.32
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'None': 1, 'Yatapoxvirus': 1, 'Cervidpoxvirus': 1, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|157939622|ref|YP_001496994.1|vFam_1376| hypothetical protein TANV_3L [Tanapox virus]
+gi|377830109|ref|YP_005296357.1|vFam_1376| unnamed protein product [Cotia virus SPAn232]
+gi|211956283|ref|YP_002302351.1|vFam_1376| hypothetical protein DpV84gp009 [Deerpox virus W-1170-84]
+gi|18640093|ref|NP_570167.1|vFam_1376| SPV007 A52R-like family protein [Swinepox virus]

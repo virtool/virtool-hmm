@@ -1,0 +1,12 @@
+CLUSTER	2626
+NUM_SEQ	4
+LENGTH	359
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	183.09
+FAMILIES	{'None': 1, 'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 3}
+FASTA SEQUENCE TITLES:
+gi|311978053|ref|YP_003987173.1|vFam_2626| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432008|ref|YP_007354050.1|vFam_2626| hypothetical protein Moumou_00066 [Acanthamoeba polyphaga moumouvirus]
+gi|448826018|ref|YP_007418949.1|vFam_2626| hypothetical protein LBA_01055 [Megavirus lba]
+gi|363540488|ref|YP_004895051.1|vFam_2626| mg1000 gene product [Megavirus chiliensis]

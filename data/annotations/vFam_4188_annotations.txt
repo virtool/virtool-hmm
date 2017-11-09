@@ -1,0 +1,11 @@
+CLUSTER	4188
+NUM_SEQ	3
+LENGTH	419
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	213.69
+FAMILIES	{'Alloherpesviridae': 1}
+GENERA	{'Cyprinivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531036925|ref|YP_008438567.1|vFam_4188| hypothetical protein ps_2165 [Pandoravirus salinus]
+gi|526119936|ref|YP_008319839.1|vFam_4188| hypothetical protein [Pandoravirus dulcis]
+gi|131840164|ref|YP_001096173.1|vFam_4188| unnamed protein product [Cyprinid herpesvirus 3]

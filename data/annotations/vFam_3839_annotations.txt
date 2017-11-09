@@ -1,0 +1,11 @@
+CLUSTER	3839
+NUM_SEQ	3
+LENGTH	93
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	49.29
+FAMILIES	{'Coronaviridae': 3}
+GENERA	{'None': 1, 'Gammacoronavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|383081751|ref|YP_005352852.1|vFam_3839| NS7b gene product [Sparrow coronavirus HKU17]
+gi|212681397|ref|YP_002308513.1|vFam_3839| nonstructural protein [Munia coronavirus HKU13-3514]
+gi|212681387|ref|YP_002308504.1|vFam_3839| nonstructural protein [Thrush coronavirus HKU12-600]

@@ -1,0 +1,10 @@
+CLUSTER	4797
+NUM_SEQ	2
+LENGTH	345
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	179.4
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|295441865|ref|YP_003591107.1|vFam_4797| hypothetical protein STIV2_A345 [Sulfolobus turreted icosahedral virus 2]
+gi|48697025|ref|YP_025022.1|vFam_4797| coat protein [Sulfolobus turreted icosahedral virus]

@@ -1,0 +1,11 @@
+CLUSTER	3316
+NUM_SEQ	3
+LENGTH	323
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	167.96
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|61660246|ref|YP_214137.1|vFam_3316| Putative glycoprotein [Murid herpesvirus 1]
+gi|425707327|ref|YP_007016524.1|vFam_3316| e137 [Murid herpesvirus 8]
+gi|9845430|ref|NP_064244.1|vFam_3316| pr137 [Murid herpesvirus 2]

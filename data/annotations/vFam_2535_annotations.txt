@@ -1,0 +1,11 @@
+CLUSTER	2535
+NUM_SEQ	3
+LENGTH	578
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	294.78
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978015|ref|YP_003987135.1|vFam_2535| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825736|ref|YP_007418667.1|vFam_2535| hypothetical protein LBA_00773 [Megavirus lba]
+gi|441432572|ref|YP_007354614.1|vFam_2535| Dynamin family protein [Acanthamoeba polyphaga moumouvirus]

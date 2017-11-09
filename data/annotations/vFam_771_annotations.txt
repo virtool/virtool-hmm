@@ -1,0 +1,20 @@
+CLUSTER	771
+NUM_SEQ	12
+LENGTH	166
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	83.0
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Cytomegalovirus': 12}
+FASTA SEQUENCE TITLES:
+gi|359946610|ref|YP_004936143.1|vFam_771| protein US31 [Cercopithecine herpesvirus 5]
+gi|356640559|ref|YP_004934001.1|vFam_771| protein US31 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|359946611|ref|YP_004936144.1|vFam_771| protein US32 [Cercopithecine herpesvirus 5]
+gi|356640561|ref|YP_004934003.1|vFam_771| protein US32 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139341|ref|YP_081616.1|vFam_771| protein US32 [Human herpesvirus 5]
+gi|20026762|ref|NP_612804.1|vFam_771| protein US32 [Panine herpesvirus 2]
+gi|52139340|ref|YP_081615.1|vFam_771| protein US31 [Human herpesvirus 5]
+gi|20026761|ref|NP_612803.1|vFam_771| protein US31 [Panine herpesvirus 2]
+gi|359946580|ref|YP_004936113.1|vFam_771| protein US1 [Cercopithecine herpesvirus 5]
+gi|356640513|ref|YP_004933955.1|vFam_771| protein US1 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139313|ref|YP_081588.1|vFam_771| protein US1 [Human herpesvirus 5]
+gi|20026734|ref|NP_612776.1|vFam_771| protein US1 [Panine herpesvirus 2]

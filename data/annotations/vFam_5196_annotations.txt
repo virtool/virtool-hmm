@@ -1,0 +1,10 @@
+CLUSTER	5196
+NUM_SEQ	2
+LENGTH	95
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	50.35
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Betabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|556549072|ref|YP_008719986.1|vFam_5196| hypothetical protein CalGV038 [Clostera anastomosis granulovirus]
+gi|334265716|ref|YP_004376245.1|vFam_5196| hypothetical protein ClanGV_gp037 [Clostera anachoreta granulovirus]

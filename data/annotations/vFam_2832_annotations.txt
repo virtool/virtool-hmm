@@ -1,0 +1,13 @@
+CLUSTER	2832
+NUM_SEQ	5
+LENGTH	177
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	95.58
+FAMILIES	{'Paramyxoviridae': 5}
+GENERA	{'Morbillivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|54310712|ref|YP_133824.1|vFam_2832| hypothetical protein [Peste-des-petits-ruminants virus]
+gi|38707565|ref|NP_945026.1|vFam_2832| C protein [Dolphin morbillivirus]
+gi|9630648|ref|NP_047203.1|vFam_2832| C protein [Canine distemper virus]
+gi|9626948|ref|NP_056920.1|vFam_2832| C protein [Measles virus]
+gi|52353959|ref|YP_087122.1|vFam_2832| C protein [Rinderpest virus (strain Kabete O)]

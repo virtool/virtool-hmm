@@ -1,0 +1,11 @@
+CLUSTER	4817
+NUM_SEQ	3
+LENGTH	134
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	69.68
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|414089972|ref|YP_006990103.1|vFam_4817| coat protein [Sulfolobales Mexican rudivirus 1]
+gi|159341082|ref|YP_001542641.1|vFam_4817| putative coat protein [Acidianus rod-shaped virus 1]
+gi|22122299|ref|NP_666560.1|vFam_4817| hypothetical protein SIRV2gp26 [Sulfolobus islandicus rod-shaped virus 2]

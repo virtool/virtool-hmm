@@ -1,0 +1,19 @@
+CLUSTER	453
+NUM_SEQ	11
+LENGTH	183
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	93.33
+FAMILIES	{'Adenoviridae': 11}
+GENERA	{'Atadenovirus': 11}
+FASTA SEQUENCE TITLES:
+gi|56158903|ref|AP_000099.1|vFam_453| ORF8, partial [Duck adenovirus A]
+gi|56158902|ref|AP_000098.1|vFam_453| ORF9, partial [Duck adenovirus A]
+gi|163869643|ref|NP_659533.2|vFam_453| RH6 [Ovine adenovirus D]
+gi|34303908|ref|NP_077408.2|vFam_453| RH6 [Bovine adenovirus D]
+gi|21450914|ref|NP_659537.1|vFam_453| RH2 [Ovine adenovirus D]
+gi|34303912|ref|NP_899151.1|vFam_453| RH0 [Bovine adenovirus D]
+gi|34303910|ref|NP_899149.1|vFam_453| RH2 [Bovine adenovirus D]
+gi|440382989|ref|YP_007347020.1|vFam_453| RH4 [Bovine adenovirus 6]
+gi|34303909|ref|NP_077410.2|vFam_453| RH4 [Bovine adenovirus D]
+gi|163869644|ref|NP_659535.2|vFam_453| RH4 [Ovine adenovirus D]
+gi|34303911|ref|NP_899150.1|vFam_453| RH1 [Bovine adenovirus D]

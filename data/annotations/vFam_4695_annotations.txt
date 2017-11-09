@@ -1,0 +1,10 @@
+CLUSTER	4695
+NUM_SEQ	2
+LENGTH	195
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	99.45
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|422933869|ref|YP_007003926.1|vFam_4695| protein ORF108 [Cyprinid herpesvirus 2]
+gi|131840134|ref|YP_001096143.1|vFam_4695| unnamed protein product [Cyprinid herpesvirus 3]

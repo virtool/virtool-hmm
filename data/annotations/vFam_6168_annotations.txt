@@ -1,0 +1,10 @@
+CLUSTER	6168
+NUM_SEQ	2
+LENGTH	190
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	100.7
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Coccolithovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|73852503|ref|YP_293787.1|vFam_6168| hypothetical protein EhV033 [Emiliania huxleyi virus 86]
+gi|73852502|ref|YP_293786.1|vFam_6168| hypothetical protein EhV032 [Emiliania huxleyi virus 86]

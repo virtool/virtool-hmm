@@ -1,0 +1,12 @@
+CLUSTER	3823
+NUM_SEQ	4
+LENGTH	144
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	74.88
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|157953255|ref|YP_001498146.1|vFam_3823| hypothetical protein AR158_C064L [Paramecium bursaria Chlorella virus AR158]
+gi|9631619|ref|NP_048398.1|vFam_3823| Pyrimidine dimer-specific glycosylase [Paramecium bursaria Chlorella virus 1]
+gi|155371260|ref|YP_001426794.1|vFam_3823| hypothetical protein ATCV1_Z313R [Acanthocystis turfacea Chlorella virus 1]
+gi|155370727|ref|YP_001426261.1|vFam_3823| hypothetical protein FR483_N629L [Paramecium bursaria Chlorella virus FR483]

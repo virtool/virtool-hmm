@@ -1,0 +1,35 @@
+CLUSTER	195
+NUM_SEQ	27
+LENGTH	225
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	119.25
+FAMILIES	{'Coronaviridae': 25}
+GENERA	{'None': 5, 'Alphacoronavirus': 9, 'Gammacoronavirus': 3, 'Betacoronavirus': 8}
+FASTA SEQUENCE TITLES:
+gi|383081747|ref|YP_005352848.1|vFam_195| M gene product [Sparrow coronavirus HKU17]
+gi|212681392|ref|YP_002308508.1|vFam_195| membrane protein [Munia coronavirus HKU13-3514]
+gi|383081738|ref|YP_005352840.1|vFam_195| M gene product [White-eye coronavirus HKU16]
+gi|383080788|ref|YP_005352873.1|vFam_195| M gene product [Wigeon coronavirus HKU20]
+gi|383080779|ref|YP_005352865.1|vFam_195| M gene product [Night-heron coronavirus HKU19]
+gi|315192968|ref|YP_004070198.1|vFam_195| matrix protein [Feline infectious peritonitis virus]
+gi|12175752|ref|NP_073555.1|vFam_195| membrane protein [Human coronavirus 229E]
+gi|45655912|ref|YP_003770.1|vFam_195| membrane protein [Human coronavirus NL63]
+gi|160707872|ref|YP_001552239.1|vFam_195| membrane glycoprotein [Bat coronavirus HKU2]
+gi|531967711|ref|YP_008439205.1|vFam_195| membrane protein [Bat coronavirus CDPHE15/USA/2006]
+gi|169822564|ref|YP_001718615.1|vFam_195| membrane protein [Bat coronavirus HKU8]
+gi|169822556|ref|YP_001718608.1|vFam_195| membrane protein [Bat coronavirus 1A]
+gi|410493447|ref|YP_006908645.1|vFam_195| membrane protein [Rousettus bat coronavirus HKU10]
+gi|19387580|ref|NP_598313.1|vFam_195| membrane protein [Porcine epidemic diarrhea virus]
+gi|152994041|ref|YP_001351687.1|vFam_195| matrix protein [Scotophilus bat coronavirus 512]
+gi|304633680|ref|YP_003858587.1|vFam_195| membrane protein [Bat coronavirus BM48-31/BGR/2008]
+gi|126030137|ref|YP_001039974.1|vFam_195| membrane glycoprotein [Bat coronavirus HKU9]
+gi|56807329|ref|YP_173241.1|vFam_195| membrane glycoprotein [Human coronavirus HKU1]
+gi|60115399|ref|YP_209237.1|vFam_195| membrane protein (M) [Murine hepatitis virus strain JHM]
+gi|38018029|ref|NP_937953.1|vFam_195| M protein [Human coronavirus OC43]
+gi|167600362|ref|YP_001672004.1|vFam_195| membrane protein [Equine coronavirus]
+gi|556333870|ref|YP_008719939.1|vFam_195| M [Betacoronavirus Erinaceus/VMC/DEU/2012]
+gi|126030120|ref|YP_001039959.1|vFam_195| membrane glycoprotein [Bat coronavirus HKU4]
+gi|429535812|ref|YP_007188585.1|vFam_195| M protein [Betacoronavirus England 1]
+gi|126030130|ref|YP_001039968.1|vFam_195| membrane glycoprotein [Bat coronavirus HKU5]
+gi|187251958|ref|YP_001876439.1|vFam_195| matrix glycoprotein [Beluga Whale coronavirus SW1]
+gi|9626542|ref|NP_040835.1|vFam_195| membrane protein [Infectious bronchitis virus]

@@ -1,0 +1,10 @@
+CLUSTER	3518
+NUM_SEQ	2
+LENGTH	307
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	159.64
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Gammabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|48843553|ref|YP_025126.1|vFam_3518| hypothetical protein NeseNPV_gp19 [Neodiprion sertifer nucleopolyhedrovirus]
+gi|48843552|ref|YP_025125.1|vFam_3518| hypothetical protein NeseNPV_gp18 [Neodiprion sertifer nucleopolyhedrovirus]

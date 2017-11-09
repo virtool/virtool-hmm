@@ -1,0 +1,19 @@
+CLUSTER	451
+NUM_SEQ	11
+LENGTH	865
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	449.8
+FAMILIES	{'Baculoviridae': 9}
+GENERA	{'Alphabaculovirus': 9}
+FASTA SEQUENCE TITLES:
+gi|438000368|ref|YP_007250473.1|vFam_451| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|23577825|ref|NP_703056.1|vFam_451| hypothetical protein [Rachiplusia ou MNPV]
+gi|96979849|ref|YP_611055.1|vFam_451| Desmoplakin [Antheraea pernyi nucleopolyhedrovirus]
+gi|15320716|ref|NP_203228.1|vFam_451| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326134|ref|YP_803460.1|vFam_451| hypothetical protein AGNV_gp066 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651333|ref|NP_932671.1|vFam_451| hypothetical protein CFDNVgORF62 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|86355604|ref|YP_473272.1|vFam_451| Desmoplakin [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630009|ref|NP_046227.1|vFam_451| hypothetical protein OpmnVgp071 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031343|ref|YP_008992180.1|vFam_451| desmoplakin-like protein [Choristoneura murinana alphabaculovirus]
+gi|529153397|ref|YP_008378437.1|vFam_451| desmoplakin [Choristoneura rosaceana alphabaculovirus]
+gi|30387294|ref|NP_848373.1|vFam_451| hypothetical protein CfMNPVgpORF62 [Choristoneura fumiferana multiple nucleopolyhedrovirus]

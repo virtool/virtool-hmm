@@ -1,0 +1,11 @@
+CLUSTER	1406
+NUM_SEQ	3
+LENGTH	176
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	89.76
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'None': 1, 'Orthopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|22164627|ref|NP_671538.1|vFam_1406| EVM020 [Ectromelia virus]
+gi|20178406|ref|NP_619827.1|vFam_1406| CPXV038 protein [Cowpox virus]
+gi|377830055|ref|YP_005296215.1|vFam_1406| unnamed protein product [Cotia virus SPAn232]

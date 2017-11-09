@@ -1,0 +1,13 @@
+CLUSTER	2208
+NUM_SEQ	5
+LENGTH	271
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	138.21
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631472|ref|NP_048221.1|vFam_2208| ORF MSV150 putative NTP pyrophosphohydrolase mutT motif homolog (vaccinia D10R), similar to SW:P32817 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497799|ref|YP_008003598.1|vFam_2208| mRNA decapping enzyme (Cop-D9R) [Mythimna separata entomopoxvirus 'L']
+gi|506498081|ref|YP_008003878.1|vFam_2208| mRNA decapping enzyme (Cop-D9R) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498690|ref|YP_008004484.1|vFam_2208| mRNA decapping enzyme (Cop-D9R) [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964372|ref|NP_064840.1|vFam_2208| putative NTP pyrophosphohydrolase mutT motif [Amsacta moorei entomopoxvirus 'L']

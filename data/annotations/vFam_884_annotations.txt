@@ -1,0 +1,12 @@
+CLUSTER	884
+NUM_SEQ	4
+LENGTH	137
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	65.76
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'None': 1, 'Muromegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531035994|ref|YP_008437629.1|vFam_884| hypothetical protein ps_1217 [Pandoravirus salinus]
+gi|14251001|ref|NP_116363.1|vFam_884| t22.10 [Tupaiid herpesvirus 1]
+gi|531035191|ref|YP_008436817.1|vFam_884| hypothetical protein ps_402 [Pandoravirus salinus]
+gi|61660240|ref|YP_214131.1|vFam_884| hypothetical protein MuHV1_gp122 [Murid herpesvirus 1]

@@ -1,0 +1,11 @@
+CLUSTER	3894
+NUM_SEQ	3
+LENGTH	335
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	174.2
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|414089957|ref|YP_006990088.1|vFam_3894| putative glycosyl transferase [Sulfolobales Mexican rudivirus 1]
+gi|22122301|ref|NP_666562.1|vFam_3894| hypothetical protein SIRV2gp28 [Sulfolobus islandicus rod-shaped virus 2]
+gi|159341081|ref|YP_001542640.1|vFam_3894| putative glycosyl transferase [Acidianus rod-shaped virus 1]

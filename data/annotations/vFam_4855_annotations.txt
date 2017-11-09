@@ -1,0 +1,11 @@
+CLUSTER	4855
+NUM_SEQ	3
+LENGTH	159
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	81.09
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281800|ref|YP_003331465.1|vFam_4855| hypothetical protein SSSV6_gp15 [Sulfolobus spindle-shaped virus 6]
+gi|198449245|ref|YP_002221483.1|vFam_4855| hypothetical protein SSSV5_gp18 [Sulfolobus spindle-shaped virus 5]
+gi|42494938|ref|NP_963936.1|vFam_4855| ORF E152 [Sulfolobus virus Ragged Hills]

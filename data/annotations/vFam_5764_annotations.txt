@@ -1,0 +1,10 @@
+CLUSTER	5764
+NUM_SEQ	2
+LENGTH	473
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	241.23
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|114679971|ref|YP_758421.1|vFam_5764| ORF124 [Leucania separata nucleopolyhedrovirus]
+gi|15617570|ref|NP_258370.1|vFam_5764| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]

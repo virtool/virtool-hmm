@@ -1,0 +1,11 @@
+CLUSTER	3416
+NUM_SEQ	3
+LENGTH	252
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	128.52
+FAMILIES	{'Mimiviridae': 1}
+GENERA	{'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|311978314|ref|YP_003987436.1|vFam_3416| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|162329468|ref|YP_001604268.1|vFam_3416| hypothetical protein AFV7_gp44 [Acidianus filamentous virus 7]
+gi|157929310|ref|YP_001496962.1|vFam_3416| hypothetical protein AFV2_gp37 [Acidianus filamentous virus 2]

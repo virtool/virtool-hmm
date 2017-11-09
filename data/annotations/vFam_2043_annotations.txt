@@ -1,0 +1,11 @@
+CLUSTER	2043
+NUM_SEQ	3
+LENGTH	218
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	111.18
+FAMILIES	{'Bidnaviridae': 1, 'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2, 'Bidensovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|33622212|ref|NP_891857.1|vFam_2043| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|478429016|ref|YP_007714627.1|vFam_2043| nonstructural protein [Bombyx mori densovirus 3]
+gi|109255297|ref|YP_654446.1|vFam_2043| hypothetical protein COGV_gp025 [Choristoneura occidentalis granulovirus]

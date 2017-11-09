@@ -1,0 +1,14 @@
+CLUSTER	1572
+NUM_SEQ	6
+LENGTH	78
+RELATIVE_ENTROPY_PER_POSITION	0.65
+TOTAL_RELATIVE_ENTROPY	50.7
+FAMILIES	{'Herpesviridae': 6}
+GENERA	{'Cytomegalovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|359946484|ref|YP_004936016.1|vFam_1572| protein UL41A [Cercopithecine herpesvirus 5]
+gi|356640358|ref|YP_004933800.1|vFam_1572| envelope protein UL41A [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086528|ref|YP_004940213.1|vFam_1572| protein UL41A [Saimiriine herpesvirus 3]
+gi|360040932|ref|YP_004940067.1|vFam_1572| protein UL41A [Aotine herpesvirus 1]
+gi|52139226|ref|YP_081499.1|vFam_1572| protein UL41A [Human herpesvirus 5]
+gi|20026642|ref|NP_612684.1|vFam_1572| protein UL41A [Panine herpesvirus 2]

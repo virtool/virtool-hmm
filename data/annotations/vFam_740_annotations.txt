@@ -1,0 +1,16 @@
+CLUSTER	740
+NUM_SEQ	8
+LENGTH	429
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	227.37
+FAMILIES	{'Bunyaviridae': 8}
+GENERA	{'Hantavirus': 8}
+FASTA SEQUENCE TITLES:
+gi|188543037|ref|YP_001911121.1|vFam_740| nucleocapsid protein [Thottapalayam virus]
+gi|38505530|ref|NP_942556.1|vFam_740| nucleocapsid protein [Seoul virus]
+gi|55733702|ref|YP_138528.1|vFam_740| nucleocapsid protein [Hantavirus Z10]
+gi|38505524|ref|NP_942553.1|vFam_740| nucleocapsid protein [Dobrava-Belgrade virus]
+gi|38371726|ref|NP_941975.1|vFam_740| nucleocapsid protein [Sin Nombre virus]
+gi|19744950|ref|NP_604471.1|vFam_740| nucleocapsid protein [Andes virus]
+gi|356460852|ref|YP_004928153.1|vFam_740| nucleocapsid protein [Tula virus]
+gi|38371721|ref|NP_941984.1|vFam_740| nucleocapsid protein [Puumala virus]

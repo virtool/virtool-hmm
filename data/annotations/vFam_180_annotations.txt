@@ -1,0 +1,32 @@
+CLUSTER	180
+NUM_SEQ	24
+LENGTH	108
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	55.08
+FAMILIES	{'Phycodnaviridae': 1, 'Betaflexiviridae': 23}
+GENERA	{'Carlavirus': 23, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|155370504|ref|YP_001426038.1|vFam_180| hypothetical protein FR483_n406L [Paramecium bursaria Chlorella virus FR483]
+gi|222509607|ref|YP_002574619.1|vFam_180| putative nucleic acid binding protein [Helleborus net necrosis virus]
+gi|396587252|ref|YP_006522439.1|vFam_180| 11K protein [Potato virus H]
+gi|20143438|ref|NP_619564.1|vFam_180| nucleic acid binding protein [Garlic latent virus]
+gi|41057351|ref|NP_958176.1|vFam_180| putative nucleic acid binding protein [Poplar mosaic virus]
+gi|269954644|ref|YP_003324586.1|vFam_180| putative nucleic acid binding protein [Butterbur mosaic virus]
+gi|211998871|ref|YP_002302562.1|vFam_180| 11 kDa protein [Potato latent virus]
+gi|313122769|ref|YP_004035883.1|vFam_180| nucleic acid binding protein [Cowpea mild mottle virus]
+gi|386644975|ref|YP_006297591.1|vFam_180| unnamed protein product [American hop latent virus]
+gi|71849442|ref|YP_277434.1|vFam_180| 11K protein [Potato virus S]
+gi|352749699|ref|YP_004901685.1|vFam_180| nucleic acid binding protein [Mirabilis jalapa mottle virus]
+gi|254667447|ref|YP_003075963.1|vFam_180| nucleic acid binding protein [Kalanchoe latent virus]
+gi|113195539|ref|YP_717538.1|vFam_180| NABP [Passiflora latent carlavirus]
+gi|156603883|ref|YP_001429590.1|vFam_180| nucleic acid binding protein [Potato Virus P]
+gi|242346759|ref|YP_002985641.1|vFam_180| putative nucleic acid-binding protein [Hydrangea chlorotic mottle virus]
+gi|10314018|ref|NP_066263.1|vFam_180| 12 kDa protein [Hop latent virus]
+gi|9626095|ref|NP_056772.1|vFam_180| 11K protein [Potato virus M]
+gi|110835691|ref|YP_699988.1|vFam_180| Nucleic acid-binding protein [Narcissus common latent virus]
+gi|14251196|ref|NP_116492.1|vFam_180| 11K protein [Aconitum latent virus]
+gi|171473633|ref|YP_001798597.1|vFam_180| nucleic acid binding protein [Hop mosaic virus]
+gi|212671436|ref|YP_002308452.1|vFam_180| nucleic acid binding protein [Hippeastrum latent virus]
+gi|126644792|ref|YP_001086457.1|vFam_180| Nucleic acid binding protein [Chrysanthemum virus B]
+gi|145651769|ref|YP_001165306.1|vFam_180| nucleic acid binding protein [Phlox virus S]
+gi|94971815|ref|YP_595732.1|vFam_180| hypothetical protein DVS_gp6 [Daphne virus S]

@@ -1,0 +1,17 @@
+CLUSTER	879
+NUM_SEQ	9
+LENGTH	245
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	132.3
+FAMILIES	{'Bunyaviridae': 7}
+GENERA	{'Phlebovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|395406763|ref|YP_006504092.1|vFam_879| nucleocapsid protein [SFTS virus HB29]
+gi|556195174|ref|YP_008719918.1|vFam_879| nucleoprotein [Razdan virus]
+gi|506614350|ref|YP_008003509.1|vFam_879| nucleoprotein [Lone Star virus]
+gi|38371708|ref|NP_941980.1|vFam_879| hypothetical protein UUKVsSgp1 [Uukuniemi virus]
+gi|52627074|ref|YP_089668.1|vFam_879| viral sRNA N protein [Sandfly fever Naples virus]
+gi|330464828|ref|YP_004382744.1|vFam_879| nucleocapsid [Sandfly fever Turkey virus]
+gi|328545956|ref|YP_004347994.1|vFam_879| nucleocapsid [Candiru virus]
+gi|330850814|ref|YP_004414705.1|vFam_879| nucleocapsid [Aguacate virus]
+gi|302596926|ref|YP_003848707.1|vFam_879| nucleocapsid [Rift Valley fever virus]

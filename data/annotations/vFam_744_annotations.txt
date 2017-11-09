@@ -1,0 +1,20 @@
+CLUSTER	744
+NUM_SEQ	12
+LENGTH	313
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	165.89
+FAMILIES	{'Baculoviridae': 8}
+GENERA	{'Alphabaculovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|438000353|ref|YP_007250458.1|vFam_744| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643590|ref|YP_002884280.1|vFam_744| DnaJ domain protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964570|ref|YP_950766.1|vFam_744| Mv-ORF36 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|96979860|ref|YP_611066.1|vFam_744| unknown(bjdp) [Antheraea pernyi nucleopolyhedrovirus]
+gi|15320703|ref|NP_203215.1|vFam_744| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326121|ref|YP_803446.1|vFam_744| hypothetical protein AGNV_gp052 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651375|ref|NP_932657.1|vFam_744| hypothetical protein CFDNVgORF48 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|529153411|ref|YP_008378451.1|vFam_744| DnaJ domain protein [Choristoneura rosaceana alphabaculovirus]
+gi|86355621|ref|YP_473289.1|vFam_744| Baculovirus J domain protein [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629993|ref|NP_046211.1|vFam_744| hypothetical protein OpmnVgp055 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031294|ref|YP_008992191.1|vFam_744| DNAJ domain protein [Choristoneura murinana alphabaculovirus]
+gi|529153576|ref|YP_008378601.1|vFam_744| DnaJ domain protein [Choristoneura occidentalis alphabaculovirus]

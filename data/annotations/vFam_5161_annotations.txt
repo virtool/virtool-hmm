@@ -1,0 +1,10 @@
+CLUSTER	5161
+NUM_SEQ	2
+LENGTH	799
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	415.48
+FAMILIES	{'Chrysoviridae': 1}
+GENERA	{'Chrysovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|571137526|ref|YP_008914866.1|vFam_5161| hypothetical protein [Magnaporthe oryzae chrysovirus 3]
+gi|304373827|ref|YP_003858287.1|vFam_5161| hypothetical protein MOCV1s3_gp1 [Magnaporthe oryzae chrysovirus 1]

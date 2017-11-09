@@ -1,0 +1,12 @@
+CLUSTER	3583
+NUM_SEQ	4
+LENGTH	288
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	149.76
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|52139327|ref|YP_081602.1|vFam_3583| membrane protein US17 [Human herpesvirus 5]
+gi|20026748|ref|NP_612790.1|vFam_3583| membrane protein US17 [Panine herpesvirus 2]
+gi|359946594|ref|YP_004936127.1|vFam_3583| membrane protein US17 [Cercopithecine herpesvirus 5]
+gi|356640533|ref|YP_004933975.1|vFam_3583| membrane protein US17 [Cynomolgus macaque cytomegalovirus strain Ottawa]

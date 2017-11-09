@@ -1,0 +1,10 @@
+CLUSTER	5179
+NUM_SEQ	2
+LENGTH	142
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	73.84
+FAMILIES	{'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134287205|ref|YP_001110901.1|vFam_5179| hypothetical protein HVAV3e_gp048 [Heliothis virescens ascovirus 3e]
+gi|116326720|ref|YP_803257.1|vFam_5179| hypothetical protein TNAV2c_gp034 [Trichoplusia ni ascovirus 2c]

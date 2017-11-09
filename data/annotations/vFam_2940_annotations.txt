@@ -1,0 +1,11 @@
+CLUSTER	2940
+NUM_SEQ	3
+LENGTH	218
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	111.18
+FAMILIES	{'Herpesviridae': 2, 'Phycodnaviridae': 1}
+GENERA	{'Cytomegalovirus': 2, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|313768108|ref|YP_004061539.1|vFam_2940| hypothetical protein BpV1_109 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|359946577|ref|YP_004936110.1|vFam_2940| protein O21 [Cercopithecine herpesvirus 5]
+gi|356640504|ref|YP_004933946.1|vFam_2940| hypothetical protein cy201 [Cynomolgus macaque cytomegalovirus strain Ottawa]

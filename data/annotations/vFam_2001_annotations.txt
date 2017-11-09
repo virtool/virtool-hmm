@@ -1,0 +1,14 @@
+CLUSTER	2001
+NUM_SEQ	6
+LENGTH	119
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	61.88
+FAMILIES	{'Phycodnaviridae': 5}
+GENERA	{'Chlorovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|526119714|ref|YP_008319617.1|vFam_2001| hypothetical protein [Pandoravirus dulcis]
+gi|9631968|ref|NP_048757.1|vFam_2001| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953682|ref|YP_001498573.1|vFam_2001| hypothetical protein AR158_C492R [Paramecium bursaria Chlorella virus AR158]
+gi|157952852|ref|YP_001497744.1|vFam_2001| hypothetical protein NY2A_B548R [Paramecium bursaria Chlorella virus NY2A]
+gi|155371301|ref|YP_001426835.1|vFam_2001| hypothetical protein ATCV1_z354L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370672|ref|YP_001426206.1|vFam_2001| hypothetical protein FR483_N574L [Paramecium bursaria Chlorella virus FR483]

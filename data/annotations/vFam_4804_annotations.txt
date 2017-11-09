@@ -1,0 +1,10 @@
+CLUSTER	4804
+NUM_SEQ	2
+LENGTH	208
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	104.0
+FAMILIES	{'Bromoviridae': 2}
+GENERA	{'Anulavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|20177490|ref|NP_619773.1|vFam_4804| coat protein [Pelargonium zonate spot virus]
+gi|400355027|ref|YP_006576521.1|vFam_4804| coat protein [Amazon lily mild mottle virus]

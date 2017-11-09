@@ -1,0 +1,12 @@
+CLUSTER	2869
+NUM_SEQ	4
+LENGTH	164
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	85.28
+FAMILIES	{'Caliciviridae': 4}
+GENERA	{'Sapovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|9633621|ref|NP_051036.1|vFam_2869| small basic protein [Porcine enteric sapovirus]
+gi|51950966|ref|YP_077280.1|vFam_2869| hypothetical protein SHV01_gp2 [Sapovirus Hu/Dresden/pJG-Sap01/DE]
+gi|56692996|ref|YP_164338.1|vFam_2869| ORF2 protein [Sapovirus C12]
+gi|48305608|ref|YP_022763.1|vFam_2869| hypothetical protein SMV10gp2 [Sapovirus Mc10]

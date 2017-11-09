@@ -1,0 +1,10 @@
+CLUSTER	3673
+NUM_SEQ	2
+LENGTH	284
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	147.68
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Betabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498221|ref|YP_008004018.1|vFam_3673| unknown similar to ChocGV orf11 [Adoxophyes honmai entomopoxvirus 'L']
+gi|109255283|ref|YP_654432.1|vFam_3673| hypothetical protein COGV_gp011 [Choristoneura occidentalis granulovirus]

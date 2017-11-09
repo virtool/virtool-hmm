@@ -1,0 +1,18 @@
+CLUSTER	497
+NUM_SEQ	10
+LENGTH	1419
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	752.07
+FAMILIES	{'Bunyaviridae': 8}
+GENERA	{'Orthobunyavirus': 8}
+FASTA SEQUENCE TITLES:
+gi|44965087|ref|NP_982303.1|vFam_497| polyprotein [Oropouche virus]
+gi|401829631|ref|YP_006590085.1|vFam_497| M polyprotein [Simbu virus]
+gi|401829622|ref|YP_006590080.1|vFam_497| M polyprotein [Sathuperi virus]
+gi|401829605|ref|YP_006590070.1|vFam_497| M polyprotein [Aino virus]
+gi|401829624|ref|YP_006590081.1|vFam_497| M polyprotein [Shamonda virus]
+gi|157939618|ref|YP_001497160.1|vFam_497| M polyprotein [Akabane virus]
+gi|530323624|ref|YP_008400137.1|vFam_497| polyprotein [Brazoran virus]
+gi|554505423|ref|YP_008709777.1|vFam_497| polyprotein [Murrumbidgee virus]
+gi|22256026|ref|NP_671969.1|vFam_497| G1/G2 membrane polyprotein [La Crosse virus]
+gi|9630659|ref|NP_047212.1|vFam_497| M polyprotein [Bunyamwera virus]

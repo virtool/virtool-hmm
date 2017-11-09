@@ -1,0 +1,12 @@
+CLUSTER	1851
+NUM_SEQ	4
+LENGTH	310
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	161.2
+FAMILIES	{'Paramyxoviridae': 4}
+GENERA	{'None': 4}
+FASTA SEQUENCE TITLES:
+gi|89888074|ref|YP_512246.1|vFam_1851| W protein [Beilong virus]
+gi|89888073|ref|YP_512247.1|vFam_1851| V protein [Beilong virus]
+gi|77124341|ref|YP_338077.1|vFam_1851| W protein [J-virus]
+gi|77124340|ref|YP_338078.1|vFam_1851| V protein [J-virus]

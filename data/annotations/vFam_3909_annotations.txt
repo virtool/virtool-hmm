@@ -1,0 +1,11 @@
+CLUSTER	3909
+NUM_SEQ	3
+LENGTH	703
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	365.56
+FAMILIES	{'Totiviridae': 3}
+GENERA	{'None': 1, 'Trichomonasvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|20564175|ref|NP_620729.1|vFam_3909| capsid protein [Trichomonas vaginalis virus]
+gi|21450041|ref|NP_659389.1|vFam_3909| capsid protein [Trichomonas vaginalis virus 3]
+gi|20889359|ref|NP_624322.1|vFam_3909| capsid protein [Trichomonas vaginalis virus II]

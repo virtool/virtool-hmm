@@ -1,0 +1,10 @@
+CLUSTER	6187
+NUM_SEQ	2
+LENGTH	158
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	80.58
+FAMILIES	{'Baculoviridae': 1, 'Ascoviridae': 1}
+GENERA	{'Ascovirus': 1, 'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|116326816|ref|YP_803353.1|vFam_6187| hypothetical protein TNAV2c_gp130 [Trichoplusia ni ascovirus 2c]
+gi|90592732|ref|YP_529685.1|vFam_6187| ORF-15 [Agrotis segetum nucleopolyhedrovirus]

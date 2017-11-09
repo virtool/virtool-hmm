@@ -1,0 +1,10 @@
+CLUSTER	5817
+NUM_SEQ	2
+LENGTH	171
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	87.21
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|359946579|ref|YP_004936112.1|vFam_5817| protein O23 [Cercopithecine herpesvirus 5]
+gi|356640511|ref|YP_004933953.1|vFam_5817| hypothetical protein cy208 [Cynomolgus macaque cytomegalovirus strain Ottawa]

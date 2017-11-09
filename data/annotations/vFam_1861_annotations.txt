@@ -1,0 +1,12 @@
+CLUSTER	1861
+NUM_SEQ	4
+LENGTH	221
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	117.13
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Atadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|56158901|ref|AP_000097.1|vFam_1861| 34K-1 [Duck adenovirus A]
+gi|160700575|ref|YP_001552265.1|vFam_1861| unnamed protein product [Snake adenovirus 1]
+gi|440382985|ref|YP_007347016.1|vFam_1861| E4.2 [Bovine adenovirus 6]
+gi|21450908|ref|NP_659531.1|vFam_1861| E4.2 [Ovine adenovirus D]

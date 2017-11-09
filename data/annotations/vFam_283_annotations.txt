@@ -1,0 +1,26 @@
+CLUSTER	283
+NUM_SEQ	18
+LENGTH	394
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	204.88
+FAMILIES	{'Baculoviridae': 16}
+GENERA	{'Alphabaculovirus': 16}
+FASTA SEQUENCE TITLES:
+gi|114679929|ref|YP_758379.1|vFam_283| lef-3 [Leucania separata nucleopolyhedrovirus]
+gi|15617535|ref|NP_258335.1|vFam_283| LEF-3 [Spodoptera litura nucleopolyhedrovirus]
+gi|209401121|ref|YP_002273990.1|vFam_283| late expression factor 3 [Helicoverpa armigera NPV NNg1]
+gi|292397751|ref|YP_003517817.1|vFam_283| LEF-3 [Lymantria xylina MNPV]
+gi|9631048|ref|NP_047718.1|vFam_283| late expression factor 3 [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|68304196|ref|YP_249664.1|vFam_283| LEF-3 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549513|ref|NP_689286.1|vFam_283| lef3 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069992|ref|NP_613196.1|vFam_283| LEF-3 [Mamestra configurata nucleopolyhedrovirus A]
+gi|125860212|ref|YP_001036382.1|vFam_283| late expression factor 3 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401488|ref|YP_002332792.1|vFam_283| LEF-3 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634312|ref|NP_037851.1|vFam_283| ORF91 lef3 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209170987|ref|YP_002268134.1|vFam_283| agip104 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592815|ref|YP_529768.1|vFam_283| LEF-3 [Agrotis segetum nucleopolyhedrovirus]
+gi|529218117|ref|YP_008378280.1|vFam_283| lef3 [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502154|ref|YP_006607812.1|vFam_283| late expression factor 3 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|118197537|ref|YP_874249.1|vFam_283| late expression factor 3 [Ectropis obliqua nucleopolyhedrovirus]
+gi|228861654|ref|YP_002854674.1|vFam_283| lef3 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|165969075|ref|YP_001650975.1|vFam_283| late expression factor 3 [Orgyia leucostigma NPV]

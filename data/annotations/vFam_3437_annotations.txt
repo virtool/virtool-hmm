@@ -1,0 +1,12 @@
+CLUSTER	3437
+NUM_SEQ	4
+LENGTH	130
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	66.3
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|75750440|ref|YP_319873.1|vFam_3437| hypothetical protein ATV_gp42 [Acidianus two-tailed virus]
+gi|75750454|ref|YP_319893.1|vFam_3437| hypothetical protein ATV_gp62 [Acidianus two-tailed virus]
+gi|448260184|ref|YP_007348281.1|vFam_3437| coat protein [Sulfolobus virus STSV2]
+gi|51980166|ref|YP_077233.1|vFam_3437| coat protein [Sulfolobus virus STSV1]

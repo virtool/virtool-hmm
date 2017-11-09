@@ -1,0 +1,11 @@
+CLUSTER	4654
+NUM_SEQ	3
+LENGTH	147
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	74.97
+FAMILIES	{'Birnaviridae': 3}
+GENERA	{'Avibirnavirus': 1, 'Aquabirnavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|22855167|ref|NP_690837.1|vFam_4654| VP5 protein [Infectious bursal disease virus]
+gi|158324545|ref|YP_001514403.1|vFam_4654| nonstructural protein [Paralichthys olivaceus birnavirus]
+gi|9630636|ref|NP_047195.1|vFam_4654| hypothetical protein IPNVsAgp1 [Infectious pancreatic necrosis virus]

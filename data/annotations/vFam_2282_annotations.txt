@@ -1,0 +1,12 @@
+CLUSTER	2282
+NUM_SEQ	4
+LENGTH	754
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	384.54
+FAMILIES	{'Reoviridae': 4}
+GENERA	{'Rotavirus': 4}
+FASTA SEQUENCE TITLES:
+gi|81097462|ref|YP_392514.1|vFam_2282| outer capsid spike protein [Rotavirus C]
+gi|307347000|ref|YP_003896048.1|vFam_2282| VP4 [Rotavirus D chicken/05V0049/DEU/2005]
+gi|520782977|ref|YP_008145319.1|vFam_2282| VP4 [Rotavirus F chicken/03V0568/DEU/2003]
+gi|210136703|ref|YP_002302230.1|vFam_2282| outer capsid spike protein VP4 [Rotavirus A]

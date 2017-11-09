@@ -1,0 +1,12 @@
+CLUSTER	3463
+NUM_SEQ	4
+LENGTH	199
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	101.49
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|438000415|ref|YP_007250520.1|vFam_3463| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|114679914|ref|YP_758364.1|vFam_3463| ORF67 [Leucania separata nucleopolyhedrovirus]
+gi|209170953|ref|YP_002268099.1|vFam_3463| agip69 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592780|ref|YP_529733.1|vFam_3463| ORF-63 [Agrotis segetum nucleopolyhedrovirus]

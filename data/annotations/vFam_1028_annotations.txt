@@ -1,0 +1,18 @@
+CLUSTER	1028
+NUM_SEQ	10
+LENGTH	122
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	64.66
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|209978875|ref|YP_002300618.1|vFam_1028| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|292397797|ref|YP_003517863.1|vFam_1028| ORF123 [Lymantria xylina MNPV]
+gi|209401166|ref|YP_002274035.1|vFam_1028| hypothetical protein HaSNPVNNg1_gp112 [Helicoverpa armigera NPV NNg1]
+gi|113195503|ref|YP_717641.1|vFam_1028| Hz112-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|529218087|ref|YP_008378250.1|vFam_1028| HESP034 [Hemileuca sp. nucleopolyhedrovirus]
+gi|22549465|ref|NP_689238.1|vFam_1028| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|215401444|ref|YP_002332747.1|vFam_1028| hypothetical protein SlnV2_gp049 [Spodoptera litura nucleopolyhedrovirus II]
+gi|90592769|ref|YP_529722.1|vFam_1028| ORF-52 [Agrotis segetum nucleopolyhedrovirus]
+gi|114679980|ref|YP_758430.1|vFam_1028| ORF133 [Leucania separata nucleopolyhedrovirus]
+gi|15617576|ref|NP_258376.1|vFam_1028| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]

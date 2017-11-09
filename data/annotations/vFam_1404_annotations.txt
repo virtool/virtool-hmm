@@ -1,0 +1,14 @@
+CLUSTER	1404
+NUM_SEQ	6
+LENGTH	175
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	89.25
+FAMILIES	{'None': 1, 'Mimiviridae': 5}
+GENERA	{'Mimivirus': 2, 'None': 4}
+FASTA SEQUENCE TITLES:
+gi|311977402|ref|YP_003986521.1|vFam_1404| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441431958|ref|YP_007354000.1|vFam_1404| hypothetical protein Moumou_00016 [Acanthamoeba polyphaga moumouvirus]
+gi|311978288|ref|YP_003987409.1|vFam_1404| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825020|ref|YP_007417951.1|vFam_1404| hypothetical protein LBA_00053 [Megavirus lba]
+gi|441432811|ref|YP_007354853.1|vFam_1404| hypothetical protein Moumou_00902 [Acanthamoeba polyphaga moumouvirus]
+gi|441431944|ref|YP_007353986.1|vFam_1404| hypothetical protein Moumou_00001 [Acanthamoeba polyphaga moumouvirus]

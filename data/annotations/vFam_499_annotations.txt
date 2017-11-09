@@ -1,0 +1,23 @@
+CLUSTER	499
+NUM_SEQ	15
+LENGTH	252
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	133.56
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 1, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531757|ref|YP_784283.1|vFam_499| DNA-binding virion core protein [Nile crocodilepox virus]
+gi|40556114|ref|NP_955199.1|vFam_499| CNPV176 DNA-binding virion core protein [Canarypox virus]
+gi|9634801|ref|NP_039094.1|vFam_499| DNA-binding virion core protien VP8 [Fowlpox virus]
+gi|9629005|ref|NP_044024.1|vFam_499| MC073R [Molluscum contagiosum virus subtype 1]
+gi|41057486|ref|NP_957959.1|vFam_499| ORF050 DNA-binding virion core protein VP8 [Bovine papular stomatitis virus]
+gi|289183814|ref|YP_003457355.1|vFam_499| virion core protein [Pseudocowpox virus]
+gi|571797983|ref|YP_008658482.1|vFam_499| virion core protein / single-stranded DNA binding protein [Squirrelpox virus]
+gi|113195271|ref|YP_717401.1|vFam_499| core protein vp8 [Taterapox virus]
+gi|345107259|ref|YP_004821424.1|vFam_499| abundant virion protein VP8 [Yoka poxvirus]
+gi|38229225|ref|NP_938318.1|vFam_499| 63R [Yaba monkey tumor virus]
+gi|377829972|ref|YP_005296267.1|vFam_499| unnamed protein product [Cotia virus SPAn232]
+gi|211956343|ref|YP_002302412.1|vFam_499| DNA-binding virion protein VP8 [Deerpox virus W-1170-84]
+gi|18640146|ref|NP_570220.1|vFam_499| SPV060 putative DNA-binding virion core protein VP8 [Swinepox virus]
+gi|148912940|ref|YP_001293254.1|vFam_499| hypothetical protein GTPV_gp059 [Goatpox virus Pellor]
+gi|9633867|ref|NP_051947.1|vFam_499| gp058R [Rabbit fibroma virus]

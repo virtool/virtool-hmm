@@ -1,0 +1,10 @@
+CLUSTER	2920
+NUM_SEQ	2
+LENGTH	824
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	420.24
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|441432482|ref|YP_007354524.1|vFam_2920| BTB family protein [Acanthamoeba polyphaga moumouvirus]
+gi|311977914|ref|YP_003987034.1|vFam_2920| putative BTB/POZ domain-containing protein [Acanthamoeba polyphaga mimivirus]

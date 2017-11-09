@@ -1,0 +1,11 @@
+CLUSTER	2547
+NUM_SEQ	3
+LENGTH	163
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	84.76
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|448825657|ref|YP_007418588.1|vFam_2547| hypothetical protein LBA_00694 [Megavirus lba]
+gi|363539938|ref|YP_004894717.1|vFam_2547| mg666 gene product [Megavirus chiliensis]
+gi|363540641|ref|YP_004894100.1|vFam_2547| mg49 gene product [Megavirus chiliensis]

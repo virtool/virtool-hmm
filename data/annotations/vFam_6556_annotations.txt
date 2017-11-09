@@ -1,0 +1,10 @@
+CLUSTER	6556
+NUM_SEQ	2
+LENGTH	117
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	60.84
+FAMILIES	{'Nanoviridae': 2}
+GENERA	{'Babuvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|167006431|ref|YP_001661658.1|vFam_6556| putative movement protein [Abaca bunchy top virus]
+gi|19744930|ref|NP_604478.1|vFam_6556| putative movement protein [Banana bunchy top virus]

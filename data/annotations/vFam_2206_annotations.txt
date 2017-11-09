@@ -1,0 +1,10 @@
+CLUSTER	2206
+NUM_SEQ	2
+LENGTH	320
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	166.4
+FAMILIES	{'Reoviridae': 2}
+GENERA	{'Phytoreovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|226423338|ref|YP_002790892.1|vFam_2206| non-structural protein [Homalodisca vitripennis reovirus]
+gi|134287149|ref|YP_001111367.1|vFam_2206| 36K protein [Rice gall dwarf virus]

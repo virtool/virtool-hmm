@@ -1,0 +1,20 @@
+CLUSTER	589
+NUM_SEQ	12
+LENGTH	451
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	234.52
+FAMILIES	{'Baculoviridae': 8}
+GENERA	{'Alphabaculovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|119964641|ref|YP_950837.1|vFam_589| ME53 [Maruca vitrata nucleopolyhedrovirus]
+gi|438000438|ref|YP_007250543.1|vFam_589| me53 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643672|ref|YP_002884362.1|vFam_589| ME53 [Bombyx mandarina nucleopolyhedrovirus]
+gi|23577844|ref|NP_703126.1|vFam_589| ME53 [Rachiplusia ou MNPV]
+gi|154551160|ref|YP_610987.2|vFam_589| me53 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355537|ref|YP_473205.1|vFam_589| ME53 [Hyphantria cunea nucleopolyhedrovirus]
+gi|529153330|ref|YP_008378370.1|vFam_589| ME53 [Choristoneura rosaceana alphabaculovirus]
+gi|9630075|ref|NP_046293.1|vFam_589| ME53 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031213|ref|YP_008992109.1|vFam_589| me53 [Choristoneura murinana alphabaculovirus]
+gi|529153494|ref|YP_008378519.1|vFam_589| ME53 [Choristoneura occidentalis alphabaculovirus]
+gi|15320779|ref|NP_203291.1|vFam_589| ME53 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|37651347|ref|NP_932742.1|vFam_589| DNA synthesis regulator [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]

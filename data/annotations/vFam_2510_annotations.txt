@@ -1,0 +1,11 @@
+CLUSTER	2510
+NUM_SEQ	3
+LENGTH	254
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	132.08
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035919|ref|YP_008437553.1|vFam_2510| metal dependent phosphohydrolase [Pandoravirus salinus]
+gi|531035072|ref|YP_008436697.1|vFam_2510| HD phosphohydrolase [Pandoravirus salinus]
+gi|526118900|ref|YP_008318803.1|vFam_2510| hd phosphohydrolase [Pandoravirus dulcis]

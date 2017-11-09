@@ -1,0 +1,27 @@
+CLUSTER	304
+NUM_SEQ	19
+LENGTH	173
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	89.96
+FAMILIES	{'Adenoviridae': 18}
+GENERA	{'Mastadenovirus': 18}
+FASTA SEQUENCE TITLES:
+gi|46852404|ref|YP_009197.1|vFam_304| E1B 19K [Porcine adenovirus 3]
+gi|56160675|ref|AP_000338.1|vFam_304| E1B 19K [Murine adenovirus A]
+gi|56158803|ref|AP_000022.1|vFam_304| E1B 19K [Bovine adenovirus B]
+gi|13487861|ref|NP_108654.1|vFam_304| E1B 163R protein [Porcine adenovirus C]
+gi|52801681|ref|YP_094028.1|vFam_304| E1B 19K [Bovine adenovirus A]
+gi|56158828|ref|AP_000002.1|vFam_304| E1B 19K [Ovine adenovirus A]
+gi|253761977|ref|YP_003038599.1|vFam_304| E1B 21.1 kDa protein [Human adenovirus 54]
+gi|56160841|ref|AP_000499.1|vFam_304| E1B 19K [Human adenovirus 1]
+gi|386522685|ref|YP_006272950.1|vFam_304| E1B 19K [Chimpanzee adenovirus Y25]
+gi|197944768|ref|YP_002213799.1|vFam_304| control protein E1B 19K [Human adenovirus B]
+gi|56160597|ref|AP_000262.1|vFam_304| E1B 19K [Simian adenovirus 21]
+gi|327415373|ref|YP_004300200.1|vFam_304| unnamed protein product [Simian adenovirus 49]
+gi|460042639|ref|YP_007518066.1|vFam_304| E1b 19K [Simian adenovirus 20]
+gi|51518817|ref|YP_067904.1|vFam_304| E1B 19 kDa protein [Simian adenovirus 3]
+gi|56160438|ref|AP_000108.1|vFam_304| E1B 19K [Human adenovirus A]
+gi|540155828|ref|YP_008520222.1|vFam_304| E1B 19K [Simian adenovirus 18]
+gi|9626563|ref|NP_040848.1|vFam_304| control protein E1B 19K [Human adenovirus F]
+gi|61602120|ref|YP_213962.1|vFam_304| E1B 19K [Simian adenovirus 1]
+gi|485191059|ref|YP_007905995.1|vFam_304| E1B 19K [Simian adenovirus C]

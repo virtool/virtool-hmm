@@ -1,0 +1,10 @@
+CLUSTER	4419
+NUM_SEQ	2
+LENGTH	487
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	253.24
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|197322464|ref|YP_002154737.1|vFam_4419| putative transcription regulator [Feldmannia species virus]
+gi|13242512|ref|NP_077525.1|vFam_4419| EsV-1-40 [Ectocarpus siliculosus virus 1]

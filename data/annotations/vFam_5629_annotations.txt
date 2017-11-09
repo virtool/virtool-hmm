@@ -1,0 +1,10 @@
+CLUSTER	5629
+NUM_SEQ	2
+LENGTH	255
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	132.6
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531034993|ref|YP_008436618.1|vFam_5629| DNA-3-methyladenine glycosylase [Pandoravirus salinus]
+gi|526118843|ref|YP_008318746.1|vFam_5629| DNA-3-methyladenine glycosylase [Pandoravirus dulcis]

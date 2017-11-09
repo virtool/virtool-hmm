@@ -1,0 +1,17 @@
+CLUSTER	912
+NUM_SEQ	9
+LENGTH	287
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	152.11
+FAMILIES	{'Poxviridae': 9}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Capripoxvirus': 1, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|571798051|ref|YP_008658550.1|vFam_912| conserved hypothetical pox protein-similar to MOCV144R [Squirrelpox virus]
+gi|377830083|ref|YP_005296331.1|vFam_912| unnamed protein product [Cotia virus SPAn232]
+gi|157939749|ref|YP_001497121.1|vFam_912| hypothetical protein TANV_125R [Tanapox virus]
+gi|38229288|ref|NP_938381.1|vFam_912| 125R [Yaba monkey tumor virus]
+gi|9633934|ref|NP_052013.1|vFam_912| gp124R [Rabbit fibroma virus]
+gi|9633760|ref|NP_051838.1|vFam_912| m124R [Myxoma virus]
+gi|62637512|ref|YP_227510.1|vFam_912| hypothetical protein DpV83gp135 [Deerpox virus W-848-83]
+gi|148913003|ref|YP_001293317.1|vFam_912| hypothetical protein GTPV_gp120 [Goatpox virus Pellor]
+gi|18640208|ref|NP_570282.1|vFam_912| SPV122 hypothetical protein [Swinepox virus]

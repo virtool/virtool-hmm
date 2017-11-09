@@ -1,0 +1,13 @@
+CLUSTER	2656
+NUM_SEQ	5
+LENGTH	254
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	132.08
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631468|ref|NP_048229.1|vFam_2656| ORF MSV158 putative core protein VP8 homolog (vaccinia L4R), similar to GB:X76267 [Melanoplus sanguinipes entomopoxvirus]
+gi|9964375|ref|NP_064843.1|vFam_2656| 30K virion protein [Amsacta moorei entomopoxvirus 'L']
+gi|506497802|ref|YP_008003601.1|vFam_2656| ss/dsDNA binding protein VP8 (Cop-L4R) [Mythimna separata entomopoxvirus 'L']
+gi|506498087|ref|YP_008003884.1|vFam_2656| ss/dsDNA binding protein VP8 (Cop-L4R) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498693|ref|YP_008004487.1|vFam_2656| ss/dsDNA binding protein VP8 (Cop-L4R) [Choristoneura rosaceana entomopoxvirus 'L']

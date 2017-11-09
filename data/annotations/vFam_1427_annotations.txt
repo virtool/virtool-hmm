@@ -1,0 +1,15 @@
+CLUSTER	1427
+NUM_SEQ	7
+LENGTH	194
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	98.94
+FAMILIES	{'Picornaviridae': 5}
+GENERA	{'Parechovirus': 2, 'Avihepatovirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|543145318|ref|YP_008549609.1|vFam_1427| 3C [Eel picornavirus 1]
+gi|495027921|ref|YP_007969882.1|vFam_1427| picornain 3C [Duck hepatitis A virus 1]
+gi|157939789|ref|YP_001497183.1|vFam_1427| 3C [Seal picornavirus type 1]
+gi|397776136|ref|YP_006546268.1|vFam_1427| 3C [Swine pasivirus 1]
+gi|25121917|ref|NP_740736.1|vFam_1427| proteinase 3C (picornain 3C) [Human parechovirus]
+gi|512965478|ref|YP_008119843.1|vFam_1427| 3C protein [Sebokele virus 1]
+gi|23968334|ref|NP_705883.1|vFam_1427| Picornain 3C [Ljungan virus]

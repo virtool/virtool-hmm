@@ -1,0 +1,23 @@
+CLUSTER	415
+NUM_SEQ	15
+LENGTH	121
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	62.92
+FAMILIES	{'Adenoviridae': 14}
+GENERA	{'Mastadenovirus': 14}
+FASTA SEQUENCE TITLES:
+gi|9630116|ref|NP_046333.1|vFam_415| hypothetical protein BAdVBgp26 [Bovine adenovirus B]
+gi|253762007|ref|YP_003038629.1|vFam_415| 14.1 kDa protein [Human adenovirus 54]
+gi|190341009|ref|YP_001974471.1|vFam_415| control protein E4orf4 [Human adenovirus D]
+gi|160409929|ref|YP_001551773.1|vFam_415| control protein E4orf4 [Human adenovirus C]
+gi|386522711|ref|YP_006272976.1|vFam_415| E4Orf4 [Chimpanzee adenovirus Y25]
+gi|56160669|ref|AP_000333.1|vFam_415| E4 ORF4 [Simian adenovirus 25]
+gi|197944762|ref|YP_002213837.1|vFam_415| control protein E4orf4 [Human adenovirus B]
+gi|56160630|ref|AP_000295.1|vFam_415| E4 ORF4 [Simian adenovirus 21]
+gi|460042666|ref|YP_007518093.1|vFam_415| E4 orf4 [Simian adenovirus 20]
+gi|327415399|ref|YP_004300227.1|vFam_415| unnamed protein product [Simian adenovirus 49]
+gi|56160468|ref|AP_000138.1|vFam_415| E4 ORF4 [Human adenovirus A]
+gi|9626588|ref|NP_040879.1|vFam_415| control protein E4orf4 [Human adenovirus F]
+gi|540155852|ref|YP_008520246.1|vFam_415| E4 orf4 [Simian adenovirus 18]
+gi|485191090|ref|YP_007906026.1|vFam_415| E4 ORF4 [Simian adenovirus C]
+gi|61602115|ref|YP_213992.1|vFam_415| E4 ORF4 [Simian adenovirus 1]

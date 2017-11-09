@@ -1,0 +1,24 @@
+CLUSTER	487
+NUM_SEQ	16
+LENGTH	53
+RELATIVE_ENTROPY_PER_POSITION	1.00
+TOTAL_RELATIVE_ENTROPY	53.0
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 1, 'Yatapoxvirus': 2, 'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|115531801|ref|YP_784327.1|vFam_487| IMV membrane protein [Nile crocodilepox virus]
+gi|40556191|ref|NP_955276.1|vFam_487| CNPV253 putative IMV membrane virulence factor [Canarypox virus]
+gi|571798029|ref|YP_008658528.1|vFam_487| IMV membrane protein / putative virulence factor [Squirrelpox virus]
+gi|289183856|ref|YP_003457397.1|vFam_487| putative IMV virulence factor [Pseudocowpox virus]
+gi|41057154|ref|NP_957868.1|vFam_487| ORF091 putative IMV membrane protein [Orf virus]
+gi|41057527|ref|NP_958000.1|vFam_487| ORF091 IMV membrane protein [Bovine papular stomatitis virus]
+gi|9629051|ref|NP_044070.1|vFam_487| MC119L [Molluscum contagiosum virus subtype 1]
+gi|113195313|ref|YP_717443.1|vFam_487| hydrophobic IV and IMV membrane protein [Taterapox virus]
+gi|345107306|ref|YP_004821471.1|vFam_487| nonessential IMV membrane protein [Yoka poxvirus]
+gi|38229268|ref|NP_938361.1|vFam_487| 106L [Yaba monkey tumor virus]
+gi|377830010|ref|YP_005296311.1|vFam_487| unnamed protein product [Cotia virus SPAn232]
+gi|148912983|ref|YP_001293297.1|vFam_487| hypothetical protein GTPV_gp148 [Goatpox virus Pellor]
+gi|9633914|ref|NP_051993.1|vFam_487| gp104L [Rabbit fibroma virus]
+gi|18640189|ref|NP_570263.1|vFam_487| SPV103 putative virulence factor [Swinepox virus]
+gi|211956386|ref|YP_002302455.1|vFam_487| virulence factor [Deerpox virus W-1170-84]
+gi|157939729|ref|YP_001497101.1|vFam_487| IMV membrane virulence factor [Tanapox virus]

@@ -1,0 +1,21 @@
+CLUSTER	611
+NUM_SEQ	13
+LENGTH	799
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	415.48
+FAMILIES	{'Togaviridae': 13}
+GENERA	{'Alphavirus': 13}
+FASTA SEQUENCE TITLES:
+gi|25121763|ref|NP_740636.1|vFam_611| non structural protein P2 [Salmon pancreas disease virus]
+gi|25140291|ref|NP_740697.1|vFam_611| putative nonstructural protein nsP2 [Venezuelan equine encephalitis virus]
+gi|119380833|ref|YP_913812.1|vFam_611| nsP2 protein [Eastern equine encephalitis virus]
+gi|269954649|ref|YP_003324592.1|vFam_611| nsP2 [Fort Morgan virus]
+gi|226823170|ref|YP_002802302.1|vFam_611| nsP2 [Highlands J virus]
+gi|29611986|ref|NP_818934.1|vFam_611| nonstructural protein nsP2 [Western equine encephalitis virus]
+gi|29653353|ref|NP_819011.1|vFam_611| Nonstructural protein nsP2 [Aura virus]
+gi|25121507|ref|NP_740671.1|vFam_611| nsp2 nonstructural protein [Sindbis virus]
+gi|29612004|ref|NP_818996.1|vFam_611| nsP2 [Barmah Forest virus]
+gi|25121484|ref|NP_740704.1|vFam_611| nonstructural protein P2 [O'nyong-nyong virus]
+gi|25121493|ref|NP_740679.1|vFam_611| nsP2 protein [Ross River virus]
+gi|25121714|ref|NP_740688.1|vFam_611| nonstructural protein nsP2 [Mayaro virus]
+gi|25121502|ref|NP_740666.1|vFam_611| nonstructural protein nsP2 [Semliki forest virus]

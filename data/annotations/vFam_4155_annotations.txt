@@ -1,0 +1,10 @@
+CLUSTER	4155
+NUM_SEQ	2
+LENGTH	273
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	139.23
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825473|ref|YP_007418404.1|vFam_4155| putative endonuclease/exonuclease/phosphatase [Megavirus lba]
+gi|311977773|ref|YP_003986893.1|vFam_4155| putative endonuclease/exonuclease/phosphatase [Acanthamoeba polyphaga mimivirus]

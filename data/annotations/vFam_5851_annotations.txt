@@ -1,0 +1,10 @@
+CLUSTER	5851
+NUM_SEQ	2
+LENGTH	170
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	88.4
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|506498757|ref|YP_008004551.1|vFam_5851| hypothetical protein CHREV_147 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506497885|ref|YP_008003684.1|vFam_5851| hypothetical protein MYSEV_167 [Mythimna separata entomopoxvirus 'L']

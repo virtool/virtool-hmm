@@ -1,0 +1,20 @@
+CLUSTER	287
+NUM_SEQ	12
+LENGTH	316
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	158.0
+FAMILIES	{'Baculoviridae': 11}
+GENERA	{'Betabaculovirus': 2, 'Alphabaculovirus': 9}
+FASTA SEQUENCE TITLES:
+gi|37651373|ref|NP_932755.1|vFam_287| pe38 like protein [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|438000451|ref|YP_007250556.1|vFam_287| pe38 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643684|ref|YP_002884374.1|vFam_287| PE38 [Bombyx mandarina nucleopolyhedrovirus]
+gi|23577864|ref|NP_703140.1|vFam_287| PE38 [Rachiplusia ou MNPV]
+gi|529153481|ref|YP_008378506.1|vFam_287| PE38 [Choristoneura occidentalis alphabaculovirus]
+gi|30387376|ref|NP_848455.1|vFam_287| pe38 [Choristoneura fumiferana multiple nucleopolyhedrovirus]
+gi|15320790|ref|NP_203302.1|vFam_287| PE38 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|96979774|ref|YP_610974.1|vFam_287| pe-38 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355525|ref|YP_473193.1|vFam_287| PE38 [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630090|ref|NP_046308.1|vFam_287| PE38 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|288804662|ref|YP_003429347.1|vFam_287| PE38 [Pieris rapae granulovirus]
+gi|33622331|ref|NP_891872.1|vFam_287| pe-38 [Cryptophlebia leucotreta granulovirus]

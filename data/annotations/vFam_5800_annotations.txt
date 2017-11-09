@@ -1,0 +1,10 @@
+CLUSTER	5800
+NUM_SEQ	2
+LENGTH	215
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	111.8
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448826113|ref|YP_007419044.1|vFam_5800| hypothetical protein LBA_01150 [Megavirus lba]
+gi|311978155|ref|YP_003987275.1|vFam_5800| hypothetical protein [Acanthamoeba polyphaga mimivirus]

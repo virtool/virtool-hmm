@@ -1,0 +1,15 @@
+CLUSTER	940
+NUM_SEQ	7
+LENGTH	227
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	115.77
+FAMILIES	{'Poxviridae': 7}
+GENERA	{'Capripoxvirus': 1, 'Orthopoxvirus': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|345107373|ref|YP_004821538.1|vFam_940| virulence factor [Yoka poxvirus]
+gi|113195372|ref|YP_717502.1|vFam_940| 6kDa intracellular viral protein [Taterapox virus]
+gi|17975084|ref|NP_536598.1|vFam_940| B10R [Monkeypox virus Zaire-96-I-16]
+gi|9633967|ref|NP_052046.1|vFam_940| gp004R [Rabbit fibroma virus]
+gi|9633797|ref|NP_051716.1|vFam_940| m4 [Myxoma virus]
+gi|148913030|ref|YP_001293344.1|vFam_940| hypothetical protein GTPV_gp146 [Goatpox virus Pellor]
+gi|211956439|ref|YP_002302509.1|vFam_940| ER-localized apoptosis regulator [Deerpox virus W-1170-84]

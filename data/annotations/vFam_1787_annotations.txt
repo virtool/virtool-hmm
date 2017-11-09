@@ -1,0 +1,13 @@
+CLUSTER	1787
+NUM_SEQ	5
+LENGTH	170
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	91.8
+FAMILIES	{'Retroviridae': 5}
+GENERA	{'Deltaretrovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|9629500|ref|NP_056908.1|vFam_1787| rex protein [Simian T-lymphotropic virus 2]
+gi|9626729|ref|NP_041004.1|vFam_1787| rex 26 kD protein [Human T-lymphotropic virus 2]
+gi|219552914|ref|YP_002455787.1|vFam_1787| rex protein [Human T-lymphotropic virus 4]
+gi|212499471|ref|YP_002308475.1|vFam_1787| unnamed protein product [Simian T-cell lymphotropic virus 6]
+gi|18071207|ref|NP_542259.1|vFam_1787| rex protein [Simian T-lymphotropic virus 3]

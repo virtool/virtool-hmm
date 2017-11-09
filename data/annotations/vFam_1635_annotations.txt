@@ -1,0 +1,10 @@
+CLUSTER	1635
+NUM_SEQ	2
+LENGTH	255
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	130.05
+FAMILIES	{'Hytrosaviridae': 1, 'None': 1}
+GENERA	{'Emaravirus': 1, 'Glossinavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|168804101|ref|YP_001687033.1|vFam_1635| hypothetical protein SGHV085 [Glossina pallidipes salivary gland hypertrophy virus]
+gi|255987645|ref|YP_003104766.1|vFam_1635| hypothetical protein EMARAV-4_gp1 [European mountain ash ringspot-associated virus]

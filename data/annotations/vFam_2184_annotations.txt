@@ -1,0 +1,10 @@
+CLUSTER	2184
+NUM_SEQ	2
+LENGTH	175
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	91.0
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Mardivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|125745047|ref|YP_001033925.1|vFam_2184| protein pp24 [Gallid herpesvirus 2]
+gi|10834866|ref|NP_066827.1|vFam_2184| protein pp24 [Gallid herpesvirus 3]

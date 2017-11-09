@@ -1,0 +1,10 @@
+CLUSTER	6307
+NUM_SEQ	2
+LENGTH	255
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	132.6
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329472|ref|YP_001604272.1|vFam_6307| hypothetical protein AFV7_gp48 [Acidianus filamentous virus 7]
+gi|157929314|ref|YP_001496966.1|vFam_6307| hypothetical protein AFV2_gp41 [Acidianus filamentous virus 2]

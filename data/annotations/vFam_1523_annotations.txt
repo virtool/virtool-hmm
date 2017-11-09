@@ -1,0 +1,15 @@
+CLUSTER	1523
+NUM_SEQ	7
+LENGTH	136
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	70.72
+FAMILIES	{'None': 2, 'Marseillevirus family': 2, 'Mimiviridae': 3}
+GENERA	{'None': 5, 'Mimivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|284504439|ref|YP_003407154.1|vFam_1523| hypothetical protein MAR_ORF430 [Marseillevirus]
+gi|327409973|ref|YP_004347393.1|vFam_1523| hypothetical protein LAU_0431 [Lausannevirus]
+gi|441432669|ref|YP_007354711.1|vFam_1523| hypothetical protein Moumou_00756 [Acanthamoeba polyphaga moumouvirus]
+gi|448825831|ref|YP_007418762.1|vFam_1523| hypothetical protein LBA_00868 [Megavirus lba]
+gi|311977535|ref|YP_003986655.1|vFam_1523| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311978260|ref|YP_003987380.1|vFam_1523| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825840|ref|YP_007418771.1|vFam_1523| hypothetical protein LBA_00877 [Megavirus lba]

@@ -1,0 +1,11 @@
+CLUSTER	3739
+NUM_SEQ	3
+LENGTH	110
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	56.1
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Deltabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|270281802|ref|YP_003331467.1|vFam_3739| hypothetical protein SSSV6_gp17 [Sulfolobus spindle-shaped virus 6]
+gi|38639816|ref|NP_944467.1|vFam_3739| ORF 79a [Sulfolobus spindle-shaped virus 2]
+gi|15320870|ref|NP_203380.1|vFam_3739| CUN076 hypothetical protein [Culex nigripalpus nucleopolyhedrovirus]

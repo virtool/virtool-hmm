@@ -1,0 +1,10 @@
+CLUSTER	6399
+NUM_SEQ	2
+LENGTH	235
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	122.2
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Simplexvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9629438|ref|NP_044659.1|vFam_6399| membrane protein UL56 [Human herpesvirus 1]
+gi|9629327|ref|NP_044527.1|vFam_6399| membrane protein UL56 [Human herpesvirus 2]

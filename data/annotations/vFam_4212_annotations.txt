@@ -1,0 +1,10 @@
+CLUSTER	4212
+NUM_SEQ	2
+LENGTH	427
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	222.04
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036764|ref|YP_008438403.1|vFam_4212| amidohydrolase motif-containing [Pandoravirus salinus]
+gi|526119817|ref|YP_008319720.1|vFam_4212| amidohydrolase motif-containing [Pandoravirus dulcis]

@@ -1,0 +1,10 @@
+CLUSTER	6148
+NUM_SEQ	2
+LENGTH	162
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	82.62
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448826037|ref|YP_007418968.1|vFam_6148| hypothetical protein LBA_01074 [Megavirus lba]
+gi|363539897|ref|YP_004895070.1|vFam_6148| mg1019 gene product [Megavirus chiliensis]

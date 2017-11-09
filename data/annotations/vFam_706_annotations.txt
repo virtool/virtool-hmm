@@ -1,0 +1,17 @@
+CLUSTER	706
+NUM_SEQ	9
+LENGTH	407
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	215.71
+FAMILIES	{'Herpesviridae': 9}
+GENERA	{'Macavirus': 2, 'Rhadinovirus': 5, 'Lymphocryptovirus': 1, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|82503264|ref|YP_401708.1|vFam_706| LF2 protein [Human herpesvirus 4]
+gi|83642852|ref|YP_438139.1|vFam_706| ORF11 [Ovine herpesvirus 2]
+gi|10140938|ref|NP_065515.1|vFam_706| ORF11 [Alcelaphine herpesvirus 1]
+gi|139472810|ref|YP_001129357.1|vFam_706| ORF11 [Human herpesvirus 8]
+gi|18653818|ref|NP_570752.1|vFam_706| hypothetical protein MmrVgp09 [Macacine herpesvirus 5]
+gi|9631201|ref|NP_047985.1|vFam_706| orf 11; similar to Raji LF2 [Ateline herpesvirus 3]
+gi|9625967|ref|NP_040213.1|vFam_706| unnamed protein product [Saimiriine herpesvirus 2]
+gi|321496566|ref|YP_004207851.1|vFam_706| hypothetical protein RHVP.11 [Rodent herpesvirus Peru]
+gi|9629562|ref|NP_044851.1|vFam_706| virion protein G11 [Murid herpesvirus 4]

@@ -1,0 +1,19 @@
+CLUSTER	514
+NUM_SEQ	11
+LENGTH	307
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	159.64
+FAMILIES	{'Baculoviridae': 11}
+GENERA	{'Betabaculovirus': 11}
+FASTA SEQUENCE TITLES:
+gi|32698658|ref|NP_872573.1|vFam_514| me53 [Adoxophyes orana granulovirus]
+gi|21686795|ref|NP_663295.1|vFam_514| ME53 [Phthorimaea operculella granulovirus]
+gi|33622329|ref|NP_891976.1|vFam_514| me53 [Cryptophlebia leucotreta granulovirus]
+gi|14602380|ref|NP_148927.1|vFam_514| ORF143 ME53 [Cydia pomonella granulovirus]
+gi|288804759|ref|YP_003429444.1|vFam_514| ME-53 [Pieris rapae granulovirus]
+gi|109255388|ref|YP_654537.1|vFam_514| ME53 [Choristoneura occidentalis granulovirus]
+gi|285002457|ref|YP_003422521.1|vFam_514| ME53 [Pseudaletia unipuncta granulovirus]
+gi|164519373|ref|YP_001649160.1|vFam_514| ME53 [Helicoverpa armigera granulovirus]
+gi|148368955|ref|YP_001257085.1|vFam_514| me53 [Spodoptera litura granulovirus]
+gi|46309323|ref|YP_006213.1|vFam_514| ORF131 [Agrotis segetum granulovirus]
+gi|11068123|ref|NP_068219.1|vFam_514| PxORF120 peptide [Plutella xylostella granulovirus]

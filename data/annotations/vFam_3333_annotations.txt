@@ -1,0 +1,11 @@
+CLUSTER	3333
+NUM_SEQ	3
+LENGTH	243
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	128.79
+FAMILIES	{'None': 3}
+GENERA	{'Umbravirus': 3}
+FASTA SEQUENCE TITLES:
+gi|20153385|ref|NP_619660.1|vFam_3333| long-distance movement protein [Groundnut rosette virus]
+gi|24943163|ref|NP_733849.1|vFam_3333| hypothetical protein [Tobacco bushy top virus]
+gi|20806073|ref|NP_620847.1|vFam_3333| long-distance movement protein [Pea enation mosaic virus-2]

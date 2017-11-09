@@ -1,0 +1,11 @@
+CLUSTER	2232
+NUM_SEQ	3
+LENGTH	197
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	104.41
+FAMILIES	{'Secoviridae': 2}
+GENERA	{'Fabavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|564614873|ref|YP_008877673.1|vFam_2232| small coat protein [Lamium mild mosaic virus]
+gi|25013977|ref|NP_733957.1|vFam_2232| small capsid protein [Broad bean wilt virus 2]
+gi|39979438|ref|NP_951025.1|vFam_2232| small capsid protein [Broad bean wilt virus 1]

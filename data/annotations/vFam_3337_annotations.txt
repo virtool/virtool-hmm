@@ -1,0 +1,11 @@
+CLUSTER	3337
+NUM_SEQ	3
+LENGTH	447
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	232.44
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977778|ref|YP_003986898.1|vFam_3337| putative HD domain-containing protein [Acanthamoeba polyphaga mimivirus]
+gi|448825463|ref|YP_007418394.1|vFam_3337| putative HD domain-containing protein [Megavirus lba]
+gi|441432355|ref|YP_007354397.1|vFam_3337| HD phosphohydrolase domain-containing protein [Acanthamoeba polyphaga moumouvirus]

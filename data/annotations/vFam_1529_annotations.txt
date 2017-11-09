@@ -1,0 +1,15 @@
+CLUSTER	1529
+NUM_SEQ	7
+LENGTH	451
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	234.52
+FAMILIES	{'Rhabdoviridae': 7}
+GENERA	{'Lyssavirus': 6, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|256535776|ref|YP_003126908.1|vFam_1529| nucleocapsid protein [Drosophila melanogaster sigmavirus AP30]
+gi|406608985|ref|YP_006742180.1|vFam_1529| nucleoprotein [Ikoma lyssavirus]
+gi|471237000|ref|YP_007641387.1|vFam_1529| nucleoprotein [Lagos bat virus]
+gi|148724432|ref|YP_001285393.1|vFam_1529| nucleoprotein [European bat lyssavirus 2]
+gi|471237018|ref|YP_007641402.1|vFam_1529| nucleoprotein [Duvenhage virus]
+gi|17158069|ref|NP_478339.1|vFam_1529| nucleocapsid protein [Australian bat lyssavirus]
+gi|9627198|ref|NP_056793.1|vFam_1529| nucleoprotein N [Rabies virus]

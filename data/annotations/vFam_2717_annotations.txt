@@ -1,0 +1,13 @@
+CLUSTER	2717
+NUM_SEQ	5
+LENGTH	199
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	103.48
+FAMILIES	{'None': 2, 'Phycodnaviridae': 1, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Prymnesiovirus': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182037|ref|YP_008052556.1|vFam_2717| DNA-directed RNA polymerase II subunit RPB7 [Phaeocystis globosa virus]
+gi|310831427|ref|YP_003970070.1|vFam_2717| putative DNA-directed RNA polymerase subunit Rpb7 [Cafeteria roenbergensis virus BV-PW1]
+gi|311977761|ref|YP_003986881.1|vFam_2717| putative DNA-directed RNA polymerase subunit [Acanthamoeba polyphaga mimivirus]
+gi|448825487|ref|YP_007418418.1|vFam_2717| putative DNA-directed RNA polymerase subunit [Megavirus lba]
+gi|441432375|ref|YP_007354417.1|vFam_2717| putative DNA-directed RNA polymerase subunit [Acanthamoeba polyphaga moumouvirus]

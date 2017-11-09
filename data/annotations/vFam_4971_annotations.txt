@@ -1,0 +1,10 @@
+CLUSTER	4971
+NUM_SEQ	2
+LENGTH	171
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	85.5
+FAMILIES	{'Phycodnaviridae': 1, 'Poxviridae': 1}
+GENERA	{'None': 1, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|157953110|ref|YP_001498002.1|vFam_4971| hypothetical protein NY2A_b806L [Paramecium bursaria Chlorella virus NY2A]
+gi|9631395|ref|NP_048294.1|vFam_4971| ORF MSV223 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]

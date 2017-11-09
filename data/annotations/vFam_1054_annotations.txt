@@ -1,0 +1,11 @@
+CLUSTER	1054
+NUM_SEQ	3
+LENGTH	206
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	100.94
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|114679917|ref|YP_758367.1|vFam_1054| ORF70 [Leucania separata nucleopolyhedrovirus]
+gi|441432702|ref|YP_007354744.1|vFam_1054| hypothetical protein Moumou_00790 [Acanthamoeba polyphaga moumouvirus]
+gi|213159277|ref|YP_002321320.1|vFam_1054| NeseNPVORF52-like protein [Oryctes rhinoceros virus]

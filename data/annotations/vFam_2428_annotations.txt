@@ -1,0 +1,11 @@
+CLUSTER	2428
+NUM_SEQ	3
+LENGTH	95
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	51.3
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|157953251|ref|YP_001498142.1|vFam_2428| hypothetical protein AR158_C060L [Paramecium bursaria Chlorella virus AR158]
+gi|9631741|ref|NP_048520.1|vFam_2428| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|531037080|ref|YP_008438722.1|vFam_2428| hypothetical protein ps_2320 [Pandoravirus salinus]

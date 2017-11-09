@@ -1,0 +1,13 @@
+CLUSTER	1833
+NUM_SEQ	5
+LENGTH	82
+RELATIVE_ENTROPY_PER_POSITION	0.60
+TOTAL_RELATIVE_ENTROPY	49.2
+FAMILIES	{'None': 5}
+GENERA	{'Sobemovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|471795670|ref|YP_007652838.1|vFam_1833| VPg protein [Ryegrass mottle virus]
+gi|474840480|ref|YP_007688816.1|vFam_1833| putative VPg [Papaya lethal yellowing virus]
+gi|475655853|ref|YP_007697628.1|vFam_1833| putative VPg protein [Southern cowpea mosaic virus]
+gi|474776918|ref|YP_007688812.1|vFam_1833| putative VPg protein [Soybean yellow common mosaic virus]
+gi|471346285|ref|YP_007652833.1|vFam_1833| VPg protein [Southern bean mosaic virus]

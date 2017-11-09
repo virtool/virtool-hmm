@@ -1,0 +1,11 @@
+CLUSTER	2093
+NUM_SEQ	3
+LENGTH	234
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	121.68
+FAMILIES	{'None': 1, 'Herpesviridae': 2}
+GENERA	{'None': 1, 'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|448825073|ref|YP_007418004.1|vFam_2093| endonuclease V [Megavirus lba]
+gi|356640520|ref|YP_004933962.1|vFam_2093| hypothetical protein cy217 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556641|ref|YP_068275.1|vFam_2093| rh186 [Macacine herpesvirus 3]

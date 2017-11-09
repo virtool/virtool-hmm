@@ -1,0 +1,15 @@
+CLUSTER	1295
+NUM_SEQ	7
+LENGTH	276
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	146.28
+FAMILIES	{'None': 1, 'Parvoviridae': 5}
+GENERA	{'None': 1, 'Brevidensovirus': 1, 'Densovirus': 1, 'Pefudensovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|310831422|ref|YP_003970065.1|vFam_1295| hypothetical protein crov432 [Cafeteria roenbergensis virus BV-PW1]
+gi|9633609|ref|NP_051021.1|vFam_1295| hypothetical protein PfdVgp6 [Periplaneta fuliginosa densovirus]
+gi|33235707|ref|NP_874382.1|vFam_1295| Orf4 [Blattella germanica densovirus]
+gi|422933779|ref|YP_007003824.1|vFam_1295| nonstructural protein NS2 [Pseudoplusia includens densovirus]
+gi|237642072|ref|YP_002887626.1|vFam_1295| nonstructural protein NS-2 [Culex pipiens densovirus]
+gi|62857329|ref|YP_227601.1|vFam_1295| Putative nonstructural protein NS2 [Acheta domestica densovirus]
+gi|557307521|ref|YP_008766861.1|vFam_1295| NS2 [Solenopsis invicta densovirus]

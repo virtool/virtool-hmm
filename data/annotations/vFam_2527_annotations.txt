@@ -1,0 +1,11 @@
+CLUSTER	2527
+NUM_SEQ	3
+LENGTH	637
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	324.87
+FAMILIES	{'Hepeviridae': 3}
+GENERA	{'None': 2, 'Hepevirus': 1}
+FASTA SEQUENCE TITLES:
+gi|335352417|ref|YP_004464918.1|vFam_2527| capsid protein [Cutthroat trout virus]
+gi|9626450|ref|NP_056788.1|vFam_2527| capsid protein [Hepatitis E virus]
+gi|400354814|ref|YP_006576508.1|vFam_2527| capsid protein [Bat hepevirus]

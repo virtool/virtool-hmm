@@ -1,0 +1,10 @@
+CLUSTER	5953
+NUM_SEQ	2
+LENGTH	95
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	50.35
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|506498162|ref|YP_008003959.1|vFam_5953| unknown similar to AMEV218 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497957|ref|YP_008003756.1|vFam_5953| unknown similar to AMEV218 [Mythimna separata entomopoxvirus 'L']

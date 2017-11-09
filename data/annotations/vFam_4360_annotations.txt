@@ -1,0 +1,10 @@
+CLUSTER	4360
+NUM_SEQ	2
+LENGTH	165
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	85.8
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035284|ref|YP_008436911.1|vFam_4360| hypothetical protein ps_496 [Pandoravirus salinus]
+gi|526119082|ref|YP_008318985.1|vFam_4360| hypothetical protein [Pandoravirus dulcis]

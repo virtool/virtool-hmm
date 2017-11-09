@@ -1,0 +1,27 @@
+CLUSTER	238
+NUM_SEQ	19
+LENGTH	273
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	141.96
+FAMILIES	{'Baculoviridae': 15}
+GENERA	{'Alphabaculovirus': 15}
+FASTA SEQUENCE TITLES:
+gi|15617533|ref|NP_258333.1|vFam_238| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|438000371|ref|YP_007250476.1|vFam_238| Mtase protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643608|ref|YP_002884298.1|vFam_238| Ac69-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964587|ref|YP_950783.1|vFam_238| Mv-ORF53 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|116326137|ref|YP_803463.1|vFam_238| putative methyltransferase [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|86355601|ref|YP_473269.1|vFam_238| MET [Hyphantria cunea nucleopolyhedrovirus]
+gi|15320719|ref|NP_203231.1|vFam_238| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|96979846|ref|YP_611052.1|vFam_238| met [Antheraea pernyi nucleopolyhedrovirus]
+gi|571031281|ref|YP_008992177.1|vFam_238| ac69 [Choristoneura murinana alphabaculovirus]
+gi|529153394|ref|YP_008378434.1|vFam_238| methyltransferase [Choristoneura rosaceana alphabaculovirus]
+gi|113195465|ref|YP_717602.1|vFam_238| Se89-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|209401119|ref|YP_002273988.1|vFam_238| putative methyl transferase [Helicoverpa armigera NPV NNg1]
+gi|209978826|ref|YP_002300569.1|vFam_238| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|22549506|ref|NP_689284.1|vFam_238| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|125860210|ref|YP_001036380.1|vFam_238| putative methyltransferase [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401486|ref|YP_002332790.1|vFam_238| hypothetical protein SlnV2_gp092 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634310|ref|NP_037849.1|vFam_238| ORF89 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209170985|ref|YP_002268132.1|vFam_238| agip102 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592813|ref|YP_529766.1|vFam_238| ORF-96 [Agrotis segetum nucleopolyhedrovirus]

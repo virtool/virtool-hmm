@@ -1,0 +1,10 @@
+CLUSTER	5838
+NUM_SEQ	2
+LENGTH	637
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	331.24
+FAMILIES	{'Partitiviridae': 2}
+GENERA	{'Partitivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|289189852|ref|NP_624348.2|vFam_5838| putative capsid protein [Fusarium poae virus 1]
+gi|62401662|ref|YP_227354.1|vFam_5838| capsid protein [Pleurotus ostreatus virus 1]

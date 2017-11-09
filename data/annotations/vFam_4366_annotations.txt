@@ -1,0 +1,11 @@
+CLUSTER	4366
+NUM_SEQ	3
+LENGTH	210
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	109.2
+FAMILIES	{'Virgaviridae': 3}
+GENERA	{'Tobravirus': 3}
+FASTA SEQUENCE TITLES:
+gi|20522123|ref|NP_620682.1|vFam_4366| coat protein [Tobacco rattle virus]
+gi|20178624|ref|NP_620037.1|vFam_4366| capsid protein [Pepper ringspot virus]
+gi|9626128|ref|NP_040351.1|vFam_4366| coat protein [Pea early-browning virus]

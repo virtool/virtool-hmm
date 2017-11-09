@@ -1,0 +1,22 @@
+CLUSTER	628
+NUM_SEQ	14
+LENGTH	297
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	157.41
+FAMILIES	{'Herpesviridae': 14}
+GENERA	{'Roseolovirus': 2, 'None': 2, 'Proboscivirus': 1, 'Muromegalovirus': 3, 'Cytomegalovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|496991160|ref|YP_007969789.1|vFam_628| capsid triplex subunit 2 [Elephantid herpesvirus 1]
+gi|448824920|ref|YP_007417852.1|vFam_628| GP85 [Caviid herpesvirus 2]
+gi|9845370|ref|NP_064184.1|vFam_628| pR85 [Murid herpesvirus 2]
+gi|425707285|ref|YP_007016482.1|vFam_628| E85 [Murid herpesvirus 8]
+gi|61660196|ref|YP_214087.1|vFam_628| hypothetical protein MuHV1_gp079 [Murid herpesvirus 1]
+gi|14251072|ref|NP_116434.1|vFam_628| T85 [Tupaiid herpesvirus 1]
+gi|360086563|ref|YP_004940248.1|vFam_628| capsid triplex subunit 2 [Saimiriine herpesvirus 3]
+gi|360040967|ref|YP_004940102.1|vFam_628| capsid triplex subunit 2 [Aotine herpesvirus 1]
+gi|356640415|ref|YP_004933857.1|vFam_628| protein UL85 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139258|ref|YP_081533.1|vFam_628| capsid triplex subunit 2 [Human herpesvirus 5]
+gi|20026676|ref|NP_612718.1|vFam_628| capsid triplex subunit 2 [Panine herpesvirus 2]
+gi|538447253|ref|YP_008492993.1|vFam_628| component of capsid triplexes [Porcine cytomegalovirus]
+gi|9633127|ref|NP_050237.1|vFam_628| capsid protein [Human herpesvirus 6B]
+gi|51874280|ref|YP_073798.1|vFam_628| capsid triplex subunit 2 [Human herpesvirus 7]

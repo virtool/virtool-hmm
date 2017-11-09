@@ -1,0 +1,11 @@
+CLUSTER	1552
+NUM_SEQ	3
+LENGTH	378
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	192.78
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Lymphocryptovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|24943161|ref|NP_733851.1|vFam_1552| C7 [callitrichine herpesvirus 3]
+gi|82503190|ref|YP_401632.1|vFam_1552| terminal protein LMP2B [Human herpesvirus 4]
+gi|51518015|ref|YP_067939.1|vFam_1552| LMP2B [Macacine herpesvirus 4]

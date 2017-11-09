@@ -1,0 +1,11 @@
+CLUSTER	3176
+NUM_SEQ	3
+LENGTH	182
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	91.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035013|ref|YP_008436638.1|vFam_3176| hypothetical protein ps_222 [Pandoravirus salinus]
+gi|531036952|ref|YP_008438594.1|vFam_3176| hypothetical protein ps_2192 [Pandoravirus salinus]
+gi|526119965|ref|YP_008319868.1|vFam_3176| hypothetical protein [Pandoravirus dulcis]

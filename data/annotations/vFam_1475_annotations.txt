@@ -1,0 +1,11 @@
+CLUSTER	1475
+NUM_SEQ	3
+LENGTH	562
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	286.62
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|159341085|ref|YP_001542644.1|vFam_1475| hypothetical protein [Acidianus rod-shaped virus 1]
+gi|22122312|ref|NP_666573.1|vFam_1475| hypothetical protein SIRV2gp39 [Sulfolobus islandicus rod-shaped virus 2]
+gi|22122258|ref|NP_666619.1|vFam_1475| hypothetical protein SIRV1gp31 [Sulfolobus islandicus rod-shaped virus 1]

@@ -1,0 +1,12 @@
+CLUSTER	2445
+NUM_SEQ	4
+LENGTH	192
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	99.84
+FAMILIES	{'Herpesviridae': 3, 'Asfarviridae': 1}
+GENERA	{'Lymphocryptovirus': 3, 'Asfivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9628149|ref|NP_042735.1|vFam_2445| bcl-2/bax homolog [African swine fever virus]
+gi|82503204|ref|YP_401646.1|vFam_2445| BHRF1 [Human herpesvirus 4]
+gi|51518020|ref|YP_067944.1|vFam_2445| BHRF1 [Macacine herpesvirus 4]
+gi|24943156|ref|NP_733918.1|vFam_2445| ORF64 [callitrichine herpesvirus 3]

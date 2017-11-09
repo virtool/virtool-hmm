@@ -1,0 +1,10 @@
+CLUSTER	3735
+NUM_SEQ	2
+LENGTH	127
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	63.5
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281760|ref|YP_003331420.1|vFam_3735| hypothetical protein [Acidianus spindle-shaped virus 1]
+gi|47131169|ref|YP_015535.1|vFam_3735| hypothetical protein PyrSV_gp14 [Pyrobaculum spherical virus]

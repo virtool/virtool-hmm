@@ -1,0 +1,26 @@
+CLUSTER	212
+NUM_SEQ	18
+LENGTH	256
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	125.44
+FAMILIES	{'Adenoviridae': 17}
+GENERA	{'None': 1, 'Mastadenovirus': 16}
+FASTA SEQUENCE TITLES:
+gi|496838690|ref|YP_007518308.1|vFam_212| E1A [Titi monkey adenovirus ECC-2011]
+gi|46852403|ref|YP_009196.1|vFam_212| E1A [Porcine adenovirus 3]
+gi|460042638|ref|YP_007518065.1|vFam_212| E1a [Simian adenovirus 20]
+gi|51518816|ref|YP_067903.1|vFam_212| E1A [Simian adenovirus 3]
+gi|386522684|ref|YP_006272949.1|vFam_212| E1A [Chimpanzee adenovirus Y25]
+gi|197944767|ref|YP_002213798.1|vFam_212| control protein E1A [Human adenovirus B]
+gi|56160596|ref|AP_000261.1|vFam_212| E1A [Simian adenovirus 21]
+gi|197944727|ref|YP_002213765.1|vFam_212| control protein E1A [Human adenovirus B]
+gi|540155827|ref|YP_008520221.1|vFam_212| E1a [Simian adenovirus 18]
+gi|9626555|ref|NP_040845.1|vFam_212| control protein E1A [Human adenovirus F]
+gi|485191058|ref|YP_007905994.1|vFam_212| E1A [Simian adenovirus C]
+gi|61602119|ref|YP_213961.1|vFam_212| E1A [Simian adenovirus 1]
+gi|327415371|ref|YP_004300199.1|vFam_212| unnamed protein product [Simian adenovirus 49]
+gi|253761975|ref|YP_003038597.1|vFam_212| early E1A 13s [Human adenovirus 54]
+gi|190340975|ref|YP_001974422.1|vFam_212| control protein E1A [Human adenovirus D]
+gi|56160437|ref|AP_000107.1|vFam_212| E1A [Human adenovirus A]
+gi|56160840|ref|AP_000498.1|vFam_212| E1A [Human adenovirus 1]
+gi|9626159|ref|NP_040508.1|vFam_212| control protein E1A 243R [Human adenovirus C]

@@ -1,0 +1,18 @@
+CLUSTER	510
+NUM_SEQ	10
+LENGTH	205
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	104.55
+FAMILIES	{'Baculoviridae': 6}
+GENERA	{'Alphabaculovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|119964542|ref|YP_950738.1|vFam_510| Mv-ORF8 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|438000322|ref|YP_007250427.1|vFam_510| bv/odv-e26 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643558|ref|YP_002884248.1|vFam_510| BV/ODV-E26 [Bombyx mandarina nucleopolyhedrovirus]
+gi|9629953|ref|NP_046171.1|vFam_510| hypothetical protein OpmnVgp015 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153450|ref|YP_008378490.1|vFam_510| ODV-E26 [Choristoneura rosaceana alphabaculovirus]
+gi|571031330|ref|YP_008992227.1|vFam_510| BV/ODV-E26 [Choristoneura murinana alphabaculovirus]
+gi|529153612|ref|YP_008378637.1|vFam_510| ODV-E26 [Choristoneura occidentalis alphabaculovirus]
+gi|96979889|ref|YP_611098.1|vFam_510| odv-e26 [Antheraea pernyi nucleopolyhedrovirus]
+gi|15320670|ref|NP_203182.1|vFam_510| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326086|ref|YP_803411.1|vFam_510| occlusion-derived virus envelope protein [Anticarsia gemmatalis nucleopolyhedrovirus]

@@ -1,0 +1,10 @@
+CLUSTER	5624
+NUM_SEQ	2
+LENGTH	115
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	58.65
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Cervidpoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|211956411|ref|YP_002302480.1|vFam_5624| hypothetical protein DpV84gp140 [Deerpox virus W-1170-84]
+gi|62637517|ref|YP_227515.1|vFam_5624| hypothetical protein DpV83gp140 [Deerpox virus W-848-83]

@@ -1,0 +1,11 @@
+CLUSTER	3100
+NUM_SEQ	3
+LENGTH	317
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	164.84
+FAMILIES	{'Tombusviridae': 3}
+GENERA	{'Dianthovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|20069875|ref|NP_613257.1|vFam_3100| CRSV movement protein [Carnation ringspot virus]
+gi|20522131|ref|NP_620676.1|vFam_3100| movement protein [Sweet clover necrotic mosaic virus]
+gi|20429234|ref|NP_620546.1|vFam_3100| movement protein [Red clover necrotic mosaic virus]

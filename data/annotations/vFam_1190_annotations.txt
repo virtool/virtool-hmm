@@ -1,0 +1,15 @@
+CLUSTER	1190
+NUM_SEQ	7
+LENGTH	251
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	133.03
+FAMILIES	{'Filoviridae': 7}
+GENERA	{'Marburgvirus': 1, 'None': 1, 'Ebolavirus': 5}
+FASTA SEQUENCE TITLES:
+gi|158539114|ref|YP_001531158.1|vFam_1190| VP24 [Marburg marburgvirus]
+gi|355469079|ref|YP_004928142.1|vFam_1190| VP24 [Lloviu virus]
+gi|55770814|ref|YP_138526.1|vFam_1190| membrane-associated protein VP24 [Sudan ebolavirus]
+gi|22789228|ref|NP_690586.1|vFam_1190| membrane-associated protein VP24 [Reston ebolavirus]
+gi|10313998|ref|NP_066250.1|vFam_1190| VP24 gene product [Ebola virus - Mayinga, Zaire, 1976]
+gi|302371220|ref|YP_003815439.1|vFam_1190| VP24 [Bundibugyo ebolavirus]
+gi|302315376|ref|YP_003815430.1|vFam_1190| VP24 [Tai Forest ebolavirus]

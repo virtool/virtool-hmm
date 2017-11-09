@@ -1,0 +1,22 @@
+CLUSTER	540
+NUM_SEQ	14
+LENGTH	171
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	88.92
+FAMILIES	{'Poxviridae': 14}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Suipoxvirus': 1, 'Yatapoxvirus': 2, 'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|41057173|ref|NP_957887.1|vFam_540| ORF110 EEV glycoprotein [Orf virus]
+gi|41057546|ref|NP_958019.1|vFam_540| ORF110 EEV glycoprotein [Bovine papular stomatitis virus]
+gi|289183876|ref|YP_003457417.1|vFam_540| EEV glycoprotein [Pseudocowpox virus]
+gi|9629075|ref|NP_044094.1|vFam_540| MC143R [Molluscum contagiosum virus subtype 1]
+gi|571798049|ref|YP_008658548.1|vFam_540| EEV protein [Squirrelpox virus]
+gi|377830028|ref|YP_005296329.1|vFam_540| unnamed protein product [Cotia virus SPAn232]
+gi|113195335|ref|YP_717465.1|vFam_540| IEV and EEV outer membrane lectin-like glycoprotein [Taterapox virus]
+gi|345107328|ref|YP_004821493.1|vFam_540| IEV and EEV membrane glycoprotein [Yoka poxvirus]
+gi|148913001|ref|YP_001293315.1|vFam_540| hypothetical protein GTPV_gp118 [Goatpox virus Pellor]
+gi|9633758|ref|NP_051836.1|vFam_540| m122R [Myxoma virus]
+gi|157939747|ref|YP_001497119.1|vFam_540| C-type lectin-like protein domain [Tanapox virus]
+gi|38229286|ref|NP_938379.1|vFam_540| 123R [Yaba monkey tumor virus]
+gi|211956404|ref|YP_002302473.1|vFam_540| EEV protein [Deerpox virus W-1170-84]
+gi|18640206|ref|NP_570280.1|vFam_540| SPV120 hypothetical protein [Swinepox virus]

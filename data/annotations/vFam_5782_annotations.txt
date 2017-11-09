@@ -1,0 +1,10 @@
+CLUSTER	5782
+NUM_SEQ	2
+LENGTH	59
+RELATIVE_ENTROPY_PER_POSITION	0.89
+TOTAL_RELATIVE_ENTROPY	52.51
+FAMILIES	{'Potyviridae': 2}
+GENERA	{'Potyvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|390508039|ref|YP_006423984.1|vFam_5782| PIPO, partial [Chilli ringspot virus]
+gi|390371012|ref|YP_006405418.1|vFam_5782| PIPO, partial [Tobacco vein banding mosaic virus]

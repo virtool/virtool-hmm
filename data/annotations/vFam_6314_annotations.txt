@@ -1,0 +1,10 @@
+CLUSTER	6314
+NUM_SEQ	2
+LENGTH	279
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	142.29
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'Mimivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|311977519|ref|YP_003986639.1|vFam_6314| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|311977517|ref|YP_003986637.1|vFam_6314| hypothetical protein [Acanthamoeba polyphaga mimivirus]

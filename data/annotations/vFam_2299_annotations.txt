@@ -1,0 +1,13 @@
+CLUSTER	2299
+NUM_SEQ	5
+LENGTH	90
+RELATIVE_ENTROPY_PER_POSITION	0.57
+TOTAL_RELATIVE_ENTROPY	51.3
+FAMILIES	{'Orthomyxoviridae': 5}
+GENERA	{'Influenzavirus A': 5}
+FASTA SEQUENCE TITLES:
+gi|83031685|ref|YP_418248.1|vFam_2299| PB1-F2 protein [Influenza A virus (A/Puerto Rico/8/34(H1N1))]
+gi|73919150|ref|YP_308848.1|vFam_2299| PB1-F2 protein [Influenza A virus (A/New York/392/2004(H3N2))]
+gi|73921833|ref|YP_308877.1|vFam_2299| PB1-F2 protein [Influenza A virus (A/Korea/426/68(H2N2))]
+gi|86451086|ref|YP_473349.1|vFam_2299| PB1-F2 proein [Influenza A virus (A/Hong Kong/1073/99(H9N2))]
+gi|86451085|ref|YP_473348.1|vFam_2299| PB1-F2 protein [Influenza A virus (A/goose/Guangdong/1/1996(H5N1))]

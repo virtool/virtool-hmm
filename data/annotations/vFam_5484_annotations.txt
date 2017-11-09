@@ -1,0 +1,10 @@
+CLUSTER	5484
+NUM_SEQ	2
+LENGTH	274
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	142.48
+FAMILIES	{'Closteroviridae': 2}
+GENERA	{'Crinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|258657515|ref|YP_003204954.1|vFam_5484| ORF2 [Tomato infectious chlorosis virus]
+gi|20153352|ref|NP_619694.1|vFam_5484| hypothetical protein LIYVs1gp2 [Lettuce infectious yellows virus]

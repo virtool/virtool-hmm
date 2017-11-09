@@ -1,0 +1,14 @@
+CLUSTER	1227
+NUM_SEQ	6
+LENGTH	141
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	71.91
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|506498151|ref|YP_008003948.1|vFam_1227| inhibitor of apoptosis 4 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497884|ref|YP_008003683.1|vFam_1227| inhibitor of apoptosis 4 [Mythimna separata entomopoxvirus 'L']
+gi|15320749|ref|NP_203261.1|vFam_1227| IAP-4 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|29567122|ref|NP_818684.1|vFam_1227| inhibitor of apoptosis protein 4 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|571031247|ref|YP_008992143.1|vFam_1227| iap4 [Choristoneura murinana alphabaculovirus]
+gi|9630044|ref|NP_046262.1|vFam_1227| inhibitor of apoptosis protein 4 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]

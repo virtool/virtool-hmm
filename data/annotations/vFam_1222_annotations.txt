@@ -1,0 +1,14 @@
+CLUSTER	1222
+NUM_SEQ	6
+LENGTH	437
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	227.24
+FAMILIES	{'Partitiviridae': 6}
+GENERA	{'Partitivirus': 5, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|20889303|ref|NP_624351.1|vFam_1222| capsid protein [Mycovirus FusoV]
+gi|167851793|ref|YP_001686790.1|vFam_1222| coat protein [Botryotinia fuckeliana partitivirus 1]
+gi|20279568|ref|NP_620302.1|vFam_1222| capsid protein [Discula destructiva virus 2]
+gi|14329172|ref|NP_116742.1|vFam_1222| viral capsid protein [Discula destructiva virus 1]
+gi|55733723|ref|YP_138541.1|vFam_1222| coat protein [Gremmeniella abietina RNA virus MS2]
+gi|50198932|ref|YP_052857.1|vFam_1222| capsid protein [Penicillium stoloniferum virus S]

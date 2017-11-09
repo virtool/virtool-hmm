@@ -1,0 +1,11 @@
+CLUSTER	3004
+NUM_SEQ	3
+LENGTH	545
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	283.4
+FAMILIES	{'Potyviridae': 2}
+GENERA	{'Potyvirus': 1, 'Ipomovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|170778503|ref|YP_001788992.1|vFam_3004| P1a [Squash vein yellowing virus]
+gi|570364801|ref|YP_008992245.1|vFam_3004| P1 segment [Zucchini tigre mosaic virus]
+gi|25013549|ref|NP_734233.1|vFam_3004| P1 protein [Papaya ringspot virus]

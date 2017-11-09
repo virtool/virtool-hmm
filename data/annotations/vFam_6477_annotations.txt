@@ -1,0 +1,10 @@
+CLUSTER	6477
+NUM_SEQ	2
+LENGTH	224
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	116.48
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|285002345|ref|YP_003422409.1|vFam_6477| hypothetical protein PsunGV_gp070 [Pseudaletia unipuncta granulovirus]
+gi|9635321|ref|NP_059219.1|vFam_6477| ORF71 [Xestia c-nigrum granulovirus]

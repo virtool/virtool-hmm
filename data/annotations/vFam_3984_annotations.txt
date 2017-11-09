@@ -1,0 +1,10 @@
+CLUSTER	3984
+NUM_SEQ	2
+LENGTH	448
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	228.48
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|310831079|ref|YP_003969722.1|vFam_3984| hypothetical protein crov090 [Cafeteria roenbergensis virus BV-PW1]
+gi|310831078|ref|YP_003969721.1|vFam_3984| hypothetical protein crov089 [Cafeteria roenbergensis virus BV-PW1]

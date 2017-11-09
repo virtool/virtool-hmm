@@ -1,0 +1,10 @@
+CLUSTER	5113
+NUM_SEQ	2
+LENGTH	179
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	93.08
+FAMILIES	{'Paramyxoviridae': 2}
+GENERA	{'Metapneumovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|83716032|ref|YP_443843.1|vFam_5113| small hydrophobic protein [Avian metapneumovirus]
+gi|46852139|ref|YP_012611.1|vFam_5113| small hydrophobic protein [Human metapneumovirus]

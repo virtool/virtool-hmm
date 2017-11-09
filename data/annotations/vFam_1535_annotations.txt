@@ -1,0 +1,15 @@
+CLUSTER	1535
+NUM_SEQ	7
+LENGTH	68
+RELATIVE_ENTROPY_PER_POSITION	0.76
+TOTAL_RELATIVE_ENTROPY	51.68
+FAMILIES	{'Picornaviridae': 6}
+GENERA	{'Cosavirus': 3, 'Cardiovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|239830833|ref|YP_002956119.1|vFam_1535| VP4 [Human cosavirus D]
+gi|239828758|ref|YP_002956077.1|vFam_1535| VP4 [Human cosavirus E]
+gi|239830820|ref|YP_002956108.1|vFam_1535| VP4 [Human cosavirus B]
+gi|239828782|ref|YP_002956097.1|vFam_1535| VP4 [Cosavirus A]
+gi|189418896|ref|YP_001950222.1|vFam_1535| capsid protein VP4 [Human TMEV-like cardiovirus]
+gi|25121875|ref|NP_740424.1|vFam_1535| capsid protein VP4 [Theilovirus]
+gi|25121605|ref|NP_740402.1|vFam_1535| protein 1A [Encephalomyocarditis virus]

@@ -1,0 +1,12 @@
+CLUSTER	3054
+NUM_SEQ	4
+LENGTH	393
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	208.29
+FAMILIES	{'Paramyxoviridae': 4}
+GENERA	{'Pneumovirus': 2, 'Metapneumovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|83716026|ref|YP_443837.1|vFam_3054| nucleoprotein [Avian metapneumovirus]
+gi|46852133|ref|YP_012605.1|vFam_3054| nucleoprotein [Human metapneumovirus]
+gi|56900717|ref|YP_173326.1|vFam_3054| nucleocapsid protein [Pneumonia virus of mice J3666]
+gi|9631270|ref|NP_048050.1|vFam_3054| N [Bovine respiratory syncytial virus]

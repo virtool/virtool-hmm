@@ -1,0 +1,14 @@
+CLUSTER	2039
+NUM_SEQ	6
+LENGTH	73
+RELATIVE_ENTROPY_PER_POSITION	0.70
+TOTAL_RELATIVE_ENTROPY	51.1
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Alphabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|113195425|ref|YP_717561.1|vFam_2039| Chch27-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|74229711|ref|YP_308915.1|vFam_2039| orf25b [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304163|ref|YP_249631.1|vFam_2039| ORF-27 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|118197502|ref|YP_874215.1|vFam_2039| hypothetical protein EONV_gp022 [Ectropis obliqua nucleopolyhedrovirus]
+gi|402502209|ref|YP_006607867.1|vFam_2039| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|165969067|ref|YP_001650967.1|vFam_2039| hypothetical protein [Orgyia leucostigma NPV]

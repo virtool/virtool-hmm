@@ -1,0 +1,10 @@
+CLUSTER	6646
+NUM_SEQ	2
+LENGTH	259
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	132.09
+FAMILIES	{'Secoviridae': 2}
+GENERA	{'Nepovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|50511899|ref|YP_054436.1|vFam_6646| hypothetical peptide [Arabis mosaic virus]
+gi|25013719|ref|NP_733994.1|vFam_6646| hypothetical peptide [Grapevine fanleaf virus]

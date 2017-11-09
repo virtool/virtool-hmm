@@ -1,0 +1,11 @@
+CLUSTER	4131
+NUM_SEQ	3
+LENGTH	310
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	158.1
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|526118865|ref|YP_008318768.1|vFam_4131| hypothetical protein [Pandoravirus dulcis]
+gi|531035223|ref|YP_008436849.1|vFam_4131| F-box domain [Pandoravirus salinus]
+gi|526119037|ref|YP_008318940.1|vFam_4131| F-box domain [Pandoravirus dulcis]

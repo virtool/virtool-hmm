@@ -1,0 +1,10 @@
+CLUSTER	5009
+NUM_SEQ	2
+LENGTH	170
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	88.4
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|356640564|ref|YP_004934006.1|vFam_5009| hypothetical protein cy261 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556682|ref|YP_068316.1|vFam_5009| rh229 [Macacine herpesvirus 3]

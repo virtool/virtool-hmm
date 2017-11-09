@@ -1,0 +1,12 @@
+CLUSTER	2421
+NUM_SEQ	4
+LENGTH	538
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	274.38
+FAMILIES	{'Reoviridae': 4}
+GENERA	{'Cypovirus': 3, 'Dinovernavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|187764324|ref|YP_001883315.1|vFam_2421| p7 [Cypovirus 5]
+gi|14993621|ref|NP_149140.1|vFam_2421| hypothetical protein LdcV14s6gp1 [Cypovirus 14]
+gi|83721702|ref|YP_443940.1|vFam_2421| VP6 [Aedes pseudoscutellaris reovirus]
+gi|14993642|ref|NP_149151.1|vFam_2421| hypothetical protein LdCPV1s6gp1 [Cypovirus 1]

@@ -1,0 +1,11 @@
+CLUSTER	913
+NUM_SEQ	3
+LENGTH	242
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	123.42
+FAMILIES	{'Secoviridae': 3}
+GENERA	{'Torradovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|190643476|ref|YP_001976157.1|vFam_913| coat protein Vp24 [Tomato marchitez virus]
+gi|190643475|ref|YP_001976156.1|vFam_913| coat protein Vp26 [Tomato marchitez virus]
+gi|190643474|ref|YP_001976155.1|vFam_913| coat protein Vp35 [Tomato marchitez virus]

@@ -1,0 +1,10 @@
+CLUSTER	6412
+NUM_SEQ	2
+LENGTH	197
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	100.47
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313768196|ref|YP_004061627.1|vFam_6412| hypothetical protein BpV1_197 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768195|ref|YP_004061626.1|vFam_6412| hypothetical protein BpV1_196 [Bathycoccus sp. RCC1105 virus BpV1]

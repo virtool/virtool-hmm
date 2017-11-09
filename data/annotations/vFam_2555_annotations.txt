@@ -1,0 +1,11 @@
+CLUSTER	2555
+NUM_SEQ	3
+LENGTH	295
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	153.4
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977990|ref|YP_003987110.1|vFam_2555| putative peptidase S9 [Acanthamoeba polyphaga mimivirus]
+gi|448825703|ref|YP_007418634.1|vFam_2555| putative peptidase S9 [Megavirus lba]
+gi|441432547|ref|YP_007354589.1|vFam_2555| Alpha/beta hydrolase family protein [Acanthamoeba polyphaga moumouvirus]

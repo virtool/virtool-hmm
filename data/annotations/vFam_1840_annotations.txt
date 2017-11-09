@@ -1,0 +1,13 @@
+CLUSTER	1840
+NUM_SEQ	5
+LENGTH	121
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	60.5
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1}
+GENERA	{'None': 1, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|155370620|ref|YP_001426154.1|vFam_1840| hypothetical protein FR483_n522R [Paramecium bursaria Chlorella virus FR483]
+gi|475994038|ref|YP_007697641.1|vFam_1840| ORF3b [Meno virus]
+gi|475994047|ref|YP_007697647.1|vFam_1840| ORF3b [Nse virus]
+gi|338209355|ref|YP_004598986.1|vFam_1840| hypothetical protein CAVV_gp6 [Cavally virus]
+gi|475994030|ref|YP_007697634.1|vFam_1840| ORF3b [Hana virus]

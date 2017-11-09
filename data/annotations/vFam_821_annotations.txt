@@ -1,0 +1,12 @@
+CLUSTER	821
+NUM_SEQ	4
+LENGTH	615
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	313.65
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|15320793|ref|NP_203169.1|vFam_821| ORF1629 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|96979771|ref|YP_610971.1|vFam_821| 1629-capsid [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355522|ref|YP_473190.1|vFam_821| 1629capsid [Hyphantria cunea nucleopolyhedrovirus]
+gi|571031198|ref|YP_008992094.1|vFam_821| pp78/83 [Choristoneura murinana alphabaculovirus]

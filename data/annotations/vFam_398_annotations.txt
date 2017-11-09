@@ -1,0 +1,18 @@
+CLUSTER	398
+NUM_SEQ	10
+LENGTH	184
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	95.68
+FAMILIES	{'None': 2, 'Phycodnaviridae': 8}
+GENERA	{'None': 2, 'Prymnesiovirus': 1, 'Phaeovirus': 2, 'Chlorovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|448825951|ref|YP_007418882.1|vFam_398| hypothetical protein LBA_00988 [Megavirus lba]
+gi|310831363|ref|YP_003970006.1|vFam_398| hypothetical protein crov373 [Cafeteria roenbergensis virus BV-PW1]
+gi|197322428|ref|YP_002154701.1|vFam_398| hypothetical protein FeldSpV_gp079 [Feldmannia species virus]
+gi|13242612|ref|NP_077626.1|vFam_398| EsV-1-141 [Ectocarpus siliculosus virus 1]
+gi|508181934|ref|YP_008052453.1|vFam_398| hypothetical protein PGCG_00134 [Phaeocystis globosa virus]
+gi|9632038|ref|NP_048827.1|vFam_398| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953767|ref|YP_001498658.1|vFam_398| hypothetical protein AR158_C577R [Paramecium bursaria Chlorella virus AR158]
+gi|157952942|ref|YP_001497834.1|vFam_398| hypothetical protein NY2A_B638R [Paramecium bursaria Chlorella virus NY2A]
+gi|155370992|ref|YP_001426526.1|vFam_398| hypothetical protein ATCV1_Z045L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370753|ref|YP_001426287.1|vFam_398| hypothetical protein FR483_N655L [Paramecium bursaria Chlorella virus FR483]

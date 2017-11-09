@@ -1,0 +1,21 @@
+CLUSTER	273
+NUM_SEQ	13
+LENGTH	176
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	91.52
+FAMILIES	{'None': 2, 'Phycodnaviridae': 9, 'Marseillevirus family': 2}
+GENERA	{'None': 6, 'Prymnesiovirus': 1, 'Chlorovirus': 3, 'Prasinovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|448261154|ref|YP_005352827.1|vFam_273| putative protein 41 [Haloarcula hispanica icosahedral virus 2]
+gi|327409769|ref|YP_004347189.1|vFam_273| putative DNA-directed RNA polymerase 30 kDa polypeptide [Lausannevirus]
+gi|284504247|ref|YP_003406962.1|vFam_273| transcription factor S-II-domain-containing protein RNAP subunit [Marseillevirus]
+gi|310831288|ref|YP_003969931.1|vFam_273| putative transcription elongation factor TFIIS [Cafeteria roenbergensis virus BV-PW1]
+gi|155370263|ref|YP_001425797.1|vFam_273| hypothetical protein FR483_N165L [Paramecium bursaria Chlorella virus FR483]
+gi|157952479|ref|YP_001497371.1|vFam_273| hypothetical protein NY2A_B175L [Paramecium bursaria Chlorella virus NY2A]
+gi|9631693|ref|NP_048472.1|vFam_273| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|508181995|ref|YP_008052514.1|vFam_273| transcription elongation factor TFIIS_C domain-containing protein [Phaeocystis globosa virus]
+gi|313768016|ref|YP_004061447.1|vFam_273| hypothetical protein BpV1_017c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768224|ref|YP_004061904.1|vFam_273| hypothetical protein MpV1_021c [Micromonas sp. RCC1109 virus MpV1]
+gi|313844000|ref|YP_004061663.1|vFam_273| hypothetical protein OlV1_030c [Ostreococcus lucimarinus virus OlV1]
+gi|260665894|ref|YP_003212848.1|vFam_273| hypothetical protein H665_p024 [Ostreococcus tauri virus 1]
+gi|314055114|ref|YP_004063452.1|vFam_273| putative transcription elongation factor TFIIS [Ostreococcus tauri virus 2]

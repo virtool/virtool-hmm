@@ -1,0 +1,15 @@
+CLUSTER	835
+NUM_SEQ	7
+LENGTH	1227
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	650.31
+FAMILIES	{'Reoviridae': 7}
+GENERA	{'None': 2, 'Cypovirus': 3, 'Oryzavirus': 1, 'Dinovernavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|375294200|ref|YP_005255241.1|vFam_835| S2 gene product [Spissistilus festinus reovirus]
+gi|308928606|ref|YP_003934919.1|vFam_835| RNA-dependent RNA polymerase P3a [Raspberry latent virus]
+gi|20428613|ref|NP_620541.1|vFam_835| RNA-dependent RNA polymerase [Rice ragged stunt virus]
+gi|83721694|ref|YP_443936.1|vFam_835| VP2 [Aedes pseudoscutellaris reovirus]
+gi|187765472|ref|YP_001883321.1|vFam_835| p3 [Heliothis armigera cypovirus 5]
+gi|14993634|ref|NP_149147.1|vFam_835| RNA-dependent RNA polymerase [Cypovirus 1]
+gi|14993611|ref|NP_149135.1|vFam_835| RNA dependent RNA polymerase [Cypovirus 14]

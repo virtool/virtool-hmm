@@ -1,0 +1,26 @@
+CLUSTER	296
+NUM_SEQ	18
+LENGTH	529
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	269.79
+FAMILIES	{'Herpesviridae': 18}
+GENERA	{'Varicellovirus': 7, 'Mardivirus': 4, 'Iltovirus': 2, 'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|149999618|ref|NP_073314.2|vFam_296| tegument protein UL21 [Meleagrid herpesvirus 1]
+gi|125745072|ref|YP_001033949.1|vFam_296| tegument protein UL21 [Gallid herpesvirus 2]
+gi|10834890|ref|NP_066851.1|vFam_296| tegument protein UL21 [Gallid herpesvirus 3]
+gi|312162834|ref|YP_003933819.1|vFam_296| tegument protein UL21 [Saimiriine herpesvirus 1]
+gi|83722589|ref|YP_443867.1|vFam_296| tegument protein UL21 [Papiine herpesvirus 2]
+gi|30984449|ref|NP_851880.1|vFam_296| tegument protein UL21 [Macacine herpesvirus 1]
+gi|9629401|ref|NP_044622.1|vFam_296| tegument protein UL21 [Human herpesvirus 1]
+gi|9629290|ref|NP_044490.1|vFam_296| tegument protein UL21 [Human herpesvirus 2]
+gi|255683193|ref|YP_003084401.1|vFam_296| UL21 [Anatid herpesvirus 1]
+gi|13242431|ref|NP_077453.1|vFam_296| tegument protein UL21 [Cercopithecine herpesvirus 9]
+gi|9625913|ref|NP_040161.1|vFam_296| tegument protein UL21 [Human herpesvirus 3]
+gi|9629854|ref|NP_045338.1|vFam_296| tegument protein UL21 [Bovine herpesvirus 1]
+gi|51557520|ref|YP_068354.1|vFam_296| tegument protein UL21 [Suid herpesvirus 1]
+gi|270339478|ref|YP_003331560.1|vFam_296| tegument protein UL21 [Felid herpesvirus 1]
+gi|216905894|ref|YP_002333522.1|vFam_296| tegument protein UL21 [Equid herpesvirus 9]
+gi|9629768|ref|NP_045258.1|vFam_296| tegument protein UL21 [Equid herpesvirus 4]
+gi|57790970|ref|YP_182374.1|vFam_296| tegument protein UL21 [Gallid herpesvirus 1]
+gi|38638235|ref|NP_944418.1|vFam_296| tegument protein UL21 [Psittacid herpesvirus 1]

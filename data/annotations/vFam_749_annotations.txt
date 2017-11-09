@@ -1,0 +1,13 @@
+CLUSTER	749
+NUM_SEQ	5
+LENGTH	344
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	175.44
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'Capripoxvirus': 1, 'Yatapoxvirus': 2, 'Avipoxvirus': 1, 'Cervidpoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|40556152|ref|NP_955237.1|vFam_749| CNPV214 vaccinia C4L/C10L-like protein [Canarypox virus]
+gi|157939775|ref|YP_001497147.1|vFam_749| hypothetical protein TANV_151R [Tanapox virus]
+gi|38229309|ref|NP_938402.1|vFam_749| 151R [Yaba monkey tumor virus]
+gi|148912885|ref|YP_001293199.1|vFam_749| hypothetical protein GTPV_gp005 [Goatpox virus Pellor]
+gi|211956281|ref|YP_002302349.1|vFam_749| hypothetical protein DpV84gp007 [Deerpox virus W-1170-84]

@@ -1,0 +1,11 @@
+CLUSTER	2798
+NUM_SEQ	3
+LENGTH	335
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	174.2
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977803|ref|YP_003986923.1|vFam_2798| uncharacterized short-chain type dehydrogenase/reductase [Acanthamoeba polyphaga mimivirus]
+gi|448825437|ref|YP_007418368.1|vFam_2798| putative short-chain type dehydrogenase/reductase [Megavirus lba]
+gi|441432329|ref|YP_007354371.1|vFam_2798| putative dehydrogenase [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,18 @@
+CLUSTER	1031
+NUM_SEQ	10
+LENGTH	69
+RELATIVE_ENTROPY_PER_POSITION	0.75
+TOTAL_RELATIVE_ENTROPY	51.75
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|154551156|ref|YP_611063.2|vFam_1031| hypothetical protein APNV_p095 [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326125|ref|YP_803450.1|vFam_1031| hypothetical protein AGNV_gp056 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320707|ref|NP_203219.1|vFam_1031| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|529153572|ref|YP_008378597.1|vFam_1031| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|529153407|ref|YP_008378447.1|vFam_1031| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|86355615|ref|YP_473283.1|vFam_1031| ORF95 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629997|ref|NP_046215.1|vFam_1031| hypothetical protein OpmnVgp059 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|119964575|ref|YP_950771.1|vFam_1031| Mv-ORF41 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|438000358|ref|YP_007250463.1|vFam_1031| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643595|ref|YP_002884285.1|vFam_1031| Ac55-like protein [Bombyx mandarina nucleopolyhedrovirus]

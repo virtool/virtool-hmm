@@ -1,0 +1,33 @@
+CLUSTER	243
+NUM_SEQ	25
+LENGTH	161
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	86.94
+FAMILIES	{'Virgaviridae': 23}
+GENERA	{'Tobamovirus': 23}
+FASTA SEQUENCE TITLES:
+gi|219552919|ref|YP_002455907.1|vFam_243| 18 kDa [Cactus mild mottle virus]
+gi|360040888|ref|YP_004936169.1|vFam_243| CP gene product [Rattail cactus necrosis associated virus]
+gi|333595892|ref|YP_004465361.1|vFam_243| unnamed protein product [Passion fruit mosaic virus]
+gi|119964533|ref|YP_950424.1|vFam_243| 18 kDa coat protein [Maracuja mosaic virus]
+gi|20153399|ref|NP_619687.1|vFam_243| coat Protein [Kyuri green mottle mosaic virus]
+gi|12018230|ref|NP_072164.1|vFam_243| unnamed protein product [Cucumber fruit mottle mosaic virus]
+gi|20889369|ref|NP_624339.1|vFam_243| coat Protein [Zucchini green mottle mosaic virus]
+gi|118725123|ref|YP_908763.1|vFam_243| 18 kDa coat protein [Cucumber mottle virus]
+gi|9629356|ref|NP_044580.1|vFam_243| coat protein [Cucumber green mottle mosaic virus]
+gi|113460145|ref|YP_720000.1|vFam_243| coat protein [Hibiscus latent Singapore virus]
+gi|366091752|ref|YP_004956730.1|vFam_243| unnamed protein product [Clitoria yellow mottle virus]
+gi|308125296|ref|YP_003915156.1|vFam_243| 18 kDa coat protein [Frangipani mosaic virus]
+gi|557940293|ref|YP_008802587.1|vFam_243| coat protein [Yellow tailflower mild mottle virus]
+gi|190149261|ref|YP_001974326.1|vFam_243| coat protein [Brugmansia mild mottle virus]
+gi|22212891|ref|NP_671721.1|vFam_243| 17kDa protein [Paprika mild mottle virus]
+gi|20806014|ref|NP_620844.1|vFam_243| coat protein [Obuda pepper virus]
+gi|9790354|ref|NP_062916.1|vFam_243| coat protein [Tobacco mild green mosaic virus]
+gi|9628917|ref|NP_056812.1|vFam_243| 18KDa coat protein [Odontoglossum ringspot virus]
+gi|20177428|ref|NP_619743.1|vFam_243| coat protein [Pepper mild mottle virus]
+gi|151266416|ref|YP_001333653.1|vFam_243| coat protein [Bell pepper mottle virus]
+gi|126165314|ref|YP_001041892.1|vFam_243| 17.5 kDa protein [Rehmannia mosaic virus]
+gi|537711875|ref|YP_008492931.1|vFam_243| 17.7 kDa coat protein [Tomato mottle mosaic virus]
+gi|115350055|ref|YP_762620.1|vFam_243| coat protein [Streptocarpus flower break virus]
+gi|383271568|ref|YP_005476603.1|vFam_243| coat protein [Ribgrass mosaic virus]
+gi|25140190|ref|NP_740759.1|vFam_243| coat protein [Youcai mosaic virus]

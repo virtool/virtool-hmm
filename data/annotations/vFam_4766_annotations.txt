@@ -1,0 +1,10 @@
+CLUSTER	4766
+NUM_SEQ	2
+LENGTH	314
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	163.28
+FAMILIES	{'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134287320|ref|YP_001111016.1|vFam_4766| caspase-like protein [Heliothis virescens ascovirus 3e]
+gi|115298575|ref|YP_762428.1|vFam_4766| 32.6 kDA Caspase 3/7 [Spodoptera frugiperda ascovirus 1a]

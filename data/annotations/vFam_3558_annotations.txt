@@ -1,0 +1,11 @@
+CLUSTER	3558
+NUM_SEQ	3
+LENGTH	297
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	154.44
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|422933657|ref|YP_007003782.1|vFam_3558| membrane protein ORF114 [Cyprinid herpesvirus 1]
+gi|422933933|ref|YP_007003932.1|vFam_3558| membrane protein ORF114 [Cyprinid herpesvirus 2]
+gi|131840140|ref|YP_001096149.1|vFam_3558| unnamed protein product [Cyprinid herpesvirus 3]

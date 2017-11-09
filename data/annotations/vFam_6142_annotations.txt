@@ -1,0 +1,10 @@
+CLUSTER	6142
+NUM_SEQ	2
+LENGTH	68
+RELATIVE_ENTROPY_PER_POSITION	0.76
+TOTAL_RELATIVE_ENTROPY	51.68
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825852|ref|YP_007418783.1|vFam_6142| putative ankyrin repeat protein [Megavirus lba]
+gi|448825050|ref|YP_007417981.1|vFam_6142| putative ankyrin repeat protein [Megavirus lba]

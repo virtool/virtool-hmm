@@ -1,0 +1,11 @@
+CLUSTER	4450
+NUM_SEQ	3
+LENGTH	197
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	102.44
+FAMILIES	{'Potyviridae': 3}
+GENERA	{'Tritimovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|25013908|ref|NP_734259.1|vFam_4450| NIa-VPg protein [Brome streak mosaic virus]
+gi|38304207|ref|NP_940828.1|vFam_4450| NIa-VPg protein [Oat necrotic mottle virus]
+gi|25013805|ref|NP_734271.1|vFam_4450| NIa-VPg protein [Wheat streak mosaic virus]

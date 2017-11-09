@@ -1,0 +1,12 @@
+CLUSTER	2178
+NUM_SEQ	4
+LENGTH	468
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	238.68
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'None': 2, 'Molluscipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9628935|ref|NP_043954.1|vFam_2178| MC003L [Molluscum contagiosum virus subtype 1]
+gi|9629089|ref|NP_044108.1|vFam_2178| MC157R [Molluscum contagiosum virus subtype 1]
+gi|571797929|ref|YP_008658428.1|vFam_2178| immunoglobulin domain protein CD48-like [Squirrelpox virus]
+gi|571798067|ref|YP_008658566.1|vFam_2178| hypothetical pox protein [Squirrelpox virus]

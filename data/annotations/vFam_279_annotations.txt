@@ -1,0 +1,25 @@
+CLUSTER	279
+NUM_SEQ	17
+LENGTH	852
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	451.56
+FAMILIES	{'Herpesviridae': 17}
+GENERA	{'Varicellovirus': 7, 'Mardivirus': 4, 'Simplexvirus': 6}
+FASTA SEQUENCE TITLES:
+gi|12084850|ref|NP_073315.1|vFam_279| envelope glycoprotein H [Meleagrid herpesvirus 1]
+gi|149939938|ref|NP_066853.2|vFam_279| envelope glycoprotein H [Gallid herpesvirus 3]
+gi|125745073|ref|YP_001033950.1|vFam_279| envelope glycoprotein H [Gallid herpesvirus 2]
+gi|255683192|ref|YP_003084400.1|vFam_279| UL22 [Anatid herpesvirus 1]
+gi|312162833|ref|YP_003933818.1|vFam_279| envelope glycoprotein H [Saimiriine herpesvirus 1]
+gi|155041722|ref|NP_851881.2|vFam_279| envelope glycoprotein H [Macacine herpesvirus 1]
+gi|83722590|ref|YP_443868.1|vFam_279| envelope glycoprotein H [Papiine herpesvirus 2]
+gi|56694744|ref|YP_164464.1|vFam_279| envelope glycoprotein H [Cercopithecine herpesvirus 2]
+gi|9629402|ref|NP_044623.1|vFam_279| envelope glycoprotein H [Human herpesvirus 1]
+gi|9629291|ref|NP_044491.1|vFam_279| envelope glycoprotein H [Human herpesvirus 2]
+gi|296316039|ref|YP_003662503.1|vFam_279| envelope glycoprotein H [Bovine herpesvirus 5]
+gi|9629853|ref|NP_045337.1|vFam_279| envelope glycoprotein H [Bovine herpesvirus 1]
+gi|13242430|ref|NP_077452.1|vFam_279| envelope glycoprotein H [Cercopithecine herpesvirus 9]
+gi|9625912|ref|NP_040160.1|vFam_279| envelope glycoprotein H [Human herpesvirus 3]
+gi|270339477|ref|YP_003331559.1|vFam_279| envelope glycoprotein H [Felid herpesvirus 1]
+gi|216905893|ref|YP_002333521.1|vFam_279| envelope glycoprotein H [Equid herpesvirus 9]
+gi|9629766|ref|NP_045257.1|vFam_279| envelope glycoprotein H [Equid herpesvirus 4]

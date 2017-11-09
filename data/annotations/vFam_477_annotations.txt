@@ -1,0 +1,23 @@
+CLUSTER	477
+NUM_SEQ	15
+LENGTH	130
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	70.2
+FAMILIES	{'Adenoviridae': 14}
+GENERA	{'None': 1, 'Mastadenovirus': 13}
+FASTA SEQUENCE TITLES:
+gi|496838723|ref|YP_007518341.1|vFam_477| E4 ORF2 [Titi monkey adenovirus ECC-2011]
+gi|253762009|ref|YP_003038631.1|vFam_477| 14.5 kDa protein [Human adenovirus 54]
+gi|386522713|ref|YP_006272978.1|vFam_477| E4Orf2 [Chimpanzee adenovirus Y25]
+gi|56160671|ref|AP_000335.1|vFam_477| E4 ORF2 [Simian adenovirus 25]
+gi|197944764|ref|YP_002213839.1|vFam_477| control protein E4orf2 [Human adenovirus B]
+gi|56160632|ref|AP_000297.1|vFam_477| E4 ORF2 [Simian adenovirus 21]
+gi|460042668|ref|YP_007518095.1|vFam_477| E4 orf2 [Simian adenovirus 20]
+gi|51518848|ref|YP_067935.1|vFam_477| E4 ORF2 [Simian adenovirus 3]
+gi|160409930|ref|YP_001551774.1|vFam_477| control protein E4orf2 [Human adenovirus C]
+gi|327415401|ref|YP_004300229.1|vFam_477| unnamed protein product [Simian adenovirus 49]
+gi|56160470|ref|AP_000140.1|vFam_477| E4 ORF2 [Human adenovirus A]
+gi|9626590|ref|NP_040881.1|vFam_477| control protein E4orf2 [Human adenovirus F]
+gi|540155854|ref|YP_008520248.1|vFam_477| E4 orf2 [Simian adenovirus 18]
+gi|485191092|ref|YP_007906028.1|vFam_477| E4 ORF2 [Simian adenovirus C]
+gi|61602117|ref|YP_213994.1|vFam_477| E4 ORF2 [Simian adenovirus 1]

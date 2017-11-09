@@ -1,0 +1,15 @@
+CLUSTER	1396
+NUM_SEQ	7
+LENGTH	130
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	67.6
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|74229800|ref|YP_309004.1|vFam_1396| orf115 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|20069936|ref|NP_613140.1|vFam_1396| hypothetical protein McnAVgp057 [Mamestra configurata nucleopolyhedrovirus A]
+gi|125860164|ref|YP_001036334.1|vFam_1396| hypothetical protein SFMNPV_gp042 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|209170935|ref|YP_002268081.1|vFam_1396| agip51 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592763|ref|YP_529716.1|vFam_1396| ORF-46 [Agrotis segetum nucleopolyhedrovirus]
+gi|215401440|ref|YP_002332743.1|vFam_1396| hypothetical protein SlnV2_gp045 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634265|ref|NP_037804.1|vFam_1396| ORF44 [Spodoptera exigua multiple nucleopolyhedrovirus]

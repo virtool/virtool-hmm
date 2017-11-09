@@ -1,0 +1,18 @@
+CLUSTER	733
+NUM_SEQ	10
+LENGTH	706
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	374.18
+FAMILIES	{'Partitiviridae': 7}
+GENERA	{'Partitivirus': 6, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|189022233|ref|YP_001936016.1|vFam_733| RNA-dependent RNA polymerase [Ceratocystis resinifera partitivirus]
+gi|19744945|ref|NP_604475.1|vFam_733| Putative RNA dependent RNA polymerase [Atkinsonella hypoxylon partitivirus]
+gi|20522143|ref|NP_620659.1|vFam_733| putative RDRP [Rhizoctonia solani virus 717]
+gi|255987649|ref|YP_003104768.1|vFam_733| putative RNA-dependent RNA polymerase [Primula malacoides virus China/Mar2007]
+gi|482677386|ref|YP_007891054.1|vFam_733| RNA-dependent RNA polymerase [Dill cryptic virus 2]
+gi|482651006|ref|YP_007889825.1|vFam_733| RNA-dependent RNA polymerase [Hop trefoil cryptic virus 2]
+gi|482650987|ref|YP_007889821.1|vFam_733| RNA-dependent RNA polymerase [White clover cryptic virus 2]
+gi|80978943|ref|YP_392480.1|vFam_733| putative RNA-dependent RNA polymerase [Rosellinia necatrix partitivirus 1-W8]
+gi|62401672|ref|YP_227355.1|vFam_733| RNA-dependent RNA polymerase [Pleurotus ostreatus virus 1]
+gi|20889330|ref|NP_624349.1|vFam_733| putative RNA dependent RNA polymerase [Fusarium poae virus 1]

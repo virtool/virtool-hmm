@@ -1,0 +1,10 @@
+CLUSTER	5763
+NUM_SEQ	2
+LENGTH	92
+RELATIVE_ENTROPY_PER_POSITION	0.55
+TOTAL_RELATIVE_ENTROPY	50.6
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|155370264|ref|YP_001425798.1|vFam_5763| hypothetical protein FR483_n166R [Paramecium bursaria Chlorella virus FR483]
+gi|9631695|ref|NP_048474.1|vFam_5763| hypothetical protein [Paramecium bursaria Chlorella virus 1]

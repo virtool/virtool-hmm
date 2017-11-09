@@ -1,0 +1,14 @@
+CLUSTER	1269
+NUM_SEQ	6
+LENGTH	206
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	107.12
+FAMILIES	{'Coronaviridae': 5}
+GENERA	{'None': 1, 'Betacoronavirus': 4}
+FASTA SEQUENCE TITLES:
+gi|556333872|ref|YP_008719941.1|vFam_1269| orf8b [Betacoronavirus Erinaceus/VMC/DEU/2012]
+gi|56807331|ref|YP_173243.1|vFam_1269| nucleocapsid phosphoprotein 2 [Human coronavirus HKU1]
+gi|253750540|ref|YP_003029853.1|vFam_1269| internal protein [Rat coronavirus Parker]
+gi|11192315|ref|NP_068674.1|vFam_1269| hypothetical 22.6 KDa protein in nucleocapsid ORF [Murine hepatitis virus strain A59]
+gi|253756617|ref|YP_003038529.1|vFam_1269| internal protein [Human enteric coronavirus strain 4408]
+gi|167600364|ref|YP_001672006.1|vFam_1269| I protein [Equine coronavirus]

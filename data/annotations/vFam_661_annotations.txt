@@ -1,0 +1,20 @@
+CLUSTER	661
+NUM_SEQ	12
+LENGTH	209
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	110.77
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Macavirus': 2, 'Rhadinovirus': 6, 'Lymphocryptovirus': 3, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|9629572|ref|NP_044868.1|vFam_661| protein UL92 [Murid herpesvirus 4]
+gi|321496582|ref|YP_004207867.1|vFam_661| hypothetical protein RHVP.31 [Rodent herpesvirus Peru]
+gi|24943112|ref|NP_733874.1|vFam_661| ORF21 [callitrichine herpesvirus 3]
+gi|82503249|ref|YP_401693.1|vFam_661| BDLF4 protein [Human herpesvirus 4]
+gi|51518062|ref|YP_067990.1|vFam_661| BDLF4 [Macacine herpesvirus 4]
+gi|83642867|ref|YP_438154.1|vFam_661| ORF31 [Ovine herpesvirus 2]
+gi|10140952|ref|NP_065529.1|vFam_661| ORF31 [Alcelaphine herpesvirus 1]
+gi|13095607|ref|NP_076523.1|vFam_661| unknown [Bovine herpesvirus 4]
+gi|9631223|ref|NP_048003.1|vFam_661| orf 31 [Ateline herpesvirus 3]
+gi|9625986|ref|NP_040233.1|vFam_661| unnamed protein product [Saimiriine herpesvirus 2]
+gi|139472825|ref|YP_001129384.1|vFam_661| ORF31 [Human herpesvirus 8]
+gi|18653837|ref|NP_570771.1|vFam_661| hypothetical protein MmrVgp30 [Macacine herpesvirus 5]

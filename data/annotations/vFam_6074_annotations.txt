@@ -1,0 +1,10 @@
+CLUSTER	6074
+NUM_SEQ	2
+LENGTH	129
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	67.08
+FAMILIES	{'None': 2}
+GENERA	{'Benyvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|19919960|ref|NP_612593.1|vFam_6074| 14KDa protein [Beet soil-borne mosaic virus]
+gi|19919914|ref|NP_612620.1|vFam_6074| 14k protein [Beet necrotic yellow vein virus]

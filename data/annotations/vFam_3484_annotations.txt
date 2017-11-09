@@ -1,0 +1,12 @@
+CLUSTER	3484
+NUM_SEQ	4
+LENGTH	193
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	98.43
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|506498534|ref|YP_008004330.1|vFam_3484| unknown similar to AMEV224 [Choristoneura biennis entomopoxvirus 'L']
+gi|9964538|ref|NP_065006.1|vFam_3484| Predicted membrane protein [Amsacta moorei entomopoxvirus 'L']
+gi|506498227|ref|YP_008004024.1|vFam_3484| unknown similar to AMEV224 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497963|ref|YP_008003762.1|vFam_3484| unknown similar to AMEV224 [Mythimna separata entomopoxvirus 'L']

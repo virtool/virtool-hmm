@@ -1,0 +1,10 @@
+CLUSTER	1518
+NUM_SEQ	2
+LENGTH	578
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	300.56
+FAMILIES	{'Phycodnaviridae': 1}
+GENERA	{'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|526118817|ref|YP_008318720.1|vFam_1518| hypothetical protein [Pandoravirus dulcis]
+gi|508182180|ref|YP_008052699.1|vFam_1518| hypothetical protein PGCG_00388 [Phaeocystis globosa virus]

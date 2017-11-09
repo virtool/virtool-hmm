@@ -1,0 +1,10 @@
+CLUSTER	4602
+NUM_SEQ	2
+LENGTH	262
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	133.62
+FAMILIES	{'None': 1, 'Malacoherpesviridae': 1}
+GENERA	{'None': 1, 'Ostreavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|410493525|ref|YP_006908723.1|vFam_4602| hypothetical protein AbHV_ORF71 [Abalone herpesvirus Victoria/AUS/2009]
+gi|537108090|ref|YP_024628.2|vFam_4602| ORF89 [Ostreid herpesvirus 1]

@@ -1,0 +1,11 @@
+CLUSTER	2504
+NUM_SEQ	3
+LENGTH	796
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	413.92
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Mardivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|12084876|ref|NP_073341.1|vFam_2504| tegument protein VP13/14 [Meleagrid herpesvirus 1]
+gi|125745099|ref|YP_001033976.1|vFam_2504| tegument protein VP13/14 [Gallid herpesvirus 2]
+gi|10834918|ref|NP_066879.1|vFam_2504| tegument protein VP13/14 [Gallid herpesvirus 3]

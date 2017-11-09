@@ -1,0 +1,10 @@
+CLUSTER	3684
+NUM_SEQ	2
+LENGTH	135
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	70.2
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|33622300|ref|NP_891947.1|vFam_3684| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602347|ref|NP_148894.1|vFam_3684| ORF110 [Cydia pomonella granulovirus]

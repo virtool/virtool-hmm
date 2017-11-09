@@ -1,0 +1,11 @@
+CLUSTER	4071
+NUM_SEQ	3
+LENGTH	207
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	105.57
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|171473717|ref|YP_001798587.1|vFam_4071| hypothetical protein AFV9_gp69 [Acidianus filamentous virus 9]
+gi|162329541|ref|YP_001604340.1|vFam_4071| hypothetical protein AFV8_gp59 [Acidianus filamentous virus 8]
+gi|162329354|ref|YP_001604408.1|vFam_4071| hypothetical protein AFV3_gp66 [Acidianus filamentous virus 3]

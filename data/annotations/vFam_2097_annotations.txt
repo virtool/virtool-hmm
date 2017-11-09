@@ -1,0 +1,13 @@
+CLUSTER	2097
+NUM_SEQ	5
+LENGTH	325
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	165.75
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Cytomegalovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|52139293|ref|YP_081568.1|vFam_2097| membrane protein UL148 [Human herpesvirus 5]
+gi|20026711|ref|NP_612752.1|vFam_2097| membrane protein UL148 [Panine herpesvirus 2]
+gi|359946554|ref|YP_004936087.1|vFam_2097| membrane protein UL148 [Cercopithecine herpesvirus 5]
+gi|356640481|ref|YP_004933923.1|vFam_2097| putative membrane glycoprotein UL148 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556614|ref|YP_068248.1|vFam_2097| rh159 [Macacine herpesvirus 3]

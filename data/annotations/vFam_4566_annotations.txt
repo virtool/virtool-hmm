@@ -1,0 +1,11 @@
+CLUSTER	4566
+NUM_SEQ	3
+LENGTH	86
+RELATIVE_ENTROPY_PER_POSITION	0.58
+TOTAL_RELATIVE_ENTROPY	49.88
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Iridovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|339906065|ref|YP_004732862.1|vFam_4566| hypothetical protein WIV_gp079 [Wiseana iridescent virus]
+gi|527333587|ref|YP_008357371.1|vFam_4566| hypothetical protein IIV22_073R [Invertebrate iridovirus 22]
+gi|15078722|ref|NP_149472.1|vFam_4566| 009R [Invertebrate iridescent virus 6]

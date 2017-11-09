@@ -1,0 +1,10 @@
+CLUSTER	4430
+NUM_SEQ	2
+LENGTH	181
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	90.5
+FAMILIES	{'Baculoviridae': 1, 'Ascoviridae': 1}
+GENERA	{'Betabaculovirus': 1, 'Ascovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|164519251|ref|YP_001649038.1|vFam_4430| hypothetical protein HaGV_gp056 [Helicoverpa armigera granulovirus]
+gi|134287251|ref|YP_001110947.1|vFam_4430| NAD-glutamate dehydrogenase [Heliothis virescens ascovirus 3e]

@@ -1,0 +1,11 @@
+CLUSTER	3382
+NUM_SEQ	3
+LENGTH	229
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	116.79
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'Chlorovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|340025783|ref|NP_048628.2|vFam_3382| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953509|ref|YP_001498400.1|vFam_3382| hypothetical protein AR158_C319R [Paramecium bursaria Chlorella virus AR158]
+gi|157952662|ref|YP_001497554.1|vFam_3382| hypothetical protein NY2A_B358R [Paramecium bursaria Chlorella virus NY2A]

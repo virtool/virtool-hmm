@@ -1,0 +1,10 @@
+CLUSTER	4358
+NUM_SEQ	2
+LENGTH	690
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	351.9
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035288|ref|YP_008436915.1|vFam_4358| trypsin-like serine protease [Pandoravirus salinus]
+gi|526119089|ref|YP_008318992.1|vFam_4358| trypsin-like serine protease [Pandoravirus dulcis]

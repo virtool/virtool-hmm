@@ -1,0 +1,11 @@
+CLUSTER	4940
+NUM_SEQ	3
+LENGTH	139
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	72.28
+FAMILIES	{'Paramyxoviridae': 3}
+GENERA	{'Pneumovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9631268|ref|NP_048048.1|vFam_4940| NS1 [Bovine respiratory syncytial virus]
+gi|9629368|ref|NP_044589.1|vFam_4940| non-structural protein 1 (1C) [Respiratory syncytial virus]
+gi|9629199|ref|NP_056856.1|vFam_4940| non-structural protein 1 [Human respiratory syncytial virus]

@@ -1,0 +1,13 @@
+CLUSTER	1712
+NUM_SEQ	5
+LENGTH	114
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	59.28
+FAMILIES	{'Geminiviridae': 5}
+GENERA	{'Mastrevirus': 5}
+FASTA SEQUENCE TITLES:
+gi|308125298|ref|YP_003915157.1|vFam_1712| movement protein [Digitaria didactyla striate mosaic virus]
+gi|315570367|ref|YP_004089625.1|vFam_1712| movement protein [Bromus catharticus striate mosaic virus]
+gi|404184256|ref|YP_006666521.1|vFam_1712| movement protein [Paspalum dilatatum striate mosaic virus]
+gi|404184315|ref|YP_006666533.1|vFam_1712| movement protein [Digitaria ciliaris striate mosaic virus]
+gi|403516099|ref|YP_006659972.1|vFam_1712| movement protein [Paspalum striate mosaic virus]

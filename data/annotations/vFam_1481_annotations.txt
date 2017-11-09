@@ -1,0 +1,13 @@
+CLUSTER	1481
+NUM_SEQ	5
+LENGTH	560
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	296.8
+FAMILIES	{'Reoviridae': 5}
+GENERA	{'Fijivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|20177437|ref|NP_619775.1|vFam_1481| major outer capsid protein [Nilaparvata lugens reovirus]
+gi|68532391|ref|YP_249765.1|vFam_1481| hypothetical protein [Fiji disease virus]
+gi|120407021|ref|YP_956849.1|vFam_1481| major outer capsid protein [Mal de Rio Cuarto virus]
+gi|312274948|ref|YP_004021935.1|vFam_1481| P10 protein [Southern rice black-streaked dwarf virus]
+gi|20386785|ref|NP_620459.1|vFam_1481| hypothetical protein RBSDVs10gp1 [Rice black streaked dwarf virus]

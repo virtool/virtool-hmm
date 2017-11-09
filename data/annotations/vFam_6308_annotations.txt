@@ -1,0 +1,10 @@
+CLUSTER	6308
+NUM_SEQ	2
+LENGTH	142
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	72.42
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159391|ref|YP_002321434.1|vFam_6308| GrBNV_gp41-like protein [Oryctes rhinoceros virus]
+gi|134303439|ref|YP_001111308.1|vFam_6308| hypothetical protein GrBNV_gp41 [Gryllus bimaculatus nudivirus]

@@ -1,0 +1,18 @@
+CLUSTER	407
+NUM_SEQ	10
+LENGTH	526
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	268.26
+FAMILIES	{'Caulimoviridae': 10}
+GENERA	{'Caulimovirus': 9, 'Soymovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|32453809|ref|NP_861547.1|vFam_407| TAV [Cestrum yellow leaf curling virus]
+gi|9628906|ref|NP_043934.1|vFam_407| hypothetical protein [Strawberry vein banding virus]
+gi|20143430|ref|NP_619549.1|vFam_407| Inclusion body matrix protein [Figwort mosaic virus]
+gi|406356621|ref|YP_006732335.1|vFam_407| inclusion body matrix protein [Dahlia mosaic virus]
+gi|21450049|ref|NP_659398.1|vFam_407| hypothetical protein [Mirabilis mosaic virus]
+gi|189009868|ref|YP_001931962.1|vFam_407| inclusion body/transactivation factor [Lamium leaf distortion virus]
+gi|402502236|ref|YP_006607893.1|vFam_407| transcriptional transactivator [Soybean Putnam virus]
+gi|19919895|ref|NP_612578.1|vFam_407| Inclusion body matrix protein [Carnation etched ring virus]
+gi|410492648|ref|YP_006907835.1|vFam_407| inclusion body matrix protein [Horseradish latent virus]
+gi|9626944|ref|NP_056729.1|vFam_407| inclusion body matrix protein [Cauliflower mosaic virus]

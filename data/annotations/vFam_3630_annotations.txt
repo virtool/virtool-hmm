@@ -1,0 +1,11 @@
+CLUSTER	3630
+NUM_SEQ	3
+LENGTH	108
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	54.0
+FAMILIES	{'Baculoviridae': 2, 'Poxviridae': 1}
+GENERA	{'Betabaculovirus': 2, 'Molluscipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9629013|ref|NP_044032.1|vFam_3630| MC081R [Molluscum contagiosum virus subtype 1]
+gi|285002311|ref|YP_003422375.1|vFam_3630| hypothetical protein PsunGV_gp036 [Pseudaletia unipuncta granulovirus]
+gi|164519231|ref|YP_001649018.1|vFam_3630| hypothetical protein HaGV_gp036 [Helicoverpa armigera granulovirus]

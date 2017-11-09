@@ -1,0 +1,11 @@
+CLUSTER	4192
+NUM_SEQ	3
+LENGTH	491
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	255.32
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|526118966|ref|YP_008318869.1|vFam_4192| hypothetical protein [Pandoravirus dulcis]
+gi|531035670|ref|YP_008437303.1|vFam_4192| hypothetical protein ps_891 [Pandoravirus salinus]
+gi|526119367|ref|YP_008319270.1|vFam_4192| hypothetical protein [Pandoravirus dulcis]

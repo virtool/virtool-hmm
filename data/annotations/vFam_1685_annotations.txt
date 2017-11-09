@@ -1,0 +1,13 @@
+CLUSTER	1685
+NUM_SEQ	5
+LENGTH	205
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	102.5
+FAMILIES	{'None': 2, 'Mimiviridae': 3}
+GENERA	{'None': 4, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825933|ref|YP_007418864.1|vFam_1685| hypothetical protein LBA_00970 [Megavirus lba]
+gi|441432732|ref|YP_007354774.1|vFam_1685| hypothetical protein Moumou_00821 [Acanthamoeba polyphaga moumouvirus]
+gi|448826035|ref|YP_007418966.1|vFam_1685| hypothetical protein LBA_01072 [Megavirus lba]
+gi|363539954|ref|YP_004894986.1|vFam_1685| mg935 gene product [Megavirus chiliensis]
+gi|311978310|ref|YP_003987432.1|vFam_1685| hypothetical protein [Acanthamoeba polyphaga mimivirus]

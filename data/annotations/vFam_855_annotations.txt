@@ -1,0 +1,13 @@
+CLUSTER	855
+NUM_SEQ	5
+LENGTH	575
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	299.0
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Cytomegalovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|52139213|ref|YP_081486.1|vFam_855| protein UL27 [Human herpesvirus 5]
+gi|359946472|ref|YP_004936004.1|vFam_855| protein UL27 [Cercopithecine herpesvirus 5]
+gi|51556506|ref|YP_068140.1|vFam_855| rh46 [Macacine herpesvirus 3]
+gi|360086515|ref|YP_004940199.1|vFam_855| protein UL27 [Saimiriine herpesvirus 3]
+gi|360040919|ref|YP_004940053.1|vFam_855| protein UL27 [Aotine herpesvirus 1]

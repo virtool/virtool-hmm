@@ -1,0 +1,20 @@
+CLUSTER	267
+NUM_SEQ	12
+LENGTH	1031
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	546.43
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Varicellovirus': 7, 'Mardivirus': 4, 'Simplexvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9629307|ref|NP_044507.1|vFam_267| tegument protein UL37 [Human herpesvirus 2]
+gi|13242413|ref|NP_077436.1|vFam_267| tegument protein UL37 [Cercopithecine herpesvirus 9]
+gi|9625896|ref|NP_040144.1|vFam_267| tegument protein UL37 [Human herpesvirus 3]
+gi|296316023|ref|YP_003662487.1|vFam_267| tegument protein UL37 [Bovine herpesvirus 5]
+gi|9629837|ref|NP_045321.1|vFam_267| tegument protein UL37 [Bovine herpesvirus 1]
+gi|281190773|ref|YP_003331542.2|vFam_267| tegument protein UL37 [Felid herpesvirus 1]
+gi|216905876|ref|YP_002333504.1|vFam_267| tegument protein UL37 [Equid herpesvirus 9]
+gi|9629748|ref|NP_045240.1|vFam_267| tegument protein UL37 [Equid herpesvirus 4]
+gi|255683176|ref|YP_003084384.1|vFam_267| UL37 [Anatid herpesvirus 1]
+gi|12084866|ref|NP_073331.1|vFam_267| tegument protein UL37 [Meleagrid herpesvirus 1]
+gi|125745089|ref|YP_001033966.1|vFam_267| tegument protein UL37 [Gallid herpesvirus 2]
+gi|10834908|ref|NP_066869.1|vFam_267| tegument protein UL37 [Gallid herpesvirus 3]

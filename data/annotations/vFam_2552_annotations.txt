@@ -1,0 +1,13 @@
+CLUSTER	2552
+NUM_SEQ	5
+LENGTH	326
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	169.52
+FAMILIES	{'Orthomyxoviridae': 5}
+GENERA	{'Influenzavirus A': 5}
+FASTA SEQUENCE TITLES:
+gi|73921186|ref|YP_308875.1|vFam_2552| HA1 [Influenza A virus (A/New York/392/2004(H3N2))]
+gi|90093249|ref|YP_529488.1|vFam_2552| HA1 [Influenza A virus (A/Hong Kong/1073/99(H9N2))]
+gi|56605625|ref|YP_163735.1|vFam_2552| HA1 [Influenza A virus (A/Puerto Rico/8/34(H1N1))]
+gi|90093247|ref|YP_529486.1|vFam_2552| HA1 [Influenza A virus (A/goose/Guangdong/1/1996(H5N1))]
+gi|73921184|ref|YP_308873.1|vFam_2552| HA1 [Influenza A virus (A/Korea/426/68(H2N2))]

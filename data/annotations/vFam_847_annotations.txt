@@ -1,0 +1,12 @@
+CLUSTER	847
+NUM_SEQ	4
+LENGTH	273
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	139.23
+FAMILIES	{'Adenoviridae': 2, 'Luteoviridae': 1}
+GENERA	{'Polerovirus': 1, 'Aviadenovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|404184169|ref|YP_006666505.1|vFam_847| P0 [Suakwa aphid-borne yellows virus]
+gi|327409474|ref|YP_004346918.1|vFam_847| ORF13 [Fowl adenovirus C]
+gi|308222741|ref|YP_003933578.1|vFam_847| unnamed protein product [Turkey adenovirus 1]
+gi|555928218|ref|YP_008719849.1|vFam_847| ORF13 [Turkey adenovirus 5]

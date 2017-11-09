@@ -1,0 +1,21 @@
+CLUSTER	512
+NUM_SEQ	13
+LENGTH	229
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	119.08
+FAMILIES	{'Baculoviridae': 12}
+GENERA	{'Betabaculovirus': 12}
+FASTA SEQUENCE TITLES:
+gi|32698603|ref|NP_872518.1|vFam_512| ORF_64 [Adoxophyes orana granulovirus]
+gi|556549098|ref|YP_008720012.1|vFam_512| fgf-1 [Clostera anastomosis granulovirus]
+gi|33622268|ref|NP_891915.1|vFam_512| fgf [Cryptophlebia leucotreta granulovirus]
+gi|14602313|ref|NP_148860.1|vFam_512| ORF76 similar to XcGV ORF85 [Cydia pomonella granulovirus]
+gi|21686734|ref|NP_663234.1|vFam_512| fibroblast growth factor 1 [Phthorimaea operculella granulovirus]
+gi|288804701|ref|YP_003429386.1|vFam_512| FGF-1 [Pieris rapae granulovirus]
+gi|109255329|ref|YP_654478.1|vFam_512| FGF-1 [Choristoneura occidentalis granulovirus]
+gi|410493640|ref|YP_006908578.1|vFam_512| fibrobast growth factor 1 [Epinotia aporema granulovirus]
+gi|285002363|ref|YP_003422427.1|vFam_512| fibroblast growth factor-1 [Pseudaletia unipuncta granulovirus]
+gi|164519278|ref|YP_001649065.1|vFam_512| fibroblast growth factor-1 [Helicoverpa armigera granulovirus]
+gi|46309388|ref|YP_006278.1|vFam_512| ORF66 [Agrotis segetum granulovirus]
+gi|11068059|ref|NP_068275.1|vFam_512| PxORF56 peptide [Plutella xylostella granulovirus]
+gi|148368887|ref|YP_001257017.1|vFam_512| fgf-1 [Spodoptera litura granulovirus]

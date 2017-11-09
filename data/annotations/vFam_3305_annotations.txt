@@ -1,0 +1,11 @@
+CLUSTER	3305
+NUM_SEQ	3
+LENGTH	232
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	120.64
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 2, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|260665885|ref|YP_003212839.1|vFam_3305| hypothetical protein H665_p015 [Ostreococcus tauri virus 1]
+gi|314055105|ref|YP_004063443.1|vFam_3305| putative methyltransferase FkbM [Ostreococcus tauri virus 2]
+gi|313843989|ref|YP_004061652.1|vFam_3305| hypothetical protein OlV1_019 [Ostreococcus lucimarinus virus OlV1]

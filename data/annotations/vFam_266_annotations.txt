@@ -1,0 +1,29 @@
+CLUSTER	266
+NUM_SEQ	21
+LENGTH	370
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	192.4
+FAMILIES	{'Poxviridae': 18}
+GENERA	{'None': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Betaentomopoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631327|ref|NP_048161.1|vFam_266| ORF MSV090 putative Molluscum contagiosum virus MC121L (vaccinia A16L) homolog, similar to GB:U60315 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497849|ref|YP_008003648.1|vFam_266| myristylated protein, essential for entry/fusion (Cop-A16L) [Mythimna separata entomopoxvirus 'L']
+gi|506498125|ref|YP_008003922.1|vFam_266| myristylated protein, essential for entry/fusion (Cop-A16L) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498743|ref|YP_008004537.1|vFam_266| myristylated protein, essential for entry/fusion (Cop-A16L) [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964432|ref|NP_064900.1|vFam_266| putative myristylated membrane protein [Amsacta moorei entomopoxvirus 'L']
+gi|115531803|ref|YP_784329.1|vFam_266| Myristylated membrane protein [Nile crocodilepox virus]
+gi|40556193|ref|NP_955278.1|vFam_266| CNPV255 predicted myristylated protein [Canarypox virus]
+gi|9634851|ref|NP_039144.1|vFam_266| Putative myristylated membrane protein [Fowlpox virus]
+gi|571798031|ref|YP_008658530.1|vFam_266| myristylated membrane protein-putative [Squirrelpox virus]
+gi|377830012|ref|YP_005296313.1|vFam_266| unnamed protein product [Cotia virus SPAn232]
+gi|9633916|ref|NP_051995.1|vFam_266| gp106L [Rabbit fibroma virus]
+gi|157939731|ref|YP_001497103.1|vFam_266| IMV protein [Tanapox virus]
+gi|38229270|ref|NP_938363.1|vFam_266| 108L [Yaba monkey tumor virus]
+gi|18640191|ref|NP_570265.1|vFam_266| SPV105 putative myristylated membrane protein [Swinepox virus]
+gi|148912985|ref|YP_001293299.1|vFam_266| hypothetical protein GTPV_gp103 [Goatpox virus Pellor]
+gi|211956388|ref|YP_002302457.1|vFam_266| myristylated membrane protein [Deerpox virus W-1170-84]
+gi|113195315|ref|YP_717445.1|vFam_266| IMV membrane protein [Taterapox virus]
+gi|345107308|ref|YP_004821473.1|vFam_266| myristylprotein [Yoka poxvirus]
+gi|9629053|ref|NP_044072.1|vFam_266| MC121L [Molluscum contagiosum virus subtype 1]
+gi|41057529|ref|NP_958002.1|vFam_266| ORF093 myristylated protein [Bovine papular stomatitis virus]
+gi|289183858|ref|YP_003457399.1|vFam_266| myristylated protein [Pseudocowpox virus]

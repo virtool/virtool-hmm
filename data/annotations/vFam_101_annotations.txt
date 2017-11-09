@@ -1,0 +1,36 @@
+CLUSTER	101
+NUM_SEQ	28
+LENGTH	1246
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	635.46
+FAMILIES	{'Coronaviridae': 26}
+GENERA	{'Gammacoronavirus': 2, 'Alphacoronavirus': 5, 'None': 8, 'Betacoronavirus': 11}
+FASTA SEQUENCE TITLES:
+gi|189313870|ref|YP_001941166.1|vFam_101| spike protein [Turkey coronavirus]
+gi|45655909|ref|YP_003767.1|vFam_101| spike protein [Human coronavirus NL63]
+gi|212681380|ref|YP_002308497.1|vFam_101| spike glycoprotein [Thrush coronavirus HKU12-600]
+gi|383081736|ref|YP_005352838.1|vFam_101| S gene product [White-eye coronavirus HKU16]
+gi|383080797|ref|YP_005352881.1|vFam_101| S gene product [Common-moorhen coronavirus HKU21]
+gi|383080786|ref|YP_005352871.1|vFam_101| S gene product [Wigeon coronavirus HKU20]
+gi|531967708|ref|YP_008439202.1|vFam_101| spike glycoprotein [Bat coronavirus CDPHE15/USA/2006]
+gi|152994038|ref|YP_001351684.1|vFam_101| spike protein [Scotophilus bat coronavirus 512]
+gi|169822553|ref|YP_001718605.1|vFam_101| spike protein [Bat coronavirus 1A]
+gi|410493444|ref|YP_006908642.1|vFam_101| spike glycoprotein [Rousettus bat coronavirus HKU10]
+gi|169822561|ref|YP_001718612.1|vFam_101| spike protein [Bat coronavirus HKU8]
+gi|383080777|ref|YP_005352863.1|vFam_101| S gene product [Night-heron coronavirus HKU19]
+gi|383081745|ref|YP_005352846.1|vFam_101| S gene product [Sparrow coronavirus HKU17]
+gi|383080767|ref|YP_005352854.1|vFam_101| S gene product [Magpie-robin coronavirus HKU18]
+gi|304633677|ref|YP_003858584.1|vFam_101| spike protein [Bat coronavirus BM48-31/BGR/2008]
+gi|29836496|ref|NP_828851.1|vFam_101| E2 glycoprotein precursor [SARS coronavirus]
+gi|556333863|ref|YP_008719932.1|vFam_101| S [Betacoronavirus Erinaceus/VMC/DEU/2012]
+gi|429535806|ref|YP_007188579.1|vFam_101| S protein [Betacoronavirus England 1]
+gi|126030124|ref|YP_001039962.1|vFam_101| spike glycoprotein [Bat coronavirus HKU5]
+gi|126030114|ref|YP_001039953.1|vFam_101| spike glycoprotein [Bat coronavirus HKU4]
+gi|126030134|ref|YP_001039971.1|vFam_101| spike glycoprotein [Bat coronavirus HKU9]
+gi|56807326|ref|YP_173238.1|vFam_101| spike glycoprotein [Human coronavirus HKU1]
+gi|253750535|ref|YP_003029848.1|vFam_101| spike protein [Rat coronavirus Parker]
+gi|60115395|ref|YP_209233.1|vFam_101| spike glycoprotein (S) [Murine hepatitis virus strain JHM]
+gi|9629814|ref|NP_045300.1|vFam_101| E2 glycoprotein precursor [Murine hepatitis virus strain A59]
+gi|167600358|ref|YP_001672000.1|vFam_101| spike protein [Equine coronavirus]
+gi|85718618|ref|YP_459952.1|vFam_101| spike glycoprotein [Porcine hemagglutinating encephalomyelitis virus]
+gi|253756610|ref|YP_003038522.1|vFam_101| spike protein [Human enteric coronavirus strain 4408]

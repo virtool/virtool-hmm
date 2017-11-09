@@ -1,0 +1,11 @@
+CLUSTER	2229
+NUM_SEQ	3
+LENGTH	170
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	88.4
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977721|ref|YP_003986841.1|vFam_2229| transcription factor S-II-related protein [Acanthamoeba polyphaga mimivirus]
+gi|448825537|ref|YP_007418468.1|vFam_2229| transcription factor S-II-related protein [Megavirus lba]
+gi|441432414|ref|YP_007354456.1|vFam_2229| TFII-like transcription factor [Acanthamoeba polyphaga moumouvirus]

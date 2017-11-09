@@ -1,0 +1,14 @@
+CLUSTER	579
+NUM_SEQ	6
+LENGTH	284
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	144.84
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Betabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|556549144|ref|YP_008720058.1|vFam_579| hypothetical protein CaLGV111 [Clostera anastomosis granulovirus]
+gi|334265789|ref|YP_004376318.1|vFam_579| hypothetical protein ClanGV_gp110 [Clostera anachoreta granulovirus]
+gi|32698648|ref|NP_872563.1|vFam_579| ORF_109 [Adoxophyes orana granulovirus]
+gi|410493690|ref|YP_006908628.1|vFam_579| hypothetical protein [Epinotia aporema granulovirus]
+gi|46309337|ref|YP_006227.1|vFam_579| ORF117 [Agrotis segetum granulovirus]
+gi|148368940|ref|YP_001257070.1|vFam_579| hypothetical protein SlGVgp119 [Spodoptera litura granulovirus]

@@ -1,0 +1,20 @@
+CLUSTER	552
+NUM_SEQ	12
+LENGTH	388
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	194.0
+FAMILIES	{'Baculoviridae': 11}
+GENERA	{'Betabaculovirus': 11}
+FASTA SEQUENCE TITLES:
+gi|32698644|ref|NP_872559.1|vFam_552| fgf [Adoxophyes orana granulovirus]
+gi|11068107|ref|NP_068323.1|vFam_552| PxORF104 peptide [Plutella xylostella granulovirus]
+gi|148368937|ref|YP_001257067.1|vFam_552| fgf-2 [Spodoptera litura granulovirus]
+gi|556549141|ref|YP_008720055.1|vFam_552| fgf-2 [Clostera anastomosis granulovirus]
+gi|334265786|ref|YP_004376315.1|vFam_552| fgf-2 [Clostera anachoreta granulovirus]
+gi|21686781|ref|NP_663281.1|vFam_552| fibroblast growth factor 2 [Phthorimaea operculella granulovirus]
+gi|33622313|ref|NP_891960.1|vFam_552| fgf [Cryptophlebia leucotreta granulovirus]
+gi|14602360|ref|NP_148907.1|vFam_552| ORF123 FGF [Cydia pomonella granulovirus]
+gi|288804744|ref|YP_003429429.1|vFam_552| FGF-2 [Pieris rapae granulovirus]
+gi|109255374|ref|YP_654523.1|vFam_552| FGF-2 [Choristoneura occidentalis granulovirus]
+gi|46309341|ref|YP_006231.1|vFam_552| ORF113 [Agrotis segetum granulovirus]
+gi|410493688|ref|YP_006908626.1|vFam_552| fibroblast growth factor 2 [Epinotia aporema granulovirus]

@@ -1,0 +1,14 @@
+CLUSTER	411
+NUM_SEQ	6
+LENGTH	624
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	318.24
+FAMILIES	{'Mimiviridae': 6}
+GENERA	{'Mimivirus': 5, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|311977604|ref|YP_003986724.1|vFam_411| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432078|ref|YP_007354120.1|vFam_411| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]
+gi|311978177|ref|YP_003987297.1|vFam_411| putative ankyrin repeat protein [Acanthamoeba polyphaga mimivirus]
+gi|311978185|ref|YP_003987305.1|vFam_411| putative ankyrin repeat protein [Acanthamoeba polyphaga mimivirus]
+gi|311978179|ref|YP_003987299.1|vFam_411| putative ankyrin repeat protein [Acanthamoeba polyphaga mimivirus]
+gi|311978178|ref|YP_003987298.1|vFam_411| putative ankyrin repeat protein [Acanthamoeba polyphaga mimivirus]

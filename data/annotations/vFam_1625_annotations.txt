@@ -1,0 +1,11 @@
+CLUSTER	1625
+NUM_SEQ	3
+LENGTH	159
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	79.5
+FAMILIES	{'Phycodnaviridae': 1, 'Poxviridae': 2}
+GENERA	{'Orthopoxvirus': 2, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852579|ref|YP_293863.1|vFam_1625| OTU-like cysteine protease [Emiliania huxleyi virus 86]
+gi|66275972|ref|YP_233057.1|vFam_1625| hypothetical protein VACWR175 [Vaccinia virus]
+gi|345107341|ref|YP_004821506.1|vFam_1625| hypothetical protein YKV153 [Yoka poxvirus]

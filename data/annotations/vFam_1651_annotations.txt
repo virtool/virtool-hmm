@@ -1,0 +1,13 @@
+CLUSTER	1651
+NUM_SEQ	5
+LENGTH	217
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	110.67
+FAMILIES	{'None': 2, 'Mimiviridae': 3}
+GENERA	{'None': 4, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831108|ref|YP_003969751.1|vFam_1651| putative papain-like cysteine protease [Cafeteria roenbergensis virus BV-PW1]
+gi|310831333|ref|YP_003969976.1|vFam_1651| putative cysteine protease [Cafeteria roenbergensis virus BV-PW1]
+gi|311977792|ref|YP_003986912.1|vFam_1651| putative papain-like cysteine peptidase [Acanthamoeba polyphaga mimivirus]
+gi|441432341|ref|YP_007354383.1|vFam_1651| putative papain-like cysteine peptidase [Acanthamoeba polyphaga moumouvirus]
+gi|363540013|ref|YP_004894536.1|vFam_1651| mg485 gene product [Megavirus chiliensis]

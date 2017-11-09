@@ -1,0 +1,19 @@
+CLUSTER	655
+NUM_SEQ	11
+LENGTH	180
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	97.2
+FAMILIES	{'Poxviridae': 11}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|571798050|ref|YP_008658549.1|vFam_655| conserved hypothetical pox protein [Squirrelpox virus]
+gi|113195336|ref|YP_717466.1|vFam_655| hypothetical protein TATV_DAH68_159 [Taterapox virus]
+gi|345107329|ref|YP_004821494.1|vFam_655| inhibits MHC class II antigen presentation [Yoka poxvirus]
+gi|377830082|ref|YP_005296330.1|vFam_655| unnamed protein product [Cotia virus SPAn232]
+gi|148913002|ref|YP_001293316.1|vFam_655| hypothetical protein GTPV_gp119 [Goatpox virus Pellor]
+gi|9633933|ref|NP_052012.1|vFam_655| gp123R [Rabbit fibroma virus]
+gi|9633759|ref|NP_051837.1|vFam_655| m123R [Myxoma virus]
+gi|211956405|ref|YP_002302474.1|vFam_655| hypothetical protein DpV84gp134 [Deerpox virus W-1170-84]
+gi|18640207|ref|NP_570281.1|vFam_655| SPV121 hypothetical protein [Swinepox virus]
+gi|157939748|ref|YP_001497120.1|vFam_655| hypothetical protein TANV_124R [Tanapox virus]
+gi|38229287|ref|NP_938380.1|vFam_655| 124R [Yaba monkey tumor virus]

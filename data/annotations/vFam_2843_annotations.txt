@@ -1,0 +1,11 @@
+CLUSTER	2843
+NUM_SEQ	3
+LENGTH	251
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	128.01
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|441432799|ref|YP_007354841.1|vFam_2843| hypothetical protein Moumou_00890 [Acanthamoeba polyphaga moumouvirus]
+gi|363540671|ref|YP_004894988.1|vFam_2843| mg937 gene product [Megavirus chiliensis]
+gi|363540326|ref|YP_004895151.1|vFam_2843| mg1100 gene product [Megavirus chiliensis]

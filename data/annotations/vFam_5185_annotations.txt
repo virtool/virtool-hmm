@@ -1,0 +1,10 @@
+CLUSTER	5185
+NUM_SEQ	2
+LENGTH	483
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	246.33
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Yatapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|157939772|ref|YP_001497144.1|vFam_5185| ankyrin repeat protein [Tanapox virus]
+gi|38229306|ref|NP_938399.1|vFam_5185| 148R [Yaba monkey tumor virus]

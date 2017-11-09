@@ -1,0 +1,12 @@
+CLUSTER	3595
+NUM_SEQ	4
+LENGTH	191
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	99.32
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Mastadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|56160660|ref|AP_000324.1|vFam_3595| E3 CR1-gamma1 [Simian adenovirus 25]
+gi|197944794|ref|YP_002213823.1|vFam_3595| membrane glycoprotein E3 CR1-gamma [Human adenovirus B]
+gi|197944753|ref|YP_002213790.1|vFam_3595| membrane glycoprotein E3 CR1-gamma [Human adenovirus B]
+gi|56160621|ref|AP_000286.1|vFam_3595| E3 CR1-gamma1 [Simian adenovirus 21]

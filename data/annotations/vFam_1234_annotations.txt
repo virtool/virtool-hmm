@@ -1,0 +1,13 @@
+CLUSTER	1234
+NUM_SEQ	5
+LENGTH	294
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	147.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|529153534|ref|YP_008378559.1|vFam_1234| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|529153369|ref|YP_008378409.1|vFam_1234| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|571031255|ref|YP_008992151.1|vFam_1234| hypothetical protein chmu059 [Choristoneura murinana alphabaculovirus]
+gi|529153535|ref|YP_008378560.1|vFam_1234| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|529153370|ref|YP_008378410.1|vFam_1234| hypothetical protein [Choristoneura rosaceana alphabaculovirus]

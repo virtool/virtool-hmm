@@ -1,0 +1,12 @@
+CLUSTER	1451
+NUM_SEQ	4
+LENGTH	304
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	158.08
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Atadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|56158880|ref|AP_000076.1|vFam_1451| p32K [Duck adenovirus A]
+gi|21450892|ref|NP_659510.1|vFam_1451| p32K [Ovine adenovirus D]
+gi|440382962|ref|YP_007346993.1|vFam_1451| p32K [Bovine adenovirus 6]
+gi|13242715|ref|NP_077384.1|vFam_1451| p32K [Bovine adenovirus D]

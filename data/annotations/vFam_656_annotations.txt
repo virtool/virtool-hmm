@@ -1,0 +1,19 @@
+CLUSTER	656
+NUM_SEQ	11
+LENGTH	176
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	91.52
+FAMILIES	{'Baculoviridae': 10}
+GENERA	{'Betabaculovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|285002308|ref|YP_003422372.1|vFam_656| LEF-2 [Pseudaletia unipuncta granulovirus]
+gi|164519228|ref|YP_001649015.1|vFam_656| late expression factor-2 [Helicoverpa armigera granulovirus]
+gi|46309419|ref|YP_006309.1|vFam_656| ORF35 [Agrotis segetum granulovirus]
+gi|148368853|ref|YP_001256983.1|vFam_656| lef-2 [Spodoptera litura granulovirus]
+gi|32698571|ref|NP_872486.1|vFam_656| lef-2 [Adoxophyes orana granulovirus]
+gi|21686702|ref|NP_663202.1|vFam_656| late expression factor 2 [Phthorimaea operculella granulovirus]
+gi|33622238|ref|NP_891885.1|vFam_656| lef-2 [Cryptophlebia leucotreta granulovirus]
+gi|14602278|ref|NP_148825.1|vFam_656| ORF41 LEF-2 [Cydia pomonella granulovirus]
+gi|556549064|ref|YP_008719978.1|vFam_656| lef-2 [Clostera anastomosis granulovirus]
+gi|288804672|ref|YP_003429357.1|vFam_656| LEF-2 [Pieris rapae granulovirus]
+gi|109255301|ref|YP_654450.1|vFam_656| LEF-2 [Choristoneura occidentalis granulovirus]

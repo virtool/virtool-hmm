@@ -1,0 +1,12 @@
+CLUSTER	2110
+NUM_SEQ	4
+LENGTH	204
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	104.04
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498238|ref|YP_008004035.1|vFam_2110| unknown similar to AMEV233 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497977|ref|YP_008003776.1|vFam_2110| unknown similar to AMEV233 [Mythimna separata entomopoxvirus 'L']
+gi|506498846|ref|YP_008004640.1|vFam_2110| unknown similar to AMEV233 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964547|ref|NP_065015.1|vFam_2110| hypothetical protein AMV233 [Amsacta moorei entomopoxvirus 'L']

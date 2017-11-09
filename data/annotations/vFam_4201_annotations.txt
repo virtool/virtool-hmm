@@ -1,0 +1,11 @@
+CLUSTER	4201
+NUM_SEQ	3
+LENGTH	73
+RELATIVE_ENTROPY_PER_POSITION	0.69
+TOTAL_RELATIVE_ENTROPY	50.37
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|260666047|ref|YP_003213001.1|vFam_4201| hypothetical protein H665_p178 [Ostreococcus tauri virus 1]
+gi|260665997|ref|YP_003212951.1|vFam_4201| hypothetical protein H665_p128 [Ostreococcus tauri virus 1]
+gi|163955121|ref|YP_001648225.1|vFam_4201| hypothetical protein OsV5_148f [Ostreococcus virus OsV5]

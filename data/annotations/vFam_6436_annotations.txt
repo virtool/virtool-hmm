@@ -1,0 +1,10 @@
+CLUSTER	6436
+NUM_SEQ	2
+LENGTH	148
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	74.0
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Varicellovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|296316058|ref|YP_003662522.1|vFam_6436| protein V57 [Bovine herpesvirus 5]
+gi|9629872|ref|NP_045356.1|vFam_6436| protein V57 [Bovine herpesvirus 1]

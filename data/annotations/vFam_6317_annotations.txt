@@ -1,0 +1,10 @@
+CLUSTER	6317
+NUM_SEQ	2
+LENGTH	66
+RELATIVE_ENTROPY_PER_POSITION	0.79
+TOTAL_RELATIVE_ENTROPY	52.14
+FAMILIES	{'Potyviridae': 2}
+GENERA	{'Potyvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|390504024|ref|YP_006423970.1|vFam_6317| PIPO, partial [Sweet potato virus C]
+gi|389885065|ref|YP_006393465.1|vFam_6317| PIPO, partial [Sweet potato feathery mottle virus]

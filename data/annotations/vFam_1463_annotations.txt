@@ -1,0 +1,14 @@
+CLUSTER	1463
+NUM_SEQ	6
+LENGTH	120
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	62.4
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|438000389|ref|YP_007250494.1|vFam_1463| p15 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643623|ref|YP_002884313.1|vFam_1463| VP15 [Bombyx mandarina nucleopolyhedrovirus]
+gi|86355587|ref|YP_473255.1|vFam_1463| P15 [Hyphantria cunea nucleopolyhedrovirus]
+gi|306478721|ref|NP_046244.2|vFam_1463| Putative 15 kDa capsid protein [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153545|ref|YP_008378570.1|vFam_1463| capsid protein P15 [Choristoneura occidentalis alphabaculovirus]
+gi|571031266|ref|YP_008992162.1|vFam_1463| ac87 [Choristoneura murinana alphabaculovirus]

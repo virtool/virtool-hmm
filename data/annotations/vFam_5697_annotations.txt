@@ -1,0 +1,10 @@
+CLUSTER	5697
+NUM_SEQ	2
+LENGTH	253
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	131.56
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Coccolithovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|73852887|ref|YP_294171.1|vFam_5697| hypothetical protein EhV413 [Emiliania huxleyi virus 86]
+gi|73852591|ref|YP_293875.1|vFam_5697| hypothetical protein EhV121 [Emiliania huxleyi virus 86]

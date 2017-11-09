@@ -1,0 +1,12 @@
+CLUSTER	1501
+NUM_SEQ	4
+LENGTH	290
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	150.8
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Rhadinovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|18653833|ref|NP_570767.1|vFam_1501| hypothetical protein MmrVgp26 [Macacine herpesvirus 5]
+gi|139472872|ref|YP_001129380.1|vFam_1501| ORF27 [Human herpesvirus 8]
+gi|9631217|ref|NP_047998.1|vFam_1501| orf 27 [Ateline herpesvirus 3]
+gi|9625983|ref|NP_040229.1|vFam_1501| unnamed protein product [Saimiriine herpesvirus 2]

@@ -1,0 +1,12 @@
+CLUSTER	2138
+NUM_SEQ	4
+LENGTH	152
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	80.56
+FAMILIES	{'Polydnaviridae': 4}
+GENERA	{'Ichnovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|124378218|ref|YP_001029419.1|vFam_2138| GfV-C16-ORF2 [Glypta fumiferanae ichnovirus]
+gi|124378263|ref|YP_001029443.1|vFam_2138| GfV-C8-ORF2 [Glypta fumiferanae ichnovirus]
+gi|124378152|ref|YP_001029384.1|vFam_2138| hypothetical protein GfIV_sB46gp2 [Glypta fumiferanae ichnovirus]
+gi|124378081|ref|YP_001029350.1|vFam_2138| GfV-B6-ORF2 [Glypta fumiferanae ichnovirus]

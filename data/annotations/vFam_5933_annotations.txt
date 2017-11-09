@@ -1,0 +1,10 @@
+CLUSTER	5933
+NUM_SEQ	2
+LENGTH	161
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	83.72
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Capripoxvirus': 1, 'Cervidpoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|148913027|ref|YP_001293341.1|vFam_5933| hypothetical protein GTPV_gp143 [Goatpox virus Pellor]
+gi|211956430|ref|YP_002302500.1|vFam_5933| hypothetical protein DpV84gp159 [Deerpox virus W-1170-84]

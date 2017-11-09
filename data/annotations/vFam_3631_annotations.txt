@@ -1,0 +1,12 @@
+CLUSTER	3631
+NUM_SEQ	4
+LENGTH	84
+RELATIVE_ENTROPY_PER_POSITION	0.58
+TOTAL_RELATIVE_ENTROPY	48.72
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'Phaeovirus': 1, 'Prymnesiovirus': 1, 'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|13242545|ref|NP_077558.1|vFam_3631| EsV-1-73 [Ectocarpus siliculosus virus 1]
+gi|508181866|ref|YP_008052385.1|vFam_3631| AN1-type zinc finger protein [Phaeocystis globosa virus]
+gi|155371608|ref|YP_001427142.1|vFam_3631| hypothetical protein ATCV1_Z661L [Acanthocystis turfacea Chlorella virus 1]
+gi|157953932|ref|YP_001498823.1|vFam_3631| hypothetical protein AR158_C742L [Paramecium bursaria Chlorella virus AR158]

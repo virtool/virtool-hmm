@@ -1,0 +1,13 @@
+CLUSTER	1437
+NUM_SEQ	5
+LENGTH	570
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	296.4
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631476|ref|NP_048214.1|vFam_1437| ORF MSV143 putative poly(A) polymerase large subunit PAP-L homolog (vaccinia E1L), similar to SW:P33809 [Melanoplus sanguinipes entomopoxvirus]
+gi|506498064|ref|YP_008003861.1|vFam_1437| poly(A) polymerase catalytic subunit VP55 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497782|ref|YP_008003581.1|vFam_1437| poly(A) polymerase catalytic subunit VP55 [Mythimna separata entomopoxvirus 'L']
+gi|506498674|ref|YP_008004468.1|vFam_1437| poly(A) polymerase catalytic subunit VP55 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964352|ref|NP_064820.1|vFam_1437| putative poly(A) polymerase large subunit [Amsacta moorei entomopoxvirus 'L']

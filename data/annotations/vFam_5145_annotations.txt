@@ -1,0 +1,10 @@
+CLUSTER	5145
+NUM_SEQ	2
+LENGTH	241
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	120.5
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|228861614|ref|YP_002854634.1|vFam_5145| hypothetical protein EupsNPV_gp024 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|9631044|ref|NP_047714.1|vFam_5145| LdOrf-77 peptide [Lymantria dispar multiple nucleopolyhedrovirus]

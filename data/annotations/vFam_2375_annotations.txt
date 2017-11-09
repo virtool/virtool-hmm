@@ -1,0 +1,12 @@
+CLUSTER	2375
+NUM_SEQ	4
+LENGTH	453
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	235.56
+FAMILIES	{'Bunyaviridae': 4}
+GENERA	{'Tospovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|391738074|ref|YP_006468899.1|vFam_2375| non-structural silencing protein [Bean necrotic mosaic virus]
+gi|20153337|ref|NP_619708.1|vFam_2375| non-structural protein [Impatiens necrotic spot virus]
+gi|332290589|ref|YP_004421856.1|vFam_2375| nonstructural silencing protein [Groundnut ringspot and Tomato chlorotic spot virus reassortant]
+gi|9632389|ref|NP_049360.1|vFam_2375| non-structural protein [Tomato spotted wilt virus]

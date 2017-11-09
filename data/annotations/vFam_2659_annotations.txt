@@ -1,0 +1,11 @@
+CLUSTER	2659
+NUM_SEQ	3
+LENGTH	348
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	177.48
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'Phaeovirus': 2, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852861|ref|YP_294145.1|vFam_2659| hypothetical protein EhV387 [Emiliania huxleyi virus 86]
+gi|197322409|ref|YP_002154682.1|vFam_2659| putative protelomerase [Feldmannia species virus]
+gi|13242645|ref|NP_077660.1|vFam_2659| EsV-1-175 [Ectocarpus siliculosus virus 1]

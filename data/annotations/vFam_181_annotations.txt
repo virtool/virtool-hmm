@@ -1,0 +1,38 @@
+CLUSTER	181
+NUM_SEQ	30
+LENGTH	280
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	142.8
+FAMILIES	{'None': 1, 'Baculoviridae': 24, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'Betabaculovirus': 12, 'None': 2, 'Alphabaculovirus': 12}
+FASTA SEQUENCE TITLES:
+gi|119756986|ref|YP_919028.1|vFam_181| hypothetical protein BJ1_gp01 [Archaeal BJ1 virus]
+gi|311978115|ref|YP_003987235.1|vFam_181| P13-like protein [Acanthamoeba polyphaga mimivirus]
+gi|448825210|ref|YP_007418141.1|vFam_181| p13-like protein [Megavirus lba]
+gi|441432126|ref|YP_007354168.1|vFam_181| putative glycosyltransferase [Acanthamoeba polyphaga moumouvirus]
+gi|285002316|ref|YP_003422380.1|vFam_181| P13 [Pseudaletia unipuncta granulovirus]
+gi|148368859|ref|YP_001256989.1|vFam_181| p13 [Spodoptera litura granulovirus]
+gi|334265703|ref|YP_004376232.1|vFam_181| p13 [Clostera anachoreta granulovirus]
+gi|288804677|ref|YP_003429362.1|vFam_181| P13 [Pieris rapae granulovirus]
+gi|32698577|ref|NP_872492.1|vFam_181| p13 [Adoxophyes orana granulovirus]
+gi|410493615|ref|YP_006908553.1|vFam_181| P13 [Epinotia aporema granulovirus]
+gi|21686707|ref|NP_663207.1|vFam_181| glycogenin P13 [Phthorimaea operculella granulovirus]
+gi|46309412|ref|YP_006302.1|vFam_181| ORF42 [Agrotis segetum granulovirus]
+gi|109255306|ref|YP_654455.1|vFam_181| P13 [Choristoneura occidentalis granulovirus]
+gi|14602284|ref|NP_148831.1|vFam_181| ORF47 P13 [Cydia pomonella granulovirus]
+gi|33622244|ref|NP_891891.1|vFam_181| p13 [Cryptophlebia leucotreta granulovirus]
+gi|11068039|ref|NP_068255.1|vFam_181| PxORF36 peptide [Plutella xylostella granulovirus]
+gi|118197568|ref|YP_874280.1|vFam_181| glycosyl transferase [Ectropis obliqua nucleopolyhedrovirus]
+gi|15617567|ref|NP_258367.1|vFam_181| P13 protein [Spodoptera litura nucleopolyhedrovirus]
+gi|114679961|ref|YP_758411.1|vFam_181| p13 [Leucania separata nucleopolyhedrovirus]
+gi|209401153|ref|YP_002274022.1|vFam_181| hypothetical protein HaSNPVNNg1_gp099 [Helicoverpa armigera NPV NNg1]
+gi|74229782|ref|YP_308986.1|vFam_181| orf97 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304238|ref|YP_249706.1|vFam_181| P13 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|209978859|ref|YP_002300602.1|vFam_181| P13 [Adoxophyes orana nucleopolyhedrovirus]
+gi|113195494|ref|YP_717632.1|vFam_181| P13 [Clanis bilineata nucleopolyhedrovirus]
+gi|22549477|ref|NP_689250.1|vFam_181| p13 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209170954|ref|YP_002268100.1|vFam_181| P13 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592781|ref|YP_529734.1|vFam_181| P13 [Agrotis segetum nucleopolyhedrovirus]
+gi|125860178|ref|YP_001036348.1|vFam_181| p13 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401455|ref|YP_002332758.1|vFam_181| P13 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634277|ref|NP_037816.1|vFam_181| ORF56 p13 homolog in Leucania separata NPV [Spodoptera exigua multiple nucleopolyhedrovirus]

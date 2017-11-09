@@ -1,0 +1,14 @@
+CLUSTER	1012
+NUM_SEQ	6
+LENGTH	350
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	182.0
+FAMILIES	{'Marseillevirus family': 2, 'Iridoviridae': 2, 'Ascoviridae': 2}
+GENERA	{'None': 2, 'Ascovirus': 2, 'Iridovirus': 1, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|116326807|ref|YP_803344.1|vFam_1012| hypothetical protein TNAV2c_gp121 [Trichoplusia ni ascovirus 2c]
+gi|115298561|ref|YP_762414.1|vFam_1012| 41.8 Metallo-dependent calcineurin-like phosphatase [Spodoptera frugiperda ascovirus 1a]
+gi|327409875|ref|YP_004347295.1|vFam_1012| putative DNA repair exonuclease [Lausannevirus]
+gi|284504334|ref|YP_003407049.1|vFam_1012| DNA repair exonuclease SbcCD D subunit [Marseillevirus]
+gi|339906125|ref|YP_004732922.1|vFam_1012| hypothetical protein WIV_gp139 [Wiseana iridescent virus]
+gi|109287956|ref|YP_654650.1|vFam_1012| hypothetical protein MIV078R [Invertebrate iridescent virus 3]

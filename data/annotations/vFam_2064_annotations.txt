@@ -1,0 +1,10 @@
+CLUSTER	2064
+NUM_SEQ	2
+LENGTH	230
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	117.3
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|441432149|ref|YP_007354191.1|vFam_2064| eukaryotic peptide chain release translation termination factor 1 [Acanthamoeba polyphaga moumouvirus]
+gi|311978135|ref|YP_003987255.1|vFam_2064| peptide chain release factor eRF1 [Acanthamoeba polyphaga mimivirus]

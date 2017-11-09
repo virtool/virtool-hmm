@@ -1,0 +1,11 @@
+CLUSTER	2186
+NUM_SEQ	3
+LENGTH	521
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	265.71
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|282174134|ref|YP_003358236.1|vFam_2186| protein ORF97 [Anguillid herpesvirus 1]
+gi|422933866|ref|YP_007003921.1|vFam_2186| protein ORF102 [Cyprinid herpesvirus 2]
+gi|422933640|ref|YP_007003765.1|vFam_2186| protein ORF102 [Cyprinid herpesvirus 1]

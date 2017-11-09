@@ -1,0 +1,12 @@
+CLUSTER	2389
+NUM_SEQ	4
+LENGTH	302
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	157.04
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Macavirus': 1, 'Rhadinovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|83642885|ref|YP_438172.1|vFam_2389| ORF49 [Ovine herpesvirus 2]
+gi|13095627|ref|NP_076542.1|vFam_2389| unknown [Bovine herpesvirus 4]
+gi|139472877|ref|YP_001129402.1|vFam_2389| ORF49 [Human herpesvirus 8]
+gi|18653856|ref|NP_570790.1|vFam_2389| hypothetical protein MmrVgp49 [Macacine herpesvirus 5]

@@ -1,0 +1,18 @@
+CLUSTER	828
+NUM_SEQ	10
+LENGTH	458
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	238.16
+FAMILIES	{'Baculoviridae': 6}
+GENERA	{'Alphabaculovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|438000335|ref|YP_007250440.1|vFam_828| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964555|ref|YP_950751.1|vFam_828| Mv-ORF21 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|15320687|ref|NP_203199.1|vFam_828| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|96979875|ref|YP_611082.1|vFam_828| hypothetical protein APNV_p115 [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326106|ref|YP_803431.1|vFam_828| hypothetical protein AGNV_gp037 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|86355637|ref|YP_473305.1|vFam_828| ORF117 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629976|ref|NP_046194.1|vFam_828| hypothetical protein OpmnVgp038 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153427|ref|YP_008378467.1|vFam_828| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|571031307|ref|YP_008992204.1|vFam_828| ac30 [Choristoneura murinana alphabaculovirus]
+gi|529153592|ref|YP_008378617.1|vFam_828| hypothetical protein [Choristoneura occidentalis alphabaculovirus]

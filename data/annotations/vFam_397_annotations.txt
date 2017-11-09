@@ -1,0 +1,23 @@
+CLUSTER	397
+NUM_SEQ	15
+LENGTH	368
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	187.68
+FAMILIES	{'Baculoviridae': 12}
+GENERA	{'Alphabaculovirus': 12}
+FASTA SEQUENCE TITLES:
+gi|118197518|ref|YP_874229.1|vFam_397| hypothetical protein EONV_gp036 [Ectropis obliqua nucleopolyhedrovirus]
+gi|114679908|ref|YP_758358.1|vFam_397| ORF61 [Leucania separata nucleopolyhedrovirus]
+gi|209401098|ref|YP_002273967.1|vFam_397| hypothetical protein HaSNPVNNg1_gp044 [Helicoverpa armigera NPV NNg1]
+gi|215401360|ref|YP_002332664.1|vFam_397| hypothetical protein HaMNV_gp128 [Helicoverpa armigera multiple nucleopolyhedrovirus]
+gi|74229725|ref|YP_308929.1|vFam_397| orf39 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304178|ref|YP_249646.1|vFam_397| ORF-42 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|215401506|ref|YP_002332810.1|vFam_397| hypothetical protein SlnV2_gp112 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634328|ref|NP_037867.1|vFam_397| ORF107 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209171008|ref|YP_002268155.1|vFam_397| agip125 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592833|ref|YP_529786.1|vFam_397| ORF-116 [Agrotis segetum nucleopolyhedrovirus]
+gi|165969050|ref|YP_001650950.1|vFam_397| hypothetical protein [Orgyia leucostigma NPV]
+gi|529218095|ref|YP_008378258.1|vFam_397| HESP042 [Hemileuca sp. nucleopolyhedrovirus]
+gi|113195439|ref|YP_717576.1|vFam_397| Chch42-like peptide [Clanis bilineata nucleopolyhedrovirus]
+gi|228861629|ref|YP_002854649.1|vFam_397| hypothetical protein EupsNPV_gp039 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|402502136|ref|YP_006607794.1|vFam_397| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]

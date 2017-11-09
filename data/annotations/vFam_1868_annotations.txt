@@ -1,0 +1,14 @@
+CLUSTER	1868
+NUM_SEQ	6
+LENGTH	214
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	113.42
+FAMILIES	{'Secoviridae': 6}
+GENERA	{'Comovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|25013680|ref|NP_734065.1|vFam_1868| small coat protein [Cowpea severe mosaic virus]
+gi|25013703|ref|NP_733988.1|vFam_1868| small capsid protein [Squash mosaic virus]
+gi|25013672|ref|NP_734074.1|vFam_1868| Small coat protein [Bean pod mottle virus]
+gi|530323610|ref|YP_008400146.1|vFam_1868| small capsid protein [Broad bean true mosaic virus]
+gi|25013706|ref|NP_734002.1|vFam_1868| small capsid protein [Cowpea mosaic virus]
+gi|25013688|ref|NP_733993.1|vFam_1868| small capsid protein [Red clover mottle virus]

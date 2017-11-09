@@ -1,0 +1,12 @@
+CLUSTER	1246
+NUM_SEQ	4
+LENGTH	280
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	148.4
+FAMILIES	{'Betaflexiviridae': 4}
+GENERA	{'Vitivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|195546759|ref|YP_002117777.1|vFam_1246| movement protein [Grapevine virus E]
+gi|357579589|ref|YP_004935360.1|vFam_1246| ORF3 gene product [Actinidia virus B]
+gi|20153362|ref|NP_619664.1|vFam_1246| movement protein [Grapevine virus A]
+gi|401829601|ref|YP_006590067.1|vFam_1246| movement protein [Grapevine virus F]

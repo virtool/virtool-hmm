@@ -1,0 +1,13 @@
+CLUSTER	2136
+NUM_SEQ	5
+LENGTH	347
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	180.44
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|285002346|ref|YP_003422410.1|vFam_2136| hypothetical protein PsunGV_gp071 [Pseudaletia unipuncta granulovirus]
+gi|164519261|ref|YP_001649048.1|vFam_2136| hypothetical protein HaGV_gp066 [Helicoverpa armigera granulovirus]
+gi|506498146|ref|YP_008003943.1|vFam_2136| unknown similar to XecnGV orf72 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498664|ref|YP_008004458.1|vFam_2136| unknown similar to XecnGV orf72 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506497881|ref|YP_008003680.1|vFam_2136| unknown similar to XecnGV orf72 [Mythimna separata entomopoxvirus 'L']

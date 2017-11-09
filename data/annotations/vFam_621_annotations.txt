@@ -1,0 +1,21 @@
+CLUSTER	621
+NUM_SEQ	13
+LENGTH	357
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	182.07
+FAMILIES	{'Marseillevirus family': 2, 'Iridoviridae': 7, 'Ascoviridae': 3}
+GENERA	{'None': 2, 'Chloriridovirus': 1, 'Ascovirus': 3, 'Ranavirus': 2, 'Lymphocystivirus': 2, 'Iridovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|116326798|ref|YP_803335.1|vFam_621| hypothetical protein TNAV2c_gp112 [Trichoplusia ni ascovirus 2c]
+gi|134287236|ref|YP_001110932.1|vFam_621| nuclease-VHS inhibit celluar gene expression [Heliothis virescens ascovirus 3e]
+gi|115298568|ref|YP_762421.1|vFam_621| 40.8 kDa FEN-1/FLAP-like endonuclease XPG N-I domain [Spodoptera frugiperda ascovirus 1a]
+gi|51870121|ref|YP_073674.1|vFam_621| hypothetical protein LDVICp168 [Lymphocystis disease virus - isolate China]
+gi|13358436|ref|NP_078767.1|vFam_621| Putative XPG/RAD2-type nuclease [Lymphocystis disease virus 1]
+gi|388260080|ref|YP_006347608.1|vFam_621| DNA repair enzyme RAD2 [European catfish virus]
+gi|56692734|ref|YP_164192.1|vFam_621| DNA repair protein RAD2 [Singapore grouper iridovirus]
+gi|327409739|ref|YP_004347159.1|vFam_621| putative Flap endonuclease [Lausannevirus]
+gi|284504378|ref|YP_003407093.1|vFam_621| flap-specific endonuclease [Marseillevirus]
+gi|15079080|ref|NP_149832.1|vFam_621| 369L [Invertebrate iridescent virus 6]
+gi|109287954|ref|YP_654648.1|vFam_621| hypothetical protein MIV076L [Invertebrate iridescent virus 3]
+gi|527333555|ref|YP_008357339.1|vFam_621| Flap endonuclease 1-A [Invertebrate iridovirus 22]
+gi|339906148|ref|YP_004732945.1|vFam_621| hypothetical protein WIV_gp162 [Wiseana iridescent virus]

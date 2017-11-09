@@ -1,0 +1,14 @@
+CLUSTER	1960
+NUM_SEQ	6
+LENGTH	544
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	282.88
+FAMILIES	{'Paramyxoviridae': 6}
+GENERA	{'Pneumovirus': 4, 'Metapneumovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|83716029|ref|YP_443840.1|vFam_1960| fusion protein [Avian metapneumovirus]
+gi|46852136|ref|YP_012608.1|vFam_1960| fusion glycoprotein precursor [Human metapneumovirus]
+gi|56900723|ref|YP_173332.1|vFam_1960| fusion protein [Pneumonia virus of mice J3666]
+gi|9631275|ref|NP_048055.1|vFam_1960| F0 [Bovine respiratory syncytial virus]
+gi|9629375|ref|NP_044596.1|vFam_1960| Fusion protein (F) [Respiratory syncytial virus]
+gi|9629206|ref|NP_056863.1|vFam_1960| fusion protein [Human respiratory syncytial virus]

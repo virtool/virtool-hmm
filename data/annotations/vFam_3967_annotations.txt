@@ -1,0 +1,11 @@
+CLUSTER	3967
+NUM_SEQ	3
+LENGTH	307
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	159.64
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977865|ref|YP_003986985.1|vFam_3967| uncharacterized peptidase C1-like protein [Acanthamoeba polyphaga mimivirus]
+gi|448825360|ref|YP_007418291.1|vFam_3967| putative peptidase C1-like protein [Megavirus lba]
+gi|441432264|ref|YP_007354306.1|vFam_3967| Cathepsin B, cystein protease [Acanthamoeba polyphaga moumouvirus]

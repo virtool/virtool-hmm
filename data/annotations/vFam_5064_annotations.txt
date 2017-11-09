@@ -1,0 +1,11 @@
+CLUSTER	5064
+NUM_SEQ	3
+LENGTH	99
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	52.47
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|16753107|ref|NP_445685.1|vFam_5064| hypothetical protein SIFV0020 [Sulfolobus islandicus filamentous virus]
+gi|16753105|ref|NP_445683.1|vFam_5064| hypothetical protein SIFV0018 [Sulfolobus islandicus filamentous virus]
+gi|16753102|ref|NP_445680.1|vFam_5064| hypothetical protein SIFV0015 [Sulfolobus islandicus filamentous virus]

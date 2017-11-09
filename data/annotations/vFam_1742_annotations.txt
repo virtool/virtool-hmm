@@ -1,0 +1,14 @@
+CLUSTER	1742
+NUM_SEQ	6
+LENGTH	431
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	219.81
+FAMILIES	{'Phycodnaviridae': 6}
+GENERA	{'Chlorovirus': 5, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852576|ref|YP_293860.1|vFam_1742| hypothetical protein EhV106 [Emiliania huxleyi virus 86]
+gi|9632035|ref|NP_048824.1|vFam_1742| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953763|ref|YP_001498654.1|vFam_1742| hypothetical protein AR158_C573R [Paramecium bursaria Chlorella virus AR158]
+gi|157952937|ref|YP_001497829.1|vFam_1742| hypothetical protein NY2A_B633R [Paramecium bursaria Chlorella virus NY2A]
+gi|155371001|ref|YP_001426535.1|vFam_1742| hypothetical protein ATCV1_Z054L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370760|ref|YP_001426294.1|vFam_1742| hypothetical protein FR483_N662L [Paramecium bursaria Chlorella virus FR483]

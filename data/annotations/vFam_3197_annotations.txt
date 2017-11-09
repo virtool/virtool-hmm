@@ -1,0 +1,10 @@
+CLUSTER	3197
+NUM_SEQ	2
+LENGTH	111
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	57.72
+FAMILIES	{'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|116326737|ref|YP_803274.1|vFam_3197| hypothetical protein TNAV2c_gp051 [Trichoplusia ni ascovirus 2c]
+gi|115298591|ref|YP_762444.1|vFam_3197| 13 kDa [Spodoptera frugiperda ascovirus 1a]

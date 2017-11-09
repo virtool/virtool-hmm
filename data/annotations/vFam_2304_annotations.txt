@@ -1,0 +1,12 @@
+CLUSTER	2304
+NUM_SEQ	4
+LENGTH	293
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	152.36
+FAMILIES	{'Rhabdoviridae': 4}
+GENERA	{'Vesiculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|14336456|ref|NP_116745.1|vFam_2304| phosphoprotein [Spring viraemia of carp virus]
+gi|9627231|ref|NP_041713.1|vFam_2304| NS protein [Vesicular stomatitis Indiana virus]
+gi|471236995|ref|YP_007641383.1|vFam_2304| phosphoprotein [Isfahan virus]
+gi|471236989|ref|YP_007641378.1|vFam_2304| phosphoprotein [Chandipura virus]

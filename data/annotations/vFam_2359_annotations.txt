@@ -1,0 +1,10 @@
+CLUSTER	2359
+NUM_SEQ	2
+LENGTH	128
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	66.56
+FAMILIES	{'Herpesviridae': 1}
+GENERA	{'Cytomegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531037300|ref|YP_008438943.1|vFam_2359| hypothetical protein ps_2541 [Pandoravirus salinus]
+gi|356640346|ref|YP_004933788.1|vFam_2359| hypothetical protein cy54 [Cynomolgus macaque cytomegalovirus strain Ottawa]

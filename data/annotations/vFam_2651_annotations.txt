@@ -1,0 +1,10 @@
+CLUSTER	2651
+NUM_SEQ	2
+LENGTH	143
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	74.36
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Coccolithovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|73852795|ref|YP_294079.1|vFam_2651| hypothetical protein EhV321 [Emiliania huxleyi virus 86]
+gi|73852750|ref|YP_294034.1|vFam_2651| hypothetical protein EhV277 [Emiliania huxleyi virus 86]

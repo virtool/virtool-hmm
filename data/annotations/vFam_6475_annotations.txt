@@ -1,0 +1,10 @@
+CLUSTER	6475
+NUM_SEQ	2
+LENGTH	154
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	77.0
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Betabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|285002310|ref|YP_003422374.1|vFam_6475| hypothetical protein PsunGV_gp035 [Pseudaletia unipuncta granulovirus]
+gi|114679892|ref|YP_758342.1|vFam_6475| ORF45 [Leucania separata nucleopolyhedrovirus]

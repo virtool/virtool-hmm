@@ -1,0 +1,12 @@
+CLUSTER	2115
+NUM_SEQ	4
+LENGTH	72
+RELATIVE_ENTROPY_PER_POSITION	0.72
+TOTAL_RELATIVE_ENTROPY	51.84
+FAMILIES	{'Tombusviridae': 4}
+GENERA	{'Necrovirus': 3, 'Carmovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9629511|ref|NP_044734.1|vFam_2115| movement protein [Galinsoga mosaic virus]
+gi|9628877|ref|NP_043909.1|vFam_2115| hypothetical protein OLV1gp3 [Olive latent virus 1]
+gi|62327384|ref|YP_224018.1|vFam_2115| p8 [Olive mild mosaic virus]
+gi|9629185|ref|NP_056826.1|vFam_2115| hypothetical protein TNVAgp2 [Tobacco necrosis virus A]

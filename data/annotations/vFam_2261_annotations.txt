@@ -1,0 +1,13 @@
+CLUSTER	2261
+NUM_SEQ	5
+LENGTH	177
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	88.5
+FAMILIES	{'Baculoviridae': 3, 'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2, 'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|90592801|ref|YP_529754.1|vFam_2261| ORF-84 [Agrotis segetum nucleopolyhedrovirus]
+gi|74229797|ref|YP_309001.1|vFam_2261| orf112 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304254|ref|YP_249722.1|vFam_2261| ORF-118 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|134287324|ref|YP_001111020.1|vFam_2261| RING-finger-containing E3 ubiquitin ligase [Heliothis virescens ascovirus 3e]
+gi|115298583|ref|YP_762436.1|vFam_2261| 21.1 kDa Makorin-like, E3 ubiquitin ligase [Spodoptera frugiperda ascovirus 1a]

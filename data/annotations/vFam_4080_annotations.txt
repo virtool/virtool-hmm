@@ -1,0 +1,11 @@
+CLUSTER	4080
+NUM_SEQ	3
+LENGTH	132
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	67.32
+FAMILIES	{'Picornaviridae': 3}
+GENERA	{'Aphthovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|25121635|ref|NP_740462.1|vFam_4080| 2B [Foot-and-mouth disease virus - type O]
+gi|25121695|ref|NP_740378.1|vFam_4080| 2B [Equine rhinitis A virus]
+gi|168480163|ref|YP_001686943.1|vFam_4080| 2B [Bovine rhinitis B virus]

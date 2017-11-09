@@ -1,0 +1,13 @@
+CLUSTER	1866
+NUM_SEQ	5
+LENGTH	437
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	222.87
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036094|ref|YP_008437730.1|vFam_1866| hypothetical protein ps_1319 [Pandoravirus salinus]
+gi|526119570|ref|YP_008319473.1|vFam_1866| hypothetical protein [Pandoravirus dulcis]
+gi|531036091|ref|YP_008437727.1|vFam_1866| hypothetical protein ps_1316 [Pandoravirus salinus]
+gi|531036139|ref|YP_008437775.1|vFam_1866| hypothetical protein ps_1364 [Pandoravirus salinus]
+gi|526119567|ref|YP_008319470.1|vFam_1866| hypothetical protein [Pandoravirus dulcis]

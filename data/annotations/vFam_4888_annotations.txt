@@ -1,0 +1,11 @@
+CLUSTER	4888
+NUM_SEQ	3
+LENGTH	101
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	52.52
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978312|ref|YP_003987434.1|vFam_4888| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825956|ref|YP_007418887.1|vFam_4888| hypothetical protein LBA_00993 [Megavirus lba]
+gi|363540677|ref|YP_004894998.1|vFam_4888| mg947 gene product [Megavirus chiliensis]

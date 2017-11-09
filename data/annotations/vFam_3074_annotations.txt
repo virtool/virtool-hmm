@@ -1,0 +1,11 @@
+CLUSTER	3074
+NUM_SEQ	3
+LENGTH	309
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	160.68
+FAMILIES	{'Rhabdoviridae': 3}
+GENERA	{'Cytorhabdovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|400354806|ref|YP_006576502.1|vFam_3074| phosphoprotein [Persimmon virus A]
+gi|212498333|ref|YP_002308372.1|vFam_3074| P protein [Lettuce yellow mottle virus]
+gi|83659773|ref|YP_425088.1|vFam_3074| phospoprotein [Lettuce necrotic yellows virus]

@@ -1,0 +1,10 @@
+CLUSTER	3893
+NUM_SEQ	2
+LENGTH	346
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	179.92
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441432246|ref|YP_007354288.1|vFam_3893| hypothetical protein Moumou_00312 [Acanthamoeba polyphaga moumouvirus]
+gi|363540688|ref|YP_004894871.1|vFam_3893| mg820 gene product [Megavirus chiliensis]

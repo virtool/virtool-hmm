@@ -1,0 +1,11 @@
+CLUSTER	2152
+NUM_SEQ	3
+LENGTH	179
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	91.29
+FAMILIES	{'None': 1, 'Polydnaviridae': 2}
+GENERA	{'None': 1, 'Ichnovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|213159273|ref|YP_002321316.1|vFam_2152| hypothetical protein OrNV_gp005 [Oryctes rhinoceros virus]
+gi|124378171|ref|YP_001029393.1|vFam_2152| GfV-B58-ORF1 [Glypta fumiferanae ichnovirus]
+gi|124378100|ref|YP_001029359.1|vFam_2152| GfV-B16-ORF1 [Glypta fumiferanae ichnovirus]

@@ -1,0 +1,12 @@
+CLUSTER	1965
+NUM_SEQ	4
+LENGTH	373
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	190.23
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|526119652|ref|YP_008319555.1|vFam_1965| hypothetical protein [Pandoravirus dulcis]
+gi|526119540|ref|YP_008319443.1|vFam_1965| hypothetical protein [Pandoravirus dulcis]
+gi|531035734|ref|YP_008437368.1|vFam_1965| hypothetical protein ps_956 [Pandoravirus salinus]
+gi|526119719|ref|YP_008319622.1|vFam_1965| hypothetical protein [Pandoravirus dulcis]

@@ -1,0 +1,10 @@
+CLUSTER	658
+NUM_SEQ	2
+LENGTH	172
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	86.0
+FAMILIES	{'Marseillevirus family': 1, 'Rhabdoviridae': 1}
+GENERA	{'None': 1, 'Cytorhabdovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|284504107|ref|YP_003406822.1|vFam_658| hypothetical protein MAR_ORF075 [Marseillevirus]
+gi|9635150|ref|NP_057956.1|vFam_658| unnamed protein product; gene 3 protein [Northern cereal mosaic virus]

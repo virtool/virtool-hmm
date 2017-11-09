@@ -1,0 +1,13 @@
+CLUSTER	2837
+NUM_SEQ	5
+LENGTH	130
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	68.9
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'Avipoxvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|40556218|ref|NP_955303.1|vFam_2837| CNPV280 HT motif protein [Canarypox virus]
+gi|9634826|ref|NP_039119.1|vFam_2837| HT motif gene family protein [Fowlpox virus]
+gi|9634822|ref|NP_039115.1|vFam_2837| HT motif gene family protein [Fowlpox virus]
+gi|40556220|ref|NP_955305.1|vFam_2837| CNPV282 HT motif protein [Canarypox virus]
+gi|9634879|ref|NP_039172.1|vFam_2837| HT motif gene family protein [Fowlpox virus]

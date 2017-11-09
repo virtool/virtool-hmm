@@ -1,0 +1,11 @@
+CLUSTER	3915
+NUM_SEQ	3
+LENGTH	393
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	204.36
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Gammabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|48843567|ref|YP_025140.1|vFam_3915| P45 [Neodiprion sertifer nucleopolyhedrovirus]
+gi|48843660|ref|YP_025231.1|vFam_3915| unkown [Neodiprion lecontei nucleopolyhedrovirus]
+gi|110645243|ref|YP_667882.1|vFam_3915| hypothetical protein [Neodiprion abietis NPV]

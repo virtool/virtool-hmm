@@ -1,0 +1,19 @@
+CLUSTER	716
+NUM_SEQ	11
+LENGTH	60
+RELATIVE_ENTROPY_PER_POSITION	0.86
+TOTAL_RELATIVE_ENTROPY	51.6
+FAMILIES	{'Baculoviridae': 10}
+GENERA	{'Alphabaculovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|113195434|ref|YP_717571.1|vFam_716| ac43-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|118197512|ref|YP_874223.1|vFam_716| hypothetical protein EONV_gp030 [Ectropis obliqua nucleopolyhedrovirus]
+gi|74229718|ref|YP_308922.1|vFam_716| hypothetical protein TNSV_gp032 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304171|ref|YP_249639.1|vFam_716| ORF-35 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|165969058|ref|YP_001650958.1|vFam_716| hypothetical protein [Orgyia leucostigma NPV]
+gi|22549543|ref|NP_689316.1|vFam_716| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|125860236|ref|YP_001036406.1|vFam_716| hypothetical protein SFMNPV_gp114 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401512|ref|YP_002332816.1|vFam_716| hypothetical protein SlnV2_gp118 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634334|ref|NP_037873.1|vFam_716| ORF113 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|90592841|ref|YP_529794.1|vFam_716| ORF-124 [Agrotis segetum nucleopolyhedrovirus]
+gi|209171015|ref|YP_002268162.1|vFam_716| agip132 [Agrotis ipsilon multiple nucleopolyhedrovirus]

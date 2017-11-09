@@ -1,0 +1,13 @@
+CLUSTER	2146
+NUM_SEQ	5
+LENGTH	114
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	59.28
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|45655903|ref|YP_003762.1|vFam_2146| hypothetical protein AFV1_ORF116 [Acidianus filamentous virus 1]
+gi|22122310|ref|NP_666571.1|vFam_2146| hypothetical protein SIRV2gp37 [Sulfolobus islandicus rod-shaped virus 2]
+gi|22122256|ref|NP_666617.1|vFam_2146| hypothetical protein SIRV1gp29 [Sulfolobus islandicus rod-shaped virus 1]
+gi|295441851|ref|YP_003591092.1|vFam_2146| hypothetical protein STIV2_B116 [Sulfolobus turreted icosahedral virus 2]
+gi|48697006|ref|YP_025003.1|vFam_2146| hypothetical protein B116 [Sulfolobus turreted icosahedral virus]

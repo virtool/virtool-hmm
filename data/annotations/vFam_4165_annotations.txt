@@ -1,0 +1,11 @@
+CLUSTER	4165
+NUM_SEQ	3
+LENGTH	198
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	95.04
+FAMILIES	{'Herpesviridae': 1}
+GENERA	{'Muromegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|61660138|ref|YP_214029.1|vFam_4165| hypothetical protein MuHV1_gp021 [Murid herpesvirus 1]
+gi|531037087|ref|YP_008438729.1|vFam_4165| hypothetical protein ps_2327 [Pandoravirus salinus]
+gi|526120047|ref|YP_008319950.1|vFam_4165| hypothetical protein [Pandoravirus dulcis]

@@ -1,0 +1,10 @@
+CLUSTER	2300
+NUM_SEQ	2
+LENGTH	465
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	241.8
+FAMILIES	{'Secoviridae': 2}
+GENERA	{'Fabavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|25013975|ref|NP_733955.1|vFam_2300| movement protein [Broad bean wilt virus 2]
+gi|39979436|ref|NP_951023.1|vFam_2300| movement protein [Broad bean wilt virus 1]

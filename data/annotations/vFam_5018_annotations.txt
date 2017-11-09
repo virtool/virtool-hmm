@@ -1,0 +1,11 @@
+CLUSTER	5018
+NUM_SEQ	3
+LENGTH	110
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	56.1
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|157953340|ref|YP_001498231.1|vFam_5018| hypothetical protein AR158_C149L [Paramecium bursaria Chlorella virus AR158]
+gi|9631679|ref|NP_048458.1|vFam_5018| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|146411829|ref|YP_001210322.1|vFam_5018| hypothetical protein ABV_gp18 [Acidianus bottle-shaped virus]

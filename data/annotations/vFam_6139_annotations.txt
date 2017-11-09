@@ -1,0 +1,10 @@
+CLUSTER	6139
+NUM_SEQ	2
+LENGTH	77
+RELATIVE_ENTROPY_PER_POSITION	0.67
+TOTAL_RELATIVE_ENTROPY	51.59
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|260665873|ref|YP_003212827.1|vFam_6139| hypothetical protein H665_p003 [Ostreococcus tauri virus 1]
+gi|313844216|ref|YP_004061879.1|vFam_6139| hypothetical protein OlV1_247 [Ostreococcus lucimarinus virus OlV1]

@@ -1,0 +1,12 @@
+CLUSTER	1775
+NUM_SEQ	4
+LENGTH	200
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	102.0
+FAMILIES	{'Caulimoviridae': 4}
+GENERA	{'None': 1, 'Soymovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|221048146|ref|YP_002519385.1|vFam_1775| hypothetical protein RuFDV_gp3 [Rudbeckia flower distortion virus]
+gi|32306487|ref|NP_861408.1|vFam_1775| putative virion associated protein [Cestrum yellow leaf curling virus]
+gi|21263123|ref|NP_395467.2|vFam_1775| hypothetical protein [Blueberry red ringspot virus]
+gi|11344955|ref|NP_068727.1|vFam_1775| hypothetical protein SbCMVgp3 [Soybean chlorotic mottle virus]

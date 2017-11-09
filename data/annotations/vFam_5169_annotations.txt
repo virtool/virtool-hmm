@@ -1,0 +1,10 @@
+CLUSTER	5169
+NUM_SEQ	2
+LENGTH	379
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	193.29
+FAMILIES	{'Hytrosaviridae': 2}
+GENERA	{'Muscavirus': 1, 'Glossinavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|168804069|ref|YP_001687001.1|vFam_5169| per-os infectivity factor 2-like protein [Glossina pallidipes salivary gland hypertrophy virus]
+gi|187903126|ref|YP_001883417.1|vFam_5169| pif-2 [Musca domestica salivary gland hypertrophy virus]

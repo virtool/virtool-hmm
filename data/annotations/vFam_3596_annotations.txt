@@ -1,0 +1,12 @@
+CLUSTER	3596
+NUM_SEQ	4
+LENGTH	207
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	103.5
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|359946445|ref|YP_004935977.1|vFam_3596| membrane protein RL11F [Cercopithecine herpesvirus 5]
+gi|359946438|ref|YP_004935971.1|vFam_3596| protein RL11E [Cercopithecine herpesvirus 5]
+gi|356640302|ref|YP_004933744.1|vFam_3596| hypothetical protein cy11 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556469|ref|YP_068102.1|vFam_3596| rh08 [Macacine herpesvirus 3]

@@ -1,0 +1,27 @@
+CLUSTER	303
+NUM_SEQ	19
+LENGTH	339
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	183.06
+FAMILIES	{'Herpesviridae': 19}
+GENERA	{'Varicellovirus': 8, 'Mardivirus': 4, 'Iltovirus': 2, 'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|12084883|ref|NP_073348.1|vFam_303| envelope glycoprotein K [Meleagrid herpesvirus 1]
+gi|125745106|ref|YP_001033983.1|vFam_303| envelope glycoprotein K [Gallid herpesvirus 2]
+gi|10834925|ref|NP_066886.1|vFam_303| envelope glycoprotein K [Gallid herpesvirus 3]
+gi|312162802|ref|YP_003933787.1|vFam_303| envelope glycoprotein K [Saimiriine herpesvirus 1]
+gi|83722623|ref|YP_443901.1|vFam_303| envelope glycoprotein K [Papiine herpesvirus 2]
+gi|30984482|ref|NP_851914.1|vFam_303| envelope glycoprotein K [Macacine herpesvirus 1]
+gi|9629435|ref|NP_044656.1|vFam_303| envelope glycoprotein K [Human herpesvirus 1]
+gi|9629324|ref|NP_044524.1|vFam_303| envelope glycoprotein K [Human herpesvirus 2]
+gi|255683139|ref|YP_003084366.1|vFam_303| UL53 [Anatid herpesvirus 1]
+gi|51557487|ref|YP_068321.1|vFam_303| envelope glycoprotein K [Suid herpesvirus 1]
+gi|296316007|ref|YP_003662471.1|vFam_303| envelope glycoprotein K [Bovine herpesvirus 5]
+gi|9629821|ref|NP_045305.1|vFam_303| envelope glycoprotein K [Bovine herpesvirus 1]
+gi|13242443|ref|NP_077419.1|vFam_303| envelope glycoprotein K [Cercopithecine herpesvirus 9]
+gi|9625880|ref|NP_040128.1|vFam_303| envelope glycoprotein K [Human herpesvirus 3]
+gi|270339445|ref|YP_003331525.1|vFam_303| envelope glycoprotein K [Felid herpesvirus 1]
+gi|216905859|ref|YP_002333487.1|vFam_303| envelope glycoprotein K [Equid herpesvirus 9]
+gi|9629788|ref|NP_045223.1|vFam_303| envelope glycoprotein K [Equid herpesvirus 4]
+gi|38638198|ref|NP_944381.1|vFam_303| envelope glycoprotein K [Psittacid herpesvirus 1]
+gi|57790933|ref|YP_182337.1|vFam_303| envelope glycoprotein K [Gallid herpesvirus 1]

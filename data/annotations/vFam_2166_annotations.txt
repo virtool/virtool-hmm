@@ -1,0 +1,12 @@
+CLUSTER	2166
+NUM_SEQ	4
+LENGTH	218
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	113.36
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Siadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|9635817|ref|NP_062453.1|vFam_2166| ORF7 [Frog adenovirus 1]
+gi|56160837|ref|AP_000496.1|vFam_2166| ORF7 [Turkey adenovirus A]
+gi|363540934|ref|YP_004935949.1|vFam_2166| unnamed protein product [Skua adenovirus A]
+gi|331271197|ref|YP_004414818.1|vFam_2166| hypothetical protein RAdV-1_gp22 [Raptor adenovirus A]

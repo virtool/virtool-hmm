@@ -1,0 +1,10 @@
+CLUSTER	1563
+NUM_SEQ	2
+LENGTH	221
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	112.71
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035381|ref|YP_008437010.1|vFam_1563| hypothetical protein ps_596 [Pandoravirus salinus]
+gi|531035039|ref|YP_008436664.1|vFam_1563| hypothetical protein ps_248 [Pandoravirus salinus]

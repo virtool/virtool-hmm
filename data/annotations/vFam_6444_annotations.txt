@@ -1,0 +1,10 @@
+CLUSTER	6444
+NUM_SEQ	2
+LENGTH	141
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	71.91
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159340|ref|YP_002321383.1|vFam_6444| Ac68-like protein [Oryctes rhinoceros virus]
+gi|134303453|ref|YP_001111322.1|vFam_6444| hypothetical protein GrBNV_gp55 [Gryllus bimaculatus nudivirus]

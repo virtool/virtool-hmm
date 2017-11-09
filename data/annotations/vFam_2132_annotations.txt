@@ -1,0 +1,12 @@
+CLUSTER	2132
+NUM_SEQ	4
+LENGTH	286
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	143.0
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|360086613|ref|YP_004940293.1|vFam_2132| membrane protein S14 [Saimiriine herpesvirus 3]
+gi|360086614|ref|YP_004940294.1|vFam_2132| membrane protein S15 [Saimiriine herpesvirus 3]
+gi|360086615|ref|YP_004940295.1|vFam_2132| membrane protein S16 [Saimiriine herpesvirus 3]
+gi|360041033|ref|YP_004940156.1|vFam_2132| membrane protein A31 [Aotine herpesvirus 1]

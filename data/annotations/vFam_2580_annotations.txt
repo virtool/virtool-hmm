@@ -1,0 +1,13 @@
+CLUSTER	2580
+NUM_SEQ	5
+LENGTH	100
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631465|ref|NP_048232.1|vFam_2580| ORF MSV161 putative Helothis armigera EPV ORF F2 protein, similar to GB:AF019224 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497941|ref|YP_008003740.1|vFam_2580| unknown similar to AMEV198 [Mythimna separata entomopoxvirus 'L']
+gi|506498175|ref|YP_008003972.1|vFam_2580| unknown similar to AMEV198 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498807|ref|YP_008004601.1|vFam_2580| unknown similar to AMEV198 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964512|ref|NP_064980.1|vFam_2580| hypothetical protein AMV198 [Amsacta moorei entomopoxvirus 'L']

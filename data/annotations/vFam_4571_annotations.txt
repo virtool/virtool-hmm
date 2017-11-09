@@ -1,0 +1,10 @@
+CLUSTER	4571
+NUM_SEQ	2
+LENGTH	192
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	97.92
+FAMILIES	{'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134287260|ref|YP_001110956.1|vFam_4571| hypothetical protein HVAV3e_gp103 [Heliothis virescens ascovirus 3e]
+gi|115298615|ref|YP_762468.1|vFam_4571| 21.8 kD Zn-finger/nucleic acid binding [Spodoptera frugiperda ascovirus 1a]

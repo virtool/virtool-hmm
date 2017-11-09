@@ -1,0 +1,14 @@
+CLUSTER	2045
+NUM_SEQ	6
+LENGTH	125
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	65.0
+FAMILIES	{'Picornaviridae': 4}
+GENERA	{'Parechovirus': 2, 'None': 1, 'Avihepatovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|397776132|ref|YP_006546264.1|vFam_2045| 2B [Swine pasivirus 1]
+gi|543145314|ref|YP_008549605.1|vFam_2045| 2B [Eel picornavirus 1]
+gi|495027917|ref|YP_007969878.1|vFam_2045| protein 2B [Duck hepatitis A virus 1]
+gi|25121913|ref|NP_740732.1|vFam_2045| 2b protein [Human parechovirus]
+gi|512965474|ref|YP_008119839.1|vFam_2045| 2B protein [Sebokele virus 1]
+gi|23968330|ref|NP_705879.1|vFam_2045| 2B [Ljungan virus]

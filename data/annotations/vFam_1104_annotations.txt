@@ -1,0 +1,17 @@
+CLUSTER	1104
+NUM_SEQ	9
+LENGTH	85
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	43.35
+FAMILIES	{'Adenoviridae': 6, 'Phycodnaviridae': 1}
+GENERA	{'Chlorovirus': 1, 'Aviadenovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|155370445|ref|YP_001425979.1|vFam_1104| hypothetical protein FR483_n347R [Paramecium bursaria Chlorella virus FR483]
+gi|388570687|ref|YP_006383561.1|vFam_1104| core protein precursor pVII [Goose adenovirus 4]
+gi|555928226|ref|YP_008719857.1|vFam_1104| pVII [Turkey adenovirus 5]
+gi|308222749|ref|YP_003933586.1|vFam_1104| unnamed protein product [Turkey adenovirus 1]
+gi|327409482|ref|YP_004346926.1|vFam_1104| pVII [Fowl adenovirus C]
+gi|56160719|ref|AP_000381.1|vFam_1104| pVII [Fowl adenovirus D]
+gi|320202751|ref|YP_004191818.1|vFam_1104| pVII [Fowl adenovirus E]
+gi|555928193|ref|YP_008719825.1|vFam_1104| pVII [Turkey adenovirus 4]
+gi|501000357|ref|YP_007985651.1|vFam_1104| pVII [Fowl adenovirus 5]

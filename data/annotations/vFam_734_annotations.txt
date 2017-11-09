@@ -1,0 +1,19 @@
+CLUSTER	734
+NUM_SEQ	11
+LENGTH	88
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	51.92
+FAMILIES	{'Poxviridae': 10}
+GENERA	{'None': 1, 'Cervidpoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 3, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|526119167|ref|YP_008319070.1|vFam_734| hypothetical protein [Pandoravirus dulcis]
+gi|115531747|ref|YP_784273.1|vFam_734| hypothetical protein CRV083 [Nile crocodilepox virus]
+gi|345107257|ref|YP_004821422.1|vFam_734| formation of crescent membranes and immature virions [Yoka poxvirus]
+gi|113195269|ref|YP_717399.1|vFam_734| hypothetical protein TATV_DAH68_092 [Taterapox virus]
+gi|30844344|ref|NP_851585.1|vFam_734| CPXV100 protein [Cowpox virus]
+gi|377829970|ref|YP_005296265.1|vFam_734| unnamed protein product [Cotia virus SPAn232]
+gi|157939684|ref|YP_001497056.1|vFam_734| hypothetical protein TANV_61R [Tanapox virus]
+gi|38229223|ref|NP_938316.1|vFam_734| 61R [Yaba monkey tumor virus]
+gi|148912938|ref|YP_001293252.1|vFam_734| hypothetical protein GTPV_gp057 [Goatpox virus Pellor]
+gi|211956341|ref|YP_002302410.1|vFam_734| hypothetical protein DpV84gp070 [Deerpox virus W-1170-84]
+gi|18640144|ref|NP_570218.1|vFam_734| SPV058 hypothetical protein [Swinepox virus]

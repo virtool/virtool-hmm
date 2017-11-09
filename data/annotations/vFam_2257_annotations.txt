@@ -1,0 +1,10 @@
+CLUSTER	2257
+NUM_SEQ	2
+LENGTH	592
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	301.92
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159400|ref|YP_002321443.1|vFam_2257| GrBNV_gp48-like protein [Oryctes rhinoceros virus]
+gi|134303446|ref|YP_001111315.1|vFam_2257| hypothetical protein GrBNV_gp48 [Gryllus bimaculatus nudivirus]

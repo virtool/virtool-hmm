@@ -1,0 +1,11 @@
+CLUSTER	3579
+NUM_SEQ	3
+LENGTH	218
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	111.18
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Lymphocystivirus': 1, 'Megalocytivirus': 1, 'Ranavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|19881451|ref|NP_612268.1|vFam_3579| putative cytosine DNA methyltransferase [Infectious spleen and kidney necrosis virus]
+gi|388260092|ref|YP_006347620.1|vFam_3579| cytosine DNA methyltransferase [European catfish virus]
+gi|13358453|ref|NP_078617.1|vFam_3579| DNA methyltransferase [Lymphocystis disease virus 1]

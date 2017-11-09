@@ -1,0 +1,12 @@
+CLUSTER	2342
+NUM_SEQ	4
+LENGTH	135
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	70.2
+FAMILIES	{'Iridoviridae': 4}
+GENERA	{'Lymphocystivirus': 2, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|51869968|ref|YP_073521.1|vFam_2342| hypothetical protein LDVICp012 [Lymphocystis disease virus - isolate China]
+gi|13358490|ref|NP_078640.1|vFam_2342| hypothetical protein LCDV1gp018 [Lymphocystis disease virus 1]
+gi|388260168|ref|YP_006347696.1|vFam_2342| hypothetical protein [European catfish virus]
+gi|56692658|ref|YP_164116.1|vFam_2342| hypothetical protein ORF021L [Singapore grouper iridovirus]

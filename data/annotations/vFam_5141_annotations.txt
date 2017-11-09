@@ -1,0 +1,10 @@
+CLUSTER	5141
+NUM_SEQ	2
+LENGTH	139
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	72.28
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|41057499|ref|NP_957972.1|vFam_5141| ORF063 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183827|ref|YP_003457368.1|vFam_5141| hypothetical protein PCPV_gp065 [Pseudocowpox virus]

@@ -1,0 +1,10 @@
+CLUSTER	5788
+NUM_SEQ	2
+LENGTH	438
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	227.76
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|56692653|ref|YP_164111.1|vFam_5788| hypothetical protein ORF016L [Singapore grouper iridovirus]
+gi|49237300|ref|YP_031581.1|vFam_5788| orf229L protein-like protein [Frog virus 3]

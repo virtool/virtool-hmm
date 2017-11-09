@@ -1,0 +1,39 @@
+CLUSTER	35
+NUM_SEQ	31
+LENGTH	368
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	184.0
+FAMILIES	{'Marseillevirus family': 1, 'Phycodnaviridae': 2}
+GENERA	{'None': 1, 'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|327409743|ref|YP_004347163.1|vFam_35| putative ankyrin repeat protein [Lausannevirus]
+gi|13242585|ref|NP_077599.1|vFam_35| EsV-1-114 [Ectocarpus siliculosus virus 1]
+gi|531036200|ref|YP_008437836.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|13242620|ref|NP_077634.1|vFam_35| EsV-1-149 [Ectocarpus siliculosus virus 1]
+gi|531037129|ref|YP_008438771.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|531036526|ref|YP_008438163.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|531036307|ref|YP_008437944.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|531036305|ref|YP_008437942.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|526119606|ref|YP_008319509.1|vFam_35| ankyrin repeat [Pandoravirus dulcis]
+gi|526118844|ref|YP_008318747.1|vFam_35| ankyrin repeat [Pandoravirus dulcis]
+gi|531037122|ref|YP_008438764.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|531037133|ref|YP_008438775.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|531036853|ref|YP_008438493.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|526119882|ref|YP_008319785.1|vFam_35| ankyrin repeat [Pandoravirus dulcis]
+gi|531036220|ref|YP_008437856.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|526119595|ref|YP_008319498.1|vFam_35| ankyrin repeat [Pandoravirus dulcis]
+gi|531036266|ref|YP_008437902.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|531036159|ref|YP_008437795.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|531036146|ref|YP_008437782.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|531035836|ref|YP_008437470.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|531035814|ref|YP_008437448.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|526119957|ref|YP_008319860.1|vFam_35| ankyrin repeat [Pandoravirus dulcis]
+gi|526118638|ref|YP_008318541.1|vFam_35| ankyrin repeat [Pandoravirus dulcis]
+gi|531036009|ref|YP_008437644.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|531036546|ref|YP_008438183.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|531037135|ref|YP_008438777.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|531036849|ref|YP_008438489.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|526119875|ref|YP_008319778.1|vFam_35| ankyrin repeat [Pandoravirus dulcis]
+gi|531035909|ref|YP_008437543.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|531035904|ref|YP_008437538.1|vFam_35| ankyrin repeat [Pandoravirus salinus]
+gi|531035863|ref|YP_008437497.1|vFam_35| ankyrin repeat [Pandoravirus salinus]

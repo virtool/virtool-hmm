@@ -1,0 +1,14 @@
+CLUSTER	2016
+NUM_SEQ	6
+LENGTH	226
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	115.26
+FAMILIES	{'Rhabdoviridae': 6}
+GENERA	{'None': 4, 'Ephemerovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|216967216|ref|YP_002333277.1|vFam_2016| matrix protein [Wongabel virus]
+gi|291612464|ref|YP_003518287.1|vFam_2016| matrix protein [Ngaingan virus]
+gi|471236980|ref|YP_007641370.1|vFam_2016| matrix protein M [Tibrogargan virus]
+gi|393707879|ref|YP_006200959.1|vFam_2016| matrix protein [Obodhiang virus]
+gi|393707852|ref|YP_006202620.1|vFam_2016| M gene product [Kotonkan virus]
+gi|10086565|ref|NP_065401.1|vFam_2016| matrix protein M [Bovine ephemeral fever virus]

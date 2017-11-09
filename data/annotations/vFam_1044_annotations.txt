@@ -1,0 +1,15 @@
+CLUSTER	1044
+NUM_SEQ	7
+LENGTH	328
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	170.56
+FAMILIES	{'Filoviridae': 7}
+GENERA	{'Marburgvirus': 1, 'None': 1, 'Ebolavirus': 5}
+FASTA SEQUENCE TITLES:
+gi|158539110|ref|YP_001531154.1|vFam_1044| VP35 [Marburg marburgvirus]
+gi|355469073|ref|YP_004928136.1|vFam_1044| VP35 [Lloviu virus]
+gi|22789224|ref|NP_690581.1|vFam_1044| polymerase complex protein VP35 [Reston ebolavirus]
+gi|55770809|ref|YP_138521.1|vFam_1044| VP35 [Sudan ebolavirus]
+gi|10313992|ref|NP_066244.1|vFam_1044| VP35 gene product [Ebola virus - Mayinga, Zaire, 1976]
+gi|302371215|ref|YP_003815433.1|vFam_1044| VP35 [Bundibugyo ebolavirus]
+gi|302315371|ref|YP_003815424.1|vFam_1044| VP35 [Tai Forest ebolavirus]

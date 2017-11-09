@@ -1,0 +1,13 @@
+CLUSTER	2162
+NUM_SEQ	5
+LENGTH	84
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	49.56
+FAMILIES	{'None': 2, 'Mimiviridae': 3}
+GENERA	{'None': 3, 'Mimivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|363540110|ref|YP_004895031.1|vFam_2162| mg980 gene product [Megavirus chiliensis]
+gi|311977650|ref|YP_003986770.1|vFam_2162| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825166|ref|YP_007418097.1|vFam_2162| hypothetical protein LBA_00201 [Megavirus lba]
+gi|311977368|ref|YP_003986487.1|vFam_2162| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448824996|ref|YP_007417927.1|vFam_2162| hypothetical protein LBA_00028 [Megavirus lba]

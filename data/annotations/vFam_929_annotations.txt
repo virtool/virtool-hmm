@@ -1,0 +1,10 @@
+CLUSTER	929
+NUM_SEQ	2
+LENGTH	935
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	476.85
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|310831226|ref|YP_003969869.1|vFam_929| putative Lon protease [Cafeteria roenbergensis virus BV-PW1]
+gi|310831025|ref|YP_003969668.1|vFam_929| putative Lon protease [Cafeteria roenbergensis virus BV-PW1]

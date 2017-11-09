@@ -1,0 +1,11 @@
+CLUSTER	3734
+NUM_SEQ	3
+LENGTH	77
+RELATIVE_ENTROPY_PER_POSITION	0.66
+TOTAL_RELATIVE_ENTROPY	50.82
+FAMILIES	{'Phycodnaviridae': 1}
+GENERA	{'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|313768003|ref|YP_004061434.1|vFam_3734| hypothetical protein BpV1_004 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|270281827|ref|YP_003331491.1|vFam_3734| hypothetical protein SSSV7_gp08 [Sulfolobus spindle-shaped virus 7]
+gi|160688430|ref|YP_001552192.1|vFam_3734| hypothetical protein SSSV4_ORF71 [Sulfolobus spindle-shaped virus 4]

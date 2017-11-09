@@ -1,0 +1,10 @@
+CLUSTER	6240
+NUM_SEQ	2
+LENGTH	65
+RELATIVE_ENTROPY_PER_POSITION	0.79
+TOTAL_RELATIVE_ENTROPY	51.35
+FAMILIES	{'Nimaviridae': 1, 'Poxviridae': 1}
+GENERA	{'None': 1, 'Whispovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|17158597|ref|NP_478018.1|vFam_6240| wsv496 [Shrimp white spot syndrome virus]
+gi|9631318|ref|NP_048147.1|vFam_6240| ORF MSV075 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]

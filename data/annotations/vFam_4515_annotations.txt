@@ -1,0 +1,11 @@
+CLUSTER	4515
+NUM_SEQ	3
+LENGTH	1106
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	586.18
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|159341086|ref|YP_001542645.1|vFam_4515| hypothetical protein [Acidianus rod-shaped virus 1]
+gi|414089964|ref|YP_006990095.1|vFam_4515| structural protein [Sulfolobales Mexican rudivirus 1]
+gi|22122311|ref|NP_666572.1|vFam_4515| hypothetical protein SIRV2gp38 [Sulfolobus islandicus rod-shaped virus 2]

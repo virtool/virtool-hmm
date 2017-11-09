@@ -1,0 +1,11 @@
+CLUSTER	2808
+NUM_SEQ	3
+LENGTH	179
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	89.5
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Capripoxvirus': 2, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|148913015|ref|YP_001293329.1|vFam_2808| hypothetical protein GTPV_gp131 [Goatpox virus Pellor]
+gi|15150577|ref|NP_150572.1|vFam_2808| LSDV138 Ig domain OX-2-like protein [Lumpy skin disease virus NI-2490]
+gi|377830093|ref|YP_005296341.1|vFam_2808| unnamed protein product [Cotia virus SPAn232]

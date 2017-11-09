@@ -1,0 +1,16 @@
+CLUSTER	836
+NUM_SEQ	8
+LENGTH	238
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	121.38
+FAMILIES	{'Baculoviridae': 8}
+GENERA	{'Betabaculovirus': 2, 'Alphabaculovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|209170992|ref|YP_002268139.1|vFam_836| agip109 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|22549518|ref|NP_689291.1|vFam_836| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069997|ref|NP_613201.1|vFam_836| hypothetical protein McnAVgp118 [Mamestra configurata nucleopolyhedrovirus A]
+gi|209170902|ref|YP_002268048.1|vFam_836| agse18 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|9635401|ref|NP_059299.1|vFam_836| ORF151 [Xestia c-nigrum granulovirus]
+gi|285002333|ref|YP_003422397.1|vFam_836| hypothetical protein PsunGV_gp058 [Pseudaletia unipuncta granulovirus]
+gi|215401249|ref|YP_002332553.1|vFam_836| hypothetical protein HaMNV_gp017 [Helicoverpa armigera multiple nucleopolyhedrovirus]
+gi|20069898|ref|NP_613102.1|vFam_836| hypothetical protein McnAVgp019 [Mamestra configurata nucleopolyhedrovirus A]

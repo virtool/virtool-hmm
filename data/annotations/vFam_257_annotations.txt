@@ -1,0 +1,29 @@
+CLUSTER	257
+NUM_SEQ	21
+LENGTH	68
+RELATIVE_ENTROPY_PER_POSITION	0.75
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{'Baculoviridae': 16}
+GENERA	{'Betabaculovirus': 4, 'Alphabaculovirus': 12}
+FASTA SEQUENCE TITLES:
+gi|68304207|ref|YP_249675.1|vFam_257| ORF-71 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|113195459|ref|YP_717596.1|vFam_257| ac111-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|334265729|ref|YP_004376258.1|vFam_257| hypothetical protein ClanGV_gp050 [Clostera anachoreta granulovirus]
+gi|119964621|ref|YP_950817.1|vFam_257| Mv-ORF87 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|438000412|ref|YP_007250517.1|vFam_257| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|23577954|ref|NP_703100.1|vFam_257| hypothetical protein [Rachiplusia ou MNPV]
+gi|237643646|ref|YP_002884336.1|vFam_257| Ac111-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|114680163|ref|YP_758576.1|vFam_257| hypothetical protein PXMNV_gp110 [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|86355564|ref|YP_473232.1|vFam_257| ORF44 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|96979810|ref|YP_611015.1|vFam_257| hypothetical protein APNV_p046 [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326178|ref|YP_803504.1|vFam_257| hypothetical protein AGNV_gp110 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320754|ref|NP_203266.1|vFam_257| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|9630050|ref|NP_046268.1|vFam_257| hypothetical protein OpmnVgp112 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153357|ref|YP_008378397.1|vFam_257| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|571031242|ref|YP_008992138.1|vFam_257| ac111 [Choristoneura murinana alphabaculovirus]
+gi|30387334|ref|NP_848413.1|vFam_257| hypothetical protein CfMNPVgpORF102 [Choristoneura fumiferana multiple nucleopolyhedrovirus]
+gi|148368947|ref|YP_001257077.1|vFam_257| hypothetical protein SlGVgp126 [Spodoptera litura granulovirus]
+gi|114679895|ref|YP_758345.1|vFam_257| ORF48 [Leucania separata nucleopolyhedrovirus]
+gi|209401176|ref|YP_002274045.1|vFam_257| hypothetical protein HaSNPVNNg1_gp122 [Helicoverpa armigera NPV NNg1]
+gi|285002438|ref|YP_003422502.1|vFam_257| hypothetical protein PsunGV_gp163 [Pseudaletia unipuncta granulovirus]
+gi|9635410|ref|NP_059308.1|vFam_257| ORF160 [Xestia c-nigrum granulovirus]

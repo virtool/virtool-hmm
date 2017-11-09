@@ -1,0 +1,12 @@
+CLUSTER	3346
+NUM_SEQ	4
+LENGTH	341
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	173.91
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|387600891|ref|YP_006331068.1|vFam_3346| putative capsid protein [Pig stool associated circular ssDNA virus GER2011]
+gi|406356626|ref|YP_006732337.1|vFam_3346| putative capsid protein [Porcine associated stool circular virus]
+gi|498907908|ref|YP_007974229.1|vFam_3346| Cap protein [Porcine stool-associated circular virus 3]
+gi|498907905|ref|YP_007974227.1|vFam_3346| Cap protein [Porcine stool-associated circular virus 2]

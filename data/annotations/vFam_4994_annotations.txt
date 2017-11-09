@@ -1,0 +1,11 @@
+CLUSTER	4994
+NUM_SEQ	3
+LENGTH	197
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	98.5
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Molluscipoxvirus': 1, 'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|19744909|ref|NP_044017.2|vFam_4994| MC066L [Molluscum contagiosum virus subtype 1]
+gi|40556025|ref|NP_955110.1|vFam_4994| CNPV087 putative glutathione peroxidase [Canarypox virus]
+gi|9634734|ref|NP_039027.1|vFam_4994| Glutathione peroxidase [Fowlpox virus]

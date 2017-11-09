@@ -1,0 +1,12 @@
+CLUSTER	761
+NUM_SEQ	4
+LENGTH	159
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	77.91
+FAMILIES	{'Papillomaviridae': 1, 'None': 3}
+GENERA	{'Gammapapillomavirus': 1, 'None': 3}
+FASTA SEQUENCE TITLES:
+gi|310831044|ref|YP_003969687.1|vFam_761| hypothetical protein crov055 [Cafeteria roenbergensis virus BV-PW1]
+gi|319976679|ref|YP_004169274.1|vFam_761| E4 [Human papillomavirus type 129]
+gi|488870557|ref|YP_007947662.1|vFam_761| 2A [Canine picodicistrovirus]
+gi|310831202|ref|YP_003969845.1|vFam_761| hypothetical protein crov213 [Cafeteria roenbergensis virus BV-PW1]

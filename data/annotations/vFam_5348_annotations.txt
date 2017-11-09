@@ -1,0 +1,10 @@
+CLUSTER	5348
+NUM_SEQ	2
+LENGTH	478
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	248.56
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036028|ref|YP_008437663.1|vFam_5348| E/L/F/V dehydrogenase family protein [Pandoravirus salinus]
+gi|526119531|ref|YP_008319434.1|vFam_5348| e/l/f/v dehydrogenase family protein [Pandoravirus dulcis]

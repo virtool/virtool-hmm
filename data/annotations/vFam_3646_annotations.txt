@@ -1,0 +1,12 @@
+CLUSTER	3646
+NUM_SEQ	4
+LENGTH	72
+RELATIVE_ENTROPY_PER_POSITION	0.72
+TOTAL_RELATIVE_ENTROPY	51.84
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497972|ref|YP_008003771.1|vFam_3646| unknown similar to AMEV229 [Mythimna separata entomopoxvirus 'L']
+gi|9964543|ref|NP_065011.1|vFam_3646| similar to ATP-dependent clp proteinase [Amsacta moorei entomopoxvirus 'L']
+gi|506498841|ref|YP_008004635.1|vFam_3646| unknown similar to AMEV229 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498232|ref|YP_008004029.1|vFam_3646| unknown similar to AMEV229 [Adoxophyes honmai entomopoxvirus 'L']

@@ -1,0 +1,11 @@
+CLUSTER	4189
+NUM_SEQ	3
+LENGTH	296
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	150.96
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035558|ref|YP_008437189.1|vFam_4189| hypothetical protein ps_776 [Pandoravirus salinus]
+gi|531035553|ref|YP_008437184.1|vFam_4189| hypothetical protein ps_771 [Pandoravirus salinus]
+gi|526119281|ref|YP_008319184.1|vFam_4189| hypothetical protein [Pandoravirus dulcis]

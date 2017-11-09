@@ -1,0 +1,10 @@
+CLUSTER	1609
+NUM_SEQ	2
+LENGTH	142
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	73.84
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825342|ref|YP_007418273.1|vFam_1609| hypothetical protein LBA_00379 [Megavirus lba]
+gi|310831215|ref|YP_003969858.1|vFam_1609| hypothetical protein crov226 [Cafeteria roenbergensis virus BV-PW1]

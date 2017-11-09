@@ -1,0 +1,11 @@
+CLUSTER	3730
+NUM_SEQ	3
+LENGTH	152
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	80.56
+FAMILIES	{'Paramyxoviridae': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|9634972|ref|NP_054693.1|vFam_3730| nonstructural protein C [Tupaia paramyxovirus]
+gi|387935519|ref|YP_006347585.1|vFam_3730| C protein [Nariva virus]
+gi|41057597|ref|NP_958051.1|vFam_3730| C protein [Mossman virus]

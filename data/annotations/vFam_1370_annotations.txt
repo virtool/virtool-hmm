@@ -1,0 +1,14 @@
+CLUSTER	1370
+NUM_SEQ	6
+LENGTH	248
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	126.48
+FAMILIES	{'None': 1, 'Phycodnaviridae': 5}
+GENERA	{'None': 1, 'Chlorovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|370702988|ref|YP_004956790.1|vFam_1370| orf42 gene product [Helicoverpa zea nudivirus 2]
+gi|155370945|ref|YP_001426479.1|vFam_1370| hypothetical protein FR483_N847R [Paramecium bursaria Chlorella virus FR483]
+gi|157953835|ref|YP_001498726.1|vFam_1370| hypothetical protein AR158_C645L [Paramecium bursaria Chlorella virus AR158]
+gi|9631934|ref|NP_048723.1|vFam_1370| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953652|ref|YP_001498543.1|vFam_1370| hypothetical protein AR158_C462L [Paramecium bursaria Chlorella virus AR158]
+gi|157952826|ref|YP_001497718.1|vFam_1370| hypothetical protein NY2A_B522L [Paramecium bursaria Chlorella virus NY2A]

@@ -1,0 +1,24 @@
+CLUSTER	509
+NUM_SEQ	16
+LENGTH	328
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	167.28
+FAMILIES	{'Baculoviridae': 13}
+GENERA	{'Alphabaculovirus': 13}
+FASTA SEQUENCE TITLES:
+gi|165969057|ref|YP_001650957.1|vFam_509| hypothetical protein [Orgyia leucostigma NPV]
+gi|292397705|ref|YP_003517771.1|vFam_509| ORF31 [Lymantria xylina MNPV]
+gi|9631001|ref|NP_047671.1|vFam_509| LdOrf-35 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|228861712|ref|YP_002854732.1|vFam_509| hypothetical protein EupsNPV_gp122 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|438000317|ref|YP_007250422.1|vFam_509| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964538|ref|YP_950734.1|vFam_509| Mv-ORF4 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|237643553|ref|YP_002884243.1|vFam_509| Ac11-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|23577862|ref|NP_703001.1|vFam_509| hypothetical protein [Rachiplusia ou MNPV]
+gi|15320665|ref|NP_203177.1|vFam_509| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|37651367|ref|NP_932618.1|vFam_509| hypothetical protein CFDNVgORF9 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|96979894|ref|YP_611103.1|vFam_509| hypothetical protein APNV_p137 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355661|ref|YP_473329.1|vFam_509| ORF141 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|529153455|ref|YP_008378495.1|vFam_509| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|9629949|ref|NP_046167.1|vFam_509| hypothetical protein OpmnVgp011 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|30387243|ref|NP_848322.1|vFam_509| hypothetical protein CfMNPVgpORF10 [Choristoneura fumiferana multiple nucleopolyhedrovirus]
+gi|571031335|ref|YP_008992232.1|vFam_509| ac11 [Choristoneura murinana alphabaculovirus]

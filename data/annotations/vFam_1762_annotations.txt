@@ -1,0 +1,10 @@
+CLUSTER	1762
+NUM_SEQ	2
+LENGTH	387
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	201.24
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Prymnesiovirus': 1, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182028|ref|YP_008052547.1|vFam_1762| hypothetical protein PGCG_00229 [Phaeocystis globosa virus]
+gi|157953808|ref|YP_001498699.1|vFam_1762| hypothetical protein AR158_C618L [Paramecium bursaria Chlorella virus AR158]

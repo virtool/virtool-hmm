@@ -1,0 +1,10 @@
+CLUSTER	6665
+NUM_SEQ	2
+LENGTH	61
+RELATIVE_ENTROPY_PER_POSITION	0.87
+TOTAL_RELATIVE_ENTROPY	53.07
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|146411834|ref|YP_001210327.1|vFam_6665| hypothetical protein ABV_gp23 [Acidianus bottle-shaped virus]
+gi|146411833|ref|YP_001210326.1|vFam_6665| hypothetical protein ABV_gp22 [Acidianus bottle-shaped virus]

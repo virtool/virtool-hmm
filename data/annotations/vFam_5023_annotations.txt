@@ -1,0 +1,10 @@
+CLUSTER	5023
+NUM_SEQ	2
+LENGTH	110
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	55.0
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409988|ref|YP_004347408.1|vFam_5023| hypothetical protein LAU_0446 [Lausannevirus]
+gi|327409637|ref|YP_004347057.1|vFam_5023| hypothetical protein LAU_0092 [Lausannevirus]

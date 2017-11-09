@@ -1,0 +1,10 @@
+CLUSTER	5240
+NUM_SEQ	2
+LENGTH	256
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	130.56
+FAMILIES	{'Arteriviridae': 2}
+GENERA	{'Arterivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9627974|ref|NP_042574.1|vFam_5240| glycoprotein GP2 [Lactate dehydrogenase-elevating virus]
+gi|9630808|ref|NP_047408.1|vFam_5240| GP2 glycosylated envelope protein [Porcine reproductive and respiratory syndrome virus]

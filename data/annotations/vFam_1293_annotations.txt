@@ -1,0 +1,10 @@
+CLUSTER	1293
+NUM_SEQ	2
+LENGTH	172
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	86.0
+FAMILIES	{'Rhabdoviridae': 1}
+GENERA	{'Novirhabdovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531035020|ref|YP_008436645.1|vFam_1293| hypothetical protein ps_229 [Pandoravirus salinus]
+gi|9633482|ref|NP_050584.1|vFam_1293| non-virion protein [Snakehead virus]

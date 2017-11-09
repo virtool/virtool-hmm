@@ -1,0 +1,11 @@
+CLUSTER	2861
+NUM_SEQ	3
+LENGTH	85
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	50.15
+FAMILIES	{'Phycodnaviridae': 2, 'Nimaviridae': 1}
+GENERA	{'Chlorovirus': 2, 'Whispovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|17158546|ref|NP_477967.1|vFam_2861| wsv445 [Shrimp white spot syndrome virus]
+gi|157952943|ref|YP_001497835.1|vFam_2861| hypothetical protein NY2A_b639L [Paramecium bursaria Chlorella virus NY2A]
+gi|9632039|ref|NP_048828.1|vFam_2861| hypothetical protein [Paramecium bursaria Chlorella virus 1]

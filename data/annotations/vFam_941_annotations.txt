@@ -1,0 +1,16 @@
+CLUSTER	941
+NUM_SEQ	8
+LENGTH	286
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	148.72
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Betabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|21686738|ref|NP_663238.1|vFam_941| double stranded DNA binding protein [Phthorimaea operculella granulovirus]
+gi|33622272|ref|NP_891919.1|vFam_941| dbp [Cryptophlebia leucotreta granulovirus]
+gi|14602318|ref|NP_148865.1|vFam_941| ORF81 DBP [Cydia pomonella granulovirus]
+gi|109255333|ref|YP_654482.1|vFam_941| DBP [Choristoneura occidentalis granulovirus]
+gi|556549102|ref|YP_008720016.1|vFam_941| dbp [Clostera anastomosis granulovirus]
+gi|288804705|ref|YP_003429390.1|vFam_941| DBP [Pieris rapae granulovirus]
+gi|410493645|ref|YP_006908583.1|vFam_941| DNA binding protein [Epinotia aporema granulovirus]
+gi|46309385|ref|YP_006275.1|vFam_941| ORF69 [Agrotis segetum granulovirus]

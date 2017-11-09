@@ -1,0 +1,10 @@
+CLUSTER	6512
+NUM_SEQ	2
+LENGTH	324
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	165.24
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|56693001|ref|YP_164345.1|vFam_6512| hypothetical protein TTSV1_gp04 [Thermoproteus tenax spherical virus 1]
+gi|47131158|ref|YP_015524.1|vFam_6512| hypothetical protein PyrSV_gp03 [Pyrobaculum spherical virus]

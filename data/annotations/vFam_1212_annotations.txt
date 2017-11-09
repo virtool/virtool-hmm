@@ -1,0 +1,13 @@
+CLUSTER	1212
+NUM_SEQ	5
+LENGTH	277
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	138.5
+FAMILIES	{'None': 2, 'Asfarviridae': 1, 'Mimiviridae': 1, 'Phycodnaviridae': 1}
+GENERA	{'None': 2, 'Prymnesiovirus': 1, 'Mimivirus': 1, 'Asfivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9628218|ref|NP_042804.1|vFam_1212| pS273R [African swine fever virus]
+gi|508182123|ref|YP_008052642.1|vFam_1212| thiol protease [Phaeocystis globosa virus]
+gi|310831173|ref|YP_003969816.1|vFam_1212| putative cysteine protease [Cafeteria roenbergensis virus BV-PW1]
+gi|448825519|ref|YP_007418450.1|vFam_1212| putative thiol protease [Megavirus lba]
+gi|311977738|ref|YP_003986858.1|vFam_1212| putative thiol protease [Acanthamoeba polyphaga mimivirus]

@@ -1,0 +1,10 @@
+CLUSTER	3807
+NUM_SEQ	2
+LENGTH	145
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	75.4
+FAMILIES	{'Polydnaviridae': 2}
+GENERA	{'Bracovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|57659771|ref|YP_184910.1|vFam_3807| hypothetical protein CcBV_36.4 [Cotesia congregata bracovirus]
+gi|57659768|ref|YP_184907.1|vFam_3807| putative capsid-like protein [Cotesia congregata bracovirus]

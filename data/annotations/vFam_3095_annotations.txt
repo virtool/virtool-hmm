@@ -1,0 +1,12 @@
+CLUSTER	3095
+NUM_SEQ	4
+LENGTH	153
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	81.09
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|512721855|ref|YP_008083722.1|vFam_3095| ORF1 [Grapevine satellite virus]
+gi|561142804|ref|YP_008855212.1|vFam_3095| 17 kDa protein [olive viral satellite RNA]
+gi|37059721|ref|NP_919421.1|vFam_3095| capsid protein [St. Augustine decline satellite virus]
+gi|19909350|ref|NP_612559.1|vFam_3095| 20 kDa protein [Bamboo mosaic virus satellite RNA]

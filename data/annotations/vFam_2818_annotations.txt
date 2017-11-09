@@ -1,0 +1,11 @@
+CLUSTER	2818
+NUM_SEQ	3
+LENGTH	488
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	248.88
+FAMILIES	{'None': 2, 'Asfarviridae': 1}
+GENERA	{'None': 2, 'Asfivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9628183|ref|NP_042769.1|vFam_2818| pB438L [African swine fever virus]
+gi|213159405|ref|YP_002321448.1|vFam_2818| GrBNV_gp17-like protein [Oryctes rhinoceros virus]
+gi|134303415|ref|YP_001111284.1|vFam_2818| hypothetical protein GrBNV_gp17 [Gryllus bimaculatus nudivirus]

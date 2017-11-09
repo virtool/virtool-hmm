@@ -1,0 +1,10 @@
+CLUSTER	5708
+NUM_SEQ	2
+LENGTH	566
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	294.32
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|388260174|ref|YP_006347702.1|vFam_5708| hypothetical protein [European catfish virus]
+gi|56692663|ref|YP_164121.1|vFam_5708| hypothetical protein ORF026R [Singapore grouper iridovirus]

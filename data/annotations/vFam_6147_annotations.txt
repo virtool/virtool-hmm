@@ -1,0 +1,10 @@
+CLUSTER	6147
+NUM_SEQ	2
+LENGTH	150
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	78.0
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441432190|ref|YP_007354232.1|vFam_6147| hypothetical protein Moumou_00252 [Acanthamoeba polyphaga moumouvirus]
+gi|441432189|ref|YP_007354231.1|vFam_6147| hypothetical protein Moumou_00251 [Acanthamoeba polyphaga moumouvirus]

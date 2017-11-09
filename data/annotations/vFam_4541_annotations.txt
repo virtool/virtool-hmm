@@ -1,0 +1,10 @@
+CLUSTER	4541
+NUM_SEQ	2
+LENGTH	144
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	73.44
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|197322486|ref|YP_002154759.1|vFam_4541| hypothetical protein FeldSpV_gp137 [Feldmannia species virus]
+gi|197322444|ref|YP_002154717.1|vFam_4541| hypothetical protein FeldSpV_gp095 [Feldmannia species virus]

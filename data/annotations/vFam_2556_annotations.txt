@@ -1,0 +1,13 @@
+CLUSTER	2556
+NUM_SEQ	5
+LENGTH	101
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	49.49
+FAMILIES	{'Marseillevirus family': 2, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531035097|ref|YP_008436722.1|vFam_2556| hypothetical protein ps_306 [Pandoravirus salinus]
+gi|327409646|ref|YP_004347066.1|vFam_2556| hypothetical protein LAU_0102 [Lausannevirus]
+gi|284504442|ref|YP_003407157.1|vFam_2556| hypothetical protein MAR_ORF433 [Marseillevirus]
+gi|441432753|ref|YP_007354795.1|vFam_2556| hypothetical protein Moumou_00842 [Acanthamoeba polyphaga moumouvirus]
+gi|311978262|ref|YP_003987382.1|vFam_2556| hypothetical protein [Acanthamoeba polyphaga mimivirus]

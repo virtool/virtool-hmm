@@ -1,0 +1,10 @@
+CLUSTER	6013
+NUM_SEQ	2
+LENGTH	59
+RELATIVE_ENTROPY_PER_POSITION	0.88
+TOTAL_RELATIVE_ENTROPY	51.92
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52139190|ref|YP_081463.1|vFam_6013| protein UL2 [Human herpesvirus 5]
+gi|20026606|ref|NP_612648.1|vFam_6013| protein UL2 [Panine herpesvirus 2]

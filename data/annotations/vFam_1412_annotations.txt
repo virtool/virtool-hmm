@@ -1,0 +1,10 @@
+CLUSTER	1412
+NUM_SEQ	2
+LENGTH	1788
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	894.0
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Prymnesiovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|508181901|ref|YP_008052420.1|vFam_1412| hypothetical protein PGCG_00101 [Phaeocystis globosa virus]
+gi|508181855|ref|YP_008052374.1|vFam_1412| outer membrane autotransporter [Phaeocystis globosa virus]

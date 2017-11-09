@@ -1,0 +1,17 @@
+CLUSTER	1167
+NUM_SEQ	9
+LENGTH	133
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	69.16
+FAMILIES	{'Phycodnaviridae': 8}
+GENERA	{'None': 4, 'Prasinovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|526119742|ref|YP_008319645.1|vFam_1167| hypothetical protein [Pandoravirus dulcis]
+gi|313768177|ref|YP_004061608.1|vFam_1167| hypothetical protein BpV1_178c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768399|ref|YP_004062079.1|vFam_1167| hypothetical protein MpV1_196c [Micromonas sp. RCC1109 virus MpV1]
+gi|314055280|ref|YP_004063618.1|vFam_1167| hypothetical protein OtV2_185 [Ostreococcus tauri virus 2]
+gi|163955196|ref|YP_001648300.1|vFam_1167| hypothetical protein OsV5_224r [Ostreococcus virus OsV5]
+gi|313844178|ref|YP_004061841.1|vFam_1167| hypothetical protein OlV1_209c [Ostreococcus lucimarinus virus OlV1]
+gi|313768418|ref|YP_004062098.1|vFam_1167| hypothetical protein MpV1_215c [Micromonas sp. RCC1109 virus MpV1]
+gi|163955205|ref|YP_001648309.1|vFam_1167| hypothetical protein OsV5_233r [Ostreococcus virus OsV5]
+gi|314055291|ref|YP_004063629.1|vFam_1167| hypothetical protein OtV2_196 [Ostreococcus tauri virus 2]

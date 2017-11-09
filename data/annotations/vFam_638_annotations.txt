@@ -1,0 +1,21 @@
+CLUSTER	638
+NUM_SEQ	13
+LENGTH	330
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	174.9
+FAMILIES	{'Herpesviridae': 13}
+GENERA	{'Macavirus': 2, 'None': 1, 'Lymphocryptovirus': 3, 'Rhadinovirus': 6, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|321496586|ref|YP_004207871.1|vFam_638| hypothetical protein RHVP.34 [Rodent herpesvirus Peru]
+gi|9629575|ref|NP_044872.1|vFam_638| protein UL95 [Murid herpesvirus 4]
+gi|24943116|ref|NP_733878.1|vFam_638| ORF25 [callitrichine herpesvirus 3]
+gi|82503245|ref|YP_401689.1|vFam_638| BGLF3 protein [Human herpesvirus 4]
+gi|51518059|ref|YP_067986.1|vFam_638| BGLF3 [Macacine herpesvirus 4]
+gi|83642870|ref|YP_438157.1|vFam_638| ORF34 [Ovine herpesvirus 2]
+gi|10140955|ref|NP_065532.1|vFam_638| ORF34 [Alcelaphine herpesvirus 1]
+gi|139472829|ref|YP_001129387.1|vFam_638| ORF34 [Human herpesvirus 8]
+gi|18653841|ref|NP_570775.1|vFam_638| hypothetical protein MmrVgp34 [Macacine herpesvirus 5]
+gi|9631226|ref|NP_048007.1|vFam_638| orf 34 [Ateline herpesvirus 3]
+gi|9625989|ref|NP_040236.1|vFam_638| unnamed protein product [Saimiriine herpesvirus 2]
+gi|13095611|ref|NP_076526.1|vFam_638| unknown [Bovine herpesvirus 4]
+gi|9628037|ref|NP_042631.1|vFam_638| ORF 34 [Equid herpesvirus 2]

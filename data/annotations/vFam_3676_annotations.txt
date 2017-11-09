@@ -1,0 +1,11 @@
+CLUSTER	3676
+NUM_SEQ	3
+LENGTH	189
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	98.28
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978217|ref|YP_003987337.1|vFam_3676| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432752|ref|YP_007354794.1|vFam_3676| hypothetical protein Moumou_00841 [Acanthamoeba polyphaga moumouvirus]
+gi|363539963|ref|YP_004895163.1|vFam_3676| mg1112 gene product [Megavirus chiliensis]

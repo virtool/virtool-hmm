@@ -1,0 +1,26 @@
+CLUSTER	395
+NUM_SEQ	18
+LENGTH	127
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	64.77
+FAMILIES	{'Herpesviridae': 18}
+GENERA	{'Varicellovirus': 8, 'Mardivirus': 4, 'Iltovirus': 2, 'Simplexvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|13242417|ref|NP_077440.1|vFam_395| DNA packaging protein UL33 [Cercopithecine herpesvirus 9]
+gi|9625901|ref|NP_040148.1|vFam_395| DNA packaging protein UL33 [Human herpesvirus 3]
+gi|270339466|ref|YP_003331546.1|vFam_395| DNA packaging protein UL33 [Felid herpesvirus 1]
+gi|12084861|ref|NP_073327.1|vFam_395| DNA packaging protein UL33 [Meleagrid herpesvirus 1]
+gi|10834904|ref|NP_066865.1|vFam_395| DNA packaging protein UL33 [Gallid herpesvirus 3]
+gi|125745084|ref|YP_001033962.1|vFam_395| DNA packaging protein UL33 [Gallid herpesvirus 2]
+gi|255683180|ref|YP_003084388.1|vFam_395| UL33 [Anatid herpesvirus 1]
+gi|312162821|ref|YP_003933806.1|vFam_395| DNA packaging protein UL33 [Saimiriine herpesvirus 1]
+gi|9629414|ref|NP_044635.1|vFam_395| DNA packaging protein UL33 [Human herpesvirus 1]
+gi|83722602|ref|YP_443880.1|vFam_395| DNA packaging protein UL33 [Papiine herpesvirus 2]
+gi|30984461|ref|NP_851893.1|vFam_395| DNA packaging protein UL33 [Macacine herpesvirus 1]
+gi|57790958|ref|YP_182362.1|vFam_395| DNA packaging protein UL33 [Gallid herpesvirus 1]
+gi|38638223|ref|NP_944406.1|vFam_395| DNA packaging protein UL33 [Psittacid herpesvirus 1]
+gi|51557502|ref|YP_068336.1|vFam_395| DNA packaging protein UL33 [Suid herpesvirus 1]
+gi|296316027|ref|YP_003662491.1|vFam_395| DNA packaging protein UL33 [Bovine herpesvirus 5]
+gi|9629752|ref|NP_045244.1|vFam_395| DNA packaging protein UL33 [Equid herpesvirus 4]
+gi|386522750|ref|YP_006273006.1|vFam_395| ORF27 gene product [Equid herpesvirus 8]
+gi|126801892|ref|YP_053072.2|vFam_395| DNA packaging protein UL33 [Equid herpesvirus 1]

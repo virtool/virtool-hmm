@@ -1,0 +1,10 @@
+CLUSTER	963
+NUM_SEQ	2
+LENGTH	311
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	155.5
+FAMILIES	{'Dicistroviridae': 1}
+GENERA	{'Aparavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|526119766|ref|YP_008319669.1|vFam_963| methyltransferase type 11 [Pandoravirus dulcis]
+gi|73747919|ref|YP_308660.1|vFam_963| VP1 [Kashmir bee virus]

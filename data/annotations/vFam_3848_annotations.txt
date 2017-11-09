@@ -1,0 +1,11 @@
+CLUSTER	3848
+NUM_SEQ	3
+LENGTH	226
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	117.52
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Simplexvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|30984485|ref|NP_851917.1|vFam_3848| membrane protein UL56 [Macacine herpesvirus 1]
+gi|83722626|ref|YP_443904.1|vFam_3848| membrane protein UL56 [Papiine herpesvirus 2]
+gi|56694780|ref|YP_164500.1|vFam_3848| membrane protein UL56 [Cercopithecine herpesvirus 2]

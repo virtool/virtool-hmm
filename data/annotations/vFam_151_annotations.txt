@@ -1,0 +1,30 @@
+CLUSTER	151
+NUM_SEQ	22
+LENGTH	141
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	67.68
+FAMILIES	{'Papillomaviridae': 18}
+GENERA	{'Gammapapillomavirus': 10, 'Xipapillomavirus': 1, 'None': 7}
+FASTA SEQUENCE TITLES:
+gi|296040256|ref|YP_003622567.1|vFam_151| E4 [Bettongia penicillata papillomavirus 1]
+gi|556503842|ref|YP_008720075.1|vFam_151| E4 protein [Mesocricetus auratus papillomavirus 1]
+gi|23216981|ref|NP_694449.1|vFam_151| putative protein E4 [Xipapillomavirus 1]
+gi|389656405|ref|YP_006393285.1|vFam_151| hypothetical protein [Human papillomavirus type 135]
+gi|389656421|ref|YP_006393299.1|vFam_151| hypothetical protein [Human papillomavirus type 137]
+gi|511534176|ref|YP_008083108.1|vFam_151| E4 [Felis catus papillomavirus 3]
+gi|538654791|ref|YP_008519312.1|vFam_151| E4 protein [Ferret papillomavirus]
+gi|304522119|ref|YP_003858575.1|vFam_151| E1^E4 [Gammapapillomavirus HPV127]
+gi|319976687|ref|YP_004169267.1|vFam_151| E4 [Human papillomavirus type 128]
+gi|225927565|ref|YP_002756542.1|vFam_151| E4 protein [Human papillomavirus type 109]
+gi|319962663|ref|YP_004169295.1|vFam_151| E4 [Human papillomavirus type 134]
+gi|319976671|ref|YP_004169281.1|vFam_151| E4 [Human papillomavirus type 131]
+gi|9628555|ref|NP_043427.1|vFam_151| putative, partial [Human papillomavirus type 50]
+gi|389656437|ref|YP_006393313.1|vFam_151| hypothetical protein [Human papillomavirus type 144]
+gi|9628547|ref|NP_043420.1|vFam_151| putative, partial [Human papillomavirus type 48]
+gi|254810668|ref|YP_003084350.1|vFam_151| putative E4 protein [Human papillomavirus 116]
+gi|389656413|ref|YP_006393292.1|vFam_151| hypothetical protein [Human papillomavirus type 136]
+gi|512721871|ref|YP_008083735.1|vFam_151| E4 [Human papillomavirus type 154]
+gi|358356465|ref|YP_004934016.1|vFam_151| hypothetical protein [Human papillomavirus type 126]
+gi|389656429|ref|YP_006393306.1|vFam_151| hypothetical protein [Human papillomavirus type 140]
+gi|297342361|ref|YP_003668029.1|vFam_151| hypothetical protein [Human papillomavirus type 121]
+gi|225927573|ref|YP_002756549.1|vFam_151| E4 protein [Human papillomavirus type 112]

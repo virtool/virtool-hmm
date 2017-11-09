@@ -1,0 +1,10 @@
+CLUSTER	5448
+NUM_SEQ	2
+LENGTH	294
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	152.88
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409883|ref|YP_004347303.1|vFam_5448| putative glycosyltransferase [Lausannevirus]
+gi|284504344|ref|YP_003407059.1|vFam_5448| glycosyltransferase [Marseillevirus]

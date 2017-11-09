@@ -1,0 +1,10 @@
+CLUSTER	5977
+NUM_SEQ	2
+LENGTH	249
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	126.99
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825656|ref|YP_007418587.1|vFam_5977| phosphomannomutase [Megavirus lba]
+gi|441432506|ref|YP_007354548.1|vFam_5977| phosphomannomutase [Acanthamoeba polyphaga moumouvirus]

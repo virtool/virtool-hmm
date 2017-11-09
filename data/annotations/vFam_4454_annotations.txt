@@ -1,0 +1,11 @@
+CLUSTER	4454
+NUM_SEQ	3
+LENGTH	249
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	126.99
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|422933615|ref|YP_007003740.1|vFam_4454| protein ORF77 [Cyprinid herpesvirus 1]
+gi|422933842|ref|YP_007003896.1|vFam_4454| protein ORF77 [Cyprinid herpesvirus 2]
+gi|131840103|ref|YP_001096112.1|vFam_4454| unnamed protein product [Cyprinid herpesvirus 3]

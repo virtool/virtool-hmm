@@ -1,0 +1,18 @@
+CLUSTER	826
+NUM_SEQ	10
+LENGTH	510
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	270.3
+FAMILIES	{'Baculoviridae': 6, 'Orthomyxoviridae': 1}
+GENERA	{'Thogotovirus': 1, 'Alphabaculovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|56403985|ref|YP_145808.1|vFam_826| glycoprotein 75 [Thogoto virus]
+gi|237643660|ref|YP_002884350.1|vFam_826| GP64/67 [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964631|ref|YP_950827.1|vFam_826| gp64 [Maruca vitrata nucleopolyhedrovirus]
+gi|15320769|ref|NP_203281.1|vFam_826| GP64 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326192|ref|YP_803518.1|vFam_826| major budded virus envelope glycoprotein [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651341|ref|NP_932732.1|vFam_826| major budded virus envelope glycoprotein [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|86355548|ref|YP_473216.1|vFam_826| GP64 [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630064|ref|NP_046282.1|vFam_826| gp64 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031226|ref|YP_008992122.1|vFam_826| gp64 [Choristoneura murinana alphabaculovirus]
+gi|529153342|ref|YP_008378382.1|vFam_826| GP64 [Choristoneura rosaceana alphabaculovirus]

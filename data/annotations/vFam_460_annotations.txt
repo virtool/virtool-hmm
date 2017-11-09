@@ -1,0 +1,18 @@
+CLUSTER	460
+NUM_SEQ	10
+LENGTH	347
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	180.44
+FAMILIES	{'Herpesviridae': 10}
+GENERA	{'None': 1, 'Roseolovirus': 2, 'Muromegalovirus': 2, 'Cytomegalovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|9633116|ref|NP_050226.1|vFam_460| putative dUTPase [Human herpesvirus 6B]
+gi|51874267|ref|YP_073785.1|vFam_460| deoxyuridine triphosphatase [Human herpesvirus 7]
+gi|425707272|ref|YP_007016469.1|vFam_460| E72 [Murid herpesvirus 8]
+gi|9845358|ref|NP_064172.1|vFam_460| pR72 [Murid herpesvirus 2]
+gi|448824905|ref|YP_007417837.1|vFam_460| GP72 [Caviid herpesvirus 2]
+gi|360086549|ref|YP_004940234.1|vFam_460| deoxyuridine triphosphatase [Saimiriine herpesvirus 3]
+gi|359946504|ref|YP_004936037.1|vFam_460| deoxyuridine triphosphatase [Cercopithecine herpesvirus 5]
+gi|356640394|ref|YP_004933836.1|vFam_460| protein UL72 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139246|ref|YP_081520.1|vFam_460| deoxyuridine triphosphatase [Human herpesvirus 5]
+gi|20026663|ref|NP_612705.1|vFam_460| deoxyuridine triphosphatase [Panine herpesvirus 2]

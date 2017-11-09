@@ -1,0 +1,16 @@
+CLUSTER	1140
+NUM_SEQ	8
+LENGTH	79
+RELATIVE_ENTROPY_PER_POSITION	0.64
+TOTAL_RELATIVE_ENTROPY	50.56
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281766|ref|YP_003331426.1|vFam_1140| zinc finger protein [Acidianus spindle-shaped virus 1]
+gi|270281807|ref|YP_003331473.1|vFam_1140| zinc finger protein [Sulfolobus spindle-shaped virus 6]
+gi|198449254|ref|YP_002221492.1|vFam_1140| putative C2H2-type zinc finger [Sulfolobus spindle-shaped virus 5]
+gi|38639820|ref|NP_944471.1|vFam_1140| hypothetical protein SSV2p19 [Sulfolobus spindle-shaped virus 2]
+gi|9625535|ref|NP_039792.1|vFam_1140| hypothetical protein SSV-1p16 [Sulfolobus spindle-shaped virus 1]
+gi|42494950|ref|NP_963948.1|vFam_1140| ORF B79 [Sulfolobus virus Ragged Hills]
+gi|270281838|ref|YP_003331504.1|vFam_1140| zinc finger protein [Sulfolobus spindle-shaped virus 7]
+gi|42495075|ref|NP_963984.1|vFam_1140| ORF A80 [Sulfolobus virus Kamchatka 1]

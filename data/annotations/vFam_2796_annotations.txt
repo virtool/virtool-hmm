@@ -1,0 +1,13 @@
+CLUSTER	2796
+NUM_SEQ	5
+LENGTH	219
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	113.88
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'None': 1, 'Orthopoxvirus': 2, 'Leporipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9633957|ref|NP_052037.1|vFam_2796| gp154L [Rabbit fibroma virus]
+gi|9633790|ref|NP_051868.1|vFam_2796| gp120-like [Myxoma virus]
+gi|345107358|ref|YP_004821523.1|vFam_2796| NFkB inhibitor [Yoka poxvirus]
+gi|113195210|ref|YP_717340.1|vFam_2796| hypothetical protein TATV_DAH68_033 [Taterapox virus]
+gi|377830056|ref|YP_005296216.1|vFam_2796| unnamed protein product [Cotia virus SPAn232]

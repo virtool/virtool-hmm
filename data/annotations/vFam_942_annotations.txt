@@ -1,0 +1,16 @@
+CLUSTER	942
+NUM_SEQ	8
+LENGTH	123
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	63.96
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Alphabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|237643585|ref|YP_002884275.1|vFam_942| Ac44-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964566|ref|YP_950762.1|vFam_942| Mv-ORF32 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|96979865|ref|YP_611071.1|vFam_942| hypothetical protein APNV_p104 [Antheraea pernyi nucleopolyhedrovirus]
+gi|9629987|ref|NP_046205.1|vFam_942| hypothetical protein OpmnVgp049 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|116326117|ref|YP_803442.1|vFam_942| hypothetical protein AGNV_gp048 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320698|ref|NP_203210.1|vFam_942| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|529153581|ref|YP_008378606.1|vFam_942| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|529153416|ref|YP_008378456.1|vFam_942| hypothetical protein [Choristoneura rosaceana alphabaculovirus]

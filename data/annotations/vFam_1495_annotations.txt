@@ -1,0 +1,13 @@
+CLUSTER	1495
+NUM_SEQ	5
+LENGTH	226
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	115.26
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Aviadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|388570679|ref|YP_006383553.1|vFam_1495| protein ORF14 [Goose adenovirus 4]
+gi|308222739|ref|YP_003933576.1|vFam_1495| unnamed protein product [Turkey adenovirus 1]
+gi|56160710|ref|AP_000372.1|vFam_1495| ORF24 [Fowl adenovirus D]
+gi|555928183|ref|YP_008719815.1|vFam_1495| ORF14A [Turkey adenovirus 4]
+gi|501000347|ref|YP_007985641.1|vFam_1495| ORF14A [Fowl adenovirus 5]

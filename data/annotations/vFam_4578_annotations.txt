@@ -1,0 +1,11 @@
+CLUSTER	4578
+NUM_SEQ	3
+LENGTH	82
+RELATIVE_ENTROPY_PER_POSITION	0.61
+TOTAL_RELATIVE_ENTROPY	50.02
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Iridovirus': 1, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15079054|ref|NP_149805.1|vFam_4578| 342R [Invertebrate iridescent virus 6]
+gi|527333562|ref|YP_008357346.1|vFam_4578| hypothetical protein IIV22_048L [Invertebrate iridovirus 22]
+gi|109287993|ref|YP_654687.1|vFam_4578| hypothetical protein MIV115R [Invertebrate iridescent virus 3]

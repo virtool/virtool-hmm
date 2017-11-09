@@ -1,0 +1,20 @@
+CLUSTER	646
+NUM_SEQ	12
+LENGTH	192
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	101.76
+FAMILIES	{'Baculoviridae': 9, 'Iridoviridae': 2}
+GENERA	{'Betabaculovirus': 7, 'Iridovirus': 2, 'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|15079133|ref|NP_149885.1|vFam_646| 422L [Invertebrate iridescent virus 6]
+gi|285002304|ref|YP_003422368.1|vFam_646| hypothetical protein PsunGV_gp029 [Pseudaletia unipuncta granulovirus]
+gi|164519224|ref|YP_001649011.1|vFam_646| hypothetical protein HaGV_gp029 [Helicoverpa armigera granulovirus]
+gi|46309426|ref|YP_006316.1|vFam_646| ORF28 [Agrotis segetum granulovirus]
+gi|21686695|ref|NP_663195.1|vFam_646| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|288804668|ref|YP_003429353.1|vFam_646| PrGVORF29 [Pieris rapae granulovirus]
+gi|33622233|ref|NP_891880.1|vFam_646| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602271|ref|NP_148818.1|vFam_646| ORF34 similar to XcGV ORF30 and ORF31 [Cydia pomonella granulovirus]
+gi|527333567|ref|YP_008357351.1|vFam_646| hypothetical protein IIV22_053L [Invertebrate iridovirus 22]
+gi|339906168|ref|YP_004732965.1|vFam_646| hypothetical protein WIV_gp182 [Wiseana iridescent virus]
+gi|37651381|ref|NP_932719.1|vFam_646| hypothetical protein CFDNVgORF110 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|15320758|ref|NP_203270.1|vFam_646| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]

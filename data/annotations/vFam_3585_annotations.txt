@@ -1,0 +1,11 @@
+CLUSTER	3585
+NUM_SEQ	3
+LENGTH	338
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	169.0
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|359946566|ref|YP_004936099.1|vFam_3585| membrane glycoprotein UL141 [Cercopithecine herpesvirus 5]
+gi|52139300|ref|YP_081575.1|vFam_3585| membrane glycoprotein UL141 [Human herpesvirus 5]
+gi|20026717|ref|NP_612760.1|vFam_3585| membrane glycoprotein UL141 [Panine herpesvirus 2]

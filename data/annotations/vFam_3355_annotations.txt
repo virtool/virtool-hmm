@@ -1,0 +1,11 @@
+CLUSTER	3355
+NUM_SEQ	3
+LENGTH	319
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	165.88
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'Chlorovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|155371229|ref|YP_001426763.1|vFam_3355| hypothetical protein ATCV1_Z282L [Acanthocystis turfacea Chlorella virus 1]
+gi|340025788|ref|NP_048649.2|vFam_3355| Fucose synthetase [Paramecium bursaria Chlorella virus 1]
+gi|157953534|ref|YP_001498425.1|vFam_3355| hypothetical protein AR158_C344L [Paramecium bursaria Chlorella virus AR158]

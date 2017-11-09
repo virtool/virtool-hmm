@@ -1,0 +1,18 @@
+CLUSTER	859
+NUM_SEQ	10
+LENGTH	77
+RELATIVE_ENTROPY_PER_POSITION	0.68
+TOTAL_RELATIVE_ENTROPY	52.36
+FAMILIES	{'Coronaviridae': 9}
+GENERA	{'Alphacoronavirus': 9}
+FASTA SEQUENCE TITLES:
+gi|315192967|ref|YP_004070197.1|vFam_859| E protein [Feline infectious peritonitis virus]
+gi|45655911|ref|YP_003769.1|vFam_859| envelope protein [Human coronavirus NL63]
+gi|410493446|ref|YP_006908644.1|vFam_859| envelope protein [Rousettus bat coronavirus HKU10]
+gi|160707871|ref|YP_001552238.1|vFam_859| small membrane protein [Bat coronavirus HKU2]
+gi|12175751|ref|NP_073554.1|vFam_859| envelope protein [Human coronavirus 229E]
+gi|531967710|ref|YP_008439204.1|vFam_859| envelope small membrane protein [Bat coronavirus CDPHE15/USA/2006]
+gi|19387579|ref|NP_598312.1|vFam_859| envelope protein [Porcine epidemic diarrhea virus]
+gi|152994040|ref|YP_001351686.1|vFam_859| envelope protein [Scotophilus bat coronavirus 512]
+gi|169822563|ref|YP_001718614.1|vFam_859| envelope protein [Bat coronavirus HKU8]
+gi|169822555|ref|YP_001718607.1|vFam_859| envelope protein [Bat coronavirus 1A]

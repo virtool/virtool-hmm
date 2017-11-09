@@ -1,0 +1,12 @@
+CLUSTER	2610
+NUM_SEQ	4
+LENGTH	433
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	229.49
+FAMILIES	{'Ophioviridae': 4}
+GENERA	{'Ophiovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|52630365|ref|YP_089664.1|vFam_2610| 49 kDa protein [Citrus psorosis virus]
+gi|478428132|ref|YP_007697669.1|vFam_2610| coat protein [Freesia sneak virus]
+gi|50355592|ref|YP_053239.1|vFam_2610| 48 kDa protein [Lettuce ring necrosis virus]
+gi|30410840|ref|NP_848533.1|vFam_2610| nucleocapsid [Mirafiore lettuce virus]

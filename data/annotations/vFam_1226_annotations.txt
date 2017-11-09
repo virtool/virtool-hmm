@@ -1,0 +1,14 @@
+CLUSTER	1226
+NUM_SEQ	6
+LENGTH	347
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	180.44
+FAMILIES	{'Luteoviridae': 5}
+GENERA	{'Luteovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|18314285|ref|NP_563610.1|vFam_1226| RNA-dependent RNA polymerase P1 [Bean leafroll virus]
+gi|15150435|ref|NP_150430.1|vFam_1226| replicase [Soybean dwarf virus]
+gi|189418886|ref|YP_001949737.1|vFam_1226| RNA-dependent RNA polymerase P1 [Rose spring dwarf-associated virus]
+gi|512721859|ref|YP_008083725.1|vFam_1226| RNA-dependent RNA polymerase P1 [Barley yellow dwarf virus Ker-II]
+gi|30187600|ref|NP_840067.1|vFam_1226| RNA-dependent RNA polymerase P1 [Barley yellow dwarf virus-PAV]
+gi|9634103|ref|NP_037636.1|vFam_1226| RNA-dependent RNA polymerase P1 [Barley yellow dwarf virus-PAS]

@@ -1,0 +1,11 @@
+CLUSTER	1926
+NUM_SEQ	3
+LENGTH	642
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	327.42
+FAMILIES	{'Retroviridae': 3}
+GENERA	{'Spumavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9634978|ref|NP_054715.1|vFam_1926| Gag [equine foamy virus]
+gi|189909152|ref|YP_001961121.1|vFam_1926| Gag [Macaque simian foamy virus]
+gi|189677274|ref|YP_001956721.2|vFam_1926| Gag [African green monkey simian foamy virus]

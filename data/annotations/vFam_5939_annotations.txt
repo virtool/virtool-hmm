@@ -1,0 +1,10 @@
+CLUSTER	5939
+NUM_SEQ	2
+LENGTH	80
+RELATIVE_ENTROPY_PER_POSITION	0.64
+TOTAL_RELATIVE_ENTROPY	51.2
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|74229770|ref|YP_308974.1|vFam_5939| hypothetical protein TNSV_gp085 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304226|ref|YP_249694.1|vFam_5939| ORF-90 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]

@@ -1,0 +1,10 @@
+CLUSTER	3980
+NUM_SEQ	2
+LENGTH	258
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	136.74
+FAMILIES	{'Tombusviridae': 2}
+GENERA	{'Carmovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|216905814|ref|YP_002333480.1|vFam_3980| hypothetical protein SoYMMV_gp5 [Soybean yellow mottle mosaic virus]
+gi|20087052|ref|NP_613272.1|vFam_3980| hypothetical protein [Cowpea mottle virus]

@@ -1,0 +1,13 @@
+CLUSTER	2325
+NUM_SEQ	5
+LENGTH	340
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	170.0
+FAMILIES	{'Nodaviridae': 5}
+GENERA	{'Betanodavirus': 4, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|322867243|ref|YP_004221743.1|vFam_2325| capsid protein [Santeuil nodavirus]
+gi|19551003|ref|NP_599249.1|vFam_2325| coat protein [Striped Jack nervous necrosis virus]
+gi|262396912|ref|YP_003288761.1|vFam_2325| coat protein [Tiger puffer nervous necrosis virus]
+gi|262396907|ref|YP_003288758.1|vFam_2325| coat protein [Barfin flounder nervous necrosis virus]
+gi|98960855|ref|YP_611157.1|vFam_2325| coat protein [Redspotted grouper nervous necrosis virus]

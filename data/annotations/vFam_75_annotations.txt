@@ -1,0 +1,43 @@
+CLUSTER	75
+NUM_SEQ	35
+LENGTH	829
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	431.08
+FAMILIES	{'Herpesviridae': 35}
+GENERA	{'Mardivirus': 4, 'None': 1, 'Cytomegalovirus': 3, 'Iltovirus': 2, 'Muromegalovirus': 1, 'Macavirus': 2, 'Roseolovirus': 2, 'Proboscivirus': 1, 'Simplexvirus': 4, 'Varicellovirus': 6, 'Rhadinovirus': 6, 'Lymphocryptovirus': 2, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|13242449|ref|NP_077469.1|vFam_75| helicase-primase helicase subunit [Cercopithecine herpesvirus 9]
+gi|9625929|ref|NP_040177.1|vFam_75| helicase-primase helicase subunit [Human herpesvirus 3]
+gi|12084833|ref|NP_073298.1|vFam_75| helicase-primase helicase subunit [Meleagrid herpesvirus 1]
+gi|125745056|ref|YP_001033933.1|vFam_75| helicase-primase helicase subunit [Gallid herpesvirus 2]
+gi|10834874|ref|NP_066835.1|vFam_75| helicase-primase helicase subunit [Gallid herpesvirus 3]
+gi|312162850|ref|YP_003933835.1|vFam_75| helicase-primase helicase subunit [Saimiriine herpesvirus 1]
+gi|30984433|ref|NP_851864.1|vFam_75| helicase-primase helicase subunit [Macacine herpesvirus 1]
+gi|9629385|ref|NP_044606.1|vFam_75| helicase-primase helicase subunit [Human herpesvirus 1]
+gi|9629274|ref|NP_044474.1|vFam_75| helicase-primase helicase subunit [Human herpesvirus 2]
+gi|255683154|ref|YP_003084418.1|vFam_75| UL5 [Anatid herpesvirus 1]
+gi|216905910|ref|YP_002333538.1|vFam_75| helicase-primase helicase subunit [Equid herpesvirus 9]
+gi|270339494|ref|YP_003331576.1|vFam_75| helicase-primase helicase subunit [Felid herpesvirus 1]
+gi|296316056|ref|YP_003662520.1|vFam_75| helicase-primase helicase subunit [Bovine herpesvirus 5]
+gi|51557537|ref|YP_068371.1|vFam_75| helicase-primase helicase subunit [Suid herpesvirus 1]
+gi|57790986|ref|YP_182390.1|vFam_75| helicase-primase helicase subunit [Gallid herpesvirus 1]
+gi|38638252|ref|NP_944435.1|vFam_75| helicase-primase helicase subunit [Psittacid herpesvirus 1]
+gi|82503237|ref|YP_401681.1|vFam_75| putative helicase [Human herpesvirus 4]
+gi|24943126|ref|NP_733888.1|vFam_75| ORF35 [callitrichine herpesvirus 3]
+gi|83642879|ref|YP_438166.1|vFam_75| ORF44 [Ovine herpesvirus 2]
+gi|10140965|ref|NP_065542.1|vFam_75| helicase [Alcelaphine herpesvirus 1]
+gi|139472836|ref|YP_001129396.1|vFam_75| ORF44 [Human herpesvirus 8]
+gi|18653851|ref|NP_570785.1|vFam_75| helicase/primase [Macacine herpesvirus 5]
+gi|9628047|ref|NP_042641.1|vFam_75| DNA helicase-primase complex component [Equid herpesvirus 2]
+gi|13095621|ref|NP_076536.1|vFam_75| helicase [Bovine herpesvirus 4]
+gi|9631235|ref|NP_048017.1|vFam_75| helicase [Ateline herpesvirus 3]
+gi|9625999|ref|NP_040246.1|vFam_75| helicase [Saimiriine herpesvirus 2]
+gi|321496595|ref|YP_004207880.1|vFam_75| helicase [Rodent herpesvirus Peru]
+gi|9629581|ref|NP_044881.1|vFam_75| helicase-primase helicase subunit [Murid herpesvirus 4]
+gi|496991178|ref|YP_007969770.1|vFam_75| helicase-primase helicase subunit [Elephantid herpesvirus 1]
+gi|538447274|ref|YP_008493014.1|vFam_75| componant of helicase-primase complex HP1 [Porcine cytomegalovirus]
+gi|9633146|ref|NP_050256.1|vFam_75| Helicase/primase complex [Human herpesvirus 6B]
+gi|51874299|ref|YP_073817.1|vFam_75| helicase-primase helicase subunit [Human herpesvirus 7]
+gi|425707304|ref|YP_007016501.1|vFam_75| E105 [Murid herpesvirus 8]
+gi|359946537|ref|YP_004936070.1|vFam_75| helicase-primase helicase subunit [Cercopithecine herpesvirus 5]
+gi|360086581|ref|YP_004940266.1|vFam_75| helicase-primase helicase subunit [Saimiriine herpesvirus 3]

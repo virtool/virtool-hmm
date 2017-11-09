@@ -1,0 +1,12 @@
+CLUSTER	3603
+NUM_SEQ	4
+LENGTH	146
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	75.92
+FAMILIES	{'None': 2, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831382|ref|YP_003970025.1|vFam_3603| putative N-acetyltransferase [Cafeteria roenbergensis virus BV-PW1]
+gi|448825568|ref|YP_007418499.1|vFam_3603| putative glucosamine 6-phosphate n-acetyltransferase [Megavirus lba]
+gi|441432442|ref|YP_007354484.1|vFam_3603| Glucosamine 6-phosphate N-acetyltransferase [Acanthamoeba polyphaga moumouvirus]
+gi|311977699|ref|YP_003986819.1|vFam_3603| probable glucosamine 6-phosphate N-acetyltransferase [Acanthamoeba polyphaga mimivirus]

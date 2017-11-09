@@ -1,0 +1,21 @@
+CLUSTER	679
+NUM_SEQ	13
+LENGTH	236
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	122.72
+FAMILIES	{'Baculoviridae': 11}
+GENERA	{'Alphabaculovirus': 11}
+FASTA SEQUENCE TITLES:
+gi|74229745|ref|YP_308949.1|vFam_679| orf59 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|22549510|ref|NP_689282.1|vFam_679| p26a gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|125860208|ref|YP_001036378.1|vFam_679| p26 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401484|ref|YP_002332788.1|vFam_679| P26 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634308|ref|NP_037847.1|vFam_679| ORF87 p26 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|90592811|ref|YP_529764.1|vFam_679| P26 [Agrotis segetum nucleopolyhedrovirus]
+gi|209170983|ref|YP_002268130.1|vFam_679| P26 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|113195462|ref|YP_717599.1|vFam_679| P26 [Clanis bilineata nucleopolyhedrovirus]
+gi|228861651|ref|YP_002854671.1|vFam_679| P26-2 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|118197533|ref|YP_874245.1|vFam_679| p26-b [Ectropis obliqua nucleopolyhedrovirus]
+gi|529218113|ref|YP_008378276.1|vFam_679| p26-b [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502151|ref|YP_006607809.1|vFam_679| p26-b [Apocheima cinerarium nucleopolyhedrovirus]
+gi|165969072|ref|YP_001650972.1|vFam_679| p26-b [Orgyia leucostigma NPV]

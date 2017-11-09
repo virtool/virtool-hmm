@@ -1,0 +1,11 @@
+CLUSTER	4508
+NUM_SEQ	3
+LENGTH	281
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	143.31
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|75750448|ref|YP_319887.1|vFam_4508| hypothetical protein ATV_gp56 [Acidianus two-tailed virus]
+gi|448260196|ref|YP_007348293.1|vFam_4508| hypothetical protein STSV2_49 [Sulfolobus virus STSV2]
+gi|51980178|ref|YP_077245.1|vFam_4508| hypothetical protein STSV1pORF52 [Sulfolobus virus STSV1]

@@ -1,0 +1,26 @@
+CLUSTER	316
+NUM_SEQ	18
+LENGTH	714
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	371.28
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'Betaentomopoxvirus': 1, 'None': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 1, 'Parapoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531792|ref|YP_784318.1|vFam_316| early transcription factor large subunit [Nile crocodilepox virus]
+gi|41057519|ref|NP_957992.1|vFam_316| ORF083 early transcription factor VETFL [Bovine papular stomatitis virus]
+gi|40556182|ref|NP_955267.1|vFam_316| CNPV244 early transcription factor large subunit VETFL [Canarypox virus]
+gi|9634841|ref|NP_039134.1|vFam_316| Early transcription factor large subunit, VETF-L [Fowlpox virus]
+gi|9629042|ref|NP_044061.1|vFam_316| MC110L [Molluscum contagiosum virus subtype 1]
+gi|571798021|ref|YP_008658520.1|vFam_316| early transcription factor [Squirrelpox virus]
+gi|113195305|ref|YP_717435.1|vFam_316| 82kDa large subunit of early gene transcription factor VETF [Taterapox virus]
+gi|345107296|ref|YP_004821461.1|vFam_316| VETFL early gene transcription factor 82kDa large subunit [Yoka poxvirus]
+gi|38229260|ref|NP_938353.1|vFam_316| 98L [Yaba monkey tumor virus]
+gi|377830003|ref|YP_005296303.1|vFam_316| unnamed protein product [Cotia virus SPAn232]
+gi|18640181|ref|NP_570255.1|vFam_316| SPV095 putative early transcription factor VETFL [Swinepox virus]
+gi|211956378|ref|YP_002302447.1|vFam_316| early transcription factor VETFL [Deerpox virus W-1170-84]
+gi|9633906|ref|NP_051985.1|vFam_316| gp096L [Rabbit fibroma virus]
+gi|148912975|ref|YP_001293289.1|vFam_316| hypothetical protein GTPV_gp094 [Goatpox virus Pellor]
+gi|9631309|ref|NP_048134.1|vFam_316| ORF MSV063 putative early transcription factor large subunit homolog VETF-L (vaccinia A7L), similar to GB:X76265 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497839|ref|YP_008003638.1|vFam_316| VETF-L early transcription factor large [Mythimna separata entomopoxvirus 'L']
+gi|506498132|ref|YP_008003929.1|vFam_316| VETF-L early transcription factor large [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964419|ref|NP_064887.1|vFam_316| putative early transcription factor large subunit [Amsacta moorei entomopoxvirus 'L']

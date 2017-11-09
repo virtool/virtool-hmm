@@ -1,0 +1,11 @@
+CLUSTER	5115
+NUM_SEQ	3
+LENGTH	87
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	51.33
+FAMILIES	{'Circoviridae': 3}
+GENERA	{'Circovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|15148079|ref|NP_150369.1|vFam_5115| hypothetical protein GcVgp3 [Goose circovirus]
+gi|71658853|ref|YP_271919.1|vFam_5115| hypothetical protein [Duck circovirus]
+gi|56698745|ref|YP_164518.1|vFam_5115| ORFC2 [Muscovy duck circovirus]

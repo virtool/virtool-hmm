@@ -1,0 +1,23 @@
+CLUSTER	491
+NUM_SEQ	15
+LENGTH	634
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	329.68
+FAMILIES	{'Poxviridae': 13}
+GENERA	{'None': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 1, 'Yatapoxvirus': 1, 'Parapoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|41057505|ref|NP_957978.1|vFam_491| ORF069 early transcription factor VETFs [Bovine papular stomatitis virus]
+gi|115531778|ref|YP_784304.1|vFam_491| early transcription factor small subunit [Nile crocodilepox virus]
+gi|40556018|ref|NP_955103.1|vFam_491| CNPV080 early transcription factor small subunit VETFS [Canarypox virus]
+gi|113195290|ref|YP_717420.1|vFam_491| 70kDa small subunit of early transcription initiation factor VETF [Taterapox virus]
+gi|345107280|ref|YP_004821445.1|vFam_491| early gene transcription factor [Yoka poxvirus]
+gi|377829991|ref|YP_005296288.1|vFam_491| unnamed protein product [Cotia virus SPAn232]
+gi|157939707|ref|YP_001497079.1|vFam_491| early transcription factor VETFs [Tanapox virus]
+gi|9633892|ref|NP_051970.1|vFam_491| gp081R [Rabbit fibroma virus]
+gi|148912961|ref|YP_001293275.1|vFam_491| hypothetical protein GTPV_gp080 [Goatpox virus Pellor]
+gi|211956364|ref|YP_002302433.1|vFam_491| early transcription factor VETFs [Deerpox virus W-1170-84]
+gi|9629027|ref|NP_044046.1|vFam_491| MC095R [Molluscum contagiosum virus subtype 1]
+gi|571798003|ref|YP_008658502.1|vFam_491| early transcription factor [Squirrelpox virus]
+gi|9631345|ref|NP_048184.1|vFam_491| ORF MSV113 putative early transcription factor small subunit VETF-S homolog (vaccinia D6R), similar to SW:P04308 [Melanoplus sanguinipes entomopoxvirus]
+gi|506498795|ref|YP_008004589.1|vFam_491| morph, VETF-s early transcription factor small [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506497932|ref|YP_008003731.1|vFam_491| morph, VETF-s early transcription factor small [Mythimna separata entomopoxvirus 'L']

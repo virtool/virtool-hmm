@@ -1,0 +1,11 @@
+CLUSTER	4509
+NUM_SEQ	3
+LENGTH	62
+RELATIVE_ENTROPY_PER_POSITION	0.84
+TOTAL_RELATIVE_ENTROPY	52.08
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329458|ref|YP_001604258.1|vFam_4509| hypothetical protein AFV7_gp34 [Acidianus filamentous virus 7]
+gi|162329518|ref|YP_001604317.1|vFam_4509| hypothetical protein AFV8_gp36 [Acidianus filamentous virus 8]
+gi|162329398|ref|YP_001604199.1|vFam_4509| hypothetical protein AFV6_gp41 [Acidianus filamentous virus 6]

@@ -1,0 +1,10 @@
+CLUSTER	4013
+NUM_SEQ	2
+LENGTH	155
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	80.6
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825193|ref|YP_007418124.1|vFam_4013| putative methylated-DNA-protein-cysteine methyltransferase [Megavirus lba]
+gi|311978100|ref|YP_003987220.1|vFam_4013| probable methylated-DNA--protein-cysteine methyltransferase [Acanthamoeba polyphaga mimivirus]

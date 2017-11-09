@@ -1,0 +1,11 @@
+CLUSTER	4380
+NUM_SEQ	3
+LENGTH	271
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	140.92
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'None': 2, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825452|ref|YP_007418383.1|vFam_4380| putative alpha/beta hydrolase [Megavirus lba]
+gi|441432345|ref|YP_007354387.1|vFam_4380| Alpha/beta hydrolase family protein [Acanthamoeba polyphaga moumouvirus]
+gi|311977788|ref|YP_003986908.1|vFam_4380| putative alpha/beta hydrolase [Acanthamoeba polyphaga mimivirus]

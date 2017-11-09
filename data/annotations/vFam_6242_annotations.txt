@@ -1,0 +1,10 @@
+CLUSTER	6242
+NUM_SEQ	2
+LENGTH	172
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	87.72
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'None': 1, 'Rhadinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|321496623|ref|YP_004207908.1|vFam_6242| v-Bcl-2-like protein [Rodent herpesvirus Peru]
+gi|9629595|ref|NP_044912.1|vFam_6242| apoptosis regulator M11 [Murid herpesvirus 4]

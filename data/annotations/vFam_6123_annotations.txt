@@ -1,0 +1,10 @@
+CLUSTER	6123
+NUM_SEQ	2
+LENGTH	98
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	49.98
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|295441871|ref|YP_003591100.1|vFam_6123| hypothetical protein STIV2_F98 [Sulfolobus turreted icosahedral virus 2]
+gi|48697016|ref|YP_025013.1|vFam_6123| hypothetical protein F93 [Sulfolobus turreted icosahedral virus]

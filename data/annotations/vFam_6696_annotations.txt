@@ -1,0 +1,10 @@
+CLUSTER	6696
+NUM_SEQ	2
+LENGTH	158
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	82.16
+FAMILIES	{'Alphatetraviridae': 2}
+GENERA	{'Omegatetravirus': 2}
+FASTA SEQUENCE TITLES:
+gi|48697172|ref|YP_025095.1|vFam_6696| p17 [Dendrolimus punctatus tetravirus]
+gi|9632273|ref|NP_049236.1|vFam_6696| hypothetical protein HaSVsRNA-2gp1 [Helicoverpa armigera stunt virus]

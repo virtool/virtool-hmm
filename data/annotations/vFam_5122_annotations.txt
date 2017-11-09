@@ -1,0 +1,11 @@
+CLUSTER	5122
+NUM_SEQ	3
+LENGTH	61
+RELATIVE_ENTROPY_PER_POSITION	0.84
+TOTAL_RELATIVE_ENTROPY	51.24
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Iridovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|15079160|ref|NP_149912.1|vFam_5122| 449L [Invertebrate iridescent virus 6]
+gi|15079158|ref|NP_149910.1|vFam_5122| 447L [Invertebrate iridescent virus 6]
+gi|15078978|ref|NP_149729.1|vFam_5122| 266L [Invertebrate iridescent virus 6]

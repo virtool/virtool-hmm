@@ -1,0 +1,10 @@
+CLUSTER	6243
+NUM_SEQ	2
+LENGTH	128
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	65.28
+FAMILIES	{'Flaviviridae': 1, 'Nimaviridae': 1}
+GENERA	{'Flavivirus': 1, 'Whispovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|17158451|ref|NP_477871.1|vFam_6243| wsv349 [Shrimp white spot syndrome virus]
+gi|27735333|ref|NP_776032.1|vFam_6243| putative non-structural protein NS4a [Tamana bat virus]

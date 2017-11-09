@@ -1,0 +1,15 @@
+CLUSTER	1632
+NUM_SEQ	7
+LENGTH	271
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	138.21
+FAMILIES	{'Phycodnaviridae': 7}
+GENERA	{'None': 1, 'Prasinovirus': 2, 'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|313768146|ref|YP_004061577.1|vFam_1632| hypothetical protein BpV1_147 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|260666023|ref|YP_003212977.1|vFam_1632| hypothetical protein H665_p154 [Ostreococcus tauri virus 1]
+gi|313768361|ref|YP_004062041.1|vFam_1632| hypothetical protein MpV1_158 [Micromonas sp. RCC1109 virus MpV1]
+gi|157953683|ref|YP_001498574.1|vFam_1632| hypothetical protein AR158_C493R [Paramecium bursaria Chlorella virus AR158]
+gi|9631969|ref|NP_048758.1|vFam_1632| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|155371307|ref|YP_001426841.1|vFam_1632| hypothetical protein ATCV1_Z360R [Acanthocystis turfacea Chlorella virus 1]
+gi|155370670|ref|YP_001426204.1|vFam_1632| hypothetical protein FR483_N572L [Paramecium bursaria Chlorella virus FR483]

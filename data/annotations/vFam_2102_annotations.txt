@@ -1,0 +1,13 @@
+CLUSTER	2102
+NUM_SEQ	5
+LENGTH	82
+RELATIVE_ENTROPY_PER_POSITION	0.62
+TOTAL_RELATIVE_ENTROPY	50.84
+FAMILIES	{'Closteroviridae': 5}
+GENERA	{'Crinivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|258676969|ref|YP_003204959.1|vFam_2102| p10 [Tomato infectious chlorosis virus]
+gi|50428968|ref|YP_054420.1|vFam_2102| hypothetical protein PYVVs2_gp4 [Potato yellow vein virus]
+gi|48696546|ref|YP_025088.1|vFam_2102| p10 [Strawberry pallidosis-associated virus]
+gi|38257134|ref|NP_940791.1|vFam_2102| p10 [Beet pseudoyellows virus]
+gi|62401637|ref|YP_227363.1|vFam_2102| p9 [Blackberry yellow vein-associated virus]

@@ -1,0 +1,18 @@
+CLUSTER	261
+NUM_SEQ	10
+LENGTH	329
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	167.79
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036982|ref|YP_008438624.1|vFam_261| hypothetical protein ps_2222 [Pandoravirus salinus]
+gi|531037241|ref|YP_008438884.1|vFam_261| hypothetical protein ps_2482 [Pandoravirus salinus]
+gi|526119185|ref|YP_008319088.1|vFam_261| hypothetical protein [Pandoravirus dulcis]
+gi|531035414|ref|YP_008437043.1|vFam_261| hypothetical protein ps_629 [Pandoravirus salinus]
+gi|531035009|ref|YP_008436634.1|vFam_261| hypothetical protein ps_218 [Pandoravirus salinus]
+gi|531035012|ref|YP_008436637.1|vFam_261| hypothetical protein ps_221 [Pandoravirus salinus]
+gi|526118861|ref|YP_008318764.1|vFam_261| hypothetical protein [Pandoravirus dulcis]
+gi|526119187|ref|YP_008319090.1|vFam_261| hypothetical protein [Pandoravirus dulcis]
+gi|531035415|ref|YP_008437044.1|vFam_261| hypothetical protein ps_630 [Pandoravirus salinus]
+gi|526119189|ref|YP_008319092.1|vFam_261| hypothetical protein [Pandoravirus dulcis]

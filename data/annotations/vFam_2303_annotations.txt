@@ -1,0 +1,13 @@
+CLUSTER	2303
+NUM_SEQ	5
+LENGTH	225
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	117.0
+FAMILIES	{'Rhabdoviridae': 4}
+GENERA	{'Vesiculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|14336457|ref|NP_116746.1|vFam_2303| matrix protein [Spring viraemia of carp virus]
+gi|9627232|ref|NP_041714.1|vFam_2303| matrix (M) protein [Vesicular stomatitis Indiana virus]
+gi|557307920|ref|YP_008767241.1|vFam_2303| matrix protein M [American bat vesiculovirus TFFN-2013]
+gi|471236996|ref|YP_007641384.1|vFam_2303| matrix protein [Isfahan virus]
+gi|471236990|ref|YP_007641379.1|vFam_2303| matrix protein [Chandipura virus]

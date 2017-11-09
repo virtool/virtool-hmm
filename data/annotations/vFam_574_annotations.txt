@@ -1,0 +1,18 @@
+CLUSTER	574
+NUM_SEQ	10
+LENGTH	94
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	50.76
+FAMILIES	{'Herpesviridae': 10}
+GENERA	{'Muromegalovirus': 1, 'Roseolovirus': 1, 'Proboscivirus': 1, 'None': 2, 'Cytomegalovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|496991165|ref|YP_007969785.1|vFam_574| protein UL91 [Elephantid herpesvirus 1]
+gi|9633131|ref|NP_050242.1|vFam_574| hypothetical protein HhV6Bgp067 [Human herpesvirus 6B]
+gi|448824925|ref|YP_007417857.1|vFam_574| GP91 [Caviid herpesvirus 2]
+gi|360086569|ref|YP_004940253.1|vFam_574| protein UL91 [Saimiriine herpesvirus 3]
+gi|360040972|ref|YP_004940107.1|vFam_574| protein UL91 [Aotine herpesvirus 1]
+gi|52139263|ref|YP_081538.1|vFam_574| protein UL91 [Human herpesvirus 5]
+gi|359946524|ref|YP_004936057.1|vFam_574| protein UL91 [Cercopithecine herpesvirus 5]
+gi|356640423|ref|YP_004933865.1|vFam_574| protein UL91 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|425707291|ref|YP_007016488.1|vFam_574| E91 [Murid herpesvirus 8]
+gi|14251077|ref|NP_116440.1|vFam_574| T91 [Tupaiid herpesvirus 1]

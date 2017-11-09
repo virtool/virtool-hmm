@@ -1,0 +1,10 @@
+CLUSTER	4830
+NUM_SEQ	2
+LENGTH	174
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	90.48
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Rhadinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9631206|ref|NP_047987.1|vFam_4830| orf 16; bcl-2 family member [Ateline herpesvirus 3]
+gi|9625972|ref|NP_040218.1|vFam_4830| unnamed protein product [Saimiriine herpesvirus 2]

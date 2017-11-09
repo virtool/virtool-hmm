@@ -1,0 +1,10 @@
+CLUSTER	4049
+NUM_SEQ	2
+LENGTH	221
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	112.71
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035126|ref|YP_008436751.1|vFam_4049| hypothetical protein ps_335 [Pandoravirus salinus]
+gi|531034874|ref|YP_008436499.1|vFam_4049| hypothetical protein ps_83 [Pandoravirus salinus]

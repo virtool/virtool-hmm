@@ -1,0 +1,13 @@
+CLUSTER	1678
+NUM_SEQ	5
+LENGTH	143
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	71.5
+FAMILIES	{'None': 1, 'Phycodnaviridae': 2, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2, 'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|311978111|ref|YP_003987231.1|vFam_1678| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825205|ref|YP_007418136.1|vFam_1678| hypothetical protein LBA_00240 [Megavirus lba]
+gi|441432120|ref|YP_007354162.1|vFam_1678| hypothetical protein Moumou_00182 [Acanthamoeba polyphaga moumouvirus]
+gi|155371335|ref|YP_001426869.1|vFam_1678| hypothetical protein ATCV1_z388L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370480|ref|YP_001426014.1|vFam_1678| hypothetical protein FR483_n382L [Paramecium bursaria Chlorella virus FR483]

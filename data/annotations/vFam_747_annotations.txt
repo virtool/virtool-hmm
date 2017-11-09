@@ -1,0 +1,19 @@
+CLUSTER	747
+NUM_SEQ	11
+LENGTH	419
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	217.88
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|438000416|ref|YP_007250521.1|vFam_747| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964622|ref|YP_950818.1|vFam_747| Mv-ORF88 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|23577845|ref|NP_703102.1|vFam_747| hypothetical protein [Rachiplusia ou MNPV]
+gi|15320757|ref|NP_203269.1|vFam_747| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326181|ref|YP_803507.1|vFam_747| hypothetical protein AGNV_gp113 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|99077896|ref|YP_611013.2|vFam_747| hypothetical protein APNV_p044 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355560|ref|YP_473228.1|vFam_747| ORF40 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630052|ref|NP_046270.1|vFam_747| hypothetical protein OpmnVgp114 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153356|ref|YP_008378396.1|vFam_747| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|571031240|ref|YP_008992136.1|vFam_747| ac114 [Choristoneura murinana alphabaculovirus]
+gi|529153519|ref|YP_008378544.1|vFam_747| hypothetical protein [Choristoneura occidentalis alphabaculovirus]

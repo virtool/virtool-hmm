@@ -1,0 +1,10 @@
+CLUSTER	1608
+NUM_SEQ	2
+LENGTH	389
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	198.39
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1}
+GENERA	{'None': 1, 'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508181913|ref|YP_008052432.1|vFam_1608| transcription initiation factor IIB [Phaeocystis globosa virus]
+gi|310831219|ref|YP_003969862.1|vFam_1608| putative transcription initiation factor TFIIB [Cafeteria roenbergensis virus BV-PW1]

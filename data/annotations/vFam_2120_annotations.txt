@@ -1,0 +1,13 @@
+CLUSTER	2120
+NUM_SEQ	5
+LENGTH	451
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	230.01
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631509|ref|NP_048126.1|vFam_2120| ORF MSV055 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|506497983|ref|YP_008003782.1|vFam_2120| unknown similar to AMEV238 [Mythimna separata entomopoxvirus 'L']
+gi|506498243|ref|YP_008004040.1|vFam_2120| unknown similar to AMEV238 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498852|ref|YP_008004646.1|vFam_2120| unknown similar to AMEV238 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964552|ref|NP_065020.1|vFam_2120| similar to translation elongation factor eEF-3 [Amsacta moorei entomopoxvirus 'L']

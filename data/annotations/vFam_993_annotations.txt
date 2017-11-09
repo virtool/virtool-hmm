@@ -1,0 +1,16 @@
+CLUSTER	993
+NUM_SEQ	8
+LENGTH	369
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	188.19
+FAMILIES	{'None': 2, 'Baculoviridae': 6}
+GENERA	{'None': 2, 'Betabaculovirus': 4, 'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134303461|ref|YP_001111330.1|vFam_993| ribonucleotide reductase small subunit [Gryllus bimaculatus nudivirus]
+gi|213159370|ref|YP_002321413.1|vFam_993| rr2 [Oryctes rhinoceros virus]
+gi|21686785|ref|NP_663285.1|vFam_993| ribonucleotide reductase 2a [Phthorimaea operculella granulovirus]
+gi|14602365|ref|NP_148912.1|vFam_993| ORF128 RR2A [Cydia pomonella granulovirus]
+gi|46309416|ref|YP_006306.1|vFam_993| ORF38 [Agrotis segetum granulovirus]
+gi|410493573|ref|YP_006908511.1|vFam_993| ribonucleotide reductase subunit 2a [Epinotia aporema granulovirus]
+gi|9631114|ref|NP_047784.1|vFam_993| ribonucleotide reductase small subunit homolog [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|9629972|ref|NP_046190.1|vFam_993| ribonucleotide reductase small subunit [Orgyia pseudotsugata multiple nucleopolyhedrovirus]

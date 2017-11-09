@@ -1,0 +1,10 @@
+CLUSTER	6094
+NUM_SEQ	2
+LENGTH	131
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	68.12
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|260666061|ref|YP_003213015.1|vFam_6094| hypothetical protein H665_p192 [Ostreococcus tauri virus 1]
+gi|314055279|ref|YP_004063617.1|vFam_6094| hypothetical protein OtV2_184 [Ostreococcus tauri virus 2]

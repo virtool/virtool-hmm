@@ -1,0 +1,13 @@
+CLUSTER	2619
+NUM_SEQ	5
+LENGTH	67
+RELATIVE_ENTROPY_PER_POSITION	0.77
+TOTAL_RELATIVE_ENTROPY	51.59
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Betabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|410493696|ref|YP_006908634.1|vFam_2619| hypothetical protein [Epinotia aporema granulovirus]
+gi|148368950|ref|YP_001257080.1|vFam_2619| hypothetical protein SlGVgp129 [Spodoptera litura granulovirus]
+gi|46309329|ref|YP_006219.1|vFam_2619| ORF125 [Agrotis segetum granulovirus]
+gi|285002450|ref|YP_003422514.1|vFam_2619| hypothetical protein PsunGV_gp175 [Pseudaletia unipuncta granulovirus]
+gi|164519366|ref|YP_001649153.1|vFam_2619| hypothetical protein HaGV_gp171 [Helicoverpa armigera granulovirus]

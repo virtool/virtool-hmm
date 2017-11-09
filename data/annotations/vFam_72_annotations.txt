@@ -1,0 +1,47 @@
+CLUSTER	72
+NUM_SEQ	39
+LENGTH	369
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	191.88
+FAMILIES	{'Polyomaviridae': 36}
+GENERA	{'Polyomavirus': 36}
+FASTA SEQUENCE TITLES:
+gi|9628646|ref|NP_043511.1|vFam_72| hypothetical protein [JC polyomavirus]
+gi|297591902|ref|YP_003708381.1|vFam_72| Major capsid protein VP1 [Simian virus 40]
+gi|82524376|ref|YP_406554.1|vFam_72| VP1 protein [Simian virus 12]
+gi|113204634|ref|YP_717939.1|vFam_72| VP1 [BK polyomavirus]
+gi|548894530|ref|YP_008603285.1|vFam_72| major capsid protein VP1 [African elephant polyomavirus 1]
+gi|440285298|ref|YP_007346958.1|vFam_72| major structural protein VP1 [Otomops polyomavirus 2]
+gi|440285292|ref|YP_007346953.1|vFam_72| major structural protein VP1 [Chaerephon polyomavirus 1]
+gi|9628287|ref|NP_056733.1|vFam_72| VP1 protein [Hamster polyomavirus]
+gi|9626486|ref|NP_040787.1|vFam_72| major capsid protein VP1 [Bovine polyomavirus]
+gi|440285310|ref|YP_007346968.1|vFam_72| major structural protein VP1 [Eidolon polyomavirus 1]
+gi|9627024|ref|NP_041267.1|vFam_72| VP1 (major capsid protein) [Murine polyomavirus]
+gi|394935472|ref|YP_005454254.1|vFam_72| unnamed protein product [Canary polyomavirus]
+gi|473973298|ref|YP_007684355.1|vFam_72| VP1 [Human polyomavirus 12]
+gi|313843963|ref|YP_004061428.1|vFam_72| virus protein 1 [Budgerigar fledgling disease virus - 1]
+gi|90403563|ref|YP_529833.1|vFam_72| putative VP1 [Finch polyomavirus]
+gi|430025821|ref|YP_007195292.1|vFam_72| VP1 [Pan troglodytes schweinfurthii polyomavirus 2]
+gi|430025783|ref|YP_007195261.1|vFam_72| VP1 [Macaca fascicularis polyomavirus 1]
+gi|430025816|ref|YP_007195288.1|vFam_72| VP1 [Pan troglodytes verus polyomavirus 5]
+gi|430025796|ref|YP_007195272.1|vFam_72| VP1 [Ateles paniscus polyomavirus 1]
+gi|302317580|ref|YP_003800006.1|vFam_72| structural protein VP1 [Trichodysplasia spinulosa-associated polyomavirus]
+gi|262340525|ref|YP_003264533.1|vFam_72| VP1 structural protein [Orangutan polyomavirus]
+gi|389060485|ref|YP_006383691.1|vFam_72| VP1 [Equine polyomavirus]
+gi|430025811|ref|YP_007195284.1|vFam_72| VP1 [Pan troglodytes verus polyomavirus 4]
+gi|430025806|ref|YP_007195280.1|vFam_72| VP1 [Pan troglodytes verus polyomavirus 3]
+gi|430025801|ref|YP_007195276.1|vFam_72| VP1 [Cebus albifrons polyomavirus 1]
+gi|159035669|ref|YP_001531348.1|vFam_72| VP1 structutal protein [Squirrel monkey polyomavirus]
+gi|30518364|ref|NP_849169.1|vFam_72| putative protein 1 [Goose hemorrhagic polyomavirus]
+gi|564292824|ref|YP_008873518.1|vFam_72| major structural protein VP1 [Butcherbird polyomavirus]
+gi|90403557|ref|YP_529827.1|vFam_72| putative VP1 [Crow polyomavirus]
+gi|9626981|ref|NP_041234.1|vFam_72| capsid protein VP1 [Murine pneumotropic virus]
+gi|440285322|ref|YP_007346978.1|vFam_72| major structural protein VP1 [Pteronotus polyomavirus]
+gi|207271577|ref|YP_002261488.1|vFam_72| putative major capsid protein VP1 [Myotis polyomavirus VM-2008]
+gi|440285316|ref|YP_007346973.1|vFam_72| major structural protein VP1 [Miniopterus polyomavirus]
+gi|441432841|ref|YP_007354884.1|vFam_72| VP1 [STL polyomavirus]
+gi|393738581|ref|YP_006495788.1|vFam_72| major capsid protein VP1 [MW polyomavirus]
+gi|303291531|ref|YP_003848918.1|vFam_72| VP1 [Polyomavirus HPyV6]
+gi|303291525|ref|YP_003848923.1|vFam_72| VP1 [Polyomavirus HPyV7]
+gi|148724566|ref|YP_001285487.1|vFam_72| VP1 [WU Polyomavirus]
+gi|134288557|ref|YP_001111258.1|vFam_72| VP1 [KI polyomavirus]

@@ -1,0 +1,11 @@
+CLUSTER	965
+NUM_SEQ	3
+LENGTH	161
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	83.72
+FAMILIES	{'Phycodnaviridae': 2, 'Poxviridae': 1}
+GENERA	{'Crocodylidpoxvirus': 1, 'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531820|ref|YP_784346.1|vFam_965| hypothetical protein CRV156 [Nile crocodilepox virus]
+gi|155370704|ref|YP_001426238.1|vFam_965| hypothetical protein FR483_N606L [Paramecium bursaria Chlorella virus FR483]
+gi|9631870|ref|NP_048656.1|vFam_965| hypothetical protein [Paramecium bursaria Chlorella virus 1]

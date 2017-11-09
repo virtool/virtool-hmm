@@ -1,0 +1,14 @@
+CLUSTER	455
+NUM_SEQ	6
+LENGTH	193
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	98.43
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Betabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|21686739|ref|NP_663239.1|vFam_455| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|410493647|ref|YP_006908585.1|vFam_455| hypothetical protein [Epinotia aporema granulovirus]
+gi|109255335|ref|YP_654484.1|vFam_455| hypothetical protein COGV_gp063 [Choristoneura occidentalis granulovirus]
+gi|288804706|ref|YP_003429391.1|vFam_455| PrGVORF67 [Pieris rapae granulovirus]
+gi|556549103|ref|YP_008720017.1|vFam_455| hypothetical protein CaLGV070 [Clostera anastomosis granulovirus]
+gi|334265746|ref|YP_004376275.1|vFam_455| hypothetical protein ClanGV_gp067 [Clostera anachoreta granulovirus]

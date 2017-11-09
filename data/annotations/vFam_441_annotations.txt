@@ -1,0 +1,25 @@
+CLUSTER	441
+NUM_SEQ	17
+LENGTH	75
+RELATIVE_ENTROPY_PER_POSITION	0.70
+TOTAL_RELATIVE_ENTROPY	52.5
+FAMILIES	{'Poxviridae': 17}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Molluscipoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|571797963|ref|YP_008658462.1|vFam_441| virion membrane component, involved in entry [Squirrelpox virus]
+gi|40556054|ref|NP_955139.1|vFam_441| CNPV116 conserved hypothetical protein [Canarypox virus]
+gi|9634759|ref|NP_039052.1|vFam_441| hypothetical protein FPV089 [Fowlpox virus]
+gi|211956323|ref|YP_002302392.1|vFam_441| hypothetical protein DpV84gp052 [Deerpox virus W-1170-84]
+gi|377829953|ref|YP_005296248.1|vFam_441| unnamed protein product [Cotia virus SPAn232]
+gi|38229206|ref|NP_938299.1|vFam_441| 44L [Yaba monkey tumor virus]
+gi|12085027|ref|NP_073429.1|vFam_441| 44L protein [Yaba-like disease virus]
+gi|9633848|ref|NP_051928.1|vFam_441| gp039L [Rabbit fibroma virus]
+gi|9633675|ref|NP_051753.1|vFam_441| m39L [Myxoma virus]
+gi|18640126|ref|NP_570200.1|vFam_441| SPV040 hypothetical protein [Swinepox virus]
+gi|15150483|ref|NP_150478.1|vFam_441| LSDV044 hypothetical protein [Lumpy skin disease virus NI-2490]
+gi|113195251|ref|YP_717381.1|vFam_441| IMV membrane protein [Taterapox virus]
+gi|345107238|ref|YP_004821403.1|vFam_441| IMV membrane protein [Yoka poxvirus]
+gi|9628977|ref|NP_043996.1|vFam_441| MC045L [Molluscum contagiosum virus subtype 1]
+gi|115531730|ref|YP_784256.1|vFam_441| hypothetical protein CRV066 [Nile crocodilepox virus]
+gi|41057467|ref|NP_957940.1|vFam_441| ORF031 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183795|ref|YP_003457336.1|vFam_441| hypothetical protein PCPV_gp033 [Pseudocowpox virus]

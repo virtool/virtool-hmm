@@ -1,0 +1,17 @@
+CLUSTER	1149
+NUM_SEQ	9
+LENGTH	111
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	57.72
+FAMILIES	{'None': 1, 'Picornaviridae': 8}
+GENERA	{'None': 6, 'Sapelovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|334847629|ref|YP_004564614.1|vFam_1149| 2B [Pigeon picornavirus B]
+gi|56692987|ref|YP_164826.1|vFam_1149| 2B [Avian sapelovirus]
+gi|345461284|ref|YP_004782563.1|vFam_1149| 2B [Bat picornavirus 2]
+gi|345461268|ref|YP_004782549.1|vFam_1149| 2B [Bat picornavirus 1]
+gi|345461101|ref|YP_004782536.1|vFam_1149| 2B [Bat picornavirus 3]
+gi|38018437|ref|NP_937974.1|vFam_1149| 2B [Simian sapelovirus 1]
+gi|25121801|ref|NP_740484.1|vFam_1149| 2B protein [Porcine sapelovirus 1]
+gi|380034925|ref|YP_005352650.1|vFam_1149| 2B [Canine picornavirus]
+gi|358356454|ref|YP_004934025.1|vFam_1149| unnamed protein product [Feline picornavirus]

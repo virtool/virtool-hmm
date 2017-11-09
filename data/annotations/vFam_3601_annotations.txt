@@ -1,0 +1,11 @@
+CLUSTER	3601
+NUM_SEQ	3
+LENGTH	106
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	51.94
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|119964651|ref|YP_950847.1|vFam_3601| Mv-ORF117 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|237643681|ref|YP_002884371.1|vFam_3601| Ac149-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|114680200|ref|YP_758613.1|vFam_3601| hypothetical protein PXMNV_gp147 [Plutella xylostella multiple nucleopolyhedrovirus]

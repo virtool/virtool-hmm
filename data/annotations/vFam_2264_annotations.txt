@@ -1,0 +1,13 @@
+CLUSTER	2264
+NUM_SEQ	5
+LENGTH	82
+RELATIVE_ENTROPY_PER_POSITION	0.62
+TOTAL_RELATIVE_ENTROPY	50.84
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9630014|ref|NP_046232.1|vFam_2264| hypothetical protein OpmnVgp076 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153391|ref|YP_008378431.1|vFam_2264| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|86355598|ref|YP_473266.1|vFam_2264| ORF78 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|571031278|ref|YP_008992174.1|vFam_2264| hypothetical protein chmu83 [Choristoneura murinana alphabaculovirus]
+gi|30387300|ref|NP_848379.1|vFam_2264| hypothetical protein CfMNPVgpORF68 [Choristoneura fumiferana multiple nucleopolyhedrovirus]

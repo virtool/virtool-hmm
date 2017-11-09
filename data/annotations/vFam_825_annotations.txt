@@ -1,0 +1,16 @@
+CLUSTER	825
+NUM_SEQ	8
+LENGTH	84
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	49.56
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|529153484|ref|YP_008378509.1|vFam_825| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|571031267|ref|YP_008992163.1|vFam_825| hypothetical protein chmu72 [Choristoneura murinana alphabaculovirus]
+gi|529153546|ref|YP_008378571.1|vFam_825| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|529153346|ref|YP_008378386.1|vFam_825| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|529153438|ref|YP_008378478.1|vFam_825| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|529153437|ref|YP_008378477.1|vFam_825| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|571031311|ref|YP_008992208.1|vFam_825| hypothetical protein chmu116 [Choristoneura murinana alphabaculovirus]
+gi|529153345|ref|YP_008378385.1|vFam_825| hypothetical protein [Choristoneura rosaceana alphabaculovirus]

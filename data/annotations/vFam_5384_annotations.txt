@@ -1,0 +1,10 @@
+CLUSTER	5384
+NUM_SEQ	2
+LENGTH	109
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	54.5
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036929|ref|YP_008438571.1|vFam_5384| hypothetical protein ps_2169 [Pandoravirus salinus]
+gi|526119940|ref|YP_008319843.1|vFam_5384| hypothetical protein [Pandoravirus dulcis]

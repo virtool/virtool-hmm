@@ -1,0 +1,19 @@
+CLUSTER	681
+NUM_SEQ	11
+LENGTH	528
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	285.12
+FAMILIES	{'Reoviridae': 10}
+GENERA	{'Orbivirus': 10}
+FASTA SEQUENCE TITLES:
+gi|50261329|ref|YP_052963.1|vFam_681| capsid protein 5 [African horse sickness virus]
+gi|50253400|ref|YP_052932.1|vFam_681| outer capsid protein VP5 [Palyam virus]
+gi|261181858|ref|YP_003240113.1|vFam_681| VP5 protein [Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey)]
+gi|50253382|ref|YP_052955.1|vFam_681| capsid protein VP5 [Bluetongue virus]
+gi|556333833|ref|YP_008719928.1|vFam_681| outer capsid protein [Changuinola virus]
+gi|550455617|ref|YP_008658424.1|vFam_681| VP5 [Wallal virus]
+gi|50253414|ref|YP_052946.1|vFam_681| VP5 [St Croix River virus]
+gi|312164879|ref|YP_003896063.1|vFam_681| VP5 [Great Island virus]
+gi|85719280|ref|YP_460042.1|vFam_681| VP5 [Peruvian horse sickness virus]
+gi|555928276|ref|YP_008719914.1|vFam_681| VP5 [Mobuck virus]
+gi|83721682|ref|YP_443930.1|vFam_681| VP5 [Yunnan orbivirus]

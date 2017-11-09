@@ -1,0 +1,13 @@
+CLUSTER	1969
+NUM_SEQ	5
+LENGTH	369
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	195.57
+FAMILIES	{'Reoviridae': 5}
+GENERA	{'Orthoreovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|258549726|ref|YP_003199426.1|vFam_1969| sigma-NS protein [Mammalian orthoreovirus 3]
+gi|459284224|ref|YP_007507323.1|vFam_1969| sigma NS [Melaka orthoreovirus]
+gi|323714232|ref|YP_004226530.1|vFam_1969| sigma-NS protein [Avian orthoreovirus]
+gi|343098565|ref|YP_004769557.1|vFam_1969| nonstructural protein sigma NS [Baboon orthoreovirus]
+gi|298200954|ref|YP_003717779.1|vFam_1969| sigma NS [Broome virus]

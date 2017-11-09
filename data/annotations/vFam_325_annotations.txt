@@ -1,0 +1,26 @@
+CLUSTER	325
+NUM_SEQ	18
+LENGTH	356
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	185.12
+FAMILIES	{'Hytrosaviridae': 1, 'Herpesviridae': 17}
+GENERA	{'Varicellovirus': 7, 'Muscavirus': 1, 'Mardivirus': 4, 'Iltovirus': 1, 'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|187903088|ref|YP_001883379.1|vFam_325| hypothetical protein MdSGHV051 [Musca domestica salivary gland hypertrophy virus]
+gi|38638241|ref|NP_944424.1|vFam_325| tegument protein UL16 [Psittacid herpesvirus 1]
+gi|312162840|ref|YP_003933825.1|vFam_325| tegument protein UL16 [Saimiriine herpesvirus 1]
+gi|56694738|ref|YP_164458.1|vFam_325| tegument protein UL16 [Cercopithecine herpesvirus 2]
+gi|30984444|ref|NP_851875.1|vFam_325| tegument protein UL16 [Macacine herpesvirus 1]
+gi|9629395|ref|NP_044617.1|vFam_325| tegument protein UL16 [Human herpesvirus 1]
+gi|9629285|ref|NP_044485.1|vFam_325| tegument protein UL16 [Human herpesvirus 2]
+gi|13242437|ref|NP_077459.1|vFam_325| tegument protein UL16 [Cercopithecine herpesvirus 9]
+gi|9625918|ref|NP_040167.1|vFam_325| tegument protein UL16 [Human herpesvirus 3]
+gi|270339483|ref|YP_003331566.1|vFam_325| tegument protein UL16 [Felid herpesvirus 1]
+gi|50313288|ref|YP_053092.1|vFam_325| tegument protein UL16 [Equid herpesvirus 1]
+gi|9629773|ref|NP_045264.1|vFam_325| tegument protein UL16 [Equid herpesvirus 4]
+gi|51557526|ref|YP_068360.1|vFam_325| tegument protein UL16 [Suid herpesvirus 1]
+gi|296316046|ref|YP_003662510.1|vFam_325| tegument protein UL16 [Bovine herpesvirus 5]
+gi|255683200|ref|YP_003084408.1|vFam_325| UL16 [Anatid herpesvirus 1]
+gi|12084844|ref|NP_073309.1|vFam_325| tegument protein UL16 [Meleagrid herpesvirus 1]
+gi|125745067|ref|YP_001033944.1|vFam_325| tegument protein UL16 [Gallid herpesvirus 2]
+gi|10834885|ref|NP_066846.1|vFam_325| tegument protein UL16 [Gallid herpesvirus 3]

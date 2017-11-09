@@ -1,0 +1,11 @@
+CLUSTER	3462
+NUM_SEQ	3
+LENGTH	436
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	226.72
+FAMILIES	{'None': 2, 'Mimiviridae': 1}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|310831037|ref|YP_003969680.1|vFam_3462| putative exodeoxyribonuclease VII large subunit [Cafeteria roenbergensis virus BV-PW1]
+gi|448825859|ref|YP_007418790.1|vFam_3462| exodeoxyribonuclease 7 large subunit [Megavirus lba]
+gi|441432687|ref|YP_007354729.1|vFam_3462| exodeoxyribonuclease VII large subuni [Acanthamoeba polyphaga moumouvirus]

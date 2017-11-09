@@ -1,0 +1,10 @@
+CLUSTER	4726
+NUM_SEQ	2
+LENGTH	301
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	153.51
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825308|ref|YP_007418239.1|vFam_4726| putative tRNA(His) guanylyltransferase [Megavirus lba]
+gi|311977637|ref|YP_003986757.1|vFam_4726| putative tRNA(His) guanylyltransferase [Acanthamoeba polyphaga mimivirus]

@@ -1,0 +1,11 @@
+CLUSTER	2769
+NUM_SEQ	3
+LENGTH	108
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	55.08
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498246|ref|YP_008004043.1|vFam_2769| unknown similar to AMEV242 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497987|ref|YP_008003786.1|vFam_2769| unknown similar to AMEV242 [Mythimna separata entomopoxvirus 'L']
+gi|9964556|ref|NP_065024.1|vFam_2769| hypothetical protein AMV242 [Amsacta moorei entomopoxvirus 'L']

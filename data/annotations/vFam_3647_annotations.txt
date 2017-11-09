@@ -1,0 +1,11 @@
+CLUSTER	3647
+NUM_SEQ	3
+LENGTH	290
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	147.9
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9964579|ref|NP_065047.1|vFam_3647| hypothetical protein AMV265 [Amsacta moorei entomopoxvirus 'L']
+gi|506498006|ref|YP_008003805.1|vFam_3647| unknown similar to AMEV264 [Mythimna separata entomopoxvirus 'L']
+gi|9964578|ref|NP_065046.1|vFam_3647| similar to DNA gyrase subunit B [Amsacta moorei entomopoxvirus 'L']

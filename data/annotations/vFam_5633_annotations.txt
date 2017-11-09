@@ -1,0 +1,10 @@
+CLUSTER	5633
+NUM_SEQ	2
+LENGTH	66
+RELATIVE_ENTROPY_PER_POSITION	0.79
+TOTAL_RELATIVE_ENTROPY	52.14
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Rhadinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9631230|ref|NP_048011.1|vFam_5633| orf 38 [Ateline herpesvirus 3]
+gi|9625994|ref|NP_040240.1|vFam_5633| unnamed protein product [Saimiriine herpesvirus 2]

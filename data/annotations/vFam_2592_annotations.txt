@@ -1,0 +1,12 @@
+CLUSTER	2592
+NUM_SEQ	4
+LENGTH	340
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	176.8
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Betabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|556549066|ref|YP_008719980.1|vFam_2592| hypothetical protein CalGV032 [Clostera anastomosis granulovirus]
+gi|334265710|ref|YP_004376239.1|vFam_2592| hypothetical protein ClanGV_gp031 [Clostera anachoreta granulovirus]
+gi|288804666|ref|YP_003429351.1|vFam_2592| PrGVORF27 [Pieris rapae granulovirus]
+gi|32698563|ref|NP_872478.1|vFam_2592| ORF_24 [Adoxophyes orana granulovirus]

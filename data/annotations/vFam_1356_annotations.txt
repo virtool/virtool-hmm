@@ -1,0 +1,15 @@
+CLUSTER	1356
+NUM_SEQ	7
+LENGTH	79
+RELATIVE_ENTROPY_PER_POSITION	0.64
+TOTAL_RELATIVE_ENTROPY	50.56
+FAMILIES	{'Herpesviridae': 7}
+GENERA	{'Macavirus': 1, 'Percavirus': 1, 'Lymphocryptovirus': 3, 'Rhadinovirus': 1, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|24943120|ref|NP_733882.1|vFam_1356| ORF29 [callitrichine herpesvirus 3]
+gi|82503242|ref|YP_401686.1|vFam_1356| putative protein BBLF1 [Human herpesvirus 4]
+gi|51518055|ref|YP_067983.1|vFam_1356| BBLF1 [Macacine herpesvirus 4]
+gi|9628041|ref|NP_042635.1|vFam_1356| myristylated tegument protein [Equid herpesvirus 2]
+gi|83642874|ref|YP_438161.1|vFam_1356| ORF38 [Ovine herpesvirus 2]
+gi|9629579|ref|NP_044876.1|vFam_1356| myristylated tegument protein [Murid herpesvirus 4]
+gi|321496590|ref|YP_004207875.1|vFam_1356| hypothetical protein RHVP.38 [Rodent herpesvirus Peru]

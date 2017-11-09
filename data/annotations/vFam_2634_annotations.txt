@@ -1,0 +1,11 @@
+CLUSTER	2634
+NUM_SEQ	3
+LENGTH	395
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	205.4
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977989|ref|YP_003987109.1|vFam_2634| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432546|ref|YP_007354588.1|vFam_2634| DEAD-like helicase [Acanthamoeba polyphaga moumouvirus]
+gi|363539814|ref|YP_004894761.1|vFam_2634| mg710 gene product [Megavirus chiliensis]

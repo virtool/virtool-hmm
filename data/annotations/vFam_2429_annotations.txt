@@ -1,0 +1,10 @@
+CLUSTER	2429
+NUM_SEQ	2
+LENGTH	116
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	58.0
+FAMILIES	{'Herpesviridae': 1, 'Polydnaviridae': 1}
+GENERA	{'Cytomegalovirus': 1, 'Ichnovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|356640518|ref|YP_004933960.1|vFam_2429| hypothetical protein cy215 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|124484675|ref|YP_001031261.1|vFam_2429| b13.3 [Hyposoter fugitivus ichnovirus]

@@ -1,0 +1,13 @@
+CLUSTER	1697
+NUM_SEQ	5
+LENGTH	289
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	147.39
+FAMILIES	{'Alloherpesviridae': 1, 'None': 3}
+GENERA	{'None': 3, 'Batrachovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|109638689|ref|YP_656646.1|vFam_1697| ORF138 [Ranid herpesvirus 2]
+gi|90403540|ref|YP_529661.1|vFam_1697| hypothetical protein His2V_gp31 [His2 virus]
+gi|284520913|ref|YP_003412000.1|vFam_1697| unkown [Haloarcula hispanica pleomorphic virus 1]
+gi|226596536|ref|YP_002791892.1|vFam_1697| hypothetical protein HRPV-1_gp7 [Halorubrum pleomorphic virus 1]
+gi|394922857|ref|YP_005454291.1|vFam_1697| ORF7 [Halorubrum pleomorphic virus 6]

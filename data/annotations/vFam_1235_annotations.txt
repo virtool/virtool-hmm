@@ -1,0 +1,11 @@
+CLUSTER	1235
+NUM_SEQ	3
+LENGTH	113
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	58.76
+FAMILIES	{'Phycodnaviridae': 1}
+GENERA	{'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9632242|ref|NP_049017.1|vFam_1235| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|22122278|ref|NP_666539.1|vFam_1235| hypothetical protein SIRV2gp05 [Sulfolobus islandicus rod-shaped virus 2]
+gi|22122275|ref|NP_666536.1|vFam_1235| hypothetical protein SIRV2gp02 [Sulfolobus islandicus rod-shaped virus 2]

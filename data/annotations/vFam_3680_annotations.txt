@@ -1,0 +1,11 @@
+CLUSTER	3680
+NUM_SEQ	3
+LENGTH	117
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	60.84
+FAMILIES	{'Caliciviridae': 3}
+GENERA	{'Lagovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|11462419|ref|NP_068829.1|vFam_3680| hypothetical protein EBHSVgp2 [European brown hare syndrome virus]
+gi|218148633|ref|YP_002364400.1|vFam_3680| hypothetical protein RaCVMIC07_gp2 [Rabbit calicivirus Australia 1 MIC-07]
+gi|9790294|ref|NP_062876.1|vFam_3680| minor capsid protein [Rabbit hemorrhagic disease virus]

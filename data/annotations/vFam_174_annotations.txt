@@ -1,0 +1,24 @@
+CLUSTER	174
+NUM_SEQ	16
+LENGTH	439
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	223.89
+FAMILIES	{'Baculoviridae': 13, 'Phycodnaviridae': 2}
+GENERA	{'Prymnesiovirus': 1, 'Betabaculovirus': 10, 'Coccolithovirus': 1, 'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|506498833|ref|YP_008004627.1|vFam_174| unknown similar to baculovirus helicase-2 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|165969117|ref|YP_001651017.1|vFam_174| helicase 2 [Orgyia leucostigma NPV]
+gi|9631016|ref|NP_047686.1|vFam_174| Ld-helicase-2 [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|109255377|ref|YP_654526.1|vFam_174| helicase-2 [Choristoneura occidentalis granulovirus]
+gi|21686778|ref|NP_663278.1|vFam_174| helicase 2 [Phthorimaea operculella granulovirus]
+gi|33622316|ref|NP_891963.1|vFam_174| helicase-2 [Cryptophlebia leucotreta granulovirus]
+gi|288804747|ref|YP_003429432.1|vFam_174| helicase-2 [Pieris rapae granulovirus]
+gi|14602363|ref|NP_148910.1|vFam_174| ORF126 HELICASE-2 [Cydia pomonella granulovirus]
+gi|46309338|ref|YP_006228.1|vFam_174| ORF116 [Agrotis segetum granulovirus]
+gi|11068110|ref|NP_068326.1|vFam_174| PxORF107 peptide [Plutella xylostella granulovirus]
+gi|148368939|ref|YP_001257069.1|vFam_174| hel-2 [Spodoptera litura granulovirus]
+gi|22549428|ref|NP_689201.1|vFam_174| hel2 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|285002428|ref|YP_003422492.1|vFam_174| helicase-2 [Pseudaletia unipuncta granulovirus]
+gi|164519342|ref|YP_001649129.1|vFam_174| DNA helicase-2 [Helicoverpa armigera granulovirus]
+gi|73852610|ref|YP_293894.1|vFam_174| hypothetical protein EhV141 [Emiliania huxleyi virus 86]
+gi|508182228|ref|YP_008052747.1|vFam_174| PIF1 DNA helicase-like protein [Phaeocystis globosa virus]

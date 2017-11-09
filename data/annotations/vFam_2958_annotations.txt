@@ -1,0 +1,12 @@
+CLUSTER	2958
+NUM_SEQ	4
+LENGTH	268
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	139.36
+FAMILIES	{'Potyviridae': 4}
+GENERA	{'Bymovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|25013754|ref|NP_734300.1|vFam_2958| coat protein [Barley mild mosaic virus]
+gi|25014013|ref|NP_734282.1|vFam_2958| coat protein [Oat mosaic virus]
+gi|25013965|ref|NP_697040.1|vFam_2958| coat protein [Wheat yellow mosaic virus]
+gi|25013746|ref|NP_734308.1|vFam_2958| coat protein [Barley yellow mosaic virus]

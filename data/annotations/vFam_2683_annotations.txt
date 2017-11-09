@@ -1,0 +1,13 @@
+CLUSTER	2683
+NUM_SEQ	5
+LENGTH	243
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	121.5
+FAMILIES	{'Mimiviridae': 1, 'Ascoviridae': 3}
+GENERA	{'None': 1, 'Ascovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|363540416|ref|YP_004894586.1|vFam_2683| mg535 gene product [Megavirus chiliensis]
+gi|47131174|ref|YP_015540.1|vFam_2683| virus coat protein VP3 [Pyrobaculum spherical virus]
+gi|116326834|ref|YP_803371.1|vFam_2683| hypothetical protein TNAV2c_gp149 [Trichoplusia ni ascovirus 2c]
+gi|134287214|ref|YP_001110910.1|vFam_2683| hypothetical protein HVAV3e_gp057 [Heliothis virescens ascovirus 3e]
+gi|115298545|ref|YP_762398.1|vFam_2683| 26 kDa [Spodoptera frugiperda ascovirus 1a]

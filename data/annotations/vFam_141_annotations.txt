@@ -1,0 +1,37 @@
+CLUSTER	141
+NUM_SEQ	29
+LENGTH	805
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	402.5
+FAMILIES	{'Bromoviridae': 28}
+GENERA	{'Alfamovirus': 1, 'Bromovirus': 6, 'Ilarvirus': 16, 'Cucumovirus': 4, 'Oleavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|20178628|ref|NP_620043.1|vFam_141| 2a protein [Olive latent virus 2]
+gi|19697301|ref|NP_602313.1|vFam_141| putative polymerase p2 [American plum line pattern virus]
+gi|50428569|ref|YP_054423.1|vFam_141| p2 protein [Humulus japonicus latent virus]
+gi|538602668|ref|YP_008519305.1|vFam_141| replicase P2 [Blueberry shock virus]
+gi|24817633|ref|NP_733824.1|vFam_141| polymerase p2 [Prunus necrotic ringspot virus]
+gi|50355595|ref|YP_053235.1|vFam_141| 89.7 kd protein [Alfalfa mosaic virus]
+gi|98960845|ref|YP_611151.1|vFam_141| polymerase P2 [Prune dwarf virus]
+gi|56692631|ref|YP_164802.1|vFam_141| RNA-dependent RNA polymerase [Fragaria chiloensis latent virus]
+gi|20564165|ref|NP_620768.1|vFam_141| putative viral polymerase [Tobacco streak virus]
+gi|212525347|ref|YP_002308570.1|vFam_141| p2 protein [Blackberry chlorotic ringspot virus]
+gi|119943077|ref|YP_941472.1|vFam_141| RdRp [Strawberry necrotic shock virus]
+gi|532565978|ref|YP_008470970.1|vFam_141| RNA-dependent RNA polymerase [Ageratum latent virus]
+gi|46393299|ref|YP_006447.1|vFam_141| p2 protein [Parietaria mottle virus]
+gi|20522137|ref|NP_620678.1|vFam_141| putative polymerase [Spinach latent virus]
+gi|20143443|ref|NP_619575.1|vFam_141| polymerase [Elm mottle virus]
+gi|219504473|ref|YP_002455929.1|vFam_141| polymerase [Asparagus virus 2]
+gi|148724423|ref|YP_001285483.1|vFam_141| putative viral polymerase [Citrus variegation virus]
+gi|20564216|ref|NP_620754.1|vFam_141| putative polymerase p2 [Tulare apple mosaic virus]
+gi|20087063|ref|NP_613281.1|vFam_141| RNA-dependent RNA polymerase [Citrus leaf rugose virus]
+gi|9632349|ref|NP_049332.1|vFam_141| 2a protein [Peanut stunt virus]
+gi|9632337|ref|NP_049324.1|vFam_141| RNA-dependent RNA polymerase [Cucumber mosaic virus]
+gi|20564163|ref|NP_620761.1|vFam_141| 2a protein [Tomato aspermy virus]
+gi|224808900|ref|YP_002640501.1|vFam_141| 2a protein [Gayfeather mild mottle virus]
+gi|21426913|ref|NP_658999.1|vFam_141| 2a protein [Broad bean mottle virus]
+gi|513126897|ref|YP_233102.2|vFam_141| 2a protein [Cassia yellow blotch virus]
+gi|261041429|ref|YP_003208108.1|vFam_141| 2a protein [Melandrium yellow fleck virus]
+gi|20087040|ref|NP_613275.1|vFam_141| 2a protein [Cowpea chlorotic mottle virus]
+gi|9626934|ref|NP_041197.1|vFam_141| RNA-dependent RNA polymerase [Brome mosaic virus]
+gi|22550380|ref|NP_689393.1|vFam_141| 2a protein [Spring beauty latent virus]

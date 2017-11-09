@@ -1,0 +1,36 @@
+CLUSTER	206
+NUM_SEQ	28
+LENGTH	68
+RELATIVE_ENTROPY_PER_POSITION	0.78
+TOTAL_RELATIVE_ENTROPY	53.04
+FAMILIES	{'Alphaflexiviridae': 3, 'Betaflexiviridae': 24}
+GENERA	{'Carlavirus': 19, 'Potexvirus': 2, 'Foveavirus': 5, 'Mandarivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15426410|ref|NP_203556.1|vFam_206| 6.4 kDa triple gene block protein [Indian citrus ringspot virus]
+gi|20564149|ref|NP_620718.1|vFam_206| triple gene block protein 3 [White clover mosaic virus]
+gi|313122767|ref|YP_004035881.1|vFam_206| triple gene block 3 [Cowpea mild mottle virus]
+gi|56692804|ref|YP_164261.1|vFam_206| triple gene block protein 3 [Sweet potato chlorotic fleck virus]
+gi|215481434|ref|YP_002332932.1|vFam_206| 8K protein [Potato virus X]
+gi|211998875|ref|YP_002302560.1|vFam_206| triple gene block protein 3 [Potato latent virus]
+gi|212671434|ref|YP_002308450.1|vFam_206| triple gene block 3 protein [Hippeastrum latent virus]
+gi|116734783|ref|YP_842441.1|vFam_206| triple gene block protein 3 [Narcissus symptomless virus]
+gi|224923884|ref|YP_002647024.1|vFam_206| triple gene block 3 [Red clover vein mosaic virus]
+gi|94971813|ref|YP_595730.1|vFam_206| triple gene block 3 [Daphne virus S]
+gi|157939590|ref|YP_001497156.1|vFam_206| triple gene block protein 3 [Peach chlorotic mottle virus]
+gi|410493715|ref|YP_006905864.1|vFam_206| TGB-3 [Rubus canadensis virus 1]
+gi|315506980|ref|YP_004089622.1|vFam_206| triple gene block 3 [Apricot latent virus]
+gi|537544671|ref|YP_006860592.1|vFam_206| triple gene block protein 3 [Apple green crinkle associated virus]
+gi|19744942|ref|NP_604467.1|vFam_206| ORF4 [Apple stem pitting virus]
+gi|20143436|ref|NP_619562.1|vFam_206| TGB3 protein [Garlic latent virus]
+gi|126644790|ref|YP_001086455.1|vFam_206| Triple gene block 3 [Chrysanthemum virus B]
+gi|269954642|ref|YP_003324584.1|vFam_206| triple gene block protein 3 [Butterbur mosaic virus]
+gi|71849440|ref|YP_277432.1|vFam_206| 7K protein [Potato virus S]
+gi|9626093|ref|NP_056770.1|vFam_206| 7K protein [Potato virus M]
+gi|156616264|ref|YP_001430024.1|vFam_206| triple gene block protein 3 [Coleus vein necrosis virus]
+gi|401715650|ref|YP_006589922.1|vFam_206| TGB3 [Sweet potato C6 virus]
+gi|160700646|ref|YP_001552320.1|vFam_206| triple gene block 3 protein [Phlox Virus B]
+gi|222509605|ref|YP_002574617.1|vFam_206| triple gene block protein 3 [Helleborus net necrosis virus]
+gi|145651767|ref|YP_001165304.1|vFam_206| triple gene block 3 protein [Phlox virus S]
+gi|41057349|ref|NP_958174.1|vFam_206| triple block protein 3 [Poplar mosaic virus]
+gi|360040869|ref|YP_004936162.1|vFam_206| TGB-3 gene product [Garlic common latent virus]
+gi|396587250|ref|YP_006522437.1|vFam_206| 7K protein [Potato virus H]

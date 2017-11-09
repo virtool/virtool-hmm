@@ -1,0 +1,12 @@
+CLUSTER	1727
+NUM_SEQ	4
+LENGTH	225
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	110.25
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'None': 1, 'Yatapoxvirus': 1, 'Cervidpoxvirus': 1, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|571798052|ref|YP_008658551.1|vFam_1727| hypothetical pox protein [Squirrelpox virus]
+gi|157939750|ref|YP_001497122.1|vFam_1727| EEV glycoprotein [Tanapox virus]
+gi|211956407|ref|YP_002302476.1|vFam_1727| EEV glycoprotein [Deerpox virus W-1170-84]
+gi|18640209|ref|NP_570283.1|vFam_1727| SPV123 putative EEV glycoprotein [Swinepox virus]

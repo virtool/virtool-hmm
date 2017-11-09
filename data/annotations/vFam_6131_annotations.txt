@@ -1,0 +1,10 @@
+CLUSTER	6131
+NUM_SEQ	2
+LENGTH	269
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	139.88
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409947|ref|YP_004347367.1|vFam_6131| putative CDC123-like protein [Lausannevirus]
+gi|284504410|ref|YP_003407125.1|vFam_6131| cell division cycle 123 protein [Marseillevirus]

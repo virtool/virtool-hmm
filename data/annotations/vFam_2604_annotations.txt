@@ -1,0 +1,10 @@
+CLUSTER	2604
+NUM_SEQ	2
+LENGTH	125
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	65.0
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409722|ref|YP_004347142.1|vFam_2604| hypothetical protein LAU_0179 [Lausannevirus]
+gi|284504204|ref|YP_003406919.1|vFam_2604| hypothetical protein MAR_ORF176 [Marseillevirus]

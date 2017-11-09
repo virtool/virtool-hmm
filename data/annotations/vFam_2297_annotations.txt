@@ -1,0 +1,11 @@
+CLUSTER	2297
+NUM_SEQ	3
+LENGTH	436
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	222.36
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977771|ref|YP_003986891.1|vFam_2297| putative endonuclease of the XPG family [Acanthamoeba polyphaga mimivirus]
+gi|448825476|ref|YP_007418407.1|vFam_2297| putative endonuclease of the xpg family [Megavirus lba]
+gi|441432364|ref|YP_007354406.1|vFam_2297| putative endonuclease of the XPG family [Acanthamoeba polyphaga moumouvirus]

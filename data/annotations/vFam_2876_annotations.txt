@@ -1,0 +1,13 @@
+CLUSTER	2876
+NUM_SEQ	5
+LENGTH	60
+RELATIVE_ENTROPY_PER_POSITION	0.87
+TOTAL_RELATIVE_ENTROPY	52.2
+FAMILIES	{'None': 5}
+GENERA	{'None': 5}
+FASTA SEQUENCE TITLES:
+gi|213159378|ref|YP_002321421.1|vFam_2876| hypothetical protein OrNV_gp110 [Oryctes rhinoceros virus]
+gi|213159403|ref|YP_002321446.1|vFam_2876| hypothetical protein OrNV_gp135 [Oryctes rhinoceros virus]
+gi|213159333|ref|YP_002321376.1|vFam_2876| hypothetical protein OrNV_gp065 [Oryctes rhinoceros virus]
+gi|213159395|ref|YP_002321438.1|vFam_2876| hypothetical protein OrNV_gp127 [Oryctes rhinoceros virus]
+gi|213159299|ref|YP_002321342.1|vFam_2876| hypothetical protein OrNV_gp031 [Oryctes rhinoceros virus]

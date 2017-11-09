@@ -1,0 +1,14 @@
+CLUSTER	1862
+NUM_SEQ	6
+LENGTH	202
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	105.04
+FAMILIES	{'Rhabdoviridae': 6}
+GENERA	{'Lyssavirus': 6}
+FASTA SEQUENCE TITLES:
+gi|406608987|ref|YP_006742182.1|vFam_1862| matrix protein [Ikoma lyssavirus]
+gi|471237002|ref|YP_007641389.1|vFam_1862| matrix protein [Lagos bat virus]
+gi|9627200|ref|NP_056795.1|vFam_1862| M2 protein [Rabies virus]
+gi|17158071|ref|NP_478341.1|vFam_1862| matrix protein [Australian bat lyssavirus]
+gi|471237020|ref|YP_007641404.1|vFam_1862| matrix protein [Duvenhage virus]
+gi|148724434|ref|YP_001285395.1|vFam_1862| matrix protein [European bat lyssavirus 2]

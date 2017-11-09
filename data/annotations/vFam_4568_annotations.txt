@@ -1,0 +1,11 @@
+CLUSTER	4568
+NUM_SEQ	3
+LENGTH	112
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	57.12
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Iridovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|15078960|ref|NP_149711.1|vFam_4568| 248R [Invertebrate iridescent virus 6]
+gi|527333582|ref|YP_008357366.1|vFam_4568| hypothetical protein IIV22_068R [Invertebrate iridovirus 22]
+gi|339905993|ref|YP_004732790.1|vFam_4568| hypothetical protein WIV_gp007 [Wiseana iridescent virus]

@@ -1,0 +1,12 @@
+CLUSTER	2027
+NUM_SEQ	4
+LENGTH	104
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	54.08
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Betabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|288804656|ref|YP_003429341.1|vFam_2027| P10 [Pieris rapae granulovirus]
+gi|556549050|ref|YP_008719964.1|vFam_2027| p10 [Clostera anastomosis granulovirus]
+gi|148368884|ref|YP_001257014.1|vFam_2027| p10-3 [Spodoptera litura granulovirus]
+gi|46309340|ref|YP_006230.1|vFam_2027| ORF114 [Agrotis segetum granulovirus]

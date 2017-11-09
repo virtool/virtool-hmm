@@ -1,0 +1,18 @@
+CLUSTER	1025
+NUM_SEQ	10
+LENGTH	86
+RELATIVE_ENTROPY_PER_POSITION	0.61
+TOTAL_RELATIVE_ENTROPY	52.46
+FAMILIES	{'Alphaflexiviridae': 9, 'Betaflexiviridae': 1}
+GENERA	{'Potexvirus': 9, 'Foveavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9630741|ref|NP_047284.1|vFam_1025| 8.4 kDa protein [Rupestris stem pitting-associated virus]
+gi|21728361|ref|NP_663727.1|vFam_1025| TGB3 protein [Pepino mosaic virus]
+gi|9629464|ref|NP_054028.1|vFam_1025| hypothetical protein CymMVgp4 [Cymbidium mosaic virus]
+gi|20177422|ref|NP_619749.1|vFam_1025| 8 kDa protein [Potato aucuba mosaic virus]
+gi|190336510|ref|YP_001960943.1|vFam_1025| triple-gene-block-protein 3 [Lettuce virus X]
+gi|75750463|ref|YP_319830.1|vFam_1025| triple gene block protein 3 [Alstroemeria virus x]
+gi|9626479|ref|NP_040781.1|vFam_1025| 11K triple gene block protein [Narcissus mosaic virus]
+gi|110611900|ref|YP_667847.1|vFam_1025| ORF 4 [Malva mosaic virus]
+gi|18652422|ref|NP_570729.1|vFam_1025| triple gene block protein 3 [Scallion virus X]
+gi|169303560|ref|YP_001715615.1|vFam_1025| Triple gene block protein 3 [Asparagus virus 3]

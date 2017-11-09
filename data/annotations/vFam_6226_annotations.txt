@@ -1,0 +1,10 @@
+CLUSTER	6226
+NUM_SEQ	2
+LENGTH	312
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	162.24
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|86355528|ref|YP_473196.1|vFam_6226| EP32 [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630085|ref|NP_046303.1|vFam_6226| p32 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]

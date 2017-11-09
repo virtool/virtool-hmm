@@ -1,0 +1,14 @@
+CLUSTER	978
+NUM_SEQ	6
+LENGTH	265
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	132.5
+FAMILIES	{'Mimiviridae': 1, 'Iridoviridae': 4}
+GENERA	{'Lymphocystivirus': 2, 'Mimivirus': 1, 'Megalocytivirus': 1, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|311978041|ref|YP_003987161.1|vFam_978| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|19881492|ref|NP_612309.1|vFam_978| putative ribonuclease [Infectious spleen and kidney necrosis virus]
+gi|51870138|ref|YP_073691.1|vFam_978| hypothetical protein LDVICp186 [Lymphocystis disease virus - isolate China]
+gi|13358446|ref|NP_078726.1|vFam_978| Ribonuclease III [Lymphocystis disease virus 1]
+gi|527333604|ref|YP_008357388.1|vFam_978| RNAseIII [Invertebrate iridovirus 22]
+gi|15078855|ref|NP_149605.1|vFam_978| 142R [Invertebrate iridescent virus 6]

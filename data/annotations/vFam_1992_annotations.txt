@@ -1,0 +1,13 @@
+CLUSTER	1992
+NUM_SEQ	5
+LENGTH	206
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	103.0
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|300116771|ref|YP_003773416.1|vFam_1992| hypothetical protein HAV1_gp18 [Hyperthermophilic Archaeal Virus 1]
+gi|42495077|ref|NP_963987.1|vFam_1992| ORF A204 [Sulfolobus virus Kamchatka 1]
+gi|198449257|ref|YP_002221495.1|vFam_1992| hypothetical protein SSSV5_gp30 [Sulfolobus spindle-shaped virus 5]
+gi|270281840|ref|YP_003331506.1|vFam_1992| CRISPR-like protein [Sulfolobus spindle-shaped virus 7]
+gi|38639823|ref|NP_944474.1|vFam_1992| CRISPR-associated Cas4-like protein [Sulfolobus spindle-shaped virus 2]

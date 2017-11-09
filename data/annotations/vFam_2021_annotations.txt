@@ -1,0 +1,10 @@
+CLUSTER	2021
+NUM_SEQ	2
+LENGTH	321
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	166.92
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Percavirus': 1, 'Lymphocryptovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9628048|ref|NP_042642.1|vFam_2021| ORF 45 [Equid herpesvirus 2]
+gi|51518048|ref|YP_067976.1|vFam_2021| BKRF4 [Macacine herpesvirus 4]

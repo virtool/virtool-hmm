@@ -1,0 +1,10 @@
+CLUSTER	3122
+NUM_SEQ	2
+LENGTH	671
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	342.21
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036841|ref|YP_008438480.1|vFam_3122| hypothetical protein ps_2075 [Pandoravirus salinus]
+gi|531035520|ref|YP_008437151.1|vFam_3122| hypothetical protein ps_738 [Pandoravirus salinus]

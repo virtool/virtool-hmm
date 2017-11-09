@@ -1,0 +1,15 @@
+CLUSTER	1230
+NUM_SEQ	7
+LENGTH	374
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	190.74
+FAMILIES	{'Iridoviridae': 7}
+GENERA	{'Ranavirus': 7}
+FASTA SEQUENCE TITLES:
+gi|56692784|ref|YP_164242.1|vFam_1230| hypothetical protein ORF147L [Singapore grouper iridovirus]
+gi|56692641|ref|YP_164099.1|vFam_1230| hypothetical protein ORF004L [Singapore grouper iridovirus]
+gi|56692727|ref|YP_164185.1|vFam_1230| hypothetical protein ORF090L [Singapore grouper iridovirus]
+gi|56692726|ref|YP_164184.1|vFam_1230| hypothetical protein ORF089L [Singapore grouper iridovirus]
+gi|56692730|ref|YP_164188.1|vFam_1230| hypothetical protein ORF093L [Singapore grouper iridovirus]
+gi|56692729|ref|YP_164187.1|vFam_1230| hypothetical protein ORF092L [Singapore grouper iridovirus]
+gi|56692728|ref|YP_164186.1|vFam_1230| hypothetical protein ORF091L [Singapore grouper iridovirus]

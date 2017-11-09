@@ -1,0 +1,12 @@
+CLUSTER	3719
+NUM_SEQ	4
+LENGTH	184
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	97.52
+FAMILIES	{'Alloherpesviridae': 4}
+GENERA	{'Batrachovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|109638719|ref|YP_656533.1|vFam_3719| ORF25 [Ranid herpesvirus 2]
+gi|109638716|ref|YP_656530.1|vFam_3719| ORF22 [Ranid herpesvirus 2]
+gi|109638718|ref|YP_656532.1|vFam_3719| ORF24 [Ranid herpesvirus 2]
+gi|109638717|ref|YP_656531.1|vFam_3719| ORF23 [Ranid herpesvirus 2]

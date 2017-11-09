@@ -1,0 +1,10 @@
+CLUSTER	5188
+NUM_SEQ	2
+LENGTH	273
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	141.96
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|285002351|ref|YP_003422415.1|vFam_5188| BRO [Pseudaletia unipuncta granulovirus]
+gi|164519266|ref|YP_001649053.1|vFam_5188| BRO-D [Helicoverpa armigera granulovirus]

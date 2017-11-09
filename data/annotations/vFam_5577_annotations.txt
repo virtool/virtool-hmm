@@ -1,0 +1,10 @@
+CLUSTER	5577
+NUM_SEQ	2
+LENGTH	428
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	218.28
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035330|ref|YP_008436959.1|vFam_5577| YqaJ-like viral recombinase [Pandoravirus salinus]
+gi|526119125|ref|YP_008319028.1|vFam_5577| YQAJ-like viral recombinase [Pandoravirus dulcis]

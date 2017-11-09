@@ -1,0 +1,10 @@
+CLUSTER	4642
+NUM_SEQ	2
+LENGTH	223
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	115.96
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|260666035|ref|YP_003212989.1|vFam_4642| hypothetical protein H665_p166 [Ostreococcus tauri virus 1]
+gi|314055250|ref|YP_004063588.1|vFam_4642| hypothetical protein OtV2_155 [Ostreococcus tauri virus 2]

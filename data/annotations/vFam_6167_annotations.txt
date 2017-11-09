@@ -1,0 +1,10 @@
+CLUSTER	6167
+NUM_SEQ	2
+LENGTH	205
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	104.55
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409926|ref|YP_004347346.1|vFam_6167| putative peptidoglycan peptidase [Lausannevirus]
+gi|284504425|ref|YP_003407140.1|vFam_6167| peptidoglycan peptidase [Marseillevirus]

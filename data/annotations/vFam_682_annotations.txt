@@ -1,0 +1,20 @@
+CLUSTER	682
+NUM_SEQ	12
+LENGTH	906
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	489.24
+FAMILIES	{'Reoviridae': 11}
+GENERA	{'Orbivirus': 11}
+FASTA SEQUENCE TITLES:
+gi|50253408|ref|YP_052943.1|vFam_682| VP2 [St Croix River virus]
+gi|261181529|ref|YP_003240110.1|vFam_682| VP3 protein [Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey)]
+gi|50253386|ref|YP_052959.1|vFam_682| hypothetical protein BTVs3gp1 [Bluetongue virus]
+gi|556333777|ref|YP_008719921.1|vFam_682| inner layer core protein [Changuinola virus]
+gi|550455560|ref|YP_008658418.1|vFam_682| inner core [Wallal virus]
+gi|50261327|ref|YP_052962.1|vFam_682| capsid protein 3 [African horse sickness virus]
+gi|50253404|ref|YP_052934.1|vFam_682| inner capsid (core) protein VP3 [Palyam virus]
+gi|238801932|ref|YP_002925133.1|vFam_682| VP2 [Stretch Lagoon orbivirus]
+gi|312164871|ref|YP_003896059.1|vFam_682| VP2 [Great Island virus]
+gi|83721674|ref|YP_443926.1|vFam_682| VP2 [Yunnan orbivirus]
+gi|555928274|ref|YP_008719913.1|vFam_682| VP3 [Mobuck virus]
+gi|85719274|ref|YP_460039.1|vFam_682| VP3 [Peruvian horse sickness virus]

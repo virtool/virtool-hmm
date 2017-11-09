@@ -1,0 +1,13 @@
+CLUSTER	2817
+NUM_SEQ	5
+LENGTH	150
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	75.0
+FAMILIES	{'Phycodnaviridae': 1, 'Poxviridae': 4}
+GENERA	{'Chlorovirus': 1, 'Parapoxvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|155371728|ref|YP_001427262.1|vFam_2817| hypothetical protein ATCV1_z781R [Acanthocystis turfacea Chlorella virus 1]
+gi|41057567|ref|NP_958040.1|vFam_2817| ORF133 hypothetical protein [Bovine papular stomatitis virus]
+gi|41057568|ref|NP_958041.1|vFam_2817| ORF134 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183896|ref|YP_003457437.1|vFam_2817| hypothetical protein PCPV_gp134 [Pseudocowpox virus]
+gi|41057196|ref|NP_957910.1|vFam_2817| ORF134 hypothetical protein [Orf virus]

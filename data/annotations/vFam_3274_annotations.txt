@@ -1,0 +1,12 @@
+CLUSTER	3274
+NUM_SEQ	4
+LENGTH	309
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	160.68
+FAMILIES	{'Reoviridae': 4}
+GENERA	{'Fijivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|68532394|ref|YP_249767.1|vFam_3274| hypothetical protein FDV_s7gp2 [Fiji disease virus]
+gi|120407026|ref|YP_956852.1|vFam_3274| ORF2 [Mal de Rio Cuarto virus]
+gi|312274954|ref|YP_004021931.1|vFam_3274| P7-2 [Southern rice black-streaked dwarf virus]
+gi|20386778|ref|NP_620455.1|vFam_3274| hypothetical protein RBSDVs7gp2 [Rice black streaked dwarf virus]

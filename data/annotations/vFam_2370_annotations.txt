@@ -1,0 +1,13 @@
+CLUSTER	2370
+NUM_SEQ	5
+LENGTH	298
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	154.96
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631315|ref|NP_048143.1|vFam_2370| ORF MSV072 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|506497953|ref|YP_008003752.1|vFam_2370| unknown similar to AMEV219 [Mythimna separata entomopoxvirus 'L']
+gi|506498822|ref|YP_008004616.1|vFam_2370| unknown similar to AMEV219 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964533|ref|NP_065001.1|vFam_2370| putative N-myristoyl transferase [Amsacta moorei entomopoxvirus 'L']
+gi|506498164|ref|YP_008003961.1|vFam_2370| unknown similar to AMEV219 [Adoxophyes honmai entomopoxvirus 'L']

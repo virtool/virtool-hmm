@@ -1,0 +1,10 @@
+CLUSTER	3328
+NUM_SEQ	2
+LENGTH	307
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	159.64
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Coccolithovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|73852548|ref|YP_293832.1|vFam_3328| hypothetical protein EhV078 [Emiliania huxleyi virus 86]
+gi|73852525|ref|YP_293809.1|vFam_3328| hypothetical protein EhV055 [Emiliania huxleyi virus 86]

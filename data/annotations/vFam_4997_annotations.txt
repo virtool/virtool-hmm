@@ -1,0 +1,10 @@
+CLUSTER	4997
+NUM_SEQ	2
+LENGTH	121
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	61.71
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|292397787|ref|YP_003517853.1|vFam_4997| ORF113 [Lymantria xylina MNPV]
+gi|9631109|ref|NP_047779.1|vFam_4997| LdOrf-142 peptide [Lymantria dispar multiple nucleopolyhedrovirus]

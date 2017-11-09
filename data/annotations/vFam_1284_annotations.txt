@@ -1,0 +1,16 @@
+CLUSTER	1284
+NUM_SEQ	8
+LENGTH	82
+RELATIVE_ENTROPY_PER_POSITION	0.63
+TOTAL_RELATIVE_ENTROPY	51.66
+FAMILIES	{'Coronaviridae': 8}
+GENERA	{'None': 6, 'Gammacoronavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|383080787|ref|YP_005352872.1|vFam_1284| E gene product [Wigeon coronavirus HKU20]
+gi|383080778|ref|YP_005352864.1|vFam_1284| E gene product [Night-heron coronavirus HKU19]
+gi|383080798|ref|YP_005352882.1|vFam_1284| E gene product [Common-moorhen coronavirus HKU21]
+gi|383081729|ref|YP_005352832.1|vFam_1284| E gene product [Porcine coronavirus HKU15]
+gi|383081746|ref|YP_005352847.1|vFam_1284| E gene product [Sparrow coronavirus HKU17]
+gi|212681381|ref|YP_002308498.1|vFam_1284| small membrane protein [Thrush coronavirus HKU12-600]
+gi|212681391|ref|YP_002308507.1|vFam_1284| small membrane protein [Munia coronavirus HKU13-3514]
+gi|383081737|ref|YP_005352839.1|vFam_1284| E gene product [White-eye coronavirus HKU16]

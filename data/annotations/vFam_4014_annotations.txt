@@ -1,0 +1,10 @@
+CLUSTER	4014
+NUM_SEQ	2
+LENGTH	192
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	99.84
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|292397803|ref|YP_003517869.1|vFam_4014| ORF129 [Lymantria xylina MNPV]
+gi|9631094|ref|NP_047764.1|vFam_4014| LdOrf-127 peptide [Lymantria dispar multiple nucleopolyhedrovirus]

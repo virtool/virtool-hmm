@@ -1,0 +1,10 @@
+CLUSTER	5795
+NUM_SEQ	2
+LENGTH	221
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	112.71
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52139225|ref|YP_081498.1|vFam_5795| membrane glycoprotein UL40 [Human herpesvirus 5]
+gi|20026641|ref|NP_612683.1|vFam_5795| membrane glycoprotein UL40 [Panine herpesvirus 2]

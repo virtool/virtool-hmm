@@ -1,0 +1,11 @@
+CLUSTER	1218
+NUM_SEQ	3
+LENGTH	133
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	63.84
+FAMILIES	{'Phycodnaviridae': 1, 'Polydnaviridae': 1}
+GENERA	{'Ichnovirus': 1, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852519|ref|YP_293803.1|vFam_1218| hypothetical protein EhV049 [Emiliania huxleyi virus 86]
+gi|531035186|ref|YP_008436812.1|vFam_1218| hypothetical protein ps_397 [Pandoravirus salinus]
+gi|124484811|ref|YP_001031362.1|vFam_1218| e1.1 [Hyposoter fugitivus ichnovirus]

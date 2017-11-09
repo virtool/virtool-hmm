@@ -1,0 +1,10 @@
+CLUSTER	3706
+NUM_SEQ	2
+LENGTH	97
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	48.5
+FAMILIES	{'Alphaflexiviridae': 2}
+GENERA	{'Potexvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|23578032|ref|NP_702991.1|vFam_3706| hypothetical protein TVXgp4 [Tulip virus X]
+gi|9628111|ref|NP_042698.1|vFam_3706| triple gene block protein 3 [Cassava common mosaic virus]

@@ -1,0 +1,12 @@
+CLUSTER	2221
+NUM_SEQ	4
+LENGTH	290
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	150.8
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|506497886|ref|YP_008003685.1|vFam_2221| poly(A) polymerase small subunit VP39 [Mythimna separata entomopoxvirus 'L']
+gi|506498128|ref|YP_008003925.1|vFam_2221| poly(A) polymerase small subunit VP39 [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964429|ref|NP_064897.1|vFam_2221| putative poly(A) polymerase small subunit [Amsacta moorei entomopoxvirus 'L']
+gi|506498436|ref|YP_008004232.1|vFam_2221| poly(A) polymerase small subunit VP39 [Choristoneura biennis entomopoxvirus 'L']

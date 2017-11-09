@@ -1,0 +1,35 @@
+CLUSTER	210
+NUM_SEQ	27
+LENGTH	372
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	193.44
+FAMILIES	{'Baculoviridae': 22}
+GENERA	{'Alphabaculovirus': 22}
+FASTA SEQUENCE TITLES:
+gi|438000403|ref|YP_007250508.1|vFam_210| BV/ODV-C42 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643637|ref|YP_002884327.1|vFam_210| P40 [Bombyx mandarina nucleopolyhedrovirus]
+gi|15320745|ref|NP_203257.1|vFam_210| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326165|ref|YP_803491.1|vFam_210| p40 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|96979820|ref|YP_611025.1|vFam_210| p40 [Antheraea pernyi nucleopolyhedrovirus]
+gi|9630040|ref|NP_046258.1|vFam_210| hypothetical protein OpmnVgp102 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|86355572|ref|YP_473240.1|vFam_210| P40 [Hyphantria cunea nucleopolyhedrovirus]
+gi|529153530|ref|YP_008378555.1|vFam_210| P40 [Choristoneura occidentalis alphabaculovirus]
+gi|529153365|ref|YP_008378405.1|vFam_210| P40 [Choristoneura rosaceana alphabaculovirus]
+gi|209978849|ref|YP_002300592.1|vFam_210| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|114679953|ref|YP_758403.1|vFam_210| ORF106 [Leucania separata nucleopolyhedrovirus]
+gi|15617559|ref|NP_258359.1|vFam_210| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|292397772|ref|YP_003517838.1|vFam_210| P40 [Lymantria xylina MNPV]
+gi|113195487|ref|YP_717625.1|vFam_210| P40 [Clanis bilineata nucleopolyhedrovirus]
+gi|402502178|ref|YP_006607836.1|vFam_210| p40 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|118197560|ref|YP_874273.1|vFam_210| p40 [Ectropis obliqua nucleopolyhedrovirus]
+gi|165969098|ref|YP_001650998.1|vFam_210| p40 [Orgyia leucostigma NPV]
+gi|228861678|ref|YP_002854698.1|vFam_210| BV/ODV-C42 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|529218142|ref|YP_008378305.1|vFam_210| ac101 [Hemileuca sp. nucleopolyhedrovirus]
+gi|209401145|ref|YP_002274014.1|vFam_210| budded virus and occlusion-derived virus capsid protein 42 [Helicoverpa armigera NPV NNg1]
+gi|74229774|ref|YP_308978.1|vFam_210| orf89 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304230|ref|YP_249698.1|vFam_210| P40 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|20069964|ref|NP_613168.1|vFam_210| hypothetical protein McnAVgp085 [Mamestra configurata nucleopolyhedrovirus A]
+gi|125860186|ref|YP_001036356.1|vFam_210| p40 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|9634285|ref|NP_037824.1|vFam_210| ORF64 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|90592788|ref|YP_529741.1|vFam_210| P40 [Agrotis segetum nucleopolyhedrovirus]
+gi|209170962|ref|YP_002268108.1|vFam_210| P40 [Agrotis ipsilon multiple nucleopolyhedrovirus]

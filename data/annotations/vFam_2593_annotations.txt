@@ -1,0 +1,10 @@
+CLUSTER	2593
+NUM_SEQ	2
+LENGTH	237
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	116.13
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Ranavirus': 1, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|388260170|ref|YP_006347698.1|vFam_2593| hypothetical protein [European catfish virus]
+gi|109287940|ref|YP_654634.1|vFam_2593| hypothetical protein MIV062L [Invertebrate iridescent virus 3]

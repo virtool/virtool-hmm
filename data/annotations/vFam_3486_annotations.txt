@@ -1,0 +1,10 @@
+CLUSTER	3486
+NUM_SEQ	2
+LENGTH	287
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	146.37
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1}
+GENERA	{'None': 1, 'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182102|ref|YP_008052621.1|vFam_3486| RNase H PIN (5'-3' exonuclease) domain [Phaeocystis globosa virus]
+gi|310831000|ref|YP_003969643.1|vFam_3486| putative RNaseH [Cafeteria roenbergensis virus BV-PW1]

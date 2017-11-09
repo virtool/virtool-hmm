@@ -1,0 +1,12 @@
+CLUSTER	2927
+NUM_SEQ	4
+LENGTH	453
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	231.03
+FAMILIES	{'Iridoviridae': 1, 'Ascoviridae': 3}
+GENERA	{'Ascovirus': 3, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15079055|ref|NP_149806.1|vFam_2927| 343L [Invertebrate iridescent virus 6]
+gi|116326796|ref|YP_803333.1|vFam_2927| RNA polymerase II [Trichoplusia ni ascovirus 2c]
+gi|134287238|ref|YP_001110934.1|vFam_2927| DNA-directed RNA polymerase b subunit [Heliothis virescens ascovirus 3e]
+gi|115298569|ref|YP_762422.1|vFam_2927| 52.2 kDa DNA-directed RNA polymerase II subunit 1 [Spodoptera frugiperda ascovirus 1a]

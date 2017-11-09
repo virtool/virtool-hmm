@@ -1,0 +1,10 @@
+CLUSTER	5615
+NUM_SEQ	2
+LENGTH	288
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	149.76
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40556179|ref|NP_955264.1|vFam_5615| CNPV241 immunodominant virion protein [Canarypox virus]
+gi|9634838|ref|NP_039131.1|vFam_5615| Immunodominant virion protein [Fowlpox virus]

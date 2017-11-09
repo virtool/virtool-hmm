@@ -1,0 +1,10 @@
+CLUSTER	4932
+NUM_SEQ	2
+LENGTH	186
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	94.86
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441432016|ref|YP_007354058.1|vFam_4932| hypothetical protein Moumou_00076 [Acanthamoeba polyphaga moumouvirus]
+gi|363540132|ref|YP_004895013.1|vFam_4932| mg962 gene product [Megavirus chiliensis]

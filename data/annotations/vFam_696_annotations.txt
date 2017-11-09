@@ -1,0 +1,16 @@
+CLUSTER	696
+NUM_SEQ	8
+LENGTH	186
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	91.14
+FAMILIES	{'None': 2, 'Mimiviridae': 6}
+GENERA	{'None': 6, 'Mimivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|363540757|ref|YP_004895153.1|vFam_696| mg1102 gene product [Megavirus chiliensis]
+gi|448824982|ref|YP_007417913.1|vFam_696| hypothetical protein LBA_00014 [Megavirus lba]
+gi|441432816|ref|YP_007354858.1|vFam_696| hypothetical protein Moumou_00907 [Acanthamoeba polyphaga moumouvirus]
+gi|311978319|ref|YP_003987441.1|vFam_696| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448826107|ref|YP_007419038.1|vFam_696| hypothetical protein LBA_01144 [Megavirus lba]
+gi|311977382|ref|YP_003986501.1|vFam_696| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432009|ref|YP_007354051.1|vFam_696| hypothetical protein Moumou_00067 [Acanthamoeba polyphaga moumouvirus]
+gi|441432005|ref|YP_007354047.1|vFam_696| hypothetical protein Moumou_00063 [Acanthamoeba polyphaga moumouvirus]

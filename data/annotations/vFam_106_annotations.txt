@@ -1,0 +1,41 @@
+CLUSTER	106
+NUM_SEQ	33
+LENGTH	242
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	130.68
+FAMILIES	{'Polydnaviridae': 33}
+GENERA	{'Ichnovirus': 33}
+FASTA SEQUENCE TITLES:
+gi|124484714|ref|YP_001031288.1|vFam_106| repeat element protein-c11.1 [Hyposoter fugitivus ichnovirus]
+gi|124484698|ref|YP_001031277.1|vFam_106| repeat element protein-c5.1 [Hyposoter fugitivus ichnovirus]
+gi|124484737|ref|YP_001031304.1|vFam_106| repeat element protein-d2.1 [Hyposoter fugitivus ichnovirus]
+gi|124484734|ref|YP_001031302.1|vFam_106| repeat element protein-d1.1 [Hyposoter fugitivus ichnovirus]
+gi|124484742|ref|YP_001031309.1|vFam_106| repeat element protein-d2.2 [Hyposoter fugitivus ichnovirus]
+gi|124484791|ref|YP_001031348.1|vFam_106| repeat element protein-e2.2 [Hyposoter fugitivus ichnovirus]
+gi|124484792|ref|YP_001031349.1|vFam_106| repeat element protein-e2.3 [Hyposoter fugitivus ichnovirus]
+gi|124484789|ref|YP_001031346.1|vFam_106| repeat element protein-e2.1 [Hyposoter fugitivus ichnovirus]
+gi|124484648|ref|YP_001031243.1|vFam_106| repeat element protein-a2.1 [Hyposoter fugitivus ichnovirus]
+gi|124484629|ref|YP_001031230.1|vFam_106| repeat element protein-b11 [Hyposoter fugitivus ichnovirus]
+gi|124484660|ref|YP_001031251.1|vFam_106| repeat element protein-b4.1 [Hyposoter fugitivus ichnovirus]
+gi|124484693|ref|YP_001031274.1|vFam_106| repeat element protein-c3.1 [Hyposoter fugitivus ichnovirus]
+gi|124484727|ref|YP_001031298.1|vFam_106| repeat element protein-c18.3 [Hyposoter fugitivus ichnovirus]
+gi|124484781|ref|YP_001031340.1|vFam_106| repeat element protein-d11.3 [Hyposoter fugitivus ichnovirus]
+gi|124484780|ref|YP_001031339.1|vFam_106| repeat element protein-d11.2 [Hyposoter fugitivus ichnovirus]
+gi|124484776|ref|YP_001031336.1|vFam_106| repeat element protein-d10.2 [Hyposoter fugitivus ichnovirus]
+gi|124484779|ref|YP_001031338.1|vFam_106| repeat element protein-d11.1 [Hyposoter fugitivus ichnovirus]
+gi|124484782|ref|YP_001031341.1|vFam_106| repeat element protein-d11.4 [Hyposoter fugitivus ichnovirus]
+gi|124484760|ref|YP_001031323.1|vFam_106| repeat element protein-d7.1 [Hyposoter fugitivus ichnovirus]
+gi|124484777|ref|YP_001031337.1|vFam_106| repeat element protein-d10.3 [Hyposoter fugitivus ichnovirus]
+gi|124484756|ref|YP_001031320.1|vFam_106| repeat element protein-d6.2 [Hyposoter fugitivus ichnovirus]
+gi|124484751|ref|YP_001031316.1|vFam_106| repeat element protein-d4.2 [Hyposoter fugitivus ichnovirus]
+gi|124484758|ref|YP_001031322.1|vFam_106| repeat element protein-d6.3 [Hyposoter fugitivus ichnovirus]
+gi|124484686|ref|YP_001031269.1|vFam_106| repeat element protein-b18.1 [Hyposoter fugitivus ichnovirus]
+gi|124484755|ref|YP_001031319.1|vFam_106| repeat element protein-d6.1 [Hyposoter fugitivus ichnovirus]
+gi|124484723|ref|YP_001031294.1|vFam_106| repeat element protein-c18.1 [Hyposoter fugitivus ichnovirus]
+gi|124484748|ref|YP_001031314.1|vFam_106| repeat element protein-d3.3 [Hyposoter fugitivus ichnovirus]
+gi|124484775|ref|YP_001031335.1|vFam_106| repeat element protein-d10.1 [Hyposoter fugitivus ichnovirus]
+gi|124484744|ref|YP_001031310.1|vFam_106| repeat element protein-d3.1 [Hyposoter fugitivus ichnovirus]
+gi|124484762|ref|YP_001031325.1|vFam_106| repeat element protein-d7.2 [Hyposoter fugitivus ichnovirus]
+gi|124484763|ref|YP_001031326.1|vFam_106| repeat element protein-d7.3 [Hyposoter fugitivus ichnovirus]
+gi|124484671|ref|YP_001031258.1|vFam_106| repeat element protein-b12.1 [Hyposoter fugitivus ichnovirus]
+gi|124484750|ref|YP_001031315.1|vFam_106| repeat element protein-d4.1 [Hyposoter fugitivus ichnovirus]

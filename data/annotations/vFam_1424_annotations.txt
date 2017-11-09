@@ -1,0 +1,13 @@
+CLUSTER	1424
+NUM_SEQ	5
+LENGTH	192
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	96.0
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'None': 1, 'Parapoxvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|571798010|ref|YP_008658509.1|vFam_1424| conserved hypothetical pox protein [Squirrelpox virus]
+gi|289183838|ref|YP_003457379.1|vFam_1424| hypothetical protein PCPV_gp076 [Pseudocowpox virus]
+gi|41057509|ref|NP_957982.1|vFam_1424| ORF073 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183837|ref|YP_003457378.1|vFam_1424| hypothetical protein PCPV_gp075 [Pseudocowpox virus]
+gi|41057136|ref|NP_957850.1|vFam_1424| ORF073 hypothetical protein [Orf virus]

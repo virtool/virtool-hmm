@@ -1,0 +1,10 @@
+CLUSTER	6077
+NUM_SEQ	2
+LENGTH	92
+RELATIVE_ENTROPY_PER_POSITION	0.55
+TOTAL_RELATIVE_ENTROPY	50.6
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|41057525|ref|NP_957998.1|vFam_6077| ORF089 virion membrane protein [Bovine papular stomatitis virus]
+gi|289183854|ref|YP_003457395.1|vFam_6077| virion membrane protein [Pseudocowpox virus]

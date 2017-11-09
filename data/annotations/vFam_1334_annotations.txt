@@ -1,0 +1,15 @@
+CLUSTER	1334
+NUM_SEQ	7
+LENGTH	175
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	89.25
+FAMILIES	{'Poxviridae': 7}
+GENERA	{'None': 1, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Capripoxvirus': 1, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|157939761|ref|YP_001497133.1|vFam_1334| A52R-family [Tanapox virus]
+gi|38229296|ref|NP_938389.1|vFam_1334| 137R [Yaba monkey tumor virus]
+gi|377830090|ref|YP_005296338.1|vFam_1334| unnamed protein product [Cotia virus SPAn232]
+gi|9633772|ref|NP_051850.1|vFam_1334| m136R [Myxoma virus]
+gi|211956419|ref|YP_002302489.1|vFam_1334| hypothetical protein DpV84gp148 [Deerpox virus W-1170-84]
+gi|15150575|ref|NP_150570.1|vFam_1334| LSDV136 hypothetical protein [Lumpy skin disease virus NI-2490]
+gi|18640219|ref|NP_570293.1|vFam_1334| SPV133 A52R-like family protein [Swinepox virus]

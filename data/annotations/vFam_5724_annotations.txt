@@ -1,0 +1,10 @@
+CLUSTER	5724
+NUM_SEQ	2
+LENGTH	72
+RELATIVE_ENTROPY_PER_POSITION	0.71
+TOTAL_RELATIVE_ENTROPY	51.12
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Betabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|556549153|ref|YP_008720067.1|vFam_5724| hypothetical protein CaLGV120 [Clostera anastomosis granulovirus]
+gi|288804756|ref|YP_003429441.1|vFam_5724| PrGVORF117 [Pieris rapae granulovirus]

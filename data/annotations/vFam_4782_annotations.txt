@@ -1,0 +1,10 @@
+CLUSTER	4782
+NUM_SEQ	2
+LENGTH	110
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	57.2
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Orthopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|113195249|ref|YP_717379.1|vFam_4782| glutaredoxin [Taterapox virus]
+gi|345107235|ref|YP_004821400.1|vFam_4782| nonessential glutaredoxin [Yoka poxvirus]

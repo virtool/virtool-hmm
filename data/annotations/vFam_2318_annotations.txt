@@ -1,0 +1,10 @@
+CLUSTER	2318
+NUM_SEQ	2
+LENGTH	235
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	117.5
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035698|ref|YP_008437331.1|vFam_2318| RING-finger motif-containing [Pandoravirus salinus]
+gi|526119386|ref|YP_008319289.1|vFam_2318| ring-finger motif-containing [Pandoravirus dulcis]

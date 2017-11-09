@@ -1,0 +1,11 @@
+CLUSTER	1555
+NUM_SEQ	3
+LENGTH	539
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	280.28
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036717|ref|YP_008438354.1|vFam_1555| F-box domain [Pandoravirus salinus]
+gi|531036730|ref|YP_008438367.1|vFam_1555| hypothetical protein ps_1961 [Pandoravirus salinus]
+gi|531036516|ref|YP_008438153.1|vFam_1555| F-box domain [Pandoravirus salinus]

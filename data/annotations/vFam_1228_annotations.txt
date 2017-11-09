@@ -1,0 +1,11 @@
+CLUSTER	1228
+NUM_SEQ	3
+LENGTH	319
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	162.69
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|118197515|ref|YP_874226.1|vFam_1228| baculovirus J domain protein [Ectropis obliqua nucleopolyhedrovirus]
+gi|402502133|ref|YP_006607791.1|vFam_1228| baculovirus J domain protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|165969054|ref|YP_001650954.1|vFam_1228| hypothetical protein [Orgyia leucostigma NPV]

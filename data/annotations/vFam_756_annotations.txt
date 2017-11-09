@@ -1,0 +1,11 @@
+CLUSTER	756
+NUM_SEQ	3
+LENGTH	243
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	119.07
+FAMILIES	{'Birnaviridae': 3}
+GENERA	{'None': 1, 'Blosnavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|50198882|ref|YP_052872.1|vFam_756| VP3 protein [Blotched snakehead virus]
+gi|366091746|ref|YP_004956725.1|vFam_756| unnamed protein product [Espirito Santo virus]
+gi|50198881|ref|YP_052871.1|vFam_756| VP4 protein [Blotched snakehead virus]

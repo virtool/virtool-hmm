@@ -1,0 +1,20 @@
+CLUSTER	708
+NUM_SEQ	12
+LENGTH	98
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	50.96
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Macavirus': 2, 'Rhadinovirus': 6, 'Lymphocryptovirus': 3, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631244|ref|NP_048025.1|vFam_708| orf 53 [Ateline herpesvirus 3]
+gi|9626009|ref|NP_040255.1|vFam_708| unnamed protein product [Saimiriine herpesvirus 2]
+gi|9629618|ref|NP_044890.1|vFam_708| envelope glycoprotein N [Murid herpesvirus 4]
+gi|83642890|ref|YP_438177.1|vFam_708| ORF53 [Ovine herpesvirus 2]
+gi|10140975|ref|NP_065552.1|vFam_708| ORF53 [Alcelaphine herpesvirus 1]
+gi|13095630|ref|NP_076545.1|vFam_708| unknown [Bovine herpesvirus 4]
+gi|24943139|ref|NP_733901.1|vFam_708| ORF47 [callitrichine herpesvirus 3]
+gi|82503221|ref|YP_401665.1|vFam_708| putative membrane protein BLRF1 [Human herpesvirus 4]
+gi|51518036|ref|YP_067961.1|vFam_708| BLRF1 [Macacine herpesvirus 4]
+gi|9628056|ref|NP_042650.1|vFam_708| ORF 53 [Equid herpesvirus 2]
+gi|139472844|ref|YP_001129406.1|vFam_708| ORF53 [Human herpesvirus 8]
+gi|18653859|ref|NP_570793.1|vFam_708| hypothetical protein MmrVgp54 [Macacine herpesvirus 5]

@@ -1,0 +1,12 @@
+CLUSTER	2141
+NUM_SEQ	4
+LENGTH	80
+RELATIVE_ENTROPY_PER_POSITION	0.63
+TOTAL_RELATIVE_ENTROPY	50.4
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|506497937|ref|YP_008003736.1|vFam_2141| unknown similar to AMEV185 [Mythimna separata entomopoxvirus 'L']
+gi|506498179|ref|YP_008003976.1|vFam_2141| unknown similar to AMEV185 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498499|ref|YP_008004295.1|vFam_2141| unknown similar to AMEV185 [Choristoneura biennis entomopoxvirus 'L']
+gi|9964499|ref|NP_064967.1|vFam_2141| hypothetical protein AMV185 [Amsacta moorei entomopoxvirus 'L']

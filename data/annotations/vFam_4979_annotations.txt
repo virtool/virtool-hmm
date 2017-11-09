@@ -1,0 +1,11 @@
+CLUSTER	4979
+NUM_SEQ	3
+LENGTH	95
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	49.4
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'None': 1, 'Cervidpoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|211956301|ref|YP_002302369.1|vFam_4979| hypothetical protein DpV84gp027 [Deerpox virus W-1170-84]
+gi|62637406|ref|YP_227404.1|vFam_4979| hypothetical protein DpV83gp027 [Deerpox virus W-848-83]
+gi|377830066|ref|YP_005296226.1|vFam_4979| unnamed protein product [Cotia virus SPAn232]

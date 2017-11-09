@@ -1,0 +1,11 @@
+CLUSTER	4428
+NUM_SEQ	3
+LENGTH	184
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	93.84
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 2, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|260666048|ref|YP_003213002.1|vFam_4428| hypothetical protein H665_p179 [Ostreococcus tauri virus 1]
+gi|313844148|ref|YP_004061811.1|vFam_4428| hypothetical protein OlV1_179 [Ostreococcus lucimarinus virus OlV1]
+gi|314055261|ref|YP_004063599.1|vFam_4428| Aspartyl/Asparaginyl beta-hydroxylase [Ostreococcus tauri virus 2]

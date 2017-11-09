@@ -1,0 +1,10 @@
+CLUSTER	5033
+NUM_SEQ	2
+LENGTH	222
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	115.44
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|314055172|ref|YP_004063510.1|vFam_5033| hypothetical protein OtV2_077 [Ostreococcus tauri virus 2]
+gi|313844058|ref|YP_004061721.1|vFam_5033| hypothetical protein OlV1_088 [Ostreococcus lucimarinus virus OlV1]

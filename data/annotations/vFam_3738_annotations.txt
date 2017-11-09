@@ -1,0 +1,12 @@
+CLUSTER	3738
+NUM_SEQ	4
+LENGTH	99
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	51.48
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|45655869|ref|YP_003728.1|vFam_3738| hypothetical protein AFV1_ORF99 [Acidianus filamentous virus 1]
+gi|16753101|ref|NP_445679.1|vFam_3738| hypothetical protein SIFV0014 [Sulfolobus islandicus filamentous virus]
+gi|22122283|ref|NP_666544.1|vFam_3738| hypothetical protein SIRV2gp10 [Sulfolobus islandicus rod-shaped virus 2]
+gi|22122230|ref|NP_666591.1|vFam_3738| hypothetical protein SIRV1gp03 [Sulfolobus islandicus rod-shaped virus 1]

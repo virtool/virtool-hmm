@@ -1,0 +1,10 @@
+CLUSTER	5824
+NUM_SEQ	2
+LENGTH	589
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	300.39
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|114680018|ref|YP_758299.1|vFam_5824| ORF1629 [Leucania separata nucleopolyhedrovirus]
+gi|15617476|ref|NP_258270.1|vFam_5824| essential structural protein pp78/81 [Spodoptera litura nucleopolyhedrovirus]

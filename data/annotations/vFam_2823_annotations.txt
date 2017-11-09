@@ -1,0 +1,13 @@
+CLUSTER	2823
+NUM_SEQ	5
+LENGTH	185
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	96.2
+FAMILIES	{'Paramyxoviridae': 5}
+GENERA	{'Pneumovirus': 3, 'Metapneumovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|83716030|ref|YP_443841.1|vFam_2823| matrix protein 2-1 [Avian metapneumovirus]
+gi|46852137|ref|YP_012609.1|vFam_2823| matrix protein M2-1 [Human metapneumovirus]
+gi|56900724|ref|YP_173333.1|vFam_2823| M2-1 [Pneumonia virus of mice J3666]
+gi|9631276|ref|NP_048056.1|vFam_2823| M2 [Bovine respiratory syncytial virus]
+gi|9629207|ref|NP_056864.1|vFam_2823| matrix protein 2 [Human respiratory syncytial virus]

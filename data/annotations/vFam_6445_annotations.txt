@@ -1,0 +1,10 @@
+CLUSTER	6445
+NUM_SEQ	2
+LENGTH	78
+RELATIVE_ENTROPY_PER_POSITION	0.64
+TOTAL_RELATIVE_ENTROPY	49.92
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|56693011|ref|YP_164355.1|vFam_6445| hypothetical protein TTSV1_gp14 [Thermoproteus tenax spherical virus 1]
+gi|47131179|ref|YP_015545.1|vFam_6445| hypothetical protein PyrSV_gp24 [Pyrobaculum spherical virus]

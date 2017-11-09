@@ -1,0 +1,11 @@
+CLUSTER	3835
+NUM_SEQ	3
+LENGTH	126
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	65.52
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 2, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|163955194|ref|YP_001648298.1|vFam_3835| hypothetical protein OsV5_222f [Ostreococcus virus OsV5]
+gi|313844164|ref|YP_004061827.1|vFam_3835| hypothetical protein OlV1_195 [Ostreococcus lucimarinus virus OlV1]
+gi|314055278|ref|YP_004063616.1|vFam_3835| possible host origin unnamed protein product [Ostreococcus tauri virus 2]

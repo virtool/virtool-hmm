@@ -1,0 +1,36 @@
+CLUSTER	155
+NUM_SEQ	28
+LENGTH	260
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	137.8
+FAMILIES	{'Adenoviridae': 27}
+GENERA	{'None': 1, 'Mastadenovirus': 26}
+FASTA SEQUENCE TITLES:
+gi|56158823|ref|AP_000042.1|vFam_155| E4 ORFC [Bovine adenovirus B]
+gi|227122438|ref|YP_002822224.1|vFam_155| E4 34k [Murine adenovirus 3]
+gi|6446604|ref|NP_015555.1|vFam_155| putative homolog to Ad5 E4orf6 protein [Murine adenovirus A]
+gi|345462118|ref|YP_004782120.1|vFam_155| unnamed protein product [Bat adenovirus 2]
+gi|378554438|ref|YP_005271202.1|vFam_155| unnamed protein product [Bat adenovirus TJM]
+gi|56160979|ref|AP_000634.1|vFam_155| E4 34K [Canine adenovirus 2]
+gi|9629122|ref|NP_044208.1|vFam_155| hypothetical protein CaV1gp26 [Canine adenovirus A]
+gi|52801703|ref|YP_094052.1|vFam_155| E4 ORFE [Bovine adenovirus A]
+gi|56160591|ref|AP_000257.1|vFam_155| E4 ORFE [Porcine adenovirus C]
+gi|496838720|ref|YP_007518338.1|vFam_155| E4 34K [Titi monkey adenovirus ECC-2011]
+gi|460042665|ref|YP_007518092.1|vFam_155| E4 orf6 [Simian adenovirus 20]
+gi|160409928|ref|NP_597755.2|vFam_155| control protein E4 34K [Human adenovirus C]
+gi|253762005|ref|YP_003038627.1|vFam_155| 34 kDa protein [Human adenovirus 54]
+gi|386522710|ref|YP_006272975.1|vFam_155| E4Orf6 [Chimpanzee adenovirus Y25]
+gi|56160668|ref|AP_000332.1|vFam_155| E4 34K [Simian adenovirus 25]
+gi|197944761|ref|YP_002213836.1|vFam_155| control protein E4 34K [Human adenovirus B]
+gi|56160629|ref|AP_000294.1|vFam_155| E4 34K [Simian adenovirus 21]
+gi|56160467|ref|AP_000137.1|vFam_155| E4 34K [Human adenovirus A]
+gi|327415397|ref|YP_004300226.1|vFam_155| unnamed protein product [Simian adenovirus 49]
+gi|485191089|ref|YP_007906025.1|vFam_155| E4 34K [Simian adenovirus C]
+gi|61602114|ref|YP_213991.1|vFam_155| E4 34K [Simian adenovirus 1]
+gi|32453791|ref|NP_040878.2|vFam_155| control protein E4 34K [Human adenovirus F]
+gi|540155851|ref|YP_008520245.1|vFam_155| E4 orf6 [Simian adenovirus 18]
+gi|51556686|ref|YP_068083.1|vFam_155| E4 34K [Tree shrew adenovirus 1]
+gi|46852427|ref|YP_009221.1|vFam_155| E4 34K, partial [Porcine adenovirus 3]
+gi|56160592|ref|AP_000258.1|vFam_155| E4 ORFD [Porcine adenovirus C]
+gi|52801704|ref|YP_094053.1|vFam_155| E4 ORFD [Bovine adenovirus A]
+gi|56158845|ref|AP_000020.1|vFam_155| E4 ORFD [Ovine adenovirus A]

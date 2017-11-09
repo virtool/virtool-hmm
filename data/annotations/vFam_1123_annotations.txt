@@ -1,0 +1,14 @@
+CLUSTER	1123
+NUM_SEQ	6
+LENGTH	369
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	195.57
+FAMILIES	{'Alphaflexiviridae': 5, 'None': 1}
+GENERA	{'Allexivirus': 5, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|338826801|ref|YP_004659203.1|vFam_1123| serine-rich p40 protein [Blackberry virus E]
+gi|18450248|ref|NP_569135.1|vFam_1123| 40kDa protein [Garlic virus C]
+gi|20522100|ref|NP_620651.1|vFam_1123| hypothetical protein [Shallot virus X]
+gi|18450255|ref|NP_569129.1|vFam_1123| 40kDa protein [Garlic virus A]
+gi|561142794|ref|YP_008855209.1|vFam_1123| 40 kDa protein [Garlic virus D]
+gi|21427649|ref|NP_659013.1|vFam_1123| serine-rich protein [Garlic virus E]

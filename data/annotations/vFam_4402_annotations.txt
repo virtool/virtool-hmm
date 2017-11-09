@@ -1,0 +1,10 @@
+CLUSTER	4402
+NUM_SEQ	2
+LENGTH	333
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	173.16
+FAMILIES	{'None': 1, 'Malacoherpesviridae': 1}
+GENERA	{'None': 1, 'Ostreavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|410493502|ref|YP_006908700.1|vFam_4402| hypothetical protein AbHV_ORF50 [Abalone herpesvirus Victoria/AUS/2009]
+gi|48696810|ref|YP_024634.1|vFam_4402| ORF95 [Ostreid herpesvirus 1]

@@ -1,0 +1,15 @@
+CLUSTER	634
+NUM_SEQ	7
+LENGTH	319
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	169.07
+FAMILIES	{'Herpesviridae': 7}
+GENERA	{'None': 1, 'Cytomegalovirus': 1, 'Muromegalovirus': 2, 'Rhadinovirus': 2, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|356640428|ref|YP_004933870.1|vFam_634| protein UL89 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|61660204|ref|YP_214095.1|vFam_634| Conserved herpesvirus spliced gene [Murid herpesvirus 1]
+gi|9845380|ref|NP_064194.1|vFam_634| pR89 [Murid herpesvirus 2]
+gi|321496585|ref|YP_004207870.1|vFam_634| cleavage/packaging protein [Rodent herpesvirus Peru]
+gi|18653840|ref|NP_570774.1|vFam_634| hypothetical protein MmrVgp33 [Macacine herpesvirus 5]
+gi|9631220|ref|NP_048006.1|vFam_634| orf 29A [Ateline herpesvirus 3]
+gi|9628036|ref|NP_042630.1|vFam_634| ORF 29a [Equid herpesvirus 2]

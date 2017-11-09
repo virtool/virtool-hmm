@@ -1,0 +1,10 @@
+CLUSTER	5460
+NUM_SEQ	2
+LENGTH	568
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	295.36
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|155370222|ref|YP_001425756.1|vFam_5460| hypothetical protein FR483_N124R [Paramecium bursaria Chlorella virus FR483]
+gi|9631667|ref|NP_048446.1|vFam_5460| Hyaluronan synthase [Paramecium bursaria Chlorella virus 1]

@@ -1,0 +1,12 @@
+CLUSTER	1341
+NUM_SEQ	4
+LENGTH	434
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	225.68
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Varicellovirus': 3, 'Mardivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|255683167|ref|YP_003084432.1|vFam_1341| US4 [Anatid herpesvirus 1]
+gi|270339512|ref|YP_003331588.1|vFam_1341| envelope glycoprotein G [Felid herpesvirus 1]
+gi|216905923|ref|YP_002333551.1|vFam_1341| envelope glycoprotein G [Equid herpesvirus 9]
+gi|9629800|ref|NP_045287.1|vFam_1341| envelope glycoprotein G [Equid herpesvirus 4]

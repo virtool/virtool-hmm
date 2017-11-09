@@ -1,0 +1,11 @@
+CLUSTER	5065
+NUM_SEQ	3
+LENGTH	63
+RELATIVE_ENTROPY_PER_POSITION	0.82
+TOTAL_RELATIVE_ENTROPY	51.66
+FAMILIES	{'Adenoviridae': 3}
+GENERA	{'Mastadenovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|56160552|ref|AP_000219.1|vFam_5065| E3 CR1-alpha0 [Human adenovirus 5]
+gi|160409923|ref|YP_001551769.1|vFam_5065| membrane glycoprotein E3 CR1-alpha [Human adenovirus C]
+gi|56160862|ref|AP_000520.1|vFam_5065| E3 CR1-alpha0 [Human adenovirus 1]

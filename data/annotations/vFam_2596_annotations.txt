@@ -1,0 +1,11 @@
+CLUSTER	2596
+NUM_SEQ	3
+LENGTH	126
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	65.52
+FAMILIES	{'Retroviridae': 3}
+GENERA	{'Gammaretrovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|194033118|ref|YP_002000605.1|vFam_2596| Hypothetical mature Pro protein [Gibbon ape leukemia virus]
+gi|192824266|ref|YP_001994913.1|vFam_2596| hypothetical mature PR protein [Friend murine leukemia virus]
+gi|40796125|ref|NP_955578.1|vFam_2596| protease [Feline leukemia virus]

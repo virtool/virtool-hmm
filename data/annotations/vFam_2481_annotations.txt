@@ -1,0 +1,11 @@
+CLUSTER	2481
+NUM_SEQ	3
+LENGTH	104
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	52.0
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'Chlorovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|155371719|ref|YP_001427253.1|vFam_2481| hypothetical protein ATCV1_z772R [Acanthocystis turfacea Chlorella virus 1]
+gi|155370393|ref|YP_001425927.1|vFam_2481| hypothetical protein FR483_n295L [Paramecium bursaria Chlorella virus FR483]
+gi|9631715|ref|NP_048494.1|vFam_2481| hypothetical protein [Paramecium bursaria Chlorella virus 1]

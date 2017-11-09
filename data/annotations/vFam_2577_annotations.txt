@@ -1,0 +1,13 @@
+CLUSTER	2577
+NUM_SEQ	5
+LENGTH	124
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	64.48
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Mardivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|526119765|ref|YP_008319668.1|vFam_2577| hypothetical protein [Pandoravirus dulcis]
+gi|255683178|ref|YP_003084386.1|vFam_2577| UL35 [Anatid herpesvirus 1]
+gi|149999619|ref|NP_073329.2|vFam_2577| small capsid protein [Meleagrid herpesvirus 1]
+gi|10834906|ref|NP_066867.1|vFam_2577| small capsid protein [Gallid herpesvirus 3]
+gi|125745087|ref|YP_001033964.1|vFam_2577| small capsid protein [Gallid herpesvirus 2]

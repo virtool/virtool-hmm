@@ -1,0 +1,11 @@
+CLUSTER	2238
+NUM_SEQ	3
+LENGTH	673
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	343.23
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9845318|ref|NP_064132.1|vFam_2238| pR27 [Murid herpesvirus 2]
+gi|425707235|ref|YP_007016432.1|vFam_2238| E27 [Murid herpesvirus 8]
+gi|61660149|ref|YP_214040.1|vFam_2238| hypothetical protein MuHV1_gp032 [Murid herpesvirus 1]

@@ -1,0 +1,10 @@
+CLUSTER	5515
+NUM_SEQ	2
+LENGTH	112
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	57.12
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409970|ref|YP_004347390.1|vFam_5515| hypothetical protein LAU_0428 [Lausannevirus]
+gi|284504130|ref|YP_003406845.1|vFam_5515| toxin of RelE/StbE family [Marseillevirus]

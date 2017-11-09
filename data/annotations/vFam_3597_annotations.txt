@@ -1,0 +1,12 @@
+CLUSTER	3597
+NUM_SEQ	4
+LENGTH	186
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	96.72
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|356640301|ref|YP_004933743.1|vFam_3597| hypothetical protein cy10 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|359946435|ref|YP_004935968.1|vFam_3597| membrane protein RL11B [Cercopithecine herpesvirus 5]
+gi|51556467|ref|YP_068100.1|vFam_3597| rh06 [Macacine herpesvirus 3]
+gi|356640300|ref|YP_004933742.1|vFam_3597| hypothetical protein cy09 [Cynomolgus macaque cytomegalovirus strain Ottawa]

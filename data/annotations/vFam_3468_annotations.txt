@@ -1,0 +1,12 @@
+CLUSTER	3468
+NUM_SEQ	4
+LENGTH	167
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	86.84
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|16753122|ref|NP_445700.1|vFam_3468| conserved hypothetical protein [Sulfolobus islandicus filamentous virus]
+gi|171473680|ref|YP_001798550.1|vFam_3468| viral structural protein [Acidianus filamentous virus 9]
+gi|162329452|ref|YP_001604252.1|vFam_3468| structural protein [Acidianus filamentous virus 7]
+gi|162329322|ref|YP_001604376.1|vFam_3468| structural protein [Acidianus filamentous virus 3]

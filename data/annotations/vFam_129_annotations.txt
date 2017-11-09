@@ -1,0 +1,15 @@
+CLUSTER	129
+NUM_SEQ	7
+LENGTH	182
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	92.82
+FAMILIES	{'Marseillevirus family': 1, 'Alloherpesviridae': 1, 'Iridoviridae': 1, 'Poxviridae': 4}
+GENERA	{'None': 2, 'Orthopoxvirus': 3, 'Ranavirus': 1, 'Cyprinivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|22164615|ref|NP_671526.1|vFam_129| EVM008 [Ectromelia virus]
+gi|377830108|ref|YP_005296356.1|vFam_129| unnamed protein product [Cotia virus SPAn232]
+gi|284504403|ref|YP_003407118.1|vFam_129| hypothetical protein MAR_ORF393 [Marseillevirus]
+gi|56692733|ref|YP_164191.1|vFam_129| hypothetical protein ORF096R [Singapore grouper iridovirus]
+gi|422933682|ref|YP_007003809.1|vFam_129| protein ORF150D [Cyprinid herpesvirus 1]
+gi|345107369|ref|YP_004821534.1|vFam_129| truncated TNF-receptor-like protein [Yoka poxvirus]
+gi|20178552|ref|NP_619973.1|vFam_129| CrmC or CPXV191 protein [Cowpox virus]

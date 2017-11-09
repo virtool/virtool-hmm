@@ -1,0 +1,14 @@
+CLUSTER	1130
+NUM_SEQ	6
+LENGTH	347
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	180.44
+FAMILIES	{'Retroviridae': 6}
+GENERA	{'Deltaretrovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|9626231|ref|NP_056900.1|vFam_1130| p34 [Bovine leukemia virus]
+gi|9626459|ref|NP_057863.1|vFam_1130| p27 [Human T-lymphotropic virus 1]
+gi|212499472|ref|YP_002308476.1|vFam_1130| unnamed protein product [Simian T-cell lymphotropic virus 6]
+gi|18071208|ref|NP_542260.1|vFam_1130| tax protein [Simian T-lymphotropic virus 3]
+gi|219552913|ref|YP_002455788.1|vFam_1130| tax protein [Human T-lymphotropic virus 4]
+gi|9629501|ref|NP_056910.1|vFam_1130| tax protein [Simian T-lymphotropic virus 2]

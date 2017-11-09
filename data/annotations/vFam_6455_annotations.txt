@@ -1,0 +1,10 @@
+CLUSTER	6455
+NUM_SEQ	2
+LENGTH	219
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	113.88
+FAMILIES	{'Closteroviridae': 2}
+GENERA	{'Crinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|176428597|ref|YP_001816771.1|vFam_6455| p26 [Bean yellow disorder virus]
+gi|242915937|ref|YP_003002355.1|vFam_6455| unnamed protein product [Lettuce chlorosis virus]

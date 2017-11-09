@@ -1,0 +1,25 @@
+CLUSTER	434
+NUM_SEQ	17
+LENGTH	171
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	87.21
+FAMILIES	{'Phycodnaviridae': 1, 'Poxviridae': 16}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Coccolithovirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|73852785|ref|YP_294069.1|vFam_434| hypothetical protein EhV311 [Emiliania huxleyi virus 86]
+gi|41057517|ref|NP_957990.1|vFam_434| ORF081 RNA polymerase subunit RPO19 [Bovine papular stomatitis virus]
+gi|41057144|ref|NP_957858.1|vFam_434| ORF081 RNA polymerase subunit RPO19 [Orf virus]
+gi|115531790|ref|YP_784316.1|vFam_434| RNA polymerase subunit RPO19 [Nile crocodilepox virus]
+gi|40556180|ref|NP_955265.1|vFam_434| CNPV242 RNA polymerase subunit RPO19 [Canarypox virus]
+gi|9634839|ref|NP_039132.1|vFam_434| RNA polymerase subunit RPO19 [Fowlpox virus]
+gi|571798019|ref|YP_008658518.1|vFam_434| DNA-dependent RNA polymerase subunit rpo19 [Squirrelpox virus]
+gi|9629040|ref|NP_044059.1|vFam_434| MC108R [Molluscum contagiosum virus subtype 1]
+gi|9633904|ref|NP_051983.1|vFam_434| gp094R [Rabbit fibroma virus]
+gi|377830001|ref|YP_005296301.1|vFam_434| unnamed protein product [Cotia virus SPAn232]
+gi|113195303|ref|YP_717433.1|vFam_434| DNA-dependent RNA polymerase subunit rpo19 [Taterapox virus]
+gi|345107294|ref|YP_004821459.1|vFam_434| DNA-dependent RNA polymerase subunit rpo19 [Yoka poxvirus]
+gi|18640179|ref|NP_570253.1|vFam_434| SPV093 RNA polymerase subunit RPO19 [Swinepox virus]
+gi|157939719|ref|YP_001497091.1|vFam_434| RNA polymerase subunit rpo19 [Tanapox virus]
+gi|38229258|ref|NP_938351.1|vFam_434| 96R [Yaba monkey tumor virus]
+gi|15150535|ref|NP_150530.1|vFam_434| LSDV096 RNA polymerase subunit [Lumpy skin disease virus NI-2490]
+gi|62637482|ref|YP_227480.1|vFam_434| RNA polymerase subunit RPO19 [Deerpox virus W-848-83]

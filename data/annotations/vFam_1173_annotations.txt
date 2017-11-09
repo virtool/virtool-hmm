@@ -1,0 +1,16 @@
+CLUSTER	1173
+NUM_SEQ	8
+LENGTH	71
+RELATIVE_ENTROPY_PER_POSITION	0.71
+TOTAL_RELATIVE_ENTROPY	50.41
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Betabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|32698643|ref|NP_872558.1|vFam_1173| ORF_104 [Adoxophyes orana granulovirus]
+gi|21686782|ref|NP_663282.1|vFam_1173| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|556549140|ref|YP_008720054.1|vFam_1173| hypothetical protein CaLGV107 [Clostera anastomosis granulovirus]
+gi|334265785|ref|YP_004376314.1|vFam_1173| hypothetical protein ClanGV_gp106 [Clostera anachoreta granulovirus]
+gi|33622312|ref|NP_891959.1|vFam_1173| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602359|ref|NP_148906.1|vFam_1173| ORF122 similar to XcGV ORF143 [Cydia pomonella granulovirus]
+gi|288804743|ref|YP_003429428.1|vFam_1173| PrGVORF104 [Pieris rapae granulovirus]
+gi|109255373|ref|YP_654522.1|vFam_1173| hypothetical protein COGV_gp101 [Choristoneura occidentalis granulovirus]

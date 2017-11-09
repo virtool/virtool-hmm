@@ -1,0 +1,11 @@
+CLUSTER	2022
+NUM_SEQ	3
+LENGTH	221
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	112.71
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Lymphocryptovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|24943135|ref|NP_733897.1|vFam_2022| ORF44 [callitrichine herpesvirus 3]
+gi|82503228|ref|YP_401672.1|vFam_2022| putative BZLF2 protein [Human herpesvirus 4]
+gi|51518040|ref|YP_067968.1|vFam_2022| BZLF2 [Macacine herpesvirus 4]

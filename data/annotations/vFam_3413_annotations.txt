@@ -1,0 +1,11 @@
+CLUSTER	3413
+NUM_SEQ	3
+LENGTH	307
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	159.64
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|506498301|ref|YP_008004097.1|vFam_3413| p35 apoptosis inhibitor [Choristoneura biennis entomopoxvirus 'L']
+gi|506498884|ref|YP_008004678.1|vFam_3413| p35 apoptosis inhibitor [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498582|ref|YP_008004378.1|vFam_3413| p35 apoptosis inhibitor [Choristoneura biennis entomopoxvirus 'L']

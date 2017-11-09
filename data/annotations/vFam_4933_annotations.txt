@@ -1,0 +1,11 @@
+CLUSTER	4933
+NUM_SEQ	3
+LENGTH	167
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	85.17
+FAMILIES	{'Baculoviridae': 1, 'Phycodnaviridae': 2}
+GENERA	{'Deltabaculovirus': 1, 'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|15320835|ref|NP_203346.1|vFam_4933| CUN041 hypothetical protein [Culex nigripalpus nucleopolyhedrovirus]
+gi|157953990|ref|YP_001498881.1|vFam_4933| hypothetical protein AR158_c800R [Paramecium bursaria Chlorella virus AR158]
+gi|155370129|ref|YP_001425663.1|vFam_4933| hypothetical protein FR483_N031L [Paramecium bursaria Chlorella virus FR483]

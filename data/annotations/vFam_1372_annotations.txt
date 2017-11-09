@@ -1,0 +1,13 @@
+CLUSTER	1372
+NUM_SEQ	5
+LENGTH	251
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	130.52
+FAMILIES	{'Iridoviridae': 5}
+GENERA	{'Lymphocystivirus': 2, 'Megalocytivirus': 1, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|19881523|ref|NP_612340.1|vFam_1372| ORF118L [Infectious spleen and kidney necrosis virus]
+gi|48843721|ref|YP_025101.1|vFam_1372| early iridovirus protein [Lymphocystis disease virus - isolate China]
+gi|13358451|ref|NP_078713.1|vFam_1372| early iridovirus protein [Lymphocystis disease virus 1]
+gi|56692643|ref|YP_164101.1|vFam_1372| hypothetical protein ORF006R [Singapore grouper iridovirus]
+gi|49237322|ref|YP_031603.1|vFam_1372| p31K protein [Frog virus 3]

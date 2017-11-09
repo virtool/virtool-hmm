@@ -1,0 +1,14 @@
+CLUSTER	356
+NUM_SEQ	6
+LENGTH	222
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	115.44
+FAMILIES	{'None': 1, 'Phycodnaviridae': 2, 'Poxviridae': 2}
+GENERA	{'None': 1, 'Crocodylidpoxvirus': 1, 'Prymnesiovirus': 1, 'Molluscipoxvirus': 1, 'Phaeovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|119756990|ref|YP_919032.1|vFam_356| hypothetical protein BJ1_gp05 [Archaeal BJ1 virus]
+gi|115531694|ref|YP_784220.1|vFam_356| J-domain protein [Nile crocodilepox virus]
+gi|9628945|ref|NP_043964.1|vFam_356| MC013L [Molluscum contagiosum virus subtype 1]
+gi|13242552|ref|NP_077565.1|vFam_356| EsV-1-80 [Ectocarpus siliculosus virus 1]
+gi|508181834|ref|YP_008052353.1|vFam_356| DnaJ superfamily [Phaeocystis globosa virus]
+gi|310831159|ref|YP_003969802.1|vFam_356| putative DnaJ/Hsp40 [Cafeteria roenbergensis virus BV-PW1]

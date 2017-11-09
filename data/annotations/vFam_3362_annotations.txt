@@ -1,0 +1,12 @@
+CLUSTER	3362
+NUM_SEQ	4
+LENGTH	124
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	65.72
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'Avipoxvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|40556249|ref|NP_955334.1|vFam_3362| CNPV311 EFc-like protein [Canarypox virus]
+gi|9634917|ref|NP_039210.1|vFam_3362| EFc gene family protein [Fowlpox virus]
+gi|40556259|ref|NP_955344.1|vFam_3362| CNPV321 EFc-like protein [Canarypox virus]
+gi|9634930|ref|NP_038968.1|vFam_3362| EFc gene family protein [Fowlpox virus]

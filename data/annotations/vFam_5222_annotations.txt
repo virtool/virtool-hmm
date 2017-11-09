@@ -1,0 +1,10 @@
+CLUSTER	5222
+NUM_SEQ	2
+LENGTH	223
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	115.96
+FAMILIES	{'Arteriviridae': 2}
+GENERA	{'Arterivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|25121662|ref|NP_740604.1|vFam_5222| nsp11 [Porcine reproductive and respiratory syndrome virus]
+gi|23683330|ref|NP_705592.1|vFam_5222| nsp11 [Equine arteritis virus]

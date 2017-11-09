@@ -1,0 +1,10 @@
+CLUSTER	5885
+NUM_SEQ	2
+LENGTH	170
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	86.7
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441432163|ref|YP_007354205.1|vFam_5885| hypothetical protein Moumou_00225 [Acanthamoeba polyphaga moumouvirus]
+gi|363539775|ref|YP_004894349.1|vFam_5885| mg298 gene product [Megavirus chiliensis]

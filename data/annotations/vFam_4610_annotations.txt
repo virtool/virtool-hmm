@@ -1,0 +1,10 @@
+CLUSTER	4610
+NUM_SEQ	2
+LENGTH	304
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	158.08
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|363540817|ref|YP_004894566.1|vFam_4610| mg515 gene product [Megavirus chiliensis]
+gi|311977764|ref|YP_003986884.1|vFam_4610| hypothetical protein [Acanthamoeba polyphaga mimivirus]

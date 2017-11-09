@@ -1,0 +1,11 @@
+CLUSTER	3076
+NUM_SEQ	3
+LENGTH	228
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	114.0
+FAMILIES	{'Adenoviridae': 3}
+GENERA	{'Mastadenovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|318065966|ref|YP_004123733.1|vFam_3076| E1A [Murine adenovirus 2]
+gi|56160674|ref|AP_000337.1|vFam_3076| E1A [Murine adenovirus A]
+gi|6446581|ref|NP_015532.1|vFam_3076| E1A protein [Murine adenovirus A]

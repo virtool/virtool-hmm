@@ -1,0 +1,26 @@
+CLUSTER	307
+NUM_SEQ	18
+LENGTH	175
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	87.5
+FAMILIES	{'Baculoviridae': 16}
+GENERA	{'Alphabaculovirus': 16}
+FASTA SEQUENCE TITLES:
+gi|209978818|ref|YP_002300561.1|vFam_307| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|74229723|ref|YP_308927.1|vFam_307| orf37 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304176|ref|YP_249644.1|vFam_307| ORF-40 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|113195431|ref|YP_717567.1|vFam_307| ac52-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|165969052|ref|YP_001650952.1|vFam_307| hypothetical protein [Orgyia leucostigma NPV]
+gi|402502134|ref|YP_006607792.1|vFam_307| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|292397724|ref|YP_003517790.1|vFam_307| ORF50 [Lymantria xylina MNPV]
+gi|228861631|ref|YP_002854651.1|vFam_307| hypothetical protein EupsNPV_gp041 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|9634330|ref|NP_037869.1|vFam_307| ORF109 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|22549538|ref|NP_689311.1|vFam_307| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20070017|ref|NP_613221.1|vFam_307| hypothetical protein McnAVgp138 [Mamestra configurata nucleopolyhedrovirus A]
+gi|215401508|ref|YP_002332812.1|vFam_307| hypothetical protein SlnV2_gp114 [Spodoptera litura nucleopolyhedrovirus II]
+gi|125860232|ref|YP_001036402.1|vFam_307| hypothetical protein SFMNPV_gp110 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|209171010|ref|YP_002268157.1|vFam_307| agip127 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592835|ref|YP_529788.1|vFam_307| ORF-118 [Agrotis segetum nucleopolyhedrovirus]
+gi|15617515|ref|NP_258312.1|vFam_307| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|114679906|ref|YP_758356.1|vFam_307| ORF59 [Leucania separata nucleopolyhedrovirus]
+gi|209401096|ref|YP_002273965.1|vFam_307| hypothetical protein HaSNPVNNg1_gp042 [Helicoverpa armigera NPV NNg1]

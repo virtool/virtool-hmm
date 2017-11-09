@@ -1,0 +1,24 @@
+CLUSTER	49
+NUM_SEQ	16
+LENGTH	1847
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	960.44
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'Orthopoxvirus': 4, 'Crocodylidpoxvirus': 2, 'Yatapoxvirus': 2, 'None': 1, 'Avipoxvirus': 7}
+FASTA SEQUENCE TITLES:
+gi|115531705|ref|YP_784231.1|vFam_49| B22R-like protein [Nile crocodilepox virus]
+gi|115531704|ref|YP_784230.1|vFam_49| B22R-like protein [Nile crocodilepox virus]
+gi|157939759|ref|YP_001497131.1|vFam_49| VARV B22R-like protein [Tanapox virus]
+gi|38229295|ref|NP_938388.1|vFam_49| 135R [Yaba monkey tumor virus]
+gi|377830103|ref|YP_005296351.1|vFam_49| unnamed protein product [Cotia virus SPAn232]
+gi|345107192|ref|YP_004821357.1|vFam_49| surface glycoprotein [Yoka poxvirus]
+gi|17975095|ref|NP_536609.1|vFam_49| B21R [Monkeypox virus Zaire-96-I-16]
+gi|18640441|ref|NP_570597.1|vFam_49| B22R-like protein [Camelpox virus]
+gi|9627715|ref|NP_042238.1|vFam_49| hypothetical protein VARVgp194 [Variola virus]
+gi|40556072|ref|NP_955157.1|vFam_49| CNPV134 variola B22R-like protein [Canarypox virus]
+gi|9634777|ref|NP_039070.1|vFam_49| variola B22R gene family protein [Fowlpox virus]
+gi|9634792|ref|NP_039085.1|vFam_49| variola B22R gene family protein [Fowlpox virus]
+gi|40556093|ref|NP_955178.1|vFam_49| CNPV155 variola B22R-like protein [Canarypox virus]
+gi|9634793|ref|NP_039086.1|vFam_49| variola B22R gene family protein [Fowlpox virus]
+gi|40556063|ref|NP_955148.1|vFam_49| CNPV125 variola B22R-like protein [Canarypox virus]
+gi|9634768|ref|NP_039061.1|vFam_49| variola B22R gene family protein [Fowlpox virus]

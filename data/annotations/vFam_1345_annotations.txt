@@ -1,0 +1,15 @@
+CLUSTER	1345
+NUM_SEQ	7
+LENGTH	754
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	392.08
+FAMILIES	{'Alloherpesviridae': 7}
+GENERA	{'Ictalurivirus': 1, 'Cyprinivirus': 4, 'Batrachovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|282174047|ref|YP_003358149.1|vFam_1345| DNA packaging terminase subunit 1 [Anguillid herpesvirus 1]
+gi|422933578|ref|YP_007003702.1|vFam_1345| DNA packaging terminase subunit 1 [Cyprinid herpesvirus 1]
+gi|422933811|ref|YP_007003857.1|vFam_1345| DNA packaging terminase subunit 1 [Cyprinid herpesvirus 2]
+gi|380708451|ref|YP_001096069.2|vFam_1345| unnamed protein product [Cyprinid herpesvirus 3]
+gi|95116637|ref|NP_041153.2|vFam_1345| ORF62 [Ictalurid herpesvirus 1]
+gi|109638534|ref|YP_656697.1|vFam_1345| ORF42 [Ranid herpesvirus 1]
+gi|109638704|ref|YP_656576.1|vFam_1345| ORF68 [Ranid herpesvirus 2]

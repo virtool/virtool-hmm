@@ -1,0 +1,18 @@
+CLUSTER	798
+NUM_SEQ	10
+LENGTH	265
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	140.45
+FAMILIES	{'None': 1, 'Phycodnaviridae': 9}
+GENERA	{'Chlorovirus': 3, 'None': 2, 'Prymnesiovirus': 1, 'Phaeovirus': 2, 'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|310831208|ref|YP_003969851.1|vFam_798| putative proliferating cell nuclear antigen [Cafeteria roenbergensis virus BV-PW1]
+gi|197322429|ref|YP_002154702.1|vFam_798| putative PCNA [Feldmannia species virus]
+gi|13242603|ref|NP_077617.1|vFam_798| EsV-1-132 [Ectocarpus siliculosus virus 1]
+gi|508181892|ref|YP_008052411.1|vFam_798| putative proliferating cell nuclear antigen [Phaeocystis globosa virus]
+gi|313768094|ref|YP_004061525.1|vFam_798| hypothetical protein BpV1_095 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|260665976|ref|YP_003212930.1|vFam_798| hypothetical protein H665_p107 [Ostreococcus tauri virus 1]
+gi|313768310|ref|YP_004061990.1|vFam_798| hypothetical protein MpV1_107 [Micromonas sp. RCC1109 virus MpV1]
+gi|157953431|ref|YP_001498322.1|vFam_798| hypothetical protein AR158_C241L [Paramecium bursaria Chlorella virus AR158]
+gi|155371735|ref|YP_001427269.1|vFam_798| hypothetical protein ATCV1_Z788R [Acanthocystis turfacea Chlorella virus 1]
+gi|155370117|ref|YP_001425651.1|vFam_798| hypothetical protein FR483_N019R [Paramecium bursaria Chlorella virus FR483]

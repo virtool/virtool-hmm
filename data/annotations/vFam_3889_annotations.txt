@@ -1,0 +1,11 @@
+CLUSTER	3889
+NUM_SEQ	3
+LENGTH	179
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	93.08
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|41057547|ref|NP_958020.1|vFam_3889| ORF111 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183877|ref|YP_003457418.1|vFam_3889| hypothetical protein PCPV_gp115 [Pseudocowpox virus]
+gi|41057174|ref|NP_957888.1|vFam_3889| ORF111 hypothetical protein [Orf virus]

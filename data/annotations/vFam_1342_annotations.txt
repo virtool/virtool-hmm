@@ -1,0 +1,16 @@
+CLUSTER	1342
+NUM_SEQ	8
+LENGTH	211
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	103.39
+FAMILIES	{'Coronaviridae': 1}
+GENERA	{'Betacoronavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|126030135|ref|YP_001039972.1|vFam_1342| hypothetical protein BatCoVHKU9_gp3 [Bat coronavirus HKU9]
+gi|157929321|ref|YP_001496973.1|vFam_1342| hypothetical protein AFV2_gp48 [Acidianus filamentous virus 2]
+gi|171473698|ref|YP_001798568.1|vFam_1342| hypothetical protein AFV9_gp50 [Acidianus filamentous virus 9]
+gi|162329530|ref|YP_001604329.1|vFam_1342| hypothetical protein AFV8_gp48 [Acidianus filamentous virus 8]
+gi|162329340|ref|YP_001604394.1|vFam_1342| hypothetical protein AFV3_gp52 [Acidianus filamentous virus 3]
+gi|157929305|ref|YP_001496957.1|vFam_1342| hypothetical protein AFV2_gp32 [Acidianus filamentous virus 2]
+gi|162329463|ref|YP_001604263.1|vFam_1342| hypothetical protein AFV7_gp39 [Acidianus filamentous virus 7]
+gi|16753131|ref|NP_445709.1|vFam_1342| hypothetical protein SIFV0046 [Sulfolobus islandicus filamentous virus]

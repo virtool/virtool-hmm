@@ -1,0 +1,10 @@
+CLUSTER	5723
+NUM_SEQ	2
+LENGTH	198
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	102.96
+FAMILIES	{'Retroviridae': 2}
+GENERA	{'Alpharetrovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40796162|ref|NP_955615.1|vFam_5723| gp37 TM [Rous sarcoma virus]
+gi|20183194|ref|NP_597837.2|vFam_5723| putative env protein gp37 [UR2 sarcoma virus]

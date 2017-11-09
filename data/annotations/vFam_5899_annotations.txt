@@ -1,0 +1,10 @@
+CLUSTER	5899
+NUM_SEQ	2
+LENGTH	316
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	161.16
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52139326|ref|YP_081601.1|vFam_5899| membrane protein US16 [Human herpesvirus 5]
+gi|20026747|ref|NP_612789.1|vFam_5899| membrane protein US16 [Panine herpesvirus 2]

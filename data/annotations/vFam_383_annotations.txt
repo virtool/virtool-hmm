@@ -1,0 +1,20 @@
+CLUSTER	383
+NUM_SEQ	12
+LENGTH	1306
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	692.18
+FAMILIES	{'Reoviridae': 11}
+GENERA	{'Orbivirus': 11}
+FASTA SEQUENCE TITLES:
+gi|50253406|ref|YP_052942.1|vFam_383| putative RNA-dependent RNA polymerase VP1 [St Croix River virus]
+gi|50253376|ref|YP_052966.1|vFam_383| RNA-dependent RNA polymerase [African horse sickness virus]
+gi|50261333|ref|YP_052935.1|vFam_383| RNA-dependent RNA polymerase VP1 [Palyam virus]
+gi|556333810|ref|YP_008719926.1|vFam_383| RNA polymarase [Changuinola virus]
+gi|550455532|ref|YP_008658416.1|vFam_383| RNA-dependent RNA polymerase [Wallal virus]
+gi|261181254|ref|YP_003240108.1|vFam_383| VP1 protein [Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey)]
+gi|50253392|ref|YP_052968.1|vFam_383| hypothetical protein BTVs1gp1 [Bluetongue virus]
+gi|312164873|ref|YP_003896058.1|vFam_383| RNA-dependent RNA polymerase [Great Island virus]
+gi|238801930|ref|YP_002925132.1|vFam_383| VP1 [Stretch Lagoon orbivirus]
+gi|83721672|ref|YP_443925.1|vFam_383| VP1 [Yunnan orbivirus]
+gi|555928272|ref|YP_008719912.1|vFam_383| VP1 [Mobuck virus]
+gi|85719272|ref|YP_460038.1|vFam_383| VP1 [Peruvian horse sickness virus]

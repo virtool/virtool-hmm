@@ -1,0 +1,11 @@
+CLUSTER	2211
+NUM_SEQ	3
+LENGTH	542
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	281.84
+FAMILIES	{'None': 2, 'Mimiviridae': 1}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|310831141|ref|YP_003969784.1|vFam_2211| putative DNA topoisomerase IB [Cafeteria roenbergensis virus BV-PW1]
+gi|448825862|ref|YP_007418793.1|vFam_2211| DNA topoisomerase 1b [Megavirus lba]
+gi|441432691|ref|YP_007354733.1|vFam_2211| DNA topoisomerase 1b [Acanthamoeba polyphaga moumouvirus]

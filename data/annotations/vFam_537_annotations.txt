@@ -1,0 +1,24 @@
+CLUSTER	537
+NUM_SEQ	16
+LENGTH	22
+RELATIVE_ENTROPY_PER_POSITION	2.23
+TOTAL_RELATIVE_ENTROPY	49.06
+FAMILIES	{'None': 1, 'Picornaviridae': 14}
+GENERA	{'None': 5, 'Sapelovirus': 3, 'Enterovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|56692990|ref|YP_164829.1|vFam_537| 3B [Avian sapelovirus]
+gi|358356457|ref|YP_004934028.1|vFam_537| unnamed protein product [Feline picornavirus]
+gi|24231951|ref|NP_714937.1|vFam_537| putative 3B [Enterovirus H]
+gi|27262073|ref|NP_758538.1|vFam_537| 3B (VPg) [Enterovirus G]
+gi|25121847|ref|NP_740475.1|vFam_537| genome linked protein VPg [Enterovirus C]
+gi|282598703|ref|YP_003359174.1|vFam_537| 3B (VPg) [Enterovirus J]
+gi|25121826|ref|NP_740545.1|vFam_537| 3B(VPg) [Enterovirus B]
+gi|25121931|ref|NP_740745.1|vFam_537| VPg 3B [Enterovirus D]
+gi|38018440|ref|NP_937977.1|vFam_537| 3B [Simian sapelovirus 1]
+gi|25121804|ref|NP_740487.1|vFam_537| 3B protein [Porcine sapelovirus 1]
+gi|25121815|ref|NP_740534.1|vFam_537| 3B [Enterovirus A]
+gi|345461104|ref|YP_004782539.1|vFam_537| 3B [Bat picornavirus 3]
+gi|160700591|ref|YP_001552440.1|vFam_537| 3B [Rhinovirus C]
+gi|380034928|ref|YP_005352653.1|vFam_537| 3B [Canine picornavirus]
+gi|345461288|ref|YP_004782567.1|vFam_537| 3B [Bat picornavirus 2]
+gi|345461272|ref|YP_004782553.1|vFam_537| 3B [Bat picornavirus 1]

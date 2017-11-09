@@ -1,0 +1,30 @@
+CLUSTER	244
+NUM_SEQ	22
+LENGTH	293
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	152.36
+FAMILIES	{'None': 1, 'Picornaviridae': 19}
+GENERA	{'Teschovirus': 1, 'None': 6, 'Sapelovirus': 3, 'Enterovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|25121775|ref|NP_740352.1|vFam_244| VP1 protein [Porcine teschovirus]
+gi|25121854|ref|NP_740518.1|vFam_244| 1D (VP1) [Human rhinovirus B14]
+gi|25121821|ref|NP_740540.1|vFam_244| 1D(VP1) [Enterovirus B]
+gi|25121843|ref|NP_740471.1|vFam_244| coat protein VP1 [Enterovirus C]
+gi|160700586|ref|YP_001552435.1|vFam_244| VP1 [Rhinovirus C]
+gi|25121644|ref|NP_740394.1|vFam_244| VP1 polypeptide [Rhinovirus A]
+gi|25121924|ref|NP_740741.1|vFam_244| capsid protein 1D version 2 [Enterovirus D]
+gi|24231946|ref|NP_714932.1|vFam_244| putative VP1 [Enterovirus H]
+gi|25121810|ref|NP_740529.1|vFam_244| VP1 (1D) [Enterovirus A]
+gi|282598698|ref|YP_003359169.1|vFam_244| 1D (VP1) [Enterovirus J]
+gi|169798142|ref|YP_001718579.1|vFam_244| 1D (VP1) [Enterovirus J]
+gi|27262068|ref|NP_758533.1|vFam_244| 1D (VP1) [Enterovirus G]
+gi|25121585|ref|NP_740448.1|vFam_244| VP1 [Enterovirus E]
+gi|334847627|ref|YP_004564612.1|vFam_244| VP1 [Pigeon picornavirus B]
+gi|345461099|ref|YP_004782534.1|vFam_244| VP1 [Bat picornavirus 3]
+gi|358356452|ref|YP_004934023.1|vFam_244| unnamed protein product [Feline picornavirus]
+gi|380034923|ref|YP_005352648.1|vFam_244| VP1 [Canine picornavirus]
+gi|345461281|ref|YP_004782560.1|vFam_244| VP1 [Bat picornavirus 2]
+gi|345461265|ref|YP_004782546.1|vFam_244| VP1 [Bat picornavirus 1]
+gi|56692985|ref|YP_164824.1|vFam_244| VP1 [Avian sapelovirus]
+gi|38018435|ref|NP_937972.1|vFam_244| VP1 [Simian sapelovirus 1]
+gi|25121800|ref|NP_740483.1|vFam_244| capsid protein 1D [Porcine sapelovirus 1]

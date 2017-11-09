@@ -1,0 +1,14 @@
+CLUSTER	1907
+NUM_SEQ	6
+LENGTH	144
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	76.32
+FAMILIES	{'Marseillevirus family': 6}
+GENERA	{'None': 6}
+FASTA SEQUENCE TITLES:
+gi|327409685|ref|YP_004347105.1|vFam_1907| hypothetical protein LAU_0142 [Lausannevirus]
+gi|327409982|ref|YP_004347402.1|vFam_1907| hypothetical protein LAU_0440 [Lausannevirus]
+gi|284504174|ref|YP_003406889.1|vFam_1907| F-box containing protein [Marseillevirus]
+gi|327409684|ref|YP_004347104.1|vFam_1907| hypothetical protein LAU_0141 [Lausannevirus]
+gi|327409709|ref|YP_004347129.1|vFam_1907| hypothetical protein LAU_0166 [Lausannevirus]
+gi|284504179|ref|YP_003406894.1|vFam_1907| F-box containing protein [Marseillevirus]

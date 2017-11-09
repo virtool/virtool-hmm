@@ -1,0 +1,10 @@
+CLUSTER	4462
+NUM_SEQ	2
+LENGTH	302
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	154.02
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|41057556|ref|NP_958029.1|vFam_4462| ORF121 hypothetical protein [Bovine papular stomatitis virus]
+gi|41057184|ref|NP_957898.1|vFam_4462| ORF121 hypothetical protein [Orf virus]

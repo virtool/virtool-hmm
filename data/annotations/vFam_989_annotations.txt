@@ -1,0 +1,12 @@
+CLUSTER	989
+NUM_SEQ	4
+LENGTH	367
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	187.17
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|20026604|ref|NP_612646.1|vFam_989| membrane protein RL12 [Panine herpesvirus 2]
+gi|20026605|ref|NP_612647.1|vFam_989| membrane protein RL13 [Panine herpesvirus 2]
+gi|356640501|ref|YP_004933943.1|vFam_989| membrane protein UL153 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556628|ref|YP_068262.1|vFam_989| rh173 [Macacine herpesvirus 3]

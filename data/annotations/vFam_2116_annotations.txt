@@ -1,0 +1,10 @@
+CLUSTER	2116
+NUM_SEQ	2
+LENGTH	164
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	83.64
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825358|ref|YP_007418289.1|vFam_2116| putative pyrophosphohydrolase [Megavirus lba]
+gi|441432262|ref|YP_007354304.1|vFam_2116| Nucleoside Triphosphate Pyrophosphohydrolase [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,11 @@
+CLUSTER	3544
+NUM_SEQ	3
+LENGTH	376
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	195.52
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 1, 'Roseolovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|538447208|ref|YP_008492948.1|vFam_3544| tegument protein [Porcine cytomegalovirus]
+gi|9633078|ref|NP_050185.1|vFam_3544| transactivator [Human herpesvirus 6B]
+gi|51874229|ref|YP_073747.1|vFam_3544| tegument protein UL24 [Human herpesvirus 7]

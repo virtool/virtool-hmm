@@ -1,0 +1,20 @@
+CLUSTER	565
+NUM_SEQ	12
+LENGTH	728
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	385.84
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Macavirus': 2, 'None': 1, 'Lymphocryptovirus': 2, 'Rhadinovirus': 6, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|83642859|ref|YP_438146.1|vFam_565| ORF22 [Ovine herpesvirus 2]
+gi|10140944|ref|NP_065521.1|vFam_565| glycoprotein H [Alcelaphine herpesvirus 1]
+gi|82503256|ref|YP_401700.1|vFam_565| glycoprotein gp85 precursor [Human herpesvirus 4]
+gi|51518069|ref|YP_067997.1|vFam_565| BXLF2 [Macacine herpesvirus 4]
+gi|321496573|ref|YP_004207858.1|vFam_565| glycoprotein H [Rodent herpesvirus Peru]
+gi|9629567|ref|NP_044860.1|vFam_565| envelope glycoprotein H [Murid herpesvirus 4]
+gi|9628024|ref|NP_042618.1|vFam_565| glycoprotein H [Equid herpesvirus 2]
+gi|13095599|ref|NP_076514.1|vFam_565| glycoprotein H [Bovine herpesvirus 4]
+gi|9631212|ref|NP_047993.1|vFam_565| glycoprotein H [Ateline herpesvirus 3]
+gi|9625978|ref|NP_040224.1|vFam_565| glycoprotein H [Saimiriine herpesvirus 2]
+gi|139472821|ref|YP_001129375.1|vFam_565| ORF22 [Human herpesvirus 8]
+gi|18653828|ref|NP_570762.1|vFam_565| glycoprotein H [Macacine herpesvirus 5]

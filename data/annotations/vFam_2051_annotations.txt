@@ -1,0 +1,12 @@
+CLUSTER	2051
+NUM_SEQ	4
+LENGTH	161
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	80.5
+FAMILIES	{'Iridoviridae': 4}
+GENERA	{'Lymphocystivirus': 2, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|51870099|ref|YP_073652.1|vFam_2051| hypothetical protein LDVICp146 [Lymphocystis disease virus - isolate China]
+gi|13358477|ref|NP_078685.1|vFam_2051| hypothetical protein LCDV1gp048 [Lymphocystis disease virus 1]
+gi|388260150|ref|YP_006347678.1|vFam_2051| hypothetical protein [European catfish virus]
+gi|56692797|ref|YP_164255.1|vFam_2051| hypothetical protein ORF160L [Singapore grouper iridovirus]

@@ -1,0 +1,10 @@
+CLUSTER	5369
+NUM_SEQ	2
+LENGTH	192
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	97.92
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531034977|ref|YP_008436602.1|vFam_5369| hypothetical protein ps_186 [Pandoravirus salinus]
+gi|526118823|ref|YP_008318726.1|vFam_5369| hypothetical protein [Pandoravirus dulcis]

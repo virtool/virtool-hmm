@@ -1,0 +1,10 @@
+CLUSTER	5143
+NUM_SEQ	2
+LENGTH	496
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	252.96
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409563|ref|YP_004346983.1|vFam_5143| DNA-directed RNA polymerase subunit alpha [Lausannevirus]
+gi|284504088|ref|YP_003406803.1|vFam_5143| DNA-directed RNA polymerase subunit alpha [Marseillevirus]

@@ -1,0 +1,10 @@
+CLUSTER	6141
+NUM_SEQ	2
+LENGTH	334
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	173.68
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825865|ref|YP_007418796.1|vFam_6141| endotype 6-aminohexanoat-oligomer hydrolase [Megavirus lba]
+gi|441432696|ref|YP_007354738.1|vFam_6141| endotype 6-aminohexanoat-oligomer hydrolase [Acanthamoeba polyphaga moumouvirus]

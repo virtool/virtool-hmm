@@ -1,0 +1,24 @@
+CLUSTER	435
+NUM_SEQ	16
+LENGTH	657
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	341.64
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 1, 'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|41057515|ref|NP_957988.1|vFam_435| ORF079 virion core protein P4b precursor [Bovine papular stomatitis virus]
+gi|289183844|ref|YP_003457385.1|vFam_435| virion core protein P4b precursor [Pseudocowpox virus]
+gi|41057142|ref|NP_957856.1|vFam_435| ORF079 virion core protein P4b precursor [Orf virus]
+gi|115531788|ref|YP_784314.1|vFam_435| virion core protein P4b [Nile crocodilepox virus]
+gi|40556178|ref|NP_955263.1|vFam_435| CNPV240 virion core protein P4b [Canarypox virus]
+gi|9634837|ref|NP_039130.1|vFam_435| Virion core protein P4b [Fowlpox virus]
+gi|113195301|ref|YP_717431.1|vFam_435| p4b precursor of core protein 4b [Taterapox virus]
+gi|345107292|ref|YP_004821457.1|vFam_435| p4b precursor of essential virion protein 4b [Yoka poxvirus]
+gi|9633903|ref|NP_051981.1|vFam_435| gp092L [Rabbit fibroma virus]
+gi|377830000|ref|YP_005296299.1|vFam_435| unnamed protein product [Cotia virus SPAn232]
+gi|15150533|ref|NP_150528.1|vFam_435| LSDV094 putative virion core protein [Lumpy skin disease virus NI-2490]
+gi|157939717|ref|YP_001497089.1|vFam_435| 4b core protein [Tanapox virus]
+gi|18640177|ref|NP_570251.1|vFam_435| SPV091 putative virion core protein P4b [Swinepox virus]
+gi|211956374|ref|YP_002302443.1|vFam_435| virion core protein P4b [Deerpox virus W-1170-84]
+gi|571798017|ref|YP_008658516.1|vFam_435| precursor of core protein 4b [Squirrelpox virus]
+gi|9629038|ref|NP_044057.1|vFam_435| MC106L [Molluscum contagiosum virus subtype 1]

@@ -1,0 +1,10 @@
+CLUSTER	5698
+NUM_SEQ	2
+LENGTH	310
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	161.2
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40556215|ref|NP_955300.1|vFam_5698| CNPV277 G protein-coupled receptor-like protein [Canarypox virus]
+gi|9634876|ref|NP_039169.1|vFam_5698| G protein-coupled receptor gene family protein [Fowlpox virus]

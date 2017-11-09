@@ -1,0 +1,12 @@
+CLUSTER	2256
+NUM_SEQ	4
+LENGTH	88
+RELATIVE_ENTROPY_PER_POSITION	0.58
+TOTAL_RELATIVE_ENTROPY	51.04
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 1, 'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|410493580|ref|YP_006908518.1|vFam_2256| hypothetical protein [Epinotia aporema granulovirus]
+gi|15320685|ref|NP_203197.1|vFam_2256| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|571031315|ref|YP_008992212.1|vFam_2256| hypothetical protein chmu120 [Choristoneura murinana alphabaculovirus]
+gi|529153435|ref|YP_008378475.1|vFam_2256| hypothetical protein [Choristoneura rosaceana alphabaculovirus]

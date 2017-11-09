@@ -1,0 +1,10 @@
+CLUSTER	5431
+NUM_SEQ	2
+LENGTH	281
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	140.5
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Iltovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|57791006|ref|YP_182398.1|vFam_5431| virion protein US10 [Gallid herpesvirus 1]
+gi|38638259|ref|NP_944442.1|vFam_5431| virion protein US10 [Psittacid herpesvirus 1]

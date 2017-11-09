@@ -1,0 +1,11 @@
+CLUSTER	3786
+NUM_SEQ	3
+LENGTH	497
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	258.44
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 1, 'Prasinovirus': 1, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852587|ref|YP_293871.1|vFam_3786| putative phosphate permease [Emiliania huxleyi virus 86]
+gi|314055317|ref|YP_004063655.1|vFam_3786| high affinity phosphate transporter [Ostreococcus tauri virus 2]
+gi|313768202|ref|YP_004061633.1|vFam_3786| hypothetical protein BpV1_203c [Bathycoccus sp. RCC1105 virus BpV1]

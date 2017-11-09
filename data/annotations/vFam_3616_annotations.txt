@@ -1,0 +1,11 @@
+CLUSTER	3616
+NUM_SEQ	3
+LENGTH	270
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	140.4
+FAMILIES	{'Rhabdoviridae': 3}
+GENERA	{'Nucleorhabdovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|212671439|ref|YP_002308455.1|vFam_3616| phosphoprotein [Maize Iranian mosaic virus]
+gi|50234108|ref|YP_052851.1|vFam_3616| P [Maize mosaic virus]
+gi|62327481|ref|YP_224079.1|vFam_3616| P [Taro vein chlorosis virus]

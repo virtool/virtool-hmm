@@ -1,0 +1,10 @@
+CLUSTER	6389
+NUM_SEQ	2
+LENGTH	122
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	62.22
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409654|ref|YP_004347074.1|vFam_6389| conserved putative secreted protein [Lausannevirus]
+gi|284504457|ref|YP_003407172.1|vFam_6389| hypothetical protein MAR_ORF448 [Marseillevirus]

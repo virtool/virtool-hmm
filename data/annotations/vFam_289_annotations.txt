@@ -1,0 +1,23 @@
+CLUSTER	289
+NUM_SEQ	15
+LENGTH	445
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	226.95
+FAMILIES	{'Marseillevirus family': 2, 'None': 1, 'Phycodnaviridae': 7, 'Iridoviridae': 4}
+GENERA	{'None': 3, 'Prasinovirus': 2, 'Phaeovirus': 1, 'Chlorovirus': 4, 'Iridovirus': 2, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|388260135|ref|YP_006347663.1|vFam_289| helicase [European catfish virus]
+gi|56692789|ref|YP_164247.1|vFam_289| helicase [Singapore grouper iridovirus]
+gi|310831306|ref|YP_003969949.1|vFam_289| putative VV A18-like helicase [Cafeteria roenbergensis virus BV-PW1]
+gi|13242538|ref|NP_077551.1|vFam_289| EsV-1-66 [Ectocarpus siliculosus virus 1]
+gi|313844037|ref|YP_004061700.1|vFam_289| hypothetical protein OlV1_067 [Ostreococcus lucimarinus virus OlV1]
+gi|313768267|ref|YP_004061947.1|vFam_289| hypothetical protein MpV1_064 [Micromonas sp. RCC1109 virus MpV1]
+gi|157952507|ref|YP_001497399.1|vFam_289| hypothetical protein NY2A_B203R [Paramecium bursaria Chlorella virus NY2A]
+gi|9631722|ref|NP_048501.1|vFam_289| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|155371590|ref|YP_001427124.1|vFam_289| hypothetical protein ATCV1_Z643L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370304|ref|YP_001425838.1|vFam_289| hypothetical protein FR483_N206R [Paramecium bursaria Chlorella virus FR483]
+gi|327409823|ref|YP_004347243.1|vFam_289| putative superfamily II helicase [Lausannevirus]
+gi|284504291|ref|YP_003407006.1|vFam_289| superfamily II helicase [Marseillevirus]
+gi|15078874|ref|NP_149624.1|vFam_289| 161L [Invertebrate iridescent virus 6]
+gi|527333538|ref|YP_008357322.1|vFam_289| Putative helicase [Invertebrate iridovirus 22]
+gi|339906133|ref|YP_004732930.1|vFam_289| hypothetical protein WIV_gp147 [Wiseana iridescent virus]

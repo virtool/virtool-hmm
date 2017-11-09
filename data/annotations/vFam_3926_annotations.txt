@@ -1,0 +1,10 @@
+CLUSTER	3926
+NUM_SEQ	2
+LENGTH	167
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	86.84
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|521967831|ref|YP_008169854.1|vFam_3926| ORF-V2 [Cuban alphasatellite 1]
+gi|302425256|ref|YP_003828903.1|vFam_3926| alpha-V2 [Melon chlorotic mosaic virus-associated alphasatellite]

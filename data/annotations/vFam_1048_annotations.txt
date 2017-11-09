@@ -1,0 +1,15 @@
+CLUSTER	1048
+NUM_SEQ	7
+LENGTH	330
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	165.0
+FAMILIES	{'Polydnaviridae': 7}
+GENERA	{'Bracovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|57659521|ref|YP_184860.1|vFam_1048| hypothetical protein CcBV_23.2 [Cotesia congregata bracovirus]
+gi|57753429|ref|YP_184768.1|vFam_1048| hypothetical protein CcBV_2.1 [Cotesia congregata bracovirus]
+gi|57659616|ref|YP_184878.1|vFam_1048| hypothetical protein CcBV_30.4 [Cotesia congregata bracovirus]
+gi|57753376|ref|YP_184850.1|vFam_1048| hypothetical protein CcBV_19.1 [Cotesia congregata bracovirus]
+gi|57753373|ref|YP_184847.1|vFam_1048| hypothetical protein CcBV_19.3 [Cotesia congregata bracovirus]
+gi|57753430|ref|YP_184769.1|vFam_1048| hypothetical protein CcBV_2.2 [Cotesia congregata bracovirus]
+gi|57659770|ref|YP_184909.1|vFam_1048| hypothetical protein CcBV_36.3 [Cotesia congregata bracovirus]

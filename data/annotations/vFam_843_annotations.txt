@@ -1,0 +1,18 @@
+CLUSTER	843
+NUM_SEQ	10
+LENGTH	524
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	277.72
+FAMILIES	{'Rhabdoviridae': 10}
+GENERA	{'Lyssavirus': 10}
+FASTA SEQUENCE TITLES:
+gi|406608988|ref|YP_006742183.1|vFam_843| glycoprotein [Ikoma lyssavirus]
+gi|471237003|ref|YP_007641390.1|vFam_843| glycoprotein [Lagos bat virus]
+gi|55793421|ref|YP_142353.1|vFam_843| transmembrane glycoprotein G [Mokola virus]
+gi|9627201|ref|NP_056796.1|vFam_843| transmembrane glycoprotein G [Rabies virus]
+gi|17158072|ref|NP_478342.1|vFam_843| glycoprotein [Australian bat lyssavirus]
+gi|471237021|ref|YP_007641405.1|vFam_843| glycoprotein [Duvenhage virus]
+gi|471237015|ref|YP_007641400.1|vFam_843| glycoprotein [Irkut virus]
+gi|148724429|ref|YP_001285391.1|vFam_843| glycoprotein [European bat lyssavirus 1]
+gi|471237009|ref|YP_007641395.1|vFam_843| glycoprotein [Aravan virus]
+gi|148724435|ref|YP_001285396.1|vFam_843| glycoprotein [European bat lyssavirus 2]

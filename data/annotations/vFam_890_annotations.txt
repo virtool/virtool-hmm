@@ -1,0 +1,15 @@
+CLUSTER	890
+NUM_SEQ	7
+LENGTH	188
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	94.0
+FAMILIES	{'Phycodnaviridae': 2, 'Ascoviridae': 5}
+GENERA	{'Ascovirus': 5, 'Coccolithovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|73852556|ref|YP_293840.1|vFam_890| hypothetical protein EhV086 [Emiliania huxleyi virus 86]
+gi|73852631|ref|YP_293915.1|vFam_890| hypothetical protein EhV162 [Emiliania huxleyi virus 86]
+gi|134287307|ref|YP_001111003.1|vFam_890| hypothetical protein HVAV3e_gp150 [Heliothis virescens ascovirus 3e]
+gi|116326836|ref|YP_803373.1|vFam_890| hypothetical protein TNAV2c_gp151 [Trichoplusia ni ascovirus 2c]
+gi|134287243|ref|YP_001110939.1|vFam_890| ABC-type transport system permease [Heliothis virescens ascovirus 3e]
+gi|134287306|ref|YP_001111002.1|vFam_890| hypothetical protein HVAV3e_gp149 [Heliothis virescens ascovirus 3e]
+gi|115298621|ref|YP_762474.1|vFam_890| 19.3 kDa [Spodoptera frugiperda ascovirus 1a]

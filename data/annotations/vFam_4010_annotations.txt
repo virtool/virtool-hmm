@@ -1,0 +1,11 @@
+CLUSTER	4010
+NUM_SEQ	3
+LENGTH	132
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	68.64
+FAMILIES	{'Coronaviridae': 3}
+GENERA	{'Betacoronavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|11192312|ref|NP_068671.1|vFam_4010| putative 17.8 KDa [Murine hepatitis virus strain A59]
+gi|253750536|ref|YP_003029849.1|vFam_4010| 15 kD non-structural protein [Rat coronavirus Parker]
+gi|60115396|ref|YP_209234.1|vFam_4010| accessory protein 4 [Murine hepatitis virus strain JHM]

@@ -1,0 +1,26 @@
+CLUSTER	412
+NUM_SEQ	18
+LENGTH	128
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	69.12
+FAMILIES	{'Baculoviridae': 15}
+GENERA	{'Alphabaculovirus': 15}
+FASTA SEQUENCE TITLES:
+gi|114679934|ref|YP_758384.1|vFam_412| ORF87 [Leucania separata nucleopolyhedrovirus]
+gi|209978831|ref|YP_002300574.1|vFam_412| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|402502158|ref|YP_006607816.1|vFam_412| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|113195469|ref|YP_717606.1|vFam_412| ac75-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|15617540|ref|NP_258340.1|vFam_412| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|209401125|ref|YP_002273994.1|vFam_412| hypothetical protein HaSNPVNNg1_gp071 [Helicoverpa armigera NPV NNg1]
+gi|228861657|ref|YP_002854677.1|vFam_412| hypothetical protein EupsNPV_gp067 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|118197540|ref|YP_874252.1|vFam_412| hypothetical protein EONV_gp059 [Ectropis obliqua nucleopolyhedrovirus]
+gi|529218121|ref|YP_008378284.1|vFam_412| ac75 [Hemileuca sp. nucleopolyhedrovirus]
+gi|165969078|ref|YP_001650978.1|vFam_412| hypothetical protein [Orgyia leucostigma NPV]
+gi|292397754|ref|YP_003517820.1|vFam_412| ORF80 [Lymantria xylina MNPV]
+gi|9631051|ref|NP_047721.1|vFam_412| LdOrf-84 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|74229739|ref|YP_308943.1|vFam_412| orf53 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|125860215|ref|YP_001036385.1|vFam_412| hypothetical protein SFMNPV_gp093 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|22549516|ref|NP_689289.1|vFam_412| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|9634315|ref|NP_037854.1|vFam_412| ORF94 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|215401491|ref|YP_002332795.1|vFam_412| hypothetical protein SlnV2_gp097 [Spodoptera litura nucleopolyhedrovirus II]
+gi|209170990|ref|YP_002268137.1|vFam_412| agip107 [Agrotis ipsilon multiple nucleopolyhedrovirus]

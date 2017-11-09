@@ -1,0 +1,14 @@
+CLUSTER	278
+NUM_SEQ	6
+LENGTH	830
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	423.3
+FAMILIES	{'Astroviridae': 6}
+GENERA	{'None': 4, 'Mamastrovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|345462125|ref|YP_004782205.1|vFam_278| ORF1a [Mouse astrovirus M-52/USA/2008]
+gi|209902361|ref|YP_002290966.1|vFam_278| ORF1a [Astrovirus MLB1]
+gi|410493723|ref|YP_006905852.1|vFam_278| ORF1a [Astrovirus MLB3]
+gi|380035084|ref|YP_004934008.1|vFam_278| unnamed protein product [Astrovirus MLB2]
+gi|422933788|ref|YP_007003831.1|vFam_278| ORF1a [Porcine astrovirus 3]
+gi|9635573|ref|NP_059944.1|vFam_278| nonstructural protein, putative serine protase [Mamastrovirus 13]

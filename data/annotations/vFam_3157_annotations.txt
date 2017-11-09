@@ -1,0 +1,11 @@
+CLUSTER	3157
+NUM_SEQ	3
+LENGTH	253
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	131.56
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|360086626|ref|YP_004940308.1|vFam_3157| membrane protein S24 [Saimiriine herpesvirus 3]
+gi|360086625|ref|YP_004940307.1|vFam_3157| membrane protein S23 [Saimiriine herpesvirus 3]
+gi|360086624|ref|YP_004940306.1|vFam_3157| membrane protein S22 [Saimiriine herpesvirus 3]

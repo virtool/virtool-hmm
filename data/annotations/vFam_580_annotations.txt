@@ -1,0 +1,16 @@
+CLUSTER	580
+NUM_SEQ	8
+LENGTH	119
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	64.26
+FAMILIES	{'Herpesviridae': 8}
+GENERA	{'Muromegalovirus': 2, 'Cytomegalovirus': 4, 'Proboscivirus': 1, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|538447244|ref|YP_008492984.1|vFam_580| glycoprotein N [Porcine cytomegalovirus]
+gi|496991186|ref|YP_007969800.1|vFam_580| envelope glycoprotein N [Elephantid herpesvirus 1]
+gi|360040954|ref|YP_004940089.1|vFam_580| envelope glycoprotein N [Aotine herpesvirus 1]
+gi|359946505|ref|YP_004936038.1|vFam_580| envelope glycoprotein N [Cercopithecine herpesvirus 5]
+gi|51556561|ref|YP_068195.1|vFam_580| rh102 [Macacine herpesvirus 3]
+gi|14251061|ref|NP_116423.1|vFam_580| T73 [Tupaiid herpesvirus 1]
+gi|425707274|ref|YP_007016471.1|vFam_580| E73 [Murid herpesvirus 8]
+gi|9845359|ref|NP_064173.1|vFam_580| pR73 [Murid herpesvirus 2]

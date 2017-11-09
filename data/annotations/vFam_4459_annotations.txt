@@ -1,0 +1,11 @@
+CLUSTER	4459
+NUM_SEQ	3
+LENGTH	212
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	110.24
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Macavirus': 2, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9628007|ref|NP_042601.1|vFam_4459| ORF E4 [Equid herpesvirus 2]
+gi|83642845|ref|YP_438132.1|vFam_4459| Ov4.5 protein [Ovine herpesvirus 2]
+gi|19343407|ref|NP_597933.1|vFam_4459| Putative BALF1 homolog [Alcelaphine herpesvirus 1]

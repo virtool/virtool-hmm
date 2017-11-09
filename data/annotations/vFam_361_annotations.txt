@@ -1,0 +1,23 @@
+CLUSTER	361
+NUM_SEQ	15
+LENGTH	473
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	250.69
+FAMILIES	{'Herpesviridae': 15}
+GENERA	{'Varicellovirus': 5, 'Iltovirus': 1, 'Mardivirus': 4, 'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|38638228|ref|NP_944411.1|vFam_361| capsid triplex subunit 1 [Psittacid herpesvirus 1]
+gi|13242412|ref|NP_077435.1|vFam_361| capsid triplex subunit 1 [Cercopithecine herpesvirus 9]
+gi|9625895|ref|NP_040143.1|vFam_361| capsid triplex subunit 1 [Human herpesvirus 3]
+gi|12084867|ref|NP_073332.1|vFam_361| capsid triplex subunit 1 [Meleagrid herpesvirus 1]
+gi|125745090|ref|YP_001033967.1|vFam_361| capsid triplex subunit 1 [Gallid herpesvirus 2]
+gi|10834909|ref|NP_066870.1|vFam_361| capsid triplex subunit 1 [Gallid herpesvirus 3]
+gi|296316022|ref|YP_003662486.1|vFam_361| capsid triplex subunit 1 [Bovine herpesvirus 5]
+gi|312162816|ref|YP_003933801.1|vFam_361| capsid triplex subunit 1 [Saimiriine herpesvirus 1]
+gi|56694761|ref|YP_164481.1|vFam_361| capsid triplex subunit 1 [Cercopithecine herpesvirus 2]
+gi|30984466|ref|NP_851898.1|vFam_361| capsid triplex subunit 1 [Macacine herpesvirus 1]
+gi|9629419|ref|NP_044640.1|vFam_361| capsid triplex subunit 1 [Human herpesvirus 1]
+gi|9629308|ref|NP_044508.1|vFam_361| capsid triplex subunit 1 [Human herpesvirus 2]
+gi|255683175|ref|YP_003084383.1|vFam_361| UL38 [Anatid herpesvirus 1]
+gi|216905875|ref|YP_002333503.1|vFam_361| capsid triplex subunit 1 [Equid herpesvirus 9]
+gi|270339461|ref|YP_003331541.1|vFam_361| capsid triplex subunit 1 [Felid herpesvirus 1]

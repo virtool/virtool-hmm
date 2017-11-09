@@ -1,0 +1,11 @@
+CLUSTER	817
+NUM_SEQ	3
+LENGTH	1471
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	750.21
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Ictalurivirus': 1, 'Batrachovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|95116636|ref|NP_041148.2|vFam_817| ORF57 [Ictalurid herpesvirus 1]
+gi|109638611|ref|YP_656618.1|vFam_817| ORF110 [Ranid herpesvirus 2]
+gi|109638464|ref|YP_656727.1|vFam_817| ORF72 [Ranid herpesvirus 1]

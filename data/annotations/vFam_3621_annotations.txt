@@ -1,0 +1,12 @@
+CLUSTER	3621
+NUM_SEQ	4
+LENGTH	256
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	133.12
+FAMILIES	{'Flaviviridae': 3}
+GENERA	{'Hepacivirus': 2, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|157781224|ref|YP_001491555.1|vFam_3621| NS4b [Hepatitis C virus genotype 3]
+gi|26053628|ref|NP_751926.1|vFam_3621| NS4B protein [Hepatitis C virus]
+gi|26251701|ref|NP_757359.1|vFam_3621| putative NS4B protein [Hepatitis GB virus B]
+gi|485191040|ref|YP_007905991.1|vFam_3621| NS4B protein [Rodent hepacivirus]

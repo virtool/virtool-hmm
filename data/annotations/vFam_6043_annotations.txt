@@ -1,0 +1,10 @@
+CLUSTER	6043
+NUM_SEQ	2
+LENGTH	93
+RELATIVE_ENTROPY_PER_POSITION	0.55
+TOTAL_RELATIVE_ENTROPY	51.15
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|260665921|ref|YP_003212875.1|vFam_6043| hypothetical protein H665_p051 [Ostreococcus tauri virus 1]
+gi|163955029|ref|YP_001648133.1|vFam_6043| hypothetical protein OsV5_056r [Ostreococcus virus OsV5]

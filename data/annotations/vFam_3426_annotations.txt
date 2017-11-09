@@ -1,0 +1,12 @@
+CLUSTER	3426
+NUM_SEQ	4
+LENGTH	165
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	85.8
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Siadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|9635818|ref|NP_062454.1|vFam_3426| ORF8 [Frog adenovirus 1]
+gi|56160838|ref|AP_000497.1|vFam_3426| ORF8 [Turkey adenovirus A]
+gi|363540935|ref|YP_004935950.1|vFam_3426| unnamed protein product [Skua adenovirus A]
+gi|331271198|ref|YP_004414819.1|vFam_3426| hypothetical protein RAdV-1_gp23 [Raptor adenovirus A]

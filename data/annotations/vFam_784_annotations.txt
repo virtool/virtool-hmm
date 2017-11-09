@@ -1,0 +1,15 @@
+CLUSTER	784
+NUM_SEQ	7
+LENGTH	288
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	149.76
+FAMILIES	{'Herpesviridae': 7}
+GENERA	{'None': 1, 'Cytomegalovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|14251005|ref|NP_116367.1|vFam_784| T23 [Tupaiid herpesvirus 1]
+gi|52139209|ref|YP_081482.1|vFam_784| tegument protein UL23 [Human herpesvirus 5]
+gi|20026625|ref|NP_612667.1|vFam_784| tegument protein UL23 [Panine herpesvirus 2]
+gi|360086511|ref|YP_004940195.1|vFam_784| tegument protein UL23 [Saimiriine herpesvirus 3]
+gi|360040915|ref|YP_004940049.1|vFam_784| tegument protein UL23 [Aotine herpesvirus 1]
+gi|359946468|ref|YP_004936000.1|vFam_784| tegument protein UL23 [Cercopithecine herpesvirus 5]
+gi|356640326|ref|YP_004933768.1|vFam_784| tegument protein UL23 [Cynomolgus macaque cytomegalovirus strain Ottawa]

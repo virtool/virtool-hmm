@@ -1,0 +1,10 @@
+CLUSTER	5357
+NUM_SEQ	2
+LENGTH	105
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	53.55
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52139208|ref|YP_081481.1|vFam_5357| glycoprotein UL22A [Human herpesvirus 5]
+gi|20026624|ref|NP_612666.1|vFam_5357| glycoprotein UL22A [Panine herpesvirus 2]

@@ -1,0 +1,13 @@
+CLUSTER	1679
+NUM_SEQ	5
+LENGTH	80
+RELATIVE_ENTROPY_PER_POSITION	0.64
+TOTAL_RELATIVE_ENTROPY	51.2
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Cytomegalovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|360086518|ref|YP_004940202.1|vFam_1679| protein UL30A [Saimiriine herpesvirus 3]
+gi|360040922|ref|YP_004940056.1|vFam_1679| protein UL30A [Aotine herpesvirus 1]
+gi|522834983|ref|YP_007969872.1|vFam_1679| protein UL30A [Cercopithecine herpesvirus 5]
+gi|493086016|ref|YP_007947989.1|vFam_1679| protein UL30A [Human herpesvirus 5]
+gi|499074414|ref|YP_007969871.1|vFam_1679| protein UL30A [Panine herpesvirus 2]

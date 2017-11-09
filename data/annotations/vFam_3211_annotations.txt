@@ -1,0 +1,11 @@
+CLUSTER	3211
+NUM_SEQ	3
+LENGTH	97
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	48.5
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036623|ref|YP_008438260.1|vFam_3211| hypothetical protein ps_1854 [Pandoravirus salinus]
+gi|526119684|ref|YP_008319587.1|vFam_3211| hypothetical protein [Pandoravirus dulcis]
+gi|526119507|ref|YP_008319410.1|vFam_3211| hypothetical protein [Pandoravirus dulcis]

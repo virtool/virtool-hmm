@@ -1,0 +1,11 @@
+CLUSTER	4583
+NUM_SEQ	3
+LENGTH	171
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	87.21
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Iridovirus': 1, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|109287970|ref|YP_654664.1|vFam_4583| hypothetical protein MIV092R [Invertebrate iridescent virus 3]
+gi|527333546|ref|YP_008357330.1|vFam_4583| RNA polymerase II subunit Rpb5b [Invertebrate iridovirus 22]
+gi|339906142|ref|YP_004732939.1|vFam_4583| hypothetical protein WIV_gp156 [Wiseana iridescent virus]

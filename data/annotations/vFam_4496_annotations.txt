@@ -1,0 +1,11 @@
+CLUSTER	4496
+NUM_SEQ	3
+LENGTH	225
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	117.0
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'Prasinovirus': 1, 'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313768255|ref|YP_004061935.1|vFam_4496| hypothetical protein MpV1_052c [Micromonas sp. RCC1109 virus MpV1]
+gi|157953254|ref|YP_001498145.1|vFam_4496| hypothetical protein AR158_C063L [Paramecium bursaria Chlorella virus AR158]
+gi|155371024|ref|YP_001426558.1|vFam_4496| hypothetical protein ATCV1_Z077L [Acanthocystis turfacea Chlorella virus 1]

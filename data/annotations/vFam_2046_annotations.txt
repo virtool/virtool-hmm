@@ -1,0 +1,13 @@
+CLUSTER	2046
+NUM_SEQ	5
+LENGTH	197
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	102.44
+FAMILIES	{'None': 2, 'Phycodnaviridae': 1, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Prymnesiovirus': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182059|ref|YP_008052578.1|vFam_2046| metal-dependent hydrolase [Phaeocystis globosa virus]
+gi|310831280|ref|YP_003969923.1|vFam_2046| putative metal-dependent hydrolase [Cafeteria roenbergensis virus BV-PW1]
+gi|311977708|ref|YP_003986828.1|vFam_2046| uncharacterized metallopeptidase WLM domain protein [Acanthamoeba polyphaga mimivirus]
+gi|448825554|ref|YP_007418485.1|vFam_2046| putative metallopeptidase WLM domain protein [Megavirus lba]
+gi|441432430|ref|YP_007354472.1|vFam_2046| putative metallopeptidase WLM [Acanthamoeba polyphaga moumouvirus]

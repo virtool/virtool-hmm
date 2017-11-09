@@ -1,0 +1,10 @@
+CLUSTER	4670
+NUM_SEQ	2
+LENGTH	325
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	165.75
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|197322396|ref|YP_002154669.1|vFam_4670| putative lipase [Feldmannia species virus]
+gi|13242527|ref|NP_077540.1|vFam_4670| EsV-1-55 [Ectocarpus siliculosus virus 1]

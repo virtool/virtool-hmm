@@ -1,0 +1,11 @@
+CLUSTER	877
+NUM_SEQ	3
+LENGTH	633
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	322.83
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|526119794|ref|YP_008319697.1|vFam_877| ankyrin repeat [Pandoravirus dulcis]
+gi|526119812|ref|YP_008319715.1|vFam_877| hypothetical protein [Pandoravirus dulcis]
+gi|531035964|ref|YP_008437599.1|vFam_877| hypothetical protein ps_1187 [Pandoravirus salinus]

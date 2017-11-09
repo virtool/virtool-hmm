@@ -1,0 +1,15 @@
+CLUSTER	461
+NUM_SEQ	7
+LENGTH	372
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	193.44
+FAMILIES	{'Filoviridae': 7}
+GENERA	{'None': 2, 'Ebolavirus': 5}
+FASTA SEQUENCE TITLES:
+gi|355469076|ref|YP_004928139.1|vFam_461| GP2 [Lloviu virus]
+gi|355469075|ref|YP_004928138.1|vFam_461| GP1 [Lloviu virus]
+gi|10313994|ref|NP_066247.1|vFam_461| GP gene product [Ebola virus - Mayinga, Zaire, 1976]
+gi|302371217|ref|YP_003815436.1|vFam_461| soluble secreted glycoprotein [Bundibugyo ebolavirus]
+gi|302315374|ref|YP_003815427.1|vFam_461| soluble secreted glycoprotein [Tai Forest ebolavirus]
+gi|22789226|ref|NP_690584.1|vFam_461| small/secreted non-structural glycoprotein [Reston ebolavirus]
+gi|55770811|ref|YP_138524.1|vFam_461| nonstructural, soluble, secreted glycoprotein [Sudan ebolavirus]

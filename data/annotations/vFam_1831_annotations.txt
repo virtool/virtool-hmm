@@ -1,0 +1,11 @@
+CLUSTER	1831
+NUM_SEQ	3
+LENGTH	117
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	59.67
+FAMILIES	{'None': 3}
+GENERA	{'Sobemovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|567222787|ref|YP_008873689.2|vFam_1831| Px [Soybean yellow common mosaic virus]
+gi|567222779|ref|YP_008873690.2|vFam_1831| Px [Sesbania mosaic virus]
+gi|567222777|ref|YP_008873126.2|vFam_1831| Px [Southern cowpea mosaic virus]

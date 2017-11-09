@@ -1,0 +1,17 @@
+CLUSTER	1103
+NUM_SEQ	9
+LENGTH	246
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	127.92
+FAMILIES	{'Adenoviridae': 7}
+GENERA	{'Aviadenovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|388570696|ref|YP_006383570.1|vFam_1103| capsid protein precursor pVIII [Goose adenovirus 4]
+gi|327409493|ref|YP_004346937.1|vFam_1103| capsid protein precursor pVIII [Fowl adenovirus C]
+gi|308222758|ref|YP_003933595.1|vFam_1103| unnamed protein product [Turkey adenovirus 1]
+gi|555928235|ref|YP_008719866.1|vFam_1103| pVIII [Turkey adenovirus 5]
+gi|56160756|ref|AP_000424.1|vFam_1103| pVIII [Fowl adenovirus A]
+gi|501000366|ref|YP_007985660.1|vFam_1103| pVIII [Fowl adenovirus 5]
+gi|555928202|ref|YP_008719834.1|vFam_1103| pVIII [Turkey adenovirus 4]
+gi|320202759|ref|YP_004191826.1|vFam_1103| protein VIII [Fowl adenovirus E]
+gi|56160724|ref|AP_000388.1|vFam_1103| pVIII [Fowl adenovirus D]

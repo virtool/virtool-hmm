@@ -1,0 +1,11 @@
+CLUSTER	3905
+NUM_SEQ	3
+LENGTH	139
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	72.28
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|171473700|ref|YP_001798570.1|vFam_3905| hypothetical protein AFV9_gp52 [Acidianus filamentous virus 9]
+gi|162329536|ref|YP_001604335.1|vFam_3905| putative phosphatase [Acidianus filamentous virus 8]
+gi|162329476|ref|YP_001604276.1|vFam_3905| putative phosphatase [Acidianus filamentous virus 7]

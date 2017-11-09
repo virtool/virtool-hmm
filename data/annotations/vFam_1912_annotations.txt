@@ -1,0 +1,13 @@
+CLUSTER	1912
+NUM_SEQ	5
+LENGTH	120
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	62.4
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Betabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|32698553|ref|NP_872468.1|vFam_1912| ORF_14 [Adoxophyes orana granulovirus]
+gi|556549051|ref|YP_008719965.1|vFam_1912| hypothetical protein CaLGV017 [Clostera anastomosis granulovirus]
+gi|334265696|ref|YP_004376225.1|vFam_1912| hypothetical protein ClanGV_gp017 [Clostera anachoreta granulovirus]
+gi|288804657|ref|YP_003429342.1|vFam_1912| PrGVORF18 [Pieris rapae granulovirus]
+gi|11068006|ref|NP_068222.1|vFam_1912| PxORF3 peptide [Plutella xylostella granulovirus]

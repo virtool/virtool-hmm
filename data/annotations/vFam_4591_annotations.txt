@@ -1,0 +1,11 @@
+CLUSTER	4591
+NUM_SEQ	3
+LENGTH	236
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	122.72
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977804|ref|YP_003986924.1|vFam_4591| robin [Acanthamoeba polyphaga mimivirus]
+gi|448825431|ref|YP_007418362.1|vFam_4591| robin [Megavirus lba]
+gi|441432327|ref|YP_007354369.1|vFam_4591| hypothetical protein Moumou_00397 [Acanthamoeba polyphaga moumouvirus]

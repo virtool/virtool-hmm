@@ -1,0 +1,12 @@
+CLUSTER	3802
+NUM_SEQ	4
+LENGTH	51
+RELATIVE_ENTROPY_PER_POSITION	1.04
+TOTAL_RELATIVE_ENTROPY	53.04
+FAMILIES	{'Potyviridae': 4}
+GENERA	{'Tritimovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|25013905|ref|NP_734256.1|vFam_3802| 6K1 protein [Brome streak mosaic virus]
+gi|157265288|ref|YP_001468091.1|vFam_3802| 6k1 [Wheat eqlid mosaic virus]
+gi|38304204|ref|NP_940825.1|vFam_3802| 6K1 protein [Oat necrotic mottle virus]
+gi|25013802|ref|NP_734268.1|vFam_3802| 6K1 protei [Wheat streak mosaic virus]

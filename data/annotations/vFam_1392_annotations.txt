@@ -1,0 +1,11 @@
+CLUSTER	1392
+NUM_SEQ	3
+LENGTH	211
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	111.83
+FAMILIES	{'Hytrosaviridae': 2, 'Nimaviridae': 1}
+GENERA	{'Whispovirus': 1, 'Glossinavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|168804163|ref|YP_001687095.1|vFam_1392| hypothetical protein SGHV147 [Glossina pallidipes salivary gland hypertrophy virus]
+gi|168804161|ref|YP_001687093.1|vFam_1392| trophozoite antigen-like protein [Glossina pallidipes salivary gland hypertrophy virus]
+gi|17158283|ref|NP_477701.1|vFam_1392| wsv179 [Shrimp white spot syndrome virus]

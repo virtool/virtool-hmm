@@ -1,0 +1,12 @@
+CLUSTER	3335
+NUM_SEQ	4
+LENGTH	234
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	117.0
+FAMILIES	{'Circoviridae': 3}
+GENERA	{'Circovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|476006923|ref|YP_007697653.1|vFam_3335| putative capsid protein [Canine circovirus]
+gi|498907919|ref|YP_007974238.1|vFam_3335| capsid protein [Bat circovirus]
+gi|289163352|ref|YP_003422531.1|vFam_3335| capsid protein [Porcine circovirus type 1/2a]
+gi|12280943|ref|NP_065679.1|vFam_3335| capsid protein [Porcine circovirus 1]

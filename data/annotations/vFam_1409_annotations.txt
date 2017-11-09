@@ -1,0 +1,14 @@
+CLUSTER	1409
+NUM_SEQ	6
+LENGTH	224
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	114.24
+FAMILIES	{'Reoviridae': 3, 'Poxviridae': 3}
+GENERA	{'Rotavirus': 3, 'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|41057497|ref|NP_957970.1|vFam_1409| ORF061 late transcription factor VLTF-4 [Bovine papular stomatitis virus]
+gi|289183825|ref|YP_003457366.1|vFam_1409| late transcription factor VLTF4 [Pseudocowpox virus]
+gi|41057124|ref|NP_957838.1|vFam_1409| ORF061 late transcription factor VLTF-4 [Orf virus]
+gi|78767974|ref|YP_392499.1|vFam_1409| NSP4 [Adult diarrheal rotavirus strain J19]
+gi|517501570|ref|YP_008136238.1|vFam_1409| NSP4 [Rotavirus G chicken/03V0567/DEU/2003]
+gi|514360969|ref|YP_008126854.1|vFam_1409| nonstructural protein [Human rotavirus B]

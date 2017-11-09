@@ -1,0 +1,11 @@
+CLUSTER	3280
+NUM_SEQ	3
+LENGTH	461
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	239.72
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977925|ref|YP_003987045.1|vFam_3280| cytochrome 450-like protein [Acanthamoeba polyphaga mimivirus]
+gi|448825637|ref|YP_007418568.1|vFam_3280| cytochrome 450-like protein [Megavirus lba]
+gi|441432491|ref|YP_007354533.1|vFam_3280| cytochrome P450 family protein [Acanthamoeba polyphaga moumouvirus]

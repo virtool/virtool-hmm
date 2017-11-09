@@ -1,0 +1,11 @@
+CLUSTER	3248
+NUM_SEQ	3
+LENGTH	88
+RELATIVE_ENTROPY_PER_POSITION	0.57
+TOTAL_RELATIVE_ENTROPY	50.16
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Roseolovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|51874245|ref|YP_073763.1|vFam_3248| protein U24 [Human herpesvirus 7]
+gi|9633094|ref|NP_050204.1|vFam_3248| hypothetical protein HhV6Bgp027 [Human herpesvirus 6B]
+gi|9628326|ref|NP_042917.1|vFam_3248| protein U24 [Human herpesvirus 6A]

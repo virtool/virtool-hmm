@@ -1,0 +1,15 @@
+CLUSTER	1444
+NUM_SEQ	7
+LENGTH	153
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	81.09
+FAMILIES	{'Nanoviridae': 5}
+GENERA	{'Nanovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|20530239|ref|NP_620701.1|vFam_1444| non-structural protein [Subterranean clover stunt virus]
+gi|570033515|ref|YP_008992024.1|vFam_1444| U1 protein [Pea necrotic yellow dwarf virus]
+gi|571797915|ref|YP_008997804.1|vFam_1444| U1 protein [Black medic leafroll virus]
+gi|571797909|ref|YP_008997801.1|vFam_1444| U1 protein [Pea yellow stunt virus]
+gi|255961489|ref|YP_003104742.1|vFam_1444| U1 protein [Faba bean necrotic stunt virus]
+gi|20177466|ref|NP_619763.1|vFam_1444| viral non-structural protein [Milk vetch dwarf virus]
+gi|20143456|ref|NP_619568.1|vFam_1444| hypothetical protein [Faba bean necrotic yellows virus]

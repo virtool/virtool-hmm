@@ -1,0 +1,19 @@
+CLUSTER	670
+NUM_SEQ	11
+LENGTH	266
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	135.66
+FAMILIES	{'Baculoviridae': 10}
+GENERA	{'Alphabaculovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|114680009|ref|YP_758459.1|vFam_670| arif-1 [Leucania separata nucleopolyhedrovirus]
+gi|15617602|ref|NP_258402.1|vFam_670| arif-1 [Spodoptera litura nucleopolyhedrovirus]
+gi|209401193|ref|YP_002274062.1|vFam_670| actin rearrangement inducing factor 1 [Helicoverpa armigera NPV NNg1]
+gi|9631085|ref|NP_047755.1|vFam_670| LdOrf-118 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|74229825|ref|YP_309029.1|vFam_670| actin rearrangement infectivity factor 1 (arif-1) [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304283|ref|YP_249751.1|vFam_670| ARIF-1 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549444|ref|NP_689217.1|vFam_670| arif1 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|90592752|ref|YP_529705.1|vFam_670| ARIF-1 [Agrotis segetum nucleopolyhedrovirus]
+gi|209170925|ref|YP_002268071.1|vFam_670| actin rearrangement inducing factor-1 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|125860155|ref|YP_001036325.1|vFam_670| actin rearrangement-inducing factor 1 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|9634255|ref|NP_037794.1|vFam_670| ORF34 arif1 [Spodoptera exigua multiple nucleopolyhedrovirus]

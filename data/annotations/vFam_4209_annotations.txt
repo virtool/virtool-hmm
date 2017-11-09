@@ -1,0 +1,10 @@
+CLUSTER	4209
+NUM_SEQ	2
+LENGTH	196
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	98.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035412|ref|YP_008437041.1|vFam_4209| hypothetical protein ps_627 [Pandoravirus salinus]
+gi|526119047|ref|YP_008318950.1|vFam_4209| hypothetical protein [Pandoravirus dulcis]

@@ -1,0 +1,13 @@
+CLUSTER	250
+NUM_SEQ	5
+LENGTH	491
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	250.41
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Iridovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|15078872|ref|NP_149622.1|vFam_250| 159L [Invertebrate iridescent virus 6]
+gi|527333610|ref|YP_008357394.1|vFam_250| hypothetical protein IIV22_096L [Invertebrate iridovirus 22]
+gi|339906025|ref|YP_004732822.1|vFam_250| hypothetical protein WIV_gp039 [Wiseana iridescent virus]
+gi|527333609|ref|YP_008357393.1|vFam_250| hypothetical protein IIV22_095L [Invertebrate iridovirus 22]
+gi|339906024|ref|YP_004732821.1|vFam_250| hypothetical protein WIV_gp038 [Wiseana iridescent virus]

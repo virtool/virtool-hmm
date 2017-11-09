@@ -1,0 +1,18 @@
+CLUSTER	863
+NUM_SEQ	10
+LENGTH	126
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	66.78
+FAMILIES	{'Herpesviridae': 10}
+GENERA	{'None': 2, 'Cytomegalovirus': 6, 'Muromegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|360086573|ref|YP_004940258.1|vFam_863| tegument protein UL14 [Saimiriine herpesvirus 3]
+gi|360040977|ref|YP_004940112.1|vFam_863| tegument protein UL14 [Aotine herpesvirus 1]
+gi|359946529|ref|YP_004936062.1|vFam_863| tegument protein UL14 [Cercopithecine herpesvirus 5]
+gi|356640430|ref|YP_004933872.1|vFam_863| tegument protein UL96 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139268|ref|YP_081543.1|vFam_863| tegument protein UL14 [Human herpesvirus 5]
+gi|20026686|ref|NP_612728.1|vFam_863| tegument protein UL14 [Panine herpesvirus 2]
+gi|425707296|ref|YP_007016493.1|vFam_863| E96 [Murid herpesvirus 8]
+gi|61660206|ref|YP_214097.1|vFam_863| hypothetical protein MuHV1_gp089 [Murid herpesvirus 1]
+gi|448824930|ref|YP_007417862.1|vFam_863| GP96 [Caviid herpesvirus 2]
+gi|14251082|ref|NP_116444.1|vFam_863| T96 [Tupaiid herpesvirus 1]

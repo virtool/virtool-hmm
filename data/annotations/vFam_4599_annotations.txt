@@ -1,0 +1,10 @@
+CLUSTER	4599
+NUM_SEQ	2
+LENGTH	262
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	133.62
+FAMILIES	{'Baculoviridae': 1, 'Poxviridae': 1}
+GENERA	{'Deltabaculovirus': 1, 'Molluscipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15320880|ref|NP_203390.1|vFam_4599| CUN086 hypothetical protein ATP_GTP_A motif [Culex nigripalpus nucleopolyhedrovirus]
+gi|9628954|ref|NP_043973.1|vFam_4599| MC022L [Molluscum contagiosum virus subtype 1]

@@ -1,0 +1,10 @@
+CLUSTER	5767
+NUM_SEQ	2
+LENGTH	604
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	314.08
+FAMILIES	{'Paramyxoviridae': 2}
+GENERA	{'Henipavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|29468607|ref|NP_047112.2|vFam_5767| glycoprotein [Hendra virus]
+gi|13559814|ref|NP_112027.1|vFam_5767| attachment glycoprotein [Nipah virus]

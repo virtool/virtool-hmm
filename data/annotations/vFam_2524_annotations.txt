@@ -1,0 +1,11 @@
+CLUSTER	2524
+NUM_SEQ	3
+LENGTH	287
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	146.37
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|41057548|ref|NP_958021.1|vFam_2524| ORF112 putative chemokine-binding protein [Bovine papular stomatitis virus]
+gi|41057175|ref|NP_957889.1|vFam_2524| ORF112 putative chemokine-binding protein [Orf virus]
+gi|289183878|ref|YP_003457419.1|vFam_2524| chemokine-binding protein [Pseudocowpox virus]

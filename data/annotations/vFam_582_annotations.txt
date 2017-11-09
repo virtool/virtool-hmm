@@ -1,0 +1,19 @@
+CLUSTER	582
+NUM_SEQ	11
+LENGTH	123
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	62.73
+FAMILIES	{'Baculoviridae': 9}
+GENERA	{'Alphabaculovirus': 9}
+FASTA SEQUENCE TITLES:
+gi|114679998|ref|YP_758448.1|vFam_582| ORF151 [Leucania separata nucleopolyhedrovirus]
+gi|15617598|ref|NP_258398.1|vFam_582| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|113195524|ref|YP_717662.1|vFam_582| Ld124-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|125860142|ref|YP_001036311.1|vFam_582| hypothetical protein SFMNPV_gp019 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|20069913|ref|NP_613117.1|vFam_582| hypothetical protein McnAVgp034 [Mamestra configurata nucleopolyhedrovirus A]
+gi|292397807|ref|YP_003517873.1|vFam_582| ORF133 [Lymantria xylina MNPV]
+gi|9631091|ref|NP_047761.1|vFam_582| LdOrf-124 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|118197603|ref|YP_874316.1|vFam_582| hypothetical protein EONV_gp123 [Ectropis obliqua nucleopolyhedrovirus]
+gi|228861719|ref|YP_002854739.1|vFam_582| hypothetical protein EupsNPV_gp129 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|402502116|ref|YP_006607774.1|vFam_582| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|165969141|ref|YP_001651041.1|vFam_582| hypothetical protein [Orgyia leucostigma NPV]

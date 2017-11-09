@@ -1,0 +1,11 @@
+CLUSTER	4950
+NUM_SEQ	3
+LENGTH	206
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	103.0
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Orthopoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|345107334|ref|YP_004821499.1|vFam_4950| type-I membrane glycoprotein [Yoka poxvirus]
+gi|22164748|ref|NP_671661.1|vFam_4950| EVM142 [Ectromelia virus]
+gi|17975066|ref|NP_536580.1|vFam_4950| A43R [Monkeypox virus Zaire-96-I-16]

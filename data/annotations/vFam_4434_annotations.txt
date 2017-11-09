@@ -1,0 +1,11 @@
+CLUSTER	4434
+NUM_SEQ	3
+LENGTH	230
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	117.3
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|526119284|ref|YP_008319187.1|vFam_4434| putative membrane protein [Pandoravirus dulcis]
+gi|327409617|ref|YP_004347037.1|vFam_4434| conserved putative membrane protein [Lausannevirus]
+gi|284504156|ref|YP_003406871.1|vFam_4434| hypothetical protein MAR_ORF126 [Marseillevirus]

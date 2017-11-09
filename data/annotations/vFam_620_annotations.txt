@@ -1,0 +1,19 @@
+CLUSTER	620
+NUM_SEQ	11
+LENGTH	369
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	191.88
+FAMILIES	{'Herpesviridae': 11}
+GENERA	{'None': 1, 'Roseolovirus': 2, 'Proboscivirus': 1, 'Cytomegalovirus': 4, 'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|496991169|ref|YP_007969780.1|vFam_620| protein UL95 [Elephantid herpesvirus 1]
+gi|9633136|ref|NP_050246.1|vFam_620| hypothetical protein HhV6Bgp071 [Human herpesvirus 6B]
+gi|51874289|ref|YP_073807.1|vFam_620| protein UL95 [Human herpesvirus 7]
+gi|538447264|ref|YP_008493004.1|vFam_620| component of prereplication complexes [Porcine cytomegalovirus]
+gi|360086567|ref|YP_004940257.1|vFam_620| protein UL95 [Saimiriine herpesvirus 3]
+gi|359946528|ref|YP_004936061.1|vFam_620| protein UL95 [Cercopithecine herpesvirus 5]
+gi|356640429|ref|YP_004933871.1|vFam_620| protein UL95 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|448824929|ref|YP_007417861.1|vFam_620| GP95 [Caviid herpesvirus 2]
+gi|9845381|ref|NP_064195.1|vFam_620| pR95 [Murid herpesvirus 2]
+gi|425707295|ref|YP_007016492.1|vFam_620| E95 [Murid herpesvirus 8]
+gi|61660205|ref|YP_214096.1|vFam_620| hypothetical protein MuHV1_gp088 [Murid herpesvirus 1]

@@ -1,0 +1,15 @@
+CLUSTER	469
+NUM_SEQ	7
+LENGTH	224
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	116.48
+FAMILIES	{'Paramyxoviridae': 7}
+GENERA	{'Rubulavirus': 7}
+FASTA SEQUENCE TITLES:
+gi|529217040|ref|YP_008378661.1|vFam_469| non-structural protein V [Human parainfluenza virus 4a]
+gi|148283130|ref|YP_001249273.1|vFam_469| W protein [Mapuera virus]
+gi|148283124|ref|YP_001249272.1|vFam_469| V protein [Mapuera virus]
+gi|9695418|ref|NP_054709.1|vFam_469| V protein [Mumps virus]
+gi|55775699|ref|YP_138513.1|vFam_469| V protein [Parainfluenza virus 5]
+gi|55770822|ref|YP_138506.1|vFam_469| V protein [Simian virus 41]
+gi|19525723|ref|NP_598402.1|vFam_469| phospho-protein [Human parainfluenza virus 2]

@@ -1,0 +1,11 @@
+CLUSTER	4054
+NUM_SEQ	3
+LENGTH	218
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	115.54
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|131840076|ref|YP_001096085.1|vFam_4054| unnamed protein product [Cyprinid herpesvirus 3]
+gi|422933927|ref|YP_007003871.1|vFam_4054| protein ORF50 [Cyprinid herpesvirus 2]
+gi|422933591|ref|YP_007003716.1|vFam_4054| protein ORF50 [Cyprinid herpesvirus 1]

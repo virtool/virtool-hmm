@@ -1,0 +1,23 @@
+CLUSTER	402
+NUM_SEQ	15
+LENGTH	315
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	160.65
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Suipoxvirus': 1, 'Yatapoxvirus': 1, 'Parapoxvirus': 2, 'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531796|ref|YP_784322.1|vFam_402| nonstructural protein [Nile crocodilepox virus]
+gi|571798025|ref|YP_008658524.1|vFam_402| virion formation [Squirrelpox virus]
+gi|41057523|ref|NP_957996.1|vFam_402| ORF087 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183852|ref|YP_003457393.1|vFam_402| virion formation protein [Pseudocowpox virus]
+gi|113195309|ref|YP_717439.1|vFam_402| hypothetical protein TATV_DAH68_132 [Taterapox virus]
+gi|345107302|ref|YP_004821467.1|vFam_402| nonstructural protein [Yoka poxvirus]
+gi|377830007|ref|YP_005296307.1|vFam_402| unnamed protein product [Cotia virus SPAn232]
+gi|9633910|ref|NP_051989.1|vFam_402| gp100R [Rabbit fibroma virus]
+gi|38229264|ref|NP_938357.1|vFam_402| 102R [Yaba monkey tumor virus]
+gi|18640185|ref|NP_570259.1|vFam_402| SPV099 hypothetical protein [Swinepox virus]
+gi|211956382|ref|YP_002302451.1|vFam_402| hypothetical protein DpV84gp111 [Deerpox virus W-1170-84]
+gi|148912979|ref|YP_001293293.1|vFam_402| hypothetical protein GTPV_gp098 [Goatpox virus Pellor]
+gi|9629046|ref|NP_044065.1|vFam_402| MC114R [Molluscum contagiosum virus subtype 1]
+gi|40556186|ref|NP_955271.1|vFam_402| CNPV248 conserved hypothetical protein [Canarypox virus]
+gi|9634845|ref|NP_039138.1|vFam_402| hypothetical protein FPV175 [Fowlpox virus]

@@ -1,0 +1,21 @@
+CLUSTER	286
+NUM_SEQ	13
+LENGTH	314
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	157.0
+FAMILIES	{'None': 1, 'Phycodnaviridae': 10}
+GENERA	{'Chlorovirus': 4, 'None': 2, 'Phaeovirus': 2, 'Prasinovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|531036327|ref|YP_008437964.1|vFam_286| VLTF3-like transcription factor [Pandoravirus salinus]
+gi|526119612|ref|YP_008319515.1|vFam_286| vltf3-like transcription factor [Pandoravirus dulcis]
+gi|310831331|ref|YP_003969974.1|vFam_286| putative transcription factor VLTF3 [Cafeteria roenbergensis virus BV-PW1]
+gi|197322377|ref|YP_002154650.1|vFam_286| hypothetical protein FeldSpV_gp028 [Feldmannia species virus]
+gi|13242572|ref|NP_077586.1|vFam_286| EsV-1-101 [Ectocarpus siliculosus virus 1]
+gi|313768096|ref|YP_004061527.1|vFam_286| hypothetical protein BpV1_097 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|260665978|ref|YP_003212932.1|vFam_286| hypothetical protein H665_p109 [Ostreococcus tauri virus 1]
+gi|313844083|ref|YP_004061746.1|vFam_286| hypothetical protein OlV1_113 [Ostreococcus lucimarinus virus OlV1]
+gi|313768312|ref|YP_004061992.1|vFam_286| hypothetical protein MpV1_109 [Micromonas sp. RCC1109 virus MpV1]
+gi|155371271|ref|YP_001426805.1|vFam_286| hypothetical protein ATCV1_Z324R [Acanthocystis turfacea Chlorella virus 1]
+gi|157952967|ref|YP_001497859.1|vFam_286| hypothetical protein NY2A_B663R [Paramecium bursaria Chlorella virus NY2A]
+gi|157953787|ref|YP_001498678.1|vFam_286| hypothetical protein AR158_C597R [Paramecium bursaria Chlorella virus AR158]
+gi|9632061|ref|NP_048850.1|vFam_286| hypothetical protein [Paramecium bursaria Chlorella virus 1]

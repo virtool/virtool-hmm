@@ -1,0 +1,10 @@
+CLUSTER	6341
+NUM_SEQ	2
+LENGTH	291
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	148.41
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|197322413|ref|YP_002154686.1|vFam_6341| hypothetical protein FeldSpV_gp064 [Feldmannia species virus]
+gi|13242550|ref|NP_077563.1|vFam_6341| EsV-1-78 [Ectocarpus siliculosus virus 1]

@@ -1,0 +1,17 @@
+CLUSTER	503
+NUM_SEQ	9
+LENGTH	381
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	198.12
+FAMILIES	{'Herpesviridae': 9}
+GENERA	{'Muromegalovirus': 9}
+FASTA SEQUENCE TITLES:
+gi|425707339|ref|YP_007016536.1|vFam_503| ORF 7 [Murid herpesvirus 8]
+gi|9845452|ref|NP_064266.1|vFam_503| pr152.4 [Murid herpesvirus 2]
+gi|61660267|ref|YP_214158.1|vFam_503| Member of MGP family m145 [Murid herpesvirus 1]
+gi|425707340|ref|YP_007016537.1|vFam_503| e152.1 [Murid herpesvirus 8]
+gi|61660261|ref|YP_214152.1|vFam_503| Member of MGP family m145 [Murid herpesvirus 1]
+gi|61660262|ref|YP_214153.1|vFam_503| Member of MGP family m145 [Murid herpesvirus 1]
+gi|425707337|ref|YP_007016534.1|vFam_503| e153.1 [Murid herpesvirus 8]
+gi|425707336|ref|YP_007016533.1|vFam_503| e152 [Murid herpesvirus 8]
+gi|425707338|ref|YP_007016535.1|vFam_503| e153 [Murid herpesvirus 8]

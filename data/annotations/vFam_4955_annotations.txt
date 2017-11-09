@@ -1,0 +1,10 @@
+CLUSTER	4955
+NUM_SEQ	2
+LENGTH	56
+RELATIVE_ENTROPY_PER_POSITION	0.94
+TOTAL_RELATIVE_ENTROPY	52.64
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|116326214|ref|YP_803540.1|vFam_4955| hypothetical protein AGNV_gp146 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651467|ref|NP_932753.1|vFam_4955| hypothetical protein CFDNVgORF144 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]

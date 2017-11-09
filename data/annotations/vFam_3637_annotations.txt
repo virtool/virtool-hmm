@@ -1,0 +1,11 @@
+CLUSTER	3637
+NUM_SEQ	3
+LENGTH	130
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	66.3
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Lymphocystivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|13358467|ref|NP_078734.1|vFam_3637| hypothetical protein LCDV1gp081 [Lymphocystis disease virus 1]
+gi|51870097|ref|YP_073650.1|vFam_3637| hypothetical protein LDVICp144 [Lymphocystis disease virus - isolate China]
+gi|13358489|ref|NP_078728.1|vFam_3637| uncharacterized LCDV1 paralog family 1 [Lymphocystis disease virus 1]

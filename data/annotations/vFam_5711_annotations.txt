@@ -1,0 +1,10 @@
+CLUSTER	5711
+NUM_SEQ	2
+LENGTH	213
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	106.5
+FAMILIES	{'Parvoviridae': 1}
+GENERA	{'Pefudensovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|557307520|ref|YP_008766860.1|vFam_5711| NS3 [Solenopsis invicta densovirus]
+gi|62857327|ref|YP_227599.1|vFam_5711| Putative nonstructural protein NS3 [Acheta domestica densovirus]

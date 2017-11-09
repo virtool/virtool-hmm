@@ -1,0 +1,11 @@
+CLUSTER	3281
+NUM_SEQ	3
+LENGTH	135
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	67.5
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Muromegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|425707249|ref|YP_007016446.1|vFam_3281| e41 [Murid herpesvirus 8]
+gi|61660162|ref|YP_214053.1|vFam_3281| hypothetical protein MuHV1_gp045 [Murid herpesvirus 1]
+gi|9845332|ref|NP_064146.1|vFam_3281| pr41 [Murid herpesvirus 2]

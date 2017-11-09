@@ -1,0 +1,10 @@
+CLUSTER	3265
+NUM_SEQ	2
+LENGTH	104
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	54.08
+FAMILIES	{'Polydnaviridae': 2}
+GENERA	{'Ichnovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|124484785|ref|YP_001031343.1|vFam_3265| polar residue rich protein-d12.2 [Hyposoter fugitivus ichnovirus]
+gi|124484638|ref|YP_001031235.1|vFam_3265| polar residue-rich protein-b8 [Hyposoter fugitivus ichnovirus]

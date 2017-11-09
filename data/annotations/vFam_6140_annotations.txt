@@ -1,0 +1,10 @@
+CLUSTER	6140
+NUM_SEQ	2
+LENGTH	179
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	94.87
+FAMILIES	{'None': 2}
+GENERA	{'Tenuivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|20428584|ref|NP_620518.1|vFam_6140| 20K protein [Rice stripe virus]
+gi|9635244|ref|NP_058537.1|vFam_6140| 20.6K nonstructural protein [Rice grassy stunt virus]

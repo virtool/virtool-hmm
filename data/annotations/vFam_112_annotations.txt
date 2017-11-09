@@ -1,0 +1,26 @@
+CLUSTER	112
+NUM_SEQ	18
+LENGTH	678
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	345.78
+FAMILIES	{'Anelloviridae': 18}
+GENERA	{'Betatorquevirus': 9, 'Iotatorquevirus': 1, 'None': 1, 'Epsilontorquevirus': 1, 'Zetatorquevirus': 1, 'Alphatorquevirus': 3, 'Gammatorquevirus': 2}
+FASTA SEQUENCE TITLES:
+gi|295413993|ref|YP_003587887.1|vFam_112| hypothetical protein TTdoV_gp2 [Torque teno douroucouli virus]
+gi|295413939|ref|YP_003587831.1|vFam_112| hypothetical protein TTsuV1_gp3 [Torque teno sus virus 1a]
+gi|295413979|ref|YP_003587880.1|vFam_112| hypothetical protein TTtaV_gp2 [Torque teno tamarin virus]
+gi|295441879|ref|YP_003587893.1|vFam_112| hypothetical protein TTMV5_gp2 [Torque teno mini virus 5]
+gi|295413917|ref|YP_003587826.1|vFam_112| ORF1 [Torque teno mini virus 8]
+gi|9634959|ref|NP_054656.1|vFam_112| ORF1 [Torque teno mini virus 9]
+gi|295441903|ref|YP_003587911.1|vFam_112| hypothetical protein TTMV6_gp2 [Torque teno mini virus 6]
+gi|295413967|ref|YP_003587871.1|vFam_112| hypothetical protein TTMV7_gp2 [Torque teno mini virus 7]
+gi|470457050|ref|YP_007518450.1|vFam_112| hypothetical protein [TTV-like mini virus]
+gi|295441883|ref|YP_003587896.1|vFam_112| hypothetical protein TTMV4_gp2 [Torque teno mini virus 4]
+gi|295441910|ref|YP_003587916.1|vFam_112| hypothetical protein TTMV1_gp2 [Torque teno mini virus 1]
+gi|295441875|ref|YP_003587890.1|vFam_112| hypothetical protein TTMV3_gp2 [Torque teno mini virus 3]
+gi|295413984|ref|YP_003587884.1|vFam_112| hypothetical protein TTMV2_gp2 [Torque teno mini virus 2]
+gi|295441895|ref|YP_003587905.1|vFam_112| hypothetical protein TTmidiV2_gp4 [Torque teno midi virus 2]
+gi|134133210|ref|YP_001109584.1|vFam_112| hypothetical protein TTMidiV_gp1 [Torque teno midi virus 1]
+gi|295413970|ref|YP_003587873.1|vFam_112| hypothetical protein TTV25_gp2 [Torque teno virus 25]
+gi|312192955|ref|YP_004021043.1|vFam_112| hypothetical protein TTV2_gp2 [Torque teno virus 2]
+gi|295441897|ref|YP_003587909.1|vFam_112| ORF1 [Torque teno virus 6]

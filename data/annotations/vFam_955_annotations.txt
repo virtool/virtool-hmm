@@ -1,0 +1,14 @@
+CLUSTER	955
+NUM_SEQ	6
+LENGTH	106
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	51.94
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|506497891|ref|YP_008003690.1|vFam_955| unknown similar to AcMNPV orf145 [Mythimna separata entomopoxvirus 'L']
+gi|438000448|ref|YP_007250553.1|vFam_955| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964652|ref|YP_950848.1|vFam_955| Mv-ORF118 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|237643682|ref|YP_002884372.1|vFam_955| Ac150-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|23577964|ref|NP_703137.1|vFam_955| hypothetical protein [Rachiplusia ou MNPV]
+gi|9627893|ref|NP_054181.1|vFam_955| AcOrf-150 peptide [Autographa californica nucleopolyhedrovirus]

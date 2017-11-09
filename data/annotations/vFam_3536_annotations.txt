@@ -1,0 +1,12 @@
+CLUSTER	3536
+NUM_SEQ	4
+LENGTH	74
+RELATIVE_ENTROPY_PER_POSITION	0.71
+TOTAL_RELATIVE_ENTROPY	52.54
+FAMILIES	{'Potyviridae': 4}
+GENERA	{'Potyvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|389838995|ref|YP_006393460.1|vFam_3536| PIPO, partial [Potato virus Y]
+gi|390371015|ref|YP_006405421.1|vFam_3536| PIPO, partial [Verbena virus Y]
+gi|390198535|ref|YP_006401479.1|vFam_3536| PIPO, partial [Pepper severe mosaic virus]
+gi|390442741|ref|YP_006423943.1|vFam_3536| PIPO, partial [Sunflower chlorotic mottle virus]

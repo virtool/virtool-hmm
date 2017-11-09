@@ -1,0 +1,12 @@
+CLUSTER	3064
+NUM_SEQ	4
+LENGTH	406
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	211.12
+FAMILIES	{'Paramyxoviridae': 4}
+GENERA	{'Avulavirus': 4}
+FASTA SEQUENCE TITLES:
+gi|15081569|ref|NP_150058.1|vFam_3064| phosphoprotein [Avian paramyxovirus 6]
+gi|422937947|ref|YP_007008148.1|vFam_3064| phosphoprotein [Avian paramyxovirus 4]
+gi|32563517|ref|NP_872274.1|vFam_3064| phosphoprotein [Goose paramyxovirus SF02]
+gi|11545728|ref|NP_071467.1|vFam_3064| phosphoprotein [Newcastle disease virus B1]

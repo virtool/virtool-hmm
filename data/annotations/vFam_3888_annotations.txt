@@ -1,0 +1,11 @@
+CLUSTER	3888
+NUM_SEQ	3
+LENGTH	331
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	168.81
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Molluscipoxvirus': 1, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9629081|ref|NP_044100.1|vFam_3888| MC149R [Molluscum contagiosum virus subtype 1]
+gi|41057550|ref|NP_958023.1|vFam_3888| ORF114 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183880|ref|YP_003457421.1|vFam_3888| hypothetical protein PCPV_gp118 [Pseudocowpox virus]

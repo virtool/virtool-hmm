@@ -1,0 +1,10 @@
+CLUSTER	4163
+NUM_SEQ	2
+LENGTH	117
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	58.5
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531037095|ref|YP_008438737.1|vFam_4163| hypothetical protein ps_2335 [Pandoravirus salinus]
+gi|531035655|ref|YP_008437288.1|vFam_4163| hypothetical protein ps_876 [Pandoravirus salinus]

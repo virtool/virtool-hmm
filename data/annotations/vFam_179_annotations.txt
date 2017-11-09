@@ -1,0 +1,32 @@
+CLUSTER	179
+NUM_SEQ	24
+LENGTH	323
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	161.5
+FAMILIES	{'Baculoviridae': 19}
+GENERA	{'Alphabaculovirus': 19}
+FASTA SEQUENCE TITLES:
+gi|438000431|ref|YP_007250536.1|vFam_179| PE protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964634|ref|YP_950830.1|vFam_179| pp34 [Maruca vitrata nucleopolyhedrovirus]
+gi|23577866|ref|NP_703118.1|vFam_179| polyhedral envelope protein [Rachiplusia ou MNPV]
+gi|86355545|ref|YP_473213.1|vFam_179| Calyx [Hyphantria cunea nucleopolyhedrovirus]
+gi|571031222|ref|YP_008992118.1|vFam_179| pep [Choristoneura murinana alphabaculovirus]
+gi|96979794|ref|YP_610997.1|vFam_179| calyx [Antheraea pernyi nucleopolyhedrovirus]
+gi|15320773|ref|NP_203285.1|vFam_179| PEP [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326195|ref|YP_803521.1|vFam_179| major polyhedral calyx protein [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|9630067|ref|NP_046285.1|vFam_179| polyhedral envelope protein [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|18138312|ref|NP_542747.1|vFam_179| calyx/pep [Helicoverpa zea single nucleopolyhedrovirus]
+gi|114680005|ref|YP_758455.1|vFam_179| calyx [Leucania separata nucleopolyhedrovirus]
+gi|15617600|ref|NP_258400.1|vFam_179| calyx protein [Spodoptera litura nucleopolyhedrovirus]
+gi|9631103|ref|NP_047773.1|vFam_179| polyhedral calyx protein [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|113195514|ref|YP_717652.1|vFam_179| CALYX/PEP [Clanis bilineata nucleopolyhedrovirus]
+gi|209978874|ref|YP_002300617.1|vFam_179| PP34 capsid [Adoxophyes orana nucleopolyhedrovirus]
+gi|74229798|ref|YP_309002.1|vFam_179| calyx/polyhedrin envelope protein [Trichoplusia ni single nucleopolyhedrovirus]
+gi|90592766|ref|YP_529719.1|vFam_179| CALYX/PEP [Agrotis segetum nucleopolyhedrovirus]
+gi|22549463|ref|NP_689236.1|vFam_179| calyx gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|125860167|ref|YP_001036337.1|vFam_179| polyhedral envelope protein [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|9634267|ref|NP_037806.1|vFam_179| ORF46 calyx / polyhedron envelope protein [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|529218159|ref|YP_008378322.1|vFam_179| pep [Hemileuca sp. nucleopolyhedrovirus]
+gi|228861696|ref|YP_002854716.1|vFam_179| calyx/pep [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|165969119|ref|YP_001651019.1|vFam_179| polyhedral envelope protein [Orgyia leucostigma NPV]
+gi|118197589|ref|YP_874301.1|vFam_179| calyx/pep [Ectropis obliqua nucleopolyhedrovirus]

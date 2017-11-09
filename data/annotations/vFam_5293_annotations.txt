@@ -1,0 +1,10 @@
+CLUSTER	5293
+NUM_SEQ	2
+LENGTH	254
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	132.08
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409915|ref|YP_004347335.1|vFam_5293| putative serine/threonine protein kinase [Lausannevirus]
+gi|284504436|ref|YP_003407151.1|vFam_5293| serine/threonine protein kinase [Marseillevirus]

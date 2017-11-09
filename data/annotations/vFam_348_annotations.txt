@@ -1,0 +1,19 @@
+CLUSTER	348
+NUM_SEQ	11
+LENGTH	486
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	252.72
+FAMILIES	{'Baculoviridae': 10}
+GENERA	{'Alphabaculovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|74229788|ref|YP_308992.1|vFam_348| orf103 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304244|ref|YP_249712.1|vFam_348| ORF-108 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549471|ref|NP_689244.1|vFam_348| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069949|ref|NP_613153.1|vFam_348| hypothetical protein McnAVgp070 [Mamestra configurata nucleopolyhedrovirus A]
+gi|209170945|ref|YP_002268091.1|vFam_348| agip61 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592775|ref|YP_529728.1|vFam_348| ORF-58 [Agrotis segetum nucleopolyhedrovirus]
+gi|125860173|ref|YP_001036343.1|vFam_348| hypothetical protein SFMNPV_gp051 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401450|ref|YP_002332753.1|vFam_348| hypothetical protein SlnV2_gp055 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634273|ref|NP_037812.1|vFam_348| ORF52 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|113195498|ref|YP_717636.1|vFam_348| Ld141-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|15426357|ref|NP_203656.1|vFam_348| hypothetical protein [Helicoverpa armigera nucleopolyhedrovirus]

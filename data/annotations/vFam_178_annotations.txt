@@ -1,0 +1,10 @@
+CLUSTER	178
+NUM_SEQ	2
+LENGTH	1159
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	591.09
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Megalocytivirus': 1, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|19881433|ref|NP_612250.1|vFam_178| ORF028L [Infectious spleen and kidney necrosis virus]
+gi|15078888|ref|NP_149639.1|vFam_178| 176R [Invertebrate iridescent virus 6]

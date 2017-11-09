@@ -1,0 +1,10 @@
+CLUSTER	5216
+NUM_SEQ	2
+LENGTH	205
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	104.55
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825802|ref|YP_007418733.1|vFam_5216| hypothetical protein LBA_00839 [Megavirus lba]
+gi|441432643|ref|YP_007354685.1|vFam_5216| DnaJ super family protein [Acanthamoeba polyphaga moumouvirus]

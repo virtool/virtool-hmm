@@ -1,0 +1,13 @@
+CLUSTER	1796
+NUM_SEQ	5
+LENGTH	214
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	109.14
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|15320766|ref|NP_203278.1|vFam_1796| LEF-7 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|438000425|ref|YP_007250530.1|vFam_1796| lef-7 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964628|ref|YP_950824.1|vFam_1796| late expression factor-7 [Maruca vitrata nucleopolyhedrovirus]
+gi|237643657|ref|YP_002884347.1|vFam_1796| LEF-7 [Bombyx mandarina nucleopolyhedrovirus]
+gi|114680176|ref|YP_758589.1|vFam_1796| late expression factor-7 [Plutella xylostella multiple nucleopolyhedrovirus]

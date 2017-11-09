@@ -1,0 +1,26 @@
+CLUSTER	391
+NUM_SEQ	18
+LENGTH	245
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	129.85
+FAMILIES	{'Tombusviridae': 17}
+GENERA	{'None': 3, 'Carmovirus': 14}
+FASTA SEQUENCE TITLES:
+gi|157929294|ref|YP_001496946.1|vFam_391| hypothetical protein AFV2_gp21 [Acidianus filamentous virus 2]
+gi|20087047|ref|NP_613267.1|vFam_391| 25 kDa protein [Cowpea mottle virus]
+gi|9634675|ref|NP_038455.1|vFam_391| replicase (p26) [Japanese iris necrotic ring virus]
+gi|9626973|ref|NP_041227.1|vFam_391| protein 29 [Melon necrotic spot virus]
+gi|32469479|ref|NP_862836.1|vFam_391| p25 product [Pea stem necrosis virus]
+gi|50261349|ref|YP_052926.1|vFam_391| 27 kDa putative replicase protein [Pelargonium chlorotic ring pattern virus]
+gi|456351085|ref|YP_007501035.1|vFam_391| replicase protein [Rosa rugosa leaf distortion virus]
+gi|66478129|ref|YP_238476.1|vFam_391| replicase protein [Pelargonium line pattern virus]
+gi|74007770|ref|NP_620721.2|vFam_391| P28 protein [Turnip crinkle virus]
+gi|20153388|ref|NP_619672.1|vFam_391| P28 protein [Hibiscus chlorotic ringspot virus]
+gi|332925435|ref|YP_004300264.2|vFam_391| putative replication-associated protein [TGP Carmovirus 1]
+gi|85718595|ref|YP_459961.1|vFam_391| p27 [Angelonia flower break virus]
+gi|9633805|ref|NP_051884.1|vFam_391| polymerase-associated protein [Carnation mottle virus]
+gi|126010919|ref|YP_001039883.1|vFam_391| N-terminus replicase [Nootka lupine vein clearing virus]
+gi|529154248|ref|YP_008378652.1|vFam_391| P28 [Calibrachoa mottle virus]
+gi|9629191|ref|NP_044383.1|vFam_391| replication-related protein [Saguaro cactus virus]
+gi|320202720|ref|YP_004191790.1|vFam_391| p27 [Honeysuckle ringspot virus]
+gi|39163633|ref|NP_945124.1|vFam_391| p27 protein [Pelargonium flower break virus]

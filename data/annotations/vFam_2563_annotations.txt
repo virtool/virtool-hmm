@@ -1,0 +1,12 @@
+CLUSTER	2563
+NUM_SEQ	4
+LENGTH	131
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	68.12
+FAMILIES	{'Phycodnaviridae': 1, 'Potyviridae': 3}
+GENERA	{'Bymovirus': 3, 'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182068|ref|YP_008052587.1|vFam_2563| hypothetical protein PGCG_00269 [Phaeocystis globosa virus]
+gi|25014009|ref|NP_734278.1|vFam_2563| 6K2 protein [Oat mosaic virus]
+gi|25013966|ref|NP_697041.1|vFam_2563| 6K2 protein [Wheat yellow mosaic virus]
+gi|25013742|ref|NP_734304.1|vFam_2563| 6K2 protein [Barley yellow mosaic virus]

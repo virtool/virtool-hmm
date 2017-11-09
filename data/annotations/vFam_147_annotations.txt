@@ -1,0 +1,28 @@
+CLUSTER	147
+NUM_SEQ	20
+LENGTH	838
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	435.76
+FAMILIES	{'Herpesviridae': 20}
+GENERA	{'Percavirus': 1, 'None': 1, 'Muromegalovirus': 1, 'Macavirus': 2, 'Roseolovirus': 2, 'Rhadinovirus': 6, 'Lymphocryptovirus': 3, 'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|538447242|ref|YP_008492982.1|vFam_147| helicase-primase complex HP2 [Porcine cytomegalovirus]
+gi|9633114|ref|NP_050224.1|vFam_147| helicase/primase complex [Human herpesvirus 6B]
+gi|51874265|ref|YP_073783.1|vFam_147| helicase-primase primase subunit [Human herpesvirus 7]
+gi|425707270|ref|YP_007016467.1|vFam_147| E70 [Murid herpesvirus 8]
+gi|359946502|ref|YP_004936035.1|vFam_147| helicase-primase primase subunit [Cercopithecine herpesvirus 5]
+gi|360086547|ref|YP_004940232.1|vFam_147| helicase-primase primase subunit [Saimiriine herpesvirus 3]
+gi|360040951|ref|YP_004940086.1|vFam_147| helicase-primase primase subunit [Aotine herpesvirus 1]
+gi|82503218|ref|YP_401662.1|vFam_147| helicase/primase complex protein [Human herpesvirus 4]
+gi|51518033|ref|YP_067958.1|vFam_147| BSLF1 [Macacine herpesvirus 4]
+gi|24943142|ref|NP_733904.1|vFam_147| ORF50 [callitrichine herpesvirus 3]
+gi|321496607|ref|YP_004207892.1|vFam_147| DNA replication protein [Rodent herpesvirus Peru]
+gi|9629585|ref|NP_044893.1|vFam_147| helicase-primase primase subunit [Murid herpesvirus 4]
+gi|83642893|ref|YP_438180.1|vFam_147| ORF56 [Ovine herpesvirus 2]
+gi|10140978|ref|NP_065555.1|vFam_147| primase [Alcelaphine herpesvirus 1]
+gi|139472847|ref|YP_001129409.1|vFam_147| ORF56 [Human herpesvirus 8]
+gi|18653862|ref|NP_570796.1|vFam_147| DNA replication protein [Macacine herpesvirus 5]
+gi|9628059|ref|NP_042653.1|vFam_147| DNA helicase-primase complex component [Equid herpesvirus 2]
+gi|13095633|ref|NP_076548.1|vFam_147| DNA replication protein [Bovine herpesvirus 4]
+gi|9631247|ref|NP_048028.1|vFam_147| primase [Ateline herpesvirus 3]
+gi|9626011|ref|NP_040258.1|vFam_147| unnamed protein product [Saimiriine herpesvirus 2]

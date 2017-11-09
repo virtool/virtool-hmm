@@ -1,0 +1,11 @@
+CLUSTER	2239
+NUM_SEQ	3
+LENGTH	509
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	264.68
+FAMILIES	{'Reoviridae': 3}
+GENERA	{'Phytoreovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|134302826|ref|YP_001111375.1|vFam_2239| RNA binding protein [Rice gall dwarf virus]
+gi|20428544|ref|NP_620530.1|vFam_2239| minor core protein [Rice dwarf virus]
+gi|226423334|ref|YP_002790890.1|vFam_2239| minor core protein [Homalodisca vitripennis reovirus]

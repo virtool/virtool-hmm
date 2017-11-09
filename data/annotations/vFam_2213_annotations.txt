@@ -1,0 +1,13 @@
+CLUSTER	2213
+NUM_SEQ	5
+LENGTH	822
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	427.44
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631488|ref|NP_048189.1|vFam_2213| ORF MSV119 putative RNA polymerase associated vaccinia RAP94 homolog (vaccinia H4L), similar to SW:P33067 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497797|ref|YP_008003596.1|vFam_2213| RAP94 RNA pol assoc protein [Mythimna separata entomopoxvirus 'L']
+gi|506498080|ref|YP_008003877.1|vFam_2213| RAP94 RNA pol assoc protein [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498683|ref|YP_008004477.1|vFam_2213| RAP94 RNA pol assoc protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964368|ref|NP_064836.1|vFam_2213| putative RNA polymerase associated transcriptional specificity factor [Amsacta moorei entomopoxvirus 'L']

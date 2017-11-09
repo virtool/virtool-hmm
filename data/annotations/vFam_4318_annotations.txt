@@ -1,0 +1,11 @@
+CLUSTER	4318
+NUM_SEQ	3
+LENGTH	238
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	119.0
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|531035137|ref|YP_008436762.1|vFam_4318| hypothetical protein ps_346 [Pandoravirus salinus]
+gi|526118963|ref|YP_008318866.1|vFam_4318| hypothetical protein [Pandoravirus dulcis]
+gi|9631428|ref|NP_048315.1|vFam_4318| ORF MSV244 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]

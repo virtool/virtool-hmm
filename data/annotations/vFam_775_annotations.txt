@@ -1,0 +1,10 @@
+CLUSTER	775
+NUM_SEQ	2
+LENGTH	277
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	141.27
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|531035915|ref|YP_008437549.1|vFam_775| hypothetical protein ps_1137 [Pandoravirus salinus]
+gi|448825914|ref|YP_007418845.1|vFam_775| putative helicase [Megavirus lba]

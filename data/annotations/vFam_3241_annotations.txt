@@ -1,0 +1,10 @@
+CLUSTER	3241
+NUM_SEQ	2
+LENGTH	100
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	52.0
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Orthopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|113195385|ref|YP_717515.1|vFam_3241| ankyrin-like protein [Taterapox virus]
+gi|113195384|ref|YP_717514.1|vFam_3241| ankyrin-like protein [Taterapox virus]

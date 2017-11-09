@@ -1,0 +1,10 @@
+CLUSTER	2960
+NUM_SEQ	2
+LENGTH	150
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	76.5
+FAMILIES	{'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|116326817|ref|YP_803354.1|vFam_2960| hypothetical protein TNAV2c_gp131 [Trichoplusia ni ascovirus 2c]
+gi|115298609|ref|YP_762462.1|vFam_2960| 16.2 kDa PutA/Proline dehydrogenase [Spodoptera frugiperda ascovirus 1a]

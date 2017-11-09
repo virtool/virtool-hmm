@@ -1,0 +1,10 @@
+CLUSTER	3173
+NUM_SEQ	2
+LENGTH	397
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	206.44
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|285002394|ref|YP_003422458.1|vFam_3173| hypothetical protein PsunGV_gp119 [Pseudaletia unipuncta granulovirus]
+gi|9635365|ref|NP_059263.1|vFam_3173| ORF115 [Xestia c-nigrum granulovirus]

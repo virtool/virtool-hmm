@@ -1,0 +1,11 @@
+CLUSTER	4967
+NUM_SEQ	3
+LENGTH	51
+RELATIVE_ENTROPY_PER_POSITION	1.04
+TOTAL_RELATIVE_ENTROPY	53.04
+FAMILIES	{'Potyviridae': 3}
+GENERA	{'Poacevirus': 3}
+FASTA SEQUENCE TITLES:
+gi|404184194|ref|YP_006666643.1|vFam_4967| 6K2 [Caladenia virus A]
+gi|390442748|ref|YP_006423939.1|vFam_4967| 6K2 protein [Sugarcane streak mosaic virus]
+gi|239828776|ref|YP_002956093.1|vFam_4967| 6K2 protein [Triticum mosaic virus]

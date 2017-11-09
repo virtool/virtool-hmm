@@ -1,0 +1,11 @@
+CLUSTER	4072
+NUM_SEQ	3
+LENGTH	225
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	112.5
+FAMILIES	{'Secoviridae': 3}
+GENERA	{'None': 1, 'Cheravirus': 2}
+FASTA SEQUENCE TITLES:
+gi|62398857|ref|YP_227372.1|vFam_4072| protease [Strawberry latent ringspot virus]
+gi|52137006|ref|YP_081453.1|vFam_4072| protease [Cherry rasp leaf virus]
+gi|25013984|ref|NP_734021.1|vFam_4072| cysteine protease [Apple latent spherical virus]

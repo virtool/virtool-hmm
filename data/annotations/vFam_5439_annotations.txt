@@ -1,0 +1,10 @@
+CLUSTER	5439
+NUM_SEQ	2
+LENGTH	197
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	102.44
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|295441848|ref|YP_003591088.1|vFam_5439| hypothetical protein STIV2_B197 [Sulfolobus turreted icosahedral virus 2]
+gi|48697000|ref|YP_024997.1|vFam_5439| hypothetical protein A197 [Sulfolobus turreted icosahedral virus]

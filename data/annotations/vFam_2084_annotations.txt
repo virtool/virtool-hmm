@@ -1,0 +1,14 @@
+CLUSTER	2084
+NUM_SEQ	6
+LENGTH	28
+RELATIVE_ENTROPY_PER_POSITION	1.89
+TOTAL_RELATIVE_ENTROPY	52.92
+FAMILIES	{'Secoviridae': 6}
+GENERA	{'Comovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|25013675|ref|NP_734068.1|vFam_2084| VPg [Bean pod mottle virus]
+gi|25013691|ref|NP_734028.1|vFam_2084| VPg [Red clover mottle virus]
+gi|530323597|ref|YP_008400141.1|vFam_2084| VPg protein [Broad bean true mosaic virus]
+gi|25013683|ref|NP_734060.1|vFam_2084| vpg [Cowpea severe mosaic virus]
+gi|25013696|ref|NP_734010.1|vFam_2084| VPg [Squash mosaic virus]
+gi|25013709|ref|NP_734055.1|vFam_2084| vpg [Cowpea mosaic virus]

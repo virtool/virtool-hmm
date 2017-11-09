@@ -1,0 +1,11 @@
+CLUSTER	5039
+NUM_SEQ	3
+LENGTH	187
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	93.5
+FAMILIES	{'Caliciviridae': 2, 'None': 1}
+GENERA	{'None': 1, 'Norovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|28416961|ref|NP_786947.1|vFam_5039| p22 [Norwalk virus]
+gi|310831166|ref|YP_003969809.1|vFam_5039| hypothetical protein crov177 [Cafeteria roenbergensis virus BV-PW1]
+gi|113478401|ref|YP_724458.1|vFam_5039| NS4 [Murine norovirus 1]

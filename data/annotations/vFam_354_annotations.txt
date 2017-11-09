@@ -1,0 +1,13 @@
+CLUSTER	354
+NUM_SEQ	5
+LENGTH	259
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	137.27
+FAMILIES	{'Anelloviridae': 4, 'Iridoviridae': 1}
+GENERA	{'Gammatorquevirus': 4, 'Megalocytivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|19881474|ref|NP_612291.1|vFam_354| ORF069L [Infectious spleen and kidney necrosis virus]
+gi|295441893|ref|YP_003587903.1|vFam_354| hypothetical protein TTmidiV2_gp2 [Torque teno midi virus 2]
+gi|295441892|ref|YP_003587902.1|vFam_354| hypothetical protein TTmidiV2_gp1 [Torque teno midi virus 2]
+gi|134133208|ref|YP_001109582.1|vFam_354| hypothetical protein TTMidiV_gp3 [Torque teno midi virus 1]
+gi|134133207|ref|YP_001109581.1|vFam_354| hypothetical protein TTMidiV_gp4 [Torque teno midi virus 1]

@@ -1,0 +1,12 @@
+CLUSTER	1607
+NUM_SEQ	4
+LENGTH	162
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	84.24
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|32453907|ref|NP_861670.1|vFam_1607| hypothetical protein HalHV1gp082 [Halovirus HF1]
+gi|311978009|ref|YP_003987129.1|vFam_1607| uncharacterized cupin RmlC-type domain protein [Acanthamoeba polyphaga mimivirus]
+gi|448825726|ref|YP_007418657.1|vFam_1607| putative cupin RMLC-type domain protein [Megavirus lba]
+gi|441432563|ref|YP_007354605.1|vFam_1607| Mannose-6P isomerase [Acanthamoeba polyphaga moumouvirus]

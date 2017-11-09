@@ -1,0 +1,14 @@
+CLUSTER	2112
+NUM_SEQ	6
+LENGTH	126
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	66.78
+FAMILIES	{'Phycodnaviridae': 6}
+GENERA	{'None': 1, 'Phaeovirus': 1, 'Prymnesiovirus': 1, 'Prasinovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|13242531|ref|NP_077544.1|vFam_2112| EsV-1-59 [Ectocarpus siliculosus virus 1]
+gi|508181822|ref|YP_008052341.1|vFam_2112| hypothetical protein PGCG_00022 [Phaeocystis globosa virus]
+gi|313768115|ref|YP_004061546.1|vFam_2112| hypothetical protein BpV1_116c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768331|ref|YP_004062011.1|vFam_2112| hypothetical protein MpV1_128c [Micromonas sp. RCC1109 virus MpV1]
+gi|260665988|ref|YP_003212942.1|vFam_2112| hypothetical protein H665_p119 [Ostreococcus tauri virus 1]
+gi|313844125|ref|YP_004061788.1|vFam_2112| hypothetical protein OlV1_155 [Ostreococcus lucimarinus virus OlV1]

@@ -1,0 +1,10 @@
+CLUSTER	4592
+NUM_SEQ	2
+LENGTH	401
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	204.51
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159295|ref|YP_002321338.1|vFam_4592| GrBNV_gp78-like protein [Oryctes rhinoceros virus]
+gi|134303476|ref|YP_001111345.1|vFam_4592| hypothetical protein GrBNV_gp78 [Gryllus bimaculatus nudivirus]

@@ -1,0 +1,10 @@
+CLUSTER	4000
+NUM_SEQ	2
+LENGTH	464
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	241.28
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531037078|ref|YP_008438720.1|vFam_4000| adenosylhomocysteinase [Pandoravirus salinus]
+gi|526118918|ref|YP_008318821.1|vFam_4000| adenosylhomocysteinase [Pandoravirus dulcis]

@@ -1,0 +1,10 @@
+CLUSTER	5938
+NUM_SEQ	2
+LENGTH	209
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	106.59
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409857|ref|YP_004347277.1|vFam_5938| hypothetical protein LAU_0314 [Lausannevirus]
+gi|284504316|ref|YP_003407031.1|vFam_5938| membrane protein [Marseillevirus]

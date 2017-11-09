@@ -1,0 +1,11 @@
+CLUSTER	2281
+NUM_SEQ	3
+LENGTH	274
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	137.0
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977940|ref|YP_003987060.1|vFam_2281| HMG box-containing protein [Acanthamoeba polyphaga mimivirus]
+gi|441432504|ref|YP_007354546.1|vFam_2281| putative low complexity protein [Acanthamoeba polyphaga moumouvirus]
+gi|363539833|ref|YP_004894714.1|vFam_2281| mg663 gene product [Megavirus chiliensis]

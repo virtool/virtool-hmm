@@ -1,0 +1,10 @@
+CLUSTER	891
+NUM_SEQ	2
+LENGTH	181
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	92.31
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035070|ref|YP_008436695.1|vFam_891| hypothetical protein ps_279 [Pandoravirus salinus]
+gi|146411818|ref|YP_001210311.1|vFam_891| hypothetical protein ABV_gp07 [Acidianus bottle-shaped virus]

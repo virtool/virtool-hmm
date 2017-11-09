@@ -1,0 +1,24 @@
+CLUSTER	498
+NUM_SEQ	16
+LENGTH	129
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	68.37
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9629006|ref|NP_044025.1|vFam_498| MC074R [Molluscum contagiosum virus subtype 1]
+gi|115531758|ref|YP_784284.1|vFam_498| IMV membrane protein [Nile crocodilepox virus]
+gi|40556115|ref|NP_955200.1|vFam_498| CNPV177 conserved hypothetical protein [Canarypox virus]
+gi|9634802|ref|NP_039095.1|vFam_498| hypothetical protein FPV132 [Fowlpox virus]
+gi|113195272|ref|YP_717402.1|vFam_498| IMV membrane protein [Taterapox virus]
+gi|345107260|ref|YP_004821425.1|vFam_498| membrane protein [Yoka poxvirus]
+gi|377829973|ref|YP_005296268.1|vFam_498| unnamed protein product [Cotia virus SPAn232]
+gi|9633868|ref|NP_051948.1|vFam_498| gp059R [Rabbit fibroma virus]
+gi|157939687|ref|YP_001497059.1|vFam_498| IMV membrane protein [Tanapox virus]
+gi|38229226|ref|NP_938319.1|vFam_498| 64R [Yaba monkey tumor virus]
+gi|18640147|ref|NP_570221.1|vFam_498| SPV061 hypothetical protein [Swinepox virus]
+gi|211956344|ref|YP_002302413.1|vFam_498| membrane protein [Deerpox virus W-1170-84]
+gi|21492517|ref|NP_659636.1|vFam_498| hypothetical protein SPPV_60 [Sheeppox virus]
+gi|571797984|ref|YP_008658483.1|vFam_498| subunit of the poxvirus multiprotein entry-fusion complex [Squirrelpox virus]
+gi|41057487|ref|NP_957960.1|vFam_498| ORF051 putative membrane protein [Bovine papular stomatitis virus]
+gi|41057114|ref|NP_957828.1|vFam_498| ORF051 putative membrane protein [Orf virus]

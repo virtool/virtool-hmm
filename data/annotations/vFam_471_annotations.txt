@@ -1,0 +1,20 @@
+CLUSTER	471
+NUM_SEQ	12
+LENGTH	350
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	175.0
+FAMILIES	{'Phycodnaviridae': 12}
+GENERA	{'Phaeovirus': 1, 'Chlorovirus': 11}
+FASTA SEQUENCE TITLES:
+gi|13242479|ref|NP_077492.1|vFam_471| EsV-1-7 [Ectocarpus siliculosus virus 1]
+gi|155370244|ref|YP_001425778.1|vFam_471| hypothetical protein FR483_N146R [Paramecium bursaria Chlorella virus FR483]
+gi|9631698|ref|NP_048477.1|vFam_471| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|9631723|ref|NP_048502.1|vFam_471| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953544|ref|YP_001498435.1|vFam_471| hypothetical protein AR158_C354R [Paramecium bursaria Chlorella virus AR158]
+gi|9632120|ref|NP_048920.1|vFam_471| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157952614|ref|YP_001497506.1|vFam_471| hypothetical protein NY2A_B310R [Paramecium bursaria Chlorella virus NY2A]
+gi|157953965|ref|YP_001498855.1|vFam_471| hypothetical protein AR158_c775R [Paramecium bursaria Chlorella virus AR158]
+gi|157953814|ref|YP_001498705.1|vFam_471| hypothetical protein AR158_C624L [Paramecium bursaria Chlorella virus AR158]
+gi|157953081|ref|YP_001497973.1|vFam_471| hypothetical protein NY2A_B777L [Paramecium bursaria Chlorella virus NY2A]
+gi|157953895|ref|YP_001498786.1|vFam_471| hypothetical protein AR158_C705L [Paramecium bursaria Chlorella virus AR158]
+gi|157953281|ref|YP_001498172.1|vFam_471| hypothetical protein AR158_C090R [Paramecium bursaria Chlorella virus AR158]

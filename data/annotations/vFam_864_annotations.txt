@@ -1,0 +1,17 @@
+CLUSTER	864
+NUM_SEQ	9
+LENGTH	351
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	182.52
+FAMILIES	{'Herpesviridae': 8, 'Retroviridae': 1}
+GENERA	{'None': 1, 'Cytomegalovirus': 1, 'Epsilonretrovirus': 1, 'Muromegalovirus': 1, 'Varicellovirus': 1, 'Percavirus': 1, 'Lymphocryptovirus': 1, 'Rhadinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9629907|ref|NP_045941.1|vFam_864| hypothetical protein WDSVgp7 [Walleye dermal sarcoma virus]
+gi|321496580|ref|YP_004207865.1|vFam_864| cleavage/packaging protein [Rodent herpesvirus Peru]
+gi|24943111|ref|NP_733873.1|vFam_864| ORF20 [callitrichine herpesvirus 3]
+gi|18653835|ref|NP_570769.1|vFam_864| hypothetical protein MmrVgp28 [Macacine herpesvirus 5]
+gi|9631221|ref|NP_048001.1|vFam_864| orf 29B [Ateline herpesvirus 3]
+gi|9628031|ref|NP_042625.1|vFam_864| possible terminase [Equid herpesvirus 2]
+gi|386522768|ref|YP_006273024.1|vFam_864| ORF44 gene product [Equid herpesvirus 8]
+gi|356640421|ref|YP_004933863.1|vFam_864| protein UL89 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|9845374|ref|NP_064188.1|vFam_864| pR89 [Murid herpesvirus 2]

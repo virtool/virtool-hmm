@@ -1,0 +1,16 @@
+CLUSTER	807
+NUM_SEQ	8
+LENGTH	301
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	156.52
+FAMILIES	{'Adenoviridae': 6}
+GENERA	{'Aviadenovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|388570680|ref|YP_006383554.1|vFam_807| protein ORF12 [Goose adenovirus 4]
+gi|308222742|ref|YP_003933579.1|vFam_807| unnamed protein product [Turkey adenovirus 1]
+gi|555928219|ref|YP_008719850.1|vFam_807| ORF12 [Turkey adenovirus 5]
+gi|56160763|ref|AP_000408.1|vFam_807| ORF12 [Fowl adenovirus A]
+gi|327409475|ref|YP_004346919.1|vFam_807| ORF12 [Fowl adenovirus C]
+gi|501000350|ref|YP_007985644.1|vFam_807| ORF12 [Fowl adenovirus 5]
+gi|555928186|ref|YP_008719818.1|vFam_807| ORF12 [Turkey adenovirus 4]
+gi|56160713|ref|AP_000375.1|vFam_807| ORF12 [Fowl adenovirus D]

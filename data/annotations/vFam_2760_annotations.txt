@@ -1,0 +1,12 @@
+CLUSTER	2760
+NUM_SEQ	4
+LENGTH	283
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	147.16
+FAMILIES	{'None': 2, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831293|ref|YP_003969936.1|vFam_2760| putative formamidopyrimidine-DNA glycosylase [Cafeteria roenbergensis virus BV-PW1]
+gi|311977698|ref|YP_003986818.1|vFam_2760| probable formamidopyrimidine-DNA glycosylase [Acanthamoeba polyphaga mimivirus]
+gi|448825569|ref|YP_007418500.1|vFam_2760| putative formamidopyrimidine-DNA glycosylase [Megavirus lba]
+gi|441432443|ref|YP_007354485.1|vFam_2760| Formamidopyrimidine-DNA glycosylase [Acanthamoeba polyphaga moumouvirus]

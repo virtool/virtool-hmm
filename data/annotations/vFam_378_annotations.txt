@@ -1,0 +1,27 @@
+CLUSTER	378
+NUM_SEQ	19
+LENGTH	277
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	135.73
+FAMILIES	{'Phycodnaviridae': 1, 'Poxviridae': 17}
+GENERA	{'None': 2, 'Yatapoxvirus': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Phaeovirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 3, 'Capripoxvirus': 1, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|13242499|ref|NP_077512.1|vFam_378| EsV-1-27 [Ectocarpus siliculosus virus 1]
+gi|531035436|ref|YP_008437066.1|vFam_378| hypothetical protein ps_652 [Pandoravirus salinus]
+gi|115531731|ref|YP_784257.1|vFam_378| DNA-binding phosphoprotein [Nile crocodilepox virus]
+gi|40556053|ref|NP_955138.1|vFam_378| CNPV115 DNA-binding phosphoprotein [Canarypox virus]
+gi|9634758|ref|NP_039051.1|vFam_378| DNA-binding phosphoprotein [Fowlpox virus]
+gi|18640304|ref|NP_570460.1|vFam_378| CMLV070 [Camelpox virus]
+gi|345107239|ref|YP_004821404.1|vFam_378| ssDNA-binding phosphoprotein [Yoka poxvirus]
+gi|377829954|ref|YP_005296249.1|vFam_378| unnamed protein product [Cotia virus SPAn232]
+gi|9633849|ref|NP_051929.1|vFam_378| gp040L [Rabbit fibroma virus]
+gi|148912922|ref|YP_001293236.1|vFam_378| hypothetical protein GTPV_gp041 [Goatpox virus Pellor]
+gi|157939668|ref|YP_001497040.1|vFam_378| ssDNA-binding phosphoprotein [Tanapox virus]
+gi|38229207|ref|NP_938300.1|vFam_378| 45L [Yaba monkey tumor virus]
+gi|211956324|ref|YP_002302393.1|vFam_378| DNA-binding phosphoprotein [Deerpox virus W-1170-84]
+gi|18640127|ref|NP_570201.1|vFam_378| SPV041 putative DNA-binding phosphoprotein [Swinepox virus]
+gi|41057468|ref|NP_957941.1|vFam_378| ORF032 DNA-binding phosphoprotein [Bovine papular stomatitis virus]
+gi|289183796|ref|YP_003457337.1|vFam_378| DNA-binding phosphoprotein [Pseudocowpox virus]
+gi|41057095|ref|NP_957809.1|vFam_378| ORF032 DNA-binding phosphoprotein [Orf virus]
+gi|571797964|ref|YP_008658463.1|vFam_378| single-stranded DNA binding protein [Squirrelpox virus]
+gi|9628978|ref|NP_043997.1|vFam_378| MC046L [Molluscum contagiosum virus subtype 1]

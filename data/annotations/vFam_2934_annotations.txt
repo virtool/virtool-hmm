@@ -1,0 +1,10 @@
+CLUSTER	2934
+NUM_SEQ	2
+LENGTH	227
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	115.77
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441432601|ref|YP_007354643.1|vFam_2934| hypothetical protein Moumou_00686 [Acanthamoeba polyphaga moumouvirus]
+gi|363540193|ref|YP_004894826.1|vFam_2934| mg775 gene product [Megavirus chiliensis]

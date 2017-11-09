@@ -1,0 +1,14 @@
+CLUSTER	1828
+NUM_SEQ	6
+LENGTH	109
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	57.77
+FAMILIES	{'Coronaviridae': 6}
+GENERA	{'Betacoronavirus': 6}
+FASTA SEQUENCE TITLES:
+gi|167600360|ref|YP_001672002.1|vFam_1828| 12.7 kDa accessory protein [Equine coronavirus]
+gi|38018027|ref|NP_937951.1|vFam_1828| NS2 protein [Human coronavirus OC43]
+gi|85718620|ref|YP_459954.1|vFam_1828| non-structural protein [Porcine hemagglutinating encephalomyelitis virus]
+gi|56807327|ref|YP_173239.1|vFam_1828| non-structural protein [Human coronavirus HKU1]
+gi|60115397|ref|YP_209235.1|vFam_1828| accessory protein 5a [Murine hepatitis virus strain JHM]
+gi|11192313|ref|NP_068672.1|vFam_1828| 13.1 KDa putative protein [Murine hepatitis virus strain A59]

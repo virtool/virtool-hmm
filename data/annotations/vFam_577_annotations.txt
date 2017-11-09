@@ -1,0 +1,19 @@
+CLUSTER	577
+NUM_SEQ	11
+LENGTH	301
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	156.52
+FAMILIES	{'None': 3, 'Marseillevirus family': 2, 'Iridoviridae': 1, 'Mimiviridae': 5}
+GENERA	{'None': 8, 'Mimivirus': 2, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|327409775|ref|YP_004347195.1|vFam_577| putative patatin-like phospholipase [Lausannevirus]
+gi|284504253|ref|YP_003406968.1|vFam_577| patatin-like phospholipase [Marseillevirus]
+gi|15079174|ref|NP_149926.1|vFam_577| 463L [Invertebrate iridescent virus 6]
+gi|310831158|ref|YP_003969801.1|vFam_577| putative patatin-like phospholipase [Cafeteria roenbergensis virus BV-PW1]
+gi|441432299|ref|YP_007354341.1|vFam_577| patatin-like phospholipase [Acanthamoeba polyphaga moumouvirus]
+gi|311977833|ref|YP_003986953.1|vFam_577| putative patatin-like phospholipase [Acanthamoeba polyphaga mimivirus]
+gi|448825400|ref|YP_007418331.1|vFam_577| putative patatin-like phospholipase [Megavirus lba]
+gi|363540772|ref|YP_004894493.1|vFam_577| mg442 gene product [Megavirus chiliensis]
+gi|311977966|ref|YP_003987086.1|vFam_577| putative patatin-like phospholipase [Acanthamoeba polyphaga mimivirus]
+gi|448825684|ref|YP_007418615.1|vFam_577| putative patatin-like phospholipase [Megavirus lba]
+gi|441432533|ref|YP_007354575.1|vFam_577| patatin-like phospholipase [Acanthamoeba polyphaga moumouvirus]

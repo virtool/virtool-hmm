@@ -1,0 +1,10 @@
+CLUSTER	6189
+NUM_SEQ	2
+LENGTH	80
+RELATIVE_ENTROPY_PER_POSITION	0.64
+TOTAL_RELATIVE_ENTROPY	51.2
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825092|ref|YP_007418023.1|vFam_6189| hypothetical protein LBA_00125 [Megavirus lba]
+gi|363540837|ref|YP_004894198.1|vFam_6189| mg147 gene product [Megavirus chiliensis]

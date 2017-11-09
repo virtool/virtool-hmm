@@ -1,0 +1,10 @@
+CLUSTER	5878
+NUM_SEQ	2
+LENGTH	157
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	83.21
+FAMILIES	{'Betaflexiviridae': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|478755944|ref|YP_007761587.1|vFam_5878| hypothetical protein [Cherry rusty mottle associated virus]
+gi|9635571|ref|NP_059943.1|vFam_5878| hypothetical protein [Cherry necrotic rusty mottle virus]

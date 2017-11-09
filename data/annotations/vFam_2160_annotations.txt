@@ -1,0 +1,13 @@
+CLUSTER	2160
+NUM_SEQ	5
+LENGTH	33
+RELATIVE_ENTROPY_PER_POSITION	1.61
+TOTAL_RELATIVE_ENTROPY	53.13
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'Yatapoxvirus': 1, 'None': 1, 'Orthopoxvirus': 2, 'Leporipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|119223230|ref|YP_910498.1|vFam_2160| hypothetical protein VACWR069.5 [Vaccinia virus]
+gi|345107236|ref|YP_004821401.1|vFam_2160| component of virus entry/fusion complex [Yoka poxvirus]
+gi|9633846|ref|NP_051926.1|vFam_2160| gp037L [Rabbit fibroma virus]
+gi|157939665|ref|YP_001497037.1|vFam_2160| hypothetical protein TANV_42.5L [Tanapox virus]
+gi|377830072|ref|YP_005296246.1|vFam_2160| unnamed protein product [Cotia virus SPAn232]

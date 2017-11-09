@@ -1,0 +1,13 @@
+CLUSTER	1289
+NUM_SEQ	5
+LENGTH	509
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	264.68
+FAMILIES	{'Secoviridae': 5}
+GENERA	{'Nepovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|50399858|ref|YP_053928.1|vFam_1289| capsid protein [Tobacco ringspot virus]
+gi|50511901|ref|YP_054438.1|vFam_1289| capsid protein [Arabis mosaic virus]
+gi|25013721|ref|NP_733996.1|vFam_1289| capsid protein [Grapevine fanleaf virus]
+gi|40254025|ref|NP_954617.1|vFam_1289| coat protein [Raspberry ringspot virus]
+gi|50557455|ref|NP_733982.2|vFam_1289| capsid protein [Blackcurrant reversion virus]

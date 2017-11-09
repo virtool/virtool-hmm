@@ -1,0 +1,10 @@
+CLUSTER	6419
+NUM_SEQ	2
+LENGTH	71
+RELATIVE_ENTROPY_PER_POSITION	0.73
+TOTAL_RELATIVE_ENTROPY	51.83
+FAMILIES	{'Paramyxoviridae': 2}
+GENERA	{'Metapneumovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|83716031|ref|YP_443842.1|vFam_6419| matrix protein 2-2 [Avian metapneumovirus]
+gi|46852138|ref|YP_012610.1|vFam_6419| matrix protein M2-2 [Human metapneumovirus]

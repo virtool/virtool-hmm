@@ -1,0 +1,10 @@
+CLUSTER	6355
+NUM_SEQ	2
+LENGTH	383
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	195.33
+FAMILIES	{'Parvoviridae': 2}
+GENERA	{'Brevidensovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|208429853|ref|YP_002265407.1|vFam_6355| non-structural protein 2 [Anopheles gambiae densonucleosis virus]
+gi|23334604|ref|NP_694828.1|vFam_6355| hypothetical protein AlDNVgp2 [Aedes albopictus densovirus]

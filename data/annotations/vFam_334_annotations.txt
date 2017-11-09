@@ -1,0 +1,23 @@
+CLUSTER	334
+NUM_SEQ	15
+LENGTH	79
+RELATIVE_ENTROPY_PER_POSITION	0.65
+TOTAL_RELATIVE_ENTROPY	51.35
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 1, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|115531794|ref|YP_784320.1|vFam_334| IMV membrane protein [Nile crocodilepox virus]
+gi|40556184|ref|NP_955269.1|vFam_334| CNPV246 putative IMV membrane protein [Canarypox virus]
+gi|9634843|ref|NP_039136.1|vFam_334| hypothetical protein FPV173 [Fowlpox virus]
+gi|41057521|ref|NP_957994.1|vFam_334| ORF085 late virion membrane protein [Bovine papular stomatitis virus]
+gi|289183850|ref|YP_003457391.1|vFam_334| late virion membrane protein [Pseudocowpox virus]
+gi|41057148|ref|NP_957862.1|vFam_334| ORF085 late virion membrane protein [Orf virus]
+gi|571798023|ref|YP_008658522.1|vFam_334| IMV membrane protein [Squirrelpox virus]
+gi|345107299|ref|YP_004821464.1|vFam_334| essential In early morphogenesis [Yoka poxvirus]
+gi|377830005|ref|YP_005296305.1|vFam_334| unnamed protein product [Cotia virus SPAn232]
+gi|9633908|ref|NP_051987.1|vFam_334| gp098L [Rabbit fibroma virus]
+gi|211956380|ref|YP_002302449.1|vFam_334| IMV membrane protein [Deerpox virus W-1170-84]
+gi|157939723|ref|YP_001497095.1|vFam_334| IMV membrane protein [Tanapox virus]
+gi|38229262|ref|NP_938355.1|vFam_334| 100L [Yaba monkey tumor virus]
+gi|148912977|ref|YP_001293291.1|vFam_334| hypothetical protein GTPV_gp096 [Goatpox virus Pellor]
+gi|18640183|ref|NP_570257.1|vFam_334| SPV097 putative IMV membrane protein morphogenesis [Swinepox virus]

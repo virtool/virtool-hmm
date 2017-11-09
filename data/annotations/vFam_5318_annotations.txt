@@ -1,0 +1,10 @@
+CLUSTER	5318
+NUM_SEQ	2
+LENGTH	240
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	124.8
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|289183882|ref|YP_003457423.1|vFam_5318| hypothetical protein PCPV_gp120 [Pseudocowpox virus]
+gi|41057179|ref|NP_957893.1|vFam_5318| ORF116 hypothetical protein [Orf virus]

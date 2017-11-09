@@ -1,0 +1,14 @@
+CLUSTER	1407
+NUM_SEQ	6
+LENGTH	92
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	47.84
+FAMILIES	{'Poxviridae': 6}
+GENERA	{'None': 1, 'Leporipoxvirus': 2, 'Capripoxvirus': 1, 'Suipoxvirus': 1, 'Cervidpoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|377830100|ref|YP_005296348.1|vFam_1407| unnamed protein product [Cotia virus SPAn232]
+gi|15150592|ref|NP_150587.1|vFam_1407| LSDV153 hypothetical protein [Lumpy skin disease virus NI-2490]
+gi|62637545|ref|YP_227543.1|vFam_1407| hypothetical protein DpV83gp168 [Deerpox virus W-848-83]
+gi|18640233|ref|NP_570307.1|vFam_1407| SPV147 hypothetical protein [Swinepox virus]
+gi|9633966|ref|NP_051891.1|vFam_1407| gp004.1L [Rabbit fibroma virus]
+gi|9633798|ref|NP_051717.1|vFam_1407| m4.1 [Myxoma virus]

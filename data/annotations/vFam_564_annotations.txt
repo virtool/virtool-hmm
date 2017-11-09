@@ -1,0 +1,17 @@
+CLUSTER	564
+NUM_SEQ	9
+LENGTH	1271
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	673.63
+FAMILIES	{'Reoviridae': 8, 'Poxviridae': 1}
+GENERA	{'Aquareovirus': 3, 'None': 1, 'Orthoreovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|9631364|ref|NP_048227.1|vFam_564| ORF MSV156 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|81096041|ref|YP_398631.1|vFam_564| putative NTPase/RNA helicase [Aquareovirus A]
+gi|182682781|ref|YP_001837096.1|vFam_564| VP3 [American grass carp reovirus]
+gi|38147305|ref|NP_938062.1|vFam_564| NTPase/helicase VP3 [Aquareovirus C]
+gi|258549718|ref|YP_003199422.1|vFam_564| lambda-1 protein [Mammalian orthoreovirus 3]
+gi|459014574|ref|YP_007507318.1|vFam_564| inner core shell [Melaka orthoreovirus]
+gi|323409486|ref|YP_004226521.1|vFam_564| lambda-A protein [Avian orthoreovirus]
+gi|343098550|ref|YP_004769549.1|vFam_564| core shell protein [Baboon orthoreovirus]
+gi|298201186|ref|YP_003717771.1|vFam_564| major core protein [Broome virus]

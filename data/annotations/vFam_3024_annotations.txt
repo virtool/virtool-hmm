@@ -1,0 +1,11 @@
+CLUSTER	3024
+NUM_SEQ	3
+LENGTH	587
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	305.24
+FAMILIES	{'Coronaviridae': 3}
+GENERA	{'Betacoronavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|26008082|ref|NP_742130.1|vFam_3024| MHV p65-like protein [Bovine coronavirus]
+gi|60115408|ref|YP_209245.1|vFam_3024| nsp2 or p65 [Murine hepatitis virus strain JHM]
+gi|85719065|ref|YP_459934.1|vFam_3024| nsp2 [Human coronavirus HKU1]

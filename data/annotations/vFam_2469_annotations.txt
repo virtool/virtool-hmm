@@ -1,0 +1,13 @@
+CLUSTER	2469
+NUM_SEQ	5
+LENGTH	458
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	242.74
+FAMILIES	{'Bunyaviridae': 5}
+GENERA	{'Tospovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|113200748|ref|YP_717920.1|vFam_2469| nonstructural protein [Melon yellow spot virus]
+gi|170676269|ref|YP_001740043.1|vFam_2469| NSs [Tomato zonate spot virus]
+gi|113200756|ref|YP_717922.1|vFam_2469| non-structural protein [Capsicum chlorosis virus]
+gi|20153368|ref|NP_619700.1|vFam_2469| non-structural protein [Groundnut bud necrosis virus]
+gi|20564192|ref|NP_620770.1|vFam_2469| NSs [Watermelon silver mottle virus]

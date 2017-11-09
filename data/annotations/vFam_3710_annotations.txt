@@ -1,0 +1,12 @@
+CLUSTER	3710
+NUM_SEQ	4
+LENGTH	196
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	101.92
+FAMILIES	{'Flaviviridae': 3}
+GENERA	{'Hepacivirus': 2, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|157781219|ref|YP_001491550.1|vFam_3710| E1 [Hepatitis C virus genotype 3]
+gi|26053622|ref|NP_751920.1|vFam_3710| E1 protein [Hepatitis C virus]
+gi|485191034|ref|YP_007905985.1|vFam_3710| E1 protein [Rodent hepacivirus]
+gi|26251695|ref|NP_757353.1|vFam_3710| putative E1 protein [Hepatitis GB virus B]

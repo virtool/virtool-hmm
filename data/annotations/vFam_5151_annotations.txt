@@ -1,0 +1,10 @@
+CLUSTER	5151
+NUM_SEQ	2
+LENGTH	369
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	191.88
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52139204|ref|YP_081477.1|vFam_5151| membrane glycoprotein UL18 [Human herpesvirus 5]
+gi|20026620|ref|NP_612662.1|vFam_5151| membrane glycoprotein UL18 [Panine herpesvirus 2]

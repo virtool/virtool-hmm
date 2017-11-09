@@ -1,0 +1,24 @@
+CLUSTER	387
+NUM_SEQ	16
+LENGTH	489
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	249.39
+FAMILIES	{'Caulimoviridae': 16}
+GENERA	{'None': 2, 'Caulimovirus': 10, 'Soymovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|478756000|ref|YP_007761643.1|vFam_387| capsid protein [Rose yellow vein virus]
+gi|11344956|ref|NP_068728.1|vFam_387| putative coat protein [Soybean chlorotic mottle virus]
+gi|221048147|ref|YP_002519386.1|vFam_387| putative capsid protein [Rudbeckia flower distortion virus]
+gi|32306488|ref|NP_861409.1|vFam_387| putative capsid protein [Cestrum yellow leaf curling virus]
+gi|9627958|ref|NP_042512.1|vFam_387| hypothetical protein [Peanut chlorotic streak virus]
+gi|9628904|ref|NP_043932.1|vFam_387| hypothetical protein [Strawberry vein banding virus]
+gi|16117441|ref|NP_395468.1|vFam_387| putative coat protein [Blueberry red ringspot virus]
+gi|189009873|ref|YP_001931966.1|vFam_387| coat protein [Eupatorium vein clearing virus]
+gi|402502234|ref|YP_006607891.1|vFam_387| capsid protein [Soybean Putnam virus]
+gi|20143428|ref|NP_619547.1|vFam_387| Coat protein [Figwort mosaic virus]
+gi|406356619|ref|YP_006732333.1|vFam_387| capsid protein [Dahlia mosaic virus]
+gi|21450047|ref|NP_659396.1|vFam_387| hypothetical protein [Mirabilis mosaic virus]
+gi|189009866|ref|YP_001931960.1|vFam_387| coat protein [Lamium leaf distortion virus]
+gi|19919893|ref|NP_612576.1|vFam_387| Coat protein [Carnation etched ring virus]
+gi|410492646|ref|YP_006907833.1|vFam_387| capsid protein [Horseradish latent virus]
+gi|9626942|ref|NP_056727.1|vFam_387| capsid protein [Cauliflower mosaic virus]

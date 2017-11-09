@@ -1,0 +1,10 @@
+CLUSTER	5718
+NUM_SEQ	2
+LENGTH	225
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	117.0
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'None': 1, 'Rhadinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|321496596|ref|YP_004207881.1|vFam_5718| hypothetical protein RHVP.45 [Rodent herpesvirus Peru]
+gi|9629612|ref|NP_044882.1|vFam_5718| tegument protein G45 [Murid herpesvirus 4]

@@ -1,0 +1,10 @@
+CLUSTER	5675
+NUM_SEQ	2
+LENGTH	378
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	189.0
+FAMILIES	{'Retroviridae': 2}
+GENERA	{'Betaretrovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|66576238|ref|YP_241111.1|vFam_5675| env SU protein [Ovine enzootic nasal tumour virus]
+gi|40796117|ref|NP_955570.1|vFam_5675| gp52 SU [Mouse mammary tumor virus]

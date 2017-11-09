@@ -1,0 +1,10 @@
+CLUSTER	3898
+NUM_SEQ	2
+LENGTH	538
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	274.38
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531034829|ref|YP_008436454.1|vFam_3898| hypothetical protein ps_38 [Pandoravirus salinus]
+gi|526118640|ref|YP_008318543.1|vFam_3898| hypothetical protein [Pandoravirus dulcis]

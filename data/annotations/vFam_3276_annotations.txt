@@ -1,0 +1,12 @@
+CLUSTER	3276
+NUM_SEQ	4
+LENGTH	73
+RELATIVE_ENTROPY_PER_POSITION	0.72
+TOTAL_RELATIVE_ENTROPY	52.56
+FAMILIES	{'None': 2, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831190|ref|YP_003969833.1|vFam_3276| putative DNA-directed RNA polymerase subunit Rpb10 [Cafeteria roenbergensis virus BV-PW1]
+gi|311977741|ref|YP_003986861.1|vFam_3276| putative DNA-directed RNA polymerase II subunit N [Acanthamoeba polyphaga mimivirus]
+gi|448825515|ref|YP_007418446.1|vFam_3276| putative DNA-directed RNA polymerase II subunit n [Megavirus lba]
+gi|441432397|ref|YP_007354439.1|vFam_3276| DNA-directed RNA polymerase subunit N [Acanthamoeba polyphaga moumouvirus]

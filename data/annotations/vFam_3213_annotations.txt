@@ -1,0 +1,12 @@
+CLUSTER	3213
+NUM_SEQ	4
+LENGTH	221
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	114.92
+FAMILIES	{'Rhabdoviridae': 4}
+GENERA	{'Novirhabdovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|34610116|ref|NP_919031.1|vFam_3213| matrix protein 1 [Hirame rhabdovirus]
+gi|9628084|ref|NP_042677.1|vFam_3213| polymerase-associated protein [Infectious hematopoietic necrosis virus]
+gi|9633479|ref|NP_050581.1|vFam_3213| polymerase-associated protein [Snakehead virus]
+gi|9632552|ref|NP_049546.1|vFam_3213| phosphorylated protein [Viral hemorrhagic septicemia virus Fil3]

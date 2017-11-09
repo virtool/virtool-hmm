@@ -1,0 +1,26 @@
+CLUSTER	285
+NUM_SEQ	18
+LENGTH	147
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	74.97
+FAMILIES	{'Hytrosaviridae': 1, 'Marseillevirus family': 17}
+GENERA	{'Muscavirus': 1, 'None': 17}
+FASTA SEQUENCE TITLES:
+gi|187903091|ref|YP_001883382.1|vFam_285| hypothetical protein MdSGHV054 [Musca domestica salivary gland hypertrophy virus]
+gi|284504044|ref|YP_003406759.1|vFam_285| hypothetical protein MAR_ORF004 [Marseillevirus]
+gi|284504127|ref|YP_003406842.1|vFam_285| hypothetical protein MAR_ORF095 [Marseillevirus]
+gi|327409687|ref|YP_004347107.1|vFam_285| hypothetical protein LAU_0144 [Lausannevirus]
+gi|284504124|ref|YP_003406839.1|vFam_285| HTH-containing DNA-binding protein [Marseillevirus]
+gi|327409632|ref|YP_004347052.1|vFam_285| hypothetical protein LAU_0087 [Lausannevirus]
+gi|284504125|ref|YP_003406840.1|vFam_285| hypothetical protein MAR_ORF093 [Marseillevirus]
+gi|284504121|ref|YP_003406836.1|vFam_285| hypothetical protein MAR_ORF089 [Marseillevirus]
+gi|284504128|ref|YP_003406843.1|vFam_285| hypothetical protein MAR_ORF096 [Marseillevirus]
+gi|284504052|ref|YP_003406767.1|vFam_285| hypothetical protein MAR_ORF012 [Marseillevirus]
+gi|327409593|ref|YP_004347013.1|vFam_285| hypothetical protein LAU_0045 [Lausannevirus]
+gi|327409590|ref|YP_004347010.1|vFam_285| hypothetical protein LAU_0042 [Lausannevirus]
+gi|284504466|ref|YP_003407181.1|vFam_285| hypothetical protein MAR_ORF457 [Marseillevirus]
+gi|284504119|ref|YP_003406834.1|vFam_285| hypothetical protein MAR_ORF087 [Marseillevirus]
+gi|327409630|ref|YP_004347050.1|vFam_285| hypothetical protein LAU_0085 [Lausannevirus]
+gi|284504046|ref|YP_003406761.1|vFam_285| hypothetical protein MAR_ORF006 [Marseillevirus]
+gi|284504137|ref|YP_003406852.1|vFam_285| hypothetical protein MAR_ORF105 [Marseillevirus]
+gi|284504123|ref|YP_003406838.1|vFam_285| hypothetical protein MAR_ORF091 [Marseillevirus]

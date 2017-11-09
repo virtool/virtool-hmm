@@ -1,0 +1,11 @@
+CLUSTER	2332
+NUM_SEQ	3
+LENGTH	356
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	185.12
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|159341088|ref|YP_001542647.1|vFam_2332| putative glycosyl transferase [Acidianus rod-shaped virus 1]
+gi|22122317|ref|NP_666578.1|vFam_2332| hypothetical protein SIRV2gp44 [Sulfolobus islandicus rod-shaped virus 2]
+gi|414089974|ref|YP_006990105.1|vFam_2332| putative glycosyl transferase [Sulfolobales Mexican rudivirus 1]

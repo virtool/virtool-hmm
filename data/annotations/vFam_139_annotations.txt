@@ -1,0 +1,27 @@
+CLUSTER	139
+NUM_SEQ	19
+LENGTH	249
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	126.99
+FAMILIES	{'Baculoviridae': 16}
+GENERA	{'Alphabaculovirus': 16}
+FASTA SEQUENCE TITLES:
+gi|438000373|ref|YP_007250478.1|vFam_139| iap-2 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964588|ref|YP_950784.1|vFam_139| inhibitor of apoptosis-2 [Maruca vitrata nucleopolyhedrovirus]
+gi|237643609|ref|YP_002884299.1|vFam_139| IAP2 [Bombyx mandarina nucleopolyhedrovirus]
+gi|23577886|ref|NP_703061.1|vFam_139| inhibitor of apoptosis - 2 [Rachiplusia ou MNPV]
+gi|15320720|ref|NP_203232.1|vFam_139| iap-2 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326138|ref|YP_803464.1|vFam_139| inhibitor of apoptosis protein 2 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|86355600|ref|YP_473268.1|vFam_139| IAP2 [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630012|ref|NP_046230.1|vFam_139| inhibitor of apoptosis protein-2 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153393|ref|YP_008378433.1|vFam_139| IAP-2 [Choristoneura rosaceana alphabaculovirus]
+gi|571031280|ref|YP_008992176.1|vFam_139| iap2 [Choristoneura murinana alphabaculovirus]
+gi|30387298|ref|NP_848377.1|vFam_139| inhibitor of apoptosis 2 [Choristoneura fumiferana multiple nucleopolyhedrovirus]
+gi|209978825|ref|YP_002300568.1|vFam_139| IAP-2 [Adoxophyes orana nucleopolyhedrovirus]
+gi|209401118|ref|YP_002273987.1|vFam_139| inhibitor of apoptosis 2 [Helicoverpa armigera NPV NNg1]
+gi|292397749|ref|YP_003517815.1|vFam_139| IAP-2 [Lymantria xylina MNPV]
+gi|9631046|ref|NP_047716.1|vFam_139| apoptosis inhibitor [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|22549511|ref|NP_689283.1|vFam_139| iap2 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069989|ref|NP_613193.1|vFam_139| inhibitor of apoptosis-2 IAP-2 [Mamestra configurata nucleopolyhedrovirus A]
+gi|125860209|ref|YP_001036379.1|vFam_139| inhibitor of apoptosis 2 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|90592812|ref|YP_529765.1|vFam_139| IAP-2 [Agrotis segetum nucleopolyhedrovirus]

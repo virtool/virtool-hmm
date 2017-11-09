@@ -1,0 +1,11 @@
+CLUSTER	3643
+NUM_SEQ	3
+LENGTH	92
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	49.68
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498242|ref|YP_008004039.1|vFam_3643| unknown similar to AMEV237 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497981|ref|YP_008003780.1|vFam_3643| unknown similar to AMEV237 [Mythimna separata entomopoxvirus 'L']
+gi|9964551|ref|NP_065019.1|vFam_3643| hypothetical protein AMV237 [Amsacta moorei entomopoxvirus 'L']

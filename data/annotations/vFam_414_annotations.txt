@@ -1,0 +1,17 @@
+CLUSTER	414
+NUM_SEQ	9
+LENGTH	592
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	307.84
+FAMILIES	{'Herpesviridae': 9}
+GENERA	{'None': 1, 'Roseolovirus': 2, 'Muromegalovirus': 2, 'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|9633138|ref|NP_050248.1|vFam_414| Phosphotransferase [Human herpesvirus 6B]
+gi|51874291|ref|YP_073809.1|vFam_414| tegument serine/threonine protein kinase [Human herpesvirus 7]
+gi|425707297|ref|YP_007016494.1|vFam_414| E97 [Murid herpesvirus 8]
+gi|9845384|ref|NP_064198.1|vFam_414| pR97 [Murid herpesvirus 2]
+gi|448824931|ref|YP_007417863.1|vFam_414| GP97 [Caviid herpesvirus 2]
+gi|359946530|ref|YP_004936063.1|vFam_414| tegument serine/threonine protein kinase [Cercopithecine herpesvirus 5]
+gi|51556589|ref|YP_068223.1|vFam_414| rh132 [Macacine herpesvirus 3]
+gi|360086574|ref|YP_004940259.1|vFam_414| tegument serine/threonine protein kinase [Saimiriine herpesvirus 3]
+gi|360040978|ref|YP_004940113.1|vFam_414| tegument serine/threonine protein kinase [Aotine herpesvirus 1]

@@ -1,0 +1,13 @@
+CLUSTER	1330
+NUM_SEQ	5
+LENGTH	176
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	88.0
+FAMILIES	{'Marseillevirus family': 5}
+GENERA	{'None': 5}
+FASTA SEQUENCE TITLES:
+gi|327409698|ref|YP_004347118.1|vFam_1330| hypothetical protein LAU_0155 [Lausannevirus]
+gi|327409695|ref|YP_004347115.1|vFam_1330| hypothetical protein LAU_0152 [Lausannevirus]
+gi|284504368|ref|YP_003407083.1|vFam_1330| MORN repeat-containing protein [Marseillevirus]
+gi|327409898|ref|YP_004347318.1|vFam_1330| hypothetical protein LAU_0356 [Lausannevirus]
+gi|284504379|ref|YP_003407094.1|vFam_1330| MORN repeat-containing protein [Marseillevirus]

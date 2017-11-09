@@ -1,0 +1,12 @@
+CLUSTER	3394
+NUM_SEQ	4
+LENGTH	261
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	135.72
+FAMILIES	{'Flaviviridae': 4}
+GENERA	{'Flavivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|392002751|ref|YP_006470618.1|vFam_3394| nonstructural protein NS4B [Culex flavivirus]
+gi|254688387|ref|YP_003084131.1|vFam_3394| putative NS4B protein [Aedes flavivirus]
+gi|37695588|ref|NP_937779.1|vFam_3394| NS4B protein [Kamiti River virus]
+gi|27735348|ref|NP_776047.1|vFam_3394| putative non-structural protein NS4b [Cell fusing agent virus]

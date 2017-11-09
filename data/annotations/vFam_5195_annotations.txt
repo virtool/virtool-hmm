@@ -1,0 +1,10 @@
+CLUSTER	5195
+NUM_SEQ	2
+LENGTH	262
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	136.24
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Gammabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|48843692|ref|YP_025263.1|vFam_5195| occlusion-derived virus envelope/capsid protein [Neodiprion lecontei nucleopolyhedrovirus]
+gi|48843600|ref|YP_025173.1|vFam_5195| occlusion-derived envelope protein e27 [Neodiprion sertifer nucleopolyhedrovirus]

@@ -1,0 +1,10 @@
+CLUSTER	6285
+NUM_SEQ	2
+LENGTH	139
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	72.28
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40556227|ref|NP_955312.1|vFam_6285| CNPV289 putative interleukin binding protein [Canarypox virus]
+gi|9634884|ref|NP_039177.1|vFam_6285| Putative 13.7 kDa protein [Fowlpox virus]

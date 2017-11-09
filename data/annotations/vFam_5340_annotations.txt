@@ -1,0 +1,10 @@
+CLUSTER	5340
+NUM_SEQ	2
+LENGTH	177
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	92.04
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531034904|ref|YP_008436529.1|vFam_5340| dihydroneopterin aldolase [Pandoravirus salinus]
+gi|526118700|ref|YP_008318603.1|vFam_5340| dihydroneopterin aldolase [Pandoravirus dulcis]

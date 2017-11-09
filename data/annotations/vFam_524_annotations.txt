@@ -1,0 +1,22 @@
+CLUSTER	524
+NUM_SEQ	14
+LENGTH	517
+RELATIVE_ENTROPY_PER_POSITION	0.55
+TOTAL_RELATIVE_ENTROPY	284.35
+FAMILIES	{'Closteroviridae': 14}
+GENERA	{'None': 2, 'Crinivirus': 12}
+FASTA SEQUENCE TITLES:
+gi|258676968|ref|YP_003204958.1|vFam_524| p60 [Tomato infectious chlorosis virus]
+gi|20153355|ref|NP_619696.1|vFam_524| hypothetical protein LIYVs2gp2 [Lettuce infectious yellows virus]
+gi|50428967|ref|YP_054419.1|vFam_524| hypothetical protein PYVVs2_gp3 [Potato yellow vein virus]
+gi|48696545|ref|YP_025087.1|vFam_524| p60 [Strawberry pallidosis-associated virus]
+gi|38257133|ref|NP_940790.1|vFam_524| p59 [Beet pseudoyellows virus]
+gi|62401636|ref|YP_227362.1|vFam_524| p59 [Blackberry yellow vein-associated virus]
+gi|22550325|ref|NP_689402.1|vFam_524| putative movement protein [Sweet potato chlorotic stunt virus]
+gi|72398335|ref|YP_293701.1|vFam_524| P59 [Tomato chlorosis virus]
+gi|30840972|ref|NP_851574.1|vFam_524| p59 [Cucurbit yellow stunting disorder virus]
+gi|177882065|ref|YP_001816777.1|vFam_524| p60 [Bean yellow disorder virus]
+gi|395865413|ref|YP_006522429.1|vFam_524| hypothetical 59-kDa protein [Cucurbit chlorotic yellows virus]
+gi|242916046|ref|YP_003002360.1|vFam_524| unnamed protein product [Lettuce chlorosis virus]
+gi|359683129|ref|YP_004935923.1|vFam_524| p64 gene product [Grapevine leafroll-associated virus 7]
+gi|9629713|ref|NP_045005.1|vFam_524| hypothetical protein [Little cherry virus 1]

@@ -1,0 +1,13 @@
+CLUSTER	2680
+NUM_SEQ	5
+LENGTH	256
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	135.68
+FAMILIES	{'Paramyxoviridae': 5}
+GENERA	{'Pneumovirus': 3, 'Metapneumovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|83716028|ref|YP_443839.1|vFam_2680| matrix protein [Avian metapneumovirus]
+gi|46852135|ref|YP_012607.1|vFam_2680| matrix protein [Human metapneumovirus]
+gi|56900720|ref|YP_173329.1|vFam_2680| matrix protein [Pneumonia virus of mice J3666]
+gi|9631272|ref|NP_048052.1|vFam_2680| M [Bovine respiratory syncytial virus]
+gi|9629372|ref|NP_044593.1|vFam_2680| Matrix protein (M) [Respiratory syncytial virus]

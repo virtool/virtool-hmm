@@ -1,0 +1,20 @@
+CLUSTER	714
+NUM_SEQ	12
+LENGTH	148
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	78.44
+FAMILIES	{'Baculoviridae': 11}
+GENERA	{'Betabaculovirus': 11}
+FASTA SEQUENCE TITLES:
+gi|285002405|ref|YP_003422469.1|vFam_714| hypothetical protein PsunGV_gp130 [Pseudaletia unipuncta granulovirus]
+gi|148368921|ref|YP_001257051.1|vFam_714| hypothetical protein SlGVgp100 [Spodoptera litura granulovirus]
+gi|11068095|ref|NP_068311.1|vFam_714| PxORF92 peptide [Plutella xylostella granulovirus]
+gi|46309354|ref|YP_006244.1|vFam_714| ORF100 [Agrotis segetum granulovirus]
+gi|410493673|ref|YP_006908611.1|vFam_714| hypothetical protein [Epinotia aporema granulovirus]
+gi|556549129|ref|YP_008720043.1|vFam_714| hypothetical protein CaLGV096 [Clostera anastomosis granulovirus]
+gi|32698632|ref|NP_872547.1|vFam_714| ORF_93 [Adoxophyes orana granulovirus]
+gi|33622299|ref|NP_891946.1|vFam_714| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602345|ref|NP_148892.1|vFam_714| ORF108 similar to AcMNPV ORF75 [Cydia pomonella granulovirus]
+gi|288804731|ref|YP_003429416.1|vFam_714| PrGVORF92 [Pieris rapae granulovirus]
+gi|21686766|ref|NP_663266.1|vFam_714| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|109255361|ref|YP_654510.1|vFam_714| hypothetical protein COGV_gp089 [Choristoneura occidentalis granulovirus]

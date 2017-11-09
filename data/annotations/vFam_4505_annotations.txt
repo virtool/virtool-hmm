@@ -1,0 +1,10 @@
+CLUSTER	4505
+NUM_SEQ	2
+LENGTH	275
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	143.0
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|260665883|ref|YP_003212837.1|vFam_4505| hypothetical protein H665_p013 [Ostreococcus tauri virus 1]
+gi|314055103|ref|YP_004063441.1|vFam_4505| putative glycosyl transferase, group 1 [Ostreococcus tauri virus 2]

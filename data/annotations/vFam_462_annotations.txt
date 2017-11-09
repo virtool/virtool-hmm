@@ -1,0 +1,14 @@
+CLUSTER	462
+NUM_SEQ	6
+LENGTH	751
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	383.01
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036789|ref|YP_008438428.1|vFam_462| F-box domain [Pandoravirus salinus]
+gi|526119830|ref|YP_008319733.1|vFam_462| F-box domain [Pandoravirus dulcis]
+gi|531035187|ref|YP_008436813.1|vFam_462| F-box domain [Pandoravirus salinus]
+gi|526119008|ref|YP_008318911.1|vFam_462| F-box domain [Pandoravirus dulcis]
+gi|531035132|ref|YP_008436757.1|vFam_462| F-box domain [Pandoravirus salinus]
+gi|526118953|ref|YP_008318856.1|vFam_462| F-box domain [Pandoravirus dulcis]

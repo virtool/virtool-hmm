@@ -1,0 +1,14 @@
+CLUSTER	2173
+NUM_SEQ	6
+LENGTH	139
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	72.28
+FAMILIES	{'Adenoviridae': 6}
+GENERA	{'Mastadenovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|224531380|ref|NP_040916.2|vFam_2173| L1 gene product [Human adenovirus A]
+gi|160409918|ref|NP_040517.2|vFam_2173| protein 13.6K [Human adenovirus C]
+gi|190340981|ref|YP_001974467.1|vFam_2173| protein 13.6K [Human adenovirus D]
+gi|166240044|ref|YP_001661328.1|vFam_2173| protein 13.6K [Human adenovirus E]
+gi|197944786|ref|YP_002213804.1|vFam_2173| protein 13.6K [Human adenovirus B]
+gi|197944733|ref|YP_002213771.1|vFam_2173| protein 13.6K [Human adenovirus B]

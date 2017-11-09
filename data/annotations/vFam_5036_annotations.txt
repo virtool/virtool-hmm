@@ -1,0 +1,11 @@
+CLUSTER	5036
+NUM_SEQ	3
+LENGTH	139
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	70.89
+FAMILIES	{'Phycodnaviridae': 2, 'Mimiviridae': 1}
+GENERA	{'Mimivirus': 1, 'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|311977525|ref|YP_003986645.1|vFam_5036| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|157953508|ref|YP_001498399.1|vFam_5036| hypothetical protein AR158_C318L [Paramecium bursaria Chlorella virus AR158]
+gi|9631841|ref|NP_048627.1|vFam_5036| hypothetical protein [Paramecium bursaria Chlorella virus 1]

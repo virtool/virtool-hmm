@@ -1,0 +1,10 @@
+CLUSTER	5833
+NUM_SEQ	2
+LENGTH	809
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	420.68
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|284504468|ref|YP_003407183.1|vFam_5833| D5-like helicase-primase [Marseillevirus]
+gi|284504072|ref|YP_003406787.1|vFam_5833| highly derived D5-like helicase-primase [Marseillevirus]

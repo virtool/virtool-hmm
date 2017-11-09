@@ -1,0 +1,11 @@
+CLUSTER	2696
+NUM_SEQ	3
+LENGTH	183
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	95.16
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|356640497|ref|YP_004933939.1|vFam_2696| hypothetical protein cy194 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|359946571|ref|YP_004936104.1|vFam_2696| protein O16 [Cercopithecine herpesvirus 5]
+gi|356640496|ref|YP_004933938.1|vFam_2696| hypothetical protein cy193 [Cynomolgus macaque cytomegalovirus strain Ottawa]

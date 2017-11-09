@@ -1,0 +1,20 @@
+CLUSTER	170
+NUM_SEQ	12
+LENGTH	600
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	324.0
+FAMILIES	{'Secoviridae': 11}
+GENERA	{'Comovirus': 6, 'None': 1, 'Nepovirus': 2, 'Fabavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|62398855|ref|YP_227370.1|vFam_170| helicase [Strawberry latent ringspot virus]
+gi|564614865|ref|YP_008877667.1|vFam_170| NTP-binding protein [Lamium mild mosaic virus]
+gi|25013971|ref|NP_733959.1|vFam_170| NTP-binding domain [Broad bean wilt virus 2]
+gi|39979440|ref|NP_951027.1|vFam_170| NTP-binding protein [Broad bean wilt virus 1]
+gi|25013682|ref|NP_734059.1|vFam_170| membrane-binding protein [Cowpea severe mosaic virus]
+gi|25013674|ref|NP_734067.1|vFam_170| putative helicase [Bean pod mottle virus]
+gi|25013695|ref|NP_734009.1|vFam_170| helicase [Squash mosaic virus]
+gi|25013708|ref|NP_734054.1|vFam_170| membrane-binding protein [Cowpea mosaic virus]
+gi|530323596|ref|YP_008400140.1|vFam_170| helicase [Broad bean true mosaic virus]
+gi|25013690|ref|NP_734027.1|vFam_170| NTP-binding domain [Red clover mottle virus]
+gi|25013731|ref|NP_734004.1|vFam_170| NTP-binding domain [Tomato ringspot virus]
+gi|194033124|ref|YP_002000611.1|vFam_170| NTP-binding protein [Grapevine chrome mosaic virus]

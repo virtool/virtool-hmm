@@ -1,0 +1,26 @@
+CLUSTER	367
+NUM_SEQ	18
+LENGTH	223
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	113.73
+FAMILIES	{'Adenoviridae': 16}
+GENERA	{'Aviadenovirus': 7, 'Siadenovirus': 4, 'Atadenovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|9635806|ref|NP_062442.1|vFam_367| pVI [Frog adenovirus 1]
+gi|56160826|ref|AP_000485.1|vFam_367| pVI [Turkey adenovirus A]
+gi|363540923|ref|YP_004935938.1|vFam_367| unnamed protein product [Skua adenovirus A]
+gi|331271182|ref|YP_004414807.1|vFam_367| pVI protein [Raptor adenovirus A]
+gi|56158891|ref|AP_000087.1|vFam_367| pVI [Duck adenovirus A]
+gi|160700564|ref|YP_001552254.1|vFam_367| unnamed protein product [Snake adenovirus 1]
+gi|21450903|ref|NP_659522.1|vFam_367| pVI [Ovine adenovirus D]
+gi|440382974|ref|YP_007347005.1|vFam_367| pVI [Bovine adenovirus 6]
+gi|13242732|ref|NP_077396.1|vFam_367| pVI [Bovine adenovirus D]
+gi|320202753|ref|YP_004191820.1|vFam_367| pVI [Fowl adenovirus E]
+gi|388570689|ref|YP_006383563.1|vFam_367| capsid protein precursor pVI [Goose adenovirus 4]
+gi|308222751|ref|YP_003933588.1|vFam_367| unnamed protein product [Turkey adenovirus 1]
+gi|327409484|ref|YP_004346928.1|vFam_367| pVI [Fowl adenovirus C]
+gi|555928228|ref|YP_008719859.1|vFam_367| pVI [Turkey adenovirus 5]
+gi|56160749|ref|AP_000417.1|vFam_367| pVI [Fowl adenovirus A]
+gi|501000359|ref|YP_007985653.1|vFam_367| pVI [Fowl adenovirus 5]
+gi|555928195|ref|YP_008719827.1|vFam_367| pVI [Turkey adenovirus 4]
+gi|56160721|ref|AP_000383.1|vFam_367| pVI [Fowl adenovirus D]

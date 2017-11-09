@@ -1,0 +1,10 @@
+CLUSTER	4229
+NUM_SEQ	2
+LENGTH	151
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	77.01
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531034979|ref|YP_008436604.1|vFam_4229| hypothetical protein ps_188 [Pandoravirus salinus]
+gi|526118826|ref|YP_008318729.1|vFam_4229| hypothetical protein [Pandoravirus dulcis]

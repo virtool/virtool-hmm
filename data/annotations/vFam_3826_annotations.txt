@@ -1,0 +1,12 @@
+CLUSTER	3826
+NUM_SEQ	4
+LENGTH	217
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	112.84
+FAMILIES	{'Bromoviridae': 4}
+GENERA	{'Cucumovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|9626474|ref|NP_040777.1|vFam_3826| capsid protein [Cucumber mosaic virus]
+gi|9632352|ref|NP_049334.1|vFam_3826| coat protein [Peanut stunt virus]
+gi|224808904|ref|YP_002640504.1|vFam_3826| coat protein [Gayfeather mild mottle virus]
+gi|20564159|ref|NP_620759.1|vFam_3826| capsid protein [Tomato aspermy virus]

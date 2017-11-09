@@ -1,0 +1,10 @@
+CLUSTER	3441
+NUM_SEQ	2
+LENGTH	305
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	152.5
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|284504199|ref|YP_003406914.1|vFam_3441| hypothetical protein MAR_ORF171 [Marseillevirus]
+gi|284504195|ref|YP_003406910.1|vFam_3441| hypothetical protein MAR_ORF167 [Marseillevirus]

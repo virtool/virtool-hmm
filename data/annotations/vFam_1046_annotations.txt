@@ -1,0 +1,14 @@
+CLUSTER	1046
+NUM_SEQ	6
+LENGTH	255
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	130.05
+FAMILIES	{'Poxviridae': 6}
+GENERA	{'Orthopoxvirus': 4, 'Leporipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|22164608|ref|NP_671519.1|vFam_1046| EVM001 [Ectromelia virus]
+gi|18640446|ref|NP_570391.1|vFam_1046| CMLV001 [Camelpox virus]
+gi|17975104|ref|NP_536618.1|vFam_1046| J3R [Monkeypox virus Zaire-96-I-16]
+gi|20178585|ref|NP_620006.1|vFam_1046| vCCI or CPXV227 protein [Cowpox virus]
+gi|9633971|ref|NP_052050.1|vFam_1046| s001R [Rabbit fibroma virus]
+gi|9633793|ref|NP_051712.1|vFam_1046| m1 [Myxoma virus]

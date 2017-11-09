@@ -1,0 +1,15 @@
+CLUSTER	1091
+NUM_SEQ	7
+LENGTH	61
+RELATIVE_ENTROPY_PER_POSITION	0.84
+TOTAL_RELATIVE_ENTROPY	51.24
+FAMILIES	{'None': 1, 'Baculoviridae': 4}
+GENERA	{'None': 1, 'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|448825952|ref|YP_007418883.1|vFam_1091| hypothetical protein LBA_00989 [Megavirus lba]
+gi|116326188|ref|YP_803514.1|vFam_1091| hypothetical protein AGNV_gp120 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651464|ref|NP_932726.1|vFam_1091| hypothetical protein CFDNVgORF117 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|529153513|ref|YP_008378538.1|vFam_1091| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|571031234|ref|YP_008992130.1|vFam_1091| hypothetical protein chmu038 [Choristoneura murinana alphabaculovirus]
+gi|86355553|ref|YP_473221.1|vFam_1091| ORF33 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630059|ref|NP_046277.1|vFam_1091| hypothetical protein OpmnVgp121 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]

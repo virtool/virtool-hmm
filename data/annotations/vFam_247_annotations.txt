@@ -1,0 +1,26 @@
+CLUSTER	247
+NUM_SEQ	18
+LENGTH	331
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	172.12
+FAMILIES	{'None': 5, 'Phycodnaviridae': 7, 'Mimiviridae': 6}
+GENERA	{'None': 8, 'Prymnesiovirus': 3, 'Mimivirus': 3, 'Phaeovirus': 3, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182079|ref|YP_008052598.1|vFam_247| hypothetical protein PGCG_00280 [Phaeocystis globosa virus]
+gi|73852592|ref|YP_293876.1|vFam_247| hypothetical protein EhV122 [Emiliania huxleyi virus 86]
+gi|508181835|ref|YP_008052354.1|vFam_247| replication factor C small subunit [Phaeocystis globosa virus]
+gi|310831451|ref|YP_003970094.1|vFam_247| putative replication factor C subunit [Cafeteria roenbergensis virus BV-PW1]
+gi|311977779|ref|YP_003986899.1|vFam_247| putative replication factor C small subunit [Acanthamoeba polyphaga mimivirus]
+gi|441432354|ref|YP_007354396.1|vFam_247| putative replication factor C small subunit [Acanthamoeba polyphaga moumouvirus]
+gi|363540406|ref|YP_004894549.1|vFam_247| mg498 gene product [Megavirus chiliensis]
+gi|13242694|ref|NP_077709.1|vFam_247| EsV-1-224 [Ectocarpus siliculosus virus 1]
+gi|508181847|ref|YP_008052366.1|vFam_247| replication factor C small subunit [Phaeocystis globosa virus]
+gi|13242558|ref|NP_077572.1|vFam_247| EsV-1-87 [Ectocarpus siliculosus virus 1]
+gi|310831185|ref|YP_003969828.1|vFam_247| putative replication factor C subunit [Cafeteria roenbergensis virus BV-PW1]
+gi|13242652|ref|NP_077667.1|vFam_247| EsV-1-182 [Ectocarpus siliculosus virus 1]
+gi|448825330|ref|YP_007418261.1|vFam_247| putative replication factor C small subunit [Megavirus lba]
+gi|311977891|ref|YP_003987011.1|vFam_247| putative replication factor C small subunit [Acanthamoeba polyphaga mimivirus]
+gi|310831184|ref|YP_003969827.1|vFam_247| putative replication factor C subunit [Cafeteria roenbergensis virus BV-PW1]
+gi|311977902|ref|YP_003987022.1|vFam_247| putative replication factor C small subunit [Acanthamoeba polyphaga mimivirus]
+gi|448825607|ref|YP_007418538.1|vFam_247| putative replication factor C small subunit [Megavirus lba]
+gi|441432472|ref|YP_007354514.1|vFam_247| putative replication factor C small subunit [Acanthamoeba polyphaga moumouvirus]

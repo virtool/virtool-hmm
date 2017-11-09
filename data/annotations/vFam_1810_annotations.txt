@@ -1,0 +1,14 @@
+CLUSTER	1810
+NUM_SEQ	6
+LENGTH	350
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	182.0
+FAMILIES	{'Reoviridae': 6}
+GENERA	{'Orbivirus': 6}
+FASTA SEQUENCE TITLES:
+gi|550455625|ref|YP_008658425.1|vFam_1810| inclusion body protein [Wallal virus]
+gi|556333788|ref|YP_008719924.1|vFam_1810| inclusion body NS2 [Changuinola virus]
+gi|261182062|ref|YP_003240115.1|vFam_1810| NS2 protein [Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey)]
+gi|50253378|ref|YP_052952.1|vFam_1810| NS2 protein [Bluetongue virus]
+gi|50261325|ref|YP_052961.1|vFam_1810| hypothetical protein AHSV_s8gp1 [African horse sickness virus]
+gi|50261341|ref|YP_052939.1|vFam_1810| non structural protein NS2 [Palyam virus]

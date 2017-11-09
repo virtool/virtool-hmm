@@ -1,0 +1,10 @@
+CLUSTER	4717
+NUM_SEQ	2
+LENGTH	211
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	109.72
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Prymnesiovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|508181872|ref|YP_008052391.1|vFam_4717| HNH endonuclease [Phaeocystis globosa virus]
+gi|508181860|ref|YP_008052379.1|vFam_4717| HNH endonuclease [Phaeocystis globosa virus]

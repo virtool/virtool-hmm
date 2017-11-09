@@ -1,0 +1,10 @@
+CLUSTER	6487
+NUM_SEQ	2
+LENGTH	59
+RELATIVE_ENTROPY_PER_POSITION	0.88
+TOTAL_RELATIVE_ENTROPY	51.92
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|228861595|ref|YP_002854615.1|vFam_6487| hypothetical protein EupsNPV_gp005 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|18138332|ref|NP_542628.1|vFam_6487| ORF5 [Helicoverpa zea single nucleopolyhedrovirus]

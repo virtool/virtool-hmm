@@ -1,0 +1,10 @@
+CLUSTER	5859
+NUM_SEQ	2
+LENGTH	82
+RELATIVE_ENTROPY_PER_POSITION	0.63
+TOTAL_RELATIVE_ENTROPY	51.66
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Gammabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|48843670|ref|YP_025241.1|vFam_5859| unknown [Neodiprion lecontei nucleopolyhedrovirus]
+gi|48843578|ref|YP_025151.1|vFam_5859| hypothetical protein NeseNPV_gp44 [Neodiprion sertifer nucleopolyhedrovirus]

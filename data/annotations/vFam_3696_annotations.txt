@@ -1,0 +1,11 @@
+CLUSTER	3696
+NUM_SEQ	3
+LENGTH	131
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	69.43
+FAMILIES	{'Adenoviridae': 3}
+GENERA	{'Mastadenovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|345462122|ref|YP_004782124.1|vFam_3696| unnamed protein product [Bat adenovirus 2]
+gi|56160983|ref|AP_000638.1|vFam_3696| E4 ORFA [Canine adenovirus 2]
+gi|56158878|ref|AP_000075.1|vFam_3696| E4 ORFA [Canine adenovirus 1]

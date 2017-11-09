@@ -1,0 +1,10 @@
+CLUSTER	6120
+NUM_SEQ	2
+LENGTH	68
+RELATIVE_ENTROPY_PER_POSITION	0.76
+TOTAL_RELATIVE_ENTROPY	51.68
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281812|ref|YP_003331478.1|vFam_6120| hypothetical protein SSSV6_gp28 [Sulfolobus spindle-shaped virus 6]
+gi|270281778|ref|YP_003331438.1|vFam_6120| hypothetical protein [Acidianus spindle-shaped virus 1]

@@ -1,0 +1,11 @@
+CLUSTER	3669
+NUM_SEQ	3
+LENGTH	146
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	74.46
+FAMILIES	{'None': 1, 'Baculoviridae': 2}
+GENERA	{'None': 1, 'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|370702965|ref|YP_004956767.1|vFam_3669| orf19 gene product [Helicoverpa zea nudivirus 2]
+gi|292397700|ref|YP_003517766.1|vFam_3669| ORF26 [Lymantria xylina MNPV]
+gi|9630995|ref|NP_047665.1|vFam_3669| LdOrf-29 peptide [Lymantria dispar multiple nucleopolyhedrovirus]

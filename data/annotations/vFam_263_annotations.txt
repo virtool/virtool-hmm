@@ -1,0 +1,22 @@
+CLUSTER	263
+NUM_SEQ	14
+LENGTH	645
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	341.85
+FAMILIES	{'Tymoviridae': 13}
+GENERA	{'Tymovirus': 13}
+FASTA SEQUENCE TITLES:
+gi|526118410|ref|YP_008318041.1|vFam_263| putative movement protein [Tomato blistering mosaic virus]
+gi|459642389|ref|YP_007517179.1|vFam_263| putative movement protein [Andean potato latent virus]
+gi|459642393|ref|YP_007517182.1|vFam_263| putative movement protein [Andean potato mild mosaic virus]
+gi|9626695|ref|NP_040967.1|vFam_263| movement protein [Eggplant mosaic virus]
+gi|20177480|ref|NP_619755.1|vFam_263| overlapping protein/movement protein [Physalis mottle virus]
+gi|212498986|ref|YP_002308444.1|vFam_263| putative movement protein [Plantago mottle virus]
+gi|194473850|ref|YP_002048672.1|vFam_263| movement protein MP [Diascia yellow mottle virus]
+gi|212498905|ref|YP_002308441.1|vFam_263| putative movement protein [Nemesia ring necrosis virus]
+gi|212525934|ref|YP_002308577.1|vFam_263| putative movement protein [Anagyris vein yellowing virus]
+gi|212498834|ref|YP_002308438.1|vFam_263| putative movement protein [Scrophularia mottle virus]
+gi|9627011|ref|NP_041256.1|vFam_263| overlapping protein/movement protein [Ononis yellow mosaic virus]
+gi|21686951|ref|NP_663296.1|vFam_263| overlapping protein/movement protein [Turnip yellow mosaic virus]
+gi|339276124|ref|YP_004464923.1|vFam_263| movement protein [Asclepias asymptomatic virus]
+gi|148724438|ref|YP_001285471.1|vFam_263| putative movement protein [Okra mosaic virus]

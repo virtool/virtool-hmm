@@ -1,0 +1,11 @@
+CLUSTER	2603
+NUM_SEQ	3
+LENGTH	298
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	157.94
+FAMILIES	{'Paramyxoviridae': 3}
+GENERA	{'Pneumovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9631274|ref|NP_048054.1|vFam_2603| G [Bovine respiratory syncytial virus]
+gi|9629374|ref|NP_044595.1|vFam_2603| Attachment glycoprotein (G) [Respiratory syncytial virus]
+gi|9629205|ref|NP_056862.1|vFam_2603| attachment glycoprotein [Human respiratory syncytial virus]

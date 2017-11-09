@@ -1,0 +1,11 @@
+CLUSTER	4665
+NUM_SEQ	3
+LENGTH	188
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	97.76
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977816|ref|YP_003986936.1|vFam_4665| putative HD phosphohydrolase [Acanthamoeba polyphaga mimivirus]
+gi|448825418|ref|YP_007418349.1|vFam_4665| putative HD phosphohydrolase [Megavirus lba]
+gi|441432314|ref|YP_007354356.1|vFam_4665| putative HD phosphohydrolase [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,10 @@
+CLUSTER	6467
+NUM_SEQ	2
+LENGTH	58
+RELATIVE_ENTROPY_PER_POSITION	0.90
+TOTAL_RELATIVE_ENTROPY	52.2
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|295441857|ref|YP_003591098.1|vFam_6467| hypothetical protein STIV2_C54b [Sulfolobus turreted icosahedral virus 2]
+gi|48697014|ref|YP_025011.1|vFam_6467| hypothetical protein A58 [Sulfolobus turreted icosahedral virus]

@@ -1,0 +1,10 @@
+CLUSTER	5881
+NUM_SEQ	2
+LENGTH	67
+RELATIVE_ENTROPY_PER_POSITION	0.77
+TOTAL_RELATIVE_ENTROPY	51.59
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|529153621|ref|YP_008378646.1|vFam_5881| BRO-A [Choristoneura occidentalis alphabaculovirus]
+gi|30387239|ref|NP_848318.1|vFam_5881| baculovirus repeated ORF [Choristoneura fumiferana multiple nucleopolyhedrovirus]

@@ -1,0 +1,17 @@
+CLUSTER	1041
+NUM_SEQ	9
+LENGTH	88
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	51.92
+FAMILIES	{'Poxviridae': 9}
+GENERA	{'None': 1, 'Cervidpoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 3, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|345107204|ref|YP_004821369.1|vFam_1041| interferon resistance protein [Yoka poxvirus]
+gi|377830057|ref|YP_005296217.1|vFam_1041| unnamed protein product [Cotia virus SPAn232]
+gi|113195214|ref|YP_717344.1|vFam_1041| interferon resistance protein [Taterapox virus]
+gi|66275831|ref|YP_232916.1|vFam_1041| interferon resistance protein [Vaccinia virus]
+gi|18640096|ref|NP_570170.1|vFam_1041| SPV010 eIF2 alpha-like PKR inhibitor [Swinepox virus]
+gi|148912891|ref|YP_001293205.1|vFam_1041| hypothetical protein GTPV_gp011 [Goatpox virus Pellor]
+gi|211956294|ref|YP_002302362.1|vFam_1041| EIF2a-like PKR inhibitor [Deerpox virus W-1170-84]
+gi|157939632|ref|YP_001497004.1|vFam_1041| IF2a-like protein PKR inhibitor [Tanapox virus]
+gi|38229177|ref|NP_938270.1|vFam_1041| 12L [Yaba monkey tumor virus]

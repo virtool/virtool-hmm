@@ -1,0 +1,11 @@
+CLUSTER	1511
+NUM_SEQ	3
+LENGTH	148
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	76.96
+FAMILIES	{'None': 2, 'Marseillevirus family': 1}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|310831042|ref|YP_003969685.1|vFam_1511| putative eIF-2B/eIF-5 [Cafeteria roenbergensis virus BV-PW1]
+gi|410493455|ref|YP_006908653.1|vFam_1511| putative eukaryotic translation initiation factor [Abalone herpesvirus Victoria/AUS/2009]
+gi|284504323|ref|YP_003407038.1|vFam_1511| eukaryotic translation initiation factor 5 [Marseillevirus]

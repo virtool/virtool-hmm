@@ -1,0 +1,11 @@
+CLUSTER	5019
+NUM_SEQ	3
+LENGTH	127
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	64.77
+FAMILIES	{'Polyomaviridae': 1, 'Reoviridae': 2}
+GENERA	{'Polyomavirus': 1, 'Orthoreovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9626483|ref|NP_040784.1|vFam_5019| agnoprotein [Bovine polyomavirus]
+gi|343098563|ref|YP_004769556.1|vFam_5019| p16 [Baboon orthoreovirus]
+gi|298200957|ref|YP_003717781.1|vFam_5019| small non-structural protein p16 [Broome virus]

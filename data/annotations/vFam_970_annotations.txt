@@ -1,0 +1,16 @@
+CLUSTER	970
+NUM_SEQ	8
+LENGTH	192
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	99.84
+FAMILIES	{'Adenoviridae': 6}
+GENERA	{'Aviadenovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|388570699|ref|YP_006383573.1|vFam_970| protein ORF22 [Goose adenovirus 4]
+gi|327409497|ref|YP_004346941.1|vFam_970| ORF22 [Fowl adenovirus C]
+gi|501000369|ref|YP_007985663.1|vFam_970| ORF22 [Fowl adenovirus 5]
+gi|555928204|ref|YP_008719836.1|vFam_970| ORF22 [Turkey adenovirus 4]
+gi|56160728|ref|AP_000391.1|vFam_970| ORF22 [Fowl adenovirus D]
+gi|308222761|ref|YP_003933598.1|vFam_970| unnamed protein product [Turkey adenovirus 1]
+gi|555928238|ref|YP_008719869.1|vFam_970| ORF22 [Turkey adenovirus 5]
+gi|56160760|ref|AP_000428.1|vFam_970| ORF22 [Fowl adenovirus A]

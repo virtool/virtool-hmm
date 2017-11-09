@@ -1,0 +1,10 @@
+CLUSTER	4850
+NUM_SEQ	2
+LENGTH	201
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	104.52
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409951|ref|YP_004347371.1|vFam_4850| conserved putative secreted protein [Lausannevirus]
+gi|284504405|ref|YP_003407120.1|vFam_4850| galactose binding lectin domain-containing protein [Marseillevirus]

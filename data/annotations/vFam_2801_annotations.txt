@@ -1,0 +1,10 @@
+CLUSTER	2801
+NUM_SEQ	2
+LENGTH	282
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	141.0
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|163955159|ref|YP_001648263.1|vFam_2801| hypothetical protein OsV5_187r [Ostreococcus virus OsV5]
+gi|163955158|ref|YP_001648262.1|vFam_2801| hypothetical protein OsV5_186r [Ostreococcus virus OsV5]

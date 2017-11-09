@@ -1,0 +1,10 @@
+CLUSTER	5284
+NUM_SEQ	2
+LENGTH	816
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	416.16
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035574|ref|YP_008437206.1|vFam_5284| replication factor C large subunit [Pandoravirus salinus]
+gi|526119293|ref|YP_008319196.1|vFam_5284| replication factor C large subunit [Pandoravirus dulcis]

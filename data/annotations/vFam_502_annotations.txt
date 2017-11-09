@@ -1,0 +1,22 @@
+CLUSTER	502
+NUM_SEQ	14
+LENGTH	768
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	407.04
+FAMILIES	{'Totiviridae': 13}
+GENERA	{'None': 2, 'Totivirus': 2, 'Victorivirus': 9}
+FASTA SEQUENCE TITLES:
+gi|13487888|ref|NP_108650.1|vFam_502| coat protein [Eimeria brunetti RNA virus 1]
+gi|478755946|ref|YP_007761588.1|vFam_502| putative coat protein [Ustilaginoidea virens RNA virus 1]
+gi|54193768|ref|YP_122351.1|vFam_502| putative coat protein [Magnaporthe oryzae virus 1]
+gi|9630964|ref|NP_047559.1|vFam_502| coat protein [Sphaeropsis sapinea RNA virus 2]
+gi|78762703|ref|YP_392466.1|vFam_502| putative coat protein [Coniothyrium minitans RNA virus]
+gi|164597961|ref|YP_001649205.1|vFam_502| coat protein [Magnaporthe oryzae virus 2]
+gi|50080150|ref|YP_044806.1|vFam_502| putative coat protein [Gremmeniella abietina RNA virus L2]
+gi|33867951|ref|NP_898832.1|vFam_502| coat protein [Helicobasidium mompa No.17 dsRNA virus]
+gi|48696978|ref|YP_024727.1|vFam_502| coat protein [Chalara elegans RNA Virus 1]
+gi|9630961|ref|NP_047557.1|vFam_502| coat protein [Sphaeropsis sapinea RNA virus 1]
+gi|514361122|ref|YP_008130307.1|vFam_502| putative capsid protein [Rosellinia necatrix victorivirus 1]
+gi|134141996|ref|YP_001109579.1|vFam_502| coat protein [Botryotinia fuckeliana totivirus 1]
+gi|315573169|ref|YP_004089629.1|vFam_502| coat protein [Tolypocladium cylindrosporum virus 1]
+gi|124484601|ref|NP_619669.2|vFam_502| coat protein [Helminthosporium victoriae virus 190S]

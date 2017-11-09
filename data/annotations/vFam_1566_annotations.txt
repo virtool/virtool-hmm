@@ -1,0 +1,13 @@
+CLUSTER	1566
+NUM_SEQ	5
+LENGTH	387
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	197.37
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|56694766|ref|YP_164486.1|vFam_1566| envelope protein UL43 [Cercopithecine herpesvirus 2]
+gi|83722612|ref|YP_443890.1|vFam_1566| envelope protein UL43 [Papiine herpesvirus 2]
+gi|30984471|ref|NP_851903.1|vFam_1566| envelope protein UL43 [Macacine herpesvirus 1]
+gi|218675785|ref|NP_044645.2|vFam_1566| envelope protein UL43 [Human herpesvirus 1]
+gi|9629313|ref|NP_044513.1|vFam_1566| envelope protein UL43 [Human herpesvirus 2]

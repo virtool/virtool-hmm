@@ -1,0 +1,10 @@
+CLUSTER	6438
+NUM_SEQ	2
+LENGTH	69
+RELATIVE_ENTROPY_PER_POSITION	0.75
+TOTAL_RELATIVE_ENTROPY	51.75
+FAMILIES	{'Tombusviridae': 2}
+GENERA	{'Carmovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|216905813|ref|YP_002333477.1|vFam_6438| P7 protein [Soybean yellow mottle mosaic virus]
+gi|20087049|ref|NP_613269.1|vFam_6438| movement protein [Cowpea mottle virus]

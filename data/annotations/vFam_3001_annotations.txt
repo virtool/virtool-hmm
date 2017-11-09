@@ -1,0 +1,12 @@
+CLUSTER	3001
+NUM_SEQ	4
+LENGTH	72
+RELATIVE_ENTROPY_PER_POSITION	0.70
+TOTAL_RELATIVE_ENTROPY	50.4
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|116326218|ref|YP_803544.1|vFam_3001| hypothetical protein AGNV_gp150 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|37651459|ref|NP_932756.1|vFam_3001| hypothetical protein CFDNVgORF147 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|96979773|ref|YP_610973.1|vFam_3001| hypothetical protein APNV_p004 [Antheraea pernyi nucleopolyhedrovirus]
+gi|15320791|ref|NP_203303.1|vFam_3001| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]

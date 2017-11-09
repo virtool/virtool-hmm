@@ -1,0 +1,11 @@
+CLUSTER	3059
+NUM_SEQ	3
+LENGTH	64
+RELATIVE_ENTROPY_PER_POSITION	0.82
+TOTAL_RELATIVE_ENTROPY	52.48
+FAMILIES	{'Coronaviridae': 3}
+GENERA	{'Gammacoronavirus': 2, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|189313872|ref|YP_001941168.1|vFam_3059| 3b protein [Turkey coronavirus]
+gi|9626540|ref|NP_040833.1|vFam_3059| 3b protein [Infectious bronchitis virus]
+gi|383080803|ref|YP_005352887.1|vFam_3059| NS7b gene product [Common-moorhen coronavirus HKU21]

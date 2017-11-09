@@ -1,0 +1,14 @@
+CLUSTER	586
+NUM_SEQ	6
+LENGTH	603
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	307.53
+FAMILIES	{'Alloherpesviridae': 6}
+GENERA	{'Cyprinivirus': 6}
+FASTA SEQUENCE TITLES:
+gi|422933568|ref|YP_007003692.1|vFam_586| membrane protein ORF25A [Cyprinid herpesvirus 1]
+gi|422933801|ref|YP_007003844.1|vFam_586| membrane protein ORF25 [Cyprinid herpesvirus 2]
+gi|131840055|ref|YP_001096064.1|vFam_586| unnamed protein product [Cyprinid herpesvirus 3]
+gi|131840091|ref|YP_001096100.1|vFam_586| unnamed protein product [Cyprinid herpesvirus 3]
+gi|422933803|ref|YP_007003846.1|vFam_586| membrane protein ORF25C [Cyprinid herpesvirus 2]
+gi|131840174|ref|YP_001096183.1|vFam_586| unnamed protein product [Cyprinid herpesvirus 3]

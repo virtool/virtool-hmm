@@ -1,0 +1,10 @@
+CLUSTER	2630
+NUM_SEQ	2
+LENGTH	258
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	131.58
+FAMILIES	{'Paramyxoviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|89888081|ref|YP_512252.1|vFam_2630| transmembrane protein [Beilong virus]
+gi|77124346|ref|YP_338083.1|vFam_2630| transmembrane protein [J-virus]

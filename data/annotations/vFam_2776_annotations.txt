@@ -1,0 +1,12 @@
+CLUSTER	2776
+NUM_SEQ	4
+LENGTH	86
+RELATIVE_ENTROPY_PER_POSITION	0.60
+TOTAL_RELATIVE_ENTROPY	51.6
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498783|ref|YP_008004577.1|vFam_2776| unknown similar to AMEV163 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964477|ref|NP_064945.1|vFam_2776| hypothetical protein AMV163 [Amsacta moorei entomopoxvirus 'L']
+gi|506497917|ref|YP_008003716.1|vFam_2776| unknown similar to AMEV163 [Mythimna separata entomopoxvirus 'L']
+gi|506498197|ref|YP_008003994.1|vFam_2776| unknown similar to AMEV163 [Adoxophyes honmai entomopoxvirus 'L']

@@ -1,0 +1,12 @@
+CLUSTER	2621
+NUM_SEQ	4
+LENGTH	109
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	54.5
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Betabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|556549146|ref|YP_008720060.1|vFam_2621| hypothetical protein CaLGV113 [Clostera anastomosis granulovirus]
+gi|288804750|ref|YP_003429435.1|vFam_2621| PrGVORF111 [Pieris rapae granulovirus]
+gi|33622320|ref|NP_891967.1|vFam_2621| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602369|ref|NP_148916.1|vFam_2621| ORF132 similar to XcGV ORF165 [Cydia pomonella granulovirus]

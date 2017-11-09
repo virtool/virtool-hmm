@@ -1,0 +1,10 @@
+CLUSTER	5637
+NUM_SEQ	2
+LENGTH	140
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	71.4
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531034937|ref|YP_008436562.1|vFam_5637| hypothetical protein ps_146 [Pandoravirus salinus]
+gi|526118722|ref|YP_008318625.1|vFam_5637| hypothetical protein [Pandoravirus dulcis]

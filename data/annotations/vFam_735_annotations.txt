@@ -1,0 +1,16 @@
+CLUSTER	735
+NUM_SEQ	8
+LENGTH	451
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	230.01
+FAMILIES	{'Iridoviridae': 5, 'Ascoviridae': 2}
+GENERA	{'Lymphocystivirus': 2, 'Ascovirus': 2, 'Iridovirus': 2, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|134287258|ref|YP_001110954.1|vFam_735| cathepsinB [Heliothis virescens ascovirus 3e]
+gi|115298616|ref|YP_762469.1|vFam_735| 50 kDa Cathepsin B [Spodoptera frugiperda ascovirus 1a]
+gi|51870174|ref|YP_073727.1|vFam_735| papain family cysteine protease [Lymphocystis disease virus - isolate China]
+gi|13358426|ref|NP_078647.1|vFam_735| Papain-like proteinase [Lymphocystis disease virus 1]
+gi|15078936|ref|NP_149687.1|vFam_735| 224L [Invertebrate iridescent virus 6]
+gi|109287902|ref|YP_654596.1|vFam_735| hypothetical protein MIV024R [Invertebrate iridescent virus 3]
+gi|527333565|ref|YP_008357349.1|vFam_735| Papain-like proteinase [Invertebrate iridovirus 22]
+gi|339906165|ref|YP_004732962.1|vFam_735| hypothetical protein WIV_gp179 [Wiseana iridescent virus]

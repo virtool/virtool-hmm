@@ -1,0 +1,13 @@
+CLUSTER	1730
+NUM_SEQ	5
+LENGTH	300
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	156.0
+FAMILIES	{'Potyviridae': 5}
+GENERA	{'Bymovirus': 4, 'Macluravirus': 1}
+FASTA SEQUENCE TITLES:
+gi|401829582|ref|YP_006590095.1|vFam_1730| P3 protein [Chinese yam necrotic mosaic virus]
+gi|25013747|ref|NP_734293.1|vFam_1730| P3 protein [Barley mild mosaic virus]
+gi|25014006|ref|NP_734275.1|vFam_1730| P3 protein [Oat mosaic virus]
+gi|25013960|ref|NP_697035.1|vFam_1730| P3 protein [Wheat yellow mosaic virus]
+gi|25013739|ref|NP_734301.1|vFam_1730| P3 protein [Barley yellow mosaic virus]

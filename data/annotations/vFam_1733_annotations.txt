@@ -1,0 +1,12 @@
+CLUSTER	1733
+NUM_SEQ	4
+LENGTH	938
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	487.76
+FAMILIES	{'Reoviridae': 4}
+GENERA	{'Fijivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|68532387|ref|YP_249763.1|vFam_1733| putative 115.3 kDa protein [Fiji disease virus]
+gi|120407023|ref|YP_956850.1|vFam_1733| pS5 [Mal de Rio Cuarto virus]
+gi|312274960|ref|YP_004021927.1|vFam_1733| P5 [Southern rice black-streaked dwarf virus]
+gi|20386791|ref|NP_620462.1|vFam_1733| P5 protein [Rice black streaked dwarf virus]

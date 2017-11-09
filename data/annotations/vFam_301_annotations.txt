@@ -1,0 +1,21 @@
+CLUSTER	301
+NUM_SEQ	13
+LENGTH	593
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	302.43
+FAMILIES	{'Flaviviridae': 7}
+GENERA	{'Hepacivirus': 3, 'None': 4}
+FASTA SEQUENCE TITLES:
+gi|485191038|ref|YP_007905989.1|vFam_301| NS3 protein [Rodent hepacivirus]
+gi|26251699|ref|NP_757357.1|vFam_301| putative NS3 proteinase/ATPase/helicase [Hepatitis GB virus B]
+gi|28921568|ref|NP_803144.1|vFam_301| NS3 protease/helicase' [Hepatitis C virus]
+gi|485191051|ref|YP_007905979.1|vFam_301| putative NS3 protein [Rodent pegivirus]
+gi|28971401|ref|NP_803213.1|vFam_301| NS3 proteinase/ATPase/helicase [Pegivirus A]
+gi|28971393|ref|NP_803205.1|vFam_301| NS3 proteinase/ATPase/helicase [GB virus C]
+gi|485191055|ref|YP_007905983.1|vFam_301| putative NS5B protein [Rodent pegivirus]
+gi|28971405|ref|NP_803217.1|vFam_301| putative NS5B RNA-dependent RNA polymerase [Pegivirus A]
+gi|28971397|ref|NP_803209.1|vFam_301| putative NS5B RNA-dependent RNA polymerase [GB virus C]
+gi|157781226|ref|YP_001491557.1|vFam_301| NS5b [Hepatitis C virus genotype 3]
+gi|26053630|ref|NP_751928.1|vFam_301| NS5B RNA-dependent RNA polymerase [Hepatitis C virus]
+gi|485191042|ref|YP_007905993.1|vFam_301| NS5B [Rodent hepacivirus]
+gi|26251703|ref|NP_757361.1|vFam_301| putative NS5B RNA-dependent RNA polymerase [Hepatitis GB virus B]

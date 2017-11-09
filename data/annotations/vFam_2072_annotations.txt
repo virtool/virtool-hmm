@@ -1,0 +1,11 @@
+CLUSTER	2072
+NUM_SEQ	3
+LENGTH	305
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	155.55
+FAMILIES	{'Malacoherpesviridae': 1, 'Phycodnaviridae': 2}
+GENERA	{'Chlorovirus': 2, 'Ostreavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|48696753|ref|YP_024577.1|vFam_2072| ORF33 [Ostreid herpesvirus 1]
+gi|155371576|ref|YP_001427110.1|vFam_2072| hypothetical protein ATCV1_Z629R [Acanthocystis turfacea Chlorella virus 1]
+gi|155371571|ref|YP_001427105.1|vFam_2072| hypothetical protein ATCV1_z624R [Acanthocystis turfacea Chlorella virus 1]

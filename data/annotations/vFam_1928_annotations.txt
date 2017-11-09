@@ -1,0 +1,14 @@
+CLUSTER	1928
+NUM_SEQ	6
+LENGTH	372
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	189.72
+FAMILIES	{'None': 5}
+GENERA	{'None': 5}
+FASTA SEQUENCE TITLES:
+gi|394922872|ref|YP_005454301.1|vFam_1928| ORF7 [Halogeometricum pleomorphic virus 1]
+gi|394922822|ref|YP_005454265.1|vFam_1928| ORF8 [Halorubrum pleomorphic virus 2]
+gi|284520914|ref|YP_003412001.1|vFam_1928| unkown [Haloarcula hispanica pleomorphic virus 1]
+gi|226596537|ref|YP_002791893.1|vFam_1928| VP8 [Halorubrum pleomorphic virus 1]
+gi|394922838|ref|YP_005454277.1|vFam_1928| ORF5 [Halorubrum pleomorphic virus 3]
+gi|90403542|ref|YP_529663.1|vFam_1928| hypothetical protein His2V_gp33 [His2 virus]

@@ -1,0 +1,12 @@
+CLUSTER	2182
+NUM_SEQ	4
+LENGTH	305
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	155.55
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'Orthopoxvirus': 1, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|345107336|ref|YP_004821501.1|vFam_2182| alpha-2,6-sialyltransferases [Yoka poxvirus]
+gi|62637527|ref|YP_227525.1|vFam_2182| A(2,3)-sialyltransferase [Deerpox virus W-848-83]
+gi|9633946|ref|NP_052025.1|vFam_2182| gp138L [Rabbit fibroma virus]
+gi|9633774|ref|NP_051852.1|vFam_2182| m138L [Myxoma virus]

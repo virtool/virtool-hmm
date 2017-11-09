@@ -1,0 +1,13 @@
+CLUSTER	1793
+NUM_SEQ	5
+LENGTH	237
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	123.24
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631478|ref|NP_048206.1|vFam_1793| ORF MSV135 putative protein phosphatase 2C (PP2C), similar to Schizosaccharomyces pombe SW:P40371 [Melanoplus sanguinipes entomopoxvirus]
+gi|506498239|ref|YP_008004036.1|vFam_1793| protein phosphatase 2C [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497978|ref|YP_008003777.1|vFam_1793| protein phosphatase 2C [Mythimna separata entomopoxvirus 'L']
+gi|506498848|ref|YP_008004642.1|vFam_1793| protein phosphatase 2C [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964548|ref|NP_065016.1|vFam_1793| putative protein phosphatase 2C [Amsacta moorei entomopoxvirus 'L']

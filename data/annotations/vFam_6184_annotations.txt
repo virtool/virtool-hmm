@@ -1,0 +1,10 @@
+CLUSTER	6184
+NUM_SEQ	2
+LENGTH	484
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	246.84
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'None': 1, 'Rhadinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|321496602|ref|YP_004207887.1|vFam_6184| hypothetical protein RHVP.R14 [Rodent herpesvirus Peru]
+gi|9629583|ref|NP_044888.1|vFam_6184| envelope glycoprotein 350 [Murid herpesvirus 4]

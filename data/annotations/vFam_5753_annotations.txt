@@ -1,0 +1,10 @@
+CLUSTER	5753
+NUM_SEQ	2
+LENGTH	56
+RELATIVE_ENTROPY_PER_POSITION	0.94
+TOTAL_RELATIVE_ENTROPY	52.64
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|22122288|ref|NP_666549.1|vFam_5753| hypothetical protein SIRV2gp15 [Sulfolobus islandicus rod-shaped virus 2]
+gi|16753100|ref|NP_445678.1|vFam_5753| conserved hypothetical protein [Sulfolobus islandicus filamentous virus]

@@ -1,0 +1,13 @@
+CLUSTER	1296
+NUM_SEQ	5
+LENGTH	61
+RELATIVE_ENTROPY_PER_POSITION	0.86
+TOTAL_RELATIVE_ENTROPY	52.46
+FAMILIES	{'Tombusviridae': 5}
+GENERA	{'None': 4, 'Carmovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|66478133|ref|YP_238480.1|vFam_1296| p6 [Pelargonium line pattern virus]
+gi|326537252|ref|YP_004300265.1|vFam_1296| putative movement protein 1 [TGP Carmovirus 1]
+gi|66478132|ref|YP_238479.1|vFam_1296| movement protein [Pelargonium line pattern virus]
+gi|456351083|ref|YP_007501038.1|vFam_1296| putative movement protein [Rosa rugosa leaf distortion virus]
+gi|50261351|ref|YP_052928.1|vFam_1296| putative 7 kDa movement protein [Pelargonium chlorotic ring pattern virus]

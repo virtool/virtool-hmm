@@ -1,0 +1,13 @@
+CLUSTER	2126
+NUM_SEQ	5
+LENGTH	294
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	155.82
+FAMILIES	{'Potyviridae': 5}
+GENERA	{'Ipomovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|25013874|ref|NP_734285.1|vFam_2126| P3 protein [Sweet potato mild mottle virus]
+gi|426580890|ref|YP_007032439.1|vFam_2126| P3 [Cassava brown streak virus]
+gi|314998984|ref|YP_004063976.1|vFam_2126| P3 [Ugandan cassava brown streak virus]
+gi|170778505|ref|YP_001788994.1|vFam_2126| P3 [Squash vein yellowing virus]
+gi|74009223|ref|YP_308879.1|vFam_2126| P3 protein [Cucumber vein yellowing virus]

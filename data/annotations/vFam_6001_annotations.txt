@@ -1,0 +1,10 @@
+CLUSTER	6001
+NUM_SEQ	2
+LENGTH	169
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	86.19
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52139342|ref|YP_081617.1|vFam_6001| protein US34 [Human herpesvirus 5]
+gi|20026763|ref|NP_612805.1|vFam_6001| protein US34 [Panine herpesvirus 2]

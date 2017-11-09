@@ -1,0 +1,10 @@
+CLUSTER	6210
+NUM_SEQ	2
+LENGTH	500
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	255.0
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|209978779|ref|YP_002300522.1|vFam_6210| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|29567089|ref|NP_818651.1|vFam_6210| ORF1629 [Adoxophyes honmai nucleopolyhedrovirus]

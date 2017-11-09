@@ -1,0 +1,14 @@
+CLUSTER	1343
+NUM_SEQ	6
+LENGTH	121
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	61.71
+FAMILIES	{'Coronaviridae': 5}
+GENERA	{'None': 3, 'Gammacoronavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|531035398|ref|YP_008437027.1|vFam_1343| hypothetical protein ps_613 [Pandoravirus salinus]
+gi|383081750|ref|YP_005352851.1|vFam_1343| NS7a gene product [Sparrow coronavirus HKU17]
+gi|383080804|ref|YP_005352888.1|vFam_1343| NS7c gene product [Common-moorhen coronavirus HKU21]
+gi|212681385|ref|YP_002308502.1|vFam_1343| nonstructural protein [Thrush coronavirus HKU12-600]
+gi|212681395|ref|YP_002308511.1|vFam_1343| nonstructural protein [Munia coronavirus HKU13-3514]
+gi|383080773|ref|YP_005352860.1|vFam_1343| NS7b gene product [Magpie-robin coronavirus HKU18]

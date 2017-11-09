@@ -1,0 +1,11 @@
+CLUSTER	2933
+NUM_SEQ	3
+LENGTH	694
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	360.88
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977935|ref|YP_003987055.1|vFam_2933| putative ATP-dependent RNA helicase [Acanthamoeba polyphaga mimivirus]
+gi|448825648|ref|YP_007418579.1|vFam_2933| putative ATP-dependent RNA helicase [Megavirus lba]
+gi|441432500|ref|YP_007354542.1|vFam_2933| HrpA-like helicase [Acanthamoeba polyphaga moumouvirus]

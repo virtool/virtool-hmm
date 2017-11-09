@@ -1,0 +1,12 @@
+CLUSTER	2214
+NUM_SEQ	4
+LENGTH	261
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	130.5
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|73852866|ref|YP_294150.1|vFam_2214| hypothetical protein EhV392 [Emiliania huxleyi virus 86]
+gi|363540079|ref|YP_004894989.1|vFam_2214| mg938 gene product [Megavirus chiliensis]
+gi|448824981|ref|YP_007417912.1|vFam_2214| hypothetical protein LBA_00013 [Megavirus lba]
+gi|363540419|ref|YP_004894091.1|vFam_2214| mg40 gene product [Megavirus chiliensis]

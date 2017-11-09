@@ -1,0 +1,11 @@
+CLUSTER	3417
+NUM_SEQ	3
+LENGTH	318
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	162.18
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Betabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|410493594|ref|YP_006908532.1|vFam_3417| hypothetical protein [Epinotia aporema granulovirus]
+gi|334265713|ref|YP_004376242.1|vFam_3417| hypothetical protein ClanGV_gp034 [Clostera anachoreta granulovirus]
+gi|33622223|ref|NP_891868.1|vFam_3417| hypothetical protein [Cryptophlebia leucotreta granulovirus]

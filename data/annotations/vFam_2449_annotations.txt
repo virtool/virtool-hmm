@@ -1,0 +1,12 @@
+CLUSTER	2449
+NUM_SEQ	4
+LENGTH	302
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	157.04
+FAMILIES	{'Alloherpesviridae': 4}
+GENERA	{'Cyprinivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|282174066|ref|YP_003358168.1|vFam_2449| uracil-DNA glycosylase [Anguillid herpesvirus 1]
+gi|422933636|ref|YP_007003761.1|vFam_2449| uracil-DNA glycosylase [Cyprinid herpesvirus 1]
+gi|422933862|ref|YP_007003917.1|vFam_2449| uracil-DNA glycosylase [Cyprinid herpesvirus 2]
+gi|131840124|ref|YP_001096133.1|vFam_2449| unnamed protein product [Cyprinid herpesvirus 3]

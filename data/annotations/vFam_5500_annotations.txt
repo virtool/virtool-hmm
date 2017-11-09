@@ -1,0 +1,10 @@
+CLUSTER	5500
+NUM_SEQ	2
+LENGTH	230
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	119.6
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036007|ref|YP_008437642.1|vFam_5500| Kua-ubiquitin conjugating enzyme motif-containing [Pandoravirus salinus]
+gi|526119516|ref|YP_008319419.1|vFam_5500| kua-ubiquitin conjugating enzyme motif-containing [Pandoravirus dulcis]

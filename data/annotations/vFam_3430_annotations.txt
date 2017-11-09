@@ -1,0 +1,11 @@
+CLUSTER	3430
+NUM_SEQ	3
+LENGTH	236
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	120.36
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Gammabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|48843556|ref|YP_025129.1|vFam_3430| DNA binding protein [Neodiprion sertifer nucleopolyhedrovirus]
+gi|48843643|ref|YP_025211.1|vFam_3430| DNA binding protein [Neodiprion lecontei nucleopolyhedrovirus]
+gi|110645215|ref|YP_667854.1|vFam_3430| DNA binding protein [Neodiprion abietis NPV]

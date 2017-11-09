@@ -1,0 +1,10 @@
+CLUSTER	1806
+NUM_SEQ	2
+LENGTH	209
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	104.5
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1}
+GENERA	{'None': 1, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825927|ref|YP_007418858.1|vFam_1806| hypothetical protein LBA_00964 [Megavirus lba]
+gi|155370976|ref|YP_001426510.1|vFam_1806| hypothetical protein ATCV1_z029R [Acanthocystis turfacea Chlorella virus 1]

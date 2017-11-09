@@ -1,0 +1,10 @@
+CLUSTER	5710
+NUM_SEQ	2
+LENGTH	401
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	208.52
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|314055262|ref|YP_004063600.1|vFam_5710| 6-phosphogluconate dehydrogenase [Ostreococcus tauri virus 2]
+gi|313768164|ref|YP_004061595.1|vFam_5710| hypothetical protein BpV1_165c [Bathycoccus sp. RCC1105 virus BpV1]

@@ -1,0 +1,19 @@
+CLUSTER	788
+NUM_SEQ	11
+LENGTH	162
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	81.0
+FAMILIES	{'Baculoviridae': 9}
+GENERA	{'Betabaculovirus': 7, 'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|526119050|ref|YP_008318953.1|vFam_788| hypothetical protein [Pandoravirus dulcis]
+gi|529218107|ref|YP_008378270.1|vFam_788| HESP054 [Hemileuca sp. nucleopolyhedrovirus]
+gi|74229769|ref|YP_308973.1|vFam_788| orf84 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304225|ref|YP_249693.1|vFam_788| ORF-89 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|334265782|ref|YP_004376311.1|vFam_788| hypothetical protein ClanGV_gp103 [Clostera anachoreta granulovirus]
+gi|164519362|ref|YP_001649149.1|vFam_788| hypothetical protein HaGV_gp167 [Helicoverpa armigera granulovirus]
+gi|288804740|ref|YP_003429425.1|vFam_788| PrGVORF101 [Pieris rapae granulovirus]
+gi|14602356|ref|NP_148903.1|vFam_788| ORF119 similar to XcGV ORF169 [Cydia pomonella granulovirus]
+gi|33622309|ref|NP_891956.1|vFam_788| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|109255370|ref|YP_654519.1|vFam_788| hypothetical protein COGV_gp098 [Choristoneura occidentalis granulovirus]
+gi|21686776|ref|NP_663276.1|vFam_788| hypothetical protein [Phthorimaea operculella granulovirus]

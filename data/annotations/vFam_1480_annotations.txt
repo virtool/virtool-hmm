@@ -1,0 +1,13 @@
+CLUSTER	1480
+NUM_SEQ	5
+LENGTH	57
+RELATIVE_ENTROPY_PER_POSITION	0.87
+TOTAL_RELATIVE_ENTROPY	49.59
+FAMILIES	{'Retroviridae': 5}
+GENERA	{'Gammaretrovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|40796122|ref|NP_955575.1|vFam_1480| virion core structural peptide p10 [Feline leukemia virus]
+gi|192824272|ref|YP_001994919.1|vFam_1480| hypothetical mature NC protein [Friend murine leukemia virus]
+gi|40789226|ref|NP_955528.1|vFam_1480| NC [Moloney murine sarcoma virus]
+gi|294847921|ref|YP_003580188.1|vFam_1480| hypothetical mature p10 protein [Woolly monkey sarcoma virus]
+gi|194033117|ref|YP_002000604.1|vFam_1480| hypothetical mature p10(NC) protein [Gibbon ape leukemia virus]

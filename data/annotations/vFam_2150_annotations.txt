@@ -1,0 +1,11 @@
+CLUSTER	2150
+NUM_SEQ	3
+LENGTH	423
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	219.96
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Rhadinovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|18653886|ref|NP_570820.1|vFam_2150| latent nuclear antigen [Macacine herpesvirus 5]
+gi|9631264|ref|NP_048045.1|vFam_2150| orf 73 [Ateline herpesvirus 3]
+gi|9626029|ref|NP_040275.1|vFam_2150| unnamed protein product [Saimiriine herpesvirus 2]

@@ -1,0 +1,11 @@
+CLUSTER	4186
+NUM_SEQ	3
+LENGTH	265
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	135.15
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036941|ref|YP_008438583.1|vFam_4186| hypothetical protein ps_2181 [Pandoravirus salinus]
+gi|531035125|ref|YP_008436750.1|vFam_4186| thioredoxin-like fold [Pandoravirus salinus]
+gi|526118943|ref|YP_008318846.1|vFam_4186| thioredoxin-like fold [Pandoravirus dulcis]

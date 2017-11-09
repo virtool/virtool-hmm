@@ -1,0 +1,10 @@
+CLUSTER	5667
+NUM_SEQ	2
+LENGTH	393
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	200.43
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|197322359|ref|YP_002154632.1|vFam_5667| putative thaumatin/PR5-like protein [Feldmannia species virus]
+gi|13242639|ref|NP_077654.1|vFam_5667| EsV-1-169 [Ectocarpus siliculosus virus 1]

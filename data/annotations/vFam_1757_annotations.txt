@@ -1,0 +1,13 @@
+CLUSTER	1757
+NUM_SEQ	5
+LENGTH	528
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	274.56
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'None': 1, 'Molluscipoxvirus': 1, 'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|41057451|ref|NP_957924.1|vFam_1757| ORF015 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183779|ref|YP_003457320.1|vFam_1757| hypothetical protein PCPV_gp017 [Pseudocowpox virus]
+gi|41057078|ref|NP_957792.1|vFam_1757| ORF015 hypothetical protein [Orf virus]
+gi|9628959|ref|NP_043978.1|vFam_1757| MC027L [Molluscum contagiosum virus subtype 1]
+gi|571797946|ref|YP_008658445.1|vFam_1757| hypothetical pox protein [Squirrelpox virus]

@@ -1,0 +1,11 @@
+CLUSTER	3564
+NUM_SEQ	3
+LENGTH	162
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	82.62
+FAMILIES	{'None': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|370703042|ref|YP_004956844.1|vFam_3564| orf96 gene product [Helicoverpa zea nudivirus 2]
+gi|213159272|ref|YP_002321315.1|vFam_3564| Ac81-like protein [Oryctes rhinoceros virus]
+gi|134303412|ref|YP_001111281.1|vFam_3564| hypothetical protein GrBNV_gp14 [Gryllus bimaculatus nudivirus]

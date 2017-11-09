@@ -1,0 +1,13 @@
+CLUSTER	2201
+NUM_SEQ	5
+LENGTH	237
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	123.24
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631335|ref|NP_048172.1|vFam_2201| ORF MSV100 putative RPO19 homolog (vaccinia A5R), similar to SW:P33813 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497920|ref|YP_008003719.1|vFam_2201| RNA polymerase RPO19 [Mythimna separata entomopoxvirus 'L']
+gi|506498194|ref|YP_008003991.1|vFam_2201| RNA polymerase RPO19 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498786|ref|YP_008004580.1|vFam_2201| RNA polymerase RPO19 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964480|ref|NP_064948.1|vFam_2201| hypothetical protein AMV166 [Amsacta moorei entomopoxvirus 'L']

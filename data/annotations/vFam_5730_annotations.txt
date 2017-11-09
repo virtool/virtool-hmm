@@ -1,0 +1,10 @@
+CLUSTER	5730
+NUM_SEQ	2
+LENGTH	78
+RELATIVE_ENTROPY_PER_POSITION	0.66
+TOTAL_RELATIVE_ENTROPY	51.48
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159320|ref|YP_002321363.1|vFam_5730| lef-5 [Oryctes rhinoceros virus]
+gi|134303483|ref|YP_001111352.1|vFam_5730| late expression factor 5 [Gryllus bimaculatus nudivirus]

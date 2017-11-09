@@ -1,0 +1,14 @@
+CLUSTER	699
+NUM_SEQ	6
+LENGTH	131
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	68.12
+FAMILIES	{'Retroviridae': 6}
+GENERA	{'Gammaretrovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|294847922|ref|YP_003580189.1|vFam_699| hypothetical mature p15(MA) protein [Woolly monkey sarcoma virus]
+gi|194033114|ref|YP_002000601.1|vFam_699| hypothetical mature p15(MA) protein [Gibbon ape leukemia virus]
+gi|40796119|ref|NP_955572.1|vFam_699| virion core structural peptide p15 [Feline leukemia virus]
+gi|40796143|ref|NP_955596.1|vFam_699| MA [Murine osteosarcoma virus]
+gi|192824269|ref|YP_001994916.1|vFam_699| hypothetical mature MA protein [Friend murine leukemia virus]
+gi|40789224|ref|NP_955526.1|vFam_699| MA [Moloney murine sarcoma virus]

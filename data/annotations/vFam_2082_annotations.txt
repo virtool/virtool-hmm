@@ -1,0 +1,12 @@
+CLUSTER	2082
+NUM_SEQ	4
+LENGTH	362
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	181.0
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|209401088|ref|YP_002273957.1|vFam_2082| hypothetical protein HaSNPVNNg1_gp034 [Helicoverpa armigera NPV NNg1]
+gi|114680002|ref|YP_758452.1|vFam_2082| ORF155 [Leucania separata nucleopolyhedrovirus]
+gi|22549509|ref|NP_689281.1|vFam_2082| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069987|ref|NP_613191.1|vFam_2082| hypothetical protein McnAVgp108 [Mamestra configurata nucleopolyhedrovirus A]

@@ -1,0 +1,10 @@
+CLUSTER	2004
+NUM_SEQ	2
+LENGTH	575
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	293.25
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|422933588|ref|YP_007003713.1|vFam_2004| protein Allo64 [Cyprinid herpesvirus 1]
+gi|387866106|ref|YP_003358161.2|vFam_2004| protein Allo64 [Anguillid herpesvirus 1]

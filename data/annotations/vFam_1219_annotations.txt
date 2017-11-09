@@ -1,0 +1,12 @@
+CLUSTER	1219
+NUM_SEQ	4
+LENGTH	264
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	132.0
+FAMILIES	{'Marseillevirus family': 1, 'None': 1, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|284504376|ref|YP_003407091.1|vFam_1219| calcineurin-like phosphoesterase [Marseillevirus]
+gi|310831383|ref|YP_003970026.1|vFam_1219| hypothetical protein crov393 [Cafeteria roenbergensis virus BV-PW1]
+gi|363539817|ref|YP_004894672.1|vFam_1219| mg621 gene product [Megavirus chiliensis]
+gi|311977901|ref|YP_003987021.1|vFam_1219| putative metallo-dependent phosphatase [Acanthamoeba polyphaga mimivirus]

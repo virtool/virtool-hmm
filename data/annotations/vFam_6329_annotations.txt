@@ -1,0 +1,10 @@
+CLUSTER	6329
+NUM_SEQ	2
+LENGTH	85
+RELATIVE_ENTROPY_PER_POSITION	0.60
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|363540163|ref|YP_004894396.1|vFam_6329| mg345 gene product [Megavirus chiliensis]
+gi|311977627|ref|YP_003986747.1|vFam_6329| hypothetical protein [Acanthamoeba polyphaga mimivirus]

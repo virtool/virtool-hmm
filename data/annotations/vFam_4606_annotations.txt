@@ -1,0 +1,10 @@
+CLUSTER	4606
+NUM_SEQ	2
+LENGTH	274
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	139.74
+FAMILIES	{'Reoviridae': 2}
+GENERA	{'Aquareovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|182682790|ref|YP_001837101.1|vFam_4606| NS31 [American grass carp reovirus]
+gi|38147314|ref|NP_938067.1|vFam_4606| non-structural protein NS4 [Aquareovirus C]

@@ -1,0 +1,10 @@
+CLUSTER	3067
+NUM_SEQ	2
+LENGTH	501
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	260.52
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|422933687|ref|YP_007003815.1|vFam_3067| protein ORF156 [Cyprinid herpesvirus 1]
+gi|131840182|ref|YP_001096191.1|vFam_3067| unnamed protein product [Cyprinid herpesvirus 3]

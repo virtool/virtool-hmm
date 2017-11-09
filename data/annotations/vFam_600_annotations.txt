@@ -1,0 +1,21 @@
+CLUSTER	600
+NUM_SEQ	13
+LENGTH	211
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	109.72
+FAMILIES	{'Herpesviridae': 13}
+GENERA	{'Macavirus': 2, 'None': 1, 'Lymphocryptovirus': 3, 'Rhadinovirus': 6, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|321496606|ref|YP_004207891.1|vFam_600| hypothetical protein RHVP.55 [Rodent herpesvirus Peru]
+gi|9629619|ref|NP_044892.1|vFam_600| tegument protein UL51 [Murid herpesvirus 4]
+gi|139472846|ref|YP_001129408.1|vFam_600| ORF55 [Human herpesvirus 8]
+gi|18653861|ref|NP_570795.1|vFam_600| hypothetical protein MmrVgp56 [Macacine herpesvirus 5]
+gi|13095632|ref|NP_076547.1|vFam_600| unknown [Bovine herpesvirus 4]
+gi|9631246|ref|NP_048027.1|vFam_600| orf 55 [Ateline herpesvirus 3]
+gi|9626012|ref|NP_040257.1|vFam_600| unnamed protein product [Saimiriine herpesvirus 2]
+gi|83642892|ref|YP_438179.1|vFam_600| ORF55 [Ovine herpesvirus 2]
+gi|10140977|ref|NP_065554.1|vFam_600| ORF55 [Alcelaphine herpesvirus 1]
+gi|9628058|ref|NP_042652.1|vFam_600| ORF 55 [Equid herpesvirus 2]
+gi|24943141|ref|NP_733903.1|vFam_600| ORF49 [callitrichine herpesvirus 3]
+gi|82503219|ref|YP_401663.1|vFam_600| BSRF1 protein [Human herpesvirus 4]
+gi|51518034|ref|YP_067959.1|vFam_600| BSRF1 [Macacine herpesvirus 4]

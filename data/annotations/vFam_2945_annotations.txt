@@ -1,0 +1,11 @@
+CLUSTER	2945
+NUM_SEQ	3
+LENGTH	246
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	125.46
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|52139319|ref|YP_081594.1|vFam_2945| membrane glycoprotein US9 [Human herpesvirus 5]
+gi|20026740|ref|NP_612782.1|vFam_2945| membrane glycoprotein US9 [Panine herpesvirus 2]
+gi|360041040|ref|YP_004940163.1|vFam_2945| membrane protein A34 [Aotine herpesvirus 1]

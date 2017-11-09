@@ -1,0 +1,16 @@
+CLUSTER	983
+NUM_SEQ	8
+LENGTH	235
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	124.55
+FAMILIES	{'Bunyaviridae': 7}
+GENERA	{'Orthobunyavirus': 7}
+FASTA SEQUENCE TITLES:
+gi|554505425|ref|YP_008709778.1|vFam_983| nucleocapsid [Murrumbidgee virus]
+gi|9630661|ref|NP_047213.1|vFam_983| N protein [Bunyamwera virus]
+gi|22256028|ref|NP_671970.1|vFam_983| nucleoprotein [La Crosse virus]
+gi|44965101|ref|NP_982305.1|vFam_983| nucleoprotein [Oropouche virus]
+gi|401829617|ref|YP_006590077.1|vFam_983| nucleocapsid protein [Shamonda virus]
+gi|157939568|ref|YP_001497161.1|vFam_983| nucleocapsid [Akabane virus]
+gi|401829628|ref|YP_006590083.1|vFam_983| nucleocapsid protein [Simbu virus]
+gi|401829607|ref|YP_006590071.1|vFam_983| nucleocapsid protein [Aino virus]

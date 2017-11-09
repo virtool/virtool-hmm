@@ -1,0 +1,13 @@
+CLUSTER	2450
+NUM_SEQ	5
+LENGTH	265
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	135.15
+FAMILIES	{'None': 2, 'Mimiviridae': 1}
+GENERA	{'None': 2, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531036449|ref|YP_008438086.1|vFam_2450| hypothetical protein ps_1680 [Pandoravirus salinus]
+gi|526119715|ref|YP_008319618.1|vFam_2450| hypothetical protein [Pandoravirus dulcis]
+gi|448825916|ref|YP_007418847.1|vFam_2450| hypothetical protein LBA_00953 [Megavirus lba]
+gi|311978146|ref|YP_003987266.1|vFam_2450| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825120|ref|YP_007418051.1|vFam_2450| hypothetical protein LBA_00155 [Megavirus lba]

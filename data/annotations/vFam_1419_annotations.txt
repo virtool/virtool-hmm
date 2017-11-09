@@ -1,0 +1,15 @@
+CLUSTER	1419
+NUM_SEQ	7
+LENGTH	223
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	113.73
+FAMILIES	{'None': 1, 'Phycodnaviridae': 4, 'Mimiviridae': 2}
+GENERA	{'None': 2, 'Mimivirus': 1, 'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|157952863|ref|YP_001497755.1|vFam_1419| hypothetical protein NY2A_B559L [Paramecium bursaria Chlorella virus NY2A]
+gi|9631975|ref|NP_048764.1|vFam_1419| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|155371421|ref|YP_001426955.1|vFam_1419| hypothetical protein ATCV1_Z474R [Acanthocystis turfacea Chlorella virus 1]
+gi|155370602|ref|YP_001426136.1|vFam_1419| hypothetical protein FR483_N504R [Paramecium bursaria Chlorella virus FR483]
+gi|311977855|ref|YP_003986975.1|vFam_1419| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825370|ref|YP_007418301.1|vFam_1419| hypothetical protein LBA_00407 [Megavirus lba]
+gi|441432274|ref|YP_007354316.1|vFam_1419| hypothetical protein Moumou_00340 [Acanthamoeba polyphaga moumouvirus]

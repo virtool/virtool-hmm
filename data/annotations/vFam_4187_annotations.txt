@@ -1,0 +1,11 @@
+CLUSTER	4187
+NUM_SEQ	3
+LENGTH	444
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	226.44
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'None': 2, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|441432647|ref|YP_007354689.1|vFam_4187| putative dehydrogenase [Acanthamoeba polyphaga moumouvirus]
+gi|448825923|ref|YP_007418854.1|vFam_4187| putative oxidoreductase [Megavirus lba]
+gi|311978067|ref|YP_003987187.1|vFam_4187| putative oxidoreductase [Acanthamoeba polyphaga mimivirus]

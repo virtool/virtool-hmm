@@ -1,0 +1,13 @@
+CLUSTER	2646
+NUM_SEQ	5
+LENGTH	286
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	140.14
+FAMILIES	{'Phycodnaviridae': 1, 'Iridoviridae': 3}
+GENERA	{'Prymnesiovirus': 1, 'Iridovirus': 2, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508181924|ref|YP_008052443.1|vFam_2646| hypothetical protein PGCG_00124 [Phaeocystis globosa virus]
+gi|15079047|ref|NP_149798.1|vFam_2646| 335L [Invertebrate iridescent virus 6]
+gi|109287895|ref|YP_654589.1|vFam_2646| hypothetical protein MIV017R [Invertebrate iridescent virus 3]
+gi|527333568|ref|YP_008357352.1|vFam_2646| hypothetical protein IIV22_054R [Invertebrate iridovirus 22]
+gi|339906169|ref|YP_004732966.1|vFam_2646| hypothetical protein WIV_gp183 [Wiseana iridescent virus]

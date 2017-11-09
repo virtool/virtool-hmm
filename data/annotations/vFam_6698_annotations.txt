@@ -1,0 +1,10 @@
+CLUSTER	6698
+NUM_SEQ	2
+LENGTH	66
+RELATIVE_ENTROPY_PER_POSITION	0.78
+TOTAL_RELATIVE_ENTROPY	51.48
+FAMILIES	{'Asfarviridae': 2}
+GENERA	{'Asfivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40796106|ref|NP_955559.1|vFam_6698| pB66L [African swine fever virus]
+gi|9628195|ref|NP_042781.1|vFam_6698| pB66L precursor [African swine fever virus]

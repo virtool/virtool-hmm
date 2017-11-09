@@ -1,0 +1,16 @@
+CLUSTER	1197
+NUM_SEQ	8
+LENGTH	148
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	76.96
+FAMILIES	{'Geminiviridae': 5}
+GENERA	{'Begomovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|554499504|ref|YP_008691087.1|vFam_1197| AC2 [Sweet potato leaf curl China virus [China:Sichuan14:2012]]
+gi|320202731|ref|YP_004191798.1|vFam_1197| transcriptional activator protein [Sweet potato leaf curl Uganda virus-[Uganda:Kampala:2008]]
+gi|537711888|ref|YP_008492941.1|vFam_1197| AC2 [Sweet potato leaf curl Shanghai virus]
+gi|262530248|ref|YP_003288784.1|vFam_1197| TrAp [Sweet potato leaf curl Lanzarote virus]
+gi|523414796|ref|YP_008198572.1|vFam_1197| AC2 [Sweet potato leaf curl China Henan virus]
+gi|327409460|ref|YP_004339040.1|vFam_1197| trans-activating protein [Sweet potato leaf curl South Carolina virus]
+gi|254729598|ref|YP_003084279.1|vFam_1197| TrAp [Ipomoea yellow vein virus]
+gi|294336490|ref|YP_003560502.1|vFam_1197| AC2 protein [Sweet potato leaf curl Bengal virus]

@@ -1,0 +1,13 @@
+CLUSTER	1316
+NUM_SEQ	5
+LENGTH	249
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	131.97
+FAMILIES	{'Iridoviridae': 5}
+GENERA	{'Lymphocystivirus': 2, 'Megalocytivirus': 1, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|388260091|ref|YP_006347619.1|vFam_1316| proliferating cell nuclear antigen [European catfish virus]
+gi|56692705|ref|YP_164163.1|vFam_1316| hypothetical protein ORF068L [Singapore grouper iridovirus]
+gi|19881517|ref|NP_612334.1|vFam_1316| ORF112R [Infectious spleen and kidney necrosis virus]
+gi|51870147|ref|YP_073700.1|vFam_1316| hypothetical protein LDVICp196 [Lymphocystis disease virus - isolate China]
+gi|13358447|ref|NP_078615.1|vFam_1316| Proliferating cell nuclear antigen [Lymphocystis disease virus 1]

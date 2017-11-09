@@ -1,0 +1,10 @@
+CLUSTER	5646
+NUM_SEQ	2
+LENGTH	243
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	123.93
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531034832|ref|YP_008436457.1|vFam_5646| hypothetical protein ps_41 [Pandoravirus salinus]
+gi|526118648|ref|YP_008318551.1|vFam_5646| hypothetical protein [Pandoravirus dulcis]

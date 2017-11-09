@@ -1,0 +1,16 @@
+CLUSTER	1019
+NUM_SEQ	8
+LENGTH	266
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	138.32
+FAMILIES	{'Phycodnaviridae': 8}
+GENERA	{'None': 2, 'Prasinovirus': 2, 'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|313768121|ref|YP_004061552.1|vFam_1019| hypothetical protein BpV1_122 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768337|ref|YP_004062017.1|vFam_1019| hypothetical protein MpV1_134 [Micromonas sp. RCC1109 virus MpV1]
+gi|314055212|ref|YP_004063550.1|vFam_1019| ribonuclease III [Ostreococcus tauri virus 2]
+gi|163955118|ref|YP_001648222.1|vFam_1019| hypothetical protein OsV5_145f [Ostreococcus virus OsV5]
+gi|157953758|ref|YP_001498649.1|vFam_1019| hypothetical protein AR158_C568R [Paramecium bursaria Chlorella virus AR158]
+gi|9632031|ref|NP_048820.1|vFam_1019| Rnase III [Paramecium bursaria Chlorella virus 1]
+gi|155371010|ref|YP_001426544.1|vFam_1019| hypothetical protein ATCV1_Z063L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370768|ref|YP_001426302.1|vFam_1019| hypothetical protein FR483_N670L [Paramecium bursaria Chlorella virus FR483]

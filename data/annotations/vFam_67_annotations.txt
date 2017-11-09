@@ -1,0 +1,38 @@
+CLUSTER	67
+NUM_SEQ	30
+LENGTH	1157
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	590.07
+FAMILIES	{'None': 1, 'Phycodnaviridae': 2, 'Iridoviridae': 5, 'Marseillevirus family': 1, 'Ascoviridae': 3, 'Asfarviridae': 1, 'Mimiviridae': 1, 'Poxviridae': 13}
+GENERA	{'Betaentomopoxvirus': 1, 'None': 5, 'Prymnesiovirus': 1, 'Ranavirus': 2, 'Leporipoxvirus': 1, 'Iridovirus': 2, 'Ascovirus': 3, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Coccolithovirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 1, 'Mimivirus': 1, 'Avipoxvirus': 1, 'Chloriridovirus': 1, 'Yatapoxvirus': 1, 'Parapoxvirus': 1, 'Asfivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531811|ref|YP_784337.1|vFam_67| RNA polymerase subunit RPO132 [Nile crocodilepox virus]
+gi|41057537|ref|NP_958010.1|vFam_67| ORF101 RNA polymerase subunit RPO132 [Bovine papular stomatitis virus]
+gi|9634859|ref|NP_039152.1|vFam_67| RNA polymerase subunit, RPO132 [Fowlpox virus]
+gi|377830020|ref|YP_005296321.1|vFam_67| unnamed protein product [Cotia virus SPAn232]
+gi|345107316|ref|YP_004821481.1|vFam_67| DNA-dependent RNA polymerase subunit rpo132 [Yoka poxvirus]
+gi|9633924|ref|NP_052003.1|vFam_67| gp114R [Rabbit fibroma virus]
+gi|157939739|ref|YP_001497111.1|vFam_67| RNA polymerase subunit rpo132 [Tanapox virus]
+gi|18640199|ref|NP_570273.1|vFam_67| SPV113 RNA polymerase subunit RPO132 [Swinepox virus]
+gi|148912993|ref|YP_001293307.1|vFam_67| hypothetical protein GTPV_gp111 [Goatpox virus Pellor]
+gi|9629061|ref|NP_044080.1|vFam_67| MC129R [Molluscum contagiosum virus subtype 1]
+gi|571798039|ref|YP_008658538.1|vFam_67| DNA-dependent RNA polymerase subunit rpo132 [Squirrelpox virus]
+gi|9631469|ref|NP_048226.1|vFam_67| ORF MSV155 putative RNA polymerase second largest subunit cowpox RPO132 homolog (vaccinia A24R), similar to SW:P17474 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497812|ref|YP_008003611.1|vFam_67| RNA polymerase RPO132 [Mythimna separata entomopoxvirus 'L']
+gi|506498094|ref|YP_008003891.1|vFam_67| RNA polymerase RPO132 [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964380|ref|NP_064848.1|vFam_67| DNA-directed RNA polymerase subunit [Amsacta moorei entomopoxvirus 'L']
+gi|9628161|ref|NP_042747.1|vFam_67| RNA polymerase subunit 2 [African swine fever virus]
+gi|327409577|ref|YP_004346997.1|vFam_67| DNA-directed RNA polymerase subunit 2 [Lausannevirus]
+gi|388260122|ref|YP_006347650.1|vFam_67| DNA dependent RNA polymerase b subunit [European catfish virus]
+gi|56692710|ref|YP_164168.1|vFam_67| DNA-directed RNA polymerase II second largest subunit [Singapore grouper iridovirus]
+gi|116326824|ref|YP_803361.1|vFam_67| RNA polymerase subunit [Trichoplusia ni ascovirus 2c]
+gi|134287220|ref|YP_001110916.1|vFam_67| DNA-directed RNA polymerase II [Heliothis virescens ascovirus 3e]
+gi|115298554|ref|YP_762407.1|vFam_67| 128.1 kDa DNA-directed RNA polymerase II subunit 2 [Spodoptera frugiperda ascovirus 1a]
+gi|15079139|ref|NP_149891.1|vFam_67| 428L [Invertebrate iridescent virus 6]
+gi|109287887|ref|YP_654581.1|vFam_67| hypothetical protein MIV009R [Invertebrate iridescent virus 3]
+gi|527333678|ref|YP_008357462.1|vFam_67| DNA-directed RNA polymerase II subunit RPB2 [Invertebrate iridovirus 22]
+gi|339906100|ref|YP_004732897.1|vFam_67| hypothetical protein WIV_gp114 [Wiseana iridescent virus]
+gi|73852908|ref|YP_294192.1|vFam_67| putative DNA-directed RNA polymerase II subunit [Emiliania huxleyi virus 86]
+gi|508182027|ref|YP_008052546.1|vFam_67| DNA-directed RNA polymerase II subunit RPB2 [Phaeocystis globosa virus]
+gi|311977620|ref|YP_003986740.1|vFam_67| DNA-directed RNA polymerase subunit 2 [Acanthamoeba polyphaga mimivirus]
+gi|310831534|ref|YP_003970177.1|vFam_67| putative DNA-directed RNA polymerase subunit Rpb2 [Cafeteria roenbergensis virus BV-PW1]

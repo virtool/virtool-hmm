@@ -1,0 +1,16 @@
+CLUSTER	1187
+NUM_SEQ	8
+LENGTH	109
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	57.77
+FAMILIES	{'Baculoviridae': 6}
+GENERA	{'Alphabaculovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|114680102|ref|YP_758515.1|vFam_1187| hypothetical protein PXMNV_gp049 [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|15320701|ref|NP_203213.1|vFam_1187| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|154551155|ref|YP_001419678.1|vFam_1187| etm [Antheraea pernyi nucleopolyhedrovirus]
+gi|37651439|ref|NP_932655.1|vFam_1187| etm [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|86355624|ref|YP_473292.1|vFam_1187| ETM [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629990|ref|NP_046208.1|vFam_1187| hypothetical protein OpmnVgp052 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153579|ref|YP_008378604.1|vFam_1187| ETM [Choristoneura occidentalis alphabaculovirus]
+gi|529153414|ref|YP_008378454.1|vFam_1187| ETM [Choristoneura rosaceana alphabaculovirus]

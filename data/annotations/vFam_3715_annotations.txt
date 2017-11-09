@@ -1,0 +1,12 @@
+CLUSTER	3715
+NUM_SEQ	4
+LENGTH	122
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	63.44
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|22122308|ref|NP_666569.1|vFam_3715| hypothetical protein SIRV2gp35 [Sulfolobus islandicus rod-shaped virus 2]
+gi|22122254|ref|NP_666615.1|vFam_3715| hypothetical protein SIRV1gp27 [Sulfolobus islandicus rod-shaped virus 1]
+gi|414089966|ref|YP_006990097.1|vFam_3715| putative Holliday junction resolvase [Sulfolobales Mexican rudivirus 1]
+gi|159341083|ref|YP_001542642.1|vFam_3715| putative holliday junction resolvase [Acidianus rod-shaped virus 1]

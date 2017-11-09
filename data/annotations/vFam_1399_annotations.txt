@@ -1,0 +1,13 @@
+CLUSTER	1399
+NUM_SEQ	5
+LENGTH	407
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	211.64
+FAMILIES	{'Nodaviridae': 5}
+GENERA	{'Alphanodavirus': 5}
+FASTA SEQUENCE TITLES:
+gi|20260797|ref|NP_620111.1|vFam_1399| capsid protein precursor alpha [Pariacoto virus]
+gi|13249664|ref|NP_077732.1|vFam_1399| capsid protein precursor alpha [Nodamura virus]
+gi|22711869|ref|NP_689443.1|vFam_1399| hypothetical protein BoVs2gp1 [Boolarra virus]
+gi|22711884|ref|NP_689442.1|vFam_1399| hypothetical protein FHVgp1 [Flock house virus]
+gi|9632344|ref|NP_049329.1|vFam_1399| coat protein precursor [Black beetle virus]

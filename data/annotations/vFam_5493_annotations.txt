@@ -1,0 +1,10 @@
+CLUSTER	5493
+NUM_SEQ	2
+LENGTH	210
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	109.2
+FAMILIES	{'Secoviridae': 2}
+GENERA	{'Waikavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|25013929|ref|NP_734451.1|vFam_5493| coat protein 2 [Maize chlorotic dwarf virus]
+gi|25013843|ref|NP_734458.1|vFam_5493| coat protein 1 [Rice tungro spherical virus]

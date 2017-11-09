@@ -1,0 +1,12 @@
+CLUSTER	988
+NUM_SEQ	4
+LENGTH	410
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	200.9
+FAMILIES	{'Retroviridae': 4}
+GENERA	{'Betaretrovirus': 1, 'Gammaretrovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|40795682|ref|NP_955543.1|vFam_988| outer membrane protein [Squirrel monkey retrovirus]
+gi|9626957|ref|NP_041218.1|vFam_988| precursor protein PR-env [Spleen focus-forming virus]
+gi|40796134|ref|NP_955587.1|vFam_988| gp70 SU [Moloney murine leukemia virus]
+gi|40796128|ref|NP_955581.1|vFam_988| gp70 protein [Feline leukemia virus]

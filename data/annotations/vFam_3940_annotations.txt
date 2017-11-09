@@ -1,0 +1,10 @@
+CLUSTER	3940
+NUM_SEQ	2
+LENGTH	271
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	140.92
+FAMILIES	{'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134287207|ref|YP_001110903.1|vFam_3940| iap-like protein [Heliothis virescens ascovirus 3e]
+gi|115298576|ref|YP_762429.1|vFam_3940| 27.4 Inhibitor of apoptosis/ RING/U box [Spodoptera frugiperda ascovirus 1a]

@@ -1,0 +1,13 @@
+CLUSTER	2327
+NUM_SEQ	5
+LENGTH	216
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	112.32
+FAMILIES	{'Potyviridae': 5}
+GENERA	{'Bymovirus': 4, 'Macluravirus': 1}
+FASTA SEQUENCE TITLES:
+gi|401829587|ref|YP_006590100.1|vFam_2327| NIa-Pro protein [Chinese yam necrotic mosaic virus]
+gi|25013752|ref|NP_734298.1|vFam_2327| NIa-Pro protein [Barley mild mosaic virus]
+gi|25014011|ref|NP_734280.1|vFam_2327| NIa-Pro protein [Oat mosaic virus]
+gi|25013963|ref|NP_697038.1|vFam_2327| NIa-Pro protein [Wheat yellow mosaic virus]
+gi|25013744|ref|NP_734306.1|vFam_2327| NIa-Pro protease [Barley yellow mosaic virus]

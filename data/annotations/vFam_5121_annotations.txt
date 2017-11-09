@@ -1,0 +1,11 @@
+CLUSTER	5121
+NUM_SEQ	3
+LENGTH	64
+RELATIVE_ENTROPY_PER_POSITION	0.82
+TOTAL_RELATIVE_ENTROPY	52.48
+FAMILIES	{'Flaviviridae': 3}
+GENERA	{'Pestivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|27777751|ref|NP_776268.1|vFam_5121| nonstructural protein NS4A [Bovine viral diarrhea virus 1]
+gi|27885152|ref|NP_777503.1|vFam_5121| nonstructural protein NS4A [Classical swine fever virus]
+gi|27885411|ref|NP_777490.1|vFam_5121| nonstructural protein NS4A [Bovine viral diarrhea virus 2]

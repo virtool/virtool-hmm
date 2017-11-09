@@ -1,0 +1,12 @@
+CLUSTER	781
+NUM_SEQ	4
+LENGTH	390
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	202.8
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Roseolovirus': 1, 'None': 1, 'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9633153|ref|NP_050263.1|vFam_781| putative glycoprotein [Human herpesvirus 6B]
+gi|14251106|ref|NP_116468.1|vFam_781| T117 [Tupaiid herpesvirus 1]
+gi|359946543|ref|YP_004936076.1|vFam_781| protein UL117 [Cercopithecine herpesvirus 5]
+gi|356640453|ref|YP_004933895.1|vFam_781| protein UL117 [Cynomolgus macaque cytomegalovirus strain Ottawa]

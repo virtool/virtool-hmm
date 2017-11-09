@@ -1,0 +1,10 @@
+CLUSTER	1620
+NUM_SEQ	2
+LENGTH	202
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	105.04
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825583|ref|YP_007418514.1|vFam_1620| putative mRNA capping enzyme [Megavirus lba]
+gi|441432452|ref|YP_007354494.1|vFam_1620| hypothetical protein Moumou_00524 [Acanthamoeba polyphaga moumouvirus]

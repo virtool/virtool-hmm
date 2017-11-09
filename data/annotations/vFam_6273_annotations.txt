@@ -1,0 +1,10 @@
+CLUSTER	6273
+NUM_SEQ	2
+LENGTH	152
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	77.52
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|313768377|ref|YP_004062057.1|vFam_6273| hypothetical protein MpV1_174 [Micromonas sp. RCC1109 virus MpV1]
+gi|163955168|ref|YP_001648272.1|vFam_6273| hypothetical protein OsV5_196f [Ostreococcus virus OsV5]

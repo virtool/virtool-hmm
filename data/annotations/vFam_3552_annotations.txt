@@ -1,0 +1,11 @@
+CLUSTER	3552
+NUM_SEQ	3
+LENGTH	356
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	185.12
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978018|ref|YP_003987138.1|vFam_3552| putative glycylpeptide N-tetradecanoyltransferase [Acanthamoeba polyphaga mimivirus]
+gi|448825739|ref|YP_007418670.1|vFam_3552| putative glycylpeptide n-tetradecanoyltransferase [Megavirus lba]
+gi|441432575|ref|YP_007354617.1|vFam_3552| putative N-myristoyltransferase [Acanthamoeba polyphaga moumouvirus]

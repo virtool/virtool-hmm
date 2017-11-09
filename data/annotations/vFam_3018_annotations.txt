@@ -1,0 +1,12 @@
+CLUSTER	3018
+NUM_SEQ	4
+LENGTH	208
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	108.16
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Siadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|9635813|ref|NP_062449.1|vFam_3018| pVIII [Frog adenovirus 1]
+gi|56160833|ref|AP_000492.1|vFam_3018| pVIII [Turkey adenovirus A]
+gi|363540930|ref|YP_004935945.1|vFam_3018| unnamed protein product [Skua adenovirus A]
+gi|331271193|ref|YP_004414814.1|vFam_3018| pVIII protein [Raptor adenovirus A]

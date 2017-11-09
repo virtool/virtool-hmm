@@ -1,0 +1,22 @@
+CLUSTER	648
+NUM_SEQ	14
+LENGTH	188
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	99.64
+FAMILIES	{'Baculoviridae': 13}
+GENERA	{'Betabaculovirus': 13}
+FASTA SEQUENCE TITLES:
+gi|11068011|ref|NP_068227.1|vFam_648| PxORF8 peptide [Plutella xylostella granulovirus]
+gi|32698543|ref|NP_872458.1|vFam_648| ORF_4 [Adoxophyes orana granulovirus]
+gi|410493577|ref|YP_006908515.1|vFam_648| hypothetical protein [Epinotia aporema granulovirus]
+gi|285002281|ref|YP_003422345.1|vFam_648| hypothetical protein PsunGV_gp006 [Pseudaletia unipuncta granulovirus]
+gi|164519201|ref|YP_001648988.1|vFam_648| hypothetical protein HaGV_gp006 [Helicoverpa armigera granulovirus]
+gi|148368826|ref|YP_001256956.1|vFam_648| hypothetical protein SlGVgp005 [Spodoptera litura granulovirus]
+gi|46309448|ref|YP_006338.1|vFam_648| ORF6 [Agrotis segetum granulovirus]
+gi|556549038|ref|YP_008719952.1|vFam_648| hypothetical protein CaLGV004 [Clostera anastomosis granulovirus]
+gi|334265683|ref|YP_004376212.1|vFam_648| hypothetical protein ClanGV_gp004 [Clostera anachoreta granulovirus]
+gi|109255277|ref|YP_654426.1|vFam_648| hypothetical protein COGV_gp005 [Choristoneura occidentalis granulovirus]
+gi|21686669|ref|NP_663169.1|vFam_648| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|288804643|ref|YP_003429328.1|vFam_648| PrGVORF4 [Pieris rapae granulovirus]
+gi|33622207|ref|NP_891852.1|vFam_648| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602245|ref|NP_148788.1|vFam_648| ORF4 similar to XcGV ORF7 [Cydia pomonella granulovirus]

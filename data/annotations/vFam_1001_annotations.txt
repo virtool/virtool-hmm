@@ -1,0 +1,14 @@
+CLUSTER	1001
+NUM_SEQ	6
+LENGTH	189
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	98.28
+FAMILIES	{'Adenoviridae': 1, 'Alloherpesviridae': 2, 'Iridoviridae': 1, 'Herpesviridae': 2}
+GENERA	{'Mardivirus': 2, 'Cyprinivirus': 1, 'Batrachovirus': 1, 'Ranavirus': 1, 'Aviadenovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|109638570|ref|YP_656756.1|vFam_1001| ORF101 [Ranid herpesvirus 1]
+gi|49237302|ref|YP_031583.1|vFam_1001| orf250-like protein [Frog virus 3]
+gi|282174093|ref|YP_003358195.1|vFam_1001| protein ORF56 [Anguillid herpesvirus 1]
+gi|327409511|ref|YP_004346955.1|vFam_1001| ORF4 [Fowl adenovirus C]
+gi|125745130|ref|YP_001034014.1|vFam_1001| protein SORF2A [Gallid herpesvirus 2]
+gi|125745120|ref|YP_001034004.1|vFam_1001| protein SORF2 [Gallid herpesvirus 2]

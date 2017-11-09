@@ -1,0 +1,12 @@
+CLUSTER	2637
+NUM_SEQ	4
+LENGTH	220
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	114.4
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'None': 2, 'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313768238|ref|YP_004061918.1|vFam_2637| hypothetical protein MpV1_035c [Micromonas sp. RCC1109 virus MpV1]
+gi|314055126|ref|YP_004063464.1|vFam_2637| putative NAD dependent epimerase/dehydratase family protein [Ostreococcus tauri virus 2]
+gi|313844015|ref|YP_004061678.1|vFam_2637| hypothetical protein OlV1_045c [Ostreococcus lucimarinus virus OlV1]
+gi|260665910|ref|YP_003212864.1|vFam_2637| hypothetical protein H665_p040 [Ostreococcus tauri virus 1]

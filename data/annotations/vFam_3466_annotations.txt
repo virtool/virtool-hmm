@@ -1,0 +1,11 @@
+CLUSTER	3466
+NUM_SEQ	3
+LENGTH	194
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	100.88
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|438000354|ref|YP_007250459.1|vFam_3466| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643591|ref|YP_002884281.1|vFam_3466| Ac52-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|119964571|ref|YP_950767.1|vFam_3466| Mv-ORF37 peptide [Maruca vitrata nucleopolyhedrovirus]

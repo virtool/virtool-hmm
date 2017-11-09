@@ -1,0 +1,13 @@
+CLUSTER	2644
+NUM_SEQ	5
+LENGTH	532
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	276.64
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631475|ref|NP_048216.1|vFam_2644| ORF MSV145 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|506497931|ref|YP_008003730.1|vFam_2644| virion protein (Cop-E6R) [Mythimna separata entomopoxvirus 'L']
+gi|506498189|ref|YP_008003986.1|vFam_2644| virion protein (Cop-E6R) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498791|ref|YP_008004585.1|vFam_2644| virion protein (Cop-E6R) [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964484|ref|NP_064952.1|vFam_2644| hypothetical protein AMV170 [Amsacta moorei entomopoxvirus 'L']

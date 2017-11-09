@@ -1,0 +1,13 @@
+CLUSTER	964
+NUM_SEQ	5
+LENGTH	522
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	266.22
+FAMILIES	{'Alloherpesviridae': 5}
+GENERA	{'Ictalurivirus': 1, 'Cyprinivirus': 2, 'Batrachovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|422933609|ref|YP_007003734.1|vFam_964| putative helicase-primase helicase subunit [Cyprinid herpesvirus 1]
+gi|282174074|ref|YP_003358176.1|vFam_964| helicase-primase helicase subunit [Anguillid herpesvirus 1]
+gi|109638635|ref|YP_656637.1|vFam_964| ORF129 [Ranid herpesvirus 2]
+gi|9626846|ref|NP_041116.1|vFam_964| ORF25 [Ictalurid herpesvirus 1]
+gi|109638486|ref|YP_656748.1|vFam_964| ORF93 [Ranid herpesvirus 1]

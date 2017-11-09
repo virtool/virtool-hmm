@@ -1,0 +1,13 @@
+CLUSTER	1747
+NUM_SEQ	5
+LENGTH	99
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	49.5
+FAMILIES	{'Coronaviridae': 4}
+GENERA	{'Betacoronavirus': 4}
+FASTA SEQUENCE TITLES:
+gi|556333864|ref|YP_008719933.1|vFam_1747| ORF 3a [Betacoronavirus Erinaceus/VMC/DEU/2012]
+gi|429535807|ref|YP_007188580.1|vFam_1747| NS3A protein [Betacoronavirus England 1]
+gi|126030125|ref|YP_001039963.1|vFam_1747| hypothetical protein BatCoVHKU5_gp3 [Bat coronavirus HKU5]
+gi|126030115|ref|YP_001039954.1|vFam_1747| hypothetical protein BatCoVHKU4_gp3 [Bat coronavirus HKU4]
+gi|113882960|ref|YP_729204.1|vFam_1747| putative ORF3a [Bat coronavirus (BtCoV/133/2005)]

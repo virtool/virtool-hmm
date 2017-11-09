@@ -1,0 +1,10 @@
+CLUSTER	6041
+NUM_SEQ	2
+LENGTH	166
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	84.66
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Leporipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9633822|ref|NP_051900.1|vFam_6041| gp011L [Rabbit fibroma virus]
+gi|9633647|ref|NP_051725.1|vFam_6041| apoptosis regulator M11L [Myxoma virus]

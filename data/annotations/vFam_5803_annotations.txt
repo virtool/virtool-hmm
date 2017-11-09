@@ -1,0 +1,10 @@
+CLUSTER	5803
+NUM_SEQ	2
+LENGTH	134
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	69.68
+FAMILIES	{'Iridoviridae': 1}
+GENERA	{'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|527333566|ref|YP_008357350.1|vFam_5803| hypothetical protein IIV22_052R [Invertebrate iridovirus 22]
+gi|339906166|ref|YP_004732963.1|vFam_5803| hypothetical protein WIV_gp180 [Wiseana iridescent virus]

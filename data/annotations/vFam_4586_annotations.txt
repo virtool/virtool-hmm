@@ -1,0 +1,11 @@
+CLUSTER	4586
+NUM_SEQ	3
+LENGTH	601
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	312.52
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329488|ref|YP_001604287.1|vFam_4586| putative helicase [Acidianus filamentous virus 8]
+gi|171473658|ref|YP_001798528.1|vFam_4586| putative Holliday junction branch migration helicase [Acidianus filamentous virus 9]
+gi|16753094|ref|NP_445672.1|vFam_4586| putative helicase [Sulfolobus islandicus filamentous virus]

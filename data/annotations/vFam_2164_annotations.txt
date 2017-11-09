@@ -1,0 +1,13 @@
+CLUSTER	2164
+NUM_SEQ	5
+LENGTH	104
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	53.04
+FAMILIES	{'Adenoviridae': 1, 'Polydnaviridae': 4}
+GENERA	{'Bracovirus': 4, 'Aviadenovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|327409490|ref|YP_004346934.1|vFam_2164| hypothetical 10.5 kDa protein [Fowl adenovirus C]
+gi|57659522|ref|YP_184861.1|vFam_2164| hypothetical protein CcBV_23.3 [Cotesia congregata bracovirus]
+gi|57659554|ref|YP_184867.1|vFam_2164| hypothetical protein CcBV_25.5 [Cotesia congregata bracovirus]
+gi|57659722|ref|YP_184904.1|vFam_2164| hypothetical protein CcBV_33.6 [Cotesia congregata bracovirus]
+gi|57659720|ref|YP_184902.1|vFam_2164| hypothetical protein CcBV_33.4 [Cotesia congregata bracovirus]

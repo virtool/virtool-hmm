@@ -1,0 +1,16 @@
+CLUSTER	1189
+NUM_SEQ	8
+LENGTH	164
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	82.0
+FAMILIES	{'Alloherpesviridae': 1, 'Marseillevirus family': 7}
+GENERA	{'None': 7, 'Batrachovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|109638739|ref|YP_656602.1|vFam_1189| ORF94 [Ranid herpesvirus 2]
+gi|327409721|ref|YP_004347141.1|vFam_1189| hypothetical protein LAU_0178 [Lausannevirus]
+gi|284504206|ref|YP_003406921.1|vFam_1189| hypothetical protein MAR_ORF178 [Marseillevirus]
+gi|327409735|ref|YP_004347155.1|vFam_1189| hypothetical protein LAU_0192 [Lausannevirus]
+gi|284504203|ref|YP_003406918.1|vFam_1189| hypothetical protein MAR_ORF175 [Marseillevirus]
+gi|327409728|ref|YP_004347148.1|vFam_1189| hypothetical protein LAU_0185 [Lausannevirus]
+gi|327409720|ref|YP_004347140.1|vFam_1189| hypothetical protein LAU_0177 [Lausannevirus]
+gi|327409614|ref|YP_004347034.1|vFam_1189| hypothetical protein LAU_0067 [Lausannevirus]

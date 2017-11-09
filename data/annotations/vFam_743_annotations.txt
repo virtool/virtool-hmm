@@ -1,0 +1,14 @@
+CLUSTER	743
+NUM_SEQ	6
+LENGTH	415
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	207.5
+FAMILIES	{'Phycodnaviridae': 5}
+GENERA	{'None': 2, 'Prasinovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|506497974|ref|YP_008003773.1|vFam_743| hypothetical protein MYSEV_256 [Mythimna separata entomopoxvirus 'L']
+gi|313768107|ref|YP_004061538.1|vFam_743| hypothetical protein BpV1_108c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768325|ref|YP_004062005.1|vFam_743| hypothetical protein MpV1_122c [Micromonas sp. RCC1109 virus MpV1]
+gi|260665981|ref|YP_003212935.1|vFam_743| hypothetical protein H665_p112 [Ostreococcus tauri virus 1]
+gi|314055202|ref|YP_004063540.1|vFam_743| NTPase/helicase [Ostreococcus tauri virus 2]
+gi|313844129|ref|YP_004061792.1|vFam_743| hypothetical protein OlV1_160 [Ostreococcus lucimarinus virus OlV1]

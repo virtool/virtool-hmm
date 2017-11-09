@@ -1,0 +1,14 @@
+CLUSTER	1039
+NUM_SEQ	6
+LENGTH	135
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	64.8
+FAMILIES	{'None': 3, 'Mimiviridae': 3}
+GENERA	{'None': 6}
+FASTA SEQUENCE TITLES:
+gi|448825826|ref|YP_007418757.1|vFam_1039| hypothetical protein LBA_00863 [Megavirus lba]
+gi|448826109|ref|YP_007419040.1|vFam_1039| hypothetical protein LBA_01146 [Megavirus lba]
+gi|441431971|ref|YP_007354013.1|vFam_1039| hypothetical protein Moumou_00029 [Acanthamoeba polyphaga moumouvirus]
+gi|441432747|ref|YP_007354789.1|vFam_1039| hypothetical protein Moumou_00836 [Acanthamoeba polyphaga moumouvirus]
+gi|448826041|ref|YP_007418972.1|vFam_1039| hypothetical protein LBA_01078 [Megavirus lba]
+gi|363540870|ref|YP_004895078.1|vFam_1039| mg1027 gene product [Megavirus chiliensis]

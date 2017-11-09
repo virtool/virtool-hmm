@@ -1,0 +1,11 @@
+CLUSTER	2805
+NUM_SEQ	3
+LENGTH	502
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	256.02
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Iltovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|148828637|ref|YP_182395.2|vFam_2805| protein UL0 [Gallid herpesvirus 1]
+gi|148828638|ref|YP_182396.2|vFam_2805| protein LORF2 [Gallid herpesvirus 1]
+gi|148753577|ref|NP_944440.2|vFam_2805| protein LORF2 [Psittacid herpesvirus 1]

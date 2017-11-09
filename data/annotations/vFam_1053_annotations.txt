@@ -1,0 +1,12 @@
+CLUSTER	1053
+NUM_SEQ	4
+LENGTH	1150
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	598.0
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|506497899|ref|YP_008003698.1|vFam_1053| P4a precursor [Mythimna separata entomopoxvirus 'L']
+gi|506498213|ref|YP_008004010.1|vFam_1053| P4a precursor [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498463|ref|YP_008004259.1|vFam_1053| P4a precursor [Choristoneura biennis entomopoxvirus 'L']
+gi|9964453|ref|NP_064921.1|vFam_1053| putative core protein [Amsacta moorei entomopoxvirus 'L']

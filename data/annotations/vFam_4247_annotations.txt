@@ -1,0 +1,11 @@
+CLUSTER	4247
+NUM_SEQ	3
+LENGTH	309
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	157.59
+FAMILIES	{'Marseillevirus family': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|284504209|ref|YP_003406924.1|vFam_4247| putative nuclease [Marseillevirus]
+gi|327409911|ref|YP_004347331.1|vFam_4247| putative nuclease [Lausannevirus]
+gi|284504380|ref|YP_003407095.1|vFam_4247| putative nuclease [Marseillevirus]

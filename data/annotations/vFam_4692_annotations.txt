@@ -1,0 +1,11 @@
+CLUSTER	4692
+NUM_SEQ	3
+LENGTH	214
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	109.14
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Cervidpoxvirus': 1, 'Leporipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|211956424|ref|YP_002302494.1|vFam_4692| Ig domain OX-2-like protein [Deerpox virus W-1170-84]
+gi|9633948|ref|NP_052027.1|vFam_4692| gp141R [Rabbit fibroma virus]
+gi|9633777|ref|NP_051855.1|vFam_4692| m141R [Myxoma virus]

@@ -1,0 +1,15 @@
+CLUSTER	450
+NUM_SEQ	7
+LENGTH	526
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	268.26
+FAMILIES	{'Herpesviridae': 7}
+GENERA	{'Macavirus': 2, 'None': 1, 'Rhadinovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|321496568|ref|YP_004207853.1|vFam_450| capsid protein [Rodent herpesvirus Peru]
+gi|83642853|ref|YP_438140.1|vFam_450| ORF17 [Ovine herpesvirus 2]
+gi|10140939|ref|NP_065516.1|vFam_450| minor capsid scaffold protein [Alcelaphine herpesvirus 1]
+gi|9631207|ref|NP_047988.1|vFam_450| orf 17; protease and capsid protein (N-term); minor capsid scaffold protein (C-term) [Ateline herpesvirus 3]
+gi|13095594|ref|NP_076509.1|vFam_450| capsid protein [Bovine herpesvirus 4]
+gi|139472867|ref|YP_001129369.1|vFam_450| ORF17 [Human herpesvirus 8]
+gi|18653823|ref|NP_570757.1|vFam_450| capsid protein [Macacine herpesvirus 5]

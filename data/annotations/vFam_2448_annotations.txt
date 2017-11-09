@@ -1,0 +1,11 @@
+CLUSTER	2448
+NUM_SEQ	3
+LENGTH	287
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	149.24
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977598|ref|YP_003986718.1|vFam_2448| putative SET domain-containing protein [Acanthamoeba polyphaga mimivirus]
+gi|448825274|ref|YP_007418205.1|vFam_2448| putative set domain-containing protein [Megavirus lba]
+gi|441432187|ref|YP_007354229.1|vFam_2448| SET and RNase_H domain-containing protein [Acanthamoeba polyphaga moumouvirus]

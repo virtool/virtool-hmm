@@ -1,0 +1,15 @@
+CLUSTER	1629
+NUM_SEQ	7
+LENGTH	169
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	86.19
+FAMILIES	{'Herpesviridae': 7}
+GENERA	{'Varicellovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|155041724|ref|NP_045279.2|vFam_1629| envelope glycoprotein L [Equid herpesvirus 4]
+gi|386522786|ref|YP_006273042.1|vFam_1629| ORF62 gene product [Equid herpesvirus 8]
+gi|155041723|ref|YP_053106.2|vFam_1629| envelope glycoprotein L [Equid herpesvirus 1]
+gi|13242455|ref|NP_077474.1|vFam_1629| envelope glycoprotein L [Cercopithecine herpesvirus 9]
+gi|9625934|ref|NP_040182.1|vFam_1629| envelope glycoprotein L [Human herpesvirus 3]
+gi|270339499|ref|YP_003331581.1|vFam_1629| envelope glycoprotein L [Felid herpesvirus 1]
+gi|51557542|ref|YP_068376.1|vFam_1629| envelope glycoprotein L [Suid herpesvirus 1]

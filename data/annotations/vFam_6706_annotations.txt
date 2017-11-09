@@ -1,0 +1,10 @@
+CLUSTER	6706
+NUM_SEQ	2
+LENGTH	90
+RELATIVE_ENTROPY_PER_POSITION	0.57
+TOTAL_RELATIVE_ENTROPY	51.3
+FAMILIES	{'Paramyxoviridae': 2}
+GENERA	{'Pneumovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9631277|ref|NP_048057.1|vFam_6706| hypothetical protein [Bovine respiratory syncytial virus]
+gi|9629208|ref|NP_056865.1|vFam_6706| matrix protein 2 [Human respiratory syncytial virus]

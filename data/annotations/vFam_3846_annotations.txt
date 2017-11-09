@@ -1,0 +1,12 @@
+CLUSTER	3846
+NUM_SEQ	4
+LENGTH	90
+RELATIVE_ENTROPY_PER_POSITION	0.56
+TOTAL_RELATIVE_ENTROPY	50.4
+FAMILIES	{'Bunyaviridae': 4}
+GENERA	{'Hantavirus': 4}
+FASTA SEQUENCE TITLES:
+gi|356457879|ref|YP_004928151.1|vFam_3846| putative nonstructural protein [Andes virus]
+gi|356218600|ref|YP_004928152.1|vFam_3846| putative nonstructural protein [Sin Nombre virus]
+gi|356457880|ref|YP_004928150.1|vFam_3846| nonstructural protein [Puumala virus]
+gi|356460853|ref|YP_004928154.1|vFam_3846| nonstructral protein [Tula virus]

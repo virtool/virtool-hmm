@@ -1,0 +1,19 @@
+CLUSTER	226
+NUM_SEQ	11
+LENGTH	511
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	260.61
+FAMILIES	{'Iridoviridae': 10}
+GENERA	{'Lymphocystivirus': 8, 'Iridovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|15079091|ref|NP_149843.1|vFam_226| 380R [Invertebrate iridescent virus 6]
+gi|527333597|ref|YP_008357381.1|vFam_226| Serine/threonine protein kinase [Invertebrate iridovirus 22]
+gi|339906009|ref|YP_004732806.1|vFam_226| hypothetical protein WIV_gp023 [Wiseana iridescent virus]
+gi|51870102|ref|YP_073655.1|vFam_226| hypothetical protein LDVICp149 [Lymphocystis disease virus - isolate China]
+gi|13358418|ref|NP_078684.1|vFam_226| hypothetical protein LCDV1gp047 [Lymphocystis disease virus 1]
+gi|51870126|ref|YP_073679.1|vFam_226| serine/threonine protein kinase [Lymphocystis disease virus - isolate China]
+gi|13358416|ref|NP_078677.1|vFam_226| Phosphotransferase [Lymphocystis disease virus 1]
+gi|51869969|ref|YP_073522.1|vFam_226| serine/threonine protein kinase [Lymphocystis disease virus - isolate China]
+gi|13358417|ref|NP_078619.1|vFam_226| hypothetical protein LCDV1gp005 [Lymphocystis disease virus 1]
+gi|51870136|ref|YP_073689.1|vFam_226| hypothetical protein LDVICp184 [Lymphocystis disease virus - isolate China]
+gi|13358419|ref|NP_078744.1|vFam_226| hypothetical protein LCDV1gp088 [Lymphocystis disease virus 1]

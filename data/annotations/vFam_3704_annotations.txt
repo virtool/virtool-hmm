@@ -1,0 +1,11 @@
+CLUSTER	3704
+NUM_SEQ	3
+LENGTH	136
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	69.36
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'None': 2, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|163954981|ref|YP_001648085.1|vFam_3704| hypothetical protein OsV5_008r [Ostreococcus virus OsV5]
+gi|260665879|ref|YP_003212833.1|vFam_3704| hypothetical protein H665_p009 [Ostreococcus tauri virus 1]
+gi|313843984|ref|YP_004061647.1|vFam_3704| hypothetical protein OlV1_014c [Ostreococcus lucimarinus virus OlV1]

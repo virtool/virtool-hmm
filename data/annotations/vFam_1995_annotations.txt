@@ -1,0 +1,13 @@
+CLUSTER	1995
+NUM_SEQ	5
+LENGTH	320
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	163.2
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Iltovirus': 1, 'Mardivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|38638268|ref|NP_944451.1|vFam_1995| protein SORF3 [Psittacid herpesvirus 1]
+gi|255683164|ref|YP_003084429.1|vFam_1995| SORF3 [Anatid herpesvirus 1]
+gi|12084903|ref|NP_073373.1|vFam_1995| protein SORF3 [Meleagrid herpesvirus 1]
+gi|125745123|ref|YP_001034007.1|vFam_1995| protein SORF3 [Gallid herpesvirus 2]
+gi|10834948|ref|NP_066909.1|vFam_1995| protein SORF3 [Gallid herpesvirus 3]

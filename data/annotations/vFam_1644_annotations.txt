@@ -1,0 +1,10 @@
+CLUSTER	1644
+NUM_SEQ	2
+LENGTH	275
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	140.25
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40556017|ref|NP_955102.1|vFam_1644| CNPV079 Ig-like domain protein [Canarypox virus]
+gi|9634725|ref|NP_039018.1|vFam_1644| V-type Ig domain [Fowlpox virus]

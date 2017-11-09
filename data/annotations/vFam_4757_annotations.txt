@@ -1,0 +1,10 @@
+CLUSTER	4757
+NUM_SEQ	2
+LENGTH	156
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	81.12
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498207|ref|YP_008004004.1|vFam_4757| unknown similar to AMEV148 [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964462|ref|NP_064930.1|vFam_4757| putative core protein [Amsacta moorei entomopoxvirus 'L']

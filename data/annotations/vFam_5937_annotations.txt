@@ -1,0 +1,10 @@
+CLUSTER	5937
+NUM_SEQ	2
+LENGTH	126
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	64.26
+FAMILIES	{'Phycodnaviridae': 1, 'Baculoviridae': 1}
+GENERA	{'Betabaculovirus': 1, 'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182011|ref|YP_008052530.1|vFam_5937| hypothetical protein PGCG_00212 [Phaeocystis globosa virus]
+gi|32698573|ref|NP_872488.1|vFam_5937| ORF_34 [Adoxophyes orana granulovirus]

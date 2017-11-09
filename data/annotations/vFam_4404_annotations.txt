@@ -1,0 +1,10 @@
+CLUSTER	4404
+NUM_SEQ	2
+LENGTH	136
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	70.72
+FAMILIES	{'Retroviridae': 2}
+GENERA	{'Deltaretrovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40796172|ref|NP_955617.1|vFam_4404| p19 MA [Human T-lymphotropic virus 1]
+gi|40018529|ref|NP_954566.1|vFam_4404| p19-gag protein [2] [Human T-lymphotropic virus 2]

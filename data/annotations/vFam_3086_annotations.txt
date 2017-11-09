@@ -1,0 +1,10 @@
+CLUSTER	3086
+NUM_SEQ	2
+LENGTH	462
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	231.0
+FAMILIES	{'Polydnaviridae': 1}
+GENERA	{'Ichnovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|146411816|ref|YP_001210310.1|vFam_3086| hypothetical protein ABV_gp06 [Acidianus bottle-shaped virus]
+gi|124378220|ref|YP_001029420.1|vFam_3086| GfV-C17-ORF1 [Glypta fumiferanae ichnovirus]

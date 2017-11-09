@@ -1,0 +1,11 @@
+CLUSTER	4806
+NUM_SEQ	3
+LENGTH	109
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	55.59
+FAMILIES	{'Herpesviridae': 1, 'Poxviridae': 2}
+GENERA	{'Rhadinovirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|139472813|ref|YP_001129363.1|vFam_4806| K4.1 [Human herpesvirus 8]
+gi|377830123|ref|YP_005296371.1|vFam_4806| unnamed protein product [Cotia virus SPAn232]
+gi|377830116|ref|YP_005296364.1|vFam_4806| unnamed protein product [Cotia virus SPAn232]

@@ -1,0 +1,39 @@
+CLUSTER	161
+NUM_SEQ	31
+LENGTH	274
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	137.0
+FAMILIES	{'Baculoviridae': 25}
+GENERA	{'Alphabaculovirus': 25}
+FASTA SEQUENCE TITLES:
+gi|114679883|ref|YP_758333.1|vFam_161| 39 kDa protein [Leucania separata nucleopolyhedrovirus]
+gi|15617505|ref|NP_258301.1|vFam_161| PP31 [Spodoptera litura nucleopolyhedrovirus]
+gi|29567098|ref|NP_818660.1|vFam_161| 39K protein [Adoxophyes honmai nucleopolyhedrovirus]
+gi|209401085|ref|YP_002273954.1|vFam_161| nuclear matrix associated phosphoprotein [Helicoverpa armigera NPV NNg1]
+gi|438000341|ref|YP_007250446.1|vFam_161| 39K/pp31 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964559|ref|YP_950755.1|vFam_161| pp31/39 kDa protein [Maruca vitrata nucleopolyhedrovirus]
+gi|237643577|ref|YP_002884267.1|vFam_161| 39K protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|23577876|ref|NP_703026.1|vFam_161| 39K [Rachiplusia ou MNPV]
+gi|96979881|ref|YP_611090.1|vFam_161| pp31/39k [Antheraea pernyi nucleopolyhedrovirus]
+gi|571031321|ref|YP_008992218.1|vFam_161| 39K protein [Choristoneura murinana alphabaculovirus]
+gi|9629962|ref|NP_046180.1|vFam_161| 39K [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|86355647|ref|YP_473315.1|vFam_161| P31 [Hyphantria cunea nucleopolyhedrovirus]
+gi|529153441|ref|YP_008378481.1|vFam_161| 39K [Choristoneura rosaceana alphabaculovirus]
+gi|116326094|ref|YP_803419.1|vFam_161| nuclear matrix associated phosphoprotein [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320679|ref|NP_203191.1|vFam_161| 39K [Epiphyas postvittana nucleopolyhedrovirus]
+gi|292397714|ref|YP_003517780.1|vFam_161| 39 kDa protein [Lymantria xylina MNPV]
+gi|9631010|ref|NP_047680.1|vFam_161| Ld-39K/pp31 [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|113195426|ref|YP_717562.1|vFam_161| 39K/PP31 [Clanis bilineata nucleopolyhedrovirus]
+gi|118197506|ref|YP_874217.1|vFam_161| 39K [Ectropis obliqua nucleopolyhedrovirus]
+gi|402502207|ref|YP_006607865.1|vFam_161| 39K protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|165969066|ref|YP_001650966.1|vFam_161| pp31 [Orgyia leucostigma NPV]
+gi|228861637|ref|YP_002854657.1|vFam_161| 39K protein [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|529218080|ref|YP_008378243.1|vFam_161| 39K [Hemileuca sp. nucleopolyhedrovirus]
+gi|74229712|ref|YP_308916.1|vFam_161| orf26 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304164|ref|YP_249632.1|vFam_161| 39K/pp31 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|20070029|ref|NP_613233.1|vFam_161| 39k/pp31 [Mamestra configurata nucleopolyhedrovirus A]
+gi|209171022|ref|YP_002268169.1|vFam_161| 39K protein [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592849|ref|YP_529802.1|vFam_161| 39K/PP31 [Agrotis segetum nucleopolyhedrovirus]
+gi|125860243|ref|YP_001036413.1|vFam_161| 39 kDa protein [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401519|ref|YP_002332823.1|vFam_161| 39 kDa protein/pp31 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634341|ref|NP_037880.1|vFam_161| ORF120 39K / pp31 [Spodoptera exigua multiple nucleopolyhedrovirus]

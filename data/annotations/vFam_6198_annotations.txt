@@ -1,0 +1,10 @@
+CLUSTER	6198
+NUM_SEQ	2
+LENGTH	145
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	72.5
+FAMILIES	{'Phycodnaviridae': 1, 'Poxviridae': 1}
+GENERA	{'Crocodylidpoxvirus': 1, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|115531823|ref|YP_784349.1|vFam_6198| hypothetical protein CRV159 [Nile crocodilepox virus]
+gi|163955100|ref|YP_001648204.1|vFam_6198| hypothetical protein OsV5_127f [Ostreococcus virus OsV5]

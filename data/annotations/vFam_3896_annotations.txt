@@ -1,0 +1,10 @@
+CLUSTER	3896
+NUM_SEQ	2
+LENGTH	199
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	103.48
+FAMILIES	{'Papillomaviridae': 2}
+GENERA	{'Thetapapillomavirus': 1, 'Etapapillomavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|21844537|ref|NP_663764.1|vFam_3896| putative X-ORF protein [Etapapillomavirus 1]
+gi|21326231|ref|NP_647587.1|vFam_3896| E9 [Thetapapillomavirus 1]

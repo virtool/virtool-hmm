@@ -1,0 +1,12 @@
+CLUSTER	3737
+NUM_SEQ	4
+LENGTH	96
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	49.92
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281805|ref|YP_003331471.1|vFam_3737| hypothetical protein SSSV6_gp21 [Sulfolobus spindle-shaped virus 6]
+gi|22122276|ref|NP_666537.1|vFam_3737| hypothetical protein SIRV2gp03 [Sulfolobus islandicus rod-shaped virus 2]
+gi|22122318|ref|NP_666579.1|vFam_3737| hypothetical protein SIRV2gp45 [Sulfolobus islandicus rod-shaped virus 2]
+gi|22122264|ref|NP_666625.1|vFam_3737| hypothetical protein SIRV1gp37 [Sulfolobus islandicus rod-shaped virus 1]

@@ -1,0 +1,10 @@
+CLUSTER	4668
+NUM_SEQ	2
+LENGTH	121
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	60.5
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52139216|ref|YP_081489.1|vFam_4668| protein UL30 [Human herpesvirus 5]
+gi|20026633|ref|NP_612674.1|vFam_4668| protein UL30 [Panine herpesvirus 2]

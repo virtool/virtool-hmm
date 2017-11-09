@@ -1,0 +1,11 @@
+CLUSTER	2308
+NUM_SEQ	3
+LENGTH	138
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	70.38
+FAMILIES	{'Adenoviridae': 2, 'Phycodnaviridae': 1}
+GENERA	{'Prymnesiovirus': 1, 'Aviadenovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|508181943|ref|YP_008052462.1|vFam_2308| TspO/MBR family protein [Phaeocystis globosa virus]
+gi|327409509|ref|YP_004346953.1|vFam_2308| ORF16 [Fowl adenovirus C]
+gi|56160776|ref|AP_000433.1|vFam_2308| ORF16 [Fowl adenovirus A]

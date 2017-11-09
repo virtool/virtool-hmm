@@ -1,0 +1,10 @@
+CLUSTER	4007
+NUM_SEQ	2
+LENGTH	186
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	96.72
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409872|ref|YP_004347292.1|vFam_4007| putative thioredoxin [Lausannevirus]
+gi|284504332|ref|YP_003407047.1|vFam_4007| thioredoxin [Marseillevirus]

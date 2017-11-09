@@ -1,0 +1,10 @@
+CLUSTER	6404
+NUM_SEQ	2
+LENGTH	158
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	82.16
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|314055200|ref|YP_004063538.1|vFam_6404| hypothetical protein OtV2_105 [Ostreococcus tauri virus 2]
+gi|313844086|ref|YP_004061749.1|vFam_6404| hypothetical protein OlV1_116c [Ostreococcus lucimarinus virus OlV1]

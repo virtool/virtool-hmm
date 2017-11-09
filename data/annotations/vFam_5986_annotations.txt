@@ -1,0 +1,10 @@
+CLUSTER	5986
+NUM_SEQ	2
+LENGTH	321
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	163.71
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825709|ref|YP_007418640.1|vFam_5986| putative ankyrin repeat protein [Megavirus lba]
+gi|363540408|ref|YP_004894769.1|vFam_5986| mg718 gene product [Megavirus chiliensis]

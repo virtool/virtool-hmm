@@ -1,0 +1,10 @@
+CLUSTER	1581
+NUM_SEQ	2
+LENGTH	136
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	66.64
+FAMILIES	{'Iridoviridae': 1, 'Retroviridae': 1}
+GENERA	{'Lentivirus': 1, 'Ranavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|56692767|ref|YP_164225.1|vFam_1581| hypothetical protein ORF130L [Singapore grouper iridovirus]
+gi|9626657|ref|NP_040943.1|vFam_1581| trans-regulatory splicing-like protein [Caprine arthritis-encephalitis virus]

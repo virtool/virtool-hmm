@@ -1,0 +1,14 @@
+CLUSTER	1200
+NUM_SEQ	6
+LENGTH	148
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	75.48
+FAMILIES	{'Poxviridae': 6}
+GENERA	{'Capripoxvirus': 1, 'Yatapoxvirus': 2, 'Cervidpoxvirus': 1, 'Suipoxvirus': 1, 'Leporipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|157939740|ref|YP_001497112.1|vFam_1200| fusion protein [Tanapox virus]
+gi|38229279|ref|NP_938372.1|vFam_1200| 117L [Yaba monkey tumor virus]
+gi|21492569|ref|NP_659689.1|vFam_1200| Fusion protein, virus assembly [Sheeppox virus]
+gi|9633925|ref|NP_052004.1|vFam_1200| gp115L [Rabbit fibroma virus]
+gi|62637503|ref|YP_227501.1|vFam_1200| Fusion protein [Deerpox virus W-848-83]
+gi|18640200|ref|NP_570274.1|vFam_1200| SPV114 putative fusion protein [Swinepox virus]

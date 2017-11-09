@@ -1,0 +1,10 @@
+CLUSTER	5225
+NUM_SEQ	2
+LENGTH	45
+RELATIVE_ENTROPY_PER_POSITION	1.17
+TOTAL_RELATIVE_ENTROPY	52.65
+FAMILIES	{'Coronaviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|253756612|ref|YP_003038524.1|vFam_5225| 4.8 kD non-structural protein [Human enteric coronavirus strain 4408]
+gi|253756587|ref|YP_003038501.1|vFam_5225| 4.8 kD non-structural protein [Bovine respiratory coronavirus AH187]

@@ -1,0 +1,10 @@
+CLUSTER	6051
+NUM_SEQ	2
+LENGTH	265
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	137.8
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|295441862|ref|YP_003591104.1|vFam_6051| hypothetical protein STIV2_B265 [Sulfolobus turreted icosahedral virus 2]
+gi|48697022|ref|YP_025019.1|vFam_6051| hypothetical protein B264 [Sulfolobus turreted icosahedral virus]

@@ -1,0 +1,10 @@
+CLUSTER	4801
+NUM_SEQ	2
+LENGTH	111
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	57.72
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409955|ref|YP_004347375.1|vFam_4801| hypothetical protein LAU_0413 [Lausannevirus]
+gi|284504132|ref|YP_003406847.1|vFam_4801| hypothetical protein MAR_ORF100 [Marseillevirus]

@@ -1,0 +1,10 @@
+CLUSTER	6558
+NUM_SEQ	2
+LENGTH	181
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	94.12
+FAMILIES	{'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134287315|ref|YP_001111011.1|vFam_6558| hypothetical protein HVAV3e_gp158 [Heliothis virescens ascovirus 3e]
+gi|134287193|ref|YP_001110889.1|vFam_6558| hypothetical protein HVAV3e_gp036 [Heliothis virescens ascovirus 3e]

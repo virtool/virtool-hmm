@@ -1,0 +1,11 @@
+CLUSTER	3414
+NUM_SEQ	3
+LENGTH	237
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	118.5
+FAMILIES	{'Hytrosaviridae': 1, 'Baculoviridae': 1}
+GENERA	{'Muscavirus': 1, 'Betabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|187903075|ref|YP_001883366.1|vFam_3414| hypothetical protein MdSGHV038 [Musca domestica salivary gland hypertrophy virus]
+gi|556549087|ref|YP_008720001.1|vFam_3414| hypothetical protein CalGV054 [Clostera anastomosis granulovirus]
+gi|334265730|ref|YP_004376259.1|vFam_3414| hypothetical protein ClanGV_gp051 [Clostera anachoreta granulovirus]

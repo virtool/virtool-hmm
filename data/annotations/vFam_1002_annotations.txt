@@ -1,0 +1,17 @@
+CLUSTER	1002
+NUM_SEQ	9
+LENGTH	252
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	133.56
+FAMILIES	{'Flaviviridae': 9}
+GENERA	{'Flavivirus': 9}
+FASTA SEQUENCE TITLES:
+gi|27735296|ref|NP_776008.1|vFam_1002| non-structural protein NS4b [Yellow fever virus]
+gi|164654860|ref|YP_001531175.2|vFam_1002| Nonstructural protein NS4B [Dengue virus 3]
+gi|25014068|ref|NP_733811.1|vFam_1002| nonstructural protein 4B [Dengue virus 1]
+gi|73671178|ref|NP_740324.1|vFam_1002| NS4B protein [Dengue virus 4]
+gi|159024819|ref|NP_739589.2|vFam_1002| Nonstructural protein NS4B [Dengue virus 2]
+gi|27735309|ref|NP_776021.1|vFam_1002| unnamed protein product [West Nile virus]
+gi|24418989|ref|NP_722538.1|vFam_1002| NS4B [Murray Valley encephalitis virus]
+gi|56692453|ref|YP_164817.1|vFam_1002| NS4b [Usutu virus]
+gi|27696335|ref|NP_775673.1|vFam_1002| non-structural protein NS4b, partial [Japanese encephalitis virus]

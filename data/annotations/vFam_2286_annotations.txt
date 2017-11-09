@@ -1,0 +1,13 @@
+CLUSTER	2286
+NUM_SEQ	5
+LENGTH	148
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	75.48
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Alphabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|209401139|ref|YP_002274008.1|vFam_2286| hypothetical protein HaSNPVNNg1_gp085 [Helicoverpa armigera NPV NNg1]
+gi|22549440|ref|NP_689213.1|vFam_2286| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069922|ref|NP_613126.1|vFam_2286| hypothetical protein McnAVgp043 [Mamestra configurata nucleopolyhedrovirus A]
+gi|125860190|ref|YP_001036360.1|vFam_2286| hypothetical protein SFMNPV_gp068 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|9634289|ref|NP_037828.1|vFam_2286| ORF68 [Spodoptera exigua multiple nucleopolyhedrovirus]

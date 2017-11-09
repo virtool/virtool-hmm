@@ -1,0 +1,10 @@
+CLUSTER	5111
+NUM_SEQ	2
+LENGTH	120
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	60.0
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|109255319|ref|YP_654468.1|vFam_5111| hypothetical protein COGV_gp047 [Choristoneura occidentalis granulovirus]
+gi|33622264|ref|NP_891911.1|vFam_5111| hypothetical protein [Cryptophlebia leucotreta granulovirus]

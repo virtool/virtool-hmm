@@ -1,0 +1,11 @@
+CLUSTER	3438
+NUM_SEQ	3
+LENGTH	120
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	61.2
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|75750451|ref|YP_319890.1|vFam_3438| hypothetical protein ATV_gp59 [Acidianus two-tailed virus]
+gi|448260183|ref|YP_007348280.1|vFam_3438| hypothetical protein STSV2_36 [Sulfolobus virus STSV2]
+gi|51980165|ref|YP_077232.1|vFam_3438| hypothetical protein STSV1pORF39 [Sulfolobus virus STSV1]

@@ -1,0 +1,26 @@
+CLUSTER	344
+NUM_SEQ	18
+LENGTH	174
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	92.22
+FAMILIES	{'Baculoviridae': 15}
+GENERA	{'Alphabaculovirus': 15}
+FASTA SEQUENCE TITLES:
+gi|402502197|ref|YP_006607855.1|vFam_344| PK interacting protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|292397780|ref|YP_003517846.1|vFam_344| protein kinase interacting protein [Lymantria xylina MNPV]
+gi|209401192|ref|YP_002274061.1|vFam_344| protein kinase interacting protein 1 [Helicoverpa armigera NPV NNg1]
+gi|113195508|ref|YP_717646.1|vFam_344| PKIP [Clanis bilineata nucleopolyhedrovirus]
+gi|74229824|ref|YP_309028.1|vFam_344| orf139 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304282|ref|YP_249750.1|vFam_344| PKIP [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549442|ref|NP_689215.1|vFam_344| pkip gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|9634253|ref|NP_037792.1|vFam_344| ORF32 pkip [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|215401427|ref|YP_002332730.1|vFam_344| PKIP [Spodoptera litura nucleopolyhedrovirus II]
+gi|125860153|ref|YP_001036323.1|vFam_344| protein kinase-interacting protein 1 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|209170922|ref|YP_002268068.1|vFam_344| agip38 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592750|ref|YP_529703.1|vFam_344| PKIP-1 [Agrotis segetum nucleopolyhedrovirus]
+gi|165969123|ref|YP_001651023.1|vFam_344| PK interacting protein [Orgyia leucostigma NPV]
+gi|118197585|ref|YP_874297.1|vFam_344| PK interacting protein [Ectropis obliqua nucleopolyhedrovirus]
+gi|529218166|ref|YP_008378329.1|vFam_344| pkip [Hemileuca sp. nucleopolyhedrovirus]
+gi|228861709|ref|YP_002854729.1|vFam_344| PKIP [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|15617601|ref|NP_258401.1|vFam_344| pkip [Spodoptera litura nucleopolyhedrovirus]
+gi|114680006|ref|YP_758456.1|vFam_344| pkip [Leucania separata nucleopolyhedrovirus]

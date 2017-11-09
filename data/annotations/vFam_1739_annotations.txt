@@ -1,0 +1,13 @@
+CLUSTER	1739
+NUM_SEQ	5
+LENGTH	228
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	118.56
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631310|ref|NP_048136.1|vFam_1739| ORF MSV065 putative late transcription factor VLTF-3 homolog (vaccinia A2L), similar to SW:P07609 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497949|ref|YP_008003748.1|vFam_1739| VLTF-3 late transcription factor 3 [Mythimna separata entomopoxvirus 'L']
+gi|506498168|ref|YP_008003965.1|vFam_1739| VLTF-3 late transcription factor 3 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498813|ref|YP_008004607.1|vFam_1739| VLTF-3 late transcription factor 3 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964519|ref|NP_064987.1|vFam_1739| late transcription factor VLTF-3 [Amsacta moorei entomopoxvirus 'L']

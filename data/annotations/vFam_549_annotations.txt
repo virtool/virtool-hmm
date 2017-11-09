@@ -1,0 +1,22 @@
+CLUSTER	549
+NUM_SEQ	14
+LENGTH	270
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	140.4
+FAMILIES	{'Poxviridae': 14}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 1, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|40556060|ref|NP_955145.1|vFam_549| CNPV122 putative membrane protein [Canarypox virus]
+gi|9634765|ref|NP_039058.1|vFam_549| hypothetical protein FPV095 [Fowlpox virus]
+gi|113195242|ref|YP_717372.1|vFam_549| membrane phosphoprotein [Taterapox virus]
+gi|345107229|ref|YP_004821394.1|vFam_549| virion core protein [Yoka poxvirus]
+gi|9633842|ref|NP_051922.1|vFam_549| gp033R [Rabbit fibroma virus]
+gi|157939660|ref|YP_001497032.1|vFam_549| hypothetical protein TANV_38R [Tanapox virus]
+gi|377829948|ref|YP_005296242.1|vFam_549| unnamed protein product [Cotia virus SPAn232]
+gi|18640121|ref|NP_570195.1|vFam_549| SPV035 putative ER localized protein [Swinepox virus]
+gi|15150477|ref|NP_150472.1|vFam_549| LSDV038 hypothetical protein [Lumpy skin disease virus NI-2490]
+gi|211956318|ref|YP_002302387.1|vFam_549| hypothetical protein DpV84gp046 [Deerpox virus W-1170-84]
+gi|9628970|ref|NP_043989.1|vFam_549| MC038R [Molluscum contagiosum virus subtype 1]
+gi|571797956|ref|YP_008658455.1|vFam_549| conserved hypothetical pox protein [Squirrelpox virus]
+gi|41057459|ref|NP_957932.1|vFam_549| ORF023 membrane protein [Bovine papular stomatitis virus]
+gi|289183787|ref|YP_003457328.1|vFam_549| membrane protein [Pseudocowpox virus]

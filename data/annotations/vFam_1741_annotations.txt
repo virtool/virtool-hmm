@@ -1,0 +1,13 @@
+CLUSTER	1741
+NUM_SEQ	5
+LENGTH	778
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	389.0
+FAMILIES	{'None': 2, 'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 4}
+FASTA SEQUENCE TITLES:
+gi|311977987|ref|YP_003987107.1|vFam_1741| putative helicase [Acanthamoeba polyphaga mimivirus]
+gi|441432544|ref|YP_007354586.1|vFam_1741| NAD-dependent DNA ligase [Acanthamoeba polyphaga moumouvirus]
+gi|363540487|ref|YP_004894759.1|vFam_1741| mg708 gene product [Megavirus chiliensis]
+gi|310831392|ref|YP_003970035.1|vFam_1741| putative superfamily II helicase [Cafeteria roenbergensis virus BV-PW1]
+gi|310831061|ref|YP_003969704.1|vFam_1741| putative superfamily II helicase [Cafeteria roenbergensis virus BV-PW1]

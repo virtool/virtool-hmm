@@ -1,0 +1,11 @@
+CLUSTER	3996
+NUM_SEQ	3
+LENGTH	453
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	235.56
+FAMILIES	{'Adenoviridae': 3}
+GENERA	{'Siadenovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|56160836|ref|AP_000495.1|vFam_3996| fiber [Turkey adenovirus A]
+gi|363540933|ref|YP_004935948.1|vFam_3996| unnamed protein product [Skua adenovirus A]
+gi|331271196|ref|YP_004414817.1|vFam_3996| fiber protein [Raptor adenovirus A]

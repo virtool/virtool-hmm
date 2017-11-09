@@ -1,0 +1,11 @@
+CLUSTER	3535
+NUM_SEQ	3
+LENGTH	207
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	105.57
+FAMILIES	{'Retroviridae': 3}
+GENERA	{'Lentivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|28872818|ref|NP_057857.2|vFam_3535| Nef [Human immunodeficiency virus 1]
+gi|9627209|ref|NP_054373.1|vFam_3535| nef protein [Simian immunodeficiency virus]
+gi|27311174|ref|NP_758893.1|vFam_3535| nef protein [Simian immunodeficiency virus SIV-mnd 2]

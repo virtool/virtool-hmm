@@ -1,0 +1,10 @@
+CLUSTER	5930
+NUM_SEQ	2
+LENGTH	173
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	88.23
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825094|ref|YP_007418025.1|vFam_5930| hypothetical protein LBA_00127 [Megavirus lba]
+gi|363540618|ref|YP_004894200.1|vFam_5930| mg149 gene product [Megavirus chiliensis]

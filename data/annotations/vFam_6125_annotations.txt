@@ -1,0 +1,10 @@
+CLUSTER	6125
+NUM_SEQ	2
+LENGTH	483
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	251.16
+FAMILIES	{'Bunyaviridae': 2}
+GENERA	{'Nairovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|39840950|ref|NP_950237.1|vFam_6125| nucleoprotein [Crimean-Congo hemorrhagic fever virus]
+gi|22788699|ref|NP_690574.1|vFam_6125| nucleocapsid protein [Dugbe virus]

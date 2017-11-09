@@ -1,0 +1,10 @@
+CLUSTER	6431
+NUM_SEQ	2
+LENGTH	44
+RELATIVE_ENTROPY_PER_POSITION	1.19
+TOTAL_RELATIVE_ENTROPY	52.36
+FAMILIES	{'Coronaviridae': 2}
+GENERA	{'None': 1, 'Betacoronavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|304633683|ref|YP_003858590.1|vFam_6431| ORF7b protein [Bat coronavirus BM48-31/BGR/2008]
+gi|30524940|ref|NP_849175.1|vFam_6431| hypothetical protein sars7b [SARS coronavirus]

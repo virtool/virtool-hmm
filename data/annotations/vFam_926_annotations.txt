@@ -1,0 +1,15 @@
+CLUSTER	926
+NUM_SEQ	7
+LENGTH	286
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	140.14
+FAMILIES	{'Poxviridae': 7}
+GENERA	{'Orthopoxvirus': 2, 'Yatapoxvirus': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9633950|ref|NP_052030.1|vFam_926| gp144R [Rabbit fibroma virus]
+gi|9633780|ref|NP_051858.1|vFam_926| m144R [Myxoma virus]
+gi|211956427|ref|YP_002302497.1|vFam_926| EEV host range protein [Deerpox virus W-1170-84]
+gi|157939768|ref|YP_001497140.1|vFam_926| vCCP/EEV host range protein [Tanapox virus]
+gi|38229302|ref|NP_938395.1|vFam_926| 144R [Yaba monkey tumor virus]
+gi|66275984|ref|YP_233069.1|vFam_926| EEV type-I membrane glycoprotein [Vaccinia virus]
+gi|345107349|ref|YP_004821514.1|vFam_926| EEV type-I membrane glycoprotein [Yoka poxvirus]

@@ -1,0 +1,10 @@
+CLUSTER	6422
+NUM_SEQ	2
+LENGTH	203
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	103.53
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1}
+GENERA	{'None': 1, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831445|ref|YP_003970088.1|vFam_6422| hypothetical protein crov455 [Cafeteria roenbergensis virus BV-PW1]
+gi|155371422|ref|YP_001426956.1|vFam_6422| hypothetical protein ATCV1_z475R [Acanthocystis turfacea Chlorella virus 1]

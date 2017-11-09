@@ -1,0 +1,10 @@
+CLUSTER	2222
+NUM_SEQ	2
+LENGTH	121
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	60.5
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|531036163|ref|YP_008437799.1|vFam_2222| hypothetical protein ps_1388 [Pandoravirus salinus]
+gi|149274328|ref|YP_001294060.1|vFam_2222| membrane protein [Pyrococcus abyssi virus 1]

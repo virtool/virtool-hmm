@@ -1,0 +1,10 @@
+CLUSTER	5159
+NUM_SEQ	2
+LENGTH	75
+RELATIVE_ENTROPY_PER_POSITION	0.68
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|13242666|ref|NP_077681.1|vFam_5159| EsV-1-196 [Ectocarpus siliculosus virus 1]
+gi|13242663|ref|NP_077678.1|vFam_5159| EsV-1-193 [Ectocarpus siliculosus virus 1]

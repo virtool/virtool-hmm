@@ -1,0 +1,14 @@
+CLUSTER	1393
+NUM_SEQ	6
+LENGTH	112
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	58.24
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|472438246|ref|YP_007678023.1|vFam_1393| putative transcriptional regulator [Sulfolobales Mexican fusellovirus 1]
+gi|270281848|ref|YP_003331514.1|vFam_1393| putative HTH transcriptional regulator [Sulfolobus spindle-shaped virus 7]
+gi|42495084|ref|NP_963995.1|vFam_1393| ORF A123 [Sulfolobus virus Kamchatka 1]
+gi|42494962|ref|NP_963960.1|vFam_1393| ORF A113 [Sulfolobus virus Ragged Hills]
+gi|198449231|ref|YP_002221469.1|vFam_1393| putative HTH-5 transcription regulator [Sulfolobus spindle-shaped virus 5]
+gi|160688420|ref|YP_001552182.1|vFam_1393| putative HTH-5 transcription regulator [Sulfolobus spindle-shaped virus 4]

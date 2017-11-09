@@ -1,0 +1,10 @@
+CLUSTER	726
+NUM_SEQ	2
+LENGTH	182
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	91.0
+FAMILIES	{'Baculoviridae': 1}
+GENERA	{'Betabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|378554467|ref|YP_005271246.1|vFam_726| unnamed protein product [Thermococcus prieurii virus 1]
+gi|288804692|ref|YP_003429377.1|vFam_726| PrGVORF53 [Pieris rapae granulovirus]

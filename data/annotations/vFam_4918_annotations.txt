@@ -1,0 +1,10 @@
+CLUSTER	4918
+NUM_SEQ	2
+LENGTH	177
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	92.04
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825380|ref|YP_007418311.1|vFam_4918| hypothetical protein LBA_00417 [Megavirus lba]
+gi|441432282|ref|YP_007354324.1|vFam_4918| hypothetical protein Moumou_00348 [Acanthamoeba polyphaga moumouvirus]

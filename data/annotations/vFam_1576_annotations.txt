@@ -1,0 +1,14 @@
+CLUSTER	1576
+NUM_SEQ	6
+LENGTH	142
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	72.42
+FAMILIES	{'Marseillevirus family': 2, 'Phycodnaviridae': 4}
+GENERA	{'None': 4, 'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|260666037|ref|YP_003212991.1|vFam_1576| hypothetical protein H665_p168 [Ostreococcus tauri virus 1]
+gi|314055251|ref|YP_004063589.1|vFam_1576| ribonuclease H [Ostreococcus tauri virus 2]
+gi|313768158|ref|YP_004061589.1|vFam_1576| hypothetical protein BpV1_159 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768374|ref|YP_004062054.1|vFam_1576| hypothetical protein MpV1_171 [Micromonas sp. RCC1109 virus MpV1]
+gi|327409613|ref|YP_004347033.1|vFam_1576| ribonuclease H [Lausannevirus]
+gi|284504158|ref|YP_003406873.1|vFam_1576| ribonuclease H [Marseillevirus]

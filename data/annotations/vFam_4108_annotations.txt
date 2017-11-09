@@ -1,0 +1,10 @@
+CLUSTER	4108
+NUM_SEQ	2
+LENGTH	402
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	205.02
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|20451033|ref|NP_620554.1|vFam_4108| hypothetical protein ChYMVLSRgp1 [Chicory yellow mottle virus large satellite RNA]
+gi|20889343|ref|NP_624321.1|vFam_4108| hypothetical protein [Blackcurrant reversion virus satellite RNA]

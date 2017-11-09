@@ -1,0 +1,10 @@
+CLUSTER	4560
+NUM_SEQ	2
+LENGTH	116
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	60.32
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825978|ref|YP_007418909.1|vFam_4560| hypothetical protein LBA_01015 [Megavirus lba]
+gi|363540234|ref|YP_004895016.1|vFam_4560| mg965 gene product [Megavirus chiliensis]

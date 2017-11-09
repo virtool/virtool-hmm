@@ -1,0 +1,10 @@
+CLUSTER	4889
+NUM_SEQ	2
+LENGTH	303
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	157.56
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825903|ref|YP_007418834.1|vFam_4889| hypothetical protein LBA_00940 [Megavirus lba]
+gi|441432072|ref|YP_007354114.1|vFam_4889| RNA ligase 2 [Acanthamoeba polyphaga moumouvirus]

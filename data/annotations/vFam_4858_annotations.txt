@@ -1,0 +1,11 @@
+CLUSTER	4858
+NUM_SEQ	3
+LENGTH	203
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	101.5
+FAMILIES	{'None': 3}
+GENERA	{'Ourmiavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|194351522|ref|YP_002019759.1|vFam_4858| coat protein [Ourmia melon virus]
+gi|255987657|ref|YP_003104772.1|vFam_4858| coat protein [Cassava virus C]
+gi|194351528|ref|YP_002019756.1|vFam_4858| coat protein [Epirus cherry virus]

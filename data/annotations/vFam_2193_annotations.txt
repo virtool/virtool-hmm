@@ -1,0 +1,13 @@
+CLUSTER	2193
+NUM_SEQ	5
+LENGTH	149
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	75.99
+FAMILIES	{'None': 1, 'Alloherpesviridae': 1, 'Phycodnaviridae': 1, 'Mimiviridae': 2}
+GENERA	{'None': 2, 'Mimivirus': 1, 'Cyprinivirus': 1, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|155370745|ref|YP_001426279.1|vFam_2193| hypothetical protein FR483_n647L [Paramecium bursaria Chlorella virus FR483]
+gi|387866117|ref|YP_003358229.2|vFam_2193| nucleoside diphosphate kinase [Anguillid herpesvirus 1]
+gi|311977802|ref|YP_003986922.1|vFam_2193| nucleoside diphosphate kinase [Acanthamoeba polyphaga mimivirus]
+gi|441432331|ref|YP_007354373.1|vFam_2193| Nucleoside diphosphate kinase [Acanthamoeba polyphaga moumouvirus]
+gi|448825436|ref|YP_007418367.1|vFam_2193| nucleoside diphosphate kinase [Megavirus lba]

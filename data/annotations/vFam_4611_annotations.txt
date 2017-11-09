@@ -1,0 +1,10 @@
+CLUSTER	4611
+NUM_SEQ	2
+LENGTH	441
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	229.32
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Ictalurivirus': 1, 'Batrachovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9626855|ref|NP_041125.1|vFam_4611| ORF34 [Ictalurid herpesvirus 1]
+gi|109638641|ref|YP_656583.1|vFam_4611| ORF75 [Ranid herpesvirus 2]

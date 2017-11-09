@@ -1,0 +1,32 @@
+CLUSTER	216
+NUM_SEQ	24
+LENGTH	74
+RELATIVE_ENTROPY_PER_POSITION	0.71
+TOTAL_RELATIVE_ENTROPY	52.54
+FAMILIES	{'Baculoviridae': 19}
+GENERA	{'Alphabaculovirus': 19}
+FASTA SEQUENCE TITLES:
+gi|209978804|ref|YP_002300547.1|vFam_216| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|15617500|ref|NP_258296.1|vFam_216| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|529218074|ref|YP_008378237.1|vFam_216| ac29 [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502214|ref|YP_006607872.1|vFam_216| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|118197498|ref|YP_874210.1|vFam_216| hypothetical protein EONV_gp017 [Ectropis obliqua nucleopolyhedrovirus]
+gi|165969029|ref|YP_001650929.1|vFam_216| hypothetical protein [Orgyia leucostigma NPV]
+gi|119964554|ref|YP_950750.1|vFam_216| Mv-ORF20 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|438000334|ref|YP_007250439.1|vFam_216| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643570|ref|YP_002884260.1|vFam_216| Ac29-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|15320688|ref|NP_203200.1|vFam_216| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326107|ref|YP_803432.1|vFam_216| hypothetical protein AGNV_gp038 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|529153426|ref|YP_008378466.1|vFam_216| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|529153591|ref|YP_008378616.1|vFam_216| hypothetical protein [Choristoneura occidentalis alphabaculovirus]
+gi|9629977|ref|NP_046195.1|vFam_216| hypothetical protein OpmnVgp039 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|86355636|ref|YP_473304.1|vFam_216| ORF116 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|96979874|ref|YP_611081.1|vFam_216| hypothetical protein APNV_p114 [Antheraea pernyi nucleopolyhedrovirus]
+gi|209401076|ref|YP_002273945.1|vFam_216| hypothetical protein HaSNPVNNg1_gp022 [Helicoverpa armigera NPV NNg1]
+gi|292397709|ref|YP_003517775.1|vFam_216| ORF35 [Lymantria xylina MNPV]
+gi|113195421|ref|YP_717556.1|vFam_216| ac29-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|125860252|ref|YP_001036422.1|vFam_216| hypothetical protein SFMNPV_gp130 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401526|ref|YP_002332830.1|vFam_216| hypothetical protein SlnV2_gp132 [Spodoptera litura nucleopolyhedrovirus II]
+gi|22549557|ref|NP_689330.1|vFam_216| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209171031|ref|YP_002268178.1|vFam_216| agip148 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592858|ref|YP_529811.1|vFam_216| ORF-141 [Agrotis segetum nucleopolyhedrovirus]

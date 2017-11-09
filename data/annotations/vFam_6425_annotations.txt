@@ -1,0 +1,10 @@
+CLUSTER	6425
+NUM_SEQ	2
+LENGTH	130
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	66.3
+FAMILIES	{'Mimiviridae': 1, 'Iridoviridae': 1}
+GENERA	{'Mimivirus': 1, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|311977656|ref|YP_003986776.1|vFam_6425| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|15079110|ref|NP_149862.1|vFam_6425| 399R [Invertebrate iridescent virus 6]

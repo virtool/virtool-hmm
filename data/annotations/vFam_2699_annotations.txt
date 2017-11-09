@@ -1,0 +1,10 @@
+CLUSTER	2699
+NUM_SEQ	2
+LENGTH	146
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	73.0
+FAMILIES	{'None': 1, 'Baculoviridae': 1}
+GENERA	{'None': 1, 'Gammabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831199|ref|YP_003969842.1|vFam_2699| putative DnaJ/Hsp40 [Cafeteria roenbergensis virus BV-PW1]
+gi|48843547|ref|YP_025120.1|vFam_2699| hypothetical protein NeseNPV_gp13 [Neodiprion sertifer nucleopolyhedrovirus]

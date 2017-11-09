@@ -1,0 +1,10 @@
+CLUSTER	5900
+NUM_SEQ	2
+LENGTH	227
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	115.77
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|359946585|ref|YP_004936118.1|vFam_5900| membrane glycoprotein US6B [Cercopithecine herpesvirus 5]
+gi|356640521|ref|YP_004933963.1|vFam_5900| membrane glycoprotein US11 [Cynomolgus macaque cytomegalovirus strain Ottawa]

@@ -1,0 +1,10 @@
+CLUSTER	6638
+NUM_SEQ	2
+LENGTH	82
+RELATIVE_ENTROPY_PER_POSITION	0.62
+TOTAL_RELATIVE_ENTROPY	50.84
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Chlorovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|155371489|ref|YP_001427023.1|vFam_6638| hypothetical protein ATCV1_Z542L [Acanthocystis turfacea Chlorella virus 1]
+gi|155371488|ref|YP_001427022.1|vFam_6638| hypothetical protein ATCV1_Z541L [Acanthocystis turfacea Chlorella virus 1]

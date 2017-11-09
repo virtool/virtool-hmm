@@ -1,0 +1,16 @@
+CLUSTER	493
+NUM_SEQ	8
+LENGTH	531
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	276.12
+FAMILIES	{'Herpesviridae': 8}
+GENERA	{'Muromegalovirus': 2, 'None': 1, 'Cytomegalovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|425707298|ref|YP_007016495.1|vFam_493| E98 [Murid herpesvirus 8]
+gi|61660208|ref|YP_214099.1|vFam_493| Exonuclease [Murid herpesvirus 1]
+gi|14251084|ref|NP_116446.1|vFam_493| T98 [Tupaiid herpesvirus 1]
+gi|360086575|ref|YP_004940260.1|vFam_493| deoxyribonuclease [Saimiriine herpesvirus 3]
+gi|360040979|ref|YP_004940114.1|vFam_493| deoxyribonuclease [Aotine herpesvirus 1]
+gi|20026688|ref|NP_612730.1|vFam_493| deoxyribonuclease [Panine herpesvirus 2]
+gi|359946531|ref|YP_004936064.1|vFam_493| deoxyribonuclease [Cercopithecine herpesvirus 5]
+gi|356640432|ref|YP_004933874.1|vFam_493| protein UL98 [Cynomolgus macaque cytomegalovirus strain Ottawa]

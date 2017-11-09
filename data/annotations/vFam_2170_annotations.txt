@@ -1,0 +1,12 @@
+CLUSTER	2170
+NUM_SEQ	4
+LENGTH	110
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	57.2
+FAMILIES	{'Polydnaviridae': 4}
+GENERA	{'Bracovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|66391203|ref|YP_239366.1|vFam_2170| hypothetical protein 2 [Microplitis demolitor bracovirus]
+gi|66391254|ref|YP_239407.1|vFam_2170| hypothetical protein MdBV_sIgp2 [Microplitis demolitor bracovirus]
+gi|66391205|ref|YP_239370.1|vFam_2170| hypothetical protein [Microplitis demolitor bracovirus]
+gi|57659290|ref|YP_184812.1|vFam_2170| hypothetical protein CcBV_2-11.2 [Cotesia congregata bracovirus]

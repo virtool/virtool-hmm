@@ -1,0 +1,13 @@
+CLUSTER	1482
+NUM_SEQ	5
+LENGTH	330
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	168.3
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Cytomegalovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|356640305|ref|YP_004933747.1|vFam_1482| putative membrane glycoprotein UL7 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556479|ref|YP_068113.1|vFam_1482| rh19 [Macacine herpesvirus 3]
+gi|356640303|ref|YP_004933745.1|vFam_1482| hypothetical protein cy12 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|359946448|ref|YP_004935980.1|vFam_1482| membrane protein RL11I [Cercopithecine herpesvirus 5]
+gi|359946447|ref|YP_004935979.1|vFam_1482| membrane protein RL11H [Cercopithecine herpesvirus 5]

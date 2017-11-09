@@ -1,0 +1,10 @@
+CLUSTER	6002
+NUM_SEQ	2
+LENGTH	252
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	133.56
+FAMILIES	{'Orthomyxoviridae': 2}
+GENERA	{'Influenzavirus A': 1, 'Influenzavirus B': 1}
+FASTA SEQUENCE TITLES:
+gi|73919152|ref|YP_308841.1|vFam_6002| matrix protein 1 [Influenza A virus (A/New York/392/2004(H3N2))]
+gi|8486160|ref|NP_056664.1|vFam_6002| matrix protein M1 [Influenza B virus]

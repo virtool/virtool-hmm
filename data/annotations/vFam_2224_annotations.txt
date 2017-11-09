@@ -1,0 +1,13 @@
+CLUSTER	2224
+NUM_SEQ	5
+LENGTH	207
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	105.57
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631522|ref|NP_048110.1|vFam_2224| ORF MSV039 putative Molluscum contagiosum MCV062 homolog (vaccinia G6R), similar to GB:U60315 [Melanoplus sanguinipes entomopoxvirus]
+gi|506498066|ref|YP_008003863.1|vFam_2224| NLPc/P60 superfamily protein (Cop-G6R) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497784|ref|YP_008003583.1|vFam_2224| NLPc/P60 superfamily protein (Cop-G6R) [Mythimna separata entomopoxvirus 'L']
+gi|506498671|ref|YP_008004465.1|vFam_2224| NLPc/P60 superfamily protein (Cop-G6R) [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964355|ref|NP_064823.1|vFam_2224| hypothetical protein AMV041 [Amsacta moorei entomopoxvirus 'L']

@@ -1,0 +1,10 @@
+CLUSTER	4221
+NUM_SEQ	2
+LENGTH	334
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	170.34
+FAMILIES	{'Reoviridae': 2}
+GENERA	{'None': 1, 'Oryzavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|308928594|ref|YP_003934926.1|vFam_4221| non-structural protein NSP9 [Raspberry latent virus]
+gi|20428609|ref|NP_620539.1|vFam_4221| Pns10 [Rice ragged stunt virus]

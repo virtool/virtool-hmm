@@ -1,0 +1,13 @@
+CLUSTER	1307
+NUM_SEQ	5
+LENGTH	327
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	170.04
+FAMILIES	{'Phycodnaviridae': 5}
+GENERA	{'Chlorovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|155371666|ref|YP_001427200.1|vFam_1307| hypothetical protein ATCV1_Z719L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370226|ref|YP_001425760.1|vFam_1307| hypothetical protein FR483_N128R [Paramecium bursaria Chlorella virus FR483]
+gi|9631672|ref|NP_048451.1|vFam_1307| mRNA guanylyltransferase [Paramecium bursaria Chlorella virus 1]
+gi|157953328|ref|YP_001498219.1|vFam_1307| hypothetical protein AR158_C137R [Paramecium bursaria Chlorella virus AR158]
+gi|157952452|ref|YP_001497344.1|vFam_1307| hypothetical protein NY2A_B148R [Paramecium bursaria Chlorella virus NY2A]

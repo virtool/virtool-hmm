@@ -1,0 +1,10 @@
+CLUSTER	6533
+NUM_SEQ	2
+LENGTH	109
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	55.59
+FAMILIES	{'Polyomaviridae': 2}
+GENERA	{'Polyomavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|314057334|ref|YP_004063433.1|vFam_6533| agnoprotein 2b [Budgerigar fledgling disease virus - 1]
+gi|314057333|ref|YP_004063432.1|vFam_6533| agnoprotein 2a [Budgerigar fledgling disease virus - 1]

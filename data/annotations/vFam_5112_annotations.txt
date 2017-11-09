@@ -1,0 +1,11 @@
+CLUSTER	5112
+NUM_SEQ	3
+LENGTH	78
+RELATIVE_ENTROPY_PER_POSITION	0.67
+TOTAL_RELATIVE_ENTROPY	52.26
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Simplexvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|83722641|ref|YP_443919.1|vFam_5112| TAP transporter inhibitor ICP47 [Papiine herpesvirus 2]
+gi|56694795|ref|YP_164515.1|vFam_5112| TAP transporter inhibitor ICP47 [Cercopithecine herpesvirus 2]
+gi|30984500|ref|NP_851932.1|vFam_5112| TAP transporter inhibitor ICP47 [Macacine herpesvirus 1]

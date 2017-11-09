@@ -1,0 +1,15 @@
+CLUSTER	639
+NUM_SEQ	7
+LENGTH	342
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	174.42
+FAMILIES	{'Herpesviridae': 7}
+GENERA	{'Muromegalovirus': 1, 'Roseolovirus': 2, 'None': 1, 'Cytomegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9845329|ref|NP_064143.1|vFam_639| pR38 [Murid herpesvirus 2]
+gi|448824879|ref|YP_007417811.1|vFam_639| GP38 [Caviid herpesvirus 2]
+gi|52139224|ref|YP_081497.1|vFam_639| protein UL38 [Human herpesvirus 5]
+gi|20026640|ref|NP_612682.1|vFam_639| protein UL38 [Panine herpesvirus 2]
+gi|538447221|ref|YP_008492961.1|vFam_639| IE-B [Porcine cytomegalovirus]
+gi|9633088|ref|NP_050199.1|vFam_639| immediate-early protein 4 [Human herpesvirus 6B]
+gi|51874241|ref|YP_073759.1|vFam_639| protein UL38 [Human herpesvirus 7]

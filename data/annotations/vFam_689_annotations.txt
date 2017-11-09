@@ -1,0 +1,13 @@
+CLUSTER	689
+NUM_SEQ	5
+LENGTH	212
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	103.88
+FAMILIES	{'Arteriviridae': 5}
+GENERA	{'Arterivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|23683327|ref|NP_705589.1|vFam_689| nsp7 [Equine arteritis virus]
+gi|25121656|ref|NP_740598.1|vFam_689| nsp4 (3CLSP) [Porcine reproductive and respiratory syndrome virus]
+gi|23683324|ref|NP_705586.1|vFam_689| nsp4 (3CLSP) [Equine arteritis virus]
+gi|23683323|ref|NP_705585.1|vFam_689| nsp3 (HD) [Equine arteritis virus]
+gi|25121655|ref|NP_740597.1|vFam_689| nsp3 (hydrophobic protein) [Porcine reproductive and respiratory syndrome virus]

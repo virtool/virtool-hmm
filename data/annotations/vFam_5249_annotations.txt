@@ -1,0 +1,10 @@
+CLUSTER	5249
+NUM_SEQ	2
+LENGTH	110
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	57.2
+FAMILIES	{'Coronaviridae': 1}
+GENERA	{'Alphacoronavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|30138153|ref|NP_839957.1|vFam_5249| putative leader protein [Porcine epidemic diarrhea virus]
+gi|531967715|ref|YP_008439212.1|vFam_5249| nsp1 [Bat coronavirus CDPHE15/USA/2006]

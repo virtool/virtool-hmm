@@ -1,0 +1,11 @@
+CLUSTER	4625
+NUM_SEQ	3
+LENGTH	254
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	132.08
+FAMILIES	{'Flaviviridae': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|485191050|ref|YP_007905978.1|vFam_4625| putative NS2 protein [Rodent pegivirus]
+gi|28971400|ref|NP_803212.1|vFam_4625| putative protein p7-NS2 [Pegivirus A]
+gi|28971392|ref|NP_803204.1|vFam_4625| putative protein p7-NS2 [GB virus C]

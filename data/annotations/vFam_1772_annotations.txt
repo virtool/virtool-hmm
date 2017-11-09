@@ -1,0 +1,14 @@
+CLUSTER	1772
+NUM_SEQ	6
+LENGTH	198
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	102.96
+FAMILIES	{'Betaflexiviridae': 5}
+GENERA	{'Vitivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|571350948|ref|YP_008997792.1|vFam_1772| capsid protein [Apricot vein clearing associated virus]
+gi|195546760|ref|YP_002117778.1|vFam_1772| coat protein [Grapevine virus E]
+gi|20153363|ref|NP_619665.1|vFam_1772| coat protein [Grapevine virus A]
+gi|401829602|ref|YP_006590068.1|vFam_1772| coat protein [Grapevine virus F]
+gi|357579590|ref|YP_004935361.1|vFam_1772| ORF4 gene product [Actinidia virus B]
+gi|20153381|ref|NP_619657.1|vFam_1772| coat protein [Grapevine virus B]

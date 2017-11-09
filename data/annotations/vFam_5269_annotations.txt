@@ -1,0 +1,10 @@
+CLUSTER	5269
+NUM_SEQ	2
+LENGTH	180
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	93.6
+FAMILIES	{'Closteroviridae': 1}
+GENERA	{'Closterovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|563398783|ref|YP_008858537.1|vFam_5269| p17 [Carnation yellow fleck virus]
+gi|9627410|ref|NP_041876.1|vFam_5269| long-distance transport factor [Beet yellows virus]

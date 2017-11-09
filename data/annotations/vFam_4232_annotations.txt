@@ -1,0 +1,10 @@
+CLUSTER	4232
+NUM_SEQ	2
+LENGTH	135
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	67.5
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|148368906|ref|YP_001257036.1|vFam_4232| hypothetical protein SlGVgp085 [Spodoptera litura granulovirus]
+gi|11068080|ref|NP_068296.1|vFam_4232| PxORF77 peptide [Plutella xylostella granulovirus]

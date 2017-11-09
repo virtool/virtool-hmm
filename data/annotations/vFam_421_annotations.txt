@@ -1,0 +1,24 @@
+CLUSTER	421
+NUM_SEQ	16
+LENGTH	340
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	180.2
+FAMILIES	{'Herpesviridae': 16}
+GENERA	{'Muromegalovirus': 3, 'Cytomegalovirus': 7, 'Proboscivirus': 1, 'Roseolovirus': 3, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|496991168|ref|YP_007969782.1|vFam_421| tegument protein UL16 [Elephantid herpesvirus 1]
+gi|538447262|ref|YP_008493002.1|vFam_421| tegument protein [Porcine cytomegalovirus]
+gi|51874287|ref|YP_073806.1|vFam_421| tegument protein UL16 [Human herpesvirus 7]
+gi|9633134|ref|NP_050245.1|vFam_421| tegument protein [Human herpesvirus 6B]
+gi|9628367|ref|NP_042958.1|vFam_421| tegument protein UL16 [Human herpesvirus 6A]
+gi|359946527|ref|YP_004936060.1|vFam_421| tegument protein UL16 [Cercopithecine herpesvirus 5]
+gi|356640427|ref|YP_004933869.1|vFam_421| tegument protein UL94 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139266|ref|YP_081541.1|vFam_421| tegument protein UL16 [Human herpesvirus 5]
+gi|20026684|ref|NP_612726.1|vFam_421| tegument protein UL16 [Panine herpesvirus 2]
+gi|360086572|ref|YP_004940256.1|vFam_421| tegument protein UL16 [Saimiriine herpesvirus 3]
+gi|360040975|ref|YP_004940110.1|vFam_421| tegument protein UL16 [Aotine herpesvirus 1]
+gi|425707294|ref|YP_007016491.1|vFam_421| E94 [Murid herpesvirus 8]
+gi|61660203|ref|YP_214094.1|vFam_421| hypothetical protein MuHV1_gp086 [Murid herpesvirus 1]
+gi|9845379|ref|NP_064193.1|vFam_421| pR94 [Murid herpesvirus 2]
+gi|448824928|ref|YP_007417860.1|vFam_421| GP94 [Caviid herpesvirus 2]
+gi|14251080|ref|NP_116443.1|vFam_421| T94 [Tupaiid herpesvirus 1]

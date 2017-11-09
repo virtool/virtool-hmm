@@ -1,0 +1,11 @@
+CLUSTER	3032
+NUM_SEQ	3
+LENGTH	491
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	255.32
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977923|ref|YP_003987043.1|vFam_3032| putative DNA helicase [Acanthamoeba polyphaga mimivirus]
+gi|448825636|ref|YP_007418567.1|vFam_3032| putative DNA helicase [Megavirus lba]
+gi|441432490|ref|YP_007354532.1|vFam_3032| putative DNA helicase [Acanthamoeba polyphaga moumouvirus]

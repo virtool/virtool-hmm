@@ -1,0 +1,12 @@
+CLUSTER	1433
+NUM_SEQ	4
+LENGTH	534
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	277.68
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498065|ref|YP_008003862.1|vFam_1433| leucine rich repeat gene family [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497781|ref|YP_008003580.1|vFam_1433| leucine rich repeat gene family [Mythimna separata entomopoxvirus 'L']
+gi|506498673|ref|YP_008004467.1|vFam_1433| leucine rich repeat gene family [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964353|ref|NP_064821.1|vFam_1433| putative ATPase/DNA helicase [Amsacta moorei entomopoxvirus 'L']

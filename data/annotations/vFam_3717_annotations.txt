@@ -1,0 +1,12 @@
+CLUSTER	3717
+NUM_SEQ	4
+LENGTH	96
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	51.84
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329507|ref|YP_001604306.1|vFam_3717| putative regulatory protein [Acidianus filamentous virus 8]
+gi|162329317|ref|YP_001604371.1|vFam_3717| putative regulatory protein [Acidianus filamentous virus 3]
+gi|171473675|ref|YP_001798545.1|vFam_3717| hypothetical protein AFV9_gp27 [Acidianus filamentous virus 9]
+gi|16753116|ref|NP_445694.1|vFam_3717| conserved hypothetical protein [Sulfolobus islandicus filamentous virus]

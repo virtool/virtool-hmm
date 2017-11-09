@@ -1,0 +1,11 @@
+CLUSTER	3228
+NUM_SEQ	3
+LENGTH	127
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	63.5
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|506498253|ref|YP_008004050.1|vFam_3228| hypothetical protein AHEV_227 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498864|ref|YP_008004658.1|vFam_3228| unknown similar to AMEV250 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506497994|ref|YP_008003793.1|vFam_3228| hypothetical protein MYSEV_276 [Mythimna separata entomopoxvirus 'L']

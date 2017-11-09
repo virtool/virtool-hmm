@@ -1,0 +1,12 @@
+CLUSTER	703
+NUM_SEQ	4
+LENGTH	431
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	224.12
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Macavirus': 2, 'Rhadinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|83642883|ref|YP_438170.1|vFam_703| ORF48 [Ovine herpesvirus 2]
+gi|10140969|ref|NP_065546.1|vFam_703| ORF48 [Alcelaphine herpesvirus 1]
+gi|139472839|ref|YP_001129400.1|vFam_703| ORF48 [Human herpesvirus 8]
+gi|18653855|ref|NP_570789.1|vFam_703| hypothetical protein MmrVgp48 [Macacine herpesvirus 5]

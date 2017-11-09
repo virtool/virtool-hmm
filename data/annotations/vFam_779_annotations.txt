@@ -1,0 +1,12 @@
+CLUSTER	779
+NUM_SEQ	4
+LENGTH	717
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	358.5
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|359946614|ref|YP_004936147.1|vFam_779| tegument protein TRS1 [Cercopithecine herpesvirus 5]
+gi|51556683|ref|YP_068317.1|vFam_779| rh230 [Macacine herpesvirus 3]
+gi|52139344|ref|YP_081619.1|vFam_779| tegument protein TRS1 [Human herpesvirus 5]
+gi|360086609|ref|YP_004940318.1|vFam_779| tegument protein TRS1 [Saimiriine herpesvirus 3]

@@ -1,0 +1,22 @@
+CLUSTER	393
+NUM_SEQ	14
+LENGTH	279
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	147.87
+FAMILIES	{'Herpesviridae': 14}
+GENERA	{'Varicellovirus': 6, 'Mardivirus': 3, 'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|10834905|ref|NP_066866.1|vFam_393| nuclear egress membrane protein [Gallid herpesvirus 3]
+gi|125745086|ref|YP_001033963.1|vFam_393| nuclear egress membrane protein [Gallid herpesvirus 2]
+gi|12084863|ref|NP_073328.1|vFam_393| nuclear egress membrane protein [Meleagrid herpesvirus 1]
+gi|9625899|ref|NP_040147.1|vFam_393| nuclear egress membrane protein [Human herpesvirus 3]
+gi|312162820|ref|YP_003933805.1|vFam_393| nuclear egress membrane protein [Saimiriine herpesvirus 1]
+gi|83722603|ref|YP_443881.1|vFam_393| nuclear egress membrane protein [Papiine herpesvirus 2]
+gi|30984462|ref|NP_851894.1|vFam_393| nuclear egress membrane protein [Macacine herpesvirus 1]
+gi|9629415|ref|NP_044636.1|vFam_393| nuclear egress membrane protein [Human herpesvirus 1]
+gi|9629304|ref|NP_044504.1|vFam_393| nuclear egress membrane protein [Human herpesvirus 2]
+gi|51557503|ref|YP_068337.1|vFam_393| nuclear egress membrane protein [Suid herpesvirus 1]
+gi|296316026|ref|YP_003662490.1|vFam_393| nuclear egress membrane protein [Bovine herpesvirus 5]
+gi|9629840|ref|NP_045324.1|vFam_393| nuclear egress membrane protein [Bovine herpesvirus 1]
+gi|270339465|ref|YP_003331545.1|vFam_393| nuclear egress membrane protein [Felid herpesvirus 1]
+gi|216905879|ref|YP_002333507.1|vFam_393| nuclear egress membrane protein [Equid herpesvirus 9]

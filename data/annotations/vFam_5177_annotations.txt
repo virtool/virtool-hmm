@@ -1,0 +1,10 @@
+CLUSTER	5177
+NUM_SEQ	2
+LENGTH	156
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	81.12
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825144|ref|YP_007418075.1|vFam_5177| nudix hydrolase domain containing protein [Megavirus lba]
+gi|441432075|ref|YP_007354117.1|vFam_5177| NUDIX hydrolase [Acanthamoeba polyphaga moumouvirus]

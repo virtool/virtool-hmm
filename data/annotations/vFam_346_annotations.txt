@@ -1,0 +1,20 @@
+CLUSTER	346
+NUM_SEQ	12
+LENGTH	326
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	166.26
+FAMILIES	{'Baculoviridae': 9, 'Poxviridae': 1}
+GENERA	{'Betabaculovirus': 4, 'Avipoxvirus': 1, 'Alphabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|9634887|ref|NP_039180.1|vFam_346| hypothetical protein FPV217 [Fowlpox virus]
+gi|113195495|ref|YP_717633.1|vFam_346| Ld109-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|292397779|ref|YP_003517845.1|vFam_346| ORF105 [Lymantria xylina MNPV]
+gi|9631076|ref|NP_047746.1|vFam_346| LdOrf-109 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|118197571|ref|YP_874283.1|vFam_346| hypothetical protein EONV_gp090 [Ectropis obliqua nucleopolyhedrovirus]
+gi|228861686|ref|YP_002854706.1|vFam_346| hypothetical protein EupsNPV_gp096 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|165969106|ref|YP_001651006.1|vFam_346| hypothetical protein [Orgyia leucostigma NPV]
+gi|529218157|ref|YP_008378320.1|vFam_346| apsup [Hemileuca sp. nucleopolyhedrovirus]
+gi|148368941|ref|YP_001257071.1|vFam_346| hypothetical protein SlGVgp120 [Spodoptera litura granulovirus]
+gi|9635397|ref|NP_059295.1|vFam_346| ORF147 [Xestia c-nigrum granulovirus]
+gi|285002429|ref|YP_003422493.1|vFam_346| hypothetical protein PsunGV_gp154 [Pseudaletia unipuncta granulovirus]
+gi|164519343|ref|YP_001649130.1|vFam_346| hypothetical protein HaGV_gp148 [Helicoverpa armigera granulovirus]

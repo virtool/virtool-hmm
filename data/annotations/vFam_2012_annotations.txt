@@ -1,0 +1,14 @@
+CLUSTER	2012
+NUM_SEQ	6
+LENGTH	216
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	112.32
+FAMILIES	{'Bromoviridae': 6}
+GENERA	{'Ilarvirus': 6}
+FASTA SEQUENCE TITLES:
+gi|20087061|ref|NP_613280.1|vFam_2012| coat protein [Citrus leaf rugose virus]
+gi|20564220|ref|NP_620757.1|vFam_2012| coat protein [Tulare apple mosaic virus]
+gi|20522141|ref|NP_620681.1|vFam_2012| putative coat protein [Spinach latent virus]
+gi|219552943|ref|YP_002455927.1|vFam_2012| putative coat protein [Asparagus virus 2]
+gi|148717841|ref|YP_001285481.1|vFam_2012| coat protein [Citrus variegation virus]
+gi|20143448|ref|NP_619578.1|vFam_2012| coat protein [Elm mottle virus]

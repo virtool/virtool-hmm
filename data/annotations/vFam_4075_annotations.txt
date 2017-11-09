@@ -1,0 +1,10 @@
+CLUSTER	4075
+NUM_SEQ	2
+LENGTH	478
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	243.78
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Molluscipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9629093|ref|NP_044112.1|vFam_4075| MC161R [Molluscum contagiosum virus subtype 1]
+gi|9628934|ref|NP_043953.1|vFam_4075| MC002L [Molluscum contagiosum virus subtype 1]

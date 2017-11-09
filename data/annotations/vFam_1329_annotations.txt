@@ -1,0 +1,13 @@
+CLUSTER	1329
+NUM_SEQ	5
+LENGTH	382
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	194.82
+FAMILIES	{'Iridoviridae': 5}
+GENERA	{'Ranavirus': 5}
+FASTA SEQUENCE TITLES:
+gi|388260140|ref|YP_006347668.1|vFam_1329| hypothetical protein [European catfish virus]
+gi|388260144|ref|YP_006347672.1|vFam_1329| hypothetical protein [European catfish virus]
+gi|388260139|ref|YP_006347667.1|vFam_1329| hypothetical protein [European catfish virus]
+gi|388260123|ref|YP_006347651.1|vFam_1329| hypothetical protein [European catfish virus]
+gi|388260175|ref|YP_006347703.1|vFam_1329| hypothetical protein [European catfish virus]

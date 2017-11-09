@@ -1,0 +1,10 @@
+CLUSTER	5957
+NUM_SEQ	2
+LENGTH	346
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	179.92
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409770|ref|YP_004347190.1|vFam_5957| putative class 3 lipase [Lausannevirus]
+gi|284504248|ref|YP_003406963.1|vFam_5957| class 3 lipase [Marseillevirus]

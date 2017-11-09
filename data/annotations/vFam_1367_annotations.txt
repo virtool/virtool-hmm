@@ -1,0 +1,15 @@
+CLUSTER	1367
+NUM_SEQ	7
+LENGTH	79
+RELATIVE_ENTROPY_PER_POSITION	0.65
+TOTAL_RELATIVE_ENTROPY	51.35
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|160688418|ref|YP_001552180.1|vFam_1367| hypothetical protein SSSV4_ORF80a [Sulfolobus spindle-shaped virus 4]
+gi|270281846|ref|YP_003331512.1|vFam_1367| hypothetical protein SSSV7_gp29 [Sulfolobus spindle-shaped virus 7]
+gi|38639828|ref|NP_944479.1|vFam_1367| hypothetical protein SSV2p27 [Sulfolobus spindle-shaped virus 2]
+gi|198449229|ref|YP_002221467.1|vFam_1367| hypothetical protein SSSV5_gp02 [Sulfolobus spindle-shaped virus 5]
+gi|42495083|ref|NP_963993.1|vFam_1367| ORF A79 [Sulfolobus virus Kamchatka 1]
+gi|42494960|ref|NP_963958.1|vFam_1367| ORF A79 [Sulfolobus virus Ragged Hills]
+gi|9625542|ref|NP_039799.1|vFam_1367| hypothetical protein SSV-1p23 [Sulfolobus spindle-shaped virus 1]

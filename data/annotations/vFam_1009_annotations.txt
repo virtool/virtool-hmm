@@ -1,0 +1,12 @@
+CLUSTER	1009
+NUM_SEQ	4
+LENGTH	383
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	191.5
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'None': 1, 'Cytomegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|448824907|ref|YP_007417839.1|vFam_1009| GP74 [Caviid herpesvirus 2]
+gi|360040955|ref|YP_004940090.1|vFam_1009| envelope glycoprotein O [Aotine herpesvirus 1]
+gi|359946506|ref|YP_004936039.1|vFam_1009| envelope glycoprotein O [Cercopithecine herpesvirus 5]
+gi|356640396|ref|YP_004933838.1|vFam_1009| glycoprotein UL74 [Cynomolgus macaque cytomegalovirus strain Ottawa]

@@ -1,0 +1,10 @@
+CLUSTER	6684
+NUM_SEQ	2
+LENGTH	316
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	158.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|56693008|ref|YP_164352.1|vFam_6684| hypothetical protein TTSV1_gp11 [Thermoproteus tenax spherical virus 1]
+gi|47131176|ref|YP_015542.1|vFam_6684| hypothetical protein PyrSV_gp21 [Pyrobaculum spherical virus]

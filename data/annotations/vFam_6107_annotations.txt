@@ -1,0 +1,10 @@
+CLUSTER	6107
+NUM_SEQ	2
+LENGTH	248
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	126.48
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|422933871|ref|YP_007003928.1|vFam_6107| protein ORF110 [Cyprinid herpesvirus 2]
+gi|131840136|ref|YP_001096145.1|vFam_6107| unnamed protein product [Cyprinid herpesvirus 3]

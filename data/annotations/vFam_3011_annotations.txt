@@ -1,0 +1,11 @@
+CLUSTER	3011
+NUM_SEQ	3
+LENGTH	668
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	347.36
+FAMILIES	{'Retroviridae': 3}
+GENERA	{'Gammaretrovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|194033119|ref|YP_002000606.1|vFam_3011| Hypothetical mature RT protein [Gibbon ape leukemia virus]
+gi|192824267|ref|YP_001994914.1|vFam_3011| hypothetical mature RT protein [Friend murine leukemia virus]
+gi|40796126|ref|NP_955579.1|vFam_3011| reverse transcriptase [Feline leukemia virus]

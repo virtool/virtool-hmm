@@ -1,0 +1,12 @@
+CLUSTER	2639
+NUM_SEQ	4
+LENGTH	236
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	122.72
+FAMILIES	{'Alloherpesviridae': 4}
+GENERA	{'Cyprinivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|282174099|ref|YP_003358201.1|vFam_2639| protein ORF62 [Anguillid herpesvirus 1]
+gi|422933613|ref|YP_007003738.1|vFam_2639| protein ORF75 [Cyprinid herpesvirus 1]
+gi|422933840|ref|YP_007003894.1|vFam_2639| protein ORF75 [Cyprinid herpesvirus 2]
+gi|131840101|ref|YP_001096110.1|vFam_2639| unnamed protein product [Cyprinid herpesvirus 3]

@@ -1,0 +1,10 @@
+CLUSTER	6466
+NUM_SEQ	2
+LENGTH	121
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	62.92
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|295441859|ref|YP_003591101.1|vFam_6466| hypothetical protein STIV2_C96 [Sulfolobus turreted icosahedral virus 2]
+gi|48697018|ref|YP_025015.1|vFam_6466| hypothetical protein C121 [Sulfolobus turreted icosahedral virus]

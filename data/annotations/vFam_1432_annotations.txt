@@ -1,0 +1,10 @@
+CLUSTER	1432
+NUM_SEQ	2
+LENGTH	403
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	205.53
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159310|ref|YP_002321353.1|vFam_1432| lef-4 [Oryctes rhinoceros virus]
+gi|134303494|ref|YP_001111363.1|vFam_1432| late expression factor 4 [Gryllus bimaculatus nudivirus]

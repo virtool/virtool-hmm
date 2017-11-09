@@ -1,0 +1,25 @@
+CLUSTER	331
+NUM_SEQ	17
+LENGTH	148
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	78.44
+FAMILIES	{'Poxviridae': 17}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Suipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|41057488|ref|NP_957961.1|vFam_331| ORF052 membrane protein [Bovine papular stomatitis virus]
+gi|289183816|ref|YP_003457357.1|vFam_331| virion protein [Pseudocowpox virus]
+gi|41057115|ref|NP_957829.1|vFam_331| ORF052 putative IMV membrane protein [Orf virus]
+gi|115531759|ref|YP_784285.1|vFam_331| IMV membrane protein [Nile crocodilepox virus]
+gi|571797985|ref|YP_008658484.1|vFam_331| subunit of the poxvirus multiprotein entry-fusion complex [Squirrelpox virus]
+gi|40556116|ref|NP_955201.1|vFam_331| CNPV178 putative IMV membrane protein [Canarypox virus]
+gi|9634803|ref|NP_039096.1|vFam_331| hypothetical protein FPV133 [Fowlpox virus]
+gi|345107261|ref|YP_004821426.1|vFam_331| virion protein [Yoka poxvirus]
+gi|9627599|ref|NP_042122.1|vFam_331| hypothetical protein VARVgp078 [Variola virus]
+gi|9633869|ref|NP_051949.1|vFam_331| gp060R [Rabbit fibroma virus]
+gi|9633696|ref|NP_051774.1|vFam_331| m60R [Myxoma virus]
+gi|157939688|ref|YP_001497060.1|vFam_331| virion protein [Tanapox virus]
+gi|38229227|ref|NP_938320.1|vFam_331| 65R [Yaba monkey tumor virus]
+gi|18640148|ref|NP_570222.1|vFam_331| SPV062 hypothetical protein [Swinepox virus]
+gi|377829974|ref|YP_005296269.1|vFam_331| unnamed protein product [Cotia virus SPAn232]
+gi|148912942|ref|YP_001293256.1|vFam_331| hypothetical protein GTPV_gp061 [Goatpox virus Pellor]
+gi|211956345|ref|YP_002302414.1|vFam_331| virion protein [Deerpox virus W-1170-84]

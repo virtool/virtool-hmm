@@ -1,0 +1,19 @@
+CLUSTER	576
+NUM_SEQ	11
+LENGTH	245
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	129.85
+FAMILIES	{'Herpesviridae': 11}
+GENERA	{'Muromegalovirus': 1, 'Roseolovirus': 2, 'None': 2, 'Cytomegalovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|9633144|ref|NP_050254.1|vFam_576| hypothetical protein HhV6Bgp080 [Human herpesvirus 6B]
+gi|51874297|ref|YP_073815.1|vFam_576| tegument protein UL7 [Human herpesvirus 7]
+gi|448824937|ref|YP_007417869.1|vFam_576| GP103 [Caviid herpesvirus 2]
+gi|425707302|ref|YP_007016499.1|vFam_576| E103 [Murid herpesvirus 8]
+gi|14251090|ref|NP_116452.1|vFam_576| T103 [Tupaiid herpesvirus 1]
+gi|360086579|ref|YP_004940264.1|vFam_576| tegument protein UL7 [Saimiriine herpesvirus 3]
+gi|360040983|ref|YP_004940118.1|vFam_576| tegument protein UL7 [Aotine herpesvirus 1]
+gi|359946535|ref|YP_004936068.1|vFam_576| tegument protein UL7 [Cercopithecine herpesvirus 5]
+gi|356640438|ref|YP_004933880.1|vFam_576| tegument protein UL103 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139274|ref|YP_081549.1|vFam_576| tegument protein UL7 [Human herpesvirus 5]
+gi|20026692|ref|NP_612734.1|vFam_576| tegument protein UL7 [Panine herpesvirus 2]

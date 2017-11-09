@@ -1,0 +1,47 @@
+CLUSTER	91
+NUM_SEQ	39
+LENGTH	361
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	184.11
+FAMILIES	{'Tombusviridae': 38}
+GENERA	{'None': 3, 'Aureusvirus': 4, 'Tombusvirus': 10, 'Dianthovirus': 4, 'Carmovirus': 17}
+FASTA SEQUENCE TITLES:
+gi|32469482|ref|NP_862839.1|vFam_91| coat protein [Pea stem necrosis virus]
+gi|20069872|ref|NP_613255.1|vFam_91| p37K protein [Carnation ringspot virus]
+gi|20522129|ref|NP_620675.1|vFam_91| capsid protein [Sweet clover necrotic mosaic virus]
+gi|20428582|ref|NP_620526.1|vFam_91| capsid protein [Red clover necrotic mosaic virus]
+gi|459642387|ref|YP_007517178.1|vFam_91| coat protein [Furcraea necrotic streak virus]
+gi|148717971|ref|YP_001285476.1|vFam_91| unnamed protein product [Maize white line mosaic virus]
+gi|212498617|ref|YP_002308431.1|vFam_91| capsid protein [Grapevine Algerian latent virus]
+gi|189042977|ref|NP_612582.2|vFam_91| capsid protein [Carnation Italian ringspot virus]
+gi|440382959|ref|YP_007346989.1|vFam_91| capsid protein [Moroccan pepper virus]
+gi|94536600|ref|YP_588432.1|vFam_91| coat protein [Lisianthus necrosis virus]
+gi|9790331|ref|NP_062899.1|vFam_91| p41 capsid protein [Tomato bushy stunt virus]
+gi|9625554|ref|NP_039810.1|vFam_91| coat protein of 41 kDa [Artichoke mottled crinkle virus]
+gi|9629513|ref|NP_044736.1|vFam_91| capsid protein [Galinsoga mosaic virus]
+gi|20087027|ref|NP_613262.1|vFam_91| coat protein [Cymbidium ringspot virus]
+gi|38707977|ref|NP_945116.1|vFam_91| coat protein [Pelargonium necrotic spot virus]
+gi|9633616|ref|NP_051032.1|vFam_91| hypothetical protein, 41K [Pothos latent virus]
+gi|9626674|ref|NP_040955.1|vFam_91| coat protein [Cucumber necrosis virus]
+gi|559797743|ref|YP_008828158.1|vFam_91| coat protein [Yam spherical virus]
+gi|39163651|ref|NP_945130.1|vFam_91| coat protein [Johnsongrass chlorotic stripe mosaic virus]
+gi|30018255|ref|NP_835255.1|vFam_91| coat protein [Cucumber Bulgarian virus]
+gi|9626977|ref|NP_041231.1|vFam_91| capsid protein [Melon necrotic spot virus]
+gi|89888604|ref|YP_512365.1|vFam_91| coat protein [Cucumber leaf spot virus]
+gi|216905812|ref|YP_002333479.1|vFam_91| coat protein [Soybean yellow mottle mosaic virus]
+gi|20087051|ref|NP_613271.1|vFam_91| capsid [Cowpea mottle virus]
+gi|20153394|ref|NP_619676.1|vFam_91| coat protein [Hibiscus chlorotic ringspot virus]
+gi|9634678|ref|NP_038458.1|vFam_91| capsid protein (p38) [Japanese iris necrotic ring virus]
+gi|20564144|ref|NP_620723.1|vFam_91| coat protein [Turnip crinkle virus]
+gi|9627424|ref|NP_041887.1|vFam_91| coat protein [Cardamine chlorotic fleck virus]
+gi|66478135|ref|YP_238481.1|vFam_91| coat protein [Pelargonium line pattern virus]
+gi|456351084|ref|YP_007501039.1|vFam_91| coat protein [Rosa rugosa leaf distortion virus]
+gi|50261347|ref|YP_052929.1|vFam_91| putative coat protein [Pelargonium chlorotic ring pattern virus]
+gi|85718598|ref|YP_459964.1|vFam_91| coat protein [Angelonia flower break virus]
+gi|326537254|ref|YP_004300267.1|vFam_91| putative coat protein [TGP Carmovirus 1]
+gi|126010923|ref|YP_001039887.1|vFam_91| coat protein [Nootka lupine vein clearing virus]
+gi|9633807|ref|NP_051885.1|vFam_91| coat protein [Carnation mottle virus]
+gi|529154251|ref|YP_008378655.1|vFam_91| coat protein [Calibrachoa mottle virus]
+gi|9629190|ref|NP_044388.1|vFam_91| capsid protein [Saguaro cactus virus]
+gi|320202725|ref|YP_004191793.1|vFam_91| p37 [Honeysuckle ringspot virus]
+gi|39163636|ref|NP_945127.1|vFam_91| coat protein [Pelargonium flower break virus]

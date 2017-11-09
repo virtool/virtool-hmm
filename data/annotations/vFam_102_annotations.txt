@@ -1,0 +1,40 @@
+CLUSTER	102
+NUM_SEQ	32
+LENGTH	198
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	99.0
+FAMILIES	{'None': 1, 'Baculoviridae': 26}
+GENERA	{'None': 1, 'Betabaculovirus': 9, 'Alphabaculovirus': 17}
+FASTA SEQUENCE TITLES:
+gi|310831049|ref|YP_003969692.1|vFam_102| hypothetical protein crov060 [Cafeteria roenbergensis virus BV-PW1]
+gi|285002358|ref|YP_003422422.1|vFam_102| P24 capsid [Pseudaletia unipuncta granulovirus]
+gi|164519273|ref|YP_001649060.1|vFam_102| hypothetical protein HaGV_gp078 [Helicoverpa armigera granulovirus]
+gi|21686728|ref|NP_663228.1|vFam_102| P24 capsid protein [Phthorimaea operculella granulovirus]
+gi|410493636|ref|YP_006908574.1|vFam_102| P24 [Epinotia aporema granulovirus]
+gi|46309392|ref|YP_006282.1|vFam_102| ORF62 [Agrotis segetum granulovirus]
+gi|556549093|ref|YP_008720007.1|vFam_102| p24 capsid [Clostera anastomosis granulovirus]
+gi|288804697|ref|YP_003429382.1|vFam_102| P24 capsid protein [Pieris rapae granulovirus]
+gi|109255324|ref|YP_654473.1|vFam_102| P24 capsid protein [Choristoneura occidentalis granulovirus]
+gi|33622263|ref|NP_891910.1|vFam_102| p24 capsid [Cryptophlebia leucotreta granulovirus]
+gi|14602308|ref|NP_148855.1|vFam_102| ORF71 P24capsid [Cydia pomonella granulovirus]
+gi|114679986|ref|YP_758436.1|vFam_102| p24 capsid protein [Leucania separata nucleopolyhedrovirus]
+gi|438000429|ref|YP_007250534.1|vFam_102| p24 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964632|ref|YP_950828.1|vFam_102| p24 [Maruca vitrata nucleopolyhedrovirus]
+gi|114680180|ref|YP_758593.1|vFam_102| p24 capsid protein [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|86355547|ref|YP_473215.1|vFam_102| P24 capsid [Hyphantria cunea nucleopolyhedrovirus]
+gi|15320771|ref|NP_203283.1|vFam_102| P24 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|9630065|ref|NP_046283.1|vFam_102| p24 capsid protein [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031224|ref|YP_008992120.1|vFam_102| p24 [Choristoneura murinana alphabaculovirus]
+gi|529153341|ref|YP_008378381.1|vFam_102| P24 [Choristoneura rosaceana alphabaculovirus]
+gi|37651411|ref|NP_932733.1|vFam_102| viral capsid protein [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|116326193|ref|YP_803519.1|vFam_102| viral capsid protein [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|96979796|ref|YP_610999.1|vFam_102| p24 [Antheraea pernyi nucleopolyhedrovirus]
+gi|292397796|ref|YP_003517862.1|vFam_102| P24 [Lymantria xylina MNPV]
+gi|209978872|ref|YP_002300615.1|vFam_102| P24 capsid [Adoxophyes orana nucleopolyhedrovirus]
+gi|22549413|ref|NP_689186.1|vFam_102| p24 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|90592728|ref|YP_529681.1|vFam_102| P24 [Agrotis segetum nucleopolyhedrovirus]
+gi|215401407|ref|YP_002332710.1|vFam_102| P24 capsid [Spodoptera litura nucleopolyhedrovirus II]
+gi|125860137|ref|YP_001036306.1|vFam_102| p24 capsid-associated protein [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|165969126|ref|YP_001651026.1|vFam_102| p24 [Orgyia leucostigma NPV]
+gi|228861715|ref|YP_002854735.1|vFam_102| p24 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|402502200|ref|YP_006607858.1|vFam_102| P24 [Apocheima cinerarium nucleopolyhedrovirus]

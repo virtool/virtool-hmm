@@ -1,0 +1,10 @@
+CLUSTER	5877
+NUM_SEQ	2
+LENGTH	218
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	113.36
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|20177432|ref|NP_619744.1|vFam_5877| coat protein [Satellite virus of maize white line mosaic virus]
+gi|9790356|ref|NP_062917.1|vFam_5877| coat protein [Tobacco necrosis satellite virus]

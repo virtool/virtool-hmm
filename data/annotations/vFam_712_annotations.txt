@@ -1,0 +1,20 @@
+CLUSTER	712
+NUM_SEQ	12
+LENGTH	304
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	161.12
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Macavirus': 2, 'Rhadinovirus': 6, 'Lymphocryptovirus': 2, 'None': 1, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9629569|ref|NP_044864.1|vFam_712| capsid triplex subunit 2 [Murid herpesvirus 4]
+gi|321496577|ref|YP_004207862.1|vFam_712| capsid protein [Rodent herpesvirus Peru]
+gi|83642863|ref|YP_438150.1|vFam_712| ORF26 [Ovine herpesvirus 2]
+gi|10140948|ref|NP_065525.1|vFam_712| minor capsid protein [Alcelaphine herpesvirus 1]
+gi|82503252|ref|YP_401696.1|vFam_712| putative capsid protein vp23 [Human herpesvirus 4]
+gi|24943109|ref|NP_733871.1|vFam_712| ORF18 [callitrichine herpesvirus 3]
+gi|9628028|ref|NP_042622.1|vFam_712| capsid protein [Equid herpesvirus 2]
+gi|139472871|ref|YP_001129379.1|vFam_712| ORF26 [Human herpesvirus 8]
+gi|18653832|ref|NP_570766.1|vFam_712| capsid protein [Macacine herpesvirus 5]
+gi|13095603|ref|NP_076518.1|vFam_712| capsid protein [Bovine herpesvirus 4]
+gi|9631216|ref|NP_047997.1|vFam_712| orf 26 [Ateline herpesvirus 3]
+gi|9625982|ref|NP_040228.1|vFam_712| unnamed protein product [Saimiriine herpesvirus 2]

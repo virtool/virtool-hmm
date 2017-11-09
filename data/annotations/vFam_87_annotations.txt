@@ -1,0 +1,33 @@
+CLUSTER	87
+NUM_SEQ	25
+LENGTH	703
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	365.56
+FAMILIES	{'Parvoviridae': 24}
+GENERA	{'Dependovirus': 13, 'Parvovirus': 1, 'Bocavirus': 10}
+FASTA SEQUENCE TITLES:
+gi|312126260|ref|YP_004013958.1|vFam_87| capsid [Porcine parvovirus 4]
+gi|51555746|ref|YP_068094.1|vFam_87| capsid protein [Snake parvovirus 1]
+gi|51593843|ref|YP_068411.1|vFam_87| capsid protein VP [Muscovy duck parvovirus]
+gi|9628651|ref|NP_043515.1|vFam_87| VP1 [Goose parvovirus]
+gi|31543994|ref|NP_852781.1|vFam_87| capsid protein [Avian adeno-associated virus ATCC VR-865]
+gi|51593838|ref|YP_068409.1|vFam_87| capsid protein [Adeno-associated virus - 5]
+gi|304422918|ref|YP_003858572.1|vFam_87| cap protein [Bat adeno-associated virus YNM]
+gi|51949965|ref|YP_077180.1|vFam_87| capsid protein [Adeno-associated virus - 8]
+gi|51949962|ref|YP_077178.1|vFam_87| capsid protein [Adeno-associated virus - 7]
+gi|9632548|ref|NP_049542.1|vFam_87| capsid protein [Adeno-associated virus - 1]
+gi|110645923|ref|YP_680426.1|vFam_87| major coat protein VP1 [Adeno-associated virus - 2]
+gi|9628920|ref|NP_043941.1|vFam_87| capsid protein [Adeno-associated virus - 3]
+gi|48696559|ref|YP_024971.1|vFam_87| Cap [Bovine adeno-associated virus]
+gi|9629643|ref|NP_044927.1|vFam_87| capsid [Adeno-associated virus - 4]
+gi|347762076|ref|YP_004869643.1|vFam_87| VP1 [Porcine bocavirus 3]
+gi|372204040|ref|YP_005086950.1|vFam_87| VP1 gene product [Porcine bocavirus 5/JS677]
+gi|347762081|ref|YP_004869647.1|vFam_87| VP1 [Porcine bocavirus 4-1]
+gi|9627194|ref|NP_041404.1|vFam_87| hypothetical protein [Bovine parvovirus]
+gi|238621219|ref|YP_002916062.1|vFam_87| capsid protein VP1 [Human bocavirus 4]
+gi|302317869|ref|YP_003799998.1|vFam_87| capsid protein [Bocavirus gorilla/GBoV1/2009]
+gi|77125239|ref|YP_338088.1|vFam_87| VP1 [Human bocavirus]
+gi|557940287|ref|YP_008802582.1|vFam_87| VP1 [Feline bocavirus 2]
+gi|386576362|ref|YP_006272946.1|vFam_87| VP1 [Feline bocavirus]
+gi|470457074|ref|YP_007518456.1|vFam_87| VP1 [Canine bocavirus]
+gi|27151466|ref|NP_758523.1|vFam_87| virus protein 1 [Canine minute virus]

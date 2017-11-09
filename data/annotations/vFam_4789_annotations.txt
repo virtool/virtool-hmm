@@ -1,0 +1,10 @@
+CLUSTER	4789
+NUM_SEQ	2
+LENGTH	355
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	188.15
+FAMILIES	{'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134287326|ref|YP_001111022.1|vFam_4789| hypothetical protein HVAV3e_gp169 [Heliothis virescens ascovirus 3e]
+gi|115298585|ref|YP_762438.1|vFam_4789| 38 kDa Toll-like receptor [Spodoptera frugiperda ascovirus 1a]

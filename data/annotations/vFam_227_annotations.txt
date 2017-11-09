@@ -1,0 +1,19 @@
+CLUSTER	227
+NUM_SEQ	11
+LENGTH	523
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	271.96
+FAMILIES	{'Rhabdoviridae': 10}
+GENERA	{'None': 6, 'Vesiculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|291612467|ref|YP_003518290.1|vFam_227| putative non-structural transmembrane glycoprotein [Ngaingan virus]
+gi|66508433|ref|YP_238533.1|vFam_227| glycoprotein [Tupaia virus]
+gi|256535780|ref|YP_003126912.1|vFam_227| glycoprotein [Drosophila melanogaster sigmavirus AP30]
+gi|116536726|ref|YP_802941.1|vFam_227| G protein [Siniperca chuatsi rhabdovirus]
+gi|552558704|ref|YP_008686606.1|vFam_227| glycoprotein [Eel virus European X]
+gi|471236974|ref|YP_007641366.1|vFam_227| glycoprotein [Perch rhabdovirus]
+gi|557307921|ref|YP_008767242.1|vFam_227| glycoprotein G [American bat vesiculovirus TFFN-2013]
+gi|14336458|ref|NP_116747.1|vFam_227| glycoprotein [Spring viraemia of carp virus]
+gi|9627233|ref|NP_041715.1|vFam_227| glycoprotein (G protein) precursor [Vesicular stomatitis Indiana virus]
+gi|471236997|ref|YP_007641385.1|vFam_227| glycoprotein [Isfahan virus]
+gi|471236991|ref|YP_007641380.1|vFam_227| glycoprotein [Chandipura virus]

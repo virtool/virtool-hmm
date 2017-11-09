@@ -1,0 +1,19 @@
+CLUSTER	182
+NUM_SEQ	11
+LENGTH	561
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	280.5
+FAMILIES	{'Caliciviridae': 11}
+GENERA	{'None': 2, 'Lagovirus': 4, 'Sapovirus': 2, 'Norovirus': 2, 'Vesivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|28392831|ref|NP_786902.1|vFam_182| putative RNA-dependent RNA polymerase [European brown hare syndrome virus]
+gi|25121580|ref|NP_740332.1|vFam_182| RdRp [Rabbit hemorrhagic disease virus]
+gi|113478396|ref|YP_720002.1|vFam_182| capsid protein VP1 [Murine norovirus 1]
+gi|106060736|ref|NP_056821.2|vFam_182| 58 kd capsid protein [Norwalk virus]
+gi|189085298|ref|YP_001936178.1|vFam_182| Coat protein [Sapovirus C12]
+gi|50284530|ref|YP_052971.2|vFam_182| capsid protein [Sapovirus Mc10]
+gi|28392832|ref|NP_786903.1|vFam_182| putative major capsid protein [European brown hare syndrome virus]
+gi|25121581|ref|NP_740333.1|vFam_182| VP60 [Rabbit hemorrhagic disease virus]
+gi|28392850|ref|NP_786912.1|vFam_182| capsid protein [Canine calicivirus]
+gi|28392841|ref|NP_786921.1|vFam_182| capsid protein [Walrus calicivirus]
+gi|28392818|ref|NP_786889.1|vFam_182| capsid protein [Vesicular exanthema of swine virus]

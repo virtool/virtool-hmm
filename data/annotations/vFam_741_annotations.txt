@@ -1,0 +1,19 @@
+CLUSTER	741
+NUM_SEQ	11
+LENGTH	207
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	107.64
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|438000323|ref|YP_007250428.1|vFam_741| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964543|ref|YP_950739.1|vFam_741| Mv-ORF9 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|237643559|ref|YP_002884249.1|vFam_741| Bm9-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|15320671|ref|NP_203183.1|vFam_741| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|96979888|ref|YP_611097.1|vFam_741| hypothetical protein APNV_p131 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355655|ref|YP_473323.1|vFam_741| ORF135 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629954|ref|NP_046172.1|vFam_741| hypothetical protein OpmnVgp016 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|116326085|ref|YP_803410.1|vFam_741| hypothetical protein AGNV_gp016 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|529153449|ref|YP_008378489.1|vFam_741| hypothetical protein [Choristoneura rosaceana alphabaculovirus]
+gi|571031329|ref|YP_008992226.1|vFam_741| ac17 [Choristoneura murinana alphabaculovirus]
+gi|529153611|ref|YP_008378636.1|vFam_741| hypothetical protein [Choristoneura occidentalis alphabaculovirus]

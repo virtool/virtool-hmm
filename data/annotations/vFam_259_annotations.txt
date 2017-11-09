@@ -1,0 +1,30 @@
+CLUSTER	259
+NUM_SEQ	22
+LENGTH	73
+RELATIVE_ENTROPY_PER_POSITION	0.70
+TOTAL_RELATIVE_ENTROPY	51.1
+FAMILIES	{'Togaviridae': 22}
+GENERA	{'Alphavirus': 22}
+FASTA SEQUENCE TITLES:
+gi|392990030|ref|YP_006491258.1|vFam_259| transframe fusion protein [Southern elephant seal virus]
+gi|392990022|ref|YP_006491250.1|vFam_259| transframe fusion protein [Mayaro virus]
+gi|25121721|ref|NP_740695.1|vFam_259| 6k protein [Mayaro virus]
+gi|392990024|ref|YP_006491252.1|vFam_259| transframe fusion protein [Getah virus]
+gi|392990020|ref|YP_006491254.1|vFam_259| transframe fusion protein [Ross River virus]
+gi|25121499|ref|NP_740685.1|vFam_259| 6K protein [Ross River virus]
+gi|25121490|ref|NP_740710.1|vFam_259| 6K protein [O'nyong-nyong virus]
+gi|392976866|ref|YP_006491244.1|vFam_259| transframe fusion protein [Chikungunya virus]
+gi|392976862|ref|YP_006491246.1|vFam_259| transframe fusion protein [O'nyong-nyong virus]
+gi|25121477|ref|NP_740647.1|vFam_259| 6K protein [Eastern equine encephalitis virus]
+gi|392972638|ref|YP_006491236.1|vFam_259| transframe fusion protein [Venezuelan equine encephalitis virus]
+gi|29612002|ref|NP_818994.1|vFam_259| 6K protein [Venezuelan equine encephalitis virus]
+gi|29653360|ref|NP_819018.1|vFam_259| 6K protein [Aura virus]
+gi|392990026|ref|YP_006491248.1|vFam_259| transframe fusion protein [Fort Morgan virus]
+gi|269954655|ref|YP_003324598.1|vFam_259| 6K protein [Fort Morgan virus]
+gi|226823176|ref|YP_002802308.1|vFam_259| 6K protein [Highlands J virus]
+gi|29611993|ref|NP_818941.1|vFam_259| 6K protein [Western equine encephalitis virus]
+gi|392972650|ref|YP_006491230.1|vFam_259| transframe fusion protein [Highlands J virus]
+gi|392972646|ref|YP_006491228.1|vFam_259| transframe fusion protein [Western equine encephalitis virus]
+gi|392990032|ref|YP_006491260.1|vFam_259| transframe fusion protein [Whataroa virus]
+gi|392947321|ref|YP_006491226.1|vFam_259| transframe fusion protein [Sindbis virus]
+gi|25121512|ref|NP_740676.1|vFam_259| 6k structural protein [Sindbis virus]

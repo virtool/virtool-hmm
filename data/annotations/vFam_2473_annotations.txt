@@ -1,0 +1,13 @@
+CLUSTER	2473
+NUM_SEQ	5
+LENGTH	481
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	250.12
+FAMILIES	{'Iridoviridae': 5}
+GENERA	{'Lymphocystivirus': 2, 'Megalocytivirus': 1, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|19881418|ref|NP_612235.1|vFam_2473| ORF013R [Infectious spleen and kidney necrosis virus]
+gi|51870129|ref|YP_073682.1|vFam_2473| Mn2+ dependent serine/threonine protein kinase [Lymphocystis disease virus - isolate China]
+gi|13358420|ref|NP_078729.1|vFam_2473| Phosphotransferase [Lymphocystis disease virus 1]
+gi|388260132|ref|YP_006347660.1|vFam_2473| putative phosphotransferase [European catfish virus]
+gi|56692787|ref|YP_164245.1|vFam_2473| phosphotransferase [Singapore grouper iridovirus]

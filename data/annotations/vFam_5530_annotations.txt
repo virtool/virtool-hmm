@@ -1,0 +1,10 @@
+CLUSTER	5530
+NUM_SEQ	2
+LENGTH	145
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	73.95
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035682|ref|YP_008437315.1|vFam_5530| hypothetical protein ps_903 [Pandoravirus salinus]
+gi|531035629|ref|YP_008437262.1|vFam_5530| hypothetical protein ps_850 [Pandoravirus salinus]

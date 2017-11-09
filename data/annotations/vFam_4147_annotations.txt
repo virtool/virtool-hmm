@@ -1,0 +1,11 @@
+CLUSTER	4147
+NUM_SEQ	3
+LENGTH	154
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	78.54
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|531037171|ref|YP_008438813.1|vFam_4147| SGNH hydrolase-type esterase [Pandoravirus salinus]
+gi|448825016|ref|YP_007417947.1|vFam_4147| hypothetical protein LBA_00049 [Megavirus lba]
+gi|441431997|ref|YP_007354039.1|vFam_4147| SGNH_hydrolase super family [Acanthamoeba polyphaga moumouvirus]

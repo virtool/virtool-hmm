@@ -1,0 +1,24 @@
+CLUSTER	536
+NUM_SEQ	16
+LENGTH	75
+RELATIVE_ENTROPY_PER_POSITION	0.70
+TOTAL_RELATIVE_ENTROPY	52.5
+FAMILIES	{'Baculoviridae': 14, 'Iridoviridae': 1}
+GENERA	{'Iridovirus': 1, 'Alphabaculovirus': 14}
+FASTA SEQUENCE TITLES:
+gi|15078757|ref|NP_149507.1|vFam_536| 044R [Invertebrate iridescent virus 6]
+gi|118197519|ref|YP_874230.1|vFam_536| hypothetical protein EONV_gp037 [Ectropis obliqua nucleopolyhedrovirus]
+gi|209978816|ref|YP_002300559.1|vFam_536| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|114679909|ref|YP_758359.1|vFam_536| ORF62 [Leucania separata nucleopolyhedrovirus]
+gi|15617518|ref|NP_258315.1|vFam_536| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|209401099|ref|YP_002273968.1|vFam_536| hypothetical protein HaSNPVNNg1_gp045 [Helicoverpa armigera NPV NNg1]
+gi|402502137|ref|YP_006607795.1|vFam_536| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|74229726|ref|YP_308930.1|vFam_536| orf40 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304179|ref|YP_249647.1|vFam_536| ORF-43 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549535|ref|NP_689308.1|vFam_536| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209171007|ref|YP_002268154.1|vFam_536| agip124 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592832|ref|YP_529785.1|vFam_536| ORF-115 [Agrotis segetum nucleopolyhedrovirus]
+gi|125860229|ref|YP_001036399.1|vFam_536| hypothetical protein SFMNPV_gp107 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401505|ref|YP_002332809.1|vFam_536| hypothetical protein SlnV2_gp111 [Spodoptera litura nucleopolyhedrovirus II]
+gi|228861627|ref|YP_002854648.1|vFam_536| lef10 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|165969049|ref|YP_001650949.1|vFam_536| hypothetical protein [Orgyia leucostigma NPV]

@@ -1,0 +1,10 @@
+CLUSTER	4215
+NUM_SEQ	2
+LENGTH	141
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	71.91
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|478755995|ref|YP_007761636.1|vFam_4215| hypothetical protein HhPH1_gp47 [Halovirus PH1]
+gi|448261152|ref|YP_005352825.1|vFam_4215| putative protein 39 [Haloarcula hispanica icosahedral virus 2]

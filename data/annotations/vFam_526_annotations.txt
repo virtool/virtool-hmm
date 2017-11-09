@@ -1,0 +1,21 @@
+CLUSTER	526
+NUM_SEQ	13
+LENGTH	178
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	90.78
+FAMILIES	{'Baculoviridae': 10}
+GENERA	{'Alphabaculovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|119757018|ref|YP_919060.1|vFam_526| hypothetical protein BJ1_gp33 [Archaeal BJ1 virus]
+gi|29567206|ref|NP_818768.1|vFam_526| hypothetical protein AhnVgp121 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|215401420|ref|YP_002332723.1|vFam_526| hypothetical protein SlnV2_gp025 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634249|ref|NP_037788.1|vFam_526| ORF28 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|22549437|ref|NP_689210.1|vFam_526| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|90592746|ref|YP_529699.1|vFam_526| ORF-29 [Agrotis segetum nucleopolyhedrovirus]
+gi|209170917|ref|YP_002268063.1|vFam_526| agip33 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|228861721|ref|YP_002854741.1|vFam_526| hypothetical protein EupsNPV_gp131 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|165969139|ref|YP_001651039.1|vFam_526| hypothetical protein [Orgyia leucostigma NPV]
+gi|74229820|ref|YP_309024.1|vFam_526| orf135 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|113195525|ref|YP_717664.1|vFam_526| Chch142-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|529218185|ref|YP_008378348.1|vFam_526| HESP132 [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502118|ref|YP_006607776.1|vFam_526| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]

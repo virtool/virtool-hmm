@@ -1,0 +1,13 @@
+CLUSTER	1858
+NUM_SEQ	5
+LENGTH	341
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	180.73
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Muromegalovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|9845450|ref|NP_064264.1|vFam_1858| pr152.2 [Murid herpesvirus 2]
+gi|9845357|ref|NP_064171.1|vFam_1858| pr70.5 [Murid herpesvirus 2]
+gi|9845355|ref|NP_064169.1|vFam_1858| pr70.3 [Murid herpesvirus 2]
+gi|9845356|ref|NP_064170.1|vFam_1858| r70.4 [Murid herpesvirus 2]
+gi|9845354|ref|NP_064168.1|vFam_1858| pr70.2 [Murid herpesvirus 2]

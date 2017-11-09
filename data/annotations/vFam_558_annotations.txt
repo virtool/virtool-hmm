@@ -1,0 +1,16 @@
+CLUSTER	558
+NUM_SEQ	8
+LENGTH	794
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	412.88
+FAMILIES	{'Hepadnaviridae': 7}
+GENERA	{'None': 3, 'Avihepadnavirus': 3, 'Orthohepadnavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|372220276|ref|YP_004956864.1|vFam_558| unnamed protein product [Parrot hepatitis B virus]
+gi|9626721|ref|NP_040998.1|vFam_558| polymerase [Heron hepatitis B virus]
+gi|48696606|ref|YP_024968.1|vFam_558| polymerase [Ross's goose hepatitis B virus]
+gi|48696570|ref|YP_024974.1|vFam_558| polymerase protein [Sheldgoose hepatitis B virus]
+gi|49247994|ref|YP_031695.1|vFam_558| DNA-directed DNA polymerase [Snow goose hepatitis B virus]
+gi|9625571|ref|NP_039821.1|vFam_558| hypothetical protein DHBVgp3 [Duck hepatitis B virus]
+gi|472438221|ref|YP_007677999.1|vFam_558| polymerase [Bat hepatitis virus]
+gi|57021117|ref|NP_647604.2|vFam_558| Polymerase [Hepatitis B virus]

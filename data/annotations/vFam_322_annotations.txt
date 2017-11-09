@@ -1,0 +1,25 @@
+CLUSTER	322
+NUM_SEQ	17
+LENGTH	188
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	94.0
+FAMILIES	{'Baculoviridae': 12}
+GENERA	{'Alphabaculovirus': 12}
+FASTA SEQUENCE TITLES:
+gi|114679889|ref|YP_758339.1|vFam_322| lef-12 [Leucania separata nucleopolyhedrovirus]
+gi|438000346|ref|YP_007250451.1|vFam_322| lef-12 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964564|ref|YP_950760.1|vFam_322| late expression factor-12 [Maruca vitrata nucleopolyhedrovirus]
+gi|23577911|ref|NP_703031.1|vFam_322| late expression factor - 12 [Rachiplusia ou MNPV]
+gi|9630850|ref|NP_047447.1|vFam_322| AcMNPV orf41 [Bombyx mori nucleopolyhedrovirus]
+gi|15320695|ref|NP_203207.1|vFam_322| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|116326114|ref|YP_803439.1|vFam_322| late expression factor 12 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|86355629|ref|YP_473297.1|vFam_322| LEF12 [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629984|ref|NP_046202.1|vFam_322| hypothetical protein OpmnVgp046 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|96979868|ref|YP_611074.1|vFam_322| lef-12 [Antheraea pernyi nucleopolyhedrovirus]
+gi|571031301|ref|YP_008992198.1|vFam_322| lef12 [Choristoneura murinana alphabaculovirus]
+gi|529153419|ref|YP_008378459.1|vFam_322| LEF-12 [Choristoneura rosaceana alphabaculovirus]
+gi|15617510|ref|NP_258305.1|vFam_322| LEF-12 [Spodoptera litura nucleopolyhedrovirus]
+gi|209401090|ref|YP_002273959.1|vFam_322| late expression factor 12 [Helicoverpa armigera NPV NNg1]
+gi|113195435|ref|YP_717572.1|vFam_322| LEF-12 [Clanis bilineata nucleopolyhedrovirus]
+gi|209978823|ref|YP_002300566.1|vFam_322| LEF-12 [Adoxophyes orana nucleopolyhedrovirus]
+gi|29567136|ref|NP_818698.1|vFam_322| late expression factor 12 [Adoxophyes honmai nucleopolyhedrovirus]

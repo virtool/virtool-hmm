@@ -1,0 +1,10 @@
+CLUSTER	4023
+NUM_SEQ	2
+LENGTH	219
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	116.07
+FAMILIES	{'Secoviridae': 2}
+GENERA	{'Cheravirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52136999|ref|YP_081446.1|vFam_4023| coat protein VP25 [Cherry rasp leaf virus]
+gi|25014081|ref|NP_736603.1|vFam_4023| capsid protein Vp25 [Apple latent spherical virus]

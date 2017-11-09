@@ -1,0 +1,20 @@
+CLUSTER	419
+NUM_SEQ	12
+LENGTH	376
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	191.76
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Varicellovirus': 6, 'Mardivirus': 4, 'Iltovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|255683207|ref|YP_003084435.1|vFam_419| US7 [Anatid herpesvirus 1]
+gi|12084907|ref|NP_073377.1|vFam_419| envelope glycoprotein I [Meleagrid herpesvirus 1]
+gi|125745128|ref|YP_001034012.1|vFam_419| envelope glycoprotein I [Gallid herpesvirus 2]
+gi|10834952|ref|NP_066913.1|vFam_419| envelope glycoprotein I [Gallid herpesvirus 3]
+gi|57791002|ref|YP_182406.1|vFam_419| envelope glycoprotein I [Gallid herpesvirus 1]
+gi|38638266|ref|NP_944449.1|vFam_419| envelope glycoprotein I [Psittacid herpesvirus 1]
+gi|13242461|ref|NP_077481.1|vFam_419| envelope glycoprotein I [Cercopithecine herpesvirus 9]
+gi|9625941|ref|NP_040189.1|vFam_419| envelope glycoprotein I [Human herpesvirus 3]
+gi|270339513|ref|YP_003331590.1|vFam_419| envelope glycoprotein I [Felid herpesvirus 1]
+gi|51557554|ref|YP_068388.1|vFam_419| envelope glycoprotein I [Suid herpesvirus 1]
+gi|296316070|ref|YP_003662534.1|vFam_419| envelope glycoprotein I [Bovine herpesvirus 5]
+gi|9629887|ref|NP_045371.1|vFam_419| envelope glycoprotein I [Bovine herpesvirus 1]

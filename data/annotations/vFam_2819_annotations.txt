@@ -1,0 +1,13 @@
+CLUSTER	2819
+NUM_SEQ	5
+LENGTH	193
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	96.5
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'None': 3, 'Orthopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|377830125|ref|YP_005296373.1|vFam_2819| unnamed protein product [Cotia virus SPAn232]
+gi|377830119|ref|YP_005296367.1|vFam_2819| unnamed protein product [Cotia virus SPAn232]
+gi|377830058|ref|YP_005296218.1|vFam_2819| unnamed protein product [Cotia virus SPAn232]
+gi|66276003|ref|YP_233088.1|vFam_2819| hypothetical protein VACWR206 [Vaccinia virus]
+gi|20178577|ref|NP_619998.1|vFam_2819| CPXV218 protein [Cowpox virus]

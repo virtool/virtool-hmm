@@ -1,0 +1,21 @@
+CLUSTER	55
+NUM_SEQ	13
+LENGTH	602
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	301.0
+FAMILIES	{'Parvoviridae': 13}
+GENERA	{'Dependovirus': 8, 'Amdovirus': 1, 'None': 2, 'Parvovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9628279|ref|NP_042872.1|vFam_55| unknown protein [Aleutian mink disease virus]
+gi|531967732|ref|YP_008439207.1|vFam_55| nonstructural protein 1 [Porcine partetravirus]
+gi|374674410|ref|YP_005097851.1|vFam_55| unnamed protein product [Artibeus jamaicensis parvovirus 1]
+gi|565648326|ref|YP_008888533.1|vFam_55| replicase [Porcine parvovirus 5]
+gi|312126259|ref|YP_004013956.1|vFam_55| replicase [Porcine parvovirus 4]
+gi|51555745|ref|YP_068093.1|vFam_55| non-structural protein 1 [Snake parvovirus 1]
+gi|51593842|ref|YP_068410.1|vFam_55| REP protein [Muscovy duck parvovirus]
+gi|304422917|ref|YP_003858571.1|vFam_55| rep protein [Bat adeno-associated virus YNM]
+gi|51593837|ref|YP_068408.1|vFam_55| DNA binding trs helicase [Adeno-associated virus - 5]
+gi|48696558|ref|YP_024970.1|vFam_55| Rep [Bovine adeno-associated virus]
+gi|51949964|ref|YP_077179.1|vFam_55| nonstructural protein [Adeno-associated virus - 8]
+gi|110645918|ref|YP_680423.1|vFam_55| Rep 78 protein [Adeno-associated virus - 2]
+gi|9628919|ref|NP_043940.1|vFam_55| nonstructural protein [Adeno-associated virus - 3]

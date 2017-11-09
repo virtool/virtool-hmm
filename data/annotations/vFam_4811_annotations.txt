@@ -1,0 +1,11 @@
+CLUSTER	4811
+NUM_SEQ	3
+LENGTH	134
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	68.34
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|422933611|ref|YP_007003736.1|vFam_4811| protein ORF73 [Cyprinid herpesvirus 1]
+gi|422933838|ref|YP_007003892.1|vFam_4811| protein ORF73 [Cyprinid herpesvirus 2]
+gi|131840099|ref|YP_001096108.1|vFam_4811| unnamed protein product [Cyprinid herpesvirus 3]

@@ -1,0 +1,12 @@
+CLUSTER	3649
+NUM_SEQ	4
+LENGTH	252
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	131.04
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|22122267|ref|NP_666628.1|vFam_3649| hypothetical protein SIRV1gp40 [Sulfolobus islandicus rod-shaped virus 1]
+gi|16753103|ref|NP_445681.1|vFam_3649| ribonuclease T1-related protein [Sulfolobus islandicus filamentous virus]
+gi|22122321|ref|NP_666582.1|vFam_3649| hypothetical protein SIRV2gp48 [Sulfolobus islandicus rod-shaped virus 2]
+gi|22122268|ref|NP_666629.1|vFam_3649| hypothetical protein SIRV1gp41 [Sulfolobus islandicus rod-shaped virus 1]

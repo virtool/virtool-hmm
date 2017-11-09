@@ -1,0 +1,20 @@
+CLUSTER	659
+NUM_SEQ	12
+LENGTH	246
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	127.92
+FAMILIES	{'Poxviridae': 12}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|571798000|ref|YP_008658499.1|vFam_659| conserved hypothetical pox protein [Squirrelpox virus]
+gi|9629024|ref|NP_044043.1|vFam_659| MC092R [Molluscum contagiosum virus subtype 1]
+gi|9633887|ref|NP_051967.1|vFam_659| gp078R [Rabbit fibroma virus]
+gi|9633714|ref|NP_051792.1|vFam_659| m78R [Myxoma virus]
+gi|377829988|ref|YP_005296285.1|vFam_659| unnamed protein product [Cotia virus SPAn232]
+gi|18640164|ref|NP_570238.1|vFam_659| SPV078 putative virion protein [Swinepox virus]
+gi|148912958|ref|YP_001293272.1|vFam_659| hypothetical protein GTPV_gp077 [Goatpox virus Pellor]
+gi|211956361|ref|YP_002302430.1|vFam_659| virion protein [Deerpox virus W-1170-84]
+gi|113195287|ref|YP_717417.1|vFam_659| virion core protein [Taterapox virus]
+gi|345107276|ref|YP_004821441.1|vFam_659| virion core protein [Yoka poxvirus]
+gi|157939704|ref|YP_001497076.1|vFam_659| virion protein [Tanapox virus]
+gi|38229243|ref|NP_938336.1|vFam_659| 81R [Yaba monkey tumor virus]

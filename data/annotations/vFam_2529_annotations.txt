@@ -1,0 +1,11 @@
+CLUSTER	2529
+NUM_SEQ	3
+LENGTH	549
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	285.48
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Iridovirus': 1, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|109287916|ref|YP_654610.1|vFam_2529| hypothetical protein MIV038R [Invertebrate iridescent virus 3]
+gi|527333635|ref|YP_008357419.1|vFam_2529| serine/threonine protein kinase [Invertebrate iridovirus 22]
+gi|339906052|ref|YP_004732849.1|vFam_2529| hypothetical protein WIV_gp066 [Wiseana iridescent virus]

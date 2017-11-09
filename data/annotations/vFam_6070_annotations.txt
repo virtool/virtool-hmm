@@ -1,0 +1,10 @@
+CLUSTER	6070
+NUM_SEQ	2
+LENGTH	146
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	75.92
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|478755963|ref|YP_007761604.1|vFam_6070| hypothetical protein HhPH1_gp15 [Halovirus PH1]
+gi|448261122|ref|YP_005352795.1|vFam_6070| putative protein 9 [Haloarcula hispanica icosahedral virus 2]

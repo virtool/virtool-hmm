@@ -1,0 +1,10 @@
+CLUSTER	4677
+NUM_SEQ	2
+LENGTH	105
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	54.6
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|359946612|ref|YP_004936145.1|vFam_4677| protein O24 [Cercopithecine herpesvirus 5]
+gi|356640563|ref|YP_004934005.1|vFam_4677| hypothetical protein cy260 [Cynomolgus macaque cytomegalovirus strain Ottawa]

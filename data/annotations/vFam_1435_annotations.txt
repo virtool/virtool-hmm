@@ -1,0 +1,13 @@
+CLUSTER	1435
+NUM_SEQ	5
+LENGTH	338
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	175.76
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'Yatapoxvirus': 2, 'Cervidpoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|157939621|ref|YP_001496993.1|vFam_1435| TNF binding protein [Tanapox virus]
+gi|38229171|ref|NP_938264.1|vFam_1435| 2L [Yaba monkey tumor virus]
+gi|18640234|ref|NP_570308.1|vFam_1435| SPV148 MHC class I alpha chain-like protein P32231 [Swinepox virus]
+gi|211956282|ref|YP_002302350.1|vFam_1435| MHC-like TNF binding protein [Deerpox virus W-1170-84]
+gi|62637387|ref|YP_227385.1|vFam_1435| MHC-like TNF binding protein [Deerpox virus W-848-83]

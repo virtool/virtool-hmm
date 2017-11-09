@@ -1,0 +1,11 @@
+CLUSTER	1773
+NUM_SEQ	3
+LENGTH	389
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	206.17
+FAMILIES	{'None': 2, 'Betaflexiviridae': 1}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|410493734|ref|YP_006905849.1|vFam_1773| p30-like movement protein [Diuris virus B]
+gi|410493727|ref|YP_006905851.1|vFam_1773| p30-like movement protein [Diuris virus A]
+gi|330370656|ref|YP_004376202.1|vFam_1773| movement protein [Hardenbergia virus A]

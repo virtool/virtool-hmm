@@ -1,0 +1,10 @@
+CLUSTER	6332
+NUM_SEQ	2
+LENGTH	143
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	74.36
+FAMILIES	{'Flaviviridae': 2}
+GENERA	{'Flavivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|254688378|ref|YP_003084122.1|vFam_6332| putative capsid protein [Aedes flavivirus]
+gi|37695580|ref|NP_937771.1|vFam_6332| capsid protein [Kamiti River virus]

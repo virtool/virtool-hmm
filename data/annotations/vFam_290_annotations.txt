@@ -1,0 +1,24 @@
+CLUSTER	290
+NUM_SEQ	16
+LENGTH	491
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	250.41
+FAMILIES	{'Baculoviridae': 7, 'Phycodnaviridae': 8}
+GENERA	{'Chlorovirus': 3, 'None': 3, 'Prasinovirus': 2, 'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|438000347|ref|YP_007250452.1|vFam_290| gta protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|237643583|ref|YP_002884273.1|vFam_290| GTA [Bombyx mandarina nucleopolyhedrovirus]
+gi|15320696|ref|NP_203208.1|vFam_290| GTA [Epiphyas postvittana nucleopolyhedrovirus]
+gi|96979867|ref|YP_611073.1|vFam_290| global transactivator [Antheraea pernyi nucleopolyhedrovirus]
+gi|37651342|ref|NP_932651.1|vFam_290| global transactivator-like protein [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|9629985|ref|NP_046203.1|vFam_290| global transactivator [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153418|ref|YP_008378458.1|vFam_290| GTA [Choristoneura rosaceana alphabaculovirus]
+gi|86355628|ref|YP_473296.1|vFam_290| Global transactivator [Hyphantria cunea nucleopolyhedrovirus]
+gi|313768125|ref|YP_004061556.1|vFam_290| hypothetical protein BpV1_126 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768339|ref|YP_004062019.1|vFam_290| hypothetical protein MpV1_136 [Micromonas sp. RCC1109 virus MpV1]
+gi|314055214|ref|YP_004063552.1|vFam_290| SNF2/helicase domain protein [Ostreococcus tauri virus 2]
+gi|260665998|ref|YP_003212952.1|vFam_290| hypothetical protein H665_p129 [Ostreococcus tauri virus 1]
+gi|163955122|ref|YP_001648226.1|vFam_290| hypothetical protein OsV5_149f [Ostreococcus virus OsV5]
+gi|155371796|ref|YP_001427330.1|vFam_290| hypothetical protein ATCV1_Z849R [Acanthocystis turfacea Chlorella virus 1]
+gi|340025892|ref|NP_048904.2|vFam_290| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953853|ref|YP_001498744.1|vFam_290| hypothetical protein AR158_C663L [Paramecium bursaria Chlorella virus AR158]

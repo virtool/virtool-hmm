@@ -1,0 +1,16 @@
+CLUSTER	685
+NUM_SEQ	8
+LENGTH	305
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	158.6
+FAMILIES	{'Closteroviridae': 7}
+GENERA	{'Ampelovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|160707865|ref|YP_001552328.1|vFam_685| major capsid protein [Plum bark necrosis and stem pitting-associated virus]
+gi|218202724|ref|YP_002364307.1|vFam_685| putative coat protein [Grapevine leafroll-associated virus 10]
+gi|365824253|ref|YP_004935373.1|vFam_685| unnamed protein product [Grapevine leafroll-associated virus 4]
+gi|365824260|ref|YP_004935379.1|vFam_685| unnamed protein product [Grapevine leafroll-associated virus 6]
+gi|352749715|ref|YP_004901691.1|vFam_685| CP gene product [Grapevine leafroll-associated virus 5]
+gi|366898517|ref|YP_004940646.1|vFam_685| CP gene product [Grapevine leafroll-associated virus 1]
+gi|530547431|ref|YP_008411015.1|vFam_685| major coat protein [Blackberry vein banding associated virus]
+gi|29366693|ref|NP_813801.1|vFam_685| 35 kDa coat protein [Grapevine leafroll-associated virus 3]

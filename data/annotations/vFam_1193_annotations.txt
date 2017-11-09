@@ -1,0 +1,14 @@
+CLUSTER	1193
+NUM_SEQ	6
+LENGTH	69
+RELATIVE_ENTROPY_PER_POSITION	0.72
+TOTAL_RELATIVE_ENTROPY	49.68
+FAMILIES	{'Nimaviridae': 6}
+GENERA	{'Whispovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|17158635|ref|NP_477768.1|vFam_1193| wsv246 [Shrimp white spot syndrome virus]
+gi|17158166|ref|NP_477584.1|vFam_1193| wsv062 [Shrimp white spot syndrome virus]
+gi|17158384|ref|NP_477803.1|vFam_1193| wsv281 [Shrimp white spot syndrome virus]
+gi|17158504|ref|NP_477924.1|vFam_1193| wsv402 [Shrimp white spot syndrome virus]
+gi|17158159|ref|NP_477577.1|vFam_1193| wsv055 [Shrimp white spot syndrome virus]
+gi|17158157|ref|NP_477575.1|vFam_1193| wsv053 [Shrimp white spot syndrome virus]

@@ -1,0 +1,11 @@
+CLUSTER	1617
+NUM_SEQ	3
+LENGTH	152
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	74.48
+FAMILIES	{'Baculoviridae': 2, 'Ascoviridae': 1}
+GENERA	{'Ascovirus': 1, 'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134287254|ref|YP_001110950.1|vFam_1617| Bro11 [Heliothis virescens ascovirus 3e]
+gi|22549458|ref|NP_689231.1|vFam_1617| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069900|ref|NP_613104.1|vFam_1617| BRO-a [Mamestra configurata nucleopolyhedrovirus A]

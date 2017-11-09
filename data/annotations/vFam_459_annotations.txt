@@ -1,0 +1,22 @@
+CLUSTER	459
+NUM_SEQ	14
+LENGTH	126
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	66.78
+FAMILIES	{'Adenoviridae': 13}
+GENERA	{'Mastadenovirus': 13}
+FASTA SEQUENCE TITLES:
+gi|253762010|ref|YP_003038632.1|vFam_459| 7.3 kDa protein [Human adenovirus 54]
+gi|190341012|ref|YP_001974474.1|vFam_459| control protein E4orf1 [Human adenovirus D]
+gi|56160875|ref|AP_000533.1|vFam_459| E4 ORF1 [Human adenovirus 1]
+gi|197944765|ref|YP_002213840.1|vFam_459| control protein E4orf1 [Human adenovirus B]
+gi|56160633|ref|AP_000298.1|vFam_459| E4 ORF1 [Simian adenovirus 21]
+gi|386522714|ref|YP_006272979.1|vFam_459| E4Orf1 [Chimpanzee adenovirus Y25]
+gi|56160672|ref|AP_000336.1|vFam_459| E4 ORF1 [Simian adenovirus 25]
+gi|460042669|ref|YP_007518096.1|vFam_459| E4 orf1 [Simian adenovirus 20]
+gi|51518849|ref|YP_067936.1|vFam_459| E4 ORF1 [Simian adenovirus 3]
+gi|56160471|ref|AP_000141.1|vFam_459| E4 ORF1 [Human adenovirus A]
+gi|327415402|ref|YP_004300230.1|vFam_459| unnamed protein product [Simian adenovirus 49]
+gi|540155855|ref|YP_008520249.1|vFam_459| E4 orf1 [Simian adenovirus 18]
+gi|61602118|ref|YP_213995.1|vFam_459| E4 ORF1 [Simian adenovirus 1]
+gi|485191093|ref|YP_007906029.1|vFam_459| E4 ORF1 [Simian adenovirus C]

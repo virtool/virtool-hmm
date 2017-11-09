@@ -1,0 +1,17 @@
+CLUSTER	904
+NUM_SEQ	9
+LENGTH	53
+RELATIVE_ENTROPY_PER_POSITION	1.02
+TOTAL_RELATIVE_ENTROPY	54.06
+FAMILIES	{'Closteroviridae': 9}
+GENERA	{'Crinivirus': 9}
+FASTA SEQUENCE TITLES:
+gi|38257132|ref|NP_940789.1|vFam_904| p6 [Beet pseudoyellows virus]
+gi|30840971|ref|NP_851573.1|vFam_904| p6 [Cucurbit yellow stunting disorder virus]
+gi|177882064|ref|YP_001816776.1|vFam_904| p6.3 [Bean yellow disorder virus]
+gi|395865412|ref|YP_006522428.1|vFam_904| hypothetical 6-kDa protein [Cucurbit chlorotic yellows virus]
+gi|242916045|ref|YP_003002359.1|vFam_904| unnamed protein product [Lettuce chlorosis virus]
+gi|62401635|ref|YP_227361.1|vFam_904| p6 [Blackberry yellow vein-associated virus]
+gi|48696544|ref|YP_025086.1|vFam_904| p6 [Strawberry pallidosis-associated virus]
+gi|72398334|ref|YP_293700.1|vFam_904| P8 [Tomato chlorosis virus]
+gi|258676967|ref|YP_003204957.1|vFam_904| p6 [Tomato infectious chlorosis virus]

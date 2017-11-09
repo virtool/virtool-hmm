@@ -1,0 +1,10 @@
+CLUSTER	4268
+NUM_SEQ	2
+LENGTH	238
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	123.76
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|209978887|ref|YP_002300630.1|vFam_4268| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|29567201|ref|NP_818763.1|vFam_4268| hypothetical protein AhnVgp116 [Adoxophyes honmai nucleopolyhedrovirus]

@@ -1,0 +1,14 @@
+CLUSTER	1740
+NUM_SEQ	6
+LENGTH	876
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	464.28
+FAMILIES	{'Baculoviridae': 6}
+GENERA	{'Alphabaculovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|90592845|ref|YP_529798.1|vFam_1740| VEF-3 [Agrotis segetum nucleopolyhedrovirus]
+gi|22549490|ref|NP_689263.1|vFam_1740| vef gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069968|ref|NP_613172.1|vFam_1740| viral enhancing factor VEF [Mamestra configurata nucleopolyhedrovirus A]
+gi|90592792|ref|YP_529745.1|vFam_1740| VEF-1 [Agrotis segetum nucleopolyhedrovirus]
+gi|209170966|ref|YP_002268112.1|vFam_1740| agip82 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592793|ref|YP_529746.1|vFam_1740| VEF-2 [Agrotis segetum nucleopolyhedrovirus]

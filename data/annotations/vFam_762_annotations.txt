@@ -1,0 +1,10 @@
+CLUSTER	762
+NUM_SEQ	2
+LENGTH	210
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	107.1
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1}
+GENERA	{'None': 1, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825514|ref|YP_007418445.1|vFam_762| putative DNA mismatch repair protein muts-like protein [Megavirus lba]
+gi|73852499|ref|YP_293783.1|vFam_762| hypothetical protein EhV029 [Emiliania huxleyi virus 86]

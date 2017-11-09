@@ -1,0 +1,14 @@
+CLUSTER	2087
+NUM_SEQ	6
+LENGTH	247
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	125.97
+FAMILIES	{'Herpesviridae': 6}
+GENERA	{'Cytomegalovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|52139196|ref|YP_081469.1|vFam_2087| membrane glycoprotein UL9 [Human herpesvirus 5]
+gi|20026614|ref|NP_612656.1|vFam_2087| membrane glycoprotein UL11 [Panine herpesvirus 2]
+gi|52139198|ref|YP_081471.1|vFam_2087| membrane glycoprotein UL11 [Human herpesvirus 5]
+gi|359946451|ref|YP_004935983.1|vFam_2087| membrane protein RL11M [Cercopithecine herpesvirus 5]
+gi|356640309|ref|YP_004933751.1|vFam_2087| membrane glycoprotein UL11 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556483|ref|YP_068117.1|vFam_2087| rh23 [Macacine herpesvirus 3]

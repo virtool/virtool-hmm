@@ -1,0 +1,11 @@
+CLUSTER	3495
+NUM_SEQ	3
+LENGTH	329
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	174.37
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|262530256|ref|YP_003288791.1|vFam_3495| hypothetical protein [Fusarium graminearum dsRNA mycovirus-4]
+gi|501000389|ref|YP_007985676.1|vFam_3495| hypothetical protein [Cryphonectria parasitica bipartite mycovirus 1]
+gi|190643458|ref|YP_001976145.1|vFam_3495| hypothetical protein CThTV_RNA2gp1 [Curvularia thermal tolerance virus]

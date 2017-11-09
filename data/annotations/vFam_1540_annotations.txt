@@ -1,0 +1,13 @@
+CLUSTER	1540
+NUM_SEQ	5
+LENGTH	219
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	107.31
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|529218110|ref|YP_008378273.1|vFam_1540| HESP057 [Hemileuca sp. nucleopolyhedrovirus]
+gi|165969035|ref|YP_001650935.1|vFam_1540| hypothetical protein [Orgyia leucostigma NPV]
+gi|9630056|ref|NP_046274.1|vFam_1540| hypothetical protein OpmnVgp118 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|99077892|ref|YP_611009.2|vFam_1540| hypothetical protein APNV_p040 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355556|ref|YP_473224.1|vFam_1540| ORF36 peptide [Hyphantria cunea nucleopolyhedrovirus]

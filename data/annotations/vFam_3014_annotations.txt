@@ -1,0 +1,11 @@
+CLUSTER	3014
+NUM_SEQ	3
+LENGTH	146
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	75.92
+FAMILIES	{'None': 1, 'Alloherpesviridae': 1, 'Poxviridae': 1}
+GENERA	{'Orthopoxvirus': 1, 'Cyprinivirus': 1, 'Sobemovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|30844350|ref|NP_851590.1|vFam_3014| CPXV177 protein [Cowpox virus]
+gi|449265356|ref|YP_007438860.1|vFam_3014| P1 [Rice yellow mottle virus]
+gi|131840065|ref|YP_001096074.1|vFam_3014| unnamed protein product [Cyprinid herpesvirus 3]

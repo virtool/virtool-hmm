@@ -1,0 +1,10 @@
+CLUSTER	6033
+NUM_SEQ	2
+LENGTH	121
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	61.71
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|356640350|ref|YP_004933792.1|vFam_6033| tegument protein UL36 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556521|ref|YP_068155.1|vFam_6033| rh61 [Macacine herpesvirus 3]

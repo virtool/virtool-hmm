@@ -1,0 +1,10 @@
+CLUSTER	6049
+NUM_SEQ	2
+LENGTH	420
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	218.4
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159286|ref|YP_002321329.1|vFam_6049| GrBNV_gp67-like protein [Oryctes rhinoceros virus]
+gi|134303465|ref|YP_001111334.1|vFam_6049| hypothetical protein GrBNV_gp67 [Gryllus bimaculatus nudivirus]

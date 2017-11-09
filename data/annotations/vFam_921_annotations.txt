@@ -1,0 +1,17 @@
+CLUSTER	921
+NUM_SEQ	9
+LENGTH	166
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	84.66
+FAMILIES	{'Adenoviridae': 9}
+GENERA	{'Mastadenovirus': 9}
+FASTA SEQUENCE TITLES:
+gi|190340999|ref|YP_001974459.1|vFam_921| membrane glycoprotein E3 gp19K [Human adenovirus D]
+gi|56160553|ref|AP_000220.1|vFam_921| E3 gp19K [Human adenovirus 5]
+gi|56160863|ref|AP_000521.1|vFam_921| E3 gp19K [Human adenovirus 1]
+gi|56160518|ref|AP_000184.1|vFam_921| E3 gp19K [Human adenovirus 2]
+gi|386522706|ref|YP_006272971.1|vFam_921| E3 gp19K [Chimpanzee adenovirus Y25]
+gi|56160658|ref|AP_000322.1|vFam_921| E3 gp19K [Simian adenovirus 25]
+gi|56160619|ref|AP_000284.1|vFam_921| E3 gp19K [Simian adenovirus 21]
+gi|197944751|ref|YP_002213788.1|vFam_921| membrane glycoprotein E3 gp19K [Human adenovirus B]
+gi|197944796|ref|YP_002213821.1|vFam_921| membrane glycoprotein E3 gp19K [Human adenovirus B]

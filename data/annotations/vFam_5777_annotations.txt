@@ -1,0 +1,10 @@
+CLUSTER	5777
+NUM_SEQ	2
+LENGTH	139
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	70.89
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|478755965|ref|YP_007761606.1|vFam_5777| hypothetical protein HhPH1_gp17 [Halovirus PH1]
+gi|448261125|ref|YP_005352798.1|vFam_5777| putative protein 12 [Haloarcula hispanica icosahedral virus 2]

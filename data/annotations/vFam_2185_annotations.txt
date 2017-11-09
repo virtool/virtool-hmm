@@ -1,0 +1,11 @@
+CLUSTER	2185
+NUM_SEQ	3
+LENGTH	510
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	260.1
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|32453903|ref|NP_861666.1|vFam_2185| hypothetical protein HalHV1gp078 [Halovirus HF1]
+gi|526119407|ref|YP_008319310.1|vFam_2185| hypothetical protein [Pandoravirus dulcis]
+gi|526118659|ref|YP_008318562.1|vFam_2185| hypothetical protein [Pandoravirus dulcis]

@@ -1,0 +1,18 @@
+CLUSTER	888
+NUM_SEQ	10
+LENGTH	226
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	119.78
+FAMILIES	{'Flaviviridae': 10}
+GENERA	{'Flavivirus': 10}
+FASTA SEQUENCE TITLES:
+gi|159024814|ref|NP_739585.2|vFam_888| Nonstructural protein NS2A [Dengue virus 2]
+gi|73671173|ref|NP_740319.1|vFam_888| NS2A protein [Dengue virus 4]
+gi|164654856|ref|YP_001531170.2|vFam_888| Nonstructural protein NS2A [Dengue virus 3]
+gi|25014064|ref|NP_733808.1|vFam_888| nonstructural protein 2A [Dengue virus 1]
+gi|27735291|ref|NP_776003.1|vFam_888| non-structural protein NS2a [Yellow fever virus]
+gi|27735304|ref|NP_776016.1|vFam_888| unnamed protein product [West Nile virus]
+gi|158516893|ref|YP_001527882.1|vFam_888| unnamed protein product [West Nile virus]
+gi|27696330|ref|NP_775668.1|vFam_888| non-structural protein NS2a, partial [Japanese encephalitis virus]
+gi|56692448|ref|YP_164812.1|vFam_888| NS2a [Usutu virus]
+gi|24418984|ref|NP_722533.1|vFam_888| NS2A [Murray Valley encephalitis virus]

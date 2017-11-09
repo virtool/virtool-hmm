@@ -1,0 +1,20 @@
+CLUSTER	518
+NUM_SEQ	12
+LENGTH	155
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	82.15
+FAMILIES	{'Phycodnaviridae': 1, 'Baculoviridae': 10}
+GENERA	{'Betabaculovirus': 10, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|155370473|ref|YP_001426007.1|vFam_518| hypothetical protein FR483_n375R [Paramecium bursaria Chlorella virus FR483]
+gi|410493643|ref|YP_006908581.1|vFam_518| hypothetical protein [Epinotia aporema granulovirus]
+gi|285002365|ref|YP_003422429.1|vFam_518| hypothetical protein PsunGV_gp090 [Pseudaletia unipuncta granulovirus]
+gi|164519280|ref|YP_001649067.1|vFam_518| hypothetical protein HaGV_gp085 [Helicoverpa armigera granulovirus]
+gi|556549100|ref|YP_008720014.1|vFam_518| hypothetical protein CalGV067 [Clostera anastomosis granulovirus]
+gi|334265743|ref|YP_004376272.1|vFam_518| hypothetical protein ClanGV_gp064 [Clostera anachoreta granulovirus]
+gi|21686736|ref|NP_663236.1|vFam_518| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|288804703|ref|YP_003429388.1|vFam_518| PrGVORF64 [Pieris rapae granulovirus]
+gi|32698605|ref|NP_872520.1|vFam_518| ORF_66 [Adoxophyes orana granulovirus]
+gi|109255331|ref|YP_654480.1|vFam_518| hypothetical protein COGV_gp059 [Choristoneura occidentalis granulovirus]
+gi|14602316|ref|NP_148863.1|vFam_518| ORF79 similar to AcMNPV ORF150 [Cydia pomonella granulovirus]
+gi|33622270|ref|NP_891917.1|vFam_518| hypothetical protein [Cryptophlebia leucotreta granulovirus]

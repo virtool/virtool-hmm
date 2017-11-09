@@ -1,0 +1,11 @@
+CLUSTER	2981
+NUM_SEQ	3
+LENGTH	343
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	178.36
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977768|ref|YP_003986888.1|vFam_2981| putative FtsJ-like methyltransferase [Acanthamoeba polyphaga mimivirus]
+gi|448825478|ref|YP_007418409.1|vFam_2981| putative FtsJ-like methyltransferase [Megavirus lba]
+gi|441432367|ref|YP_007354409.1|vFam_2981| divergent methyltransferase [Acanthamoeba polyphaga moumouvirus]

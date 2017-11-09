@@ -1,0 +1,11 @@
+CLUSTER	3709
+NUM_SEQ	3
+LENGTH	171
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	88.92
+FAMILIES	{'Adenoviridae': 2}
+GENERA	{'Mastadenovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9626579|ref|NP_040869.1|vFam_3709| membrane glycoprotein E3 CR1-alpha [Human adenovirus F]
+gi|485191080|ref|YP_007906016.1|vFam_3709| E3 CR1-alpha CD5 [Simian adenovirus C]
+gi|61602106|ref|YP_213983.1|vFam_3709| E3 CR1-alpha1 [Simian adenovirus 1]

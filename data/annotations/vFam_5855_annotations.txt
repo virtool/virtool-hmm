@@ -1,0 +1,10 @@
+CLUSTER	5855
+NUM_SEQ	2
+LENGTH	286
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	148.72
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Varicellovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|386522801|ref|YP_006273057.1|vFam_5855| ORF67 gene product [Equid herpesvirus 8]
+gi|9629796|ref|NP_045284.1|vFam_5855| virion protein V67 [Equid herpesvirus 4]

@@ -1,0 +1,13 @@
+CLUSTER	2142
+NUM_SEQ	5
+LENGTH	177
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	92.04
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'Orthopoxvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|345107350|ref|YP_004821515.1|vFam_2142| ankyrin-like protein [Yoka poxvirus]
+gi|17975081|ref|NP_536595.1|vFam_2142| B7R [Monkeypox virus Zaire-96-I-16]
+gi|22164591|ref|NP_671675.1|vFam_2142| C2R [Ectromelia virus]
+gi|18640416|ref|NP_570572.1|vFam_2142| CMLV182 [Camelpox virus]
+gi|20178560|ref|NP_619981.1|vFam_2142| CPXV200 protein [Cowpox virus]

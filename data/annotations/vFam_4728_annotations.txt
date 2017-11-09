@@ -1,0 +1,11 @@
+CLUSTER	4728
+NUM_SEQ	3
+LENGTH	78
+RELATIVE_ENTROPY_PER_POSITION	0.63
+TOTAL_RELATIVE_ENTROPY	49.14
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498254|ref|YP_008004051.1|vFam_4728| unknown similar to AMEV252 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498865|ref|YP_008004659.1|vFam_4728| unknown similar to AMEV252 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964566|ref|NP_065034.1|vFam_4728| hypothetical protein AMV252 [Amsacta moorei entomopoxvirus 'L']

@@ -1,0 +1,12 @@
+CLUSTER	408
+NUM_SEQ	4
+LENGTH	193
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	100.36
+FAMILIES	{'None': 4}
+GENERA	{'Sobemovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|475655852|ref|YP_007697627.1|vFam_408| putative protease [Southern cowpea mosaic virus]
+gi|474776917|ref|YP_007688811.1|vFam_408| putative protease [Soybean yellow common mosaic virus]
+gi|478245405|ref|YP_007697676.1|vFam_408| protease [Sesbania mosaic virus]
+gi|471346284|ref|YP_007652832.1|vFam_408| putative protease [Southern bean mosaic virus]

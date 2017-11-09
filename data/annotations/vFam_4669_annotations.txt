@@ -1,0 +1,11 @@
+CLUSTER	4669
+NUM_SEQ	3
+LENGTH	152
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	77.52
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497998|ref|YP_008003797.1|vFam_4669| unknown similar to AMEV011 [Mythimna separata entomopoxvirus 'L']
+gi|506498651|ref|YP_008004445.1|vFam_4669| unknown similar to AMEV011 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964325|ref|NP_064793.1|vFam_4669| hypothetical protein AMV011 [Amsacta moorei entomopoxvirus 'L']

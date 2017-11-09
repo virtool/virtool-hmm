@@ -1,0 +1,12 @@
+CLUSTER	2865
+NUM_SEQ	4
+LENGTH	70
+RELATIVE_ENTROPY_PER_POSITION	0.72
+TOTAL_RELATIVE_ENTROPY	50.4
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'Orthopoxvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|345107210|ref|YP_004821375.1|vFam_2865| hypothetical protein YKV022c [Yoka poxvirus]
+gi|17974951|ref|NP_536465.1|vFam_2865| C12L [Monkeypox virus Zaire-96-I-16]
+gi|113195223|ref|YP_717353.1|vFam_2865| hypothetical protein TATV_DAH68_046 [Taterapox virus]
+gi|20178420|ref|NP_619841.1|vFam_2865| CPXV053 protein [Cowpox virus]

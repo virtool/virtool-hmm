@@ -1,0 +1,10 @@
+CLUSTER	5759
+NUM_SEQ	2
+LENGTH	245
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	127.4
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825729|ref|YP_007418660.1|vFam_5759| glycosyltransferase family protein [Megavirus lba]
+gi|441432564|ref|YP_007354606.1|vFam_5759| Glycosyltransferase family 25 [Acanthamoeba polyphaga moumouvirus]

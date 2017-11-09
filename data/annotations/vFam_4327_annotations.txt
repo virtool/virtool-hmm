@@ -1,0 +1,10 @@
+CLUSTER	4327
+NUM_SEQ	2
+LENGTH	196
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	99.96
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035532|ref|YP_008437163.1|vFam_4327| hypothetical protein ps_750 [Pandoravirus salinus]
+gi|526118674|ref|YP_008318577.1|vFam_4327| hypothetical protein [Pandoravirus dulcis]

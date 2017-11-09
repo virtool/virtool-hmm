@@ -1,0 +1,10 @@
+CLUSTER	5843
+NUM_SEQ	2
+LENGTH	181
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	90.5
+FAMILIES	{'Malacoherpesviridae': 1, 'Poxviridae': 1}
+GENERA	{'None': 1, 'Ostreavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|48696801|ref|YP_024625.1|vFam_5843| ORF86 [Ostreid herpesvirus 1]
+gi|9631491|ref|NP_048180.1|vFam_5843| ORF MSV110 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]

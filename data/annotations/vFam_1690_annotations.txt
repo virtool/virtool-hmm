@@ -1,0 +1,12 @@
+CLUSTER	1690
+NUM_SEQ	4
+LENGTH	115
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	59.8
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'None': 2, 'Prasinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313768420|ref|YP_004062100.1|vFam_1690| hypothetical protein MpV1_217c [Micromonas sp. RCC1109 virus MpV1]
+gi|260666074|ref|YP_003213028.1|vFam_1690| hypothetical protein H665_p205 [Ostreococcus tauri virus 1]
+gi|314055298|ref|YP_004063636.1|vFam_1690| Rhodanese domain protein [Ostreococcus tauri virus 2]
+gi|313844185|ref|YP_004061848.1|vFam_1690| hypothetical protein OlV1_216c [Ostreococcus lucimarinus virus OlV1]

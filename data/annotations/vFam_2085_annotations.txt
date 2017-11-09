@@ -1,0 +1,12 @@
+CLUSTER	2085
+NUM_SEQ	4
+LENGTH	133
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	65.17
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|15320666|ref|NP_203178.1|vFam_2085| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]
+gi|96979893|ref|YP_611102.1|vFam_2085| hypothetical protein APNV_p136 [Antheraea pernyi nucleopolyhedrovirus]
+gi|37651437|ref|NP_932629.1|vFam_2085| hypothetical protein CFDNVgORF20 [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|116326090|ref|YP_803415.1|vFam_2085| hypothetical protein AGNV_gp021 [Anticarsia gemmatalis nucleopolyhedrovirus]

@@ -1,0 +1,11 @@
+CLUSTER	2343
+NUM_SEQ	3
+LENGTH	476
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	247.52
+FAMILIES	{'Closteroviridae': 2}
+GENERA	{'Ampelovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|366898519|ref|YP_004940648.1|vFam_2343| CPd2 gene product [Grapevine leafroll-associated virus 1]
+gi|530547432|ref|YP_008411016.1|vFam_2343| minor coat protein [Blackberry vein banding associated virus]
+gi|29366694|ref|NP_813802.1|vFam_2343| 53 kDa protein [Grapevine leafroll-associated virus 3]

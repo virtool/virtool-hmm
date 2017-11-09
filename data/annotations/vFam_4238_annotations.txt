@@ -1,0 +1,10 @@
+CLUSTER	4238
+NUM_SEQ	2
+LENGTH	133
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	67.83
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Molluscipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9628985|ref|NP_044004.1|vFam_4238| MC053L [Molluscum contagiosum virus subtype 1]
+gi|9628983|ref|NP_044002.1|vFam_4238| MC051L [Molluscum contagiosum virus subtype 1]

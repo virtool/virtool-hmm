@@ -1,0 +1,44 @@
+CLUSTER	47
+NUM_SEQ	36
+LENGTH	254
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	129.54
+FAMILIES	{'Herpesviridae': 31, 'Poxviridae': 2}
+GENERA	{'None': 4, 'Roseolovirus': 2, 'Cytomegalovirus': 7, 'Iltovirus': 1, 'Muromegalovirus': 3, 'Macavirus': 2, 'Betaentomopoxvirus': 1, 'Varicellovirus': 4, 'Rhadinovirus': 6, 'Lymphocryptovirus': 2, 'Percavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631440|ref|NP_048279.1|vFam_47| ORF MSV208 putative uracil DNA glycosylase UNG (vaccinia D4R), similar to Equine herpesvirus GB:U20824 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497975|ref|YP_008003774.1|vFam_47| uracil-DNA glycosylase, DNA polymerase processivity factor [Mythimna separata entomopoxvirus 'L']
+gi|9964545|ref|NP_065013.1|vFam_47| putative uracil DNA glycosylase UNG [Amsacta moorei entomopoxvirus 'L']
+gi|506498844|ref|YP_008004638.1|vFam_47| uracil-DNA glycosylase, DNA polymerase processivity factor [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498236|ref|YP_008004033.1|vFam_47| uracil-DNA glycosylase, DNA polymerase processivity factor [Adoxophyes honmai entomopoxvirus 'L']
+gi|57790989|ref|YP_182393.1|vFam_47| uracil-DNA glycosylase [Gallid herpesvirus 1]
+gi|321496597|ref|YP_004207882.1|vFam_47| uracil DNA glycosidase [Rodent herpesvirus Peru]
+gi|9629613|ref|NP_044883.1|vFam_47| uracil-DNA glycosylase [Murid herpesvirus 4]
+gi|82503235|ref|YP_401679.1|vFam_47| uracil-DNA glycosylase [Human herpesvirus 4]
+gi|24943128|ref|NP_733890.1|vFam_47| ORF37 [callitrichine herpesvirus 3]
+gi|291345730|ref|YP_438168.2|vFam_47| ORF46 [Ovine herpesvirus 2]
+gi|10140967|ref|NP_065544.1|vFam_47| uracil-DNA glycosylase [Alcelaphine herpesvirus 1]
+gi|139472838|ref|YP_001129398.1|vFam_47| ORF46 [Human herpesvirus 8]
+gi|18653853|ref|NP_570787.1|vFam_47| uracil DNA glucosidase [Macacine herpesvirus 5]
+gi|9628049|ref|NP_042643.1|vFam_47| uracil DNA glycosylase [Equid herpesvirus 2]
+gi|13095623|ref|NP_076538.1|vFam_47| uracil-DNA-glycosidase [Bovine herpesvirus 4]
+gi|9631237|ref|NP_048019.1|vFam_47| orf 46 [Ateline herpesvirus 3]
+gi|9626002|ref|NP_040248.1|vFam_47| uracil DNA glucosidase [Saimiriine herpesvirus 2]
+gi|14251103|ref|NP_116465.1|vFam_47| T114 [Tupaiid herpesvirus 1]
+gi|360086584|ref|YP_004940269.1|vFam_47| uracil-DNA glycosylase [Saimiriine herpesvirus 3]
+gi|360040988|ref|YP_004940123.1|vFam_47| uracil-DNA glycosylase [Aotine herpesvirus 1]
+gi|52139279|ref|YP_081554.1|vFam_47| uracil-DNA glycosylase [Human herpesvirus 5]
+gi|20026696|ref|NP_612738.1|vFam_47| uracil-DNA glycosylase [Panine herpesvirus 2]
+gi|359946540|ref|YP_004936073.1|vFam_47| uracil-DNA glycosylase [Cercopithecine herpesvirus 5]
+gi|356640448|ref|YP_004933890.1|vFam_47| protein UL114 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|448824941|ref|YP_007417873.1|vFam_47| GP114 [Caviid herpesvirus 2]
+gi|9845402|ref|NP_064216.1|vFam_47| pR114 [Murid herpesvirus 2]
+gi|425707308|ref|YP_007016505.1|vFam_47| E114 [Murid herpesvirus 8]
+gi|61660218|ref|YP_214109.1|vFam_47| Uracil DNA glycosylase homolog [Murid herpesvirus 1]
+gi|538447276|ref|YP_008493016.1|vFam_47| uracil-DNA glycosylase [Porcine cytomegalovirus]
+gi|9633150|ref|NP_050260.1|vFam_47| Uracyl-DNA glycosylase [Human herpesvirus 6B]
+gi|51874301|ref|YP_073819.1|vFam_47| uracil-DNA glycosylase [Human herpesvirus 7]
+gi|13242453|ref|NP_077473.1|vFam_47| uracil DNA glycosylase [Cercopithecine herpesvirus 9]
+gi|270339498|ref|YP_003331580.1|vFam_47| uracil-DNA glycosylase [Felid herpesvirus 1]
+gi|296316060|ref|YP_003662524.1|vFam_47| uracil-DNA glycosylase [Bovine herpesvirus 5]
+gi|9629874|ref|NP_045358.1|vFam_47| uracil DNA glycosylase [Bovine herpesvirus 1]

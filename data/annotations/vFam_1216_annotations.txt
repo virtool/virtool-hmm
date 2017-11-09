@@ -1,0 +1,16 @@
+CLUSTER	1216
+NUM_SEQ	8
+LENGTH	153
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	79.56
+FAMILIES	{'Nanoviridae': 6}
+GENERA	{'Nanovirus': 4, 'Babuvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|167006426|ref|YP_001661656.1|vFam_1216| putative nuclear shuttle protein [Abaca bunchy top virus]
+gi|19744933|ref|NP_604479.1|vFam_1216| NSP [Banana bunchy top virus]
+gi|20530233|ref|NP_620698.1|vFam_1216| NSP [Subterranean clover stunt virus]
+gi|570033513|ref|YP_008992023.1|vFam_1216| putative nuclear shuttle protein [Pea necrotic yellow dwarf virus]
+gi|571797905|ref|YP_008997799.1|vFam_1216| nuclear shuttle protein [Black medic leafroll virus]
+gi|571797923|ref|YP_008997808.1|vFam_1216| nuclear shuttle protein [Pea yellow stunt virus]
+gi|255961487|ref|YP_003104741.1|vFam_1216| nuclear shuttle protein [Faba bean necrotic stunt virus]
+gi|20177468|ref|NP_619764.1|vFam_1216| Putative nuclear shuttle protein; NSP [Milk vetch dwarf virus]

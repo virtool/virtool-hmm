@@ -1,0 +1,10 @@
+CLUSTER	3994
+NUM_SEQ	2
+LENGTH	135
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	70.2
+FAMILIES	{'Geminiviridae': 2}
+GENERA	{'Curtovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|310288310|ref|YP_003966136.1|vFam_3994| C2 protein [Spinach severe curly top virus]
+gi|10257477|ref|NP_066184.1|vFam_3994| hypothetical protein [Horseradish curly top virus]

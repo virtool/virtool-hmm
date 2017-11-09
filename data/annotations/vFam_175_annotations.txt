@@ -1,0 +1,20 @@
+CLUSTER	175
+NUM_SEQ	12
+LENGTH	360
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	180.0
+FAMILIES	{'Hytrosaviridae': 1, 'Baculoviridae': 1, 'Poxviridae': 5}
+GENERA	{'Betaentomopoxvirus': 1, 'None': 4, 'Betabaculovirus': 1, 'Glossinavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506497808|ref|YP_008003607.1|vFam_175| leucine rich repeat gene family [Mythimna separata entomopoxvirus 'L']
+gi|168804132|ref|YP_001687064.1|vFam_175| leucine rich repeat gene family protein-like protein [Glossina pallidipes salivary gland hypertrophy virus]
+gi|9631380|ref|NP_048257.1|vFam_175| ORF MSV186 leucine rich repeat gene family protein, similar to Amsacta moorei entomopoxvirus Q3 ORF SW:P28854 [Melanoplus sanguinipes entomopoxvirus]
+gi|9631558|ref|NP_048298.1|vFam_175| ORF MSV227 leucine rich repeat gene family protein, similar to Amsacta moorei entomopoxvirus Q3 ORF SW:P28854 [Melanoplus sanguinipes entomopoxvirus]
+gi|21686680|ref|NP_663180.1|vFam_175| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|506498264|ref|YP_008004061.1|vFam_175| leucine rich repeat gene family [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498260|ref|YP_008004057.1|vFam_175| leucine rich repeat gene family [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498036|ref|YP_008003833.1|vFam_175| leucine rich repeat gene family [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498584|ref|YP_008004380.1|vFam_175| leucine rich repeat gene family [Choristoneura biennis entomopoxvirus 'L']
+gi|506498033|ref|YP_008003830.1|vFam_175| leucine rich repeat gene family [Adoxophyes honmai entomopoxvirus 'L']
+gi|9631539|ref|NP_048088.1|vFam_175| ORF MSV018 leucine rich repeat gene family protein, similar to Amsacta moorei entomopoxvirus Q3 ORF SW:P28854 [Melanoplus sanguinipes entomopoxvirus]
+gi|9631417|ref|NP_048325.1|vFam_175| ORF MSV254 leucine rich repeat gene family protein, similar to Amsacta moorei entomopoxvirus Q3 ORF SW:P28854 [Melanoplus sanguinipes entomopoxvirus]

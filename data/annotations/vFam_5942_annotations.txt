@@ -1,0 +1,10 @@
+CLUSTER	5942
+NUM_SEQ	2
+LENGTH	297
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	148.5
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|282174176|ref|YP_003358278.1|vFam_5942| protein ORF3 [Anguillid herpesvirus 1]
+gi|282174051|ref|YP_003358153.1|vFam_5942| protein ORF14 [Anguillid herpesvirus 1]

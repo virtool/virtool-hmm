@@ -1,0 +1,11 @@
+CLUSTER	4036
+NUM_SEQ	3
+LENGTH	190
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	98.8
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'None': 2, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825450|ref|YP_007418381.1|vFam_4036| putative Fe2Og dioxygenase [Megavirus lba]
+gi|441432343|ref|YP_007354385.1|vFam_4036| 2OG-Fe(II) oxygenase [Acanthamoeba polyphaga moumouvirus]
+gi|311977790|ref|YP_003986910.1|vFam_4036| putative Fe2OG dioxygenase [Acanthamoeba polyphaga mimivirus]

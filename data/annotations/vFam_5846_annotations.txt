@@ -1,0 +1,10 @@
+CLUSTER	5846
+NUM_SEQ	2
+LENGTH	510
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	265.2
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|295441845|ref|YP_003591083.1|vFam_5846| hypothetical protein STIV2_A509 [Sulfolobus turreted icosahedral virus 2]
+gi|48696996|ref|YP_024993.1|vFam_5846| hypothetical protein A510 [Sulfolobus turreted icosahedral virus]

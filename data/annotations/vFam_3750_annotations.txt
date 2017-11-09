@@ -1,0 +1,12 @@
+CLUSTER	3750
+NUM_SEQ	4
+LENGTH	227
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	120.31
+FAMILIES	{'Flaviviridae': 4}
+GENERA	{'Flavivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|25121726|ref|NP_740262.1|vFam_3750| non-structural protein 2A [Modoc virus]
+gi|27697399|ref|NP_775682.1|vFam_3750| non-structural protein NS2a [Apoi virus]
+gi|27735365|ref|NP_776074.1|vFam_3750| non-structural protein NS2a [Rio Bravo virus]
+gi|27669992|ref|NP_775647.1|vFam_3750| non-structural protein NS2a [Montana myotis leukoencephalitis virus]

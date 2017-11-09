@@ -1,0 +1,12 @@
+CLUSTER	3108
+NUM_SEQ	4
+LENGTH	250
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	122.5
+FAMILIES	{'None': 1, 'Parvoviridae': 2}
+GENERA	{'None': 1, 'Pefudensovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|550455634|ref|YP_008658567.1|vFam_3108| nonstructural protein 3 [Acheta domesticus mini ambidensovirus]
+gi|213159342|ref|YP_002321385.1|vFam_3108| hypothetical protein OrNV_gp074 [Oryctes rhinoceros virus]
+gi|33235708|ref|NP_874383.1|vFam_3108| Orf5 [Blattella germanica densovirus]
+gi|9633606|ref|NP_051022.1|vFam_3108| hypothetical protein PfdVgp7 [Periplaneta fuliginosa densovirus]

@@ -1,0 +1,14 @@
+CLUSTER	1879
+NUM_SEQ	6
+LENGTH	86
+RELATIVE_ENTROPY_PER_POSITION	0.58
+TOTAL_RELATIVE_ENTROPY	49.88
+FAMILIES	{'Picornaviridae': 5}
+GENERA	{'Teschovirus': 1, 'Aphthovirus': 3, 'Erbovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|25121702|ref|NP_740361.1|vFam_1879| VP4 [Equine rhinitis B virus 1]
+gi|25121690|ref|NP_740373.1|vFam_1879| VP4 [Equine rhinitis A virus]
+gi|168480158|ref|YP_001686938.1|vFam_1879| VP4 [Bovine rhinitis B virus]
+gi|25121630|ref|NP_740457.1|vFam_1879| VP4 [Foot-and-mouth disease virus - type O]
+gi|25121772|ref|NP_740349.1|vFam_1879| VP4 protein [Porcine teschovirus]
+gi|407868412|ref|YP_006846317.1|vFam_1879| VP4 [Bovine hungarovirus 1]

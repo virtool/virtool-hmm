@@ -1,0 +1,11 @@
+CLUSTER	4061
+NUM_SEQ	3
+LENGTH	365
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	189.8
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977832|ref|YP_003986952.1|vFam_4061| putative J domain-containing protein [Acanthamoeba polyphaga mimivirus]
+gi|448825402|ref|YP_007418333.1|vFam_4061| putative J domain-containing protein [Megavirus lba]
+gi|441432300|ref|YP_007354342.1|vFam_4061| putative J domain-containing protein [Acanthamoeba polyphaga moumouvirus]

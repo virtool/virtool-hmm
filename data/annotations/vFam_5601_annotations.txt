@@ -1,0 +1,10 @@
+CLUSTER	5601
+NUM_SEQ	2
+LENGTH	297
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	151.47
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|359946573|ref|YP_004936106.1|vFam_5601| protein O18 [Cercopithecine herpesvirus 5]
+gi|356640498|ref|YP_004933940.1|vFam_5601| hypothetical protein cy195 [Cynomolgus macaque cytomegalovirus strain Ottawa]

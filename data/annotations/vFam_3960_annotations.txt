@@ -1,0 +1,10 @@
+CLUSTER	3960
+NUM_SEQ	2
+LENGTH	288
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	146.88
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159355|ref|YP_002321398.1|vFam_3960| 38K protein [Oryctes rhinoceros virus]
+gi|134303399|ref|YP_001111268.1|vFam_3960| hypothetical protein GrBNV_gp01 [Gryllus bimaculatus nudivirus]

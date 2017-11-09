@@ -1,0 +1,13 @@
+CLUSTER	2636
+NUM_SEQ	5
+LENGTH	186
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	96.72
+FAMILIES	{'Potyviridae': 5}
+GENERA	{'Ipomovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|25013879|ref|NP_734290.1|vFam_2636| NIa-VPg protein [Sweet potato mild mottle virus]
+gi|170778509|ref|YP_001788998.1|vFam_2636| VPg [Squash vein yellowing virus]
+gi|74009227|ref|YP_308883.1|vFam_2636| NIa-VPg protein [Cucumber vein yellowing virus]
+gi|426580894|ref|YP_007032443.1|vFam_2636| VPg [Cassava brown streak virus]
+gi|314998988|ref|YP_004063980.1|vFam_2636| NIa-Vpg [Ugandan cassava brown streak virus]

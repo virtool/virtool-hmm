@@ -1,0 +1,11 @@
+CLUSTER	2521
+NUM_SEQ	3
+LENGTH	782
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	398.82
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977786|ref|YP_003986906.1|vFam_2521| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432347|ref|YP_007354389.1|vFam_2521| hypothetical protein Moumou_00417 [Acanthamoeba polyphaga moumouvirus]
+gi|363540116|ref|YP_004894542.1|vFam_2521| mg491 gene product [Megavirus chiliensis]

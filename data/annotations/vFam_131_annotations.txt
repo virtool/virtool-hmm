@@ -1,0 +1,30 @@
+CLUSTER	131
+NUM_SEQ	22
+LENGTH	209
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	108.68
+FAMILIES	{'Baculoviridae': 18}
+GENERA	{'Alphabaculovirus': 18}
+FASTA SEQUENCE TITLES:
+gi|9631030|ref|NP_047700.1|vFam_131| Ld-FP' [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|292397734|ref|YP_003517800.1|vFam_131| FP25K [Lymantria xylina MNPV]
+gi|114680115|ref|YP_758528.1|vFam_131| 25K [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|9630002|ref|NP_046220.1|vFam_131| hypothetical protein OpmnVgp064 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031287|ref|YP_008992184.1|vFam_131| fp protein [Choristoneura murinana alphabaculovirus]
+gi|86355610|ref|YP_473278.1|vFam_131| FP protein [Hyphantria cunea nucleopolyhedrovirus]
+gi|96979853|ref|YP_611059.1|vFam_131| fp25k [Antheraea pernyi nucleopolyhedrovirus]
+gi|116326221|ref|YP_803455.1|vFam_131| fp protein [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320712|ref|NP_203224.1|vFam_131| FP [Epiphyas postvittana nucleopolyhedrovirus]
+gi|209978809|ref|YP_002300552.1|vFam_131| FP25K [Adoxophyes orana nucleopolyhedrovirus]
+gi|118197526|ref|YP_874238.1|vFam_131| Fp25K [Ectropis obliqua nucleopolyhedrovirus]
+gi|113195447|ref|YP_717584.1|vFam_131| FP/25K [Clanis bilineata nucleopolyhedrovirus]
+gi|402502145|ref|YP_006607803.1|vFam_131| Fp25K [Apocheima cinerarium nucleopolyhedrovirus]
+gi|114679923|ref|YP_758373.1|vFam_131| fp [Leucania separata nucleopolyhedrovirus]
+gi|15617526|ref|NP_258325.1|vFam_131| few polyhedra protein [Spodoptera litura nucleopolyhedrovirus]
+gi|209401107|ref|YP_002273976.1|vFam_131| few polyhedra plaque phenotype associated protein [Helicoverpa armigera NPV NNg1]
+gi|68304187|ref|YP_249655.1|vFam_131| FP/25K [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549525|ref|NP_689298.1|vFam_131| fp25 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|215401495|ref|YP_002332799.1|vFam_131| hypothetical protein SlnV2_gp101 [Spodoptera litura nucleopolyhedrovirus II]
+gi|209170997|ref|YP_002268144.1|vFam_131| 25K protein [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|529218103|ref|YP_008378266.1|vFam_131| few polyhedra [Hemileuca sp. nucleopolyhedrovirus]
+gi|165969042|ref|YP_001650942.1|vFam_131| few polyhedra phenotype [Orgyia leucostigma NPV]

@@ -1,0 +1,13 @@
+CLUSTER	875
+NUM_SEQ	5
+LENGTH	123
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	62.73
+FAMILIES	{'Phycodnaviridae': 5}
+GENERA	{'Phaeovirus': 1, 'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|197322456|ref|YP_002154729.1|vFam_875| putative cytidine deaminase [Feldmannia species virus]
+gi|157953436|ref|YP_001498327.1|vFam_875| hypothetical protein AR158_C246R [Paramecium bursaria Chlorella virus AR158]
+gi|9631768|ref|NP_048547.1|vFam_875| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|155370112|ref|YP_001425646.1|vFam_875| hypothetical protein FR483_N014L [Paramecium bursaria Chlorella virus FR483]
+gi|155371691|ref|YP_001427225.1|vFam_875| hypothetical protein ATCV1_Z744R [Acanthocystis turfacea Chlorella virus 1]

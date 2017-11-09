@@ -1,0 +1,15 @@
+CLUSTER	1253
+NUM_SEQ	7
+LENGTH	157
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	81.64
+FAMILIES	{'Adenoviridae': 5}
+GENERA	{'Aviadenovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|327409508|ref|YP_004346952.1|vFam_1253| ORF17 [Fowl adenovirus C]
+gi|320202773|ref|YP_004191840.1|vFam_1253| ORF17 [Fowl adenovirus E]
+gi|19263444|ref|NP_597830.1|vFam_1253| hypothetical protein FAdVDgp28 [Fowl adenovirus D]
+gi|501000379|ref|YP_007985673.1|vFam_1253| ORF17 [Fowl adenovirus 5]
+gi|555928209|ref|YP_008719841.1|vFam_1253| ORF17 [Turkey adenovirus 4]
+gi|56160766|ref|AP_000432.1|vFam_1253| ORF17 [Fowl adenovirus A]
+gi|555928243|ref|YP_008719874.1|vFam_1253| ORF17 [Turkey adenovirus 5]

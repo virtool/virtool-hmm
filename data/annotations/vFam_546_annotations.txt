@@ -1,0 +1,23 @@
+CLUSTER	546
+NUM_SEQ	15
+LENGTH	186
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	98.58
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 1, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531761|ref|YP_784287.1|vFam_546| RNA polymerase subunit RPO22 [Nile crocodilepox virus]
+gi|40556118|ref|NP_955203.1|vFam_546| CNPV180 RNA polymerase subunit RPO22 [Canarypox virus]
+gi|9634805|ref|NP_039098.1|vFam_546| RNA polymerase subunit RP022 [Fowlpox virus]
+gi|41057490|ref|NP_957963.1|vFam_546| ORF054 RNA polymerase subunit RPO22 [Bovine papular stomatitis virus]
+gi|289183818|ref|YP_003457359.1|vFam_546| RNA-polymerase subunit RPO22 [Pseudocowpox virus]
+gi|9629009|ref|NP_044028.1|vFam_546| MC077R [Molluscum contagiosum virus subtype 1]
+gi|571797987|ref|YP_008658486.1|vFam_546| DNA-dependent RNA polymerase subunit rpo22 [Squirrelpox virus]
+gi|9633875|ref|NP_051955.1|vFam_546| gp066R [Rabbit fibroma virus]
+gi|66275893|ref|YP_232978.1|vFam_546| DNA-dependent RNA polymerase subunit rpo22 [Vaccinia virus]
+gi|345107264|ref|YP_004821429.1|vFam_546| DNA-dependent RNA polymerase subunit rpo22 [Yoka poxvirus]
+gi|157939692|ref|YP_001497064.1|vFam_546| RNA polymerase subunit rpo22 [Tanapox virus]
+gi|377829976|ref|YP_005296273.1|vFam_546| unnamed protein product [Cotia virus SPAn232]
+gi|211956349|ref|YP_002302418.1|vFam_546| RNA polymerase subunit RPO22 [Deerpox virus W-1170-84]
+gi|148912946|ref|YP_001293260.1|vFam_546| hypothetical protein GTPV_gp065 [Goatpox virus Pellor]
+gi|18640152|ref|NP_570226.1|vFam_546| SPV066 RNA polymerase subunit RPO22 [Swinepox virus]

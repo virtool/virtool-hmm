@@ -1,0 +1,13 @@
+CLUSTER	2307
+NUM_SEQ	5
+LENGTH	309
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	160.68
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Aviadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|320202778|ref|YP_004191845.1|vFam_2307| ORF23 [Fowl adenovirus E]
+gi|56160731|ref|AP_000398.1|vFam_2307| ORF23 [Fowl adenovirus D]
+gi|308222767|ref|YP_003933604.1|vFam_2307| unnamed protein product [Turkey adenovirus 1]
+gi|555928245|ref|YP_008719876.1|vFam_2307| ORF9 [Turkey adenovirus 5]
+gi|9628871|ref|NP_043904.1|vFam_2307| hypothetical protein FAdVAgp29 [Fowl adenovirus A]

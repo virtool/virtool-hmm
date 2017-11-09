@@ -1,0 +1,10 @@
+CLUSTER	5648
+NUM_SEQ	2
+LENGTH	299
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	155.48
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409847|ref|YP_004347267.1|vFam_5648| putative endonuclease 4 [Lausannevirus]
+gi|284504313|ref|YP_003407028.1|vFam_5648| AP endonuclease family 2 protein [Marseillevirus]

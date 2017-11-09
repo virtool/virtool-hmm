@@ -1,0 +1,10 @@
+CLUSTER	5914
+NUM_SEQ	2
+LENGTH	254
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	129.54
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52139197|ref|YP_081470.1|vFam_5914| membrane protein UL10 [Human herpesvirus 5]
+gi|20026613|ref|NP_612655.1|vFam_5914| membrane protein UL10 [Panine herpesvirus 2]

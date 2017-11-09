@@ -1,0 +1,12 @@
+CLUSTER	1338
+NUM_SEQ	4
+LENGTH	472
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	245.44
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'Crocodylidpoxvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|115531752|ref|YP_784278.1|vFam_1338| GyrB-like ATPase domain protein [Nile crocodilepox virus]
+gi|115531749|ref|YP_784275.1|vFam_1338| GyrB-like ATPase domain protein [Nile crocodilepox virus]
+gi|115531751|ref|YP_784277.1|vFam_1338| GyrB-like ATPase domain protein [Nile crocodilepox virus]
+gi|115531748|ref|YP_784274.1|vFam_1338| GyrB-like ATPase domain protein [Nile crocodilepox virus]

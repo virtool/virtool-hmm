@@ -1,0 +1,10 @@
+CLUSTER	5199
+NUM_SEQ	2
+LENGTH	664
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	345.28
+FAMILIES	{'Potyviridae': 2}
+GENERA	{'Potyvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|313139319|ref|YP_004046671.1|vFam_5199| P1 [Sweet potato virus C]
+gi|25013773|ref|NP_734309.1|vFam_5199| P1 protein [Sweet potato feathery mottle virus]

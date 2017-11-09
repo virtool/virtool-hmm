@@ -1,0 +1,11 @@
+CLUSTER	5040
+NUM_SEQ	3
+LENGTH	130
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	66.3
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Varicellovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9629805|ref|NP_045292.1|vFam_5040| membrane protein US8A [Equid herpesvirus 4]
+gi|216905928|ref|YP_002333556.1|vFam_5040| membrane protein US8A [Equid herpesvirus 9]
+gi|386522799|ref|YP_006273055.1|vFam_5040| ORF75 gene product [Equid herpesvirus 8]

@@ -1,0 +1,10 @@
+CLUSTER	6430
+NUM_SEQ	2
+LENGTH	277
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	141.27
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Iltovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|155041954|ref|YP_182363.2|vFam_6430| nuclear egress membrane protein [Gallid herpesvirus 1]
+gi|38638224|ref|NP_944407.1|vFam_6430| nuclear egress membrane protein [Psittacid herpesvirus 1]

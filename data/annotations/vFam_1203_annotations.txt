@@ -1,0 +1,14 @@
+CLUSTER	1203
+NUM_SEQ	6
+LENGTH	564
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	293.28
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329501|ref|YP_001604300.1|vFam_1203| putative helicase [Acidianus filamentous virus 8]
+gi|162329381|ref|YP_001604182.1|vFam_1203| putative helicase [Acidianus filamentous virus 6]
+gi|162329441|ref|YP_001604241.1|vFam_1203| putative helicase [Acidianus filamentous virus 7]
+gi|162329311|ref|YP_001604365.1|vFam_1203| putative helicase [Acidianus filamentous virus 3]
+gi|171473669|ref|YP_001798539.1|vFam_1203| putative helicase [Acidianus filamentous virus 9]
+gi|16753109|ref|NP_445687.1|vFam_1203| putative helicase [Sulfolobus islandicus filamentous virus]

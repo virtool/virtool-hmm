@@ -1,0 +1,11 @@
+CLUSTER	2857
+NUM_SEQ	3
+LENGTH	53
+RELATIVE_ENTROPY_PER_POSITION	0.98
+TOTAL_RELATIVE_ENTROPY	51.94
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|438000387|ref|YP_007250492.1|vFam_2857| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|114680139|ref|YP_758552.1|vFam_2857| hypothetical protein PXMNV_gp086 [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|23577950|ref|NP_703075.1|vFam_2857| hypothetical protein [Rachiplusia ou MNPV]

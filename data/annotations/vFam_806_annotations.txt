@@ -1,0 +1,19 @@
+CLUSTER	806
+NUM_SEQ	11
+LENGTH	94
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	50.76
+FAMILIES	{'Poxviridae': 11}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|571798030|ref|YP_008658529.1|vFam_806| conserved hypothetical pox protein [Squirrelpox virus]
+gi|9629052|ref|NP_044071.1|vFam_806| MC120L [Molluscum contagiosum virus subtype 1]
+gi|18640190|ref|NP_570264.1|vFam_806| SPV104 hypothetical protein [Swinepox virus]
+gi|9633915|ref|NP_051994.1|vFam_806| gp105L [Rabbit fibroma virus]
+gi|113195314|ref|YP_717444.1|vFam_806| virion core-associated protein [Taterapox virus]
+gi|345107307|ref|YP_004821472.1|vFam_806| core protein [Yoka poxvirus]
+gi|211956387|ref|YP_002302456.1|vFam_806| hypothetical protein DpV84gp116 [Deerpox virus W-1170-84]
+gi|377830011|ref|YP_005296312.1|vFam_806| unnamed protein product [Cotia virus SPAn232]
+gi|148912984|ref|YP_001293298.1|vFam_806| hypothetical protein GTPV_gp102 [Goatpox virus Pellor]
+gi|157939730|ref|YP_001497102.1|vFam_806| hypothetical protein TANV_107L [Tanapox virus]
+gi|38229269|ref|NP_938362.1|vFam_806| 107L [Yaba monkey tumor virus]

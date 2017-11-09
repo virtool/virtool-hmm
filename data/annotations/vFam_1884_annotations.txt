@@ -1,0 +1,13 @@
+CLUSTER	1884
+NUM_SEQ	5
+LENGTH	355
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	184.6
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|531037329|ref|YP_008438381.1|vFam_1884| WD repeat domain phosphoinositide interacting protein [Pandoravirus salinus]
+gi|531037328|ref|YP_008438378.1|vFam_1884| WD40 domain [Pandoravirus salinus]
+gi|526119796|ref|YP_008319699.1|vFam_1884| WD40 domain [Pandoravirus dulcis]
+gi|327409564|ref|YP_004346984.1|vFam_1884| conserved WD-repeat containing protein [Lausannevirus]
+gi|284504435|ref|YP_003407150.1|vFam_1884| WD repeat protein [Marseillevirus]

@@ -1,0 +1,11 @@
+CLUSTER	2959
+NUM_SEQ	3
+LENGTH	348
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	177.48
+FAMILIES	{'Secoviridae': 3}
+GENERA	{'Nepovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|50557451|ref|NP_733972.2|vFam_2959| movement protein [Tomato ringspot virus]
+gi|50511900|ref|YP_054437.1|vFam_2959| movement protein [Arabis mosaic virus]
+gi|25013720|ref|NP_733995.1|vFam_2959| movement protein [Grapevine fanleaf virus]

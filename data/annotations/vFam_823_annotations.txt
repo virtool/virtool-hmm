@@ -1,0 +1,15 @@
+CLUSTER	823
+NUM_SEQ	7
+LENGTH	176
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	91.52
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Alphabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|15617588|ref|NP_258388.1|vFam_823| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|99077895|ref|YP_611012.2|vFam_823| bro-a [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355558|ref|YP_473226.1|vFam_823| BRO-a [Hyphantria cunea nucleopolyhedrovirus]
+gi|571031238|ref|YP_008992134.1|vFam_823| bro [Choristoneura murinana alphabaculovirus]
+gi|529153517|ref|YP_008378542.1|vFam_823| BRO-D [Choristoneura occidentalis alphabaculovirus]
+gi|37651413|ref|NP_932721.1|vFam_823| baculovirus repeated ORF [Choristoneura fumiferana DEF multiple nucleopolyhedrovirus]
+gi|15320760|ref|NP_203272.1|vFam_823| hypothetical protein [Epiphyas postvittana nucleopolyhedrovirus]

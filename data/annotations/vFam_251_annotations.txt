@@ -1,0 +1,28 @@
+CLUSTER	251
+NUM_SEQ	20
+LENGTH	190
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	100.7
+FAMILIES	{'Poxviridae': 17}
+GENERA	{'None': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Betaentomopoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631505|ref|NP_048131.1|vFam_251| ORF MSV060 putative vaccinia H2R homolog, similar to SW:P20496 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497874|ref|YP_008003673.1|vFam_251| entry-fusion complex essential component (Cop-H2R) [Mythimna separata entomopoxvirus 'L']
+gi|506498220|ref|YP_008004017.1|vFam_251| entry-fusion complex essential component (Cop-H2R) [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498759|ref|YP_008004553.1|vFam_251| entry-fusion complex essential component (Cop-H2R) [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964441|ref|NP_064909.1|vFam_251| putative viral membrane protein [Amsacta moorei entomopoxvirus 'L']
+gi|40556122|ref|NP_955207.1|vFam_251| CNPV184 conserved hypothetical protein [Canarypox virus]
+gi|9634809|ref|NP_039102.1|vFam_251| hypothetical protein FPV139 [Fowlpox virus]
+gi|9629015|ref|NP_044034.1|vFam_251| MC083R [Molluscum contagiosum virus subtype 1]
+gi|113195279|ref|YP_717409.1|vFam_251| IMV membrane protein [Taterapox virus]
+gi|345107268|ref|YP_004821433.1|vFam_251| essential component of virus entry complex [Yoka poxvirus]
+gi|377829980|ref|YP_005296277.1|vFam_251| unnamed protein product [Cotia virus SPAn232]
+gi|157939696|ref|YP_001497068.1|vFam_251| hypothetical protein TANV_73R [Tanapox virus]
+gi|38229235|ref|NP_938328.1|vFam_251| 73R [Yaba monkey tumor virus]
+gi|9633879|ref|NP_051959.1|vFam_251| gp070R [Rabbit fibroma virus]
+gi|18640156|ref|NP_570230.1|vFam_251| SPV070 hypothetical protein [Swinepox virus]
+gi|148912950|ref|YP_001293264.1|vFam_251| hypothetical protein GTPV_gp069 [Goatpox virus Pellor]
+gi|211956353|ref|YP_002302422.1|vFam_251| hypothetical protein DpV84gp082 [Deerpox virus W-1170-84]
+gi|571797992|ref|YP_008658491.1|vFam_251| subunit of the poxvirus multiprotein entry-fusion complex [Squirrelpox virus]
+gi|41057494|ref|NP_957967.1|vFam_251| ORF058 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183822|ref|YP_003457363.1|vFam_251| IMV viral entry protein [Pseudocowpox virus]

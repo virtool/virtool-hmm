@@ -1,0 +1,11 @@
+CLUSTER	2402
+NUM_SEQ	3
+LENGTH	326
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	169.52
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|22549411|ref|NP_689184.1|vFam_2402| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209170897|ref|YP_002268043.1|vFam_2402| agip13 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592726|ref|YP_529679.1|vFam_2402| ORF-9 [Agrotis segetum nucleopolyhedrovirus]

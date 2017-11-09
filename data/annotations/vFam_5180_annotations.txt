@@ -1,0 +1,10 @@
+CLUSTER	5180
+NUM_SEQ	2
+LENGTH	584
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	303.68
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Lymphocystivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|51869985|ref|YP_073538.1|vFam_5180| hypothetical protein LDVICp029 [Lymphocystis disease virus - isolate China]
+gi|13358414|ref|NP_078643.1|vFam_5180| hypothetical protein LCDV1gp021 [Lymphocystis disease virus 1]

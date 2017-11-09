@@ -1,0 +1,10 @@
+CLUSTER	1509
+NUM_SEQ	2
+LENGTH	320
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	166.4
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|414089959|ref|YP_006990090.1|vFam_1509| hypothetical protein [Sulfolobales Mexican rudivirus 1]
+gi|22122313|ref|NP_666574.1|vFam_1509| hypothetical protein SIRV2gp40 [Sulfolobus islandicus rod-shaped virus 2]

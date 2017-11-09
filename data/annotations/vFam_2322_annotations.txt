@@ -1,0 +1,13 @@
+CLUSTER	2322
+NUM_SEQ	5
+LENGTH	82
+RELATIVE_ENTROPY_PER_POSITION	0.63
+TOTAL_RELATIVE_ENTROPY	51.66
+FAMILIES	{'Coronaviridae': 4}
+GENERA	{'None': 1, 'Betacoronavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|304633679|ref|YP_003858586.1|vFam_2322| envelope protein [Bat coronavirus BM48-31/BGR/2008]
+gi|126030129|ref|YP_001039967.1|vFam_2322| small membrane protein [Bat coronavirus HKU5]
+gi|126030119|ref|YP_001039958.1|vFam_2322| small membrane protein [Bat coronavirus HKU4]
+gi|429535811|ref|YP_007188584.1|vFam_2322| E protein [Betacoronavirus England 1]
+gi|556333869|ref|YP_008719938.1|vFam_2322| E [Betacoronavirus Erinaceus/VMC/DEU/2012]

@@ -1,0 +1,12 @@
+CLUSTER	1362
+NUM_SEQ	4
+LENGTH	70
+RELATIVE_ENTROPY_PER_POSITION	0.75
+TOTAL_RELATIVE_ENTROPY	52.5
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Betabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|556549081|ref|YP_008719995.1|vFam_1362| hypothetical protein CalGV047 [Clostera anastomosis granulovirus]
+gi|32698586|ref|NP_872501.1|vFam_1362| ORF_47 [Adoxophyes orana granulovirus]
+gi|14602293|ref|NP_148840.1|vFam_1362| ORF56 similar to XcGV ORF54 [Cydia pomonella granulovirus]
+gi|288804686|ref|YP_003429371.1|vFam_1362| PrGVORF47 [Pieris rapae granulovirus]

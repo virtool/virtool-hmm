@@ -1,0 +1,18 @@
+CLUSTER	584
+NUM_SEQ	10
+LENGTH	232
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	118.32
+FAMILIES	{'Baculoviridae': 10}
+GENERA	{'Betabaculovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|334265711|ref|YP_004376240.1|vFam_584| hypothetical protein ClanGV_gp032 [Clostera anachoreta granulovirus]
+gi|21686694|ref|NP_663194.1|vFam_584| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|33622232|ref|NP_891879.1|vFam_584| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|109255296|ref|YP_654445.1|vFam_584| hypothetical protein COGV_gp024 [Choristoneura occidentalis granulovirus]
+gi|410493607|ref|YP_006908545.1|vFam_584| hypothetical protein [Epinotia aporema granulovirus]
+gi|46309427|ref|YP_006317.1|vFam_584| ORF27 [Agrotis segetum granulovirus]
+gi|11068031|ref|NP_068247.1|vFam_584| PxORF28 peptide [Plutella xylostella granulovirus]
+gi|148368847|ref|YP_001256977.1|vFam_584| hypothetical protein SlGVgp026 [Spodoptera litura granulovirus]
+gi|285002303|ref|YP_003422367.1|vFam_584| hypothetical protein PsunGV_gp028 [Pseudaletia unipuncta granulovirus]
+gi|164519223|ref|YP_001649010.1|vFam_584| hypothetical protein HaGV_gp028 [Helicoverpa armigera granulovirus]

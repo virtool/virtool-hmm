@@ -1,0 +1,12 @@
+CLUSTER	3391
+NUM_SEQ	4
+LENGTH	305
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	155.55
+FAMILIES	{'Herpesviridae': 3, 'Retroviridae': 1}
+GENERA	{'None': 1, 'Betaretrovirus': 1, 'Rhadinovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|321496559|ref|YP_004207844.1|vFam_3391| hypothetical protein RHVP.R11 [Rodent herpesvirus Peru]
+gi|9626970|ref|NP_056884.1|vFam_3391| Pr48 [Mouse mammary tumor virus]
+gi|9631202|ref|NP_047986.1|vFam_3391| mitogen [Ateline herpesvirus 3]
+gi|9625970|ref|NP_040216.1|vFam_3391| IE-G [Saimiriine herpesvirus 2]

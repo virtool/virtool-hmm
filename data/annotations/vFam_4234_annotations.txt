@@ -1,0 +1,10 @@
+CLUSTER	4234
+NUM_SEQ	2
+LENGTH	84
+RELATIVE_ENTROPY_PER_POSITION	0.58
+TOTAL_RELATIVE_ENTROPY	48.72
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Iltovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|148753574|ref|NP_944429.2|vFam_4234| myristylated tegument protein [Psittacid herpesvirus 1]
+gi|57790980|ref|YP_182384.1|vFam_4234| myristylated tegument protein [Gallid herpesvirus 1]

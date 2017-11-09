@@ -1,0 +1,14 @@
+CLUSTER	1590
+NUM_SEQ	6
+LENGTH	140
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	72.8
+FAMILIES	{'Poxviridae': 6}
+GENERA	{'Capripoxvirus': 1, 'Yatapoxvirus': 2, 'Cervidpoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|18640097|ref|NP_570171.1|vFam_1590| SPV011 putative interleukin-18 binding protein [Swinepox virus]
+gi|148912892|ref|YP_001293206.1|vFam_1590| hypothetical protein GTPV_gp012 [Goatpox virus Pellor]
+gi|211956295|ref|YP_002302363.1|vFam_1590| IL-18 binding protein [Deerpox virus W-1170-84]
+gi|62637400|ref|YP_227398.1|vFam_1590| IL-18 binding protein [Deerpox virus W-848-83]
+gi|157939634|ref|YP_001497006.1|vFam_1590| IL-18 binding protein [Tanapox virus]
+gi|38229179|ref|NP_938272.1|vFam_1590| 14L [Yaba monkey tumor virus]

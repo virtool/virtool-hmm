@@ -1,0 +1,11 @@
+CLUSTER	1981
+NUM_SEQ	3
+LENGTH	374
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	194.48
+FAMILIES	{'None': 2, 'Mimiviridae': 1}
+GENERA	{'None': 2, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825643|ref|YP_007418574.1|vFam_1981| hypothetical protein LBA_00680 [Megavirus lba]
+gi|448826020|ref|YP_007418951.1|vFam_1981| hypothetical protein LBA_01057 [Megavirus lba]
+gi|311978206|ref|YP_003987326.1|vFam_1981| hypothetical protein [Acanthamoeba polyphaga mimivirus]

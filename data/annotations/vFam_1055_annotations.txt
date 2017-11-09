@@ -1,0 +1,11 @@
+CLUSTER	1055
+NUM_SEQ	3
+LENGTH	1125
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	585.0
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Iridovirus': 1, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|109287894|ref|YP_654588.1|vFam_1055| hypothetical protein MIV016R [Invertebrate iridescent virus 3]
+gi|527333537|ref|YP_008357321.1|vFam_1055| Dynein-like beta chain [Invertebrate iridovirus 22]
+gi|339906131|ref|YP_004732928.1|vFam_1055| hypothetical protein WIV_gp145 [Wiseana iridescent virus]

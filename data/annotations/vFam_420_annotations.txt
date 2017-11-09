@@ -1,0 +1,20 @@
+CLUSTER	420
+NUM_SEQ	12
+LENGTH	352
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	186.56
+FAMILIES	{'Iridoviridae': 4, 'Poxviridae': 8}
+GENERA	{'Cervidpoxvirus': 1, 'Molluscipoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Lymphocystivirus': 2, 'Yatapoxvirus': 1, 'Suipoxvirus': 1, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|51895783|ref|YP_077167.1|vFam_420| 3-beta hydroxysteroid dehydrogenase/isomerase family [Lymphocystis disease virus - isolate China]
+gi|13358433|ref|NP_078739.1|vFam_420| Hydroxysteroid dehydrogenase [Lymphocystis disease virus 1]
+gi|9629084|ref|NP_044103.1|vFam_420| MC152R [Molluscum contagiosum virus subtype 1]
+gi|66275967|ref|YP_233052.1|vFam_420| hydroxysteroid dehydrogenase [Vaccinia virus]
+gi|345107337|ref|YP_004821502.1|vFam_420| hydroxysteroid dehydrogenase [Yoka poxvirus]
+gi|157939757|ref|YP_001497129.1|vFam_420| 3-beta hydroxysteroid dehydrogenase [Tanapox virus]
+gi|211956413|ref|YP_002302482.1|vFam_420| beta hydroxy-steroid dehydrogenase [Deerpox virus W-1170-84]
+gi|18640214|ref|NP_570288.1|vFam_420| SPV128 hydroxysteroid dehydrogenase-like protein [Swinepox virus]
+gi|40556001|ref|NP_955086.1|vFam_420| CNPV063 hydroxysteroid dehydrogenase-like protein [Canarypox virus]
+gi|9634716|ref|NP_039008.1|vFam_420| Hydroxysteroid dehydrogenase [Fowlpox virus]
+gi|56692640|ref|YP_164098.1|vFam_420| 3-beta-hydroxy-delta-5-C27-steroid oxidoreductase [Singapore grouper iridovirus]
+gi|49237349|ref|YP_031630.1|vFam_420| putative 3-beta-hydroxy-delta 5-C27 steroid oxidoreductase-like protein [Frog virus 3]

@@ -1,0 +1,10 @@
+CLUSTER	4938
+NUM_SEQ	2
+LENGTH	135
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	70.2
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|310831514|ref|YP_003970157.1|vFam_4938| hypothetical protein crov524 [Cafeteria roenbergensis virus BV-PW1]
+gi|310831510|ref|YP_003970153.1|vFam_4938| hypothetical protein crov520 [Cafeteria roenbergensis virus BV-PW1]

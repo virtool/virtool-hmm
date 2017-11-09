@@ -1,0 +1,13 @@
+CLUSTER	2791
+NUM_SEQ	5
+LENGTH	201
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	104.52
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Betabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|32698595|ref|NP_872510.1|vFam_2791| ORF_56 [Adoxophyes orana granulovirus]
+gi|46309397|ref|YP_006287.1|vFam_2791| ORF57 [Agrotis segetum granulovirus]
+gi|288804693|ref|YP_003429378.1|vFam_2791| acetyltransferase [Pieris rapae granulovirus]
+gi|109255320|ref|YP_654469.1|vFam_2791| hypothetical protein COGV_gp048 [Choristoneura occidentalis granulovirus]
+gi|21686724|ref|NP_663224.1|vFam_2791| hypothetical protein [Phthorimaea operculella granulovirus]

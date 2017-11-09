@@ -1,0 +1,10 @@
+CLUSTER	5149
+NUM_SEQ	2
+LENGTH	228
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	114.0
+FAMILIES	{'Secoviridae': 2}
+GENERA	{'None': 1, 'Sadwavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|360040894|ref|YP_004940020.1|vFam_5149| unnamed protein product [Chocolate lily virus A]
+gi|25013926|ref|NP_734024.1|vFam_5149| cysteine protease [Satsuma dwarf virus]

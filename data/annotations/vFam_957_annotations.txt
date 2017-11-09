@@ -1,0 +1,12 @@
+CLUSTER	957
+NUM_SEQ	4
+LENGTH	202
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	101.0
+FAMILIES	{'Hytrosaviridae': 2, 'Phycodnaviridae': 2}
+GENERA	{'Muscavirus': 1, 'Prymnesiovirus': 2, 'Glossinavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|187903138|ref|YP_001883429.1|vFam_957| hypothetical protein MdSGHV101 [Musca domestica salivary gland hypertrophy virus]
+gi|168804076|ref|YP_001687008.1|vFam_957| hypothetical protein SGHV060 [Glossina pallidipes salivary gland hypertrophy virus]
+gi|508182150|ref|YP_008052669.1|vFam_957| hypothetical protein PGCG_00351 [Phaeocystis globosa virus]
+gi|508182149|ref|YP_008052668.1|vFam_957| hypothetical protein PGCG_00350 [Phaeocystis globosa virus]

@@ -1,0 +1,12 @@
+CLUSTER	3858
+NUM_SEQ	4
+LENGTH	27
+RELATIVE_ENTROPY_PER_POSITION	1.96
+TOTAL_RELATIVE_ENTROPY	52.92
+FAMILIES	{'Secoviridae': 4}
+GENERA	{'Nepovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|194033125|ref|YP_002000612.1|vFam_3858| VPg protein [Grapevine chrome mosaic virus]
+gi|50429220|ref|NP_734015.2|vFam_3858| VPg [Cycas necrotic stunt virus]
+gi|50405300|ref|NP_734033.2|vFam_3858| VPg [Beet ringspot virus]
+gi|41387227|ref|NP_958838.1|vFam_3858| VPg [Tomato black ring virus]

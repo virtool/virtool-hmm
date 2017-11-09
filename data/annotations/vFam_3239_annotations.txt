@@ -1,0 +1,10 @@
+CLUSTER	3239
+NUM_SEQ	2
+LENGTH	214
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	109.14
+FAMILIES	{'Marseillevirus family': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|531036205|ref|YP_008437841.1|vFam_3239| hypothetical protein ps_1430 [Pandoravirus salinus]
+gi|284504115|ref|YP_003406830.1|vFam_3239| hypothetical protein MAR_ORF083 [Marseillevirus]

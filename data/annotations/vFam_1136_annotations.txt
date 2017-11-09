@@ -1,0 +1,14 @@
+CLUSTER	1136
+NUM_SEQ	6
+LENGTH	222
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	115.44
+FAMILIES	{'None': 1, 'Mimiviridae': 5}
+GENERA	{'Mimivirus': 2, 'None': 4}
+FASTA SEQUENCE TITLES:
+gi|311977876|ref|YP_003986996.1|vFam_1136| putative PAN domain-containing protein [Acanthamoeba polyphaga mimivirus]
+gi|441432256|ref|YP_007354298.1|vFam_1136| PAN domain-containing protein [Acanthamoeba polyphaga moumouvirus]
+gi|363540153|ref|YP_004894446.1|vFam_1136| mg395 gene product [Megavirus chiliensis]
+gi|311978186|ref|YP_003987306.1|vFam_1136| putative PAN domain-containing protein [Acanthamoeba polyphaga mimivirus]
+gi|448825351|ref|YP_007418282.1|vFam_1136| putative pan domain-containing protein [Megavirus lba]
+gi|441432257|ref|YP_007354299.1|vFam_1136| PAN domain-containing protein [Acanthamoeba polyphaga moumouvirus]

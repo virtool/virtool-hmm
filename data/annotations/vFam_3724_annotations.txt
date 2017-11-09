@@ -1,0 +1,11 @@
+CLUSTER	3724
+NUM_SEQ	3
+LENGTH	204
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	108.12
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|171473681|ref|YP_001798551.1|vFam_3724| viral structural protein [Acidianus filamentous virus 9]
+gi|162329513|ref|YP_001604312.1|vFam_3724| structural protein [Acidianus filamentous virus 8]
+gi|16753123|ref|NP_445701.1|vFam_3724| hypothetical protein SIFV0036 [Sulfolobus islandicus filamentous virus]

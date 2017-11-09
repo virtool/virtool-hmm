@@ -1,0 +1,48 @@
+CLUSTER	92
+NUM_SEQ	40
+LENGTH	292
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	151.84
+FAMILIES	{'None': 22, 'Phycodnaviridae': 1, 'Nanoviridae': 13}
+GENERA	{'Nanovirus': 10, 'None': 23, 'Prymnesiovirus': 1, 'Babuvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|17017961|ref|NP_476526.1|vFam_92| Rep [Planaria asexual strain-specific virus-like element type 1]
+gi|508182168|ref|YP_008052687.1|vFam_92| Rep domain protein [Phaeocystis globosa virus]
+gi|167006435|ref|YP_001661660.1|vFam_92| putative replicase protein [Abaca bunchy top virus]
+gi|19744937|ref|NP_604483.1|vFam_92| replication initiation protein [Banana bunchy top virus]
+gi|20530225|ref|NP_620694.1|vFam_92| 33.24 kDa master Rep protein [Subterranean clover stunt virus]
+gi|571797901|ref|YP_008997797.1|vFam_92| master rplication initiator protein [Black medic leafroll virus]
+gi|571797895|ref|YP_008997794.1|vFam_92| master replication initiator protein [Pea yellow stunt virus]
+gi|422934002|ref|YP_007004040.1|vFam_92| replication-associated protein [Dragonfly-associated alphasatellite]
+gi|20177458|ref|NP_619759.1|vFam_92| viral replication-associated protein [Milk vetch dwarf virus]
+gi|20177476|ref|NP_619768.1|vFam_92| replication initiation protein [Milk vetch dwarf virus]
+gi|20143464|ref|NP_619572.1|vFam_92| Rep protein [Faba bean necrotic yellows virus]
+gi|20530237|ref|NP_620700.1|vFam_92| possible replication associated protein [Subterranean clover stunt virus]
+gi|20177462|ref|NP_619761.1|vFam_92| helicase [Milk vetch dwarf virus]
+gi|20143468|ref|NP_619574.1|vFam_92| Rep protein [Faba bean necrotic yellows virus]
+gi|404184222|ref|YP_006666513.1|vFam_92| replication protein [Bhendi yellow vein mosaic virus-associated alphasatellite]
+gi|343469031|ref|YP_004778177.1|vFam_92| Rep protein [Vernonia yellow vein Fujian virus alphasatellite]
+gi|404184210|ref|YP_006666512.1|vFam_92| replication protein [Mesta yellow vein mosaic virus-associated alphasatellite]
+gi|318054209|ref|YP_004123952.1|vFam_92| replication association protein [Okra yellow crinkle Cameroon alphasatellite [CM:Lys1sp2:09]]
+gi|254728911|ref|YP_003082247.1|vFam_92| replication protein [Gossypium darwinii symptomless alphasatellite]
+gi|422934004|ref|YP_007004041.1|vFam_92| replicase protein [Sunflower leaf curl Karnataka alphasatellite]
+gi|117530599|ref|YP_851014.1|vFam_92| replication protein [Malvastrum yellow mosaic alphasatellite]
+gi|255983872|ref|YP_003104752.1|vFam_92| replication associated protein [Chilli leaf curl Multan alphasatellite]
+gi|470457170|ref|YP_007518505.1|vFam_92| replication associated protein [Guar leaf curl alphasatellite]
+gi|148828649|ref|YP_001285943.1|vFam_92| rep protein [Mimosa yellow leaf curl virus-associated DNA 1]
+gi|148828647|ref|YP_001285945.1|vFam_92| rep protein [Sida yellow vein Vietnam alphasatellite]
+gi|318056035|ref|YP_004123953.1|vFam_92| replication association protein [Malvastrum yellow mosaic Cameroon alphasatellite]
+gi|406608971|ref|YP_006742179.1|vFam_92| replication associated protein [Cassava mosaic Madagascar alphasatellite]
+gi|313493554|ref|YP_004046695.1|vFam_92| replication associated protein [Tomato leaf curl Cameroon alphasatellite]
+gi|184202005|ref|YP_001856218.1|vFam_92| replication associated protein [Okra leaf curl alphasatellite]
+gi|9626659|ref|NP_040944.1|vFam_92| replication initiation protein [Coconut foliar decay virus]
+gi|18959286|ref|NP_579867.1|vFam_92| replication-associated protein [Ageratum yellow vein Singapore alphasatellite]
+gi|288860182|ref|YP_003433564.1|vFam_92| replication protein [Croton yellow vein mosaic alphasatellite]
+gi|311788800|ref|YP_003987456.1|vFam_92| replication associated protein [Cleome leaf crumple virus associated DNA 1]
+gi|310286519|ref|YP_003966132.1|vFam_92| replication associated protein [Euphorbia mosaic virus associated DNA 1]
+gi|521967830|ref|YP_008169853.1|vFam_92| Rep [Cuban alphasatellite 1]
+gi|302425255|ref|YP_003828902.1|vFam_92| Rep [Melon chlorotic mosaic virus-associated alphasatellite]
+gi|561133260|ref|YP_008854133.1|vFam_92| Rep [Cardamom bushy dwarf virus satellite]
+gi|20530229|ref|NP_620696.1|vFam_92| possible replication asociated protein [Subterranean clover stunt virus]
+gi|20177460|ref|NP_619760.1|vFam_92| helicase [Milk vetch dwarf virus]
+gi|20143450|ref|NP_619565.1|vFam_92| putative replication associated (rep) protein [Faba bean necrotic yellows virus]

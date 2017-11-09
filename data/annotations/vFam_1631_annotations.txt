@@ -1,0 +1,10 @@
+CLUSTER	1631
+NUM_SEQ	2
+LENGTH	341
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	173.91
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|363540611|ref|YP_004894486.1|vFam_1631| mg435 gene product [Megavirus chiliensis]
+gi|310831149|ref|YP_003969792.1|vFam_1631| putative TATA-box binding protein [Cafeteria roenbergensis virus BV-PW1]

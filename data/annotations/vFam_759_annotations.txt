@@ -1,0 +1,18 @@
+CLUSTER	759
+NUM_SEQ	10
+LENGTH	220
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	118.8
+FAMILIES	{'Closteroviridae': 9}
+GENERA	{'Closterovirus': 9}
+FASTA SEQUENCE TITLES:
+gi|115304330|ref|YP_762628.1|vFam_759| CP [Strawberry chlorotic fleck-associated virus]
+gi|115304329|ref|YP_762627.1|vFam_759| CPm [Strawberry chlorotic fleck-associated virus]
+gi|118197616|ref|YP_874190.1|vFam_759| CPm [Raspberry leaf mottle virus]
+gi|9628272|ref|NP_042866.1|vFam_759| 27-kDa protein [Citrus tristeza virus]
+gi|77118927|ref|YP_337916.1|vFam_759| minor capsid protein [Grapevine leafroll-associated virus 2]
+gi|30018242|ref|NP_835249.1|vFam_759| coat protein duplicate [Grapevine rootstock stem lesion associated virus]
+gi|563398781|ref|YP_008858535.1|vFam_759| CPm [Carnation yellow fleck virus]
+gi|9627408|ref|NP_041874.1|vFam_759| coat protein homolog [Beet yellows virus]
+gi|254666624|ref|YP_003075970.1|vFam_759| p24 [Carrot yellow leaf virus]
+gi|62327413|ref|YP_224095.1|vFam_759| CPm [Mint virus 1]

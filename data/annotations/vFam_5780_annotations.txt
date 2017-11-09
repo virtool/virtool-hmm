@@ -1,0 +1,10 @@
+CLUSTER	5780
+NUM_SEQ	2
+LENGTH	153
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	78.03
+FAMILIES	{'Caulimoviridae': 2}
+GENERA	{'Badnavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|238563976|ref|YP_002916055.1|vFam_5780| hypothetical protein [Sweetpotato badnavirus B]
+gi|336125400|ref|YP_004581511.1|vFam_5780| hypothetical protein SPBVa_gp2 [Sweetpotato badnavirus A]

@@ -1,0 +1,16 @@
+CLUSTER	889
+NUM_SEQ	8
+LENGTH	396
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	209.88
+FAMILIES	{'Herpesviridae': 8}
+GENERA	{'Varicellovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|13242407|ref|NP_077430.1|vFam_889| envelope protein UL43 [Cercopithecine herpesvirus 9]
+gi|9625890|ref|NP_040138.1|vFam_889| envelope protein UL43 [Human herpesvirus 3]
+gi|270339456|ref|YP_003331536.1|vFam_889| envelope protein UL43 [Felid herpesvirus 1]
+gi|216905870|ref|YP_002333498.1|vFam_889| envelope protein UL43 [Equid herpesvirus 9]
+gi|9629741|ref|NP_045234.1|vFam_889| envelope protein UL43 [Equid herpesvirus 4]
+gi|51557512|ref|YP_068346.1|vFam_889| envelope protein UL43 [Suid herpesvirus 1]
+gi|296316017|ref|YP_003662481.1|vFam_889| envelope protein UL43 [Bovine herpesvirus 5]
+gi|9629831|ref|NP_045315.1|vFam_889| envelope protein UL43 [Bovine herpesvirus 1]

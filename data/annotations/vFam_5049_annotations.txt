@@ -1,0 +1,11 @@
+CLUSTER	5049
+NUM_SEQ	3
+LENGTH	80
+RELATIVE_ENTROPY_PER_POSITION	0.66
+TOTAL_RELATIVE_ENTROPY	52.8
+FAMILIES	{'Polydnaviridae': 3}
+GENERA	{'Ichnovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|124378258|ref|YP_001029440.1|vFam_5049| GfV-B54-ORF1 [Glypta fumiferanae ichnovirus]
+gi|124378193|ref|YP_001029404.1|vFam_5049| GfV-C4-ORF1 [Glypta fumiferanae ichnovirus]
+gi|124378161|ref|YP_001029388.1|vFam_5049| GfV-B52-ORF1 [Glypta fumiferanae ichnovirus]

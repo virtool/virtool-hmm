@@ -1,0 +1,12 @@
+CLUSTER	805
+NUM_SEQ	4
+LENGTH	348
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	177.48
+FAMILIES	{'Iridoviridae': 4}
+GENERA	{'Lymphocystivirus': 2, 'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|388260064|ref|YP_006347592.1|vFam_805| myristylated membrane protein [European catfish virus]
+gi|56692656|ref|YP_164114.1|vFam_805| hypothetical protein ORF019R [Singapore grouper iridovirus]
+gi|51869993|ref|YP_073546.1|vFam_805| poxvirus proteins of hypothetical protein function [Lymphocystis disease virus - isolate China]
+gi|13358431|ref|NP_078745.1|vFam_805| Membrane (myristylated) protein [Lymphocystis disease virus 1]

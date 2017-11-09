@@ -1,0 +1,37 @@
+CLUSTER	173
+NUM_SEQ	29
+LENGTH	52
+RELATIVE_ENTROPY_PER_POSITION	1.01
+TOTAL_RELATIVE_ENTROPY	52.52
+FAMILIES	{'Baculoviridae': 19, 'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1, 'Betabaculovirus': 2, 'Alphabaculovirus': 17}
+FASTA SEQUENCE TITLES:
+gi|9630074|ref|NP_046292.1|vFam_173| conotoxin-like protein 1 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|9631116|ref|NP_047786.1|vFam_173| conotoxin-like protein [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|165969116|ref|YP_001651016.1|vFam_173| conotoxin-like protein 2 [Orgyia leucostigma NPV]
+gi|96979896|ref|YP_611105.1|vFam_173| ctl-1 [Antheraea pernyi nucleopolyhedrovirus]
+gi|571031214|ref|YP_008992110.1|vFam_173| ctl [Choristoneura murinana alphabaculovirus]
+gi|529153495|ref|YP_008378520.1|vFam_173| conotoxin-like 1 [Choristoneura occidentalis alphabaculovirus]
+gi|438000310|ref|YP_007250415.1|vFam_173| ctx protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|86355663|ref|YP_473331.1|vFam_173| Conotoxin-like protein [Hyphantria cunea nucleopolyhedrovirus]
+gi|19262901|ref|NP_597688.1|vFam_173| conotoxin-like protein [Amsacta moorei entomopoxvirus 'L']
+gi|116326099|ref|YP_803424.1|vFam_173| ctl [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|529218106|ref|YP_008378269.1|vFam_173| conotoxin-like protein [Hemileuca sp. nucleopolyhedrovirus]
+gi|164519325|ref|YP_001649112.1|vFam_173| conotoxin-like peptide [Helicoverpa armigera granulovirus]
+gi|9635377|ref|NP_059275.1|vFam_173| ORF127 [Xestia c-nigrum granulovirus]
+gi|506498154|ref|YP_008003951.1|vFam_173| conotoxin-like protein [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498760|ref|YP_008004554.1|vFam_173| conotoxin-like protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506497858|ref|YP_008003657.1|vFam_173| conotoxin-like protein [Mythimna separata entomopoxvirus 'L']
+gi|292397737|ref|YP_003517803.1|vFam_173| conotoxin-like protein [Lymantria xylina MNPV]
+gi|165969037|ref|YP_001650937.1|vFam_173| conotoxin-like protein 1 [Orgyia leucostigma NPV]
+gi|209978858|ref|YP_002300601.1|vFam_173| conotoxin-like protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|154551153|ref|YP_001419677.1|vFam_173| ctl-2 [Antheraea pernyi nucleopolyhedrovirus]
+gi|118197528|ref|YP_874240.1|vFam_173| conotoxin-like protein [Ectropis obliqua nucleopolyhedrovirus]
+gi|402502147|ref|YP_006607805.1|vFam_173| conotoxin-like protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|113195454|ref|YP_717591.1|vFam_173| conotoxin-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|22549508|ref|NP_689280.1|vFam_173| ctx gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|68304210|ref|YP_249678.1|vFam_173| conotoxin [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|86355643|ref|YP_473311.1|vFam_173| conotoxin-like protein 2 [Hyphantria cunea nucleopolyhedrovirus]
+gi|571031313|ref|YP_008992210.1|vFam_173| ctl [Choristoneura murinana alphabaculovirus]
+gi|9629968|ref|NP_046186.1|vFam_173| conotoxin-like protein 2 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|529153432|ref|YP_008378472.1|vFam_173| conotoxin-like protein 2 [Choristoneura rosaceana alphabaculovirus]

@@ -1,0 +1,32 @@
+CLUSTER	242
+NUM_SEQ	24
+LENGTH	262
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	131.0
+FAMILIES	{'Adenoviridae': 23}
+GENERA	{'None': 1, 'Mastadenovirus': 22}
+FASTA SEQUENCE TITLES:
+gi|46852416|ref|YP_009209.1|vFam_242| pVI [Porcine adenovirus 3]
+gi|56158812|ref|AP_000031.1|vFam_242| pVI [Bovine adenovirus B]
+gi|227122429|ref|YP_002822215.1|vFam_242| pVI [Murine adenovirus 3]
+gi|56160687|ref|AP_000350.1|vFam_242| pVI [Murine adenovirus A]
+gi|318065979|ref|YP_004123746.1|vFam_242| pVI [Murine adenovirus 2]
+gi|56160578|ref|AP_000244.1|vFam_242| pVI [Porcine adenovirus C]
+gi|496838703|ref|YP_007518321.1|vFam_242| pVI [Titi monkey adenovirus ECC-2011]
+gi|51518829|ref|YP_067916.1|vFam_242| pVI [Simian adenovirus 3]
+gi|56160853|ref|AP_000511.1|vFam_242| pVI [Human adenovirus 1]
+gi|327415384|ref|YP_004300212.1|vFam_242| unnamed protein product [Simian adenovirus 49]
+gi|56160450|ref|AP_000120.1|vFam_242| pVI [Human adenovirus A]
+gi|61602097|ref|YP_213974.1|vFam_242| pVI [Simian adenovirus 1]
+gi|485191071|ref|YP_007906007.1|vFam_242| pVI [Simian adenovirus C]
+gi|9626572|ref|NP_040861.1|vFam_242| capsid protein precursor pVI [Human adenovirus F]
+gi|540155840|ref|YP_008520234.1|vFam_242| pVI [Simian adenovirus 18]
+gi|190340989|ref|YP_001974429.1|vFam_242| capsid protein precursor pVI [Human adenovirus D]
+gi|386522697|ref|YP_006272962.1|vFam_242| pVI [Chimpanzee adenovirus Y25]
+gi|197944781|ref|YP_002213811.1|vFam_242| capsid protein precursor pVI [Human adenovirus B]
+gi|197944741|ref|YP_002213778.1|vFam_242| capsid protein precursor pVI [Human adenovirus B]
+gi|51556707|ref|YP_068068.1|vFam_242| pVI [Tree shrew adenovirus 1]
+gi|345462106|ref|YP_004782108.1|vFam_242| unnamed protein product [Bat adenovirus 2]
+gi|378554426|ref|YP_005271190.1|vFam_242| unnamed protein product [Bat adenovirus TJM]
+gi|56160966|ref|AP_000621.1|vFam_242| pVI [Canine adenovirus 2]
+gi|56158861|ref|AP_000058.1|vFam_242| pVI [Canine adenovirus 1]

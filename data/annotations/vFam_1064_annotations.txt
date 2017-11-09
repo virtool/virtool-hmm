@@ -1,0 +1,13 @@
+CLUSTER	1064
+NUM_SEQ	5
+LENGTH	461
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	239.72
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Macavirus': 1, 'Rhadinovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|10140961|ref|NP_065538.1|vFam_1064| helicase-primase complex [Alcelaphine herpesvirus 1]
+gi|18653847|ref|NP_570781.1|vFam_1064| helicase/primase [Macacine herpesvirus 5]
+gi|13095617|ref|NP_076532.1|vFam_1064| helicase-primase complex component [Bovine herpesvirus 4]
+gi|9631232|ref|NP_048013.1|vFam_1064| orf 40 [Ateline herpesvirus 3]
+gi|9625996|ref|NP_040242.1|vFam_1064| unnamed protein product [Saimiriine herpesvirus 2]

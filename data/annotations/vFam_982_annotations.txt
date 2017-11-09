@@ -1,0 +1,18 @@
+CLUSTER	982
+NUM_SEQ	10
+LENGTH	94
+RELATIVE_ENTROPY_PER_POSITION	0.55
+TOTAL_RELATIVE_ENTROPY	51.7
+FAMILIES	{'Coronaviridae': 10}
+GENERA	{'Gammacoronavirus': 3, 'None': 7}
+FASTA SEQUENCE TITLES:
+gi|189313875|ref|YP_001941171.1|vFam_982| hypothetical protein TCoV_gp08 [Turkey coronavirus]
+gi|383080780|ref|YP_005352866.1|vFam_982| NS6 gene product [Night-heron coronavirus HKU19]
+gi|383080800|ref|YP_005352884.1|vFam_982| NS6 gene product [Common-moorhen coronavirus HKU21]
+gi|383080789|ref|YP_005352874.1|vFam_982| NS6 gene product [Wigeon coronavirus HKU20]
+gi|383081748|ref|YP_005352849.1|vFam_982| NS6 gene product [Sparrow coronavirus HKU17]
+gi|383081731|ref|YP_005352834.1|vFam_982| NS6 gene product [Porcine coronavirus HKU15]
+gi|212681393|ref|YP_002308509.1|vFam_982| nonstructural protein [Munia coronavirus HKU13-3514]
+gi|383080770|ref|YP_005352857.1|vFam_982| NS6 gene product [Magpie-robin coronavirus HKU18]
+gi|383081739|ref|YP_005352841.1|vFam_982| NS6 gene product [White-eye coronavirus HKU16]
+gi|212681383|ref|YP_002308500.1|vFam_982| nonstructural protein [Thrush coronavirus HKU12-600]

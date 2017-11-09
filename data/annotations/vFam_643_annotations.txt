@@ -1,0 +1,17 @@
+CLUSTER	643
+NUM_SEQ	9
+LENGTH	84
+RELATIVE_ENTROPY_PER_POSITION	0.58
+TOTAL_RELATIVE_ENTROPY	48.72
+FAMILIES	{'Phycodnaviridae': 9}
+GENERA	{'Prymnesiovirus': 1, 'Chlorovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|508182092|ref|YP_008052611.1|vFam_643| hypothetical protein PGCG_00293 [Phaeocystis globosa virus]
+gi|157953816|ref|YP_001498707.1|vFam_643| hypothetical protein AR158_c626R [Paramecium bursaria Chlorella virus AR158]
+gi|155370247|ref|YP_001425781.1|vFam_643| hypothetical protein FR483_n149L [Paramecium bursaria Chlorella virus FR483]
+gi|9631724|ref|NP_048503.1|vFam_643| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157952617|ref|YP_001497509.1|vFam_643| hypothetical protein NY2A_b313L [Paramecium bursaria Chlorella virus NY2A]
+gi|157953815|ref|YP_001498706.1|vFam_643| hypothetical protein AR158_C625R [Paramecium bursaria Chlorella virus AR158]
+gi|157953283|ref|YP_001498174.1|vFam_643| hypothetical protein AR158_C092L [Paramecium bursaria Chlorella virus AR158]
+gi|157953966|ref|YP_001498857.1|vFam_643| hypothetical protein AR158_C776R [Paramecium bursaria Chlorella virus AR158]
+gi|157952714|ref|YP_001497606.1|vFam_643| hypothetical protein NY2A_b410L [Paramecium bursaria Chlorella virus NY2A]

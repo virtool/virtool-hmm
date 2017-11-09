@@ -1,0 +1,13 @@
+CLUSTER	1418
+NUM_SEQ	5
+LENGTH	336
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	174.72
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631350|ref|NP_048192.1|vFam_1418| ORF MSV121 putative membrane protein, fowlpox virus FP1 homolog (vaccinia G9R), similar to SW:P15909 [Melanoplus sanguinipes entomopoxvirus]
+gi|506498062|ref|YP_008003859.1|vFam_1418| entry-fusion complex component, myristylprotein [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497778|ref|YP_008003577.1|vFam_1418| entry-fusion complex component, myristylprotein [Mythimna separata entomopoxvirus 'L']
+gi|506498677|ref|YP_008004471.1|vFam_1418| entry-fusion complex component, myristylprotein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964349|ref|NP_064817.1|vFam_1418| poxvirus myristoylprotein [Amsacta moorei entomopoxvirus 'L']

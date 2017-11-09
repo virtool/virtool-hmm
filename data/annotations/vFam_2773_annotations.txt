@@ -1,0 +1,12 @@
+CLUSTER	2773
+NUM_SEQ	4
+LENGTH	225
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	114.75
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'Yatapoxvirus': 1, 'Orthopoxvirus': 1, 'Cervidpoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|345107363|ref|YP_004821528.1|vFam_2773| ER localized, inhibits NF-kappaB activation [Yoka poxvirus]
+gi|157939628|ref|YP_001497000.1|vFam_2773| virulence gene factor [Tanapox virus]
+gi|211956291|ref|YP_002302359.1|vFam_2773| hypothetical protein DpV84gp017 [Deerpox virus W-1170-84]
+gi|62637396|ref|YP_227394.1|vFam_2773| hypothetical protein DpV83gp017 [Deerpox virus W-848-83]

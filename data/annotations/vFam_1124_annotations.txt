@@ -1,0 +1,17 @@
+CLUSTER	1124
+NUM_SEQ	9
+LENGTH	172
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	91.16
+FAMILIES	{'Tombusviridae': 9}
+GENERA	{'None': 1, 'Tombusvirus': 8}
+FASTA SEQUENCE TITLES:
+gi|85677469|ref|YP_459924.1|vFam_1124| putative p19 protein [Maize necrotic streak virus]
+gi|30018257|ref|NP_835257.1|vFam_1124| symptom severity modulator [Cucumber Bulgarian virus]
+gi|440382956|ref|YP_007346991.1|vFam_1124| 19 kDa protein [Moroccan pepper virus]
+gi|19919926|ref|NP_612584.1|vFam_1124| 19 kDa protein [Carnation Italian ringspot virus]
+gi|20087029|ref|NP_613264.1|vFam_1124| core protein p19 [Cymbidium ringspot virus]
+gi|38707979|ref|NP_945118.1|vFam_1124| p19 [Pelargonium necrotic spot virus]
+gi|94536602|ref|YP_588434.1|vFam_1124| p19 protein [Lisianthus necrosis virus]
+gi|212498615|ref|YP_002308433.1|vFam_1124| 19K protein [Grapevine Algerian latent virus]
+gi|9626676|ref|NP_040957.1|vFam_1124| p20 protein [Cucumber necrosis virus]

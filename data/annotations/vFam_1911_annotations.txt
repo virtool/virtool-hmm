@@ -1,0 +1,10 @@
+CLUSTER	1911
+NUM_SEQ	2
+LENGTH	213
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	108.63
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409741|ref|YP_004347161.1|vFam_1911| hypothetical protein LAU_0198 [Lausannevirus]
+gi|284504135|ref|YP_003406850.1|vFam_1911| hypothetical protein MAR_ORF103 [Marseillevirus]

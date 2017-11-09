@@ -1,0 +1,13 @@
+CLUSTER	2066
+NUM_SEQ	5
+LENGTH	86
+RELATIVE_ENTROPY_PER_POSITION	0.57
+TOTAL_RELATIVE_ENTROPY	49.02
+FAMILIES	{'Phycodnaviridae': 4, 'Iridoviridae': 1}
+GENERA	{'Chlorovirus': 4, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15078760|ref|NP_149510.1|vFam_2066| 047R [Invertebrate iridescent virus 6]
+gi|155371500|ref|YP_001427034.1|vFam_2066| hypothetical protein ATCV1_z553R [Acanthocystis turfacea Chlorella virus 1]
+gi|155370653|ref|YP_001426187.1|vFam_2066| hypothetical protein FR483_n555L [Paramecium bursaria Chlorella virus FR483]
+gi|157953899|ref|YP_001498790.1|vFam_2066| hypothetical protein AR158_C709R [Paramecium bursaria Chlorella virus AR158]
+gi|9632212|ref|NP_048942.1|vFam_2066| hypothetical protein [Paramecium bursaria Chlorella virus 1]

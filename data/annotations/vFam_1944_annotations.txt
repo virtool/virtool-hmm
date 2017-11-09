@@ -1,0 +1,11 @@
+CLUSTER	1944
+NUM_SEQ	3
+LENGTH	435
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	221.85
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 1, 'Roseolovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|538447222|ref|YP_008492962.1|vFam_1944| membrane glycoprotein [Porcine cytomegalovirus]
+gi|9628323|ref|NP_042914.1|vFam_1944| membrane protein U21 [Human herpesvirus 6A]
+gi|51874243|ref|YP_073761.1|vFam_1944| membrane protein U21 [Human herpesvirus 7]

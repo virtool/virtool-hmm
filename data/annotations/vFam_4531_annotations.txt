@@ -1,0 +1,11 @@
+CLUSTER	4531
+NUM_SEQ	3
+LENGTH	216
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	108.0
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|529218088|ref|YP_008378251.1|vFam_4531| HESP035 [Hemileuca sp. nucleopolyhedrovirus]
+gi|215401445|ref|YP_002332748.1|vFam_4531| hypothetical protein SlnV2_gp050 [Spodoptera litura nucleopolyhedrovirus II]
+gi|228861706|ref|YP_002854726.1|vFam_4531| hypothetical protein EupsNPV_gp116 [Euproctis pseudoconspersa nucleopolyhedrovirus]

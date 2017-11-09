@@ -1,0 +1,11 @@
+CLUSTER	1297
+NUM_SEQ	3
+LENGTH	722
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	375.44
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Muromegalovirus': 1, 'Roseolovirus': 1, 'Cytomegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|61660155|ref|YP_214046.1|vFam_1297| Tegument protein of HCMV [Murid herpesvirus 1]
+gi|538447214|ref|YP_008492954.1|vFam_1297| tegument protein pp100 [Porcine cytomegalovirus]
+gi|51874234|ref|YP_073752.1|vFam_1297| tegument protein pp150 [Human herpesvirus 7]

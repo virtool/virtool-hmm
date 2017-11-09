@@ -1,0 +1,13 @@
+CLUSTER	2058
+NUM_SEQ	5
+LENGTH	169
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	84.5
+FAMILIES	{'Baculoviridae': 4, 'Ascoviridae': 1}
+GENERA	{'Betabaculovirus': 1, 'Ascovirus': 1, 'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|22549416|ref|NP_689189.1|vFam_2058| xe1 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069894|ref|NP_613098.1|vFam_2058| hypothetical protein McnAVgp015 [Mamestra configurata nucleopolyhedrovirus A]
+gi|164519216|ref|YP_001649003.1|vFam_2058| SprT [Helicoverpa armigera granulovirus]
+gi|22549478|ref|NP_689251.1|vFam_2058| xe2 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|116326716|ref|YP_803253.1|vFam_2058| hypothetical protein TNAV2c_gp030 [Trichoplusia ni ascovirus 2c]

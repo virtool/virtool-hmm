@@ -1,0 +1,12 @@
+CLUSTER	3793
+NUM_SEQ	4
+LENGTH	280
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	137.2
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|310831151|ref|YP_003969794.1|vFam_3793| putative eIF-2alpha [Cafeteria roenbergensis virus BV-PW1]
+gi|16753140|ref|NP_445718.1|vFam_3793| hypothetical protein SIFV0055 [Sulfolobus islandicus filamentous virus]
+gi|162329474|ref|YP_001604274.1|vFam_3793| hypothetical protein AFV7_gp50 [Acidianus filamentous virus 7]
+gi|157929316|ref|YP_001496968.1|vFam_3793| hypothetical protein AFV2_gp43 [Acidianus filamentous virus 2]

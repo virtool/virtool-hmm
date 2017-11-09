@@ -1,0 +1,11 @@
+CLUSTER	2517
+NUM_SEQ	3
+LENGTH	122
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	62.22
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Iridovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|15078762|ref|NP_149512.1|vFam_2517| 049L [Invertebrate iridescent virus 6]
+gi|339906104|ref|YP_004732901.1|vFam_2517| hypothetical protein WIV_gp118 [Wiseana iridescent virus]
+gi|527333516|ref|YP_008357300.1|vFam_2517| hypothetical protein IIV22_002R [Invertebrate iridovirus 22]

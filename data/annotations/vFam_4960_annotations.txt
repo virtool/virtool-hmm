@@ -1,0 +1,11 @@
+CLUSTER	4960
+NUM_SEQ	3
+LENGTH	74
+RELATIVE_ENTROPY_PER_POSITION	0.67
+TOTAL_RELATIVE_ENTROPY	49.58
+FAMILIES	{'Nimaviridae': 3}
+GENERA	{'Whispovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|17158158|ref|NP_477576.1|vFam_4960| wsv054 [Shrimp white spot syndrome virus]
+gi|17158575|ref|NP_477996.1|vFam_4960| wsv474 [Shrimp white spot syndrome virus]
+gi|17158309|ref|NP_477727.1|vFam_4960| wsv205 [Shrimp white spot syndrome virus]

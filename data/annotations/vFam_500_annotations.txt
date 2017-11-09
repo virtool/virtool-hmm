@@ -1,0 +1,24 @@
+CLUSTER	500
+NUM_SEQ	16
+LENGTH	187
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	97.24
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40556085|ref|NP_955170.1|vFam_500| CNPV147 conserved hypothetical protein [Canarypox virus]
+gi|9634789|ref|NP_039082.1|vFam_500| hypothetical protein FPV119 [Fowlpox virus]
+gi|41057479|ref|NP_957952.1|vFam_500| ORF043 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183807|ref|YP_003457348.1|vFam_500| hypothetical protein PCPV_gp045 [Pseudocowpox virus]
+gi|571797976|ref|YP_008658475.1|vFam_500| conserved hypothetical pox protein required for murine virulence [Squirrelpox virus]
+gi|345107251|ref|YP_004821416.1|vFam_500| NlpC/P60 superfamily protein [Yoka poxvirus]
+gi|20178460|ref|NP_619881.1|vFam_500| CPXV094 protein [Cowpox virus]
+gi|38229218|ref|NP_938311.1|vFam_500| 56R [Yaba monkey tumor virus]
+gi|12085039|ref|NP_073441.1|vFam_500| 56R protein [Yaba-like disease virus]
+gi|148912933|ref|YP_001293247.1|vFam_500| hypothetical protein GTPV_gp052 [Goatpox virus Pellor]
+gi|18640139|ref|NP_570213.1|vFam_500| SPV053 hypothetical protein [Swinepox virus]
+gi|377829965|ref|YP_005296260.1|vFam_500| unnamed protein product [Cotia virus SPAn232]
+gi|211956336|ref|YP_002302405.1|vFam_500| hypothetical protein DpV84gp065 [Deerpox virus W-1170-84]
+gi|9633860|ref|NP_051940.1|vFam_500| gp051R [Rabbit fibroma virus]
+gi|115531742|ref|YP_784268.1|vFam_500| hypothetical protein CRV078 [Nile crocodilepox virus]
+gi|9628994|ref|NP_044013.1|vFam_500| MC062R [Molluscum contagiosum virus subtype 1]

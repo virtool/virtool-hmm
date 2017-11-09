@@ -1,0 +1,11 @@
+CLUSTER	705
+NUM_SEQ	3
+LENGTH	201
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	104.52
+FAMILIES	{'Herpesviridae': 1, 'Poxviridae': 2}
+GENERA	{'Rhadinovirus': 1, 'Leporipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9629601|ref|NP_044852.1|vFam_705| E3 ubiquitin ligase MIR1 [Murid herpesvirus 4]
+gi|18450237|ref|NP_051866.2|vFam_705| m153R [Myxoma virus]
+gi|9633956|ref|NP_052036.1|vFam_705| gp153R [Rabbit fibroma virus]

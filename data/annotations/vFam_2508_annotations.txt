@@ -1,0 +1,13 @@
+CLUSTER	2508
+NUM_SEQ	5
+LENGTH	176
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	91.52
+FAMILIES	{'Phycodnaviridae': 5}
+GENERA	{'None': 1, 'Phaeovirus': 1, 'Prasinovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|197322405|ref|YP_002154678.1|vFam_2508| hypothetical protein FeldSpV_gp056 [Feldmannia species virus]
+gi|313768144|ref|YP_004061575.1|vFam_2508| hypothetical protein BpV1_145 [Bathycoccus sp. RCC1105 virus BpV1]
+gi|313768359|ref|YP_004062039.1|vFam_2508| hypothetical protein MpV1_156 [Micromonas sp. RCC1109 virus MpV1]
+gi|260666021|ref|YP_003212975.1|vFam_2508| hypothetical protein H665_p152 [Ostreococcus tauri virus 1]
+gi|313844095|ref|YP_004061758.1|vFam_2508| hypothetical protein OlV1_125c [Ostreococcus lucimarinus virus OlV1]

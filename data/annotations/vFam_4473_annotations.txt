@@ -1,0 +1,10 @@
+CLUSTER	4473
+NUM_SEQ	2
+LENGTH	284
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	142.0
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|506498268|ref|YP_008004065.1|vFam_4473| unknown similar to AMEV212 [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964526|ref|NP_064994.1|vFam_4473| hypothetical protein AMV212 [Amsacta moorei entomopoxvirus 'L']

@@ -1,0 +1,15 @@
+CLUSTER	690
+NUM_SEQ	7
+LENGTH	418
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	221.54
+FAMILIES	{'Herpesviridae': 7}
+GENERA	{'Rhadinovirus': 5, 'Lymphocryptovirus': 1, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|9626013|ref|NP_040259.1|vFam_690| unnamed protein product [Saimiriine herpesvirus 2]
+gi|13095634|ref|NP_076549.1|vFam_690| possible post-transcriptional transactivator [Bovine herpesvirus 4]
+gi|139472848|ref|YP_001129410.1|vFam_690| ORF57 [Human herpesvirus 8]
+gi|18653863|ref|NP_570797.1|vFam_690| immediate-early gene product [Macacine herpesvirus 5]
+gi|24943143|ref|NP_733905.1|vFam_690| ORF51 [callitrichine herpesvirus 3]
+gi|209976843|ref|NP_044895.2|vFam_690| multifunctional expression regulator [Murid herpesvirus 4]
+gi|321496608|ref|YP_004207893.1|vFam_690| hypothetical protein RHVP.57 [Rodent herpesvirus Peru]

@@ -1,0 +1,11 @@
+CLUSTER	4824
+NUM_SEQ	3
+LENGTH	148
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	75.48
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977521|ref|YP_003986641.1|vFam_4824| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432717|ref|YP_007354759.1|vFam_4824| hypothetical protein Moumou_00805 [Acanthamoeba polyphaga moumouvirus]
+gi|363540362|ref|YP_004894217.1|vFam_4824| mg166 gene product [Megavirus chiliensis]

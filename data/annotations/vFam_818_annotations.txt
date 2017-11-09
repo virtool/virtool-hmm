@@ -1,0 +1,14 @@
+CLUSTER	818
+NUM_SEQ	6
+LENGTH	378
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	196.56
+FAMILIES	{'Reoviridae': 1, 'Poxviridae': 5}
+GENERA	{'Capripoxvirus': 1, 'Yatapoxvirus': 1, 'Cervidpoxvirus': 1, 'Dinovernavirus': 1, 'Leporipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|83721704|ref|YP_443941.1|vFam_818| VP7 [Aedes pseudoscutellaris reovirus]
+gi|157939658|ref|YP_001497030.1|vFam_818| hypothetical protein TANV_36R [Tanapox virus]
+gi|9633840|ref|NP_051920.1|vFam_818| gp031R [Rabbit fibroma virus]
+gi|9633667|ref|NP_051745.1|vFam_818| m31R [Myxoma virus]
+gi|62637422|ref|YP_227420.1|vFam_818| hypothetical protein DpV83gp044 [Deerpox virus W-848-83]
+gi|15150475|ref|NP_150470.1|vFam_818| LSDV035 RNA polymerase subunit [Lumpy skin disease virus NI-2490]

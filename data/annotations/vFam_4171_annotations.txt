@@ -1,0 +1,11 @@
+CLUSTER	4171
+NUM_SEQ	3
+LENGTH	389
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	198.39
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|526118717|ref|YP_008318620.1|vFam_4171| BTB/POZ domain [Pandoravirus dulcis]
+gi|531037055|ref|YP_008438697.1|vFam_4171| hypothetical protein ps_2295 [Pandoravirus salinus]
+gi|526120030|ref|YP_008319933.1|vFam_4171| hypothetical protein [Pandoravirus dulcis]

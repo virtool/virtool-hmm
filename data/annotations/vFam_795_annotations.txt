@@ -1,0 +1,17 @@
+CLUSTER	795
+NUM_SEQ	9
+LENGTH	59
+RELATIVE_ENTROPY_PER_POSITION	0.90
+TOTAL_RELATIVE_ENTROPY	53.1
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|159341094|ref|YP_001542653.1|vFam_795| putative transcriptional regulator [Acidianus rod-shaped virus 1]
+gi|22122294|ref|NP_666555.1|vFam_795| hypothetical protein SIRV2gp21 [Sulfolobus islandicus rod-shaped virus 2]
+gi|45655876|ref|YP_003735.1|vFam_795| hypothetical protein AFV1_ORF48 [Acidianus filamentous virus 1]
+gi|45655874|ref|YP_003733.1|vFam_795| hypothetical protein AFV1_ORF59b [Acidianus filamentous virus 1]
+gi|75750400|ref|YP_319860.1|vFam_795| hypothetical protein ATV_gp29 [Acidianus two-tailed virus]
+gi|75750398|ref|YP_319858.1|vFam_795| hypothetical protein ATV_gp27 [Acidianus two-tailed virus]
+gi|270281764|ref|YP_003331424.1|vFam_795| hypothetical protein [Acidianus spindle-shaped virus 1]
+gi|295441847|ref|YP_003591087.1|vFam_795| hypothetical protein STIV2_B60 [Sulfolobus turreted icosahedral virus 2]
+gi|48696999|ref|YP_024996.1|vFam_795| hypothetical protein A61 [Sulfolobus turreted icosahedral virus]

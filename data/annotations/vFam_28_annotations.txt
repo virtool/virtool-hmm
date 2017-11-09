@@ -1,0 +1,46 @@
+CLUSTER	28
+NUM_SEQ	38
+LENGTH	332
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	169.32
+FAMILIES	{'Mimiviridae': 2, 'None': 3, 'Iridoviridae': 2, 'Poxviridae': 12}
+GENERA	{'None': 3, 'Betaentomopoxvirus': 12, 'Mimivirus': 2, 'Iridovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|15079025|ref|NP_149776.1|vFam_28| 313L [Invertebrate iridescent virus 6]
+gi|15078718|ref|NP_149469.1|vFam_28| 006L [Invertebrate iridescent virus 6]
+gi|506498019|ref|YP_008003818.1|vFam_28| N1R/p28-like protein [Mythimna separata entomopoxvirus 'L']
+gi|506498023|ref|YP_008003822.1|vFam_28| N1R/p28-like protein [Mythimna separata entomopoxvirus 'L']
+gi|506498270|ref|YP_008004067.1|vFam_28| N1R/p28-like protein [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498024|ref|YP_008003823.1|vFam_28| N1R/p28-like protein [Mythimna separata entomopoxvirus 'L']
+gi|506498021|ref|YP_008003820.1|vFam_28| N1R/p28-like protein [Mythimna separata entomopoxvirus 'L']
+gi|506498590|ref|YP_008004386.1|vFam_28| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506498272|ref|YP_008004069.1|vFam_28| N1R/p28-like protein [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498591|ref|YP_008004387.1|vFam_28| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506498145|ref|YP_008003942.1|vFam_28| N1R/p28-like protein [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498022|ref|YP_008003821.1|vFam_28| N1R/p28-like protein [Mythimna separata entomopoxvirus 'L']
+gi|506498156|ref|YP_008003953.1|vFam_28| N1R/p28-like protein [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497878|ref|YP_008003677.1|vFam_28| N1R/p28-like protein [Mythimna separata entomopoxvirus 'L']
+gi|9964426|ref|NP_064894.1|vFam_28| hypothetical protein AMV112 [Amsacta moorei entomopoxvirus 'L']
+gi|9964338|ref|NP_064806.1|vFam_28| hypothetical protein AMV024 [Amsacta moorei entomopoxvirus 'L']
+gi|506498273|ref|YP_008004070.1|vFam_28| N1R/p28-like protein [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498890|ref|YP_008004684.1|vFam_28| N1R/p28-like protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498892|ref|YP_008004686.1|vFam_28| N1R/p28-like protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498891|ref|YP_008004685.1|vFam_28| N1R/p28-like protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498697|ref|YP_008004491.1|vFam_28| N1R/p28-like protein [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498386|ref|YP_008004182.1|vFam_28| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506498391|ref|YP_008004187.1|vFam_28| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506498390|ref|YP_008004186.1|vFam_28| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506498393|ref|YP_008004189.1|vFam_28| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506498387|ref|YP_008004183.1|vFam_28| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506498389|ref|YP_008004185.1|vFam_28| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506498385|ref|YP_008004181.1|vFam_28| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506498392|ref|YP_008004188.1|vFam_28| N1R/p28-like protein [Choristoneura biennis entomopoxvirus 'L']
+gi|506497954|ref|YP_008003753.1|vFam_28| N1R/p28-like protein [Mythimna separata entomopoxvirus 'L']
+gi|506497880|ref|YP_008003679.1|vFam_28| N1R/p28-like protein [Mythimna separata entomopoxvirus 'L']
+gi|506497955|ref|YP_008003754.1|vFam_28| N1R/p28-like protein [Mythimna separata entomopoxvirus 'L']
+gi|506497879|ref|YP_008003678.1|vFam_28| N1R/p28-like protein [Mythimna separata entomopoxvirus 'L']
+gi|311978293|ref|YP_003987414.1|vFam_28| putative KilA-N domain-containing protein [Acanthamoeba polyphaga mimivirus]
+gi|311978316|ref|YP_003987438.1|vFam_28| putative KilA-N domain-containing protein [Acanthamoeba polyphaga mimivirus]
+gi|448826081|ref|YP_007419012.1|vFam_28| putative KilA-N domain-containing protein [Megavirus lba]
+gi|448825907|ref|YP_007418838.1|vFam_28| putative KilA-N domain-containing protein [Megavirus lba]
+gi|448825067|ref|YP_007417998.1|vFam_28| putative KilA-N domain-containing protein [Megavirus lba]

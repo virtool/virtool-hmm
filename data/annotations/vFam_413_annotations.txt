@@ -1,0 +1,21 @@
+CLUSTER	413
+NUM_SEQ	13
+LENGTH	439
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	232.67
+FAMILIES	{'Togaviridae': 13}
+GENERA	{'Alphavirus': 13}
+FASTA SEQUENCE TITLES:
+gi|25121761|ref|NP_740661.1|vFam_413| E1 protein [Sleeping disease virus]
+gi|29653361|ref|NP_819019.1|vFam_413| E1 protein [Aura virus]
+gi|25121513|ref|NP_740677.1|vFam_413| e-1 structural protein [Sindbis virus]
+gi|269954656|ref|YP_003324599.1|vFam_413| E1 protein [Fort Morgan virus]
+gi|226823177|ref|YP_002802309.1|vFam_413| E1 protein [Highlands J virus]
+gi|29611994|ref|NP_818942.1|vFam_413| E1 protein [Western equine encephalitis virus]
+gi|25140297|ref|NP_741967.1|vFam_413| E1 envelope protein [Venezuelan equine encephalitis virus]
+gi|25121478|ref|NP_740648.1|vFam_413| E1 protein [Eastern equine encephalitis virus]
+gi|29612010|ref|NP_819002.1|vFam_413| E1 protein [Barmah Forest virus]
+gi|25121491|ref|NP_740711.1|vFam_413| E1 protein [O'nyong-nyong virus]
+gi|25121720|ref|NP_740694.1|vFam_413| envelope glycoprotein E1 [Mayaro virus]
+gi|29612016|ref|NP_819008.1|vFam_413| E1 protein [Semliki forest virus]
+gi|25121500|ref|NP_740686.1|vFam_413| E1 protein [Ross River virus]

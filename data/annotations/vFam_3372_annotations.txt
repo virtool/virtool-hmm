@@ -1,0 +1,11 @@
+CLUSTER	3372
+NUM_SEQ	3
+LENGTH	142
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	72.42
+FAMILIES	{'Picornaviridae': 3}
+GENERA	{'Cardiovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|25121609|ref|NP_740406.1|vFam_3372| protein 2A [Encephalomyocarditis virus]
+gi|25121879|ref|NP_740428.1|vFam_3372| protein 2A [Theilovirus]
+gi|189418900|ref|YP_001950226.1|vFam_3372| protein 2A [Human TMEV-like cardiovirus]

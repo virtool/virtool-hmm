@@ -1,0 +1,11 @@
+CLUSTER	5114
+NUM_SEQ	3
+LENGTH	97
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	50.44
+FAMILIES	{'Orthomyxoviridae': 3}
+GENERA	{'Influenzavirus A': 3}
+FASTA SEQUENCE TITLES:
+gi|73852958|ref|YP_308670.1|vFam_5114| matrix protein 2 [Influenza A virus (A/goose/Guangdong/1/1996(H5N1))]
+gi|73919153|ref|YP_308840.1|vFam_5114| matrix protein 2 [Influenza A virus (A/New York/392/2004(H3N2))]
+gi|56583270|ref|NP_040979.2|vFam_5114| matrix protein 2 [Influenza A virus (A/Puerto Rico/8/34(H1N1))]

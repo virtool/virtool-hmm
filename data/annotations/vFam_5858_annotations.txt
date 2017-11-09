@@ -1,0 +1,10 @@
+CLUSTER	5858
+NUM_SEQ	2
+LENGTH	271
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	140.92
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|360086618|ref|YP_004940298.1|vFam_5858| membrane protein S19 [Saimiriine herpesvirus 3]
+gi|360086617|ref|YP_004940297.1|vFam_5858| membrane protein S18 [Saimiriine herpesvirus 3]

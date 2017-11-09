@@ -1,0 +1,20 @@
+CLUSTER	476
+NUM_SEQ	12
+LENGTH	212
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	110.24
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Varicellovirus': 3, 'Iltovirus': 2, 'Mardivirus': 3, 'Simplexvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|148828634|ref|YP_182381.2|vFam_476| tegument protein UL14 [Gallid herpesvirus 1]
+gi|38638243|ref|NP_944426.1|vFam_476| tegument protein UL14 [Psittacid herpesvirus 1]
+gi|12084842|ref|NP_073307.1|vFam_476| tegument protein UL14 [Meleagrid herpesvirus 1]
+gi|125745065|ref|YP_001033942.1|vFam_476| tegument protein UL14 [Gallid herpesvirus 2]
+gi|10834883|ref|NP_066844.1|vFam_476| tegument protein UL14 [Gallid herpesvirus 3]
+gi|312162841|ref|YP_003933826.1|vFam_476| tegument protein UL14 [Saimiriine herpesvirus 1]
+gi|83722582|ref|YP_443860.1|vFam_476| tegument protein UL14 [Papiine herpesvirus 2]
+gi|9629394|ref|NP_044615.1|vFam_476| tegument protein UL14 [Human herpesvirus 1]
+gi|9629283|ref|NP_044483.1|vFam_476| tegument protein UL14 [Human herpesvirus 2]
+gi|296316047|ref|YP_003662511.1|vFam_476| tegument protein UL14 [Bovine herpesvirus 5]
+gi|13242439|ref|NP_077460.1|vFam_476| tegument protein UL14 [Cercopithecine herpesvirus 9]
+gi|9625920|ref|NP_040168.1|vFam_476| tegument protein UL14 [Human herpesvirus 3]

@@ -1,0 +1,23 @@
+CLUSTER	401
+NUM_SEQ	15
+LENGTH	896
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	474.88
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 1, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531795|ref|YP_784321.1|vFam_401| virion core protein P4a [Nile crocodilepox virus]
+gi|40556185|ref|NP_955270.1|vFam_401| CNPV247 virion core protein P4a [Canarypox virus]
+gi|9634844|ref|NP_039137.1|vFam_401| Virion core protein P4a [Fowlpox virus]
+gi|41057522|ref|NP_957995.1|vFam_401| ORF086 virion core protein P4a precursor [Bovine papular stomatitis virus]
+gi|289183851|ref|YP_003457392.1|vFam_401| virion core protein P4a precursor [Pseudocowpox virus]
+gi|571798024|ref|YP_008658523.1|vFam_401| precursor of major core protein 4a, complexes with p4B [Squirrelpox virus]
+gi|9629045|ref|NP_044064.1|vFam_401| MC113L [Molluscum contagiosum virus subtype 1]
+gi|345107300|ref|YP_004821465.1|vFam_401| precursor p4a of essential virion protein 4a [Yoka poxvirus]
+gi|20178504|ref|NP_619925.1|vFam_401| CPXV142 protein [Cowpox virus]
+gi|9633909|ref|NP_051988.1|vFam_401| gp099L [Rabbit fibroma virus]
+gi|377830006|ref|YP_005296306.1|vFam_401| unnamed protein product [Cotia virus SPAn232]
+gi|157939724|ref|YP_001497096.1|vFam_401| core protein P4a [Tanapox virus]
+gi|148912978|ref|YP_001293292.1|vFam_401| hypothetical protein GTPV_gp097 [Goatpox virus Pellor]
+gi|211956381|ref|YP_002302450.1|vFam_401| virion core protein P4a [Deerpox virus W-1170-84]
+gi|18640184|ref|NP_570258.1|vFam_401| SPV098 putative virion core protein P4a [Swinepox virus]

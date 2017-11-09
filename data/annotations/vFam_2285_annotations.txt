@@ -1,0 +1,13 @@
+CLUSTER	2285
+NUM_SEQ	5
+LENGTH	255
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	132.6
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|96979787|ref|YP_610988.1|vFam_2285| hypothetical protein APNV_p019 [Antheraea pernyi nucleopolyhedrovirus]
+gi|86355538|ref|YP_473206.1|vFam_2285| ORF18 peptide [Hyphantria cunea nucleopolyhedrovirus]
+gi|9630073|ref|NP_046291.1|vFam_2285| hypothetical protein OpmnVgp135 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|571031215|ref|YP_008992111.1|vFam_2285| hypothetical protein chmu019 [Choristoneura murinana alphabaculovirus]
+gi|529153332|ref|YP_008378372.1|vFam_2285| hypothetical protein [Choristoneura rosaceana alphabaculovirus]

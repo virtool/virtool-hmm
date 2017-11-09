@@ -1,0 +1,10 @@
+CLUSTER	6442
+NUM_SEQ	2
+LENGTH	202
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	105.04
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159354|ref|YP_002321397.1|vFam_6442| GrBNV_gp61-like protein [Oryctes rhinoceros virus]
+gi|134303459|ref|YP_001111328.1|vFam_6442| hypothetical protein GrBNV_gp61 [Gryllus bimaculatus nudivirus]

@@ -1,0 +1,24 @@
+CLUSTER	300
+NUM_SEQ	16
+LENGTH	164
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	83.64
+FAMILIES	{'Baculoviridae': 15}
+GENERA	{'Alphabaculovirus': 15}
+FASTA SEQUENCE TITLES:
+gi|15617501|ref|NP_258297.1|vFam_300| LEF-6 [Spodoptera litura nucleopolyhedrovirus]
+gi|402502215|ref|YP_006607873.1|vFam_300| late expression factor 6 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|209401077|ref|YP_002273946.1|vFam_300| late expression factor 6 [Helicoverpa armigera NPV NNg1]
+gi|209978803|ref|YP_002300546.1|vFam_300| LEF-6 [Adoxophyes orana nucleopolyhedrovirus]
+gi|29567114|ref|NP_818676.1|vFam_300| late expression factor 6 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|74229706|ref|YP_308910.1|vFam_300| late expression factor 6 (lef6) [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304157|ref|YP_249625.1|vFam_300| LEF-6 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|125860250|ref|YP_001036420.1|vFam_300| late expression factor 6 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401525|ref|YP_002332829.1|vFam_300| LEF-6 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634348|ref|NP_037887.1|vFam_300| ORF127 lef6 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|20070035|ref|NP_613239.1|vFam_300| LEF-6 [Mamestra configurata nucleopolyhedrovirus A]
+gi|209171030|ref|YP_002268177.1|vFam_300| agip147 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592857|ref|YP_529810.1|vFam_300| LEF-6 [Agrotis segetum nucleopolyhedrovirus]
+gi|113195420|ref|YP_717555.1|vFam_300| LEF-6 [Clanis bilineata nucleopolyhedrovirus]
+gi|292397708|ref|YP_003517774.1|vFam_300| LEF-6 [Lymantria xylina MNPV]
+gi|9631004|ref|NP_047674.1|vFam_300| late expression factor 6 [Lymantria dispar multiple nucleopolyhedrovirus]

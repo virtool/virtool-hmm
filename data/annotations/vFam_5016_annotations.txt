@@ -1,0 +1,10 @@
+CLUSTER	5016
+NUM_SEQ	2
+LENGTH	89
+RELATIVE_ENTROPY_PER_POSITION	0.57
+TOTAL_RELATIVE_ENTROPY	50.73
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|56693003|ref|YP_164347.1|vFam_5016| hypothetical protein TTSV1_gp06 [Thermoproteus tenax spherical virus 1]
+gi|47131163|ref|YP_015529.1|vFam_5016| hypothetical protein PyrSV_gp08 [Pyrobaculum spherical virus]

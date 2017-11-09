@@ -1,0 +1,12 @@
+CLUSTER	3348
+NUM_SEQ	4
+LENGTH	773
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	409.69
+FAMILIES	{'Orthomyxoviridae': 4}
+GENERA	{'Influenzavirus A': 1, 'Thogotovirus': 1, 'Influenzavirus C': 1, 'Influenzavirus B': 1}
+FASTA SEQUENCE TITLES:
+gi|56403989|ref|YP_145810.1|vFam_3348| PB2 polymerase subunit [Thogoto virus]
+gi|52630350|ref|YP_089652.1|vFam_3348| polymerase 2 [Influenza C virus (C/Ann Arbor/1/50)]
+gi|73919060|ref|YP_308849.1|vFam_3348| polymerase PB2 [Influenza A virus (A/New York/392/2004(H3N2))]
+gi|8486149|ref|NP_056658.1|vFam_3348| polymerase [Influenza B virus]

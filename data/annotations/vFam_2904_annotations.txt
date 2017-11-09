@@ -1,0 +1,11 @@
+CLUSTER	2904
+NUM_SEQ	3
+LENGTH	625
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	318.75
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|526119784|ref|YP_008319687.1|vFam_2904| F-box domain [Pandoravirus dulcis]
+gi|531036492|ref|YP_008438129.1|vFam_2904| F-box domain [Pandoravirus salinus]
+gi|526119764|ref|YP_008319667.1|vFam_2904| F-box domain [Pandoravirus dulcis]

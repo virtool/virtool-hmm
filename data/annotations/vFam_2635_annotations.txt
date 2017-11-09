@@ -1,0 +1,11 @@
+CLUSTER	2635
+NUM_SEQ	3
+LENGTH	161
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	80.5
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Capripoxvirus': 1, 'Leporipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|15150565|ref|NP_150560.1|vFam_2635| LSDV126 putative EEV glycoprotein [Lumpy skin disease virus NI-2490]
+gi|9633935|ref|NP_052014.1|vFam_2635| gp125R [Rabbit fibroma virus]
+gi|9633761|ref|NP_051839.1|vFam_2635| m125R [Myxoma virus]

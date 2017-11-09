@@ -1,0 +1,11 @@
+CLUSTER	2706
+NUM_SEQ	3
+LENGTH	409
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	208.59
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|441432723|ref|YP_007354765.1|vFam_2706| hypothetical protein Moumou_00811 [Acanthamoeba polyphaga moumouvirus]
+gi|448825034|ref|YP_007417965.1|vFam_2706| hypothetical protein LBA_00067 [Megavirus lba]
+gi|363540549|ref|YP_004895057.1|vFam_2706| mg1006 gene product [Megavirus chiliensis]

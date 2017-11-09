@@ -1,0 +1,10 @@
+CLUSTER	6454
+NUM_SEQ	2
+LENGTH	146
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	73.0
+FAMILIES	{'Reoviridae': 2}
+GENERA	{'Aquareovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|182682789|ref|YP_001837100.1|vFam_6454| NS16 [American grass carp reovirus]
+gi|38147313|ref|NP_938066.1|vFam_6454| non-structural protein NS5 [Aquareovirus C]

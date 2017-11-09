@@ -1,0 +1,11 @@
+CLUSTER	3763
+NUM_SEQ	3
+LENGTH	124
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	60.76
+FAMILIES	{'None': 1, 'Mimiviridae': 1, 'Nimaviridae': 1}
+GENERA	{'None': 1, 'Mimivirus': 1, 'Whispovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|17158162|ref|NP_477580.1|vFam_3763| wsv058 [Shrimp white spot syndrome virus]
+gi|448825771|ref|YP_007418702.1|vFam_3763| putative deoxyribodipyrimidine photolyase-related protein [Megavirus lba]
+gi|311978265|ref|YP_003987386.1|vFam_3763| putative deoxyribodipyrimidine photolyase-related protein [Acanthamoeba polyphaga mimivirus]

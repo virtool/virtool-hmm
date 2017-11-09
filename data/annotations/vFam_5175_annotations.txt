@@ -1,0 +1,10 @@
+CLUSTER	5175
+NUM_SEQ	2
+LENGTH	346
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	176.46
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159288|ref|YP_002321331.1|vFam_5175| p47 [Oryctes rhinoceros virus]
+gi|134303467|ref|YP_001111336.1|vFam_5175| hypothetical protein GrBNV_gp69 [Gryllus bimaculatus nudivirus]

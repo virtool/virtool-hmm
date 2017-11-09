@@ -1,0 +1,14 @@
+CLUSTER	1642
+NUM_SEQ	6
+LENGTH	69
+RELATIVE_ENTROPY_PER_POSITION	0.77
+TOTAL_RELATIVE_ENTROPY	53.13
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Betabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|556549057|ref|YP_008719971.1|vFam_1642| hypothetical protein CaLGV023 [Clostera anastomosis granulovirus]
+gi|46309410|ref|YP_006300.1|vFam_1642| ORF44 [Agrotis segetum granulovirus]
+gi|32698580|ref|NP_872495.1|vFam_1642| ORF_41 [Adoxophyes orana granulovirus]
+gi|33622246|ref|NP_891893.1|vFam_1642| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|288804680|ref|YP_003429365.1|vFam_1642| PrGVORF41 [Pieris rapae granulovirus]
+gi|21686710|ref|NP_663210.1|vFam_1642| hypothetical protein [Phthorimaea operculella granulovirus]

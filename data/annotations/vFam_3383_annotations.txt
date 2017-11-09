@@ -1,0 +1,10 @@
+CLUSTER	3383
+NUM_SEQ	2
+LENGTH	153
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	78.03
+FAMILIES	{'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|526118997|ref|YP_008318900.1|vFam_3383| hypothetical protein [Pandoravirus dulcis]
+gi|506498594|ref|YP_008004390.1|vFam_3383| hypothetical protein CHBEV_320 [Choristoneura biennis entomopoxvirus 'L']

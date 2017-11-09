@@ -1,0 +1,13 @@
+CLUSTER	1371
+NUM_SEQ	5
+LENGTH	360
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	187.2
+FAMILIES	{'None': 2, 'Mimiviridae': 3}
+GENERA	{'None': 4, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825207|ref|YP_007418138.1|vFam_1371| hypothetical protein LBA_00242 [Megavirus lba]
+gi|311977621|ref|YP_003986741.1|vFam_1371| uncharacterized HNH endonuclease [Acanthamoeba polyphaga mimivirus]
+gi|441432205|ref|YP_007354247.1|vFam_1371| putative intron HNH endonuclease [Acanthamoeba polyphaga moumouvirus]
+gi|448825290|ref|YP_007418222.1|vFam_1371| putative intron HNH endonuclease [Megavirus lba]
+gi|441432203|ref|YP_007354246.1|vFam_1371| putative intron HNH endonuclease [Acanthamoeba polyphaga moumouvirus]

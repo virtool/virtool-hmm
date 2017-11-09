@@ -1,0 +1,12 @@
+CLUSTER	2803
+NUM_SEQ	4
+LENGTH	354
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	184.08
+FAMILIES	{'None': 2, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831448|ref|YP_003970091.1|vFam_2803| putative family X DNA polymerase [Cafeteria roenbergensis virus BV-PW1]
+gi|448825563|ref|YP_007418494.1|vFam_2803| putative DNA polymerase family X protein [Megavirus lba]
+gi|441432439|ref|YP_007354481.1|vFam_2803| DNA polymerase family X [Acanthamoeba polyphaga moumouvirus]
+gi|311977701|ref|YP_003986821.1|vFam_2803| probable DNA polymerase family X [Acanthamoeba polyphaga mimivirus]

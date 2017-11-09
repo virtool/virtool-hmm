@@ -1,0 +1,12 @@
+CLUSTER	2149
+NUM_SEQ	4
+LENGTH	190
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	96.9
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'Avipoxvirus': 4}
+FASTA SEQUENCE TITLES:
+gi|40556240|ref|NP_955325.1|vFam_2149| CNPV302 conserved hypothetical protein [Canarypox virus]
+gi|9634899|ref|NP_039192.1|vFam_2149| hypothetical protein FPV229 [Fowlpox virus]
+gi|40555950|ref|NP_955035.1|vFam_2149| CNPV012 conserved hypothetical protein [Canarypox virus]
+gi|9634891|ref|NP_039184.1|vFam_2149| vaccinia A47L homolog [Fowlpox virus]

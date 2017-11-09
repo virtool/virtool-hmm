@@ -1,0 +1,11 @@
+CLUSTER	4914
+NUM_SEQ	3
+LENGTH	102
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	53.04
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977800|ref|YP_003986920.1|vFam_4914| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825440|ref|YP_007418371.1|vFam_4914| hypothetical protein LBA_00477 [Megavirus lba]
+gi|441432333|ref|YP_007354375.1|vFam_4914| hypothetical protein Moumou_00403 [Acanthamoeba polyphaga moumouvirus]

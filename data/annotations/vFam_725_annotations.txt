@@ -1,0 +1,17 @@
+CLUSTER	725
+NUM_SEQ	9
+LENGTH	1132
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	588.64
+FAMILIES	{'Bunyaviridae': 9}
+GENERA	{'Tospovirus': 9}
+FASTA SEQUENCE TITLES:
+gi|113200754|ref|YP_717935.1|vFam_725| glycoprotein precursor [Melon yellow spot virus]
+gi|170676273|ref|YP_001740046.1|vFam_725| glycoprotein [Tomato zonate spot virus]
+gi|113200762|ref|YP_717926.1|vFam_725| glycoprotein precursor G1/G2 [Capsicum chlorosis virus]
+gi|20564190|ref|NP_620767.1|vFam_725| glycoprotein precursor [Watermelon silver mottle virus]
+gi|20153372|ref|NP_619703.1|vFam_725| glycoprotein precursor [Groundnut bud necrosis virus]
+gi|391738076|ref|YP_006468902.1|vFam_725| Gn/Gc glycoprotein precursor [Bean necrotic mosaic virus]
+gi|20153335|ref|NP_619691.1|vFam_725| G2-G1 polyprotein [Impatiens necrotic spot virus]
+gi|332290592|ref|YP_004421859.1|vFam_725| glycoprotein precursor protein [Groundnut ringspot and Tomato chlorotic spot virus reassortant]
+gi|9632387|ref|NP_049359.1|vFam_725| G1 [Tomato spotted wilt virus]

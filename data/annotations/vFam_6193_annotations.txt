@@ -1,0 +1,10 @@
+CLUSTER	6193
+NUM_SEQ	2
+LENGTH	143
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	74.36
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825030|ref|YP_007417961.1|vFam_6193| phosphatidylethanolamine-binding protein-like protein [Megavirus lba]
+gi|311978044|ref|YP_003987164.1|vFam_6193| phosphatidylethanolamine-binding protein-like protein [Acanthamoeba polyphaga mimivirus]

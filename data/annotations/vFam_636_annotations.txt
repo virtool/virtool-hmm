@@ -1,0 +1,21 @@
+CLUSTER	636
+NUM_SEQ	13
+LENGTH	227
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	115.77
+FAMILIES	{'Ascoviridae': 3, 'Alloherpesviridae': 4, 'Phycodnaviridae': 2, 'Poxviridae': 4}
+GENERA	{'Prymnesiovirus': 2, 'Ictalurivirus': 1, 'Ascovirus': 3, 'Avipoxvirus': 4, 'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|40556151|ref|NP_955236.1|vFam_636| CNPV213 deoxycytidine kinase-like protein [Canarypox virus]
+gi|9626904|ref|NP_041174.1|vFam_636| ORF5 [Ictalurid herpesvirus 1]
+gi|508181949|ref|YP_008052468.1|vFam_636| deoxynucleoside kinase [Phaeocystis globosa virus]
+gi|508181942|ref|YP_008052461.1|vFam_636| deoxynucleoside kinase [Phaeocystis globosa virus]
+gi|422933936|ref|YP_007003851.1|vFam_636| deoxyguanosine kinase [Cyprinid herpesvirus 2]
+gi|422933566|ref|YP_007003690.1|vFam_636| deoxyguanosine kinase [Cyprinid herpesvirus 1]
+gi|131840049|ref|YP_001096058.1|vFam_636| unnamed protein product [Cyprinid herpesvirus 3]
+gi|9634729|ref|NP_039022.1|vFam_636| Deoxycytidine kinase [Fowlpox virus]
+gi|40556137|ref|NP_955222.1|vFam_636| CNPV199 deoxycytidine kinase-like protein [Canarypox virus]
+gi|9634821|ref|NP_039114.1|vFam_636| Deoxycytidine kinase [Fowlpox virus]
+gi|116326838|ref|YP_803376.1|vFam_636| thymidine kinase [Trichoplusia ni ascovirus 2c]
+gi|134287211|ref|YP_001110907.1|vFam_636| thymidine kinase [Heliothis virescens ascovirus 3e]
+gi|115298542|ref|YP_762395.1|vFam_636| 24.5 kDa Thymidine kinase [Spodoptera frugiperda ascovirus 1a]

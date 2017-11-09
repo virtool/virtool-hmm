@@ -1,0 +1,27 @@
+CLUSTER	171
+NUM_SEQ	19
+LENGTH	343
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	174.93
+FAMILIES	{'Baculoviridae': 18}
+GENERA	{'Alphabaculovirus': 18}
+FASTA SEQUENCE TITLES:
+gi|114679905|ref|YP_758355.1|vFam_171| bro-e [Leucania separata nucleopolyhedrovirus]
+gi|118197570|ref|YP_874282.1|vFam_171| Bro-b [Ectropis obliqua nucleopolyhedrovirus]
+gi|209170995|ref|YP_002268142.1|vFam_171| BRO-D [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|215401346|ref|YP_002332650.1|vFam_171| BRO-E [Helicoverpa armigera multiple nucleopolyhedrovirus]
+gi|20070001|ref|NP_613205.1|vFam_171| BRO-f [Mamestra configurata nucleopolyhedrovirus A]
+gi|215401542|ref|YP_002332770.1|vFam_171| BRO-1 [Spodoptera litura nucleopolyhedrovirus II]
+gi|125860191|ref|YP_001036361.1|vFam_171| BRO [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|90592840|ref|YP_529793.1|vFam_171| BRO-D [Agrotis segetum nucleopolyhedrovirus]
+gi|116326076|ref|YP_803401.1|vFam_171| baculovirus repeated ORF-b [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|438000309|ref|YP_007250414.1|vFam_171| bro-a protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|114680055|ref|YP_758468.1|vFam_171| baculovirus repeated ORF-d [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|9630955|ref|NP_047552.1|vFam_171| BRO-d [Bombyx mori nucleopolyhedrovirus]
+gi|209978856|ref|YP_002300599.1|vFam_171| BRO B I [Adoxophyes orana nucleopolyhedrovirus]
+gi|292397820|ref|YP_003517886.1|vFam_171| BRO-L [Lymantria xylina MNPV]
+gi|86355664|ref|YP_473332.1|vFam_171| BRO-e [Hyphantria cunea nucleopolyhedrovirus]
+gi|22549491|ref|NP_689264.1|vFam_171| bro-d gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069969|ref|NP_613173.1|vFam_171| BRO-e [Mamestra configurata nucleopolyhedrovirus A]
+gi|209170967|ref|YP_002268113.1|vFam_171| BRO-C [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592794|ref|YP_529747.1|vFam_171| BRO-B [Agrotis segetum nucleopolyhedrovirus]

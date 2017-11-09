@@ -1,0 +1,10 @@
+CLUSTER	5223
+NUM_SEQ	2
+LENGTH	466
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	242.32
+FAMILIES	{'Arteriviridae': 2}
+GENERA	{'Arterivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|25121661|ref|NP_740603.1|vFam_5223| nsp10 (MB, NTPase, HEL) [Porcine reproductive and respiratory syndrome virus]
+gi|23683329|ref|NP_705591.1|vFam_5223| nsp10 (MB, NTPase/HEL) [Equine arteritis virus]

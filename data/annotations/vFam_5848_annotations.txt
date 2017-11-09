@@ -1,0 +1,10 @@
+CLUSTER	5848
+NUM_SEQ	2
+LENGTH	259
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	132.09
+FAMILIES	{'None': 1, 'Nimaviridae': 1}
+GENERA	{'None': 1, 'Whispovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|17158508|ref|NP_477928.1|vFam_5848| wsv406 [Shrimp white spot syndrome virus]
+gi|213159337|ref|YP_002321380.1|vFam_5848| FIC protein-like protein [Oryctes rhinoceros virus]

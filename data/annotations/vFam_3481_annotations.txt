@@ -1,0 +1,12 @@
+CLUSTER	3481
+NUM_SEQ	4
+LENGTH	296
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	153.92
+FAMILIES	{'Potyviridae': 4}
+GENERA	{'None': 1, 'Poacevirus': 3}
+FASTA SEQUENCE TITLES:
+gi|410493743|ref|YP_006908982.1|vFam_3481| P3 [Rose yellow mosaic virus]
+gi|404184191|ref|YP_006666640.1|vFam_3481| P3 [Caladenia virus A]
+gi|390442745|ref|YP_006423936.1|vFam_3481| P3 protein [Sugarcane streak mosaic virus]
+gi|239828773|ref|YP_002956090.1|vFam_3481| P3 protein [Triticum mosaic virus]

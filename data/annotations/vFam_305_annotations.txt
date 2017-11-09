@@ -1,0 +1,20 @@
+CLUSTER	305
+NUM_SEQ	12
+LENGTH	450
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	234.0
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Varicellovirus': 5, 'Iltovirus': 1, 'Mardivirus': 3, 'Simplexvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|38638231|ref|NP_944414.1|vFam_305| tegument host shutoff protein [Psittacid herpesvirus 1]
+gi|56694764|ref|YP_164484.1|vFam_305| tegument host shutoff protein [Cercopithecine herpesvirus 2]
+gi|9629422|ref|NP_044643.1|vFam_305| tegument host shutoff protein [Human herpesvirus 1]
+gi|9629311|ref|NP_044511.1|vFam_305| tegument host shutoff protein [Human herpesvirus 2]
+gi|155042201|ref|NP_077432.2|vFam_305| tegument host shutoff protein [Cercopithecine herpesvirus 9]
+gi|9625892|ref|NP_040140.1|vFam_305| tegument host shutoff protein [Human herpesvirus 3]
+gi|12084870|ref|NP_073335.1|vFam_305| tegument host shutoff protein [Meleagrid herpesvirus 1]
+gi|125745093|ref|YP_001033970.1|vFam_305| tegument host shutoff protein [Gallid herpesvirus 2]
+gi|10834912|ref|NP_066873.1|vFam_305| tegument host shutoff protein [Gallid herpesvirus 3]
+gi|9629833|ref|NP_045317.1|vFam_305| tegument host shutoff protein [Bovine herpesvirus 1]
+gi|270339458|ref|YP_003331538.1|vFam_305| tegument host shutoff protein [Felid herpesvirus 1]
+gi|9629743|ref|NP_045236.1|vFam_305| tegument host shutoff protein [Equid herpesvirus 4]

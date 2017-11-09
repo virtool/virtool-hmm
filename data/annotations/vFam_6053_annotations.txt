@@ -1,0 +1,10 @@
+CLUSTER	6053
+NUM_SEQ	2
+LENGTH	213
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	108.63
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|270281811|ref|YP_003331477.1|vFam_6053| hypothetical protein SSSV6_gp27 [Sulfolobus spindle-shaped virus 6]
+gi|270281777|ref|YP_003331437.1|vFam_6053| hypothetical protein [Acidianus spindle-shaped virus 1]

@@ -1,0 +1,10 @@
+CLUSTER	3998
+NUM_SEQ	2
+LENGTH	364
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	189.28
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Cervidpoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|211956440|ref|YP_002302510.1|vFam_3998| serpin-like protein [Deerpox virus W-1170-84]
+gi|62637547|ref|YP_227545.1|vFam_3998| Serpin-like protein [Deerpox virus W-848-83]

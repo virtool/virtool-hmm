@@ -1,0 +1,13 @@
+CLUSTER	2024
+NUM_SEQ	5
+LENGTH	62
+RELATIVE_ENTROPY_PER_POSITION	0.85
+TOTAL_RELATIVE_ENTROPY	52.7
+FAMILIES	{'Baculoviridae': 4}
+GENERA	{'Betabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|46309333|ref|YP_006223.1|vFam_2024| ORF121 [Agrotis segetum granulovirus]
+gi|556549147|ref|YP_008720061.1|vFam_2024| hypothetical protein CaLGV114 [Clostera anastomosis granulovirus]
+gi|14602370|ref|NP_148917.1|vFam_2024| ORF133 similar to XcGV ORF170 [Cydia pomonella granulovirus]
+gi|109255380|ref|YP_654529.1|vFam_2024| hypothetical protein COGV_gp108 [Choristoneura occidentalis granulovirus]
+gi|288804751|ref|YP_003429436.1|vFam_2024| PrGVORF112 [Pieris rapae granulovirus]

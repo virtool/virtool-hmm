@@ -1,0 +1,10 @@
+CLUSTER	4154
+NUM_SEQ	2
+LENGTH	323
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	167.96
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|531037121|ref|YP_008438763.1|vFam_4154| exonuclease-Endonuclease-Phosphatase [Pandoravirus salinus]
+gi|448825953|ref|YP_007418884.1|vFam_4154| hypothetical protein LBA_00990 [Megavirus lba]

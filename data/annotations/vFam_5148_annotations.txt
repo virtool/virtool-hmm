@@ -1,0 +1,10 @@
+CLUSTER	5148
+NUM_SEQ	2
+LENGTH	283
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	144.33
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035508|ref|YP_008437139.1|vFam_5148| ERV/alR sulphydryl oxidase motif-containing [Pandoravirus salinus]
+gi|526119251|ref|YP_008319154.1|vFam_5148| erv/alr sulphydryl oxidase motif-containing [Pandoravirus dulcis]

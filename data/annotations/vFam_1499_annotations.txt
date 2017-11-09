@@ -1,0 +1,13 @@
+CLUSTER	1499
+NUM_SEQ	5
+LENGTH	85
+RELATIVE_ENTROPY_PER_POSITION	0.60
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{'Coronaviridae': 4, 'Poxviridae': 1}
+GENERA	{'None': 1, 'Betacoronavirus': 4}
+FASTA SEQUENCE TITLES:
+gi|9631410|ref|NP_048318.1|vFam_1499| ORF MSV246 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|126030136|ref|YP_001039973.1|vFam_1499| small membrane protein [Bat coronavirus HKU9]
+gi|56807328|ref|YP_173240.1|vFam_1499| small membrane protein [Human coronavirus HKU1]
+gi|60115398|ref|YP_209236.1|vFam_1499| envelop protein (E) [Murine hepatitis virus strain JHM]
+gi|394935456|ref|YP_005454247.1|vFam_1499| E gene product [Rabbit coronavirus HKU14]

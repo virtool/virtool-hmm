@@ -1,0 +1,10 @@
+CLUSTER	6471
+NUM_SEQ	2
+LENGTH	119
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	61.88
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|289183895|ref|YP_003457436.1|vFam_6471| hypothetical protein PCPV_gp133 [Pseudocowpox virus]
+gi|41057068|ref|NP_957782.1|vFam_6471| ORF002 hypothetical protein [Orf virus]

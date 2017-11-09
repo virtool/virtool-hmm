@@ -1,0 +1,11 @@
+CLUSTER	752
+NUM_SEQ	3
+LENGTH	389
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	198.39
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'None': 1, 'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|14251022|ref|NP_116384.1|vFam_752| T34 [Tupaiid herpesvirus 1]
+gi|52139220|ref|YP_081493.1|vFam_752| protein UL34 [Human herpesvirus 5]
+gi|20026637|ref|NP_612678.1|vFam_752| protein UL34 [Panine herpesvirus 2]

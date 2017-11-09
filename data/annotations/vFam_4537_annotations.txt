@@ -1,0 +1,11 @@
+CLUSTER	4537
+NUM_SEQ	3
+LENGTH	217
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	110.67
+FAMILIES	{'Rhabdoviridae': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|116536724|ref|YP_802939.1|vFam_4537| M protein [Siniperca chuatsi rhabdovirus]
+gi|552558703|ref|YP_008686605.1|vFam_4537| matrix protein [Eel virus European X]
+gi|471236973|ref|YP_007641365.1|vFam_4537| matrix protein [Perch rhabdovirus]

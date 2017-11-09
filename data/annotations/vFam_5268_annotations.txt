@@ -1,0 +1,10 @@
+CLUSTER	5268
+NUM_SEQ	2
+LENGTH	205
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	106.6
+FAMILIES	{'Closteroviridae': 2}
+GENERA	{'Closterovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|77118930|ref|YP_337919.1|vFam_5268| 24 kDa protein [Grapevine leafroll-associated virus 2]
+gi|30018245|ref|NP_835252.1|vFam_5268| p24 protein [Grapevine rootstock stem lesion associated virus]

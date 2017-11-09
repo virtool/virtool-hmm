@@ -1,0 +1,10 @@
+CLUSTER	2137
+NUM_SEQ	2
+LENGTH	122
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	63.44
+FAMILIES	{'Phycodnaviridae': 1, 'Poxviridae': 1}
+GENERA	{'Orthopoxvirus': 1, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|18640401|ref|NP_570557.1|vFam_2137| CMLV167 [Camelpox virus]
+gi|9632158|ref|NP_048984.1|vFam_2137| hypothetical protein [Paramecium bursaria Chlorella virus 1]

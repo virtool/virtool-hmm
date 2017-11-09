@@ -1,0 +1,12 @@
+CLUSTER	1476
+NUM_SEQ	4
+LENGTH	293
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	149.43
+FAMILIES	{'Picornaviridae': 2}
+GENERA	{'Parechovirus': 1, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|397776129|ref|YP_006546261.1|vFam_1476| VP1 [Swine pasivirus 1]
+gi|543145311|ref|YP_008549602.1|vFam_1476| 1D [Eel picornavirus 1]
+gi|512965472|ref|YP_008119837.1|vFam_1476| VP1 protein [Sebokele virus 1]
+gi|23968327|ref|NP_705876.1|vFam_1476| Capsid protein VP1 [Ljungan virus]

@@ -1,0 +1,14 @@
+CLUSTER	1351
+NUM_SEQ	6
+LENGTH	100
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	50.0
+FAMILIES	{'Papillomaviridae': 6}
+GENERA	{'None': 1, 'Alphapapillomavirus': 5}
+FASTA SEQUENCE TITLES:
+gi|386576355|ref|YP_006202692.1|vFam_1351| E4 gene product, partial [Papio hamadryas papillomavirus type 1]
+gi|9626074|ref|NP_040314.1|vFam_1351| E4 protein [Human papillomavirus - 18]
+gi|317054709|ref|NP_043448.2|vFam_1351| E4 protein [Alphapapillomavirus 3]
+gi|22138127|ref|NP_671507.1|vFam_1351| putative E4 protein [Human papillomavirus type 90]
+gi|9626058|ref|NP_040300.1|vFam_1351| E4 protein [Human papillomavirus type 6b]
+gi|9627102|ref|NP_041329.1|vFam_1351| hypothetical protein HpV16gp5 [Human papillomavirus type 16]

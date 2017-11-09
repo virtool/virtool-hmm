@@ -1,0 +1,23 @@
+CLUSTER	494
+NUM_SEQ	15
+LENGTH	163
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	84.76
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 1, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531779|ref|YP_784305.1|vFam_494| RNA polymerase subunit RPO18 [Nile crocodilepox virus]
+gi|40556016|ref|NP_955101.1|vFam_494| CNPV078 RNA polymerase subunit RPO18 [Canarypox virus]
+gi|9634726|ref|NP_039019.1|vFam_494| RNA polymerase subunit [Fowlpox virus]
+gi|41057506|ref|NP_957979.1|vFam_494| ORF070 RNA polymerase subunit RPO18 [Bovine papular stomatitis virus]
+gi|41057133|ref|NP_957847.1|vFam_494| ORF070 RNA polymerase subunit RPO18 [Orf virus]
+gi|9629029|ref|NP_044048.1|vFam_494| MC097R [Molluscum contagiosum virus subtype 1]
+gi|571798005|ref|YP_008658504.1|vFam_494| DNA-dependent RNA polymerase subunit rpo18 [Squirrelpox virus]
+gi|113195291|ref|YP_717421.1|vFam_494| DNA-dependent RNA polymerase subunit rpo18 [Taterapox virus]
+gi|345107281|ref|YP_004821446.1|vFam_494| DNA-dependent RNA polymerase subunit rpo18 [Yoka poxvirus]
+gi|9633893|ref|NP_051971.1|vFam_494| gp082R [Rabbit fibroma virus]
+gi|377829992|ref|YP_005296289.1|vFam_494| unnamed protein product [Cotia virus SPAn232]
+gi|157939708|ref|YP_001497080.1|vFam_494| RNA polymerase subunit rpo18 [Tanapox virus]
+gi|18640168|ref|NP_570242.1|vFam_494| SPV082 RNA polymerase subunit RPO18 [Swinepox virus]
+gi|148912962|ref|YP_001293276.1|vFam_494| hypothetical protein GTPV_gp081 [Goatpox virus Pellor]
+gi|211956365|ref|YP_002302434.1|vFam_494| RNA polymerase subunit RPO18 [Deerpox virus W-1170-84]

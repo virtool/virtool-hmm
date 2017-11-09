@@ -1,0 +1,14 @@
+CLUSTER	664
+NUM_SEQ	6
+LENGTH	145
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	76.85
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Betabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|11068053|ref|NP_068269.1|vFam_664| PxORF50 peptide [Plutella xylostella granulovirus]
+gi|46309395|ref|YP_006285.1|vFam_664| ORF59 [Agrotis segetum granulovirus]
+gi|285002353|ref|YP_003422417.1|vFam_664| hypothetical protein PsunGV_gp078 [Pseudaletia unipuncta granulovirus]
+gi|288804694|ref|YP_003429379.1|vFam_664| PrGVORF55 [Pieris rapae granulovirus]
+gi|556549090|ref|YP_008720004.1|vFam_664| hypothetical protein CalGV057 [Clostera anastomosis granulovirus]
+gi|109255321|ref|YP_654470.1|vFam_664| hypothetical protein COGV_gp049 [Choristoneura occidentalis granulovirus]

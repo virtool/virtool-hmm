@@ -1,0 +1,11 @@
+CLUSTER	3366
+NUM_SEQ	3
+LENGTH	192
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	97.92
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|119964567|ref|YP_950763.1|vFam_3366| Mv-ORF33 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|237643586|ref|YP_002884276.1|vFam_3366| Ac45-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|23577909|ref|NP_703035.1|vFam_3366| hypothetical protein [Rachiplusia ou MNPV]

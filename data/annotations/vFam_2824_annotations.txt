@@ -1,0 +1,13 @@
+CLUSTER	2824
+NUM_SEQ	5
+LENGTH	86
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	50.74
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|30984478|ref|NP_851910.1|vFam_2824| envelope glycoprotein N [Macacine herpesvirus 1]
+gi|83722619|ref|YP_443897.1|vFam_2824| envelope glycoprotein N [Papiine herpesvirus 2]
+gi|56694773|ref|YP_164493.1|vFam_2824| envelope glycoprotein N [Cercopithecine herpesvirus 2]
+gi|9629431|ref|NP_044652.1|vFam_2824| envelope glycoprotein N [Human herpesvirus 1]
+gi|9629320|ref|NP_044520.1|vFam_2824| envelope glycoprotein N [Human herpesvirus 2]

@@ -1,0 +1,12 @@
+CLUSTER	2850
+NUM_SEQ	4
+LENGTH	111
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	56.61
+FAMILIES	{'None': 1, 'Herpesviridae': 1, 'Mimiviridae': 2}
+GENERA	{'None': 2, 'Muromegalovirus': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9845439|ref|NP_064253.1|vFam_2850| pr146 [Murid herpesvirus 2]
+gi|311978101|ref|YP_003987221.1|vFam_2850| putative potassium channel protein [Acanthamoeba polyphaga mimivirus]
+gi|448825194|ref|YP_007418125.1|vFam_2850| putative potassium channel protein [Megavirus lba]
+gi|441432113|ref|YP_007354155.1|vFam_2850| hypothetical protein Moumou_00175 [Acanthamoeba polyphaga moumouvirus]

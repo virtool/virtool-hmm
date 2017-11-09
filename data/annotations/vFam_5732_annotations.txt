@@ -1,0 +1,10 @@
+CLUSTER	5732
+NUM_SEQ	2
+LENGTH	110
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	55.0
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|285002327|ref|YP_003422391.1|vFam_5732| hypothetical protein PsunGV_gp052 [Pseudaletia unipuncta granulovirus]
+gi|148368868|ref|YP_001256998.1|vFam_5732| hypothetical protein SlGVgp047 [Spodoptera litura granulovirus]

@@ -1,0 +1,14 @@
+CLUSTER	1641
+NUM_SEQ	6
+LENGTH	142
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	73.84
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Betabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|11068037|ref|NP_068253.1|vFam_1641| PxORF34 peptide [Plutella xylostella granulovirus]
+gi|46309414|ref|YP_006304.1|vFam_1641| ORF40 [Agrotis segetum granulovirus]
+gi|32698575|ref|NP_872490.1|vFam_1641| ORF_36 [Adoxophyes orana granulovirus]
+gi|556549061|ref|YP_008719975.1|vFam_1641| hypothetical protein CaLGV027 [Clostera anastomosis granulovirus]
+gi|288804675|ref|YP_003429360.1|vFam_1641| PrGVORF36 [Pieris rapae granulovirus]
+gi|109255304|ref|YP_654453.1|vFam_1641| hypothetical protein COGV_gp032 [Choristoneura occidentalis granulovirus]

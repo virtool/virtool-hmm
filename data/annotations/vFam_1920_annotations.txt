@@ -1,0 +1,10 @@
+CLUSTER	1920
+NUM_SEQ	2
+LENGTH	226
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	117.52
+FAMILIES	{'Potyviridae': 2}
+GENERA	{'Ipomovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|426580897|ref|YP_007032446.1|vFam_1920| HAM1-like protein [Cassava brown streak virus]
+gi|314998991|ref|YP_004063983.1|vFam_1920| HAM1-like protein [Ugandan cassava brown streak virus]

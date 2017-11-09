@@ -1,0 +1,10 @@
+CLUSTER	3906
+NUM_SEQ	2
+LENGTH	999
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	519.48
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409562|ref|YP_004346982.1|vFam_3906| DNA-directed RNA polymerase subunit alpha [Lausannevirus]
+gi|284504085|ref|YP_003406800.1|vFam_3906| DNA-directed RNA polymerase subunit alpha [Marseillevirus]

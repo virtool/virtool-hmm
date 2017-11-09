@@ -1,0 +1,10 @@
+CLUSTER	6664
+NUM_SEQ	2
+LENGTH	162
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	84.24
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|56693012|ref|YP_164356.1|vFam_6664| hypothetical protein TTSV1_gp15 [Thermoproteus tenax spherical virus 1]
+gi|47131180|ref|YP_015546.1|vFam_6664| hypothetical protein PyrSV_gp25 [Pyrobaculum spherical virus]

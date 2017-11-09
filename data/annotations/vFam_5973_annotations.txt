@@ -1,0 +1,10 @@
+CLUSTER	5973
+NUM_SEQ	2
+LENGTH	239
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	124.28
+FAMILIES	{'Retroviridae': 2}
+GENERA	{'Betaretrovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|66576239|ref|YP_241112.1|vFam_5973| env TM protein [Ovine enzootic nasal tumour virus]
+gi|40796118|ref|NP_955571.1|vFam_5973| gp36 TM [Mouse mammary tumor virus]

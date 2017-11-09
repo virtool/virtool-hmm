@@ -1,0 +1,25 @@
+CLUSTER	292
+NUM_SEQ	17
+LENGTH	431
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	228.43
+FAMILIES	{'Herpesviridae': 17}
+GENERA	{'Varicellovirus': 8, 'Iltovirus': 2, 'Mardivirus': 4, 'Simplexvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|57790981|ref|YP_182385.1|vFam_292| envelope glycoprotein M [Gallid herpesvirus 1]
+gi|38638247|ref|NP_944430.1|vFam_292| envelope glycoprotein M [Psittacid herpesvirus 1]
+gi|312162845|ref|YP_003933830.1|vFam_292| envelope glycoprotein M [Saimiriine herpesvirus 1]
+gi|83722578|ref|YP_443856.1|vFam_292| envelope glycoprotein M [Papiine herpesvirus 2]
+gi|9629279|ref|NP_044479.1|vFam_292| envelope glycoprotein M [Human herpesvirus 2]
+gi|155042202|ref|NP_077464.2|vFam_292| envelope glycoprotein M [Cercopithecine herpesvirus 9]
+gi|9625925|ref|NP_040172.1|vFam_292| envelope glycoprotein M [Human herpesvirus 3]
+gi|255683205|ref|YP_003084413.1|vFam_292| UL10 [Anatid herpesvirus 1]
+gi|125745061|ref|YP_001033938.1|vFam_292| envelope glycoprotein M [Gallid herpesvirus 2]
+gi|10834879|ref|NP_066840.1|vFam_292| envelope glycoprotein M [Gallid herpesvirus 3]
+gi|12084838|ref|NP_073303.1|vFam_292| envelope glycoprotein M [Meleagrid herpesvirus 1]
+gi|51557531|ref|YP_068365.1|vFam_292| envelope glycoprotein M [Suid herpesvirus 1]
+gi|296316051|ref|YP_003662515.1|vFam_292| envelope glycoprotein M [Bovine herpesvirus 5]
+gi|9629865|ref|NP_045349.1|vFam_292| envelope glycoprotein M [Bovine herpesvirus 1]
+gi|270339489|ref|YP_003331571.1|vFam_292| envelope glycoprotein M [Felid herpesvirus 1]
+gi|216905905|ref|YP_002333533.1|vFam_292| envelope glycoprotein M [Equid herpesvirus 9]
+gi|9629780|ref|NP_045269.1|vFam_292| envelope glycoprotein M [Equid herpesvirus 4]

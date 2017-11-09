@@ -1,0 +1,10 @@
+CLUSTER	5242
+NUM_SEQ	2
+LENGTH	228
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	118.56
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825842|ref|YP_007418773.1|vFam_5242| 2Og-Fe(II) oxygenase [Megavirus lba]
+gi|441432674|ref|YP_007354716.1|vFam_5242| 2OG-Fe(II)oxygenase [Acanthamoeba polyphaga moumouvirus]

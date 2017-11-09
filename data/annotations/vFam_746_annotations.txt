@@ -1,0 +1,12 @@
+CLUSTER	746
+NUM_SEQ	4
+LENGTH	161
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	83.72
+FAMILIES	{'Polydnaviridae': 3}
+GENERA	{'Ichnovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|32453854|ref|NP_861617.1|vFam_746| hypothetical protein HalHV1gp029 [Halovirus HF1]
+gi|124484772|ref|YP_001031333.1|vFam_746| cysteine motif gene-d9.2 [Hyposoter fugitivus ichnovirus]
+gi|124484809|ref|YP_001031361.1|vFam_746| cysteine motif gene-c19.1 [Hyposoter fugitivus ichnovirus]
+gi|124484696|ref|YP_001031276.1|vFam_746| cysteine motif gene-c4.1 [Hyposoter fugitivus ichnovirus]

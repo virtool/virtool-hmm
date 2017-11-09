@@ -1,0 +1,14 @@
+CLUSTER	1728
+NUM_SEQ	6
+LENGTH	173
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	91.69
+FAMILIES	{'Herpesviridae': 6}
+GENERA	{'Simplexvirus': 6}
+FASTA SEQUENCE TITLES:
+gi|312162810|ref|YP_003933795.1|vFam_1728| membrane protein UL45 [Saimiriine herpesvirus 1]
+gi|56694768|ref|YP_164488.1|vFam_1728| membrane protein UL45 [Cercopithecine herpesvirus 2]
+gi|30984473|ref|NP_851905.1|vFam_1728| membrane protein UL45 [Macacine herpesvirus 1]
+gi|83722614|ref|YP_443892.1|vFam_1728| membrane protein UL45 [Papiine herpesvirus 2]
+gi|9629426|ref|NP_044647.1|vFam_1728| membrane protein UL45 [Human herpesvirus 1]
+gi|9629315|ref|NP_044515.1|vFam_1728| membrane protein UL45 [Human herpesvirus 2]

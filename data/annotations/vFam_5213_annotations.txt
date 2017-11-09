@@ -1,0 +1,10 @@
+CLUSTER	5213
+NUM_SEQ	2
+LENGTH	227
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	115.77
+FAMILIES	{'Adenoviridae': 2}
+GENERA	{'Aviadenovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|388570695|ref|YP_006383569.1|vFam_5213| encapsidation protein 22K [Goose adenovirus 4]
+gi|388570694|ref|YP_006383568.1|vFam_5213| protein 33K [Goose adenovirus 4]

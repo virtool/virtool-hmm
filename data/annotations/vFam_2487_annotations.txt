@@ -1,0 +1,11 @@
+CLUSTER	2487
+NUM_SEQ	3
+LENGTH	245
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	122.5
+FAMILIES	{'Phycodnaviridae': 3}
+GENERA	{'Phaeovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|13242490|ref|NP_077503.1|vFam_2487| EsV-1-18 [Ectocarpus siliculosus virus 1]
+gi|13242476|ref|NP_077489.1|vFam_2487| EsV-1-4 [Ectocarpus siliculosus virus 1]
+gi|13242475|ref|NP_077488.1|vFam_2487| EsV-1-3 [Ectocarpus siliculosus virus 1]

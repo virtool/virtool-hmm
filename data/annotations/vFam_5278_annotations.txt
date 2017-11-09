@@ -1,0 +1,10 @@
+CLUSTER	5278
+NUM_SEQ	2
+LENGTH	311
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	161.72
+FAMILIES	{'None': 2}
+GENERA	{'None': 1, 'Cilevirus': 1}
+FASTA SEQUENCE TITLES:
+gi|353332651|ref|YP_004901706.1|vFam_5278| movement protein [Blueberry necrotic ring blotch virus]
+gi|109255270|ref|YP_654542.1|vFam_5278| putative movement protein [Citrus leprosis virus C]

@@ -1,0 +1,10 @@
+CLUSTER	5170
+NUM_SEQ	2
+LENGTH	165
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	85.8
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Ranavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|56692782|ref|YP_164240.1|vFam_5170| hypothetical protein ORF145R [Singapore grouper iridovirus]
+gi|56692781|ref|YP_164239.1|vFam_5170| hypothetical protein ORF144R [Singapore grouper iridovirus]

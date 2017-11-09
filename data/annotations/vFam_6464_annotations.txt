@@ -1,0 +1,10 @@
+CLUSTER	6464
+NUM_SEQ	2
+LENGTH	77
+RELATIVE_ENTROPY_PER_POSITION	0.66
+TOTAL_RELATIVE_ENTROPY	50.82
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|295441861|ref|YP_003591103.1|vFam_6464| hypothetical protein STIV2_C73 [Sulfolobus turreted icosahedral virus 2]
+gi|48697021|ref|YP_025018.1|vFam_6464| hypothetical protein A77 [Sulfolobus turreted icosahedral virus]

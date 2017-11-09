@@ -1,0 +1,14 @@
+CLUSTER	691
+NUM_SEQ	6
+LENGTH	199
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	103.48
+FAMILIES	{'Herpesviridae': 6}
+GENERA	{'None': 1, 'Muromegalovirus': 1, 'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|448824871|ref|YP_007417803.1|vFam_691| GP29.1 [Caviid herpesvirus 2]
+gi|61660148|ref|YP_214039.1|vFam_691| hypothetical protein MuHV1_gp031 [Murid herpesvirus 1]
+gi|52139212|ref|YP_081485.1|vFam_691| tegument protein UL26 [Human herpesvirus 5]
+gi|20026629|ref|NP_612670.1|vFam_691| tegument protein UL26 [Panine herpesvirus 2]
+gi|360086514|ref|YP_004940198.1|vFam_691| tegument protein UL26 [Saimiriine herpesvirus 3]
+gi|360040918|ref|YP_004940052.1|vFam_691| tegument protein UL26 [Aotine herpesvirus 1]

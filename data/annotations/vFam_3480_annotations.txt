@@ -1,0 +1,11 @@
+CLUSTER	3480
+NUM_SEQ	3
+LENGTH	366
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	186.66
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|131840126|ref|YP_001096135.1|vFam_3480| unnamed protein product [Cyprinid herpesvirus 3]
+gi|422933864|ref|YP_007003919.1|vFam_3480| protein ORF100 [Cyprinid herpesvirus 2]
+gi|422933638|ref|YP_007003763.1|vFam_3480| protein ORF100 [Cyprinid herpesvirus 1]

@@ -1,0 +1,10 @@
+CLUSTER	4338
+NUM_SEQ	2
+LENGTH	293
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	149.43
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|56693018|ref|YP_164362.1|vFam_4338| hypothetical protein TTSV1_gp21 [Thermoproteus tenax spherical virus 1]
+gi|47131172|ref|YP_015538.1|vFam_4338| hypothetical protein PyrSV_gp17 [Pyrobaculum spherical virus]

@@ -1,0 +1,12 @@
+CLUSTER	3855
+NUM_SEQ	4
+LENGTH	143
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	75.79
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329303|ref|YP_001604357.1|vFam_3855| hypothetical protein AFV3_gp15 [Acidianus filamentous virus 3]
+gi|162329372|ref|YP_001604173.1|vFam_3855| hypothetical protein AFV6_gp15 [Acidianus filamentous virus 6]
+gi|162329434|ref|YP_001604234.1|vFam_3855| hypothetical protein AFV7_gp10 [Acidianus filamentous virus 7]
+gi|162329494|ref|YP_001604293.1|vFam_3855| hypothetical protein AFV8_gp12 [Acidianus filamentous virus 8]

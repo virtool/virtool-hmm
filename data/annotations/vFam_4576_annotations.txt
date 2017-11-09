@@ -1,0 +1,11 @@
+CLUSTER	4576
+NUM_SEQ	3
+LENGTH	144
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	73.44
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Iridovirus': 1, 'Chloriridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|109287992|ref|YP_654686.1|vFam_4576| hypothetical protein MIV114L [Invertebrate iridescent virus 3]
+gi|527333563|ref|YP_008357347.1|vFam_4576| Putative matrix metalloproteinase 2 [Invertebrate iridovirus 22]
+gi|339906163|ref|YP_004732960.1|vFam_4576| hypothetical protein WIV_gp177 [Wiseana iridescent virus]

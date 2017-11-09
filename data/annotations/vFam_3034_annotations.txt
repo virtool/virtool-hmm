@@ -1,0 +1,12 @@
+CLUSTER	3034
+NUM_SEQ	4
+LENGTH	102
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	53.04
+FAMILIES	{'None': 3, 'Polydnaviridae': 1}
+GENERA	{'Bracovirus': 1, 'Sobemovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|66391220|ref|YP_239377.1|vFam_3034| hypothetical protein 1 [Microplitis demolitor bracovirus]
+gi|567222780|ref|YP_008873120.2|vFam_3034| Px [Cocksfoot mottle virus]
+gi|567222785|ref|YP_008873119.2|vFam_3034| Px [Imperata yellow mottle virus]
+gi|567222776|ref|YP_008873118.2|vFam_3034| Px [Rice yellow mottle virus]

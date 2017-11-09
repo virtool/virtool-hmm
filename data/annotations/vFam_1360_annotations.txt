@@ -1,0 +1,12 @@
+CLUSTER	1360
+NUM_SEQ	4
+LENGTH	158
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	79.0
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Betabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|410493667|ref|YP_006908605.1|vFam_1360| telokin-like protein 20 [Epinotia aporema granulovirus]
+gi|556549122|ref|YP_008720036.1|vFam_1360| tlp20 [Clostera anastomosis granulovirus]
+gi|33622293|ref|NP_891940.1|vFam_1360| tlp20 [Cryptophlebia leucotreta granulovirus]
+gi|288804725|ref|YP_003429410.1|vFam_1360| TLP20 [Pieris rapae granulovirus]

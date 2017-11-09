@@ -1,0 +1,10 @@
+CLUSTER	5317
+NUM_SEQ	2
+LENGTH	550
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	286.0
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|448825763|ref|YP_007418694.1|vFam_5317| methionyl-tRNA synthetase [Megavirus lba]
+gi|311978039|ref|YP_003987159.1|vFam_5317| methionyl-tRNA synthetase [Acanthamoeba polyphaga mimivirus]

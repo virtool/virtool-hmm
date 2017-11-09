@@ -1,0 +1,45 @@
+CLUSTER	125
+NUM_SEQ	37
+LENGTH	223
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	115.96
+FAMILIES	{'Baculoviridae': 31}
+GENERA	{'Betabaculovirus': 10, 'Alphabaculovirus': 21}
+FASTA SEQUENCE TITLES:
+gi|571031259|ref|YP_008992155.1|vFam_125| odv-e25 [Choristoneura murinana alphabaculovirus]
+gi|9630033|ref|NP_046251.1|vFam_125| occlusion-derived virus envelope protein E25 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|86355580|ref|YP_473248.1|vFam_125| ODV-E25 [Hyphantria cunea nucleopolyhedrovirus]
+gi|116326159|ref|YP_803485.1|vFam_125| occlusion-derived virus envelope protein [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|96979826|ref|YP_611031.1|vFam_125| odv-e25 [Antheraea pernyi nucleopolyhedrovirus]
+gi|438000396|ref|YP_007250501.1|vFam_125| odv-e25 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964605|ref|YP_950801.1|vFam_125| ODV-E25 [Maruca vitrata nucleopolyhedrovirus]
+gi|237643630|ref|YP_002884320.1|vFam_125| ODV-E25 [Bombyx mandarina nucleopolyhedrovirus]
+gi|23577893|ref|NP_703084.1|vFam_125| ODV-E25 [Rachiplusia ou MNPV]
+gi|556549112|ref|YP_008720026.1|vFam_125| odv-e25 [Clostera anastomosis granulovirus]
+gi|164519293|ref|YP_001649080.1|vFam_125| occlusion-derived virus envelope protein ODV-E25 [Helicoverpa armigera granulovirus]
+gi|11068077|ref|NP_068293.1|vFam_125| PxORF74 peptide [Plutella xylostella granulovirus]
+gi|46309373|ref|YP_006263.1|vFam_125| ORF81 [Agrotis segetum granulovirus]
+gi|410493656|ref|YP_006908594.1|vFam_125| occlusion derived virus envelope 25 [Epinotia aporema granulovirus]
+gi|148368902|ref|YP_001257032.1|vFam_125| odv-e25 [Spodoptera litura granulovirus]
+gi|32698616|ref|NP_872531.1|vFam_125| odv-e25 [Adoxophyes orana granulovirus]
+gi|21686748|ref|NP_663248.1|vFam_125| occlusion derived virus envelope protein 25 [Phthorimaea operculella granulovirus]
+gi|109255344|ref|YP_654493.1|vFam_125| ODV-E25 [Choristoneura occidentalis granulovirus]
+gi|288804715|ref|YP_003429400.1|vFam_125| OEV-e25 [Pieris rapae granulovirus]
+gi|33622282|ref|NP_891929.1|vFam_125| odv-e25 [Cryptophlebia leucotreta granulovirus]
+gi|114679947|ref|YP_758397.1|vFam_125| odv-e25 [Leucania separata nucleopolyhedrovirus]
+gi|15617553|ref|NP_258353.1|vFam_125| occlusion-derived virus envelope protein ODV-E25 [Spodoptera litura nucleopolyhedrovirus]
+gi|209978843|ref|YP_002300586.1|vFam_125| ODV-E25 [Adoxophyes orana nucleopolyhedrovirus]
+gi|113195483|ref|YP_717620.1|vFam_125| ODV-E25 [Clanis bilineata nucleopolyhedrovirus]
+gi|68304222|ref|YP_249690.1|vFam_125| ODV-E25 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549495|ref|NP_689268.1|vFam_125| odv-e25 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|125860195|ref|YP_001036365.1|vFam_125| ODV-E25 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401470|ref|YP_002332774.1|vFam_125| ODV-E25 [Spodoptera litura nucleopolyhedrovirus II]
+gi|90592798|ref|YP_529751.1|vFam_125| ODV-E25 [Agrotis segetum nucleopolyhedrovirus]
+gi|209170970|ref|YP_002268117.1|vFam_125| agip87 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|209401138|ref|YP_002274007.1|vFam_125| occlusion-derived virus envelope protein 25 [Helicoverpa armigera NPV NNg1]
+gi|292397766|ref|YP_003517832.1|vFam_125| ODV-E25 [Lymantria xylina MNPV]
+gi|402502172|ref|YP_006607830.1|vFam_125| Odv-e25 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|529218136|ref|YP_008378299.1|vFam_125| odv-e25 [Hemileuca sp. nucleopolyhedrovirus]
+gi|165969092|ref|YP_001650992.1|vFam_125| occlusion-derived virus envelope protein 25 [Orgyia leucostigma NPV]
+gi|228861671|ref|YP_002854691.1|vFam_125| ODV-e25 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|118197554|ref|YP_874266.1|vFam_125| Odv-e25 [Ectropis obliqua nucleopolyhedrovirus]

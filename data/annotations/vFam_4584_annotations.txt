@@ -1,0 +1,11 @@
+CLUSTER	4584
+NUM_SEQ	3
+LENGTH	246
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	125.46
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978054|ref|YP_003987174.1|vFam_4584| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432616|ref|YP_007354658.1|vFam_4584| hypothetical protein Moumou_00701 [Acanthamoeba polyphaga moumouvirus]
+gi|363540766|ref|YP_004894838.1|vFam_4584| mg787 gene product [Megavirus chiliensis]

@@ -1,0 +1,10 @@
+CLUSTER	5226
+NUM_SEQ	2
+LENGTH	118
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	61.36
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|197322449|ref|YP_002154722.1|vFam_5226| hypothetical protein FeldSpV_gp100 [Feldmannia species virus]
+gi|13242607|ref|NP_077621.1|vFam_5226| EsV-1-136 [Ectocarpus siliculosus virus 1]

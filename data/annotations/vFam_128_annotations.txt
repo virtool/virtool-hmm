@@ -1,0 +1,22 @@
+CLUSTER	128
+NUM_SEQ	14
+LENGTH	349
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	177.99
+FAMILIES	{'None': 9, 'Mimiviridae': 4, 'Rhabdoviridae': 1}
+GENERA	{'None': 13, 'Nucleorhabdovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|50234099|ref|YP_052844.1|vFam_128| P [Maize fine streak virus]
+gi|448825096|ref|YP_007418027.1|vFam_128| putative ankyrin repeat protein [Megavirus lba]
+gi|448826079|ref|YP_007419010.1|vFam_128| putative ankyrin repeat protein [Megavirus lba]
+gi|448826050|ref|YP_007418981.1|vFam_128| putative ankyrin repeat protein [Megavirus lba]
+gi|363540806|ref|YP_004895089.1|vFam_128| mg1038 gene product [Megavirus chiliensis]
+gi|448825935|ref|YP_007418866.1|vFam_128| putative ankyrin repeat protein [Megavirus lba]
+gi|441432617|ref|YP_007354659.1|vFam_128| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]
+gi|363539995|ref|YP_004894839.1|vFam_128| mg788 gene product [Megavirus chiliensis]
+gi|448825419|ref|YP_007418350.1|vFam_128| putative ankyrin repeat protein [Megavirus lba]
+gi|448825044|ref|YP_007417975.1|vFam_128| putative ankyrin repeat protein [Megavirus lba]
+gi|441432713|ref|YP_007354755.1|vFam_128| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]
+gi|448825830|ref|YP_007418761.1|vFam_128| putative ankyrin repeat protein [Megavirus lba]
+gi|448825650|ref|YP_007418581.1|vFam_128| putative ankyrin repeat protein [Megavirus lba]
+gi|448825649|ref|YP_007418580.1|vFam_128| putative ankyrin repeat protein [Megavirus lba]

@@ -1,0 +1,14 @@
+CLUSTER	1766
+NUM_SEQ	6
+LENGTH	352
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	179.52
+FAMILIES	{'Herpesviridae': 6}
+GENERA	{'Cytomegalovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|360086603|ref|YP_004940288.1|vFam_1766| membrane protein A25 [Saimiriine herpesvirus 3]
+gi|360041019|ref|YP_004940144.1|vFam_1766| membrane protein A25A [Aotine herpesvirus 1]
+gi|360041021|ref|YP_004940145.1|vFam_1766| membrane protein A25B [Aotine herpesvirus 1]
+gi|360041024|ref|YP_004940148.1|vFam_1766| membrane protein A25E [Aotine herpesvirus 1]
+gi|360041023|ref|YP_004940147.1|vFam_1766| membrane protein A25D [Aotine herpesvirus 1]
+gi|360041022|ref|YP_004940146.1|vFam_1766| membrane protein A25C [Aotine herpesvirus 1]

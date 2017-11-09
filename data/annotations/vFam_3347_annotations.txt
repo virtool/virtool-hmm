@@ -1,0 +1,11 @@
+CLUSTER	3347
+NUM_SEQ	3
+LENGTH	297
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	154.44
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 1, 'Roseolovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|538447248|ref|YP_008492988.1|vFam_3347| G-protein coupled receptor [Porcine cytomegalovirus]
+gi|9633122|ref|NP_050232.1|vFam_3347| G-protein coupled receptor [Human herpesvirus 6B]
+gi|51874273|ref|YP_073791.1|vFam_3347| envelope protein UL78 [Human herpesvirus 7]

@@ -1,0 +1,13 @@
+CLUSTER	1737
+NUM_SEQ	5
+LENGTH	159
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	81.09
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631339|ref|NP_048177.1|vFam_1737| ORF MSV106 putative vaccinia A22R homolog, similar to SW:P20997 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497916|ref|YP_008003715.1|vFam_1737| holliday junction resolvase [Mythimna separata entomopoxvirus 'L']
+gi|506498198|ref|YP_008003995.1|vFam_1737| holliday junction resolvase [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498782|ref|YP_008004576.1|vFam_1737| holliday junction resolvase [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964476|ref|NP_064944.1|vFam_1737| hypothetical protein AMV162 [Amsacta moorei entomopoxvirus 'L']

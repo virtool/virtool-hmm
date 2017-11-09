@@ -1,0 +1,15 @@
+CLUSTER	1243
+NUM_SEQ	7
+LENGTH	243
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	128.79
+FAMILIES	{'Picornaviridae': 5}
+GENERA	{'Parechovirus': 2, 'Avihepatovirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|495027913|ref|YP_007969874.1|vFam_1243| capsid protein VP3 [Duck hepatitis A virus 1]
+gi|157939781|ref|YP_001497175.1|vFam_1243| VP3 [Seal picornavirus type 1]
+gi|543145310|ref|YP_008549601.1|vFam_1243| 1C [Eel picornavirus 1]
+gi|397776128|ref|YP_006546260.1|vFam_1243| VP3 [Swine pasivirus 1]
+gi|25121910|ref|NP_740385.1|vFam_1243| VP3 protein [Human parechovirus]
+gi|512965471|ref|YP_008119836.1|vFam_1243| VP3 protein [Sebokele virus 1]
+gi|23968326|ref|NP_705875.1|vFam_1243| Capsid protein VP3 [Ljungan virus]

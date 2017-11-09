@@ -1,0 +1,11 @@
+CLUSTER	3047
+NUM_SEQ	3
+LENGTH	209
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	106.59
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'None': 2, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|363540678|ref|YP_004894176.1|vFam_3047| mg125 gene product [Megavirus chiliensis]
+gi|441432025|ref|YP_007354067.1|vFam_3047| hypothetical protein Moumou_00085 [Acanthamoeba polyphaga moumouvirus]
+gi|311978228|ref|YP_003987348.1|vFam_3047| hypothetical protein [Acanthamoeba polyphaga mimivirus]

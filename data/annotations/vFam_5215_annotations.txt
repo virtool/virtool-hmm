@@ -1,0 +1,10 @@
+CLUSTER	5215
+NUM_SEQ	2
+LENGTH	111
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	56.61
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|171473708|ref|YP_001798578.1|vFam_5215| hypothetical protein AFV9_gp60 [Acidianus filamentous virus 9]
+gi|16753149|ref|NP_445727.1|vFam_5215| hypothetical protein SIFV0064 [Sulfolobus islandicus filamentous virus]

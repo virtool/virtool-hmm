@@ -1,0 +1,21 @@
+CLUSTER	672
+NUM_SEQ	13
+LENGTH	96
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	49.92
+FAMILIES	{'Baculoviridae': 12}
+GENERA	{'Betabaculovirus': 12}
+FASTA SEQUENCE TITLES:
+gi|11068063|ref|NP_068279.1|vFam_672| PxORF60 peptide [Plutella xylostella granulovirus]
+gi|410493644|ref|YP_006908582.1|vFam_672| late expression factor 6 [Epinotia aporema granulovirus]
+gi|46309386|ref|YP_006276.1|vFam_672| ORF68 [Agrotis segetum granulovirus]
+gi|21686737|ref|NP_663237.1|vFam_672| late expression factor 6 [Phthorimaea operculella granulovirus]
+gi|556549101|ref|YP_008720015.1|vFam_672| lef-6 [Clostera anastomosis granulovirus]
+gi|33622271|ref|NP_891918.1|vFam_672| lef-6 [Cryptophlebia leucotreta granulovirus]
+gi|14602317|ref|NP_148864.1|vFam_672| ORF80 LEF-6 [Cydia pomonella granulovirus]
+gi|148368890|ref|YP_001257020.1|vFam_672| lef-6 [Spodoptera litura granulovirus]
+gi|32698606|ref|NP_872521.1|vFam_672| lef-6 [Adoxophyes orana granulovirus]
+gi|285002366|ref|YP_003422430.1|vFam_672| LEF-6 [Pseudaletia unipuncta granulovirus]
+gi|164519281|ref|YP_001649068.1|vFam_672| late expression factor-6 [Helicoverpa armigera granulovirus]
+gi|288804704|ref|YP_003429389.1|vFam_672| LEF-6 [Pieris rapae granulovirus]
+gi|109255332|ref|YP_654481.1|vFam_672| LEF-6 [Choristoneura occidentalis granulovirus]

@@ -1,0 +1,12 @@
+CLUSTER	979
+NUM_SEQ	4
+LENGTH	429
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	214.5
+FAMILIES	{'Flaviviridae': 4}
+GENERA	{'Hepacivirus': 2, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|28971396|ref|NP_803208.1|vFam_979| putative NS5A protein [GB virus C]
+gi|26251702|ref|NP_757360.1|vFam_979| putative NS5A protein [Hepatitis GB virus B]
+gi|157781225|ref|YP_001491556.1|vFam_979| NS5a [Hepatitis C virus genotype 3]
+gi|26053629|ref|NP_751927.1|vFam_979| NS5A protein [Hepatitis C virus]

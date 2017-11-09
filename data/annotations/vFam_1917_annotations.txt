@@ -1,0 +1,10 @@
+CLUSTER	1917
+NUM_SEQ	2
+LENGTH	102
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	49.98
+FAMILIES	{'Nimaviridae': 1, 'Polydnaviridae': 1}
+GENERA	{'Ichnovirus': 1, 'Whispovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|17158599|ref|NP_478020.1|vFam_1917| wsv498 [Shrimp white spot syndrome virus]
+gi|124378121|ref|YP_001029370.1|vFam_1917| GfV-B27-ORF2 [Glypta fumiferanae ichnovirus]

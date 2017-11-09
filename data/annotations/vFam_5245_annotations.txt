@@ -1,0 +1,10 @@
+CLUSTER	5245
+NUM_SEQ	2
+LENGTH	82
+RELATIVE_ENTROPY_PER_POSITION	0.62
+TOTAL_RELATIVE_ENTROPY	50.84
+FAMILIES	{'Coronaviridae': 2}
+GENERA	{'Gammacoronavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|189313877|ref|YP_001941173.1|vFam_5245| 5b protein [Turkey coronavirus]
+gi|9626544|ref|NP_040837.1|vFam_5245| 5b protein [Infectious bronchitis virus]

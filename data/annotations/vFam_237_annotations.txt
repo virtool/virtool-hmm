@@ -1,0 +1,30 @@
+CLUSTER	237
+NUM_SEQ	22
+LENGTH	318
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	165.36
+FAMILIES	{'Mimiviridae': 1, 'Poxviridae': 18}
+GENERA	{'Mimivirus': 1, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'None': 3, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|311977570|ref|YP_003986690.1|vFam_237| DNA topoisomerase 1b [Acanthamoeba polyphaga mimivirus]
+gi|9631352|ref|NP_048201.1|vFam_237| ORF MSV130 putative DNA topoisomerase I, Amsacta moorei entomopoxvirus topoisomerase (vaccinia H6R) homolog, similar to GB:U80056 [Melanoplus sanguinipes entomopoxvirus]
+gi|506498078|ref|YP_008003875.1|vFam_237| DNA Topoisomerase type I [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497795|ref|YP_008003594.1|vFam_237| DNA Topoisomerase type I [Mythimna separata entomopoxvirus 'L']
+gi|506498681|ref|YP_008004475.1|vFam_237| DNA Topoisomerase type I [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964366|ref|NP_064834.1|vFam_237| DNA topoisomerase type I [Amsacta moorei entomopoxvirus 'L']
+gi|115531770|ref|YP_784296.1|vFam_237| DNA topoisomerase IB [Nile crocodilepox virus]
+gi|40556127|ref|NP_955212.1|vFam_237| CNPV189 DNA topoisomerase [Canarypox virus]
+gi|9634813|ref|NP_039106.1|vFam_237| DNA topoisomerase [Fowlpox virus]
+gi|9629019|ref|NP_044038.1|vFam_237| MC087R [Molluscum contagiosum virus subtype 1]
+gi|41057498|ref|NP_957971.1|vFam_237| ORF062 DNA topoisomerase type I [Bovine papular stomatitis virus]
+gi|289183826|ref|YP_003457367.1|vFam_237| topoisomerase I [Pseudocowpox virus]
+gi|571797996|ref|YP_008658495.1|vFam_237| topoisomerase [Squirrelpox virus]
+gi|113195283|ref|YP_717413.1|vFam_237| topoisomerase type IB [Taterapox virus]
+gi|345107272|ref|YP_004821437.1|vFam_237| DNA topoisomerase type I [Yoka poxvirus]
+gi|157939700|ref|YP_001497072.1|vFam_237| DNA topoisomerase [Tanapox virus]
+gi|38229239|ref|NP_938332.1|vFam_237| 77R [Yaba monkey tumor virus]
+gi|377829984|ref|YP_005296281.1|vFam_237| unnamed protein product [Cotia virus SPAn232]
+gi|9633710|ref|NP_051788.1|vFam_237| m74R [Myxoma virus]
+gi|18640160|ref|NP_570234.1|vFam_237| SPV074 DNA topoisomerase [Swinepox virus]
+gi|148912954|ref|YP_001293268.1|vFam_237| hypothetical protein GTPV_gp073 [Goatpox virus Pellor]
+gi|211956357|ref|YP_002302426.1|vFam_237| DNA topoisomerase [Deerpox virus W-1170-84]

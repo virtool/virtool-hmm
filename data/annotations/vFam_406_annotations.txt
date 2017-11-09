@@ -1,0 +1,24 @@
+CLUSTER	406
+NUM_SEQ	16
+LENGTH	567
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	300.51
+FAMILIES	{'Poxviridae': 16}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|115531720|ref|YP_784247.1|vFam_406| hypothetical protein CRV056 [Nile crocodilepox virus]
+gi|40556061|ref|NP_955146.1|vFam_406| CNPV123 conserved hypothetical protein [Canarypox virus]
+gi|9634766|ref|NP_039059.1|vFam_406| hypothetical protein FPV096 [Fowlpox virus]
+gi|41057458|ref|NP_957931.1|vFam_406| ORF022 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183786|ref|YP_003457327.1|vFam_406| hypothetical protein PCPV_gp024 [Pseudocowpox virus]
+gi|571797955|ref|YP_008658454.1|vFam_406| conserved hypothetical pox protein [Squirrelpox virus]
+gi|9628969|ref|NP_043988.1|vFam_406| MC037R [Molluscum contagiosum virus subtype 1]
+gi|113195240|ref|YP_717370.1|vFam_406| hypothetical protein TATV_DAH68_063 [Taterapox virus]
+gi|345107228|ref|YP_004821393.1|vFam_406| virion protein [Yoka poxvirus]
+gi|377829947|ref|YP_005296241.1|vFam_406| unnamed protein product [Cotia virus SPAn232]
+gi|9633841|ref|NP_051921.1|vFam_406| gp032R [Rabbit fibroma virus]
+gi|157939659|ref|YP_001497031.1|vFam_406| hypothetical protein TANV_37R [Tanapox virus]
+gi|38229200|ref|NP_938293.1|vFam_406| 37R [Yaba monkey tumor virus]
+gi|18640120|ref|NP_570194.1|vFam_406| SPV034 hypothetical protein [Swinepox virus]
+gi|148912914|ref|YP_001293228.1|vFam_406| hypothetical protein GTPV_gp033 [Goatpox virus Pellor]
+gi|211956317|ref|YP_002302386.1|vFam_406| hypothetical protein DpV84gp045 [Deerpox virus W-1170-84]

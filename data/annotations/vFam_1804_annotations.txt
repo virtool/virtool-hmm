@@ -1,0 +1,13 @@
+CLUSTER	1804
+NUM_SEQ	5
+LENGTH	998
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	508.98
+FAMILIES	{'Reoviridae': 5}
+GENERA	{'Orbivirus': 5}
+FASTA SEQUENCE TITLES:
+gi|50261323|ref|YP_052941.1|vFam_1804| capsid VP2 [African horse sickness virus]
+gi|50253398|ref|YP_052931.1|vFam_1804| outer capsid protein VP2 [Palyam virus]
+gi|550455549|ref|YP_008658417.1|vFam_1804| outer capsid [Wallal virus]
+gi|261181413|ref|YP_003240109.1|vFam_1804| VP2 protein [Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey)]
+gi|50253384|ref|YP_052958.1|vFam_1804| hypothetical protein BTVs2gp1 [Bluetongue virus]

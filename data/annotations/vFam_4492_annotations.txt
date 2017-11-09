@@ -1,0 +1,10 @@
+CLUSTER	4492
+NUM_SEQ	2
+LENGTH	240
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	122.4
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Betabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|285002277|ref|YP_003422341.1|vFam_4492| capsid protein [Pseudaletia unipuncta granulovirus]
+gi|164519197|ref|YP_001648984.1|vFam_4492| capsid protein [Helicoverpa armigera granulovirus]

@@ -1,0 +1,15 @@
+CLUSTER	1188
+NUM_SEQ	7
+LENGTH	84
+RELATIVE_ENTROPY_PER_POSITION	0.63
+TOTAL_RELATIVE_ENTROPY	52.92
+FAMILIES	{'Poxviridae': 7}
+GENERA	{'Capripoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1, 'Leporipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|18640103|ref|NP_570177.1|vFam_1188| SPV017 hypothetical protein [Swinepox virus]
+gi|9633827|ref|NP_051905.1|vFam_1188| gp016L [Rabbit fibroma virus]
+gi|9633652|ref|NP_051730.1|vFam_1188| M016L [Myxoma virus]
+gi|157939641|ref|YP_001497013.1|vFam_1188| hypothetical protein TANV_21L [Tanapox virus]
+gi|38229184|ref|NP_938277.1|vFam_1188| 21L [Yaba monkey tumor virus]
+gi|15150460|ref|NP_150455.1|vFam_1188| LSDV021 hypothetical protein [Lumpy skin disease virus NI-2490]
+gi|21492475|ref|NP_659594.1|vFam_1188| hypothetical protein SPPV_18 [Sheeppox virus]

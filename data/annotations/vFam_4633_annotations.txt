@@ -1,0 +1,11 @@
+CLUSTER	4633
+NUM_SEQ	3
+LENGTH	230
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	119.6
+FAMILIES	{'Orthomyxoviridae': 3}
+GENERA	{'Influenzavirus A': 3}
+FASTA SEQUENCE TITLES:
+gi|73852944|ref|YP_308673.1|vFam_4633| nonstructural protein 1 [Influenza A virus (A/goose/Guangdong/1/1996(H5N1))]
+gi|73921566|ref|YP_308870.1|vFam_4633| non-structural protein NS1 [Influenza A virus (A/Korea/426/68(H2N2))]
+gi|32140161|ref|NP_859034.1|vFam_4633| nonstructural protein 1 [Influenza A virus (A/Hong Kong/1073/99(H9N2))]

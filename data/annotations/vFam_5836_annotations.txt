@@ -1,0 +1,10 @@
+CLUSTER	5836
+NUM_SEQ	2
+LENGTH	454
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	240.62
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Lymphocystivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|51869989|ref|YP_073542.1|vFam_5836| membrane-bound metallopeptidase [Lymphocystis disease virus - isolate China]
+gi|13358424|ref|NP_078746.1|vFam_5836| hypothetical protein LCDV1gp090 [Lymphocystis disease virus 1]

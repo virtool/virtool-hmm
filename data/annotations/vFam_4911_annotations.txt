@@ -1,0 +1,10 @@
+CLUSTER	4911
+NUM_SEQ	2
+LENGTH	66
+RELATIVE_ENTROPY_PER_POSITION	0.79
+TOTAL_RELATIVE_ENTROPY	52.14
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|295441858|ref|YP_003591099.1|vFam_4911| hypothetical protein STIV2_B66 [Sulfolobus turreted icosahedral virus 2]
+gi|48697015|ref|YP_025012.1|vFam_4911| hypothetical protein B66b [Sulfolobus turreted icosahedral virus]

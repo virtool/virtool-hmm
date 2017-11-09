@@ -1,0 +1,10 @@
+CLUSTER	1468
+NUM_SEQ	2
+LENGTH	1525
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	793.0
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|422933592|ref|YP_007003717.1|vFam_1468| protein ORF51 [Cyprinid herpesvirus 1]
+gi|131840077|ref|YP_001096086.1|vFam_1468| unnamed protein product [Cyprinid herpesvirus 3]

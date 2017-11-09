@@ -1,0 +1,13 @@
+CLUSTER	2579
+NUM_SEQ	5
+LENGTH	322
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	167.44
+FAMILIES	{'Phycodnaviridae': 5}
+GENERA	{'Chlorovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|157953604|ref|YP_001498495.1|vFam_2579| hypothetical protein AR158_C414R [Paramecium bursaria Chlorella virus AR158]
+gi|155371718|ref|YP_001427252.1|vFam_2579| hypothetical protein ATCV1_Z771L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370391|ref|YP_001425925.1|vFam_2579| hypothetical protein FR483_N293R [Paramecium bursaria Chlorella virus FR483]
+gi|157953453|ref|YP_001498344.1|vFam_2579| hypothetical protein AR158_C263L [Paramecium bursaria Chlorella virus AR158]
+gi|11693126|ref|NP_048562.2|vFam_2579| Alkaline alginate lyas / 1-4 polyglucuronic acid lysase / polysaccharide lyase family 14 / vAL-1 [Paramecium bursaria Chlorella virus 1]

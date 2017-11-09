@@ -1,0 +1,12 @@
+CLUSTER	1280
+NUM_SEQ	4
+LENGTH	274
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	139.74
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1}
+GENERA	{'None': 1, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|255046529|ref|YP_003084298.2|vFam_1280| hypothetical protein [Circovirus-like genome SAR-A]
+gi|73852822|ref|YP_294106.1|vFam_1280| hypothetical protein EhV348 [Emiliania huxleyi virus 86]
+gi|531036432|ref|YP_008438069.1|vFam_1280| alkylated DNA repair [Pandoravirus salinus]
+gi|526119701|ref|YP_008319604.1|vFam_1280| alkylated DNA repair [Pandoravirus dulcis]

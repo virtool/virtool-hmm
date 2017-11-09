@@ -1,0 +1,19 @@
+CLUSTER	894
+NUM_SEQ	11
+LENGTH	333
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	169.83
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|378554453|ref|YP_005271232.1|vFam_894| unnamed protein product [Thermococcus prieurii virus 1]
+gi|472438234|ref|YP_007678011.1|vFam_894| integrase [Sulfolobales Mexican fusellovirus 1]
+gi|270281754|ref|YP_003331413.1|vFam_894| integrase [Acidianus spindle-shaped virus 1]
+gi|9625521|ref|NP_039778.1|vFam_894| putative integrase [Sulfolobus spindle-shaped virus 1]
+gi|42495064|ref|NP_963973.1|vFam_894| ORF F340 [Sulfolobus virus Kamchatka 1]
+gi|160688429|ref|YP_001552191.1|vFam_894| integrase [Sulfolobus spindle-shaped virus 4]
+gi|270281826|ref|YP_003331490.1|vFam_894| integrase [Sulfolobus spindle-shaped virus 7]
+gi|38639805|ref|NP_944456.1|vFam_894| integrase [Sulfolobus spindle-shaped virus 2]
+gi|42494935|ref|NP_963933.1|vFam_894| ORF D355 [Sulfolobus virus Ragged Hills]
+gi|270281793|ref|YP_003331458.1|vFam_894| integrase [Sulfolobus spindle-shaped virus 6]
+gi|198449240|ref|YP_002221478.1|vFam_894| integrase [Sulfolobus spindle-shaped virus 5]

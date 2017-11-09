@@ -1,0 +1,13 @@
+CLUSTER	642
+NUM_SEQ	5
+LENGTH	204
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	106.08
+FAMILIES	{'None': 2, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|531034853|ref|YP_008436478.1|vFam_642| hypothetical protein ps_62 [Pandoravirus salinus]
+gi|441432806|ref|YP_007354848.1|vFam_642| hypothetical protein Moumou_00897 [Acanthamoeba polyphaga moumouvirus]
+gi|448826002|ref|YP_007418933.1|vFam_642| hypothetical protein LBA_01039 [Megavirus lba]
+gi|448825998|ref|YP_007418929.1|vFam_642| hypothetical protein LBA_01035 [Megavirus lba]
+gi|311977413|ref|YP_003986532.1|vFam_642| hypothetical protein [Acanthamoeba polyphaga mimivirus]

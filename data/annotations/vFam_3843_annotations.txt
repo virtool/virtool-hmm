@@ -1,0 +1,11 @@
+CLUSTER	3843
+NUM_SEQ	3
+LENGTH	83
+RELATIVE_ENTROPY_PER_POSITION	0.61
+TOTAL_RELATIVE_ENTROPY	50.63
+FAMILIES	{'None': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|370703049|ref|YP_004956850.1|vFam_3843| orf102 gene product [Helicoverpa zea nudivirus 2]
+gi|213159347|ref|YP_002321390.1|vFam_3843| GrBNV_gp59-like protein [Oryctes rhinoceros virus]
+gi|134303457|ref|YP_001111326.1|vFam_3843| hypothetical protein GrBNV_gp59 [Gryllus bimaculatus nudivirus]

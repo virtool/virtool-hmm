@@ -1,0 +1,37 @@
+CLUSTER	177
+NUM_SEQ	29
+LENGTH	561
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	291.72
+FAMILIES	{'Arenaviridae': 29}
+GENERA	{'None': 2, 'Arenavirus': 27}
+FASTA SEQUENCE TITLES:
+gi|401829640|ref|YP_006590091.1|vFam_177| nucleoprotein [Golden Gate virus]
+gi|401829634|ref|YP_006590087.1|vFam_177| nucleoprotein [CAS virus]
+gi|238890539|ref|YP_002929491.1|vFam_177| nucleocapsid protein [Lujo virus]
+gi|408354102|ref|YP_006858707.1|vFam_177| nucleoprotein [Lunk virus NKS-1]
+gi|23334590|ref|NP_694852.1|vFam_177| nucleoprotein [Lymphocytic choriomeningitis virus]
+gi|89903000|ref|YP_516231.1|vFam_177| nucleocapsid protein [Ippy virus]
+gi|56699503|ref|YP_170706.1|vFam_177| nucleocapsid protein [Mopeia Lassa virus reassortant 29]
+gi|89885731|ref|YP_516227.1|vFam_177| nucleocapsid protein [Mobala virus]
+gi|356491219|ref|YP_004933731.1|vFam_177| NP gene product [Luna virus]
+gi|255237670|ref|YP_003090215.1|vFam_177| nucleoprotein [Morogoro virus]
+gi|56699509|ref|YP_170710.1|vFam_177| nucleocapsid protein [Mopeia virus AN20410]
+gi|188572143|ref|YP_001911116.1|vFam_177| nucleocapsid protein [Tamiami virus]
+gi|188531119|ref|YP_001911114.1|vFam_177| nucleocapsid protein [Whitewater Arroyo virus]
+gi|164607210|ref|YP_001649227.1|vFam_177| nucleocapsid protein [Bear Canyon virus]
+gi|48696002|ref|YP_025081.1|vFam_177| nucleocapsid protein [Pirital virus]
+gi|189043028|ref|YP_001936018.1|vFam_177| nucleocapsid protein [Parana virus]
+gi|189026270|ref|YP_001936020.1|vFam_177| nucleocapsid protein [Flexal virus]
+gi|164682566|ref|YP_001649220.1|vFam_177| nucleocapsid protein [Allpahuayo virus]
+gi|55733700|ref|YP_138544.1|vFam_177| N protein [Pichinde virus]
+gi|189026276|ref|YP_001936022.1|vFam_177| nucleocapsid protein [Latino virus]
+gi|164607195|ref|YP_001649211.1|vFam_177| nucleocapsid protein [Oliveros virus]
+gi|172088173|ref|YP_001816783.1|vFam_177| nucleocapsid protein [Chapare virus]
+gi|52627081|ref|YP_089666.1|vFam_177| nucleocapsid protein [Sabia virus]
+gi|164607216|ref|YP_001649223.1|vFam_177| nucleocapsid protein [Cupixi virus]
+gi|164682563|ref|YP_001649209.1|vFam_177| nucleocapsid protein [Amapari virus]
+gi|34365540|ref|NP_899211.1|vFam_177| nucleocapsid protein [Guanarito virus]
+gi|23334596|ref|NP_694850.1|vFam_177| nucleoprotein [Tacaribe virus]
+gi|34365534|ref|NP_899213.1|vFam_177| nucleocapsid protein [Machupo virus]
+gi|34365531|ref|NP_899219.1|vFam_177| nucleocapsid protein [Junin virus]

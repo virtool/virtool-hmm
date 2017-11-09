@@ -1,0 +1,10 @@
+CLUSTER	4863
+NUM_SEQ	2
+LENGTH	196
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	101.92
+FAMILIES	{'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134287181|ref|YP_001110877.1|vFam_4863| hypothetical protein HVAV3e_gp024 [Heliothis virescens ascovirus 3e]
+gi|115298520|ref|YP_762373.1|vFam_4863| 21.0 kDa GroEL-like chaperone [Spodoptera frugiperda ascovirus 1a]

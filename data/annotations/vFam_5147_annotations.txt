@@ -1,0 +1,10 @@
+CLUSTER	5147
+NUM_SEQ	2
+LENGTH	86
+RELATIVE_ENTROPY_PER_POSITION	0.58
+TOTAL_RELATIVE_ENTROPY	49.88
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|41057469|ref|NP_957942.1|vFam_5147| ORF033 IMV membrane protein [Bovine papular stomatitis virus]
+gi|289183797|ref|YP_003457338.1|vFam_5147| IMV protein [Pseudocowpox virus]

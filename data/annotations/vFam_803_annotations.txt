@@ -1,0 +1,10 @@
+CLUSTER	803
+NUM_SEQ	2
+LENGTH	302
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	160.06
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409662|ref|YP_004347082.1|vFam_803| hypothetical protein LAU_0118 [Lausannevirus]
+gi|284504105|ref|YP_003406820.1|vFam_803| hypothetical protein MAR_ORF073 [Marseillevirus]

@@ -1,0 +1,16 @@
+CLUSTER	1320
+NUM_SEQ	8
+LENGTH	342
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	177.84
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Betabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|410493678|ref|YP_006908616.1|vFam_1320| Lef-3 [Epinotia aporema granulovirus]
+gi|21686770|ref|NP_663270.1|vFam_1320| late expression factor 3 [Phthorimaea operculella granulovirus]
+gi|556549132|ref|YP_008720046.1|vFam_1320| lef-3 [Clostera anastomosis granulovirus]
+gi|32698635|ref|NP_872550.1|vFam_1320| lef-3 [Adoxophyes orana granulovirus]
+gi|33622303|ref|NP_891950.1|vFam_1320| lef-3 [Cryptophlebia leucotreta granulovirus]
+gi|14602350|ref|NP_148897.1|vFam_1320| ORF113 LEF-3 [Cydia pomonella granulovirus]
+gi|109255364|ref|YP_654513.1|vFam_1320| LEF-3 [Choristoneura occidentalis granulovirus]
+gi|288804734|ref|YP_003429419.1|vFam_1320| LEF-3 [Pieris rapae granulovirus]

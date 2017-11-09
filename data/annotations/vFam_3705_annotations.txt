@@ -1,0 +1,12 @@
+CLUSTER	3705
+NUM_SEQ	4
+LENGTH	143
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	74.36
+FAMILIES	{'Hepadnaviridae': 3}
+GENERA	{'Orthohepadnavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|472438224|ref|YP_007678001.1|vFam_3705| X protein [Bat hepatitis virus]
+gi|21326587|ref|NP_647606.1|vFam_3705| X protein [Hepatitis B virus]
+gi|22256033|ref|NP_671815.1|vFam_3705| X protein [Woodchuck hepatitis virus]
+gi|9626718|ref|NP_040996.1|vFam_3705| hypothetical protein [Ground squirrel hepatitis virus]

@@ -1,0 +1,34 @@
+CLUSTER	126
+NUM_SEQ	26
+LENGTH	554
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	293.62
+FAMILIES	{'Closteroviridae': 24}
+GENERA	{'Ampelovirus': 8, 'None': 1, 'Closterovirus': 3, 'Crinivirus': 12}
+FASTA SEQUENCE TITLES:
+gi|359683127|ref|YP_004935921.1|vFam_126| HSP70 gene product [Grapevine leafroll-associated virus 7]
+gi|258676966|ref|YP_003204956.1|vFam_126| HSP70h [Tomato infectious chlorosis virus]
+gi|20153354|ref|NP_619695.1|vFam_126| heat-shock protein [Lettuce infectious yellows virus]
+gi|72398340|ref|YP_293699.1|vFam_126| heat shock protein 70 [Tomato chlorosis virus]
+gi|22550324|ref|NP_689401.1|vFam_126| viral HSP70 homologue [Sweet potato chlorotic stunt virus]
+gi|30840970|ref|NP_851572.1|vFam_126| Hsp70h [Cucurbit yellow stunting disorder virus]
+gi|177882063|ref|YP_001816775.1|vFam_126| p62 [Bean yellow disorder virus]
+gi|395865411|ref|YP_006522427.1|vFam_126| heat shock 70-kDa protein homologue [Cucurbit chlorotic yellows virus]
+gi|242916044|ref|YP_003002358.1|vFam_126| unnamed protein product [Lettuce chlorosis virus]
+gi|50428965|ref|YP_054417.1|vFam_126| heat shock protein homologue [Potato yellow vein virus]
+gi|62401634|ref|YP_227360.1|vFam_126| p62 [Blackberry yellow vein-associated virus]
+gi|48696543|ref|YP_025085.1|vFam_126| heat shock protein 70-like protein [Strawberry pallidosis-associated virus]
+gi|38257131|ref|NP_940788.1|vFam_126| HSP70h [Beet pseudoyellows virus]
+gi|563398779|ref|YP_008858533.1|vFam_126| HSP70 [Carnation yellow fleck virus]
+gi|9627406|ref|NP_041872.1|vFam_126| heat shock 70-related protein [Beet yellows virus]
+gi|115304327|ref|YP_762625.1|vFam_126| HSP 70h [Strawberry chlorotic fleck-associated virus]
+gi|9628270|ref|NP_042864.1|vFam_126| 65-kDa protein [Citrus tristeza virus]
+gi|160707863|ref|YP_001552326.1|vFam_126| heat shock protein 70-like protein [Plum bark necrosis and stem pitting-associated virus]
+gi|218202722|ref|YP_002364305.1|vFam_126| heat shock protein 70 [Grapevine leafroll-associated virus 10]
+gi|365824251|ref|YP_004935371.1|vFam_126| unnamed protein product [Grapevine leafroll-associated virus 4]
+gi|365824258|ref|YP_004935377.1|vFam_126| unnamed protein product [Grapevine leafroll-associated virus 6]
+gi|352749713|ref|YP_004901689.1|vFam_126| HSP70 gene product [Grapevine leafroll-associated virus 5]
+gi|33620707|ref|NP_891567.1|vFam_126| p60 [Little cherry virus 2]
+gi|366898515|ref|YP_004940644.1|vFam_126| HSP70 gene product [Grapevine leafroll-associated virus 1]
+gi|530547429|ref|YP_008411013.1|vFam_126| heat shock protein 70-like protein [Blackberry vein banding associated virus]
+gi|29366691|ref|NP_813799.1|vFam_126| 59 kDa protein [Grapevine leafroll-associated virus 3]

@@ -1,0 +1,17 @@
+CLUSTER	1183
+NUM_SEQ	9
+LENGTH	109
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	56.68
+FAMILIES	{'Geminiviridae': 9}
+GENERA	{'Mastrevirus': 9}
+FASTA SEQUENCE TITLES:
+gi|9626688|ref|NP_040962.1|vFam_1183| movement protein [Digitaria streak virus]
+gi|9625666|ref|NP_039916.1|vFam_1183| 10.9 kD protein [Maize streak virus]
+gi|262396920|ref|YP_003288766.1|vFam_1183| movement protein [Saccharum streak virus]
+gi|9629910|ref|NP_045942.1|vFam_1183| putative movement protein [Sugarcane streak Egypt virus]
+gi|9627991|ref|NP_042588.1|vFam_1183| movement protein [Panicum streak virus]
+gi|189303448|ref|YP_001941153.1|vFam_1183| movement protein [Urochloa streak virus]
+gi|168164404|ref|YP_001686792.1|vFam_1183| movement protein [Eragrostis streak virus]
+gi|20428540|ref|NP_620490.1|vFam_1183| movement protein [Sugarcane streak virus]
+gi|30146792|ref|NP_840050.1|vFam_1183| putative movement protein V1 [Sugarcane streak Reunion virus]

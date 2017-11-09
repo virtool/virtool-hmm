@@ -1,0 +1,12 @@
+CLUSTER	1487
+NUM_SEQ	4
+LENGTH	542
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	281.84
+FAMILIES	{'Adenoviridae': 4}
+GENERA	{'Mastadenovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|378554436|ref|YP_005271200.1|vFam_1487| unnamed protein product [Bat adenovirus TJM]
+gi|345462116|ref|YP_004782118.1|vFam_1487| unnamed protein product [Bat adenovirus 2]
+gi|56160977|ref|AP_000632.1|vFam_1487| fiber [Canine adenovirus 2]
+gi|56158872|ref|AP_000069.1|vFam_1487| fiber [Canine adenovirus 1]

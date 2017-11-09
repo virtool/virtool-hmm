@@ -1,0 +1,13 @@
+CLUSTER	1422
+NUM_SEQ	5
+LENGTH	262
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	136.24
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631351|ref|NP_048195.1|vFam_1422| ORF MSV124 putative mRNA capping enzyme small subunit homolog (vaccinia D12L), similar to PIR:S42252 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497833|ref|YP_008003632.1|vFam_1422| mRNA capping enzyme small subunit [Mythimna separata entomopoxvirus 'L']
+gi|506498116|ref|YP_008003913.1|vFam_1422| mRNA capping enzyme small subunit [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498727|ref|YP_008004521.1|vFam_1422| mRNA capping enzyme small subunit [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964407|ref|NP_064875.1|vFam_1422| putative mRNA capping enzyme small subunit [Amsacta moorei entomopoxvirus 'L']

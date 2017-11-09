@@ -1,0 +1,20 @@
+CLUSTER	522
+NUM_SEQ	12
+LENGTH	492
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	255.84
+FAMILIES	{'Herpesviridae': 12}
+GENERA	{'Muromegalovirus': 3, 'Cytomegalovirus': 5, 'Proboscivirus': 1, 'Roseolovirus': 2, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|496991144|ref|YP_007969809.1|vFam_522| protein UL49 [Elephantid herpesvirus 1]
+gi|538447232|ref|YP_008492972.1|vFam_522| virion protein [Porcine cytomegalovirus]
+gi|9633104|ref|NP_050214.1|vFam_522| capsid protein [Human herpesvirus 6B]
+gi|51874255|ref|YP_073773.1|vFam_522| protein UL49 [Human herpesvirus 7]
+gi|9845341|ref|NP_064155.1|vFam_522| pR49 [Murid herpesvirus 2]
+gi|61660171|ref|YP_214062.1|vFam_522| hypothetical protein MuHV1_gp054 [Murid herpesvirus 1]
+gi|425707259|ref|YP_007016456.1|vFam_522| E49 [Murid herpesvirus 8]
+gi|448824892|ref|YP_007417824.1|vFam_522| GP49 [Caviid herpesvirus 2]
+gi|359946493|ref|YP_004936025.1|vFam_522| protein UL49 [Cercopithecine herpesvirus 5]
+gi|356640372|ref|YP_004933814.1|vFam_522| protein UL49 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|360086537|ref|YP_004940222.1|vFam_522| protein UL49 [Saimiriine herpesvirus 3]
+gi|360040941|ref|YP_004940076.1|vFam_522| protein UL49 [Aotine herpesvirus 1]

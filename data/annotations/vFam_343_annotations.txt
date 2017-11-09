@@ -1,0 +1,24 @@
+CLUSTER	343
+NUM_SEQ	16
+LENGTH	122
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	64.66
+FAMILIES	{'Baculoviridae': 15}
+GENERA	{'Alphabaculovirus': 15}
+FASTA SEQUENCE TITLES:
+gi|15617580|ref|NP_258380.1|vFam_343| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|29567176|ref|NP_818738.1|vFam_343| hypothetical protein AhnVgp091 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|209401172|ref|YP_002274041.1|vFam_343| hypothetical protein HaSNPVNNg1_gp118 [Helicoverpa armigera NPV NNg1]
+gi|292397826|ref|YP_003517892.1|vFam_343| ORF152 [Lymantria xylina MNPV]
+gi|9631126|ref|NP_047796.1|vFam_343| LdOrf-159 peptide [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|118197572|ref|YP_874284.1|vFam_343| hypothetical protein EONV_gp091 [Ectropis obliqua nucleopolyhedrovirus]
+gi|113195515|ref|YP_717653.1|vFam_343| ac19-like protein [Clanis bilineata nucleopolyhedrovirus]
+gi|74229803|ref|YP_309007.1|vFam_343| orf118 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304262|ref|YP_249730.1|vFam_343| ORF-126 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|215401438|ref|YP_002332741.1|vFam_343| hypothetical protein SlnV2_gp043 [Spodoptera litura nucleopolyhedrovirus II]
+gi|125860162|ref|YP_001036332.1|vFam_343| hypothetical protein SFMNPV_gp040 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|22549451|ref|NP_689224.1|vFam_343| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|209170933|ref|YP_002268079.1|vFam_343| agip49 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592761|ref|YP_529714.1|vFam_343| ORF-44 [Agrotis segetum nucleopolyhedrovirus]
+gi|402502125|ref|YP_006607783.1|vFam_343| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|228861699|ref|YP_002854719.1|vFam_343| hypothetical protein EupsNPV_gp109 [Euproctis pseudoconspersa nucleopolyhedrovirus]

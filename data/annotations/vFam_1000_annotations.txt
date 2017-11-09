@@ -1,0 +1,14 @@
+CLUSTER	1000
+NUM_SEQ	6
+LENGTH	337
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	168.5
+FAMILIES	{'Hepadnaviridae': 5, 'Phycodnaviridae': 1}
+GENERA	{'Avihepadnavirus': 2, 'Prymnesiovirus': 1, 'None': 3}
+FASTA SEQUENCE TITLES:
+gi|508182035|ref|YP_008052554.1|vFam_1000| hypothetical protein PGCG_00236 [Phaeocystis globosa virus]
+gi|9626722|ref|NP_040999.1|vFam_1000| large surface antigen [Heron hepatitis B virus]
+gi|48696607|ref|YP_024969.1|vFam_1000| surface protein [Ross's goose hepatitis B virus]
+gi|48696571|ref|YP_024975.1|vFam_1000| preS protein [Sheldgoose hepatitis B virus]
+gi|49247996|ref|YP_031696.1|vFam_1000| preS antigen [Snow goose hepatitis B virus]
+gi|9625573|ref|NP_039823.1|vFam_1000| hypothetical protein DHBVgp5 [Duck hepatitis B virus]

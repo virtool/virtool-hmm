@@ -1,0 +1,11 @@
+CLUSTER	3936
+NUM_SEQ	3
+LENGTH	131
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	66.81
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Betabaculovirus': 2, 'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|46309396|ref|YP_006286.1|vFam_3936| ORF58 [Agrotis segetum granulovirus]
+gi|209978866|ref|YP_002300609.1|vFam_3936| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|32698651|ref|NP_872566.1|vFam_3936| ORF_112 [Adoxophyes orana granulovirus]

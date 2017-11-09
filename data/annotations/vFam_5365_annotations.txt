@@ -1,0 +1,10 @@
+CLUSTER	5365
+NUM_SEQ	2
+LENGTH	759
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	387.09
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441431938|ref|YP_007353983.1|vFam_5365| hypothetical protein [Aspergillus foetidus dsRNA mycovirus]
+gi|190643492|ref|YP_001976151.1|vFam_5365| hypothetical protein AltMyV_sM2gp1 [Alternaria alternata virus 1]

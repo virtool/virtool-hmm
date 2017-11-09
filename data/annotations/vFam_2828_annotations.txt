@@ -1,0 +1,10 @@
+CLUSTER	2828
+NUM_SEQ	2
+LENGTH	85
+RELATIVE_ENTROPY_PER_POSITION	0.57
+TOTAL_RELATIVE_ENTROPY	48.45
+FAMILIES	{'Baculoviridae': 1, 'Phycodnaviridae': 1}
+GENERA	{'Chlorovirus': 1, 'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|209170932|ref|YP_002268078.1|vFam_2828| agip48 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|157952917|ref|YP_001497809.1|vFam_2828| hypothetical protein NY2A_b613L [Paramecium bursaria Chlorella virus NY2A]

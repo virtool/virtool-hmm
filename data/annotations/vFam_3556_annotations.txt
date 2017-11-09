@@ -1,0 +1,11 @@
+CLUSTER	3556
+NUM_SEQ	3
+LENGTH	300
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	153.0
+FAMILIES	{'None': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|310831178|ref|YP_003969821.1|vFam_3556| hypothetical protein crov189 [Cafeteria roenbergensis virus BV-PW1]
+gi|310831502|ref|YP_003970145.1|vFam_3556| hypothetical protein crov512 [Cafeteria roenbergensis virus BV-PW1]
+gi|310831182|ref|YP_003969825.1|vFam_3556| hypothetical protein crov193 [Cafeteria roenbergensis virus BV-PW1]

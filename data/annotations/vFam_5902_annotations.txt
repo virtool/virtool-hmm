@@ -1,0 +1,10 @@
+CLUSTER	5902
+NUM_SEQ	2
+LENGTH	192
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	99.84
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52139316|ref|YP_081591.1|vFam_5902| membrane glycoprotein US6 [Human herpesvirus 5]
+gi|20026737|ref|NP_612779.1|vFam_5902| membrane glycoprotein US6 [Panine herpesvirus 2]

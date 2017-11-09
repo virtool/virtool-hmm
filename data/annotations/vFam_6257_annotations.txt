@@ -1,0 +1,10 @@
+CLUSTER	6257
+NUM_SEQ	2
+LENGTH	137
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	69.87
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|74229812|ref|YP_309016.1|vFam_6257| hypothetical protein TNSV_gp127 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304271|ref|YP_249739.1|vFam_6257| ORF-135 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]

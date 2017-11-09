@@ -1,0 +1,10 @@
+CLUSTER	5929
+NUM_SEQ	2
+LENGTH	135
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	68.85
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Prymnesiovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|508182115|ref|YP_008052634.1|vFam_5929| hypothetical protein PGCG_00316 [Phaeocystis globosa virus]
+gi|508182114|ref|YP_008052633.1|vFam_5929| hypothetical protein PGCG_00315 [Phaeocystis globosa virus]

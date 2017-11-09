@@ -1,0 +1,11 @@
+CLUSTER	4920
+NUM_SEQ	3
+LENGTH	258
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	134.16
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977894|ref|YP_003987014.1|vFam_4920| putative intron encoded endonuclease [Acanthamoeba polyphaga mimivirus]
+gi|448825326|ref|YP_007418257.1|vFam_4920| putative intron encoded endonuclease [Megavirus lba]
+gi|441432236|ref|YP_007354278.1|vFam_4920| Group I intron endonuclease [Acanthamoeba polyphaga moumouvirus]

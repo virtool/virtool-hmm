@@ -1,0 +1,11 @@
+CLUSTER	5035
+NUM_SEQ	3
+LENGTH	74
+RELATIVE_ENTROPY_PER_POSITION	0.70
+TOTAL_RELATIVE_ENTROPY	51.8
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329515|ref|YP_001604314.1|vFam_5035| hypothetical protein AFV8_gp33 [Acidianus filamentous virus 8]
+gi|16753125|ref|NP_445703.1|vFam_5035| hypothetical protein SIFV0038 [Sulfolobus islandicus filamentous virus]
+gi|171473683|ref|YP_001798553.1|vFam_5035| hypothetical protein AFV9_gp35 [Acidianus filamentous virus 9]

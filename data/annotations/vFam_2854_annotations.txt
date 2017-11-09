@@ -1,0 +1,11 @@
+CLUSTER	2854
+NUM_SEQ	3
+LENGTH	350
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	175.0
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977707|ref|YP_003986827.1|vFam_2854| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432431|ref|YP_007354473.1|vFam_2854| hypothetical protein Moumou_00503 [Acanthamoeba polyphaga moumouvirus]
+gi|363540026|ref|YP_004894630.1|vFam_2854| mg579 gene product [Megavirus chiliensis]

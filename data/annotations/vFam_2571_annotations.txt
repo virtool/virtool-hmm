@@ -1,0 +1,11 @@
+CLUSTER	2571
+NUM_SEQ	3
+LENGTH	284
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	147.68
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977706|ref|YP_003986826.1|vFam_2571| uncharacterized myristoylated membrane protein [Acanthamoeba polyphaga mimivirus]
+gi|448825557|ref|YP_007418488.1|vFam_2571| hypothetical protein LBA_00594 [Megavirus lba]
+gi|441432433|ref|YP_007354475.1|vFam_2571| Myristylated IMV envelope protein [Acanthamoeba polyphaga moumouvirus]

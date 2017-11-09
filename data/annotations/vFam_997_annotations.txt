@@ -1,0 +1,11 @@
+CLUSTER	997
+NUM_SEQ	3
+LENGTH	322
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	167.44
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 1, 'Roseolovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|538447224|ref|YP_008492964.1|vFam_997| tegument protein [Porcine cytomegalovirus]
+gi|9633096|ref|NP_050206.1|vFam_997| hypothetical protein HhV6Bgp025 [Human herpesvirus 6B]
+gi|51874247|ref|YP_073765.1|vFam_997| tegument protein UL43 [Human herpesvirus 7]

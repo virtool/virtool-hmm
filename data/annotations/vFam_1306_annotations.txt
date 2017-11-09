@@ -1,0 +1,11 @@
+CLUSTER	1306
+NUM_SEQ	3
+LENGTH	523
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	271.96
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977562|ref|YP_003986682.1|vFam_1306| putative amine oxidase [Acanthamoeba polyphaga mimivirus]
+gi|448825922|ref|YP_007418853.1|vFam_1306| putative amine oxidase [Megavirus lba]
+gi|441432053|ref|YP_007354095.1|vFam_1306| Flavin containing amine oxidoreductase [Acanthamoeba polyphaga moumouvirus]

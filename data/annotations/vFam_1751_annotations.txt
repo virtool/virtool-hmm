@@ -1,0 +1,14 @@
+CLUSTER	1751
+NUM_SEQ	6
+LENGTH	315
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	160.65
+FAMILIES	{'Phycodnaviridae': 5}
+GENERA	{'Chlorovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|32453913|ref|NP_861677.1|vFam_1751| hypothetical protein HalHV1gp089 [Halovirus HF1]
+gi|340025925|ref|NP_048973.2|vFam_1751| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953925|ref|YP_001498816.1|vFam_1751| hypothetical protein AR158_C735R [Paramecium bursaria Chlorella virus AR158]
+gi|157953122|ref|YP_001498014.1|vFam_1751| hypothetical protein NY2A_B818R [Paramecium bursaria Chlorella virus NY2A]
+gi|155370822|ref|YP_001426356.1|vFam_1751| hypothetical protein FR483_N724R [Paramecium bursaria Chlorella virus FR483]
+gi|155371523|ref|YP_001427057.1|vFam_1751| hypothetical protein ATCV1_Z576R [Acanthocystis turfacea Chlorella virus 1]

@@ -1,0 +1,11 @@
+CLUSTER	4714
+NUM_SEQ	3
+LENGTH	192
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	97.92
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977825|ref|YP_003986945.1|vFam_4714| putative TLC domain-containing protein [Acanthamoeba polyphaga mimivirus]
+gi|448825410|ref|YP_007418341.1|vFam_4714| putative TLC domain-containing protein [Megavirus lba]
+gi|441432308|ref|YP_007354350.1|vFam_4714| putative membrane protein [Acanthamoeba polyphaga moumouvirus]

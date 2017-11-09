@@ -1,0 +1,11 @@
+CLUSTER	4861
+NUM_SEQ	3
+LENGTH	412
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	218.36
+FAMILIES	{'Reoviridae': 3}
+GENERA	{'Aquareovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|81157817|ref|YP_398635.1|vFam_4861| core protein VP6 [Aquareovirus A]
+gi|182682792|ref|YP_001837102.1|vFam_4861| VP6 [American grass carp reovirus]
+gi|38147316|ref|NP_938068.1|vFam_4861| core protein VP6 [Aquareovirus C]

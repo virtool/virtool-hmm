@@ -1,0 +1,10 @@
+CLUSTER	3931
+NUM_SEQ	2
+LENGTH	182
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	92.82
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|359946546|ref|YP_004936079.1|vFam_3931| membrane protein UL121 [Cercopithecine herpesvirus 5]
+gi|356640459|ref|YP_004933901.1|vFam_3931| putative membrane glycoprotein UL121 [Cynomolgus macaque cytomegalovirus strain Ottawa]

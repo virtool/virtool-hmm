@@ -1,0 +1,14 @@
+CLUSTER	1088
+NUM_SEQ	6
+LENGTH	116
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	58.0
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|441432807|ref|YP_007354849.1|vFam_1088| hypothetical protein Moumou_00898 [Acanthamoeba polyphaga moumouvirus]
+gi|311977415|ref|YP_003986534.1|vFam_1088| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|531036176|ref|YP_008437812.1|vFam_1088| hypothetical protein ps_1401 [Pandoravirus salinus]
+gi|531036174|ref|YP_008437810.1|vFam_1088| hypothetical protein ps_1399 [Pandoravirus salinus]
+gi|531036173|ref|YP_008437809.1|vFam_1088| hypothetical protein ps_1398 [Pandoravirus salinus]
+gi|526119590|ref|YP_008319493.1|vFam_1088| hypothetical protein [Pandoravirus dulcis]

@@ -1,0 +1,10 @@
+CLUSTER	5963
+NUM_SEQ	2
+LENGTH	410
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	209.1
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159387|ref|YP_002321430.1|vFam_5963| GrBNV_gp36-like protein [Oryctes rhinoceros virus]
+gi|134303434|ref|YP_001111303.1|vFam_5963| hypothetical protein GrBNV_gp36 [Gryllus bimaculatus nudivirus]

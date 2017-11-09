@@ -1,0 +1,12 @@
+CLUSTER	2589
+NUM_SEQ	4
+LENGTH	131
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	68.12
+FAMILIES	{'Flaviviridae': 4}
+GENERA	{'Flavivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|27596768|ref|NP_775519.1|vFam_2589| non-structural protein NS2b [Powassan virus]
+gi|27545510|ref|NP_775473.1|vFam_2589| non-structural protein NS2b [Alkhumra hemorrhagic fever virus]
+gi|27596781|ref|NP_775506.1|vFam_2589| non-structural protein NS2b [Tick-borne encephalitis virus]
+gi|25121530|ref|NP_740298.1|vFam_2589| nonstructural protein NS2b [Langat virus]

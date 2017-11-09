@@ -1,0 +1,12 @@
+CLUSTER	3562
+NUM_SEQ	4
+LENGTH	265
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	135.15
+FAMILIES	{'None': 1, 'Baculoviridae': 3}
+GENERA	{'None': 1, 'Gammabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|355348569|ref|YP_004928120.1|vFam_3562| p29 [Hibiscus green spot virus]
+gi|48843611|ref|YP_025184.1|vFam_3562| hypothetical protein NeseNPV_gp77 [Neodiprion sertifer nucleopolyhedrovirus]
+gi|48843703|ref|YP_025275.1|vFam_3562| unknown [Neodiprion lecontei nucleopolyhedrovirus]
+gi|110645286|ref|YP_667925.1|vFam_3562| hypothetical protein [Neodiprion abietis NPV]

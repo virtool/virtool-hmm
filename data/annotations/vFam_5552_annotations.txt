@@ -1,0 +1,10 @@
+CLUSTER	5552
+NUM_SEQ	2
+LENGTH	530
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	270.3
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035535|ref|YP_008437166.1|vFam_5552| hypothetical protein ps_753 [Pandoravirus salinus]
+gi|526119263|ref|YP_008319166.1|vFam_5552| hypothetical protein [Pandoravirus dulcis]

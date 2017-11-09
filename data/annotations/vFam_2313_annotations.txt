@@ -1,0 +1,12 @@
+CLUSTER	2313
+NUM_SEQ	4
+LENGTH	554
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	288.08
+FAMILIES	{'None': 1, 'Mimiviridae': 3}
+GENERA	{'None': 2, 'Mimivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|441432712|ref|YP_007354754.1|vFam_2313| GMC oxidoreductase [Acanthamoeba polyphaga moumouvirus]
+gi|311978245|ref|YP_003987365.1|vFam_2313| glucose-methanol-choline oxidoreductase [Acanthamoeba polyphaga mimivirus]
+gi|448825877|ref|YP_007418808.1|vFam_2313| putative GMC-type oxidoreductase [Megavirus lba]
+gi|311977499|ref|YP_003986619.1|vFam_2313| putative GMC-type oxidoreductase [Acanthamoeba polyphaga mimivirus]

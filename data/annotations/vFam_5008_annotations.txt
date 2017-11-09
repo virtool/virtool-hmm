@@ -1,0 +1,11 @@
+CLUSTER	5008
+NUM_SEQ	3
+LENGTH	108
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	55.08
+FAMILIES	{'Adenoviridae': 3}
+GENERA	{'Siadenovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9630798|ref|NP_047382.1|vFam_5008| hypothetical protein TaV3gp04 [Turkey adenovirus A]
+gi|363540936|ref|YP_004935929.1|vFam_5008| unnamed protein product [Skua adenovirus A]
+gi|331271186|ref|YP_004414798.1|vFam_5008| hypothetical protein RAdV-1_gp02 [Raptor adenovirus A]

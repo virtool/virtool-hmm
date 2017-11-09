@@ -1,0 +1,11 @@
+CLUSTER	3201
+NUM_SEQ	3
+LENGTH	178
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	92.56
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|16753121|ref|NP_445699.1|vFam_3201| hypothetical protein SIFV0034 [Sulfolobus islandicus filamentous virus]
+gi|162329511|ref|YP_001604310.1|vFam_3201| hypothetical protein AFV8_gp29 [Acidianus filamentous virus 8]
+gi|171473679|ref|YP_001798549.1|vFam_3201| hypothetical protein AFV9_gp31 [Acidianus filamentous virus 9]

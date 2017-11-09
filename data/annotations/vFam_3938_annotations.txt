@@ -1,0 +1,11 @@
+CLUSTER	3938
+NUM_SEQ	3
+LENGTH	402
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	209.04
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977815|ref|YP_003986935.1|vFam_3938| putative 3'-5' exonuclease [Acanthamoeba polyphaga mimivirus]
+gi|448825421|ref|YP_007418352.1|vFam_3938| putative 3'-5' exonuclease [Megavirus lba]
+gi|441432317|ref|YP_007354359.1|vFam_3938| 3'-5' exonuclease [Acanthamoeba polyphaga moumouvirus]

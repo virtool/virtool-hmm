@@ -1,0 +1,11 @@
+CLUSTER	3654
+NUM_SEQ	3
+LENGTH	117
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	59.67
+FAMILIES	{'None': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|370702971|ref|YP_004956773.1|vFam_3654| orf25 gene product [Helicoverpa zea nudivirus 2]
+gi|213159309|ref|YP_002321352.1|vFam_3654| GrBNV_gp95-like protein [Oryctes rhinoceros virus]
+gi|134303493|ref|YP_001111362.1|vFam_3654| hypothetical protein GrBNV_gp95 [Gryllus bimaculatus nudivirus]

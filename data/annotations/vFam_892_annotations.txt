@@ -1,0 +1,17 @@
+CLUSTER	892
+NUM_SEQ	9
+LENGTH	226
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	119.78
+FAMILIES	{'None': 2, 'Mimiviridae': 7}
+GENERA	{'None': 9}
+FASTA SEQUENCE TITLES:
+gi|441432626|ref|YP_007354668.1|vFam_892| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]
+gi|441432622|ref|YP_007354664.1|vFam_892| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]
+gi|448825788|ref|YP_007418719.1|vFam_892| putative ankyrin repeat protein [Megavirus lba]
+gi|441431972|ref|YP_007354014.1|vFam_892| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]
+gi|363539797|ref|YP_004895079.1|vFam_892| mg1028 gene product [Megavirus chiliensis]
+gi|448826043|ref|YP_007418974.1|vFam_892| hypothetical protein LBA_01080 [Megavirus lba]
+gi|441431953|ref|YP_007353995.1|vFam_892| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]
+gi|441432620|ref|YP_007354662.1|vFam_892| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]
+gi|441432619|ref|YP_007354661.1|vFam_892| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]

@@ -1,0 +1,17 @@
+CLUSTER	663
+NUM_SEQ	9
+LENGTH	158
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	77.42
+FAMILIES	{'None': 4, 'Phycodnaviridae': 1, 'Mimiviridae': 2, 'Poxviridae': 1}
+GENERA	{'None': 6, 'Prymnesiovirus': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631419|ref|NP_048327.1|vFam_663| ORF MSV256 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|508182185|ref|YP_008052704.1|vFam_663| hypothetical protein PGCG_00393 [Phaeocystis globosa virus]
+gi|531036578|ref|YP_008438215.1|vFam_663| ubiquitin-conjugating enzyme E2 motif-containing [Pandoravirus salinus]
+gi|310831091|ref|YP_003969734.1|vFam_663| putative ubiquitin-conjugating enzyme E2 [Cafeteria roenbergensis virus BV-PW1]
+gi|311977847|ref|YP_003986967.1|vFam_663| probable ubiquitin-conjugating enzyme E2 [Acanthamoeba polyphaga mimivirus]
+gi|448825382|ref|YP_007418313.1|vFam_663| putative ubiquitin-conjugating enzyme E2 [Megavirus lba]
+gi|441432284|ref|YP_007354326.1|vFam_663| Ubiquitin-conjugating enzyme [Acanthamoeba polyphaga moumouvirus]
+gi|310831047|ref|YP_003969690.1|vFam_663| putative ubiquitin-conjugating enzyme E2 [Cafeteria roenbergensis virus BV-PW1]
+gi|310831270|ref|YP_003969913.1|vFam_663| putative ubiquitin-conjugating enzyme E2 [Cafeteria roenbergensis virus BV-PW1]

@@ -1,0 +1,11 @@
+CLUSTER	3805
+NUM_SEQ	3
+LENGTH	234
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	121.68
+FAMILIES	{'Flaviviridae': 3}
+GENERA	{'Flavivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|254688383|ref|YP_003084127.1|vFam_3805| putative NS2A protein [Aedes flavivirus]
+gi|37695584|ref|NP_937775.1|vFam_3805| NS2A protein [Kamiti River virus]
+gi|27735343|ref|NP_776042.1|vFam_3805| putative non-structural protein NS2a [Cell fusing agent virus]

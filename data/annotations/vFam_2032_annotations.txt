@@ -1,0 +1,11 @@
+CLUSTER	2032
+NUM_SEQ	3
+LENGTH	480
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	249.6
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Betabaculovirus': 2, 'Alphabaculovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|148368933|ref|YP_001257063.1|vFam_2032| hypothetical protein SlGVgp112 [Spodoptera litura granulovirus]
+gi|22549456|ref|NP_689229.1|vFam_2032| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|285002336|ref|YP_003422400.1|vFam_2032| hypothetical protein PsunGV_gp061 [Pseudaletia unipuncta granulovirus]

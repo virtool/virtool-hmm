@@ -1,0 +1,10 @@
+CLUSTER	3568
+NUM_SEQ	2
+LENGTH	108
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	55.08
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Gammabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|48843631|ref|YP_025199.1|vFam_3568| unknown [Neodiprion lecontei nucleopolyhedrovirus]
+gi|110645293|ref|YP_667932.1|vFam_3568| hypothetical protein [Neodiprion abietis NPV]

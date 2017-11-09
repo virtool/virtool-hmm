@@ -1,0 +1,11 @@
+CLUSTER	5119
+NUM_SEQ	3
+LENGTH	98
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	50.96
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|48696998|ref|YP_024995.1|vFam_5119| hypothetical protein C92 [Sulfolobus turreted icosahedral virus]
+gi|22122322|ref|NP_666583.1|vFam_5119| hypothetical protein SIRV2gp49 [Sulfolobus islandicus rod-shaped virus 2]
+gi|22122269|ref|NP_666630.1|vFam_5119| hypothetical protein SIRV1gp42 [Sulfolobus islandicus rod-shaped virus 1]

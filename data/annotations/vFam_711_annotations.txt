@@ -1,0 +1,18 @@
+CLUSTER	711
+NUM_SEQ	10
+LENGTH	272
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	141.44
+FAMILIES	{'Poxviridae': 10}
+GENERA	{'None': 1, 'Cervidpoxvirus': 2, 'Leporipoxvirus': 2, 'Capripoxvirus': 1, 'Orthopoxvirus': 3, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9633962|ref|NP_052042.1|vFam_711| gp007R [Rabbit fibroma virus]
+gi|9633801|ref|NP_051720.1|vFam_711| m7 [Myxoma virus]
+gi|377830045|ref|YP_005296205.1|vFam_711| unnamed protein product [Cotia virus SPAn232]
+gi|345107351|ref|YP_004821516.1|vFam_711| soluble interferon-gamma receptor-like protein [Yoka poxvirus]
+gi|66275987|ref|YP_233072.1|vFam_711| soluble interferon-gamma receptor-like protein [Vaccinia virus]
+gi|9627698|ref|NP_042221.1|vFam_711| hypothetical protein VARVgp177 [Variola virus]
+gi|148912886|ref|YP_001293200.1|vFam_711| hypothetical protein GTPV_gp006 [Goatpox virus Pellor]
+gi|18640094|ref|NP_570168.1|vFam_711| SPV008 interferon gamma receptor-like protein [Swinepox virus]
+gi|211956284|ref|YP_002302352.1|vFam_711| soluble IFN-g receptor [Deerpox virus W-1170-84]
+gi|62637389|ref|YP_227387.1|vFam_711| Soluble IFN-g receptor [Deerpox virus W-848-83]

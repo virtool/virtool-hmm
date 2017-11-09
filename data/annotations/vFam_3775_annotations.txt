@@ -1,0 +1,11 @@
+CLUSTER	3775
+NUM_SEQ	3
+LENGTH	247
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	125.97
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977594|ref|YP_003986714.1|vFam_3775| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825268|ref|YP_007418199.1|vFam_3775| hypothetical protein LBA_00303 [Megavirus lba]
+gi|441432182|ref|YP_007354224.1|vFam_3775| DSRM[cd00048], Double-stranded RNA binding motif-containing protein [Acanthamoeba polyphaga moumouvirus]

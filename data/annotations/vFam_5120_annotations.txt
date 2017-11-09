@@ -1,0 +1,11 @@
+CLUSTER	5120
+NUM_SEQ	3
+LENGTH	55
+RELATIVE_ENTROPY_PER_POSITION	0.93
+TOTAL_RELATIVE_ENTROPY	51.15
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|38639806|ref|NP_944457.1|vFam_5120| ORF 68 [Sulfolobus spindle-shaped virus 2]
+gi|38639809|ref|NP_944460.1|vFam_5120| ORF 70 [Sulfolobus spindle-shaped virus 2]
+gi|38639808|ref|NP_944459.1|vFam_5120| ORF 55b [Sulfolobus spindle-shaped virus 2]

@@ -1,0 +1,10 @@
+CLUSTER	6129
+NUM_SEQ	2
+LENGTH	100
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	52.0
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|260666073|ref|YP_003213027.1|vFam_6129| hypothetical protein H665_p204 [Ostreococcus tauri virus 1]
+gi|163955208|ref|YP_001648312.1|vFam_6129| hypothetical protein OsV5_236f [Ostreococcus virus OsV5]

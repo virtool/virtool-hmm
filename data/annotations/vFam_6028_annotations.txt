@@ -1,0 +1,10 @@
+CLUSTER	6028
+NUM_SEQ	2
+LENGTH	88
+RELATIVE_ENTROPY_PER_POSITION	0.59
+TOTAL_RELATIVE_ENTROPY	51.92
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|360086636|ref|YP_004940212.1|vFam_6028| membrane protein A20A [Saimiriine herpesvirus 3]
+gi|360041053|ref|YP_004940066.1|vFam_6028| membrane protein A20A [Aotine herpesvirus 1]

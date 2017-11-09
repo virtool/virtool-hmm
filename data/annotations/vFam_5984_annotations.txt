@@ -1,0 +1,10 @@
+CLUSTER	5984
+NUM_SEQ	2
+LENGTH	301
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	153.51
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|310831421|ref|YP_003970064.1|vFam_5984| hypothetical protein crov431 [Cafeteria roenbergensis virus BV-PW1]
+gi|310831298|ref|YP_003969941.1|vFam_5984| putative tubulin-tyrosine ligase family protein [Cafeteria roenbergensis virus BV-PW1]

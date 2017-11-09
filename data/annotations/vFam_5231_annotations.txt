@@ -1,0 +1,10 @@
+CLUSTER	5231
+NUM_SEQ	2
+LENGTH	402
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	201.0
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'Phaeovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|197322454|ref|YP_002154727.1|vFam_5231| putative ATPase [Feldmannia species virus]
+gi|13242609|ref|NP_077623.1|vFam_5231| EsV-1-138 [Ectocarpus siliculosus virus 1]

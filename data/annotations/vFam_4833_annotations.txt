@@ -1,0 +1,11 @@
+CLUSTER	4833
+NUM_SEQ	3
+LENGTH	125
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	63.75
+FAMILIES	{'None': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|394922853|ref|YP_005454287.1|vFam_4833| ORF3 [Halorubrum pleomorphic virus 6]
+gi|226596531|ref|YP_002791887.1|vFam_4833| hypothetical protein HRPV-1_gp2 [Halorubrum pleomorphic virus 1]
+gi|284520909|ref|YP_003411996.1|vFam_4833| unkown [Haloarcula hispanica pleomorphic virus 1]

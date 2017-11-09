@@ -1,0 +1,13 @@
+CLUSTER	2025
+NUM_SEQ	5
+LENGTH	99
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	51.48
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9964440|ref|NP_064908.1|vFam_2025| hypothetical protein AMV126 [Amsacta moorei entomopoxvirus 'L']
+gi|506498753|ref|YP_008004547.1|vFam_2025| unknown similar to AMEV126 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498449|ref|YP_008004245.1|vFam_2025| unknown similar to AMEV126 [Choristoneura biennis entomopoxvirus 'L']
+gi|506497859|ref|YP_008003658.1|vFam_2025| unknown similar to AMEV126 [Mythimna separata entomopoxvirus 'L']
+gi|506498222|ref|YP_008004019.1|vFam_2025| unknown similar to AMEV126 [Adoxophyes honmai entomopoxvirus 'L']

@@ -1,0 +1,11 @@
+CLUSTER	3904
+NUM_SEQ	3
+LENGTH	207
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	107.64
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978019|ref|YP_003987139.1|vFam_3904| putative tyrosine-protein phosphatase [Acanthamoeba polyphaga mimivirus]
+gi|448825740|ref|YP_007418671.1|vFam_3904| putative tyrosine-protein phosphatase [Megavirus lba]
+gi|441432576|ref|YP_007354618.1|vFam_3904| Dual specificity S/Y phosphatase [Acanthamoeba polyphaga moumouvirus]

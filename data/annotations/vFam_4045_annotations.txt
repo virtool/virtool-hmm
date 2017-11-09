@@ -1,0 +1,10 @@
+CLUSTER	4045
+NUM_SEQ	2
+LENGTH	366
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	186.66
+FAMILIES	{'Iridoviridae': 2}
+GENERA	{'Lymphocystivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|51870092|ref|YP_073645.1|vFam_4045| hypothetical protein LDVICp139 [Lymphocystis disease virus - isolate China]
+gi|13358430|ref|NP_078696.1|vFam_4045| Tristetraprolin-like zinc finger protein C3H [Lymphocystis disease virus 1]

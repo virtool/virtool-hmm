@@ -1,0 +1,10 @@
+CLUSTER	3285
+NUM_SEQ	2
+LENGTH	518
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	269.36
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 1, 'Muromegalovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|20026638|ref|NP_612680.1|vFam_3285| tegument protein vICA [Panine herpesvirus 2]
+gi|9845327|ref|NP_064141.1|vFam_3285| pR36 [Murid herpesvirus 2]

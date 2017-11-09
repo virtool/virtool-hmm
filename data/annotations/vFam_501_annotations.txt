@@ -1,0 +1,23 @@
+CLUSTER	501
+NUM_SEQ	15
+LENGTH	63
+RELATIVE_ENTROPY_PER_POSITION	0.84
+TOTAL_RELATIVE_ENTROPY	52.92
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Suipoxvirus': 1, 'Yatapoxvirus': 1, 'Parapoxvirus': 2, 'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|41057478|ref|NP_957951.1|vFam_501| ORF042 RNA polymerase subunit RPO7 [Bovine papular stomatitis virus]
+gi|289183806|ref|YP_003457347.1|vFam_501| RNA-polymerase subunit RPO7 [Pseudocowpox virus]
+gi|115531741|ref|YP_784267.1|vFam_501| RNA polymerase subunit RPO7 [Nile crocodilepox virus]
+gi|9628993|ref|NP_044012.1|vFam_501| MC061R [Molluscum contagiosum virus subtype 1]
+gi|571797975|ref|YP_008658474.1|vFam_501| DNA-directed RNA polymerase subunit rpo7 [Squirrelpox virus]
+gi|377829964|ref|YP_005296259.1|vFam_501| unnamed protein product [Cotia virus SPAn232]
+gi|113195263|ref|YP_717393.1|vFam_501| DNA-dependent RNA polymerase subunit rpo7 [Taterapox virus]
+gi|345107250|ref|YP_004821415.1|vFam_501| DNA-dependent RNA polymerase subunit rpo7 [Yoka poxvirus]
+gi|9633859|ref|NP_051939.1|vFam_501| gp050R [Rabbit fibroma virus]
+gi|157939678|ref|YP_001497050.1|vFam_501| RNA polymerase subunit rpo7 [Tanapox virus]
+gi|211956335|ref|YP_002302404.1|vFam_501| RNA polymerase subunit RPO7 [Deerpox virus W-1170-84]
+gi|148912932|ref|YP_001293246.1|vFam_501| hypothetical protein GTPV_gp051 [Goatpox virus Pellor]
+gi|18640138|ref|NP_570212.1|vFam_501| SPV052 RNA polymerase subunit RPO7 [Swinepox virus]
+gi|40556084|ref|NP_955169.1|vFam_501| CNPV146 RNA polymerase subunit RPO7 [Canarypox virus]
+gi|9634788|ref|NP_039081.1|vFam_501| RNA polymerase subunit, RP07 [Fowlpox virus]

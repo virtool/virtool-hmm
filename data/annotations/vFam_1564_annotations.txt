@@ -1,0 +1,15 @@
+CLUSTER	1564
+NUM_SEQ	7
+LENGTH	136
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	65.28
+FAMILIES	{'Marseillevirus family': 7}
+GENERA	{'None': 7}
+FASTA SEQUENCE TITLES:
+gi|327409555|ref|YP_004346975.1|vFam_1564| hypothetical protein LAU_0007 [Lausannevirus]
+gi|327409699|ref|YP_004347119.1|vFam_1564| hypothetical protein LAU_0156 [Lausannevirus]
+gi|327409700|ref|YP_004347120.1|vFam_1564| hypothetical protein LAU_0157 [Lausannevirus]
+gi|327409597|ref|YP_004347017.1|vFam_1564| hypothetical protein LAU_0049 [Lausannevirus]
+gi|284504192|ref|YP_003406907.1|vFam_1564| hypothetical protein MAR_ORF164 [Marseillevirus]
+gi|327409831|ref|YP_004347251.1|vFam_1564| hypothetical protein LAU_0288 [Lausannevirus]
+gi|284504301|ref|YP_003407016.1|vFam_1564| hypothetical protein MAR_ORF280 [Marseillevirus]

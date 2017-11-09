@@ -1,0 +1,13 @@
+CLUSTER	2020
+NUM_SEQ	5
+LENGTH	91
+RELATIVE_ENTROPY_PER_POSITION	0.57
+TOTAL_RELATIVE_ENTROPY	51.87
+FAMILIES	{'Bunyaviridae': 5}
+GENERA	{'Orthobunyavirus': 5}
+FASTA SEQUENCE TITLES:
+gi|44965102|ref|NP_982306.1|vFam_2020| non-structural protein [Oropouche virus]
+gi|401829608|ref|YP_006590072.1|vFam_2020| non-structural protein [Aino virus]
+gi|157939569|ref|YP_001497162.1|vFam_2020| nonstructual protein [Akabane virus]
+gi|401829629|ref|YP_006590084.1|vFam_2020| non-structural protein [Simbu virus]
+gi|401829618|ref|YP_006590078.1|vFam_2020| non-structural protein [Shamonda virus]

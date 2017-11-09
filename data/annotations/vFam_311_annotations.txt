@@ -1,0 +1,14 @@
+CLUSTER	311
+NUM_SEQ	6
+LENGTH	248
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	126.48
+FAMILIES	{'Alloherpesviridae': 1, 'Phycodnaviridae': 3, 'Baculoviridae': 1}
+GENERA	{'Betabaculovirus': 1, 'Prymnesiovirus': 1, 'Batrachovirus': 1, 'Prasinovirus': 1, 'Coccolithovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|313768429|ref|YP_004062109.1|vFam_311| hypothetical protein MpV1_226c [Micromonas sp. RCC1109 virus MpV1]
+gi|46309428|ref|YP_006318.1|vFam_311| ORF26 [Agrotis segetum granulovirus]
+gi|508182161|ref|YP_008052680.1|vFam_311| hypothetical protein PGCG_00362 [Phaeocystis globosa virus]
+gi|73852823|ref|YP_294107.1|vFam_311| putative protease [Emiliania huxleyi virus 86]
+gi|109638557|ref|YP_656678.1|vFam_311| ORF23 [Ranid herpesvirus 1]
+gi|531034969|ref|YP_008436594.1|vFam_311| hypothetical protein ps_178 [Pandoravirus salinus]

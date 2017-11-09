@@ -1,0 +1,18 @@
+CLUSTER	1014
+NUM_SEQ	10
+LENGTH	137
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	69.87
+FAMILIES	{'Caulimoviridae': 10}
+GENERA	{'None': 1, 'Badnavirus': 9}
+FASTA SEQUENCE TITLES:
+gi|340616008|ref|YP_004732982.1|vFam_1014| hypothetical protein [Grapevine vein-clearing virus]
+gi|394743640|ref|YP_006495798.1|vFam_1014| hypothetical protein [Gooseberry vein banding associated virus]
+gi|27228720|ref|NP_758807.1|vFam_1014| hypothetical protein TaBVgp2 [Taro bacilliform virus]
+gi|259120463|ref|YP_003208049.1|vFam_1014| hypothetical protein [Pelargonium vein banding virus]
+gi|148839271|ref|YP_001293181.1|vFam_1014| hypothetical protein LBBV_gp2 [Lucky bamboo bacilliform virus]
+gi|9627248|ref|NP_041733.1|vFam_1014| hypothetical protein CSSVgp2 [Cacao swollen shoot virus]
+gi|125860393|ref|YP_001036292.1|vFam_1014| ORF2 protein [Dioscorea bacilliform virus]
+gi|386522856|ref|YP_006273074.1|vFam_1014| hypothetical protein [Fig badnavirus 1]
+gi|544395674|ref|YP_008567618.1|vFam_1014| ORF2 [Piper yellow mottle virus]
+gi|18450270|ref|NP_569152.1|vFam_1014| hypothetical protein CYMVgp2 [Citrus yellow mosaic virus]

@@ -1,0 +1,12 @@
+CLUSTER	282
+NUM_SEQ	4
+LENGTH	317
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	161.67
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'Prymnesiovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|508182132|ref|YP_008052651.1|vFam_282| hypothetical protein PGCG_00333 [Phaeocystis globosa virus]
+gi|508181809|ref|YP_008052328.1|vFam_282| multiple copy protein PGV_MIGE [Phaeocystis globosa virus]
+gi|508182225|ref|YP_008052744.1|vFam_282| hypothetical protein PGCG_00433 [Phaeocystis globosa virus]
+gi|508181829|ref|YP_008052348.1|vFam_282| hypothetical protein PGCG_00029 [Phaeocystis globosa virus]

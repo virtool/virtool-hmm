@@ -1,0 +1,21 @@
+CLUSTER	587
+NUM_SEQ	13
+LENGTH	224
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	116.48
+FAMILIES	{'Poxviridae': 13}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Parapoxvirus': 1, 'Yatapoxvirus': 1, 'Suipoxvirus': 1, 'Avipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531786|ref|YP_784312.1|vFam_587| late transcription factor VLTF-3 [Nile crocodilepox virus]
+gi|41057513|ref|NP_957986.1|vFam_587| ORF077 late transcription factor VLTF-3 [Bovine papular stomatitis virus]
+gi|571798015|ref|YP_008658514.1|vFam_587| late transcription factor VLTF3 [Squirrelpox virus]
+gi|113195299|ref|YP_717429.1|vFam_587| late gene transcription factor VLTF-3 [Taterapox virus]
+gi|345107290|ref|YP_004821455.1|vFam_587| late gene transcription factor VLTF-3 [Yoka poxvirus]
+gi|377829998|ref|YP_005296297.1|vFam_587| unnamed protein product [Cotia virus SPAn232]
+gi|18640175|ref|NP_570249.1|vFam_587| SPV089 putative late transcription factor VLTF-3 [Swinepox virus]
+gi|157939715|ref|YP_001497087.1|vFam_587| late transcription factor VLTF-3 [Tanapox virus]
+gi|15150531|ref|NP_150526.1|vFam_587| LSDV092 putative late transcription factor [Lumpy skin disease virus NI-2490]
+gi|9633901|ref|NP_051979.1|vFam_587| gp090L [Rabbit fibroma virus]
+gi|211956372|ref|YP_002302441.1|vFam_587| late transcription factor VLTF-3 [Deerpox virus W-1170-84]
+gi|40556176|ref|NP_955261.1|vFam_587| CNPV238 late transcription factor VLTF-3 [Canarypox virus]
+gi|9629036|ref|NP_044055.1|vFam_587| MC104L [Molluscum contagiosum virus subtype 1]

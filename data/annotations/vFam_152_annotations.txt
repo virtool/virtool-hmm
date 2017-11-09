@@ -1,0 +1,26 @@
+CLUSTER	152
+NUM_SEQ	18
+LENGTH	665
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	339.15
+FAMILIES	{'Baculoviridae': 15}
+GENERA	{'Alphabaculovirus': 15}
+FASTA SEQUENCE TITLES:
+gi|20069888|ref|NP_613092.1|vFam_152| hypothetical protein McnAVgp009 [Mamestra configurata nucleopolyhedrovirus A]
+gi|74229828|ref|YP_309032.1|vFam_152| F protein [Trichoplusia ni single nucleopolyhedrovirus]
+gi|125860135|ref|YP_001036304.1|vFam_152| F protein [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401405|ref|YP_002332708.1|vFam_152| F protein [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634229|ref|NP_037768.1|vFam_152| ORF8 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|90592725|ref|YP_529678.1|vFam_152| F protein [Agrotis segetum nucleopolyhedrovirus]
+gi|209170896|ref|YP_002268042.1|vFam_152| agip12 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|29567203|ref|NP_818765.1|vFam_152| fusion protein [Adoxophyes honmai nucleopolyhedrovirus]
+gi|113195528|ref|YP_717667.1|vFam_152| F protein [Clanis bilineata nucleopolyhedrovirus]
+gi|9631097|ref|NP_047767.1|vFam_152| envelope protein [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|165969137|ref|YP_001651037.1|vFam_152| fusion protein [Orgyia leucostigma NPV]
+gi|118197599|ref|YP_874311.1|vFam_152| fusion protein [Ectropis obliqua nucleopolyhedrovirus]
+gi|228861724|ref|YP_002854744.1|vFam_152| F protein [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|529218182|ref|YP_008378345.1|vFam_152| F [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502121|ref|YP_006607779.1|vFam_152| F protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|209401195|ref|YP_002274064.1|vFam_152| copia-like envelope protein [Helicoverpa armigera NPV NNg1]
+gi|114680013|ref|YP_758463.1|vFam_152| efp [Leucania separata nucleopolyhedrovirus]
+gi|15617604|ref|NP_258404.1|vFam_152| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]

@@ -1,0 +1,13 @@
+CLUSTER	571
+NUM_SEQ	5
+LENGTH	723
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	368.73
+FAMILIES	{'Narnaviridae': 5}
+GENERA	{'Mitovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|22417455|ref|NP_660176.1|vFam_571| RNA-dependent RNA polymerase [Ophiostoma mitovirus 3a]
+gi|51949967|ref|YP_077184.1|vFam_571| putative RNA-dependent RNA polymerase [Gremmeniella abietina mitochondrial RNA virus S2]
+gi|227122444|ref|YP_002822229.1|vFam_571| RNA-dependent RNA polymerase [Thielaviopsis basicola mitovirus]
+gi|22417461|ref|NP_660181.1|vFam_571| RNA-dependent RNA polymerase, putative [Ophiostoma mitovirus 6]
+gi|22417459|ref|NP_660180.1|vFam_571| RNA-dependent RNA polymerase, putative [Ophiostoma mitovirus 5]

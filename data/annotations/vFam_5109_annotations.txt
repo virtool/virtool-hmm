@@ -1,0 +1,11 @@
+CLUSTER	5109
+NUM_SEQ	3
+LENGTH	77
+RELATIVE_ENTROPY_PER_POSITION	0.67
+TOTAL_RELATIVE_ENTROPY	51.59
+FAMILIES	{'Polydnaviridae': 3}
+GENERA	{'Ichnovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|124484740|ref|YP_001031307.1|vFam_5109| polar residue rich protien-d2.1 [Hyposoter fugitivus ichnovirus]
+gi|124484700|ref|YP_001031279.1|vFam_5109| polar residue rich protein-c5.1 [Hyposoter fugitivus ichnovirus]
+gi|124484619|ref|YP_001031224.1|vFam_5109| polar residue-rich protein-a1 [Hyposoter fugitivus ichnovirus]

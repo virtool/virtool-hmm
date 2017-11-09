@@ -1,0 +1,13 @@
+CLUSTER	715
+NUM_SEQ	5
+LENGTH	195
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	97.5
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1, 'Mimiviridae': 3}
+GENERA	{'Mimivirus': 1, 'Prymnesiovirus': 1, 'None': 3}
+FASTA SEQUENCE TITLES:
+gi|508181880|ref|YP_008052399.1|vFam_715| hypothetical protein PGCG_00080 [Phaeocystis globosa virus]
+gi|311977506|ref|YP_003986626.1|vFam_715| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|363539881|ref|YP_004895165.1|vFam_715| mg1114 gene product [Megavirus chiliensis]
+gi|448825097|ref|YP_007418028.1|vFam_715| hypothetical protein LBA_00130 [Megavirus lba]
+gi|363540854|ref|YP_004894203.1|vFam_715| mg152 gene product [Megavirus chiliensis]

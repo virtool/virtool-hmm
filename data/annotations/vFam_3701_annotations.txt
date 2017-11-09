@@ -1,0 +1,10 @@
+CLUSTER	3701
+NUM_SEQ	2
+LENGTH	131
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	66.81
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|360086593|ref|YP_004940278.1|vFam_3701| membrane protein UL124 [Saimiriine herpesvirus 3]
+gi|360040997|ref|YP_004940132.1|vFam_3701| membrane protein UL124 [Aotine herpesvirus 1]

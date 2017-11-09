@@ -1,0 +1,10 @@
+CLUSTER	6157
+NUM_SEQ	2
+LENGTH	123
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	61.5
+FAMILIES	{'Mimiviridae': 2}
+GENERA	{'None': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|363540852|ref|YP_004895064.1|vFam_6157| mg1013 gene product [Megavirus chiliensis]
+gi|311977420|ref|YP_003986539.1|vFam_6157| hypothetical protein [Acanthamoeba polyphaga mimivirus]

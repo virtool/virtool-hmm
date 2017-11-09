@@ -1,0 +1,25 @@
+CLUSTER	86
+NUM_SEQ	17
+LENGTH	359
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	179.5
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036273|ref|YP_008437909.1|vFam_86| Morn repeat [Pandoravirus salinus]
+gi|531035840|ref|YP_008437474.1|vFam_86| Morn repeat [Pandoravirus salinus]
+gi|526119275|ref|YP_008319178.1|vFam_86| morn repeat [Pandoravirus dulcis]
+gi|526119271|ref|YP_008319174.1|vFam_86| morn repeat [Pandoravirus dulcis]
+gi|531035880|ref|YP_008437514.1|vFam_86| Morn repeat [Pandoravirus salinus]
+gi|531035849|ref|YP_008437483.1|vFam_86| Morn repeat [Pandoravirus salinus]
+gi|531035848|ref|YP_008437482.1|vFam_86| Morn repeat [Pandoravirus salinus]
+gi|526119614|ref|YP_008319517.1|vFam_86| morn repeat [Pandoravirus dulcis]
+gi|526119471|ref|YP_008319374.1|vFam_86| morn repeat [Pandoravirus dulcis]
+gi|531035817|ref|YP_008437451.1|vFam_86| Morn repeat [Pandoravirus salinus]
+gi|531036615|ref|YP_008438252.1|vFam_86| Morn repeat [Pandoravirus salinus]
+gi|526119452|ref|YP_008319355.1|vFam_86| morn repeat [Pandoravirus dulcis]
+gi|526119445|ref|YP_008319348.1|vFam_86| morn repeat [Pandoravirus dulcis]
+gi|531035842|ref|YP_008437476.1|vFam_86| Morn repeat [Pandoravirus salinus]
+gi|526119640|ref|YP_008319543.1|vFam_86| morn repeat [Pandoravirus dulcis]
+gi|531036320|ref|YP_008437957.1|vFam_86| Morn repeat [Pandoravirus salinus]
+gi|526119660|ref|YP_008319563.1|vFam_86| morn repeat [Pandoravirus dulcis]

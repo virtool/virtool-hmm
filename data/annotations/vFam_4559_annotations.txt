@@ -1,0 +1,10 @@
+CLUSTER	4559
+NUM_SEQ	2
+LENGTH	253
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	129.03
+FAMILIES	{'None': 1, 'Phycodnaviridae': 1}
+GENERA	{'None': 1, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831252|ref|YP_003969895.1|vFam_4559| hypothetical protein crov263 [Cafeteria roenbergensis virus BV-PW1]
+gi|157953272|ref|YP_001498163.1|vFam_4559| hypothetical protein AR158_c081R [Paramecium bursaria Chlorella virus AR158]

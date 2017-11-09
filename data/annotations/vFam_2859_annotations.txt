@@ -1,0 +1,13 @@
+CLUSTER	2859
+NUM_SEQ	5
+LENGTH	112
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	59.36
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'Simplexvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|312162819|ref|YP_003933804.1|vFam_2859| small capsid protein [Saimiriine herpesvirus 1]
+gi|9629416|ref|NP_044637.1|vFam_2859| small capsid protein [Human herpesvirus 1]
+gi|9629305|ref|NP_044505.1|vFam_2859| small capsid protein [Human herpesvirus 2]
+gi|83722604|ref|YP_443882.1|vFam_2859| small capsid protein [Papiine herpesvirus 2]
+gi|30984463|ref|NP_851895.1|vFam_2859| small capsid protein [Macacine herpesvirus 1]

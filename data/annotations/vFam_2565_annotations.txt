@@ -1,0 +1,11 @@
+CLUSTER	2565
+NUM_SEQ	3
+LENGTH	133
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	70.49
+FAMILIES	{'Potyviridae': 3}
+GENERA	{'Tritimovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|390013202|ref|YP_006395312.1|vFam_2565| PIPO, partial [Brome streak mosaic virus]
+gi|390013267|ref|YP_006395330.1|vFam_2565| PIPO, partial [Oat necrotic mottle virus]
+gi|389885066|ref|YP_006393466.1|vFam_2565| PIPO, partial [Wheat streak mosaic virus]

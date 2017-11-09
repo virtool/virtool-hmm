@@ -1,0 +1,10 @@
+CLUSTER	2368
+NUM_SEQ	2
+LENGTH	356
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	181.56
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|310831304|ref|YP_003969947.1|vFam_2368| hypothetical protein crov314 [Cafeteria roenbergensis virus BV-PW1]
+gi|370703047|ref|YP_004956849.1|vFam_2368| orf101 gene product [Helicoverpa zea nudivirus 2]

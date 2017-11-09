@@ -1,0 +1,30 @@
+CLUSTER	167
+NUM_SEQ	22
+LENGTH	1307
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	692.71
+FAMILIES	{'Herpesviridae': 22}
+GENERA	{'Macavirus': 4, 'Rhadinovirus': 11, 'Lymphocryptovirus': 3, 'Percavirus': 2, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|9629632|ref|NP_044917.1|vFam_167| protein G75A [Murid herpesvirus 4]
+gi|83642909|ref|YP_438197.1|vFam_167| ORF75 [Ovine herpesvirus 2]
+gi|10140994|ref|NP_065571.1|vFam_167| ORF75 [Alcelaphine herpesvirus 1]
+gi|24943160|ref|NP_733922.1|vFam_167| ORF65 [callitrichine herpesvirus 3]
+gi|82503191|ref|YP_401633.1|vFam_167| putative nmembrane antigen p140 [Human herpesvirus 4]
+gi|51518016|ref|YP_067940.1|vFam_167| BNRF1 [Macacine herpesvirus 4]
+gi|9628078|ref|NP_042672.1|vFam_167| tegument protein [Equid herpesvirus 2]
+gi|139472887|ref|YP_001129434.1|vFam_167| ORF75 [Human herpesvirus 8]
+gi|18653889|ref|NP_570823.1|vFam_167| tegument protein [Macacine herpesvirus 5]
+gi|13095653|ref|NP_076568.1|vFam_167| tegument protein/v-FGAM-synthetase [Bovine herpesvirus 4]
+gi|9631266|ref|NP_048047.1|vFam_167| orf 75 [Ateline herpesvirus 3]
+gi|9626031|ref|NP_040277.1|vFam_167| unnamed protein product [Saimiriine herpesvirus 2]
+gi|321496626|ref|YP_004207911.1|vFam_167| tegument protein/FGARAT [Rodent herpesvirus Peru]
+gi|9629630|ref|NP_044915.1|vFam_167| tegument protein G75C [Murid herpesvirus 4]
+gi|321496627|ref|YP_004207912.1|vFam_167| tegument protein/FGARAT [Rodent herpesvirus Peru]
+gi|9629631|ref|NP_044916.1|vFam_167| protein G75B [Murid herpesvirus 4]
+gi|83642844|ref|YP_438131.1|vFam_167| ORF3 [Ovine herpesvirus 2]
+gi|10140931|ref|NP_065508.1|vFam_167| tegument protein [Alcelaphine herpesvirus 1]
+gi|9628006|ref|NP_042600.1|vFam_167| tegument protein [Equid herpesvirus 2]
+gi|13095580|ref|NP_076495.1|vFam_167| v-FGAM-synthase [Bovine herpesvirus 4]
+gi|9631203|ref|NP_047978.1|vFam_167| orf03; similar to FGARATs [Ateline herpesvirus 3]
+gi|9625958|ref|NP_040204.1|vFam_167| unnamed protein product [Saimiriine herpesvirus 2]

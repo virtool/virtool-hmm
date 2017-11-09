@@ -1,0 +1,11 @@
+CLUSTER	4916
+NUM_SEQ	3
+LENGTH	109
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	56.68
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Betabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|21686700|ref|NP_663200.1|vFam_4916| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|33622237|ref|NP_891884.1|vFam_4916| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602277|ref|NP_148824.1|vFam_4916| ORF40 [Cydia pomonella granulovirus]

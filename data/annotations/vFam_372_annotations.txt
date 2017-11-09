@@ -1,0 +1,23 @@
+CLUSTER	372
+NUM_SEQ	15
+LENGTH	151
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	78.52
+FAMILIES	{'Poxviridae': 15}
+GENERA	{'None': 1, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 2, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|40556132|ref|NP_955217.1|vFam_372| CNPV194 virion protein [Canarypox virus]
+gi|9634818|ref|NP_039111.1|vFam_372| Virion protein [Fowlpox virus]
+gi|211956360|ref|YP_002302429.1|vFam_372| virion protein [Deerpox virus W-1170-84]
+gi|157939703|ref|YP_001497075.1|vFam_372| virion protein [Tanapox virus]
+gi|38229242|ref|NP_938335.1|vFam_372| 80L [Yaba monkey tumor virus]
+gi|113195286|ref|YP_717416.1|vFam_372| virion core protein [Taterapox virus]
+gi|345107275|ref|YP_004821440.1|vFam_372| virion core protein [Yoka poxvirus]
+gi|10313990|ref|NP_051791.2|vFam_372| m77L [Myxoma virus]
+gi|9633886|ref|NP_051966.1|vFam_372| gp077L [Rabbit fibroma virus]
+gi|148912957|ref|YP_001293271.1|vFam_372| hypothetical protein GTPV_gp076 [Goatpox virus Pellor]
+gi|18640163|ref|NP_570237.1|vFam_372| SPV077 putative virion protein [Swinepox virus]
+gi|41057501|ref|NP_957974.1|vFam_372| ORF065 virion protein [Bovine papular stomatitis virus]
+gi|289183829|ref|YP_003457370.1|vFam_372| virion protein [Pseudocowpox virus]
+gi|571797999|ref|YP_008658498.1|vFam_372| virion core protein / unknown function [Squirrelpox virus]
+gi|9629023|ref|NP_044042.1|vFam_372| MC091L [Molluscum contagiosum virus subtype 1]

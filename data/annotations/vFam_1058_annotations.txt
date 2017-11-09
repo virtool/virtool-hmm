@@ -1,0 +1,11 @@
+CLUSTER	1058
+NUM_SEQ	3
+LENGTH	76
+RELATIVE_ENTROPY_PER_POSITION	0.65
+TOTAL_RELATIVE_ENTROPY	49.4
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Betaentomopoxvirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|9964391|ref|NP_064859.1|vFam_1058| hypothetical protein AMV077 [Amsacta moorei entomopoxvirus 'L']
+gi|9631424|ref|NP_048330.1|vFam_1058| ORF MSV259 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|9631295|ref|NP_048077.1|vFam_1058| ORF MSV006 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]

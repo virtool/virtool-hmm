@@ -1,0 +1,12 @@
+CLUSTER	3797
+NUM_SEQ	4
+LENGTH	77
+RELATIVE_ENTROPY_PER_POSITION	0.64
+TOTAL_RELATIVE_ENTROPY	49.28
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|438000452|ref|YP_007250557.1|vFam_3797| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964656|ref|YP_950852.1|vFam_3797| Mv-ORF122 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|237643685|ref|YP_002884375.1|vFam_3797| Ac154-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|114680205|ref|YP_758618.1|vFam_3797| hypothetical protein PXMNV_gp152 [Plutella xylostella multiple nucleopolyhedrovirus]

@@ -1,0 +1,26 @@
+CLUSTER	350
+NUM_SEQ	18
+LENGTH	493
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	261.29
+FAMILIES	{'Flaviviridae': 18}
+GENERA	{'Flavivirus': 18}
+FASTA SEQUENCE TITLES:
+gi|27735328|ref|NP_776027.1|vFam_350| putative envelope protein [Tamana bat virus]
+gi|27697397|ref|NP_775680.1|vFam_350| envelope protein [Apoi virus]
+gi|25121724|ref|NP_740260.1|vFam_350| envelope protein [Modoc virus]
+gi|27735363|ref|NP_776072.1|vFam_350| envelope protein [Rio Bravo virus]
+gi|25121735|ref|NP_740277.1|vFam_350| envelope protein [Montana myotis leukoencephalitis virus]
+gi|27596765|ref|NP_775516.1|vFam_350| envelope protein [Powassan virus]
+gi|27545507|ref|NP_775470.1|vFam_350| envelope protein [Alkhumra hemorrhagic fever virus]
+gi|27596778|ref|NP_775503.1|vFam_350| envelope protein [Tick-borne encephalitis virus]
+gi|25121527|ref|NP_740295.1|vFam_350| envelope membrane-associated glycoprotein [Langat virus]
+gi|25121537|ref|NP_740305.1|vFam_350| envelope protein [Yellow fever virus]
+gi|158516891|ref|YP_001527880.1|vFam_350| unnamed protein product [West Nile virus]
+gi|27696328|ref|NP_775666.1|vFam_350| envelope protein, partial [Japanese encephalitis virus]
+gi|24418982|ref|NP_722531.1|vFam_350| envelope protein E [Murray Valley encephalitis virus]
+gi|56692455|ref|YP_164819.1|vFam_350| envelope protein [Usutu virus]
+gi|73671171|ref|NP_740317.1|vFam_350| envelope (E) protein [Dengue virus 4]
+gi|159024812|ref|NP_739583.2|vFam_350| Envelope protein [Dengue virus 2]
+gi|164654853|ref|YP_001531168.2|vFam_350| Envelope protein [Dengue virus 3]
+gi|158828123|ref|NP_722460.2|vFam_350| envelope protein [Dengue virus 1]

@@ -1,0 +1,12 @@
+CLUSTER	1834
+NUM_SEQ	4
+LENGTH	1240
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	644.8
+FAMILIES	{'Reoviridae': 4}
+GENERA	{'Coltivirus': 2, 'Mycoreovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|22960703|ref|NP_690892.1|vFam_1834| VP2 [Colorado tick fever virus]
+gi|20279543|ref|NP_620281.1|vFam_1834| VP2 [Eyach virus]
+gi|189022227|ref|YP_001936005.1|vFam_1834| VP2 [Mycoreovirus 1]
+gi|80511634|ref|YP_392476.1|vFam_1834| hypothetical protein [Mycoreovirus 3]

@@ -1,0 +1,14 @@
+CLUSTER	1383
+NUM_SEQ	6
+LENGTH	147
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	74.97
+FAMILIES	{'Baculoviridae': 6}
+GENERA	{'Betabaculovirus': 2, 'Alphabaculovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|285002407|ref|YP_003422471.1|vFam_1383| hypothetical protein PsunGV_gp132 [Pseudaletia unipuncta granulovirus]
+gi|164519326|ref|YP_001649113.1|vFam_1383| hypothetical protein HaGV_gp131 [Helicoverpa armigera granulovirus]
+gi|215401415|ref|YP_002332718.1|vFam_1383| hypothetical protein SlnV2_gp020 [Spodoptera litura nucleopolyhedrovirus II]
+gi|209170910|ref|YP_002268056.1|vFam_1383| agip26 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|22549423|ref|NP_689196.1|vFam_1383| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069904|ref|NP_613108.1|vFam_1383| hypothetical protein McnAVgp025 [Mamestra configurata nucleopolyhedrovirus A]

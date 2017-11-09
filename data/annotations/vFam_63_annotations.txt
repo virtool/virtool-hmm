@@ -1,0 +1,29 @@
+CLUSTER	63
+NUM_SEQ	21
+LENGTH	676
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	351.52
+FAMILIES	{'Herpesviridae': 21}
+GENERA	{'Iltovirus': 1, 'None': 2, 'Muromegalovirus': 2, 'Mardivirus': 1, 'Roseolovirus': 2, 'Simplexvirus': 3, 'Varicellovirus': 4, 'Cytomegalovirus': 6}
+FASTA SEQUENCE TITLES:
+gi|57790985|ref|YP_182389.1|vFam_63| capsid portal protein [Gallid herpesvirus 1]
+gi|125745057|ref|YP_001033934.1|vFam_63| capsid portal protein [Gallid herpesvirus 2]
+gi|30984434|ref|NP_851865.1|vFam_63| capsid portal protein [Macacine herpesvirus 1]
+gi|9629386|ref|NP_044607.1|vFam_63| capsid portal protein [Human herpesvirus 1]
+gi|9629275|ref|NP_044475.1|vFam_63| capsid portal protein [Human herpesvirus 2]
+gi|296316055|ref|YP_003662519.1|vFam_63| capsid portal protein [Bovine herpesvirus 5]
+gi|9629869|ref|NP_045353.1|vFam_63| capsid portal protein [Bovine herpesvirus 1]
+gi|270339493|ref|YP_003331575.1|vFam_63| capsid portal protein [Felid herpesvirus 1]
+gi|51557536|ref|YP_068370.1|vFam_63| capsid portal protein [Suid herpesvirus 1]
+gi|9633145|ref|NP_050255.1|vFam_63| putative viron protein [Human herpesvirus 6B]
+gi|51874298|ref|YP_073816.1|vFam_63| capsid portal protein [Human herpesvirus 7]
+gi|425707303|ref|YP_007016500.1|vFam_63| E104 [Murid herpesvirus 8]
+gi|61660213|ref|YP_214104.1|vFam_63| Structural protein [Murid herpesvirus 1]
+gi|448824938|ref|YP_007417870.1|vFam_63| GP104 [Caviid herpesvirus 2]
+gi|14251091|ref|NP_116453.1|vFam_63| T104 [Tupaiid herpesvirus 1]
+gi|360086580|ref|YP_004940265.1|vFam_63| capsid portal protein [Saimiriine herpesvirus 3]
+gi|360040984|ref|YP_004940119.1|vFam_63| capsid portal protein [Aotine herpesvirus 1]
+gi|359946536|ref|YP_004936069.1|vFam_63| capsid portal protein [Cercopithecine herpesvirus 5]
+gi|356640439|ref|YP_004933881.1|vFam_63| protein UL104 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139275|ref|YP_081550.1|vFam_63| capsid portal protein [Human herpesvirus 5]
+gi|20026693|ref|NP_612735.1|vFam_63| capsid portal protein [Panine herpesvirus 2]

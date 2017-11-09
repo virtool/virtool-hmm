@@ -1,0 +1,11 @@
+CLUSTER	3820
+NUM_SEQ	3
+LENGTH	112
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	56.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329358|ref|YP_001604159.1|vFam_3820| hypothetical protein AFV6_gp01 [Acidianus filamentous virus 6]
+gi|171473713|ref|YP_001798583.1|vFam_3820| hypothetical protein AFV9_gp65 [Acidianus filamentous virus 9]
+gi|45655905|ref|YP_003764.1|vFam_3820| hypothetical protein AFV1_ORF108 [Acidianus filamentous virus 1]

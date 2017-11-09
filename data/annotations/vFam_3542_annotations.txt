@@ -1,0 +1,11 @@
+CLUSTER	3542
+NUM_SEQ	3
+LENGTH	327
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	170.04
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|538447225|ref|YP_008492965.1|vFam_3542| putative protein U26 [Porcine cytomegalovirus]
+gi|14251034|ref|NP_116396.1|vFam_3542| t43.4 [Tupaiid herpesvirus 1]
+gi|448824884|ref|YP_007417816.1|vFam_3542| GP43 [Caviid herpesvirus 2]

@@ -1,0 +1,11 @@
+CLUSTER	4008
+NUM_SEQ	3
+LENGTH	247
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	128.44
+FAMILIES	{'Coronaviridae': 3}
+GENERA	{'Betacoronavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|85719064|ref|YP_460018.1|vFam_4008| nsp1 [Human coronavirus HKU1]
+gi|60145597|ref|YP_209244.2|vFam_4008| nsp1 or p28 [Murine hepatitis virus strain JHM]
+gi|26008081|ref|NP_742129.1|vFam_4008| Leader protein [Bovine coronavirus]

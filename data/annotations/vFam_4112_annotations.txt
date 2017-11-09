@@ -1,0 +1,10 @@
+CLUSTER	4112
+NUM_SEQ	2
+LENGTH	80
+RELATIVE_ENTROPY_PER_POSITION	0.63
+TOTAL_RELATIVE_ENTROPY	50.4
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531037267|ref|YP_008438910.1|vFam_4112| hypothetical protein ps_2508 [Pandoravirus salinus]
+gi|531034795|ref|YP_008436420.1|vFam_4112| hypothetical protein ps_4 [Pandoravirus salinus]

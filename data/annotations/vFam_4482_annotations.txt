@@ -1,0 +1,11 @@
+CLUSTER	4482
+NUM_SEQ	3
+LENGTH	139
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	70.89
+FAMILIES	{'Phycodnaviridae': 1, 'Baculoviridae': 1}
+GENERA	{'Betabaculovirus': 1, 'Prymnesiovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508181929|ref|YP_008052448.1|vFam_4482| hypothetical protein PGCG_00129 [Phaeocystis globosa virus]
+gi|556549078|ref|YP_008719992.1|vFam_4482| hypothetical protein CalGV044 [Clostera anastomosis granulovirus]
+gi|334265721|ref|YP_004376250.1|vFam_4482| hypothetical protein ClanGV_gp042 [Clostera anachoreta granulovirus]

@@ -1,0 +1,11 @@
+CLUSTER	2967
+NUM_SEQ	3
+LENGTH	320
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	163.2
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Betabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|148368954|ref|YP_001257084.1|vFam_2967| fgf-3 [Spodoptera litura granulovirus]
+gi|285002455|ref|YP_003422519.1|vFam_2967| fibroblast growth factor-3 [Pseudaletia unipuncta granulovirus]
+gi|164519371|ref|YP_001649158.1|vFam_2967| fibroblast growth factor-3 [Helicoverpa armigera granulovirus]

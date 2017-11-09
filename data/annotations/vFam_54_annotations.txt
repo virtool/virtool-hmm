@@ -1,0 +1,46 @@
+CLUSTER	54
+NUM_SEQ	38
+LENGTH	2207
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	1191.78
+FAMILIES	{'Filoviridae': 7, 'Paramyxoviridae': 31}
+GENERA	{'Morbillivirus': 5, 'Respirovirus': 3, 'None': 6, 'Henipavirus': 2, 'Rubulavirus': 9, 'Ebolavirus': 5, 'Ferlavirus': 1, 'Pneumovirus': 3, 'Avulavirus': 3, 'Marburgvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|56900726|ref|YP_173335.1|vFam_54| polymerase subunit [Pneumonia virus of mice J3666]
+gi|9631278|ref|NP_048058.1|vFam_54| L [Bovine respiratory syncytial virus]
+gi|9629209|ref|NP_056866.1|vFam_54| L [Human respiratory syncytial virus]
+gi|158539115|ref|YP_001531159.1|vFam_54| L protein [Marburg marburgvirus]
+gi|355469080|ref|YP_004928143.1|vFam_54| RNA polymerase [Lloviu virus]
+gi|55770815|ref|YP_138527.1|vFam_54| polymerase [Sudan ebolavirus]
+gi|22789229|ref|NP_690587.1|vFam_54| RNA-dependent RNA polymerase [Reston ebolavirus]
+gi|10313999|ref|NP_066251.1|vFam_54| L gene product [Ebola virus - Mayinga, Zaire, 1976]
+gi|302371221|ref|YP_003815440.1|vFam_54| polymerase [Bundibugyo ebolavirus]
+gi|302315377|ref|YP_003815431.1|vFam_54| polymerase [Tai Forest ebolavirus]
+gi|529283691|ref|NP_047113.3|vFam_54| polymerase [Hendra virus]
+gi|13559815|ref|NP_112028.1|vFam_54| polymerase [Nipah virus]
+gi|54310716|ref|YP_133828.1|vFam_54| large protein [Peste-des-petits-ruminants virus]
+gi|9626952|ref|NP_056924.1|vFam_54| large polymerase protein [Measles virus]
+gi|56410436|ref|YP_087126.2|vFam_54| L protein [Rinderpest virus (strain Kabete O)]
+gi|9630652|ref|NP_047207.1|vFam_54| large polymerase protein L [Canine distemper virus]
+gi|38707569|ref|NP_945030.1|vFam_54| large protein [Dolphin morbillivirus]
+gi|89888079|ref|YP_512254.1|vFam_54| large protein [Beilong virus]
+gi|77124348|ref|YP_338085.1|vFam_54| large protein [J-virus]
+gi|9634976|ref|NP_054697.1|vFam_54| RNA polymerase [Tupaia paramyxovirus]
+gi|387935523|ref|YP_006347589.1|vFam_54| L protein [Nariva virus]
+gi|41057601|ref|NP_958055.1|vFam_54| large protein [Mossman virus]
+gi|34482045|ref|NP_899661.1|vFam_54| large putative polymerase L [Fer-de-Lance paramyxovirus]
+gi|193795739|ref|NP_067153.2|vFam_54| large protein [Human parainfluenza virus 3]
+gi|19718373|ref|NP_604442.1|vFam_54| L polymerase protein [Human parainfluenza virus 1]
+gi|9627228|ref|NP_056879.1|vFam_54| RNA polymerase protein [Sendai virus]
+gi|422937951|ref|YP_007008152.1|vFam_54| large polymerase protein [Avian paramyxovirus 4]
+gi|82712724|ref|YP_415514.1|vFam_54| large polymerase protein [Menangle virus]
+gi|22003850|ref|NP_665871.1|vFam_54| RNA polymerase [Tioman virus]
+gi|529217044|ref|YP_008378665.1|vFam_54| large protein [Human parainfluenza virus 4a]
+gi|55775705|ref|YP_138518.1|vFam_54| L protein [Parainfluenza virus 5]
+gi|55770827|ref|YP_138510.1|vFam_54| Large protein [Simian virus 41]
+gi|19525727|ref|NP_598406.1|vFam_54| Large protein [Human parainfluenza virus 2]
+gi|9695423|ref|NP_054714.1|vFam_54| large protein [Mumps virus]
+gi|151266286|ref|YP_001331035.1|vFam_54| RNA polymerase [Porcine rubulavirus]
+gi|148283128|ref|YP_001249278.1|vFam_54| RNA polymerase [Mapuera virus]
+gi|32563521|ref|NP_872278.1|vFam_54| large polymerase protein [Goose paramyxovirus SF02]
+gi|15081574|ref|NP_150063.1|vFam_54| large polymerase protein [Avian paramyxovirus 6]

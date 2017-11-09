@@ -1,0 +1,10 @@
+CLUSTER	2278
+NUM_SEQ	2
+LENGTH	172
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	89.44
+FAMILIES	{'Ascoviridae': 2}
+GENERA	{'Ascovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|134287218|ref|YP_001110914.1|vFam_2278| putative nucleic acid-binding protein [Heliothis virescens ascovirus 3e]
+gi|115298552|ref|YP_762404.1|vFam_2278| 19.6 kDa Homer-like [Spodoptera frugiperda ascovirus 1a]

@@ -1,0 +1,11 @@
+CLUSTER	2770
+NUM_SEQ	3
+LENGTH	113
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	58.76
+FAMILIES	{'Mimiviridae': 3}
+GENERA	{'None': 2, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|363540427|ref|YP_004895111.1|vFam_2770| mg1060 gene product [Megavirus chiliensis]
+gi|441431966|ref|YP_007354008.1|vFam_2770| hypothetical protein Moumou_00024 [Acanthamoeba polyphaga moumouvirus]
+gi|311977417|ref|YP_003986536.1|vFam_2770| hypothetical protein [Acanthamoeba polyphaga mimivirus]

@@ -1,0 +1,10 @@
+CLUSTER	2932
+NUM_SEQ	2
+LENGTH	335
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	170.85
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|360086500|ref|YP_004940184.1|vFam_2932| membrane protein UL14 [Saimiriine herpesvirus 3]
+gi|360040903|ref|YP_004940037.1|vFam_2932| membrane protein UL14 [Aotine herpesvirus 1]

@@ -1,0 +1,15 @@
+CLUSTER	1220
+NUM_SEQ	7
+LENGTH	195
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	103.35
+FAMILIES	{'Betaflexiviridae': 7}
+GENERA	{'Trichovirus': 6, 'Tepovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|194351516|ref|YP_002019750.1|vFam_1220| coat protein [Potato virus T]
+gi|339906185|ref|YP_004732980.1|vFam_1220| cp gene product [Grapevine Pinot gris virus]
+gi|325965587|ref|YP_004293218.1|vFam_1220| coat protein [Grapevine berry inner necrosis virus]
+gi|212681401|ref|YP_002308567.1|vFam_1220| putative coat protein [Peach mosaic virus]
+gi|9635793|ref|NP_062430.1|vFam_1220| coat protein [Cherry mottle leaf virus]
+gi|62362157|ref|YP_224132.1|vFam_1220| 22 kDa protein [Apricot pseudo-chlorotic leaf spot virus]
+gi|9626208|ref|NP_040553.1|vFam_1220| coat protein [Apple chlorotic leaf spot virus]

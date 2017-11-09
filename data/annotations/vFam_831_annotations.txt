@@ -1,0 +1,15 @@
+CLUSTER	831
+NUM_SEQ	7
+LENGTH	2152
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	1119.04
+FAMILIES	{'Bunyaviridae': 7}
+GENERA	{'Hantavirus': 7}
+FASTA SEQUENCE TITLES:
+gi|188543070|ref|YP_001911124.1|vFam_831| RNA-dependent RNA polymerase [Thottapalayam virus]
+gi|38505534|ref|NP_942558.1|vFam_831| RNA-dependent RNA polymerase [Seoul virus]
+gi|55733704|ref|YP_138530.1|vFam_831| putative L protein [Hantavirus Z10]
+gi|38505528|ref|NP_942555.1|vFam_831| polymerase protein [Dobrava-Belgrade virus]
+gi|38488687|ref|NP_942124.1|vFam_831| RNA polymerase (L protein) [Tula virus]
+gi|38371728|ref|NP_941976.1|vFam_831| viral RNA polymerase (L protein) [Sin Nombre virus]
+gi|19744954|ref|NP_604473.1|vFam_831| RNA polymerase [Andes virus]

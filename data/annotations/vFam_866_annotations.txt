@@ -1,0 +1,17 @@
+CLUSTER	866
+NUM_SEQ	9
+LENGTH	221
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	114.92
+FAMILIES	{'Alloherpesviridae': 9}
+GENERA	{'Batrachovirus': 9}
+FASTA SEQUENCE TITLES:
+gi|109638703|ref|YP_656525.1|vFam_866| ORF17 [Ranid herpesvirus 2]
+gi|109638699|ref|YP_656526.1|vFam_866| ORF18 [Ranid herpesvirus 2]
+gi|109638706|ref|YP_656527.1|vFam_866| ORF19 [Ranid herpesvirus 2]
+gi|109638715|ref|YP_656529.1|vFam_866| ORF21 [Ranid herpesvirus 2]
+gi|109638714|ref|YP_656528.1|vFam_866| ORF20 [Ranid herpesvirus 2]
+gi|109638708|ref|YP_656524.1|vFam_866| ORF16 [Ranid herpesvirus 2]
+gi|109638713|ref|YP_656521.1|vFam_866| ORF13 [Ranid herpesvirus 2]
+gi|109638710|ref|YP_656523.1|vFam_866| ORF15 [Ranid herpesvirus 2]
+gi|109638707|ref|YP_656522.1|vFam_866| ORF14 [Ranid herpesvirus 2]

@@ -1,0 +1,10 @@
+CLUSTER	6073
+NUM_SEQ	2
+LENGTH	85
+RELATIVE_ENTROPY_PER_POSITION	0.60
+TOTAL_RELATIVE_ENTROPY	51.0
+FAMILIES	{'None': 1}
+GENERA	{'None': 1}
+FASTA SEQUENCE TITLES:
+gi|478755951|ref|YP_007761592.1|vFam_6073| hypothetical protein HhPH1_gp03 [Halovirus PH1]
+gi|448261114|ref|YP_005352787.1|vFam_6073| putative protein 1 [Haloarcula hispanica icosahedral virus 2]

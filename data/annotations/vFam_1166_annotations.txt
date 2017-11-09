@@ -1,0 +1,16 @@
+CLUSTER	1166
+NUM_SEQ	8
+LENGTH	192
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	96.0
+FAMILIES	{'Phycodnaviridae': 8}
+GENERA	{'None': 3, 'Prymnesiovirus': 2, 'Prasinovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|508182216|ref|YP_008052735.1|vFam_1166| 2OG-Fe(II) oxygenase family protein [Phaeocystis globosa virus]
+gi|313768419|ref|YP_004062099.1|vFam_1166| hypothetical protein MpV1_216 [Micromonas sp. RCC1109 virus MpV1]
+gi|508182217|ref|YP_008052736.1|vFam_1166| 2OG-Fe(II) oxygenase family protein [Phaeocystis globosa virus]
+gi|313844180|ref|YP_004061843.1|vFam_1166| hypothetical protein OlV1_211 [Ostreococcus lucimarinus virus OlV1]
+gi|314055295|ref|YP_004063633.1|vFam_1166| 2OG-Fe(II) oxygenase family protein [Ostreococcus tauri virus 2]
+gi|314055293|ref|YP_004063631.1|vFam_1166| 2OG-Fe(II) oxygenase family protein [Ostreococcus tauri virus 2]
+gi|313844140|ref|YP_004061803.1|vFam_1166| hypothetical protein OlV1_171 [Ostreococcus lucimarinus virus OlV1]
+gi|163955166|ref|YP_001648270.1|vFam_1166| hypothetical protein OsV5_194f [Ostreococcus virus OsV5]

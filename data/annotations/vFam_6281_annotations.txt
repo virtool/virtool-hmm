@@ -1,0 +1,10 @@
+CLUSTER	6281
+NUM_SEQ	2
+LENGTH	194
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	100.88
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Parapoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|41057555|ref|NP_958028.1|vFam_6281| ORF120 hypothetical protein [Bovine papular stomatitis virus]
+gi|41057183|ref|NP_957897.1|vFam_6281| ORF120 hypothetical protein [Orf virus]

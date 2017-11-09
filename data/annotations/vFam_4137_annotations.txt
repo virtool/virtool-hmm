@@ -1,0 +1,10 @@
+CLUSTER	4137
+NUM_SEQ	2
+LENGTH	296
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	153.92
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Avipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|40556231|ref|NP_955316.1|vFam_4137| CNPV293 ankyrin repeat protein [Canarypox virus]
+gi|9634886|ref|NP_039179.1|vFam_4137| Ankyrin repeat gene family protein [Fowlpox virus]

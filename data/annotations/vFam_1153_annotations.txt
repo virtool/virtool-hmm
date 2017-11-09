@@ -1,0 +1,13 @@
+CLUSTER	1153
+NUM_SEQ	5
+LENGTH	516
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	268.32
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'Yatapoxvirus': 2, 'None': 1, 'Orthopoxvirus': 1, 'Leporipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|377830064|ref|YP_005296224.1|vFam_1153| unnamed protein product [Cotia virus SPAn232]
+gi|17974948|ref|NP_536462.1|vFam_1153| C9L [Monkeypox virus Zaire-96-I-16]
+gi|9633650|ref|NP_051728.1|vFam_1153| m14L [Myxoma virus]
+gi|157939639|ref|YP_001497011.1|vFam_1153| Kelch protein [Tanapox virus]
+gi|38229182|ref|NP_938275.1|vFam_1153| 19L [Yaba monkey tumor virus]

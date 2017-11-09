@@ -1,0 +1,12 @@
+CLUSTER	2350
+NUM_SEQ	4
+LENGTH	614
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	319.28
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Roseolovirus': 3, 'Proboscivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|496991127|ref|YP_007969827.1|vFam_2350| tegument protein UL35 [Elephantid herpesvirus 1]
+gi|51874237|ref|YP_073755.1|vFam_2350| tegument protein UL35 [Human herpesvirus 7]
+gi|9633086|ref|NP_050195.1|vFam_2350| hypothetical protein HhV6Bgp020 [Human herpesvirus 6B]
+gi|9628315|ref|NP_042906.1|vFam_2350| tegument protein UL35 [Human herpesvirus 6A]

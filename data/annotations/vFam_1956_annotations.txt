@@ -1,0 +1,13 @@
+CLUSTER	1956
+NUM_SEQ	5
+LENGTH	824
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	428.48
+FAMILIES	{'None': 2, 'Phycodnaviridae': 1, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Prymnesiovirus': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508182075|ref|YP_008052594.1|vFam_1956| DNA topoisomerase I [Phaeocystis globosa virus]
+gi|310831073|ref|YP_003969716.1|vFam_1956| putative DNA topoisomerase IA [Cafeteria roenbergensis virus BV-PW1]
+gi|311977597|ref|YP_003986717.1|vFam_1956| DNA topoisomerase 1 [Acanthamoeba polyphaga mimivirus]
+gi|448825273|ref|YP_007418204.1|vFam_1956| DNA topoisomerase 1 [Megavirus lba]
+gi|441432186|ref|YP_007354228.1|vFam_1956| DNA topoisomerase 1 [Acanthamoeba polyphaga moumouvirus]

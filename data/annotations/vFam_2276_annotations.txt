@@ -1,0 +1,11 @@
+CLUSTER	2276
+NUM_SEQ	3
+LENGTH	230
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	117.3
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|529153511|ref|YP_008378536.1|vFam_2276| repair exonuclease [Choristoneura occidentalis alphabaculovirus]
+gi|116326190|ref|YP_803516.1|vFam_2276| EXO III v-trex [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|96979801|ref|YP_611004.1|vFam_2276| v-trex [Antheraea pernyi nucleopolyhedrovirus]

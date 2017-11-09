@@ -1,0 +1,11 @@
+CLUSTER	3436
+NUM_SEQ	3
+LENGTH	221
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	112.71
+FAMILIES	{'Herpesviridae': 1, 'None': 2}
+GENERA	{'Cytomegalovirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|360086616|ref|YP_004940296.1|vFam_3436| membrane protein S17 [Saimiriine herpesvirus 3]
+gi|21557558|ref|NP_660170.1|vFam_3436| hypothetical protein [Beet western yellows ST9 associated virus]
+gi|20889314|ref|NP_624319.1|vFam_3436| hypothetical protein [Carrot red leaf luteovirus associated RNA]

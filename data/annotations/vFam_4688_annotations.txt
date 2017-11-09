@@ -1,0 +1,11 @@
+CLUSTER	4688
+NUM_SEQ	3
+LENGTH	112
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	58.24
+FAMILIES	{'Iridoviridae': 3}
+GENERA	{'Lymphocystivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|51870052|ref|YP_073605.1|vFam_4688| hypothetical protein LDVICp099 [Lymphocystis disease virus - isolate China]
+gi|51870167|ref|YP_073720.1|vFam_4688| hypothetical protein LDVICp216 [Lymphocystis disease virus - isolate China]
+gi|13358496|ref|NP_078751.1|vFam_4688| hypothetical protein LCDV1gp094 [Lymphocystis disease virus 1]

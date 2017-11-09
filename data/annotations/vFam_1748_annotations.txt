@@ -1,0 +1,12 @@
+CLUSTER	1748
+NUM_SEQ	4
+LENGTH	223
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	115.96
+FAMILIES	{'Alloherpesviridae': 4}
+GENERA	{'Cyprinivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|282174140|ref|YP_003358242.1|vFam_1748| protein ORF103 [Anguillid herpesvirus 1]
+gi|422933629|ref|YP_007003754.1|vFam_1748| protein ORF91 [Cyprinid herpesvirus 1]
+gi|422933855|ref|YP_007003910.1|vFam_1748| protein ORF91 [Cyprinid herpesvirus 2]
+gi|131840117|ref|YP_001096126.1|vFam_1748| unnamed protein product [Cyprinid herpesvirus 3]

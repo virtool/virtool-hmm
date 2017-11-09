@@ -1,0 +1,15 @@
+CLUSTER	1270
+NUM_SEQ	7
+LENGTH	808
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	420.16
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|42495082|ref|NP_963992.1|vFam_1270| ORF B793 [Sulfolobus virus Kamchatka 1]
+gi|9625541|ref|NP_039798.1|vFam_1270| hypothetical protein SSV-1p22 [Sulfolobus spindle-shaped virus 1]
+gi|42494959|ref|NP_963957.1|vFam_1270| ORF B812 [Sulfolobus virus Ragged Hills]
+gi|198449228|ref|YP_002221466.1|vFam_1270| hypothetical protein SSSV5_gp01 [Sulfolobus spindle-shaped virus 5]
+gi|160688417|ref|YP_001552179.1|vFam_1270| hypothetical protein SSSV4_ORF808 [Sulfolobus spindle-shaped virus 4]
+gi|270281845|ref|YP_003331511.1|vFam_1270| putative end-filament protein [Sulfolobus spindle-shaped virus 7]
+gi|38639827|ref|NP_944478.1|vFam_1270| hypothetical protein SSV2p26 [Sulfolobus spindle-shaped virus 2]

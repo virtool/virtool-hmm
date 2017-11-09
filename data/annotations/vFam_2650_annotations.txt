@@ -1,0 +1,10 @@
+CLUSTER	2650
+NUM_SEQ	2
+LENGTH	107
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	54.57
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|313844084|ref|YP_004061747.1|vFam_2650| hypothetical protein OlV1_114 [Ostreococcus lucimarinus virus OlV1]
+gi|163955091|ref|YP_001648195.1|vFam_2650| hypothetical protein OsV5_118f [Ostreococcus virus OsV5]

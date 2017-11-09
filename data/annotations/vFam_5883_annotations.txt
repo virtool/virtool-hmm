@@ -1,0 +1,10 @@
+CLUSTER	5883
+NUM_SEQ	2
+LENGTH	298
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	154.96
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409753|ref|YP_004347173.1|vFam_5883| proliferating cell nuclear antigen [Lausannevirus]
+gi|284504238|ref|YP_003406953.1|vFam_5883| proliferating cell nuclear antigen [Marseillevirus]

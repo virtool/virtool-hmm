@@ -1,0 +1,15 @@
+CLUSTER	1071
+NUM_SEQ	7
+LENGTH	112
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	58.24
+FAMILIES	{'Nanoviridae': 5}
+GENERA	{'Nanovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|20530227|ref|NP_620695.1|vFam_1071| putative movement protein [Subterranean clover stunt virus]
+gi|571797913|ref|YP_008997803.1|vFam_1071| movement protein [Black medic leafroll virus]
+gi|20143458|ref|NP_619569.1|vFam_1071| putative movement protein (MP) [Faba bean necrotic yellows virus]
+gi|255961485|ref|YP_003104740.1|vFam_1071| movement protein [Faba bean necrotic stunt virus]
+gi|20177472|ref|NP_619766.1|vFam_1071| viral non-structural protein [Milk vetch dwarf virus]
+gi|571797897|ref|YP_008997795.1|vFam_1071| movement protein [Pea yellow stunt virus]
+gi|570033507|ref|YP_008992020.1|vFam_1071| movement protein [Pea necrotic yellow dwarf virus]

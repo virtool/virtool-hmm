@@ -1,0 +1,25 @@
+CLUSTER	452
+NUM_SEQ	17
+LENGTH	126
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	66.78
+FAMILIES	{'Adenoviridae': 16}
+GENERA	{'None': 1, 'Mastadenovirus': 15}
+FASTA SEQUENCE TITLES:
+gi|56158820|ref|AP_000039.1|vFam_452| E3 14.7K [Bovine adenovirus B]
+gi|51556718|ref|YP_068079.1|vFam_452| E3 14.7K [Tree shrew adenovirus 1]
+gi|496838717|ref|YP_007518335.1|vFam_452| E3 RID-beta [Titi monkey adenovirus ECC-2011]
+gi|485191084|ref|YP_007906020.1|vFam_452| E3 14.7 protein [Simian adenovirus C]
+gi|61602110|ref|YP_213987.1|vFam_452| E3 14.7K [Simian adenovirus 1]
+gi|460042662|ref|YP_007518089.1|vFam_452| E3 14.7K [Simian adenovirus 20]
+gi|51518842|ref|YP_067929.1|vFam_452| E3 14.7 kDa protein [Simian adenovirus 3]
+gi|327415394|ref|YP_004300222.1|vFam_452| unnamed protein product [Simian adenovirus 49]
+gi|56160462|ref|AP_000133.1|vFam_452| E3 14.7K [Human adenovirus A]
+gi|9626583|ref|NP_040873.1|vFam_452| control protein E3 14.7K [Human adenovirus F]
+gi|56160522|ref|AP_000188.1|vFam_452| E3 14.7K [Human adenovirus 2]
+gi|56160866|ref|AP_000525.1|vFam_452| E3 14.7K [Human adenovirus 1]
+gi|56160557|ref|AP_000224.1|vFam_452| E3 14.7K [Human adenovirus 5]
+gi|253762003|ref|YP_003038625.1|vFam_452| 14.7 kDa protein [Human adenovirus 54]
+gi|56160664|ref|AP_000328.1|vFam_452| E3 14.7K [Simian adenovirus 25]
+gi|197944791|ref|YP_002213826.1|vFam_452| control protein E3 14.7K [Human adenovirus B]
+gi|197944757|ref|YP_002213794.1|vFam_452| control protein E3 14.7K [Human adenovirus B]

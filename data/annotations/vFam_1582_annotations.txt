@@ -1,0 +1,14 @@
+CLUSTER	1582
+NUM_SEQ	6
+LENGTH	284
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	144.84
+FAMILIES	{'None': 1, 'Phycodnaviridae': 5}
+GENERA	{'None': 1, 'Prymnesiovirus': 1, 'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|310831249|ref|YP_003969892.1|vFam_1582| putative exostosin family protein [Cafeteria roenbergensis virus BV-PW1]
+gi|508181818|ref|YP_008052337.1|vFam_1582| hypothetical protein PGCG_00018 [Phaeocystis globosa virus]
+gi|157953284|ref|YP_001498175.1|vFam_1582| hypothetical protein AR158_C093L [Paramecium bursaria Chlorella virus AR158]
+gi|9631644|ref|NP_048423.1|vFam_1582| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|155371777|ref|YP_001427311.1|vFam_1582| hypothetical protein ATCV1_Z830R [Acanthocystis turfacea Chlorella virus 1]
+gi|155370110|ref|YP_001425644.1|vFam_1582| hypothetical protein FR483_N012L [Paramecium bursaria Chlorella virus FR483]

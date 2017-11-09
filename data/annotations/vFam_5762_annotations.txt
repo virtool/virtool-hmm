@@ -1,0 +1,10 @@
+CLUSTER	5762
+NUM_SEQ	2
+LENGTH	409
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	212.68
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|9631535|ref|NP_048094.1|vFam_5762| ORF MSV023 ALI motif gene family protein [Melanoplus sanguinipes entomopoxvirus]
+gi|9631452|ref|NP_048265.1|vFam_5762| ORF MSV194 ALI motif gene family protein [Melanoplus sanguinipes entomopoxvirus]

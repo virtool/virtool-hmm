@@ -1,0 +1,11 @@
+CLUSTER	4506
+NUM_SEQ	3
+LENGTH	127
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	64.77
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|378554471|ref|YP_005271250.1|vFam_4506| unnamed protein product [Thermococcus prieurii virus 1]
+gi|448260207|ref|YP_007348304.1|vFam_4506| hypothetical protein STSV2_60 [Sulfolobus virus STSV2]
+gi|51980188|ref|YP_077255.1|vFam_4506| hypothetical protein STSV1pORF62 [Sulfolobus virus STSV1]

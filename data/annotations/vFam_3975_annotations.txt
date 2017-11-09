@@ -1,0 +1,10 @@
+CLUSTER	3975
+NUM_SEQ	2
+LENGTH	568
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	295.36
+FAMILIES	{'Secoviridae': 2}
+GENERA	{'Cheravirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52137004|ref|YP_081451.1|vFam_3975| helicase [Cherry rasp leaf virus]
+gi|25013982|ref|NP_734019.1|vFam_3975| NTP-binding domain [Apple latent spherical virus]

@@ -1,0 +1,13 @@
+CLUSTER	544
+NUM_SEQ	5
+LENGTH	757
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	378.5
+FAMILIES	{'Herpesviridae': 5}
+GENERA	{'None': 1, 'Proboscivirus': 1, 'Cytomegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|496991136|ref|YP_007969818.1|vFam_544| multifunctional expression regulator [Elephantid herpesvirus 1]
+gi|14251056|ref|NP_116418.1|vFam_544| T69 [Tupaiid herpesvirus 1]
+gi|52139244|ref|YP_081517.1|vFam_544| multifunctional expression regulator [Human herpesvirus 5]
+gi|359946501|ref|YP_004936034.1|vFam_544| multifunctional expression regulator [Cercopithecine herpesvirus 5]
+gi|356640388|ref|YP_004933830.1|vFam_544| tegument protein UL69 [Cynomolgus macaque cytomegalovirus strain Ottawa]

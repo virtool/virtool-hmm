@@ -1,0 +1,13 @@
+CLUSTER	2864
+NUM_SEQ	5
+LENGTH	73
+RELATIVE_ENTROPY_PER_POSITION	0.71
+TOTAL_RELATIVE_ENTROPY	51.83
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'Orthopoxvirus': 5}
+FASTA SEQUENCE TITLES:
+gi|22164642|ref|NP_671555.1|vFam_2864| EVM037 [Ectromelia virus]
+gi|66275850|ref|YP_232935.1|vFam_2864| hypothetical protein VACWR053 [Vaccinia virus]
+gi|20178428|ref|NP_619849.1|vFam_2864| CPXV062 protein [Cowpox virus]
+gi|113195231|ref|YP_717361.1|vFam_2864| hypothetical protein TATV_DAH68_054 [Taterapox virus]
+gi|18640283|ref|NP_570439.1|vFam_2864| CMLV049 [Camelpox virus]

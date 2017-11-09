@@ -1,0 +1,11 @@
+CLUSTER	944
+NUM_SEQ	3
+LENGTH	237
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	120.87
+FAMILIES	{'Ascoviridae': 3}
+GENERA	{'Ascovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|115298549|ref|YP_762402.1|vFam_944| 28.7 kDa DNA puffC4B-like protein [Spodoptera frugiperda ascovirus 1a]
+gi|134287292|ref|YP_001110988.1|vFam_944| hypothetical protein HVAV3e_gp135 [Heliothis virescens ascovirus 3e]
+gi|116326738|ref|YP_803275.1|vFam_944| hypothetical protein TNAV2c_gp052 [Trichoplusia ni ascovirus 2c]

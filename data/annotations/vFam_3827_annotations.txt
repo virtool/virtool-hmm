@@ -1,0 +1,12 @@
+CLUSTER	3827
+NUM_SEQ	4
+LENGTH	227
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	118.04
+FAMILIES	{'Retroviridae': 4}
+GENERA	{'Lentivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|9626222|ref|NP_040564.1|vFam_3827| hypothetical protein BIVgp3 [Bovine immunodeficiency virus]
+gi|9626654|ref|NP_040940.1|vFam_3827| protein Q [Caprine arthritis-encephalitis virus]
+gi|9627003|ref|NP_041250.1|vFam_3827| Q protein [Ovine lentivirus]
+gi|9626550|ref|NP_040841.1|vFam_3827| vif protein [Visna/Maedi virus]

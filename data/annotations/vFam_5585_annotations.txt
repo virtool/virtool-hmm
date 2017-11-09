@@ -1,0 +1,10 @@
+CLUSTER	5585
+NUM_SEQ	2
+LENGTH	104
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	54.08
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035286|ref|YP_008436913.1|vFam_5585| hypothetical protein ps_498 [Pandoravirus salinus]
+gi|526119083|ref|YP_008318986.1|vFam_5585| hypothetical protein [Pandoravirus dulcis]

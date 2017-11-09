@@ -1,0 +1,12 @@
+CLUSTER	1534
+NUM_SEQ	4
+LENGTH	65
+RELATIVE_ENTROPY_PER_POSITION	0.77
+TOTAL_RELATIVE_ENTROPY	50.05
+FAMILIES	{'Tombusviridae': 4}
+GENERA	{'Carmovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|32469480|ref|NP_862837.1|vFam_1534| p7 product [Pea stem necrosis virus]
+gi|9626974|ref|NP_041229.1|vFam_1534| protein p7A [Melon necrotic spot virus]
+gi|32469481|ref|NP_862838.1|vFam_1534| p6 product [Pea stem necrosis virus]
+gi|9626976|ref|NP_041230.1|vFam_1534| protein 7B [Melon necrotic spot virus]

@@ -1,0 +1,16 @@
+CLUSTER	1366
+NUM_SEQ	8
+LENGTH	80
+RELATIVE_ENTROPY_PER_POSITION	0.63
+TOTAL_RELATIVE_ENTROPY	50.4
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|472438235|ref|YP_007678012.1|vFam_1366| putative regulatory protein [Sulfolobales Mexican fusellovirus 1]
+gi|42494949|ref|NP_963947.1|vFam_1366| ORF B64 [Sulfolobus virus Ragged Hills]
+gi|270281806|ref|YP_003331472.1|vFam_1366| CopG-like RHH protein [Sulfolobus spindle-shaped virus 6]
+gi|38639819|ref|NP_944470.1|vFam_1366| ribbon-helix-helix domain containing protein [Sulfolobus spindle-shaped virus 2]
+gi|198449253|ref|YP_002221491.1|vFam_1366| CopG family [Sulfolobus spindle-shaped virus 5]
+gi|270281837|ref|YP_003331503.1|vFam_1366| CopG-like RHH protein [Sulfolobus spindle-shaped virus 7]
+gi|9625534|ref|NP_039791.1|vFam_1366| hypothetical protein SSV-1p15 [Sulfolobus spindle-shaped virus 1]
+gi|42495074|ref|NP_963983.1|vFam_1366| ORF C81 [Sulfolobus virus Kamchatka 1]

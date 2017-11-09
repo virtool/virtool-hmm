@@ -1,0 +1,11 @@
+CLUSTER	2570
+NUM_SEQ	3
+LENGTH	436
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	226.72
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977609|ref|YP_003986729.1|vFam_2570| putative zinc protease [Acanthamoeba polyphaga mimivirus]
+gi|448825281|ref|YP_007418212.1|vFam_2570| putative zinc protease [Megavirus lba]
+gi|441432193|ref|YP_007354235.1|vFam_2570| putative Zn-dependent peptidase [Acanthamoeba polyphaga moumouvirus]

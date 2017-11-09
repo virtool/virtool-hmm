@@ -1,0 +1,11 @@
+CLUSTER	1082
+NUM_SEQ	3
+LENGTH	227
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	118.04
+FAMILIES	{'Phycodnaviridae': 1, 'Nimaviridae': 1}
+GENERA	{'Phaeovirus': 1, 'Whispovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|17158509|ref|NP_477929.1|vFam_1082| wsv407 [Shrimp white spot syndrome virus]
+gi|90403535|ref|YP_529656.1|vFam_1082| hypothetical protein His2V_gp26 [His2 virus]
+gi|13242696|ref|NP_077712.1|vFam_1082| EsV-1-227 [Ectocarpus siliculosus virus 1]

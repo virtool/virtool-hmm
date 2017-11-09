@@ -1,0 +1,13 @@
+CLUSTER	2203
+NUM_SEQ	5
+LENGTH	666
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	346.32
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631367|ref|NP_048235.1|vFam_2203| ORF MSV164 putative core protein, fowlpox virus P4b homolog (vaccinia A3L), similar to SW:P17355 [Melanoplus sanguinipes entomopoxvirus]
+gi|9964461|ref|NP_064929.1|vFam_2203| putative core protein [Amsacta moorei entomopoxvirus 'L']
+gi|506498772|ref|YP_008004566.1|vFam_2203| P4b precursor [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498208|ref|YP_008004005.1|vFam_2203| P4b precursor [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497904|ref|YP_008003703.1|vFam_2203| P4b precursor [Mythimna separata entomopoxvirus 'L']

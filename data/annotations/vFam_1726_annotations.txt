@@ -1,0 +1,10 @@
+CLUSTER	1726
+NUM_SEQ	2
+LENGTH	414
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	215.28
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|441432584|ref|YP_007354626.1|vFam_1726| hypothetical protein Moumou_00668 [Acanthamoeba polyphaga moumouvirus]
+gi|310831302|ref|YP_003969945.1|vFam_1726| hypothetical protein crov312 [Cafeteria roenbergensis virus BV-PW1]

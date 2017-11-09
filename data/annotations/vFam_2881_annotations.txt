@@ -1,0 +1,13 @@
+CLUSTER	2881
+NUM_SEQ	5
+LENGTH	64
+RELATIVE_ENTROPY_PER_POSITION	0.82
+TOTAL_RELATIVE_ENTROPY	52.48
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|171473652|ref|YP_001798522.1|vFam_2881| hypothetical protein AFV9_gp04 [Acidianus filamentous virus 9]
+gi|16753147|ref|NP_445725.1|vFam_2881| hypothetical protein SIFV0062 [Sulfolobus islandicus filamentous virus]
+gi|171473705|ref|YP_001798575.1|vFam_2881| hypothetical protein AFV9_gp57 [Acidianus filamentous virus 9]
+gi|22122303|ref|NP_666564.1|vFam_2881| hypothetical protein SIRV2gp30 [Sulfolobus islandicus rod-shaped virus 2]
+gi|22122249|ref|NP_666610.1|vFam_2881| hypothetical protein SIRV1gp22 [Sulfolobus islandicus rod-shaped virus 1]

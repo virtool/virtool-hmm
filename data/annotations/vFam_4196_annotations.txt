@@ -1,0 +1,10 @@
+CLUSTER	4196
+NUM_SEQ	2
+LENGTH	332
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	172.64
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|74229785|ref|YP_308989.1|vFam_4196| hypothetical protein TNSV_gp100 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304240|ref|YP_249708.1|vFam_4196| ORF-104 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]

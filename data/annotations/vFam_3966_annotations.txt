@@ -1,0 +1,10 @@
+CLUSTER	3966
+NUM_SEQ	2
+LENGTH	526
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	273.52
+FAMILIES	{'Marseillevirus family': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|327409835|ref|YP_004347255.1|vFam_3966| papain-like cysteine peptidase [Lausannevirus]
+gi|284504297|ref|YP_003407012.1|vFam_3966| papain-like cysteine peptidase [Marseillevirus]

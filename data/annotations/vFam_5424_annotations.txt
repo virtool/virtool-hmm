@@ -1,0 +1,10 @@
+CLUSTER	5424
+NUM_SEQ	2
+LENGTH	46
+RELATIVE_ENTROPY_PER_POSITION	1.13
+TOTAL_RELATIVE_ENTROPY	51.98
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036709|ref|YP_008438346.1|vFam_5424| hypothetical protein ps_1940 [Pandoravirus salinus]
+gi|531036224|ref|YP_008437860.1|vFam_5424| hypothetical protein ps_1449 [Pandoravirus salinus]

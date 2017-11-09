@@ -1,0 +1,12 @@
+CLUSTER	605
+NUM_SEQ	4
+LENGTH	133
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	67.83
+FAMILIES	{'Hytrosaviridae': 3}
+GENERA	{'Glossinavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|168804154|ref|YP_001687086.1|vFam_605| hypothetical protein SGHV138 [Glossina pallidipes salivary gland hypertrophy virus]
+gi|168804139|ref|YP_001687071.1|vFam_605| hypothetical protein SGHV123 [Glossina pallidipes salivary gland hypertrophy virus]
+gi|506498142|ref|YP_008003939.1|vFam_605| hypothetical protein AHEV_116 [Adoxophyes honmai entomopoxvirus 'L']
+gi|168804138|ref|YP_001687070.1|vFam_605| hypothetical protein SGHV122 [Glossina pallidipes salivary gland hypertrophy virus]

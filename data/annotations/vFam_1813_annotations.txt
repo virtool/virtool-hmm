@@ -1,0 +1,13 @@
+CLUSTER	1813
+NUM_SEQ	5
+LENGTH	140
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	72.8
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'None': 1, 'Betaentomopoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|9631356|ref|NP_048208.1|vFam_1813| ORF MSV137 hypothetical protein [Melanoplus sanguinipes entomopoxvirus]
+gi|506497952|ref|YP_008003751.1|vFam_1813| unknown similar to AMEV211 [Mythimna separata entomopoxvirus 'L']
+gi|506498165|ref|YP_008003962.1|vFam_1813| unknown similar to AMEV211 [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964525|ref|NP_064993.1|vFam_1813| hypothetical protein AMV211 [Amsacta moorei entomopoxvirus 'L']
+gi|506498817|ref|YP_008004611.1|vFam_1813| unknown similar to AMEV211 [Choristoneura rosaceana entomopoxvirus 'L']

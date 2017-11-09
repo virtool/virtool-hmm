@@ -1,0 +1,10 @@
+CLUSTER	6344
+NUM_SEQ	2
+LENGTH	232
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	118.32
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|356640296|ref|YP_004933738.1|vFam_6344| hypothetical protein cy05 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|51556465|ref|YP_068098.1|vFam_6344| rh04 [Macacine herpesvirus 3]

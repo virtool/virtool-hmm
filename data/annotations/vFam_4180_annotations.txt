@@ -1,0 +1,11 @@
+CLUSTER	4180
+NUM_SEQ	3
+LENGTH	132
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	68.64
+FAMILIES	{'Tombusviridae': 1, 'None': 1}
+GENERA	{'Panicovirus': 1, 'Sobemovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|195546700|ref|YP_002117839.1|vFam_4180| p15 [Cocksfoot mild mosaic virus]
+gi|523587729|ref|YP_008219062.1|vFam_4180| putative accessory movement protein [Thin paspalum asymptomatic virus]
+gi|11072116|ref|NP_068347.1|vFam_4180| 15 kDa protein [Panicum mosaic virus]

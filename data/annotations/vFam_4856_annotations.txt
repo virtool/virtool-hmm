@@ -1,0 +1,11 @@
+CLUSTER	4856
+NUM_SEQ	3
+LENGTH	86
+RELATIVE_ENTROPY_PER_POSITION	0.58
+TOTAL_RELATIVE_ENTROPY	49.88
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|22122281|ref|NP_666542.1|vFam_4856| hypothetical protein SIRV2gp08 [Sulfolobus islandicus rod-shaped virus 2]
+gi|270281804|ref|YP_003331470.1|vFam_4856| hypothetical protein SSSV6_gp20 [Sulfolobus spindle-shaped virus 6]
+gi|38639818|ref|NP_944469.1|vFam_4856| ORF 88a [Sulfolobus spindle-shaped virus 2]

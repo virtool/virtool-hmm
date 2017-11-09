@@ -1,0 +1,11 @@
+CLUSTER	3928
+NUM_SEQ	3
+LENGTH	102
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	52.02
+FAMILIES	{'Betaflexiviridae': 3}
+GENERA	{'Vitivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|357579591|ref|YP_004935362.1|vFam_3928| ORF5 gene product [Actinidia virus B]
+gi|401829603|ref|YP_006590069.1|vFam_3928| RNA-binding protein [Grapevine virus F]
+gi|86515322|ref|NP_619666.2|vFam_3928| putative RNA binding protein [Grapevine virus A]

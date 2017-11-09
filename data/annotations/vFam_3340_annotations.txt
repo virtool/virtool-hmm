@@ -1,0 +1,12 @@
+CLUSTER	3340
+NUM_SEQ	4
+LENGTH	156
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	78.0
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Roseolovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|531034856|ref|YP_008436481.1|vFam_3340| hypothetical protein ps_65 [Pandoravirus salinus]
+gi|51874307|ref|YP_073825.1|vFam_3340| membrane protein UL124 [Human herpesvirus 7]
+gi|224020411|ref|NP_042984.2|vFam_3340| membrane protein UL124 [Human herpesvirus 6A]
+gi|9633157|ref|NP_050267.1|vFam_3340| probable membrane glycoprotein [Human herpesvirus 6B]

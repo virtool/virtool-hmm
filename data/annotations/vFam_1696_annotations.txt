@@ -1,0 +1,13 @@
+CLUSTER	1696
+NUM_SEQ	5
+LENGTH	178
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	92.56
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Betabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|32698561|ref|NP_872476.1|vFam_1696| ORF_22 [Adoxophyes orana granulovirus]
+gi|21686691|ref|NP_663191.1|vFam_1696| hypothetical protein [Phthorimaea operculella granulovirus]
+gi|288804664|ref|YP_003429349.1|vFam_1696| PrGVORF25 [Pieris rapae granulovirus]
+gi|33622229|ref|NP_891876.1|vFam_1696| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|14602267|ref|NP_148814.1|vFam_1696| ORF30 similar to XcGV ORF26 [Cydia pomonella granulovirus]

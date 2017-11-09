@@ -1,0 +1,15 @@
+CLUSTER	1098
+NUM_SEQ	7
+LENGTH	350
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	185.5
+FAMILIES	{'Reoviridae': 7}
+GENERA	{'Orbivirus': 7}
+FASTA SEQUENCE TITLES:
+gi|50253420|ref|YP_052949.1|vFam_1098| VP7 [St Croix River virus]
+gi|550455585|ref|YP_008658420.1|vFam_1098| major core [Wallal virus]
+gi|556195181|ref|YP_008719923.1|vFam_1098| inner capsid protein [Changuinola virus]
+gi|261181983|ref|YP_003240114.1|vFam_1098| VP7 protein [Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey)]
+gi|50253390|ref|YP_052967.1|vFam_1098| VP7 [Bluetongue virus]
+gi|50253402|ref|YP_052933.1|vFam_1098| inner capsid (core) protein VP7 [Palyam virus]
+gi|50253372|ref|YP_052956.1|vFam_1098| VP7 protein [African horse sickness virus]

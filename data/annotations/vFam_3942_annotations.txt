@@ -1,0 +1,10 @@
+CLUSTER	3942
+NUM_SEQ	2
+LENGTH	287
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	143.5
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|213159301|ref|YP_002321344.1|vFam_3942| 19kda protein [Oryctes rhinoceros virus]
+gi|134303485|ref|YP_001111354.1|vFam_3942| hypothetical protein GrBNV_gp87 [Gryllus bimaculatus nudivirus]

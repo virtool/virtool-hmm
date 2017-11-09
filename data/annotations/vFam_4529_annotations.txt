@@ -1,0 +1,10 @@
+CLUSTER	4529
+NUM_SEQ	2
+LENGTH	396
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	205.92
+FAMILIES	{'Phycodnaviridae': 2}
+GENERA	{'None': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|313844159|ref|YP_004061822.1|vFam_4529| hypothetical protein OlV1_190 [Ostreococcus lucimarinus virus OlV1]
+gi|163955190|ref|YP_001648294.1|vFam_4529| hypothetical protein OsV5_218f [Ostreococcus virus OsV5]

@@ -1,0 +1,11 @@
+CLUSTER	3099
+NUM_SEQ	3
+LENGTH	261
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	135.72
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|422933675|ref|YP_007003800.1|vFam_3099| protein ORF147 [Cyprinid herpesvirus 1]
+gi|422933903|ref|YP_007003962.1|vFam_3099| protein ORF147 [Cyprinid herpesvirus 2]
+gi|131840173|ref|YP_001096182.1|vFam_3099| unnamed protein product [Cyprinid herpesvirus 3]

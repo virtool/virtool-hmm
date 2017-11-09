@@ -1,0 +1,13 @@
+CLUSTER	2291
+NUM_SEQ	5
+LENGTH	169
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	87.88
+FAMILIES	{'None': 2, 'Phycodnaviridae': 1, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Prymnesiovirus': 1, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|508181850|ref|YP_008052369.1|vFam_2291| hypothetical protein PGCG_00050 [Phaeocystis globosa virus]
+gi|310831321|ref|YP_003969964.1|vFam_2291| hypothetical protein crov331 [Cafeteria roenbergensis virus BV-PW1]
+gi|311977793|ref|YP_003986913.1|vFam_2291| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825447|ref|YP_007418378.1|vFam_2291| hypothetical protein LBA_00484 [Megavirus lba]
+gi|441432340|ref|YP_007354382.1|vFam_2291| hypothetical protein Moumou_00410 [Acanthamoeba polyphaga moumouvirus]

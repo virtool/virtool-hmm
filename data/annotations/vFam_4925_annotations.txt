@@ -1,0 +1,11 @@
+CLUSTER	4925
+NUM_SEQ	3
+LENGTH	204
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	104.04
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311978125|ref|YP_003987245.1|vFam_4925| putative glutamine amidotransferase-like protein [Acanthamoeba polyphaga mimivirus]
+gi|448825220|ref|YP_007418151.1|vFam_4925| putative glutamine amidotransferase-like protein [Megavirus lba]
+gi|441432136|ref|YP_007354178.1|vFam_4925| glutamine amidotransferase [Acanthamoeba polyphaga moumouvirus]

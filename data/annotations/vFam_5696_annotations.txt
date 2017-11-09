@@ -1,0 +1,10 @@
+CLUSTER	5696
+NUM_SEQ	2
+LENGTH	427
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	213.5
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|422933905|ref|YP_007003964.1|vFam_5696| membrane protein ORF147B [Cyprinid herpesvirus 2]
+gi|422933677|ref|YP_007003802.1|vFam_5696| membrane protein ORF147B [Cyprinid herpesvirus 1]

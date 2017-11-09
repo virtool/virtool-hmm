@@ -1,0 +1,13 @@
+CLUSTER	1777
+NUM_SEQ	5
+LENGTH	748
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	388.96
+FAMILIES	{'Orthomyxoviridae': 5}
+GENERA	{'Influenzavirus A': 1, 'Thogotovirus': 1, 'Influenzavirus C': 1, 'Influenzavirus B': 1, 'Isavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|56407673|ref|YP_145804.1|vFam_1777| putative PB1 protein [Infectious salmon anemia virus]
+gi|56403978|ref|YP_145794.1|vFam_1777| PB1 protein [Thogoto virus]
+gi|52630352|ref|YP_089653.1|vFam_1777| polymerase 1 [Influenza C virus (C/Ann Arbor/1/50)]
+gi|32140170|ref|NP_859040.1|vFam_1777| polymerase Pb1 [Influenza A virus (A/Hong Kong/1073/99(H9N2))]
+gi|8486165|ref|NP_056657.1|vFam_1777| PB1 protein [Influenza B virus]

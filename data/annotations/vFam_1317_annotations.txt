@@ -1,0 +1,14 @@
+CLUSTER	1317
+NUM_SEQ	6
+LENGTH	645
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	328.95
+FAMILIES	{'Baculoviridae': 5}
+GENERA	{'Betabaculovirus': 3, 'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|285002419|ref|YP_003422483.1|vFam_1317| hypothetical protein PsunGV_gp144 [Pseudaletia unipuncta granulovirus]
+gi|506498012|ref|YP_008003811.1|vFam_1317| unknown similar to XecnGV orf138 [Mythimna separata entomopoxvirus 'L']
+gi|9635388|ref|NP_059286.1|vFam_1317| ORF138 [Xestia c-nigrum granulovirus]
+gi|165969114|ref|YP_001651014.1|vFam_1317| hypothetical protein [Orgyia leucostigma NPV]
+gi|68304249|ref|YP_249717.1|vFam_1317| ORF-113 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|9635309|ref|NP_059207.1|vFam_1317| ORF59 [Xestia c-nigrum granulovirus]

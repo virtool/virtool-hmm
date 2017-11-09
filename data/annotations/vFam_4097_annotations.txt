@@ -1,0 +1,10 @@
+CLUSTER	4097
+NUM_SEQ	2
+LENGTH	273
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	139.23
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035498|ref|YP_008437129.1|vFam_4097| otubain-like domain motif-containing [Pandoravirus salinus]
+gi|526119245|ref|YP_008319148.1|vFam_4097| otubain-like domain motif-containing [Pandoravirus dulcis]

@@ -1,0 +1,12 @@
+CLUSTER	834
+NUM_SEQ	4
+LENGTH	214
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	107.0
+FAMILIES	{'Alloherpesviridae': 1, 'Poxviridae': 2}
+GENERA	{'Orthopoxvirus': 2, 'Cyprinivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|378554444|ref|YP_005271223.1|vFam_834| unnamed protein product [Thermococcus prieurii virus 1]
+gi|282174083|ref|YP_003358185.1|vFam_834| protein ORF46 [Anguillid herpesvirus 1]
+gi|66275944|ref|YP_233029.1|vFam_834| cowpox A-type inclusion protein [Vaccinia virus]
+gi|9627652|ref|NP_042175.1|vFam_834| hypothetical protein VARVgp131 [Variola virus]

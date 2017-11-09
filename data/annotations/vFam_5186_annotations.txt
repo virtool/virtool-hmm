@@ -1,0 +1,10 @@
+CLUSTER	5186
+NUM_SEQ	2
+LENGTH	226
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	117.52
+FAMILIES	{'Baculoviridae': 2}
+GENERA	{'Alphabaculovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|165969144|ref|YP_001651044.1|vFam_5186| hypothetical protein [Orgyia leucostigma NPV]
+gi|9630990|ref|NP_047660.1|vFam_5186| LdOrf-24 peptide [Lymantria dispar multiple nucleopolyhedrovirus]

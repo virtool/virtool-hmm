@@ -1,0 +1,18 @@
+CLUSTER	783
+NUM_SEQ	10
+LENGTH	192
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	94.08
+FAMILIES	{'Baculoviridae': 9}
+GENERA	{'Betabaculovirus': 9}
+FASTA SEQUENCE TITLES:
+gi|11068023|ref|NP_068239.1|vFam_783| PxORF20 peptide [Plutella xylostella granulovirus]
+gi|32698555|ref|NP_872470.1|vFam_783| ORF_16 [Adoxophyes orana granulovirus]
+gi|148368836|ref|YP_001256966.1|vFam_783| hypothetical protein SlGVgp015 [Spodoptera litura granulovirus]
+gi|285002291|ref|YP_003422355.1|vFam_783| polyhedral envelope protein [Pseudaletia unipuncta granulovirus]
+gi|46309436|ref|YP_006326.1|vFam_783| ORF18 [Agrotis segetum granulovirus]
+gi|288804659|ref|YP_003429344.1|vFam_783| PEP1 [Pieris rapae granulovirus]
+gi|410493595|ref|YP_006908533.1|vFam_783| polyhedron envelope protein [Epinotia aporema granulovirus]
+gi|33622222|ref|NP_891867.1|vFam_783| hypothetical protein [Cryptophlebia leucotreta granulovirus]
+gi|556549053|ref|YP_008719967.1|vFam_783| pep-1 [Clostera anastomosis granulovirus]
+gi|14602258|ref|NP_148804.1|vFam_783| ORF20 similar to XcGV ORF17 [Cydia pomonella granulovirus]

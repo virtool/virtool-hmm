@@ -1,0 +1,10 @@
+CLUSTER	5314
+NUM_SEQ	2
+LENGTH	568
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	289.68
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531035476|ref|YP_008437107.1|vFam_5314| NUDIX hydrolase domain-like motif-containing [Pandoravirus salinus]
+gi|526119231|ref|YP_008319134.1|vFam_5314| nudix hydrolase domain-like motif-containing [Pandoravirus dulcis]

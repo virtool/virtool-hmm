@@ -1,0 +1,12 @@
+CLUSTER	1410
+NUM_SEQ	4
+LENGTH	1271
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	660.92
+FAMILIES	{'Alloherpesviridae': 4}
+GENERA	{'Cyprinivirus': 4}
+FASTA SEQUENCE TITLES:
+gi|282174141|ref|YP_003358243.1|vFam_1410| major capsid protein [Anguillid herpesvirus 1]
+gi|422933630|ref|YP_007003755.1|vFam_1410| major capsid protein [Cyprinid herpesvirus 1]
+gi|422933856|ref|YP_007003911.1|vFam_1410| major capsid protein [Cyprinid herpesvirus 2]
+gi|131840118|ref|YP_001096127.1|vFam_1410| unnamed protein product [Cyprinid herpesvirus 3]

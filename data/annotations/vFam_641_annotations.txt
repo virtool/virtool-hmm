@@ -1,0 +1,22 @@
+CLUSTER	641
+NUM_SEQ	14
+LENGTH	97
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	50.44
+FAMILIES	{'Geminiviridae': 11}
+GENERA	{'Mastrevirus': 11}
+FASTA SEQUENCE TITLES:
+gi|404184273|ref|YP_006666525.1|vFam_641| movement protein [Sporobolus striate mosaic virus 1]
+gi|422933997|ref|YP_007004036.1|vFam_641| movement protein [Dragonfly-associated mastrevirus]
+gi|404184290|ref|YP_006666529.1|vFam_641| movement protein [Sporobolus striate mosaic virus 2]
+gi|386361876|ref|YP_006273068.1|vFam_641| movement protein [Wheat dwarf India virus]
+gi|387600896|ref|YP_006331071.1|vFam_641| movement protein [Maize streak Reunion virus]
+gi|189311149|ref|YP_001941160.1|vFam_641| hypothetical protein [Oat dwarf virus]
+gi|18071199|ref|NP_542347.1|vFam_641| Movement protein [Wheat dwarf virus]
+gi|189311144|ref|YP_001941156.1|vFam_641| hypothetical protein [Wheat dwarf virus]
+gi|20564136|ref|NP_620724.1|vFam_641| movement protein [Tobacco yellow dwarf virus]
+gi|532691877|ref|YP_008472702.1|vFam_641| movement protein [Chickpea chlorosis Australia virus]
+gi|313139314|ref|YP_004046665.1|vFam_641| V2 [Chickpea chlorosis virus-A]
+gi|313122772|ref|YP_004046661.1|vFam_641| V2 [Chickpea redleaf virus]
+gi|166153476|ref|YP_001654979.1|vFam_641| movement protein [Chickpea chlorotic dwarf virus]
+gi|194322732|ref|YP_002014710.1|vFam_641| movement protein [Chickpea chlorotic dwarf virus]

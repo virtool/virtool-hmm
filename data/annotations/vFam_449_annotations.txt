@@ -1,0 +1,15 @@
+CLUSTER	449
+NUM_SEQ	7
+LENGTH	547
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	289.91
+FAMILIES	{'Parvoviridae': 6}
+GENERA	{'Pefudensovirus': 4, 'Brevidensovirus': 1, 'Densovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|33235706|ref|NP_874381.1|vFam_449| NS-1 [Blattella germanica densovirus]
+gi|9633607|ref|NP_051020.1|vFam_449| nonstructural protein [Periplaneta fuliginosa densovirus]
+gi|422933778|ref|YP_007003823.1|vFam_449| nonstructural protein NS1 [Pseudoplusia includens densovirus]
+gi|237642071|ref|YP_002887625.1|vFam_449| nonstructural protein NS-1 [Culex pipiens densovirus]
+gi|62857328|ref|YP_227600.1|vFam_449| Putative nonstructural protein NS1 [Acheta domestica densovirus]
+gi|557307522|ref|YP_008766862.1|vFam_449| NS1 [Solenopsis invicta densovirus]
+gi|23334619|ref|NP_694843.1|vFam_449| putative nonstructural protein [Planococcus citri densovirus]

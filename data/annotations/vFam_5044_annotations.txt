@@ -1,0 +1,10 @@
+CLUSTER	5044
+NUM_SEQ	2
+LENGTH	67
+RELATIVE_ENTROPY_PER_POSITION	0.77
+TOTAL_RELATIVE_ENTROPY	51.59
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|370702955|ref|YP_004956757.1|vFam_5044| orf9 gene product [Helicoverpa zea nudivirus 2]
+gi|134303456|ref|YP_001111325.1|vFam_5044| hypothetical protein GrBNV_gp58 [Gryllus bimaculatus nudivirus]

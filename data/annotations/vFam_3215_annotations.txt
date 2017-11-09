@@ -1,0 +1,11 @@
+CLUSTER	3215
+NUM_SEQ	3
+LENGTH	107
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	54.57
+FAMILIES	{'Virgaviridae': 3}
+GENERA	{'Tobravirus': 3}
+FASTA SEQUENCE TITLES:
+gi|20522121|ref|NP_620672.1|vFam_3215| 16 kDa protein [Tobacco rattle virus]
+gi|20178602|ref|NP_620036.1|vFam_3215| 12K protein [Pepper ringspot virus]
+gi|9632342|ref|NP_049328.1|vFam_3215| hypothetical protein Pebvs1gp4 [Pea early-browning virus]

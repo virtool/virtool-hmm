@@ -1,0 +1,11 @@
+CLUSTER	3150
+NUM_SEQ	3
+LENGTH	198
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	99.0
+FAMILIES	{'Marseillevirus family': 3}
+GENERA	{'None': 3}
+FASTA SEQUENCE TITLES:
+gi|327409788|ref|YP_004347208.1|vFam_3150| hypothetical protein LAU_0245 [Lausannevirus]
+gi|327409832|ref|YP_004347252.1|vFam_3150| hypothetical protein LAU_0289 [Lausannevirus]
+gi|284504300|ref|YP_003407015.1|vFam_3150| bacterial MORN repeat-containing protein [Marseillevirus]

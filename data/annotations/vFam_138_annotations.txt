@@ -1,0 +1,34 @@
+CLUSTER	138
+NUM_SEQ	26
+LENGTH	269
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	139.88
+FAMILIES	{'None': 2, 'Phycodnaviridae': 10, 'Iridoviridae': 7, 'Marseillevirus family': 2, 'Ascoviridae': 1, 'Mimiviridae': 2}
+GENERA	{'None': 6, 'Chloriridovirus': 1, 'Mimivirus': 1, 'Ascovirus': 1, 'Prasinovirus': 2, 'Coccolithovirus': 1, 'Phaeovirus': 2, 'Iridovirus': 1, 'Lymphocystivirus': 2, 'Prymnesiovirus': 1, 'Megalocytivirus': 1, 'Ranavirus': 2, 'Chlorovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|531036969|ref|YP_008438611.1|vFam_138| hypothetical protein ps_2209 [Pandoravirus salinus]
+gi|73852542|ref|YP_293826.1|vFam_138| putative DNA-binding protein [Emiliania huxleyi virus 86]
+gi|327409704|ref|YP_004347124.1|vFam_138| putative A32-like packaging ATPase [Lausannevirus]
+gi|284504185|ref|YP_003406900.1|vFam_138| A32-like packaging ATPase [Marseillevirus]
+gi|19881528|ref|NP_612345.1|vFam_138| putative adenosine triphosphatase [Infectious spleen and kidney necrosis virus]
+gi|51870067|ref|YP_073620.1|vFam_138| hypothetical protein LDVICp114 [Lymphocystis disease virus - isolate China]
+gi|13358448|ref|NP_078656.1|vFam_138| Virion assembly protein, NTPase [Lymphocystis disease virus 1]
+gi|56692771|ref|YP_164229.1|vFam_138| ATPase [Singapore grouper iridovirus]
+gi|49237312|ref|YP_031593.1|vFam_138| AAA-ATPase [Frog virus 3]
+gi|116326781|ref|YP_803318.1|vFam_138| hypothetical protein TNAV2c_gp095 [Trichoplusia ni ascovirus 2c]
+gi|15078788|ref|NP_149538.1|vFam_138| 075L [Invertebrate iridescent virus 6]
+gi|527333645|ref|YP_008357429.1|vFam_138| ATPase 3 [Invertebrate iridovirus 22]
+gi|109287966|ref|YP_654660.1|vFam_138| hypothetical protein MIV088R [Invertebrate iridescent virus 3]
+gi|13242498|ref|NP_077511.1|vFam_138| EsV-1-26 [Ectocarpus siliculosus virus 1]
+gi|197322436|ref|YP_002154709.1|vFam_138| putative VV A32 ATPase [Feldmannia species virus]
+gi|340025835|ref|NP_048749.2|vFam_138| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|155371384|ref|YP_001426918.1|vFam_138| hypothetical protein ATCV1_Z437R [Acanthocystis turfacea Chlorella virus 1]
+gi|155370687|ref|YP_001426221.1|vFam_138| hypothetical protein FR483_N589L [Paramecium bursaria Chlorella virus FR483]
+gi|508181865|ref|YP_008052384.1|vFam_138| VV A32-like packaging ATPase [Phaeocystis globosa virus]
+gi|313768078|ref|YP_004061509.1|vFam_138| hypothetical protein BpV1_079c [Bathycoccus sp. RCC1105 virus BpV1]
+gi|260665961|ref|YP_003212915.1|vFam_138| hypothetical protein H665_p092 [Ostreococcus tauri virus 1]
+gi|313768295|ref|YP_004061975.1|vFam_138| hypothetical protein MpV1_092c [Micromonas sp. RCC1109 virus MpV1]
+gi|310831328|ref|YP_003969971.1|vFam_138| putative VV A32-like packaging ATPase [Cafeteria roenbergensis virus BV-PW1]
+gi|311977822|ref|YP_003986942.1|vFam_138| VV A32 virion packaging ATPase [Acanthamoeba polyphaga mimivirus]
+gi|448825412|ref|YP_007418343.1|vFam_138| virion packaging ATPase [Megavirus lba]
+gi|441432310|ref|YP_007354352.1|vFam_138| A32-like packaging ATPase [Acanthamoeba polyphaga moumouvirus]

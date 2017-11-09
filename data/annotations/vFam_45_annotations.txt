@@ -1,0 +1,48 @@
+CLUSTER	45
+NUM_SEQ	40
+LENGTH	866
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	450.32
+FAMILIES	{'Baculoviridae': 36}
+GENERA	{'Deltabaculovirus': 1, 'Gammabaculovirus': 3, 'Betabaculovirus': 11, 'Alphabaculovirus': 21}
+FASTA SEQUENCE TITLES:
+gi|15320820|ref|NP_203330.1|vFam_45| CUN026 putative lef-8 late transcription factor, Rna_Pol_Beta motif, similar to AcMNPV ORF50 [Culex nigripalpus nucleopolyhedrovirus]
+gi|48843615|ref|YP_025188.1|vFam_45| late expression factor-8 [Neodiprion sertifer nucleopolyhedrovirus]
+gi|48843707|ref|YP_025279.1|vFam_45| late expression factor-8 [Neodiprion lecontei nucleopolyhedrovirus]
+gi|110645292|ref|YP_667931.1|vFam_45| late expression factor 8 [Neodiprion abietis NPV]
+gi|285002430|ref|YP_003422494.1|vFam_45| LEF-8 [Pseudaletia unipuncta granulovirus]
+gi|148368942|ref|YP_001257072.1|vFam_45| lef-8 [Spodoptera litura granulovirus]
+gi|556549145|ref|YP_008720059.1|vFam_45| lef-8 [Clostera anastomosis granulovirus]
+gi|410493691|ref|YP_006908629.1|vFam_45| late expression factor 8 [Epinotia aporema granulovirus]
+gi|11068112|ref|NP_068328.1|vFam_45| PxORF109 peptide [Plutella xylostella granulovirus]
+gi|46309336|ref|YP_006226.1|vFam_45| ORF118 [Agrotis segetum granulovirus]
+gi|32698649|ref|NP_872564.1|vFam_45| lef-8 [Adoxophyes orana granulovirus]
+gi|33622319|ref|NP_891966.1|vFam_45| lef-8 [Cryptophlebia leucotreta granulovirus]
+gi|14602368|ref|NP_148915.1|vFam_45| ORF131 LEF-8 [Cydia pomonella granulovirus]
+gi|21686786|ref|NP_663286.1|vFam_45| late expression factor 8 [Phthorimaea operculella granulovirus]
+gi|109255379|ref|YP_654528.1|vFam_45| LEF-8 [Choristoneura occidentalis granulovirus]
+gi|288804749|ref|YP_003429434.1|vFam_45| LEF-8 [Pieris rapae granulovirus]
+gi|438000352|ref|YP_007250457.1|vFam_45| lef-8 protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964569|ref|YP_950765.1|vFam_45| late expression factor-8 [Maruca vitrata nucleopolyhedrovirus]
+gi|96979861|ref|YP_611067.1|vFam_45| lef-8 [Antheraea pernyi nucleopolyhedrovirus]
+gi|30387280|ref|NP_848359.1|vFam_45| late expression factor 8 [Choristoneura fumiferana multiple nucleopolyhedrovirus]
+gi|86355622|ref|YP_473290.1|vFam_45| LEF8 [Hyphantria cunea nucleopolyhedrovirus]
+gi|9629992|ref|NP_046210.1|vFam_45| late expression factor 8 [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|116326120|ref|YP_803445.1|vFam_45| late expression factor 8 [Anticarsia gemmatalis nucleopolyhedrovirus]
+gi|15320702|ref|NP_203214.1|vFam_45| LEF-8 [Epiphyas postvittana nucleopolyhedrovirus]
+gi|15617509|ref|NP_258306.1|vFam_45| LEF-8 [Spodoptera litura nucleopolyhedrovirus]
+gi|114679890|ref|YP_758340.1|vFam_45| lef-8 [Leucania separata nucleopolyhedrovirus]
+gi|209978821|ref|YP_002300564.1|vFam_45| LEF-8 [Adoxophyes orana nucleopolyhedrovirus]
+gi|9631017|ref|NP_047687.1|vFam_45| late expression factor 8 [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|113195532|ref|YP_717570.1|vFam_45| LEF-8 [Clanis bilineata nucleopolyhedrovirus]
+gi|118197514|ref|YP_874225.1|vFam_45| late expression factor 8 [Ectropis obliqua nucleopolyhedrovirus]
+gi|165969055|ref|YP_001650955.1|vFam_45| late expression factor 8 [Orgyia leucostigma NPV]
+gi|402502132|ref|YP_006607790.1|vFam_45| late expression factor 8 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|228861611|ref|YP_002854631.1|vFam_45| lef8 [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|209401092|ref|YP_002273961.1|vFam_45| late expression factor 8 [Helicoverpa armigera NPV NNg1]
+gi|22549541|ref|NP_689314.1|vFam_45| lef8 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|125860235|ref|YP_001036405.1|vFam_45| late expression factor 8 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401511|ref|YP_002332815.1|vFam_45| LEF-8 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634333|ref|NP_037872.1|vFam_45| ORF112 lef8 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209171013|ref|YP_002268160.1|vFam_45| agip130 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592838|ref|YP_529791.1|vFam_45| LEF-8 [Agrotis segetum nucleopolyhedrovirus]

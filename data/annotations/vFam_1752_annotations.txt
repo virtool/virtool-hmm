@@ -1,0 +1,11 @@
+CLUSTER	1752
+NUM_SEQ	3
+LENGTH	677
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	345.27
+FAMILIES	{'Totiviridae': 3}
+GENERA	{'Totivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9627981|ref|NP_042580.1|vFam_1752| capsid [Saccharomyces cerevisiae virus L-BC (La)]
+gi|20428568|ref|NP_620494.1|vFam_1752| major coat protein [Saccharomyces cerevisiae virus L-A]
+gi|475994052|ref|YP_007697650.1|vFam_1752| capsid protein [Xanthophyllomyces dendrorhous virus L1A]

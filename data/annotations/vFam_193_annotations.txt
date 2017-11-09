@@ -1,0 +1,20 @@
+CLUSTER	193
+NUM_SEQ	12
+LENGTH	577
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	300.04
+FAMILIES	{'Baculoviridae': 12}
+GENERA	{'Alphabaculovirus': 12}
+FASTA SEQUENCE TITLES:
+gi|209978852|ref|YP_002300595.1|vFam_193| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|29567165|ref|NP_818727.1|vFam_193| capsid protein P80 [Adoxophyes honmai nucleopolyhedrovirus]
+gi|209401148|ref|YP_002274017.1|vFam_193| viral capsid associated protein [Helicoverpa armigera NPV NNg1]
+gi|74229777|ref|YP_308981.1|vFam_193| orf92 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304233|ref|YP_249701.1|vFam_193| P87/VP80 [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|22549483|ref|NP_689256.1|vFam_193| p87/vp80 gene product [Mamestra configurata nucleopolyhedrovirus B]
+gi|20069961|ref|NP_613165.1|vFam_193| vp80 capsid [Mamestra configurata nucleopolyhedrovirus A]
+gi|209170959|ref|YP_002268105.1|vFam_193| P87 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592785|ref|YP_529738.1|vFam_193| P87 [Agrotis segetum nucleopolyhedrovirus]
+gi|125860183|ref|YP_001036353.1|vFam_193| vp80 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401460|ref|YP_002332763.1|vFam_193| P87 capsid [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634282|ref|NP_037821.1|vFam_193| ORF61 p87capsid [Spodoptera exigua multiple nucleopolyhedrovirus]

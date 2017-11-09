@@ -1,0 +1,15 @@
+CLUSTER	134
+NUM_SEQ	7
+LENGTH	290
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	147.9
+FAMILIES	{'Baculoviridae': 7}
+GENERA	{'Alphabaculovirus': 7}
+FASTA SEQUENCE TITLES:
+gi|29567197|ref|NP_818759.1|vFam_134| fibroblast growth factor [Adoxophyes honmai nucleopolyhedrovirus]
+gi|228861703|ref|YP_002854723.1|vFam_134| fgf [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|118197576|ref|YP_874288.1|vFam_134| fibroblast growth factor [Ectropis obliqua nucleopolyhedrovirus]
+gi|292397823|ref|YP_003517889.1|vFam_134| FGF [Lymantria xylina MNPV]
+gi|9631123|ref|NP_047793.1|vFam_134| fibroblast growth factor [Lymantria dispar multiple nucleopolyhedrovirus]
+gi|15617590|ref|NP_258390.1|vFam_134| fibroblast growth factor [Spodoptera litura nucleopolyhedrovirus]
+gi|209401170|ref|YP_002274039.1|vFam_134| fibroblast growth factor [Helicoverpa armigera NPV NNg1]

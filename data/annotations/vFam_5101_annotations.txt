@@ -1,0 +1,10 @@
+CLUSTER	5101
+NUM_SEQ	2
+LENGTH	118
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	60.18
+FAMILIES	{'Herpesviridae': 1, 'Phycodnaviridae': 1}
+GENERA	{'Muromegalovirus': 1, 'Chlorovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|155371632|ref|YP_001427166.1|vFam_5101| hypothetical protein ATCV1_z685R [Acanthocystis turfacea Chlorella virus 1]
+gi|61660118|ref|YP_214009.1|vFam_5101| hypothetical protein MuHV1_gp001 [Murid herpesvirus 1]

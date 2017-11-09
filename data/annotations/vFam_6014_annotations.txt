@@ -1,0 +1,10 @@
+CLUSTER	6014
+NUM_SEQ	2
+LENGTH	111
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	56.61
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52139184|ref|YP_081457.1|vFam_6014| protein RL6 [Human herpesvirus 5]
+gi|52139183|ref|YP_081456.1|vFam_6014| protein RL5A [Human herpesvirus 5]

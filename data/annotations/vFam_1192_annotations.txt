@@ -1,0 +1,16 @@
+CLUSTER	1192
+NUM_SEQ	8
+LENGTH	65
+RELATIVE_ENTROPY_PER_POSITION	0.79
+TOTAL_RELATIVE_ENTROPY	51.35
+FAMILIES	{'None': 1, 'Picornaviridae': 7}
+GENERA	{'None': 5, 'Sapelovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|56692982|ref|YP_164821.1|vFam_1192| VP4 [Avian sapelovirus]
+gi|38018432|ref|NP_937969.1|vFam_1192| VP4 [Simian sapelovirus 1]
+gi|25121796|ref|NP_740479.1|vFam_1192| capsid protein 1A [Porcine sapelovirus 1]
+gi|345461096|ref|YP_004782531.1|vFam_1192| VP4 [Bat picornavirus 3]
+gi|380034920|ref|YP_005352645.1|vFam_1192| VP4 [Canine picornavirus]
+gi|358356449|ref|YP_004934020.1|vFam_1192| unnamed protein product [Feline picornavirus]
+gi|345461278|ref|YP_004782557.1|vFam_1192| VP4 [Bat picornavirus 2]
+gi|345461262|ref|YP_004782543.1|vFam_1192| VP4 [Bat picornavirus 1]

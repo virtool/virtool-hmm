@@ -1,0 +1,11 @@
+CLUSTER	2993
+NUM_SEQ	3
+LENGTH	1215
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	631.8
+FAMILIES	{'Reoviridae': 3}
+GENERA	{'Seadornavirus': 3}
+FASTA SEQUENCE TITLES:
+gi|23238152|ref|NP_694468.1|vFam_2993| putative RNA-dependent RNA polymerase VP1 [Kadipiro virus]
+gi|85813348|ref|YP_460026.1|vFam_2993| RNA-dependent RNA polymerase [Liao ning virus]
+gi|23238128|ref|NP_694469.1|vFam_2993| putative RNA-dependent RNA polymerase VP1 [Banna virus]

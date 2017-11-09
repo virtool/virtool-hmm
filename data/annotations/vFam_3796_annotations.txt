@@ -1,0 +1,12 @@
+CLUSTER	3796
+NUM_SEQ	4
+LENGTH	94
+RELATIVE_ENTROPY_PER_POSITION	0.54
+TOTAL_RELATIVE_ENTROPY	50.76
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|162329486|ref|YP_001604285.1|vFam_3796| hypothetical protein AFV8_gp04 [Acidianus filamentous virus 8]
+gi|162329426|ref|YP_001604226.1|vFam_3796| hypothetical protein AFV7_gp02 [Acidianus filamentous virus 7]
+gi|171473655|ref|YP_001798525.1|vFam_3796| putative RHH transcriptional regulator [Acidianus filamentous virus 9]
+gi|16753092|ref|NP_445670.1|vFam_3796| hypothetical protein SIFV0005 [Sulfolobus islandicus filamentous virus]

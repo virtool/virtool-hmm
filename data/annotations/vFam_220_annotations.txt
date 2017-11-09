@@ -1,0 +1,28 @@
+CLUSTER	220
+NUM_SEQ	20
+LENGTH	478
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	248.56
+FAMILIES	{'Poxviridae': 17}
+GENERA	{'Betaentomopoxvirus': 1, 'None': 3, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Parapoxvirus': 2, 'Yatapoxvirus': 2, 'Suipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|115531805|ref|YP_784331.1|vFam_220| DNA helicase [Nile crocodilepox virus]
+gi|40556195|ref|NP_955280.1|vFam_220| CNPV257 DNA helicase, transcriptional elongation [Canarypox virus]
+gi|9634853|ref|NP_039146.1|vFam_220| DNA helicase, transcriptional elongation [Fowlpox virus]
+gi|113195317|ref|YP_717447.1|vFam_220| DNA helicase [Taterapox virus]
+gi|345107310|ref|YP_004821475.1|vFam_220| DNA helicase [Yoka poxvirus]
+gi|377830014|ref|YP_005296315.1|vFam_220| unnamed protein product [Cotia virus SPAn232]
+gi|9633918|ref|NP_051997.1|vFam_220| gp108R [Rabbit fibroma virus]
+gi|157939733|ref|YP_001497105.1|vFam_220| DNA helicase [Tanapox virus]
+gi|38229272|ref|NP_938365.1|vFam_220| 110R [Yaba monkey tumor virus]
+gi|148912987|ref|YP_001293301.1|vFam_220| hypothetical protein GTPV_gp105 [Goatpox virus Pellor]
+gi|211956390|ref|YP_002302459.1|vFam_220| DNA helicase [Deerpox virus W-1170-84]
+gi|18640193|ref|NP_570267.1|vFam_220| SPV107 putative DNA helicase transcriptional elongation factor [Swinepox virus]
+gi|571798033|ref|YP_008658532.1|vFam_220| transcript release/DNA helicase [Squirrelpox virus]
+gi|41057531|ref|NP_958004.1|vFam_220| ORF095 DNA helicase [Bovine papular stomatitis virus]
+gi|289183860|ref|YP_003457401.1|vFam_220| DNA helicase [Pseudocowpox virus]
+gi|9631473|ref|NP_048219.1|vFam_220| ORF MSV148 putative DNA helicase (vaccinia A18R), similar to SW:P20534 [Melanoplus sanguinipes entomopoxvirus]
+gi|506497800|ref|YP_008003599.1|vFam_220| DNA helicase, transcript release factor [Mythimna separata entomopoxvirus 'L']
+gi|506498082|ref|YP_008003879.1|vFam_220| DNA helicase, transcript release factor [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498691|ref|YP_008004485.1|vFam_220| DNA helicase, transcript release factor [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964373|ref|NP_064841.1|vFam_220| DNA helicase, transcriptional elongation [Amsacta moorei entomopoxvirus 'L']

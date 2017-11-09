@@ -1,0 +1,12 @@
+CLUSTER	1971
+NUM_SEQ	4
+LENGTH	173
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	88.23
+FAMILIES	{'None': 2, 'Mimiviridae': 2}
+GENERA	{'None': 3, 'Mimivirus': 1}
+FASTA SEQUENCE TITLES:
+gi|310831161|ref|YP_003969804.1|vFam_1971| putative protein disulfide isomerase [Cafeteria roenbergensis virus BV-PW1]
+gi|311977830|ref|YP_003986950.1|vFam_1971| thioredoxin domain-containing protein [Acanthamoeba polyphaga mimivirus]
+gi|448825404|ref|YP_007418335.1|vFam_1971| thioredoxin domain-containing protein [Megavirus lba]
+gi|441432302|ref|YP_007354344.1|vFam_1971| Thioredoxin [Acanthamoeba polyphaga moumouvirus]

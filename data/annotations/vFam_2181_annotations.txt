@@ -1,0 +1,13 @@
+CLUSTER	2181
+NUM_SEQ	5
+LENGTH	153
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	81.09
+FAMILIES	{'Phycodnaviridae': 4, 'Poxviridae': 1}
+GENERA	{'None': 1, 'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|571798066|ref|YP_008658565.1|vFam_2181| hypothetical pox protein [Squirrelpox virus]
+gi|155370917|ref|YP_001426451.1|vFam_2181| hypothetical protein FR483_N819R [Paramecium bursaria Chlorella virus FR483]
+gi|155370971|ref|YP_001426505.1|vFam_2181| hypothetical protein ATCV1_Z024R [Acanthocystis turfacea Chlorella virus 1]
+gi|340025840|ref|NP_048753.2|vFam_2181| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953675|ref|YP_001498566.1|vFam_2181| hypothetical protein AR158_C485L [Paramecium bursaria Chlorella virus AR158]

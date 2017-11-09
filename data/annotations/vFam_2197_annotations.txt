@@ -1,0 +1,12 @@
+CLUSTER	2197
+NUM_SEQ	4
+LENGTH	236
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	122.72
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|356640477|ref|YP_004933919.1|vFam_2197| hypothetical protein cy174 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|359946551|ref|YP_004936084.1|vFam_2197| envelope glycoprotein UL130 [Cercopithecine herpesvirus 5]
+gi|52139290|ref|YP_081565.1|vFam_2197| envelope glycoprotein UL130 [Human herpesvirus 5]
+gi|20026707|ref|NP_612749.1|vFam_2197| envelope glycoprotein UL130 [Panine herpesvirus 2]

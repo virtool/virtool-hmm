@@ -1,0 +1,10 @@
+CLUSTER	2147
+NUM_SEQ	2
+LENGTH	138
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	71.76
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|310831458|ref|YP_003970101.1|vFam_2147| hypothetical protein crov468 [Cafeteria roenbergensis virus BV-PW1]
+gi|310831011|ref|YP_003969654.1|vFam_2147| hypothetical protein crov022 [Cafeteria roenbergensis virus BV-PW1]

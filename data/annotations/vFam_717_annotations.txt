@@ -1,0 +1,20 @@
+CLUSTER	717
+NUM_SEQ	12
+LENGTH	69
+RELATIVE_ENTROPY_PER_POSITION	0.77
+TOTAL_RELATIVE_ENTROPY	53.13
+FAMILIES	{'Picornaviridae': 10}
+GENERA	{'Enterovirus': 10}
+FASTA SEQUENCE TITLES:
+gi|25121851|ref|NP_740515.1|vFam_717| 1A (VP4) [Human rhinovirus B14]
+gi|24231943|ref|NP_714929.1|vFam_717| putative VP4 [Enterovirus H]
+gi|25121641|ref|NP_740391.1|vFam_717| VP4 polypeptide [Rhinovirus A]
+gi|25121818|ref|NP_740537.1|vFam_717| 1A(VP4) [Enterovirus B]
+gi|25121840|ref|NP_740468.1|vFam_717| coat protein VP4 [Enterovirus C]
+gi|160700583|ref|YP_001552432.1|vFam_717| VP4 [Rhinovirus C]
+gi|25121582|ref|NP_740445.1|vFam_717| VP-4 [Enterovirus E]
+gi|27262065|ref|NP_758530.1|vFam_717| 1A (VP4) [Enterovirus G]
+gi|25121919|ref|NP_740412.1|vFam_717| capsid protein 1A [Enterovirus D]
+gi|169798139|ref|YP_001718576.1|vFam_717| 1A (VP4) [Enterovirus J]
+gi|25121807|ref|NP_740526.1|vFam_717| VP4 (1A) [Enterovirus A]
+gi|282598695|ref|YP_003359166.1|vFam_717| 1A (VP4) [Enterovirus J]

@@ -1,0 +1,10 @@
+CLUSTER	4712
+NUM_SEQ	2
+LENGTH	346
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	179.92
+FAMILIES	{'None': 1, 'Mimiviridae': 1}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|448825417|ref|YP_007418348.1|vFam_4712| putative HNH endonuclease [Megavirus lba]
+gi|441432313|ref|YP_007354355.1|vFam_4712| HNH endonuclease [Acanthamoeba polyphaga moumouvirus]

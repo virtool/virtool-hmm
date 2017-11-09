@@ -1,0 +1,11 @@
+CLUSTER	2105
+NUM_SEQ	3
+LENGTH	132
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	68.64
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977541|ref|YP_003986661.1|vFam_2105| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|448825912|ref|YP_007418843.1|vFam_2105| hypothetical protein LBA_00949 [Megavirus lba]
+gi|441431987|ref|YP_007354029.1|vFam_2105| divergent P-loop NTPase [Acanthamoeba polyphaga moumouvirus]

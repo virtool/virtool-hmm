@@ -1,0 +1,13 @@
+CLUSTER	1885
+NUM_SEQ	5
+LENGTH	453
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	235.56
+FAMILIES	{'Parvoviridae': 5}
+GENERA	{'Iteravirus': 4, 'Densovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|338826804|ref|YP_004678719.1|vFam_1885| NS2 [Helicoverpa armigera densovirus]
+gi|56698741|ref|YP_164340.1|vFam_1885| nonstructural protein 2 [Dendrolimus punctatus densovirus]
+gi|401715659|ref|YP_006589929.1|vFam_1885| nonstructural protein 2 [Papilio polyxenes densovirus]
+gi|23334623|ref|NP_694839.1|vFam_1885| nonstructural protein 2 [Casphalia extranea densovirus]
+gi|23334613|ref|NP_694835.1|vFam_1885| nonstructural protein [Bombyx mori densovirus 5]

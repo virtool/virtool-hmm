@@ -1,0 +1,14 @@
+CLUSTER	1723
+NUM_SEQ	6
+LENGTH	230
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	119.6
+FAMILIES	{'Herpesviridae': 1, 'Phycodnaviridae': 5}
+GENERA	{'Rhadinovirus': 1, 'Chlorovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|13095604|ref|NP_076519.1|vFam_1723| unknown [Bovine herpesvirus 4]
+gi|9631696|ref|NP_048475.1|vFam_1723| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953360|ref|YP_001498251.1|vFam_1723| hypothetical protein AR158_C169R [Paramecium bursaria Chlorella virus AR158]
+gi|157952481|ref|YP_001497373.1|vFam_1723| hypothetical protein NY2A_B177R [Paramecium bursaria Chlorella virus NY2A]
+gi|155371685|ref|YP_001427219.1|vFam_1723| hypothetical protein ATCV1_Z738L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370266|ref|YP_001425800.1|vFam_1723| hypothetical protein FR483_N168R [Paramecium bursaria Chlorella virus FR483]

@@ -1,0 +1,12 @@
+CLUSTER	1790
+NUM_SEQ	4
+LENGTH	143
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	72.93
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'None': 2, 'Chlorovirus': 1, 'Prasinovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|155370567|ref|YP_001426101.1|vFam_1790| hypothetical protein FR483_N469R [Paramecium bursaria Chlorella virus FR483]
+gi|314055111|ref|YP_004063449.1|vFam_1790| hypothetical protein OtV2_016 [Ostreococcus tauri virus 2]
+gi|163954994|ref|YP_001648098.1|vFam_1790| hypothetical protein OsV5_021r [Ostreococcus virus OsV5]
+gi|313843997|ref|YP_004061660.1|vFam_1790| hypothetical protein OlV1_027c [Ostreococcus lucimarinus virus OlV1]

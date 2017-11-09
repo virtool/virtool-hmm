@@ -1,0 +1,24 @@
+CLUSTER	215
+NUM_SEQ	16
+LENGTH	362
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	191.86
+FAMILIES	{'Baculoviridae': 14}
+GENERA	{'Alphabaculovirus': 14}
+FASTA SEQUENCE TITLES:
+gi|9629969|ref|NP_046187.1|vFam_215| dUTPase [Orgyia pseudotsugata multiple nucleopolyhedrovirus]
+gi|15617568|ref|NP_258368.1|vFam_215| hypothetical protein [Spodoptera litura nucleopolyhedrovirus]
+gi|114679967|ref|YP_758417.1|vFam_215| ORF120 [Leucania separata nucleopolyhedrovirus]
+gi|74229786|ref|YP_308990.1|vFam_215| orf101 [Trichoplusia ni single nucleopolyhedrovirus]
+gi|68304242|ref|YP_249710.1|vFam_215| ORF-106 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|228861688|ref|YP_002854708.1|vFam_215| thymidylatekinase [Euproctis pseudoconspersa nucleopolyhedrovirus]
+gi|165969108|ref|YP_001651008.1|vFam_215| nicotinamide riboside kinase 1 [Orgyia leucostigma NPV]
+gi|125860175|ref|YP_001036345.1|vFam_215| hypothetical protein SFMNPV_gp053 [Spodoptera frugiperda multiple nucleopolyhedrovirus]
+gi|215401295|ref|YP_002332599.1|vFam_215| nicotinamide riboside kinase 1 [Helicoverpa armigera multiple nucleopolyhedrovirus]
+gi|215401452|ref|YP_002332755.1|vFam_215| hypothetical protein SlnV2_gp057 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634275|ref|NP_037814.1|vFam_215| ORF54 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|209170947|ref|YP_002268093.1|vFam_215| agip63 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|90592777|ref|YP_529730.1|vFam_215| ORF-60 [Agrotis segetum nucleopolyhedrovirus]
+gi|529218155|ref|YP_008378318.1|vFam_215| nrk1 [Hemileuca sp. nucleopolyhedrovirus]
+gi|402502194|ref|YP_006607852.1|vFam_215| nicotinamide riboside kinase 1 [Apocheima cinerarium nucleopolyhedrovirus]
+gi|118197595|ref|YP_874307.1|vFam_215| nicotinamide riboside kinase 1 [Ectropis obliqua nucleopolyhedrovirus]

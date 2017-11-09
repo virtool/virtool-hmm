@@ -1,0 +1,12 @@
+CLUSTER	1682
+NUM_SEQ	4
+LENGTH	176
+RELATIVE_ENTROPY_PER_POSITION	0.48
+TOTAL_RELATIVE_ENTROPY	84.48
+FAMILIES	{'Herpesviridae': 4}
+GENERA	{'Cytomegalovirus': 3, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|356640475|ref|YP_004933917.1|vFam_1682| protein UL128 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|448824949|ref|YP_007417881.1|vFam_1682| GP129 [Caviid herpesvirus 2]
+gi|360086596|ref|YP_004940279.1|vFam_1682| envelope protein UL128 [Saimiriine herpesvirus 3]
+gi|360041009|ref|YP_004940133.1|vFam_1682| envelope protein UL128 [Aotine herpesvirus 1]

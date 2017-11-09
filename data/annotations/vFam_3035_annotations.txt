@@ -1,0 +1,12 @@
+CLUSTER	3035
+NUM_SEQ	4
+LENGTH	248
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	128.96
+FAMILIES	{'Tombusviridae': 2, 'None': 1}
+GENERA	{'Panicovirus': 1, 'Machlomovirus': 1, 'Sobemovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|20162542|ref|NP_619722.1|vFam_3035| coat protein [Maize chlorotic mottle virus]
+gi|195546699|ref|YP_002117838.1|vFam_3035| p26 [Cocksfoot mild mosaic virus]
+gi|523587728|ref|YP_008219061.1|vFam_3035| coat protein [Thin paspalum asymptomatic virus]
+gi|11072115|ref|NP_068346.1|vFam_3035| 26 kDa capsid protein [Panicum mosaic virus]

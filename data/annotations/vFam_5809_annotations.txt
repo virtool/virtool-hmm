@@ -1,0 +1,10 @@
+CLUSTER	5809
+NUM_SEQ	2
+LENGTH	188
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	95.88
+FAMILIES	{'Alloherpesviridae': 2}
+GENERA	{'Cyprinivirus': 2}
+FASTA SEQUENCE TITLES:
+gi|422933882|ref|YP_007003941.1|vFam_5809| protein ORF125 [Cyprinid herpesvirus 2]
+gi|131840151|ref|YP_001096160.1|vFam_5809| unnamed protein product [Cyprinid herpesvirus 3]

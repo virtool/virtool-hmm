@@ -1,0 +1,16 @@
+CLUSTER	1111
+NUM_SEQ	8
+LENGTH	307
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	162.71
+FAMILIES	{'Bunyaviridae': 8}
+GENERA	{'Tospovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|113200753|ref|YP_717934.1|vFam_1111| nonstructural protein [Melon yellow spot virus]
+gi|170676272|ref|YP_001740045.1|vFam_1111| NSm [Tomato zonate spot virus]
+gi|20564189|ref|NP_620766.1|vFam_1111| nonstructural protein [Watermelon silver mottle virus]
+gi|113200761|ref|YP_717925.1|vFam_1111| non-structural protein [Capsicum chlorosis virus]
+gi|20153371|ref|NP_619702.1|vFam_1111| non-structural protein [Groundnut bud necrosis virus]
+gi|391738077|ref|YP_006468901.1|vFam_1111| non-structural movement protein [Bean necrotic mosaic virus]
+gi|332290591|ref|YP_004421858.1|vFam_1111| nonstructural movement protein [Groundnut ringspot and Tomato chlorotic spot virus reassortant]
+gi|20153334|ref|NP_619690.1|vFam_1111| nonstructural protein [Impatiens necrotic spot virus]

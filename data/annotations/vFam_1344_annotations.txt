@@ -1,0 +1,11 @@
+CLUSTER	1344
+NUM_SEQ	3
+LENGTH	190
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	98.8
+FAMILIES	{'None': 2}
+GENERA	{'Benyvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|524005184|ref|YP_008219065.1|vFam_1344| coat protein [Burdock mottle virus]
+gi|23682119|ref|NP_705610.1|vFam_1344| coat protein [Beet necrotic yellow vein virus]
+gi|19919954|ref|NP_612588.1|vFam_1344| coat protein [Beet soil-borne mosaic virus]

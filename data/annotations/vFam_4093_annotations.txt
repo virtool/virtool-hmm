@@ -1,0 +1,11 @@
+CLUSTER	4093
+NUM_SEQ	3
+LENGTH	289
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	153.17
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Avipoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|9634703|ref|NP_038996.1|vFam_4093| alpha-SNAP [Fowlpox virus]
+gi|40555963|ref|NP_955048.1|vFam_4093| CNPV025 alpha-SNAP-like protein [Canarypox virus]
+gi|9634681|ref|NP_038974.1|vFam_4093| alpha-SNAP [Fowlpox virus]

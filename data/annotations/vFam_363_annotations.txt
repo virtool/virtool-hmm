@@ -1,0 +1,27 @@
+CLUSTER	363
+NUM_SEQ	19
+LENGTH	252
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	131.04
+FAMILIES	{'Phycodnaviridae': 19}
+GENERA	{'Chlorovirus': 19}
+FASTA SEQUENCE TITLES:
+gi|9631746|ref|NP_048525.1|vFam_363| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|9632172|ref|NP_049005.1|vFam_363| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|9632018|ref|NP_048807.1|vFam_363| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|340025700|ref|NP_048427.2|vFam_363| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|9631843|ref|NP_048629.1|vFam_363| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157953496|ref|YP_001498387.1|vFam_363| hypothetical protein AR158_C306L [Paramecium bursaria Chlorella virus AR158]
+gi|157953303|ref|YP_001498194.1|vFam_363| hypothetical protein AR158_C112R [Paramecium bursaria Chlorella virus AR158]
+gi|157953986|ref|YP_001498877.1|vFam_363| hypothetical protein AR158_C796L [Paramecium bursaria Chlorella virus AR158]
+gi|157953171|ref|YP_001498063.1|vFam_363| hypothetical protein NY2A_B867L [Paramecium bursaria Chlorella virus NY2A]
+gi|155371694|ref|YP_001427228.1|vFam_363| hypothetical protein ATCV1_Z747L [Acanthocystis turfacea Chlorella virus 1]
+gi|155371146|ref|YP_001426680.1|vFam_363| hypothetical protein ATCV1_Z199R [Acanthocystis turfacea Chlorella virus 1]
+gi|155370747|ref|YP_001426281.1|vFam_363| hypothetical protein FR483_N649R [Paramecium bursaria Chlorella virus FR483]
+gi|340025680|ref|NP_048357.2|vFam_363| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|157952337|ref|YP_001497229.1|vFam_363| hypothetical protein NY2A_B033R [Paramecium bursaria Chlorella virus NY2A]
+gi|155370511|ref|YP_001426045.1|vFam_363| hypothetical protein FR483_N413R [Paramecium bursaria Chlorella virus FR483]
+gi|155370267|ref|YP_001425801.1|vFam_363| hypothetical protein FR483_N169L [Paramecium bursaria Chlorella virus FR483]
+gi|155370128|ref|YP_001425662.1|vFam_363| hypothetical protein FR483_N030R [Paramecium bursaria Chlorella virus FR483]
+gi|155370890|ref|YP_001426424.1|vFam_363| hypothetical protein FR483_N792R [Paramecium bursaria Chlorella virus FR483]
+gi|155370631|ref|YP_001426165.1|vFam_363| hypothetical protein FR483_N533L [Paramecium bursaria Chlorella virus FR483]

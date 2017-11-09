@@ -1,0 +1,13 @@
+CLUSTER	2662
+NUM_SEQ	5
+LENGTH	124
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	65.72
+FAMILIES	{'Poxviridae': 5}
+GENERA	{'Yatapoxvirus': 1, 'Cervidpoxvirus': 1, 'Suipoxvirus': 1, 'Leporipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9633972|ref|NP_051902.1|vFam_2662| gp013L [Rabbit fibroma virus]
+gi|9633649|ref|NP_051727.1|vFam_2662| M013L [Myxoma virus]
+gi|18640100|ref|NP_570174.1|vFam_2662| SPV014 hypothetical protein [Swinepox virus]
+gi|211956298|ref|YP_002302366.1|vFam_2662| hypothetical protein DpV84gp024 [Deerpox virus W-1170-84]
+gi|157939638|ref|YP_001497010.1|vFam_2662| pyrin domain [Tanapox virus]

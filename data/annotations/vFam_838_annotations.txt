@@ -1,0 +1,16 @@
+CLUSTER	838
+NUM_SEQ	8
+LENGTH	633
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	329.16
+FAMILIES	{'Poxviridae': 2}
+GENERA	{'Betaentomopoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|9964509|ref|NP_064977.1|vFam_838| hypothetical protein AMV195 [Amsacta moorei entomopoxvirus 'L']
+gi|506498870|ref|YP_008004664.1|vFam_838| unknown similar to AMEV195 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498258|ref|YP_008004055.1|vFam_838| unknown similar to AMEV195 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498000|ref|YP_008003799.1|vFam_838| unknown similar to AMEV195 [Mythimna separata entomopoxvirus 'L']
+gi|506498626|ref|YP_008004420.1|vFam_838| unknown similar to AMEV124 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|506498085|ref|YP_008003882.1|vFam_838| unknown similar to AMEV124 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506498141|ref|YP_008003938.1|vFam_838| unknown similar to AMEV124 [Adoxophyes honmai entomopoxvirus 'L']
+gi|9964438|ref|NP_064906.1|vFam_838| hypothetical protein AMV124 [Amsacta moorei entomopoxvirus 'L']

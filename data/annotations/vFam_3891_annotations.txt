@@ -1,0 +1,10 @@
+CLUSTER	3891
+NUM_SEQ	2
+LENGTH	232
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	120.64
+FAMILIES	{'Herpesviridae': 2}
+GENERA	{'Cytomegalovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|52139317|ref|YP_081592.1|vFam_3891| membrane glycoprotein US7 [Human herpesvirus 5]
+gi|20026738|ref|NP_612780.1|vFam_3891| membrane glycoprotein US7 [Panine herpesvirus 2]

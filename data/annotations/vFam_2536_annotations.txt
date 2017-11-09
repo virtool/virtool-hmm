@@ -1,0 +1,11 @@
+CLUSTER	2536
+NUM_SEQ	3
+LENGTH	357
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	185.64
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Lymphocryptovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|24943144|ref|NP_733906.1|vFam_2536| ORF52 [callitrichine herpesvirus 3]
+gi|82503216|ref|YP_401658.1|vFam_2536| BMRF2 protein [Human herpesvirus 4]
+gi|51518031|ref|YP_067956.1|vFam_2536| BMRF2 [Macacine herpesvirus 4]

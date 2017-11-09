@@ -1,0 +1,25 @@
+CLUSTER	430
+NUM_SEQ	17
+LENGTH	75
+RELATIVE_ENTROPY_PER_POSITION	0.65
+TOTAL_RELATIVE_ENTROPY	48.75
+FAMILIES	{'Poxviridae': 17}
+GENERA	{'None': 2, 'Cervidpoxvirus': 1, 'Leporipoxvirus': 1, 'Suipoxvirus': 1, 'Molluscipoxvirus': 1, 'Capripoxvirus': 1, 'Crocodylidpoxvirus': 1, 'Orthopoxvirus': 2, 'Avipoxvirus': 2, 'Yatapoxvirus': 2, 'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|40556196|ref|NP_955281.1|vFam_430| CNPV258 conserved hypothetical protein [Canarypox virus]
+gi|9634854|ref|NP_039147.1|vFam_430| hypothetical protein FPV184 [Fowlpox virus]
+gi|41057532|ref|NP_958005.1|vFam_430| ORF096 hypothetical protein [Bovine papular stomatitis virus]
+gi|289183861|ref|YP_003457402.1|vFam_430| Zn-finger protein [Pseudocowpox virus]
+gi|41057159|ref|NP_957873.1|vFam_430| ORF096 hypothetical protein [Orf virus]
+gi|115531806|ref|YP_784332.1|vFam_430| hypothetical protein CRV142 [Nile crocodilepox virus]
+gi|9629056|ref|NP_044075.1|vFam_430| MC124L [Molluscum contagiosum virus subtype 1]
+gi|571798034|ref|YP_008658533.1|vFam_430| Zn finger protein [Squirrelpox virus]
+gi|66275936|ref|YP_233021.1|vFam_430| hypothetical protein VACWR139 [Vaccinia virus]
+gi|345107311|ref|YP_004821476.1|vFam_430| zn-finger protein-like protein [Yoka poxvirus]
+gi|377830015|ref|YP_005296316.1|vFam_430| unnamed protein product [Cotia virus SPAn232]
+gi|157939734|ref|YP_001497106.1|vFam_430| hypothetical protein TANV_111L [Tanapox virus]
+gi|38229273|ref|NP_938366.1|vFam_430| 111L [Yaba monkey tumor virus]
+gi|18640194|ref|NP_570268.1|vFam_430| SPV108 hypothetical protein [Swinepox virus]
+gi|211956391|ref|YP_002302460.1|vFam_430| hypothetical protein DpV84gp120 [Deerpox virus W-1170-84]
+gi|9633919|ref|NP_051998.1|vFam_430| gp109L [Rabbit fibroma virus]
+gi|148912988|ref|YP_001293302.1|vFam_430| hypothetical protein GTPV_gp106 [Goatpox virus Pellor]

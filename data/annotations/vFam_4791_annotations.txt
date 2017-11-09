@@ -1,0 +1,11 @@
+CLUSTER	4791
+NUM_SEQ	3
+LENGTH	115
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	58.65
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Simplexvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|30984492|ref|NP_851924.1|vFam_4791| envelope glycoprotein J [Macacine herpesvirus 1]
+gi|83722633|ref|YP_443911.1|vFam_4791| envelope glycoprotein J [Papiine herpesvirus 2]
+gi|56694787|ref|YP_164507.1|vFam_4791| envelope glycoprotein J [Cercopithecine herpesvirus 2]

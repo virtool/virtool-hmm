@@ -1,0 +1,12 @@
+CLUSTER	3575
+NUM_SEQ	4
+LENGTH	184
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	92.0
+FAMILIES	{'Marseillevirus family': 3, 'Polydnaviridae': 1}
+GENERA	{'None': 3, 'Ichnovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|327409588|ref|YP_004347008.1|vFam_3575| hypothetical protein LAU_0040 [Lausannevirus]
+gi|124484682|ref|YP_001031266.1|vFam_3575| b16.2 [Hyposoter fugitivus ichnovirus]
+gi|327409902|ref|YP_004347322.1|vFam_3575| hypothetical protein LAU_0360 [Lausannevirus]
+gi|327409900|ref|YP_004347320.1|vFam_3575| hypothetical protein LAU_0358 [Lausannevirus]

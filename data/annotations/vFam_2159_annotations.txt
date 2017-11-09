@@ -1,0 +1,14 @@
+CLUSTER	2159
+NUM_SEQ	6
+LENGTH	213
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	110.76
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|198449242|ref|YP_002221480.1|vFam_2159| hypothetical protein SSSV5_gp15 [Sulfolobus spindle-shaped virus 5]
+gi|9625524|ref|NP_039781.1|vFam_2159| hypothetical protein SSV-1p05 [Sulfolobus spindle-shaped virus 1]
+gi|160688431|ref|YP_001552193.1|vFam_2159| hypothetical protein SSSV4_ORF209 [Sulfolobus spindle-shaped virus 4]
+gi|42494936|ref|NP_963934.1|vFam_2159| ORF D212 [Sulfolobus virus Ragged Hills]
+gi|270281795|ref|YP_003331460.1|vFam_2159| hypothetical protein SSSV6_gp10 [Sulfolobus spindle-shaped virus 6]
+gi|38639810|ref|NP_944461.1|vFam_2159| hypothetical protein SSV2p09 [Sulfolobus spindle-shaped virus 2]

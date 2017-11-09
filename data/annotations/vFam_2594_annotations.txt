@@ -1,0 +1,13 @@
+CLUSTER	2594
+NUM_SEQ	5
+LENGTH	90
+RELATIVE_ENTROPY_PER_POSITION	0.56
+TOTAL_RELATIVE_ENTROPY	50.4
+FAMILIES	{'Coronaviridae': 4}
+GENERA	{'None': 2, 'Gammacoronavirus': 2}
+FASTA SEQUENCE TITLES:
+gi|526119351|ref|YP_008319254.1|vFam_2594| hypothetical protein [Pandoravirus dulcis]
+gi|383080802|ref|YP_005352886.1|vFam_2594| NS7a gene product [Common-moorhen coronavirus HKU21]
+gi|212681396|ref|YP_002308512.1|vFam_2594| nonstructural protein [Munia coronavirus HKU13-3514]
+gi|212681386|ref|YP_002308503.1|vFam_2594| nonstructural protein [Thrush coronavirus HKU12-600]
+gi|383080774|ref|YP_005352861.1|vFam_2594| NS7c gene product [Magpie-robin coronavirus HKU18]

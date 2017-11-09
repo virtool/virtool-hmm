@@ -1,0 +1,11 @@
+CLUSTER	3991
+NUM_SEQ	3
+LENGTH	175
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	91.0
+FAMILIES	{'Herpesviridae': 3}
+GENERA	{'Cytomegalovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|356640491|ref|YP_004933933.1|vFam_3991| hypothetical protein cy188 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|359946568|ref|YP_004936101.1|vFam_3991| protein O13 [Cercopithecine herpesvirus 5]
+gi|356640492|ref|YP_004933934.1|vFam_3991| hypothetical protein cy189 [Cynomolgus macaque cytomegalovirus strain Ottawa]

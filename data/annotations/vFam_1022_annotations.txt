@@ -1,0 +1,16 @@
+CLUSTER	1022
+NUM_SEQ	8
+LENGTH	280
+RELATIVE_ENTROPY_PER_POSITION	0.49
+TOTAL_RELATIVE_ENTROPY	137.2
+FAMILIES	{'Alloherpesviridae': 8}
+GENERA	{'Batrachovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|109638554|ref|YP_656779.1|vFam_1022| ORF124 [Ranid herpesvirus 1]
+gi|109638524|ref|YP_656782.1|vFam_1022| ORF127 [Ranid herpesvirus 1]
+gi|109638545|ref|YP_656780.1|vFam_1022| ORF125 [Ranid herpesvirus 1]
+gi|109638546|ref|YP_656783.1|vFam_1022| ORF128 [Ranid herpesvirus 1]
+gi|109638540|ref|YP_656785.1|vFam_1022| ORF130 [Ranid herpesvirus 1]
+gi|109638535|ref|YP_656784.1|vFam_1022| ORF129 [Ranid herpesvirus 1]
+gi|109638528|ref|YP_656786.1|vFam_1022| ORF131 [Ranid herpesvirus 1]
+gi|109638522|ref|YP_656787.1|vFam_1022| ORF132 [Ranid herpesvirus 1]

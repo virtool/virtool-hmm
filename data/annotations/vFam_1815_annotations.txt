@@ -1,0 +1,11 @@
+CLUSTER	1815
+NUM_SEQ	3
+LENGTH	430
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	215.0
+FAMILIES	{}
+GENERA	{}
+FASTA SEQUENCE TITLES:
+gi|531036603|ref|YP_008438240.1|vFam_1815| hypothetical protein ps_1834 [Pandoravirus salinus]
+gi|531036520|ref|YP_008438157.1|vFam_1815| hypothetical protein ps_1751 [Pandoravirus salinus]
+gi|526119735|ref|YP_008319638.1|vFam_1815| hypothetical protein [Pandoravirus dulcis]

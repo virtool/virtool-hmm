@@ -1,0 +1,21 @@
+CLUSTER	443
+NUM_SEQ	13
+LENGTH	256
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	130.56
+FAMILIES	{'Herpesviridae': 13}
+GENERA	{'Muromegalovirus': 2, 'Roseolovirus': 2, 'Proboscivirus': 1, 'Cytomegalovirus': 7, 'None': 1}
+FASTA SEQUENCE TITLES:
+gi|496991181|ref|YP_007969766.1|vFam_443| envelope glycoprotein L [Elephantid herpesvirus 1]
+gi|9633151|ref|NP_050261.1|vFam_443| Glycoprotein L [Human herpesvirus 6B]
+gi|51874302|ref|YP_073820.1|vFam_443| envelope glycoprotein L [Human herpesvirus 7]
+gi|538447277|ref|YP_008493017.1|vFam_443| glycoprotein L [Porcine cytomegalovirus]
+gi|425707309|ref|YP_007016506.1|vFam_443| E115 [Murid herpesvirus 8]
+gi|61660219|ref|YP_214110.1|vFam_443| Glycoprotein L [Murid herpesvirus 1]
+gi|448824942|ref|YP_007417874.1|vFam_443| GP115 [Caviid herpesvirus 2]
+gi|360086585|ref|YP_004940270.1|vFam_443| envelope glycoprotein L [Saimiriine herpesvirus 3]
+gi|360040989|ref|YP_004940124.1|vFam_443| envelope glycoprotein L [Aotine herpesvirus 1]
+gi|359946541|ref|YP_004936074.1|vFam_443| envelope glycoprotein L [Cercopithecine herpesvirus 5]
+gi|356640449|ref|YP_004933891.1|vFam_443| glycoprotein UL115 [Cynomolgus macaque cytomegalovirus strain Ottawa]
+gi|52139280|ref|YP_081555.1|vFam_443| envelope glycoprotein L [Human herpesvirus 5]
+gi|20026697|ref|NP_612739.1|vFam_443| envelope glycoprotein L [Panine herpesvirus 2]

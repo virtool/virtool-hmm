@@ -1,0 +1,13 @@
+CLUSTER	2575
+NUM_SEQ	5
+LENGTH	151
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	78.52
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|155370897|ref|YP_001426431.1|vFam_2575| hypothetical protein FR483_N799R [Paramecium bursaria Chlorella virus FR483]
+gi|155371286|ref|YP_001426820.1|vFam_2575| hypothetical protein ATCV1_Z339L [Acanthocystis turfacea Chlorella virus 1]
+gi|526119889|ref|YP_008319792.1|vFam_2575| ubiquitine ligase [Pandoravirus dulcis]
+gi|157953247|ref|YP_001498138.1|vFam_2575| hypothetical protein AR158_C056L [Paramecium bursaria Chlorella virus AR158]
+gi|9631608|ref|NP_048387.1|vFam_2575| hypothetical protein [Paramecium bursaria Chlorella virus 1]

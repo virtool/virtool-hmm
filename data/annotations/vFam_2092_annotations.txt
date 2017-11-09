@@ -1,0 +1,12 @@
+CLUSTER	2092
+NUM_SEQ	4
+LENGTH	167
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	86.84
+FAMILIES	{'Phycodnaviridae': 4}
+GENERA	{'Chlorovirus': 4}
+FASTA SEQUENCE TITLES:
+gi|157953571|ref|YP_001498462.1|vFam_2092| hypothetical protein AR158_C381L [Paramecium bursaria Chlorella virus AR158]
+gi|9631878|ref|NP_048665.1|vFam_2092| hypothetical protein [Paramecium bursaria Chlorella virus 1]
+gi|155371169|ref|YP_001426703.1|vFam_2092| hypothetical protein ATCV1_Z222L [Acanthocystis turfacea Chlorella virus 1]
+gi|155370423|ref|YP_001425957.1|vFam_2092| hypothetical protein FR483_N325L [Paramecium bursaria Chlorella virus FR483]

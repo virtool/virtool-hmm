@@ -1,0 +1,11 @@
+CLUSTER	5030
+NUM_SEQ	3
+LENGTH	131
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	66.81
+FAMILIES	{'Nodaviridae': 3}
+GENERA	{'None': 2, 'Alphanodavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|13249662|ref|NP_077731.1|vFam_5030| protein B2 [Nodamura virus]
+gi|320340136|ref|YP_004207811.1|vFam_5030| B2-like protein [Penaeus vannamei nodavirus]
+gi|34610123|ref|NP_919037.1|vFam_5030| B2 protein [Macrobrachium rosenbergii nodavirus]

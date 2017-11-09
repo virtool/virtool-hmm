@@ -1,0 +1,11 @@
+CLUSTER	4814
+NUM_SEQ	3
+LENGTH	460
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	230.0
+FAMILIES	{'Anelloviridae': 3}
+GENERA	{'None': 1, 'Lambdatorquevirus': 1, 'Etatorquevirus': 1}
+FASTA SEQUENCE TITLES:
+gi|295413833|ref|YP_003587837.1|vFam_4814| hypothetical protein TTfeV_gp3 [Torque teno felis virus]
+gi|224504299|ref|YP_002640216.1|vFam_4814| Orf1 [Torque teno zalophus virus 1]
+gi|325961448|ref|YP_004286324.1|vFam_4814| Orf1 [Seal anellovirus TFFN/USA/2006]

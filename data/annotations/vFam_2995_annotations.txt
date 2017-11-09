@@ -1,0 +1,12 @@
+CLUSTER	2995
+NUM_SEQ	4
+LENGTH	219
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	111.69
+FAMILIES	{'Baculoviridae': 3}
+GENERA	{'Alphabaculovirus': 3}
+FASTA SEQUENCE TITLES:
+gi|438000432|ref|YP_007250537.1|vFam_2995| hypothetical protein [Thysanoplusia orichalcea nucleopolyhedrovirus]
+gi|119964635|ref|YP_950831.1|vFam_2995| Mv-ORF101 peptide [Maruca vitrata nucleopolyhedrovirus]
+gi|237643664|ref|YP_002884354.1|vFam_2995| Ac132-like protein [Bombyx mandarina nucleopolyhedrovirus]
+gi|23577896|ref|NP_703119.1|vFam_2995| hypothetical protein [Rachiplusia ou MNPV]

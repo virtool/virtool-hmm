@@ -1,0 +1,16 @@
+CLUSTER	1225
+NUM_SEQ	8
+LENGTH	299
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	149.5
+FAMILIES	{'Alloherpesviridae': 8}
+GENERA	{'Batrachovirus': 8}
+FASTA SEQUENCE TITLES:
+gi|109638690|ref|YP_656563.1|vFam_1225| ORF55 [Ranid herpesvirus 2]
+gi|109638678|ref|YP_656561.1|vFam_1225| ORF53 [Ranid herpesvirus 2]
+gi|109638677|ref|YP_656560.1|vFam_1225| ORF52 [Ranid herpesvirus 2]
+gi|109638684|ref|YP_656559.1|vFam_1225| ORF51 [Ranid herpesvirus 2]
+gi|109638675|ref|YP_656568.1|vFam_1225| ORF60 [Ranid herpesvirus 2]
+gi|109638692|ref|YP_656565.1|vFam_1225| ORF57 [Ranid herpesvirus 2]
+gi|109638669|ref|YP_656567.1|vFam_1225| ORF59 [Ranid herpesvirus 2]
+gi|109638676|ref|YP_656566.1|vFam_1225| ORF58 [Ranid herpesvirus 2]

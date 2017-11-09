@@ -1,0 +1,11 @@
+CLUSTER	4935
+NUM_SEQ	3
+LENGTH	265
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	137.8
+FAMILIES	{'Poxviridae': 3}
+GENERA	{'Parapoxvirus': 3}
+FASTA SEQUENCE TITLES:
+gi|41057553|ref|NP_958026.1|vFam_4935| ORF117 GM-CSF/IL-2 inhibition factor [Bovine papular stomatitis virus]
+gi|289183883|ref|YP_003457424.1|vFam_4935| GM-CSF/IL-2 inhibition factor [Pseudocowpox virus]
+gi|41057180|ref|NP_957894.1|vFam_4935| ORF117 GM-CSF/IL-2 inhibition factor-like protein [Orf virus]

@@ -1,0 +1,11 @@
+CLUSTER	3700
+NUM_SEQ	3
+LENGTH	308
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	154.0
+FAMILIES	{'Alloherpesviridae': 3}
+GENERA	{'Cyprinivirus': 3}
+FASTA SEQUENCE TITLES:
+gi|422933693|ref|YP_007003821.1|vFam_3700| protein ORF8 [Cyprinid herpesvirus 1]
+gi|422933945|ref|YP_007003986.1|vFam_3700| protein ORF8 [Cyprinid herpesvirus 2]
+gi|131840190|ref|YP_001096199.1|vFam_3700| unnamed protein product [Cyprinid herpesvirus 3]

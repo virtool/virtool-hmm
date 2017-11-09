@@ -1,0 +1,11 @@
+CLUSTER	4603
+NUM_SEQ	3
+LENGTH	349
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	177.99
+FAMILIES	{'None': 1, 'Mimiviridae': 2}
+GENERA	{'Mimivirus': 1, 'None': 2}
+FASTA SEQUENCE TITLES:
+gi|311977518|ref|YP_003986638.1|vFam_4603| hypothetical protein [Acanthamoeba polyphaga mimivirus]
+gi|441432085|ref|YP_007354127.1|vFam_4603| ankyrin repeat protein [Acanthamoeba polyphaga moumouvirus]
+gi|448825152|ref|YP_007418083.1|vFam_4603| hypothetical protein LBA_00187 [Megavirus lba]

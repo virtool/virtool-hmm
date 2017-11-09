@@ -1,0 +1,12 @@
+CLUSTER	1283
+NUM_SEQ	4
+LENGTH	127
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	64.77
+FAMILIES	{'Poxviridae': 4}
+GENERA	{'Capripoxvirus': 1, 'None': 1, 'Leporipoxvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|15150594|ref|NP_150589.1|vFam_1283| LSDV155 hypothetical protein [Lumpy skin disease virus NI-2490]
+gi|377830113|ref|YP_005296361.1|vFam_1283| unnamed protein product [Cotia virus SPAn232]
+gi|9633968|ref|NP_052047.1|vFam_1283| gp003.2R [Rabbit fibroma virus]
+gi|9633796|ref|NP_051715.1|vFam_1283| m3.2 [Myxoma virus]

@@ -1,0 +1,20 @@
+CLUSTER	99
+NUM_SEQ	12
+LENGTH	265
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	135.15
+FAMILIES	{'Mimiviridae': 2, 'Poxviridae': 10}
+GENERA	{'None': 1, 'Mimivirus': 1, 'Avipoxvirus': 10}
+FASTA SEQUENCE TITLES:
+gi|40556147|ref|NP_955232.1|vFam_99| CNPV209 N1R/p28-like protein [Canarypox virus]
+gi|311977391|ref|YP_003986510.1|vFam_99| putative Kila-N domain-containing protein [Acanthamoeba polyphaga mimivirus]
+gi|441432792|ref|YP_007354834.1|vFam_99| KilA N-domain protein [Acanthamoeba polyphaga moumouvirus]
+gi|40556243|ref|NP_955328.1|vFam_99| CNPV305 N1R/p28-like protein [Canarypox virus]
+gi|9634906|ref|NP_039199.1|vFam_99| N1R/p28 gene family protein [Fowlpox virus]
+gi|40556140|ref|NP_955225.1|vFam_99| CNPV202 N1R/p28-like protein [Canarypox virus]
+gi|9634833|ref|NP_039126.1|vFam_99| N1R/p28 gene family protein [Fowlpox virus]
+gi|9634829|ref|NP_039122.1|vFam_99| N1R/p28 gene family protein [Fowlpox virus]
+gi|40556080|ref|NP_955165.1|vFam_99| CNPV142 N1R/p28-like protein [Canarypox virus]
+gi|9634794|ref|NP_039087.1|vFam_99| N1R/p28 gene family protein [Fowlpox virus]
+gi|40556160|ref|NP_955245.1|vFam_99| CNPV222 N1R/p28-like protein [Canarypox virus]
+gi|40556159|ref|NP_955244.1|vFam_99| CNPV221 N1R/p28-like protein [Canarypox virus]

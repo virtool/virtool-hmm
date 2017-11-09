@@ -1,0 +1,21 @@
+CLUSTER	617
+NUM_SEQ	13
+LENGTH	248
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	128.96
+FAMILIES	{'Baculoviridae': 10}
+GENERA	{'Gammabaculovirus': 1, 'Betabaculovirus': 4, 'Alphabaculovirus': 5}
+FASTA SEQUENCE TITLES:
+gi|48843630|ref|YP_025198.1|vFam_617| polyhedrin, major occlusion body protein [Neodiprion lecontei nucleopolyhedrovirus]
+gi|11068007|ref|NP_068223.1|vFam_617| PxORF4 peptide [Plutella xylostella granulovirus]
+gi|148368822|ref|YP_001256952.1|vFam_617| granulin [Spodoptera litura granulovirus]
+gi|288804640|ref|YP_003429325.1|vFam_617| granulin [Pieris rapae granulovirus]
+gi|556549035|ref|YP_008719949.1|vFam_617| granulin [Clostera anastomosis granulovirus]
+gi|46309453|ref|YP_006343.1|vFam_617| granulin [Agrotis segetum granulovirus]
+gi|292397675|ref|YP_003517741.1|vFam_617| polyhedrin [Lymantria xylina MNPV]
+gi|114680061|ref|YP_758474.1|vFam_617| polyhedrin [Plutella xylostella multiple nucleopolyhedrovirus]
+gi|571031197|ref|YP_008992093.1|vFam_617| polyhedrin [Choristoneura murinana alphabaculovirus]
+gi|15617475|ref|NP_258269.1|vFam_617| major occlusion protein [Spodoptera litura nucleopolyhedrovirus]
+gi|215401396|ref|YP_002332699.1|vFam_617| polyhedrin [Spodoptera litura nucleopolyhedrovirus II]
+gi|209401055|ref|YP_002273924.1|vFam_617| polyhedrin [Helicoverpa armigera NPV NNg1]
+gi|529218054|ref|YP_008378217.1|vFam_617| polyhedrin [Hemileuca sp. nucleopolyhedrovirus]

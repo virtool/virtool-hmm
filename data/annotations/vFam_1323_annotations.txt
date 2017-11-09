@@ -1,0 +1,13 @@
+CLUSTER	1323
+NUM_SEQ	5
+LENGTH	270
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	140.4
+FAMILIES	{'Iridoviridae': 1, 'Poxviridae': 1}
+GENERA	{'Betaentomopoxvirus': 1, 'Iridovirus': 1}
+FASTA SEQUENCE TITLES:
+gi|15078947|ref|NP_149698.1|vFam_1323| 235L [Invertebrate iridescent virus 6]
+gi|506498050|ref|YP_008003847.1|vFam_1323| unknown similar to AMEV004 [Adoxophyes honmai entomopoxvirus 'L']
+gi|506497757|ref|YP_008003556.1|vFam_1323| unknown similar to AMEV004 [Mythimna separata entomopoxvirus 'L']
+gi|506498655|ref|YP_008004449.1|vFam_1323| unknown similar to AMEV004 [Choristoneura rosaceana entomopoxvirus 'L']
+gi|9964318|ref|NP_064786.1|vFam_1323| putative SAM-dependent methyltransferase [Amsacta moorei entomopoxvirus 'L']

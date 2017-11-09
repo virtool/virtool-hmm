@@ -1,0 +1,10 @@
+CLUSTER	5272
+NUM_SEQ	2
+LENGTH	576
+RELATIVE_ENTROPY_PER_POSITION	0.53
+TOTAL_RELATIVE_ENTROPY	305.28
+FAMILIES	{'Paramyxoviridae': 2}
+GENERA	{'Respirovirus': 2}
+FASTA SEQUENCE TITLES:
+gi|19718366|ref|NP_604435.1|vFam_5272| phosphoprotein [Human parainfluenza virus 1]
+gi|9627222|ref|NP_056873.1|vFam_5272| P protein [Sendai virus]

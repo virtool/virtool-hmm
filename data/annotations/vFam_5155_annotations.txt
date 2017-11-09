@@ -1,0 +1,10 @@
+CLUSTER	5155
+NUM_SEQ	2
+LENGTH	175
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	89.25
+FAMILIES	{'Nanoviridae': 2}
+GENERA	{'Babuvirus': 2}
+FASTA SEQUENCE TITLES:
+gi|167006429|ref|YP_001661657.1|vFam_5155| putative coat protein [Abaca bunchy top virus]
+gi|19744928|ref|NP_604477.1|vFam_5155| coat protein [Banana bunchy top virus]

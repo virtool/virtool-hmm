@@ -1,0 +1,10 @@
+CLUSTER	5163
+NUM_SEQ	2
+LENGTH	1338
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	682.38
+FAMILIES	{'None': 2}
+GENERA	{'None': 2}
+FASTA SEQUENCE TITLES:
+gi|302317588|ref|YP_003800001.1|vFam_5163| RNA-directed RNA polymerase [Spissistilus festinus virus 1]
+gi|302317585|ref|YP_003800003.1|vFam_5163| RNA-directed RNA polymerase [Circulifer tenellus virus 1]

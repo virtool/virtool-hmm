@@ -1,0 +1,12 @@
+CLUSTER	3799
+NUM_SEQ	4
+LENGTH	68
+RELATIVE_ENTROPY_PER_POSITION	0.76
+TOTAL_RELATIVE_ENTROPY	51.68
+FAMILIES	{'Polyomaviridae': 4}
+GENERA	{'Polyomavirus': 4}
+FASTA SEQUENCE TITLES:
+gi|297591899|ref|YP_003708378.1|vFam_3799| agnoprotein [Simian virus 40]
+gi|9628643|ref|NP_043508.1|vFam_3799| hypothetical protein [JC polyomavirus]
+gi|82524375|ref|YP_406551.1|vFam_3799| agnoprotein [Simian virus 12]
+gi|113204631|ref|YP_717936.1|vFam_3799| agnoprotein [BK polyomavirus]

@@ -1,0 +1,18 @@
+CLUSTER	849
+NUM_SEQ	10
+LENGTH	404
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	206.04
+FAMILIES	{'Coronaviridae': 9}
+GENERA	{'Alphacoronavirus': 9}
+FASTA SEQUENCE TITLES:
+gi|315192969|ref|YP_004070199.1|vFam_849| nucleocapsid protein [Feline infectious peritonitis virus]
+gi|12175753|ref|NP_073556.1|vFam_849| nucleocapsid protein [Human coronavirus 229E]
+gi|45655913|ref|YP_003771.1|vFam_849| nucleocapsid protein [Human coronavirus NL63]
+gi|531967712|ref|YP_008439206.1|vFam_849| nucleoprotein [Bat coronavirus CDPHE15/USA/2006]
+gi|19387581|ref|NP_598314.1|vFam_849| nucleocapsid protein [Porcine epidemic diarrhea virus]
+gi|152994042|ref|YP_001351688.1|vFam_849| nucleocapsid protein [Scotophilus bat coronavirus 512]
+gi|410493448|ref|YP_006908646.1|vFam_849| nucleocapsid protein [Rousettus bat coronavirus HKU10]
+gi|160707873|ref|YP_001552240.1|vFam_849| nucleocapsid phosphoprotein [Bat coronavirus HKU2]
+gi|169822565|ref|YP_001718616.1|vFam_849| nucleocapsid protein [Bat coronavirus HKU8]
+gi|169822557|ref|YP_001718609.1|vFam_849| nucleocapsid protein [Bat coronavirus 1A]

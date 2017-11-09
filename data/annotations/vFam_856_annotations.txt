@@ -1,0 +1,13 @@
+CLUSTER	856
+NUM_SEQ	5
+LENGTH	1067
+RELATIVE_ENTROPY_PER_POSITION	0.52
+TOTAL_RELATIVE_ENTROPY	554.84
+FAMILIES	{'Reoviridae': 5}
+GENERA	{'None': 1, 'Cypovirus': 3, 'Dinovernavirus': 1}
+FASTA SEQUENCE TITLES:
+gi|375298198|ref|YP_005255242.1|vFam_856| P4 gene product [Spissistilus festinus reovirus]
+gi|83721700|ref|YP_443939.1|vFam_856| VP5 [Aedes pseudoscutellaris reovirus]
+gi|187765482|ref|YP_001883320.1|vFam_856| p4 [Heliothis armigera cypovirus 5]
+gi|14993638|ref|NP_149149.1|vFam_856| hypothetical protein LdCPV1s4gp1 [Cypovirus 1]
+gi|14993617|ref|NP_149138.1|vFam_856| hypothetical protein LdcV14s4gp1 [Cypovirus 14]

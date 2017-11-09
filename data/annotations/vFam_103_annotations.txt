@@ -1,0 +1,36 @@
+CLUSTER	103
+NUM_SEQ	28
+LENGTH	287
+RELATIVE_ENTROPY_PER_POSITION	0.51
+TOTAL_RELATIVE_ENTROPY	146.37
+FAMILIES	{'None': 4, 'Circoviridae': 19, 'Poxviridae': 1}
+GENERA	{'None': 9, 'Circovirus': 14, 'Avipoxvirus': 1}
+FASTA SEQUENCE TITLES:
+gi|481852728|ref|YP_007878130.1|vFam_103| hypothetical protein [Acheta domesticus volvovirus]
+gi|386576365|ref|YP_006281010.1|vFam_103| putative viral replication protein [Labidocera aestiva circovirus]
+gi|459642398|ref|YP_007517186.1|vFam_103| replication-associated protein [Gastropod associated circular ssDNA virus]
+gi|254688529|ref|YP_003084290.1|vFam_103| putative Rep protein [Circovirus-like genome RW-D]
+gi|254688515|ref|YP_003084143.1|vFam_103| putative Rep protein [Circovirus-like genome BBC-A]
+gi|254688531|ref|YP_003084291.1|vFam_103| putative Rep protein [Circovirus-like genome RW-E]
+gi|40556091|ref|NP_955176.1|vFam_103| CNPV153 Rep-like protein [Canarypox virus]
+gi|254688525|ref|YP_003084287.1|vFam_103| putative Rep protein [Circovirus-like genome RW-C]
+gi|514361129|ref|YP_008130363.1|vFam_103| replication association protein [Human cyclovirus VS5700009]
+gi|318069474|ref|YP_004152327.1|vFam_103| Rep protein [Cyclovirus PKgoat21/PAK/2009]
+gi|318082875|ref|YP_004152333.1|vFam_103| Rep protein [Cyclovirus NGchicken15/NGA/2009]
+gi|318069477|ref|YP_004152329.1|vFam_103| Rep protein [Cyclovirus PKgoat11/PAK/2009]
+gi|318069480|ref|YP_004152331.1|vFam_103| Rep protein [Cyclovirus bat/USA/2009]
+gi|448245216|ref|YP_007392931.1|vFam_103| putative spliced replication-associated protein [Florida woods cockroach-associated cyclovirus]
+gi|476006922|ref|YP_007697652.1|vFam_103| putative replication associated protein [Canine circovirus]
+gi|498907918|ref|YP_007974237.1|vFam_103| replicase [Bat circovirus]
+gi|289163351|ref|YP_003422530.1|vFam_103| replicase [Porcine circovirus type 1/2a]
+gi|38018061|ref|NP_937956.1|vFam_103| replicase [Porcine circovirus 2]
+gi|330339439|ref|YP_004376332.1|vFam_103| putative replication protein [Barbel circovirus]
+gi|71658852|ref|YP_271918.1|vFam_103| replicase [Duck circovirus]
+gi|15148078|ref|NP_150368.1|vFam_103| putative replication associated protein [Goose circovirus]
+gi|9630730|ref|NP_047275.1|vFam_103| replication-associated protein [Beak and feather disease virus]
+gi|116630440|ref|YP_803546.1|vFam_103| replication-associated protein [Gull circovirus]
+gi|9635462|ref|NP_059527.1|vFam_103| replicase [Columbid circovirus]
+gi|18875310|ref|NP_573442.1|vFam_103| replicase [Canary circovirus]
+gi|115334608|ref|YP_764455.1|vFam_103| rep protein [Raven circovirus]
+gi|116630444|ref|YP_803549.1|vFam_103| replication-associated protein [Finch circovirus]
+gi|96980765|ref|YP_610960.1|vFam_103| putative replication-associated protein [Starling circovirus]

@@ -1,0 +1,20 @@
+CLUSTER	535
+NUM_SEQ	12
+LENGTH	97
+RELATIVE_ENTROPY_PER_POSITION	0.50
+TOTAL_RELATIVE_ENTROPY	48.5
+FAMILIES	{'Baculoviridae': 11}
+GENERA	{'Alphabaculovirus': 11}
+FASTA SEQUENCE TITLES:
+gi|114679913|ref|YP_758363.1|vFam_535| ORF66 [Leucania separata nucleopolyhedrovirus]
+gi|118197523|ref|YP_874234.1|vFam_535| hypothetical protein EONV_gp041 [Ectropis obliqua nucleopolyhedrovirus]
+gi|165969046|ref|YP_001650946.1|vFam_535| hypothetical protein [Orgyia leucostigma NPV]
+gi|68304183|ref|YP_249651.1|vFam_535| ORF-47 peptide [Chrysodeixis chalcites nucleopolyhedrovirus]
+gi|209171003|ref|YP_002268150.1|vFam_535| agip120 [Agrotis ipsilon multiple nucleopolyhedrovirus]
+gi|215401500|ref|YP_002332804.1|vFam_535| hypothetical protein SlnV2_gp106 [Spodoptera litura nucleopolyhedrovirus II]
+gi|9634324|ref|NP_037863.1|vFam_535| ORF103 [Spodoptera exigua multiple nucleopolyhedrovirus]
+gi|22549531|ref|NP_689304.1|vFam_535| unnamed protein product [Mamestra configurata nucleopolyhedrovirus B]
+gi|90592828|ref|YP_529781.1|vFam_535| ORF-111 [Agrotis segetum nucleopolyhedrovirus]
+gi|402502141|ref|YP_006607799.1|vFam_535| hypothetical protein [Apocheima cinerarium nucleopolyhedrovirus]
+gi|209978812|ref|YP_002300555.1|vFam_535| hypothetical protein [Adoxophyes orana nucleopolyhedrovirus]
+gi|29567125|ref|NP_818687.1|vFam_535| hypothetical protein AhnVgp040 [Adoxophyes honmai nucleopolyhedrovirus]
