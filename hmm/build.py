@@ -15,7 +15,7 @@ def get_names(annotation):
     return [entry[0] for entry in top_three]
 
 
-def dir_to_json(dir_path, output_path):
+def dir_to_json(dir_path, output_path, include=None):
     paths = os.listdir(dir_path)
 
     annotations = list()
@@ -68,6 +68,10 @@ def dir_to_json(dir_path, output_path):
 
         annotations.append(document)
 
+    if include:
+        include = set(include)
+        annotations = [a for a in annotations if a["cluster"] in include]
+
     annotations = sorted(annotations, key=operator.itemgetter("cluster"))
 
     with open(output_path, "wt") as f:
@@ -75,10 +79,16 @@ def dir_to_json(dir_path, output_path):
 
 
 def join_profiles(dir_path, target_path):
+    clusters = list()
+
     with open(target_path, "w") as o:
         for filename in os.listdir(dir_path):
+            clusters.append(int(filename.split(".")[0]))
+
             path = os.path.join(dir_path, filename)
 
             with open(path, "r") as f:
                 o.write(f.read())
                 o.write("//\n")
+
+    return clusters
