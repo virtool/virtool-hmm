@@ -15,15 +15,15 @@ after_success:
 - cp -v readme.md gh_build/hmm
 - echo $TRAVIS_TAG > gh_build/hmm/VERSION
 - cd gh_build
-- tar -cvzf virtool-hmm.tar.gz hmm
-- tar -tvf virtool-hmm.tar.gz
+- tar -cvzf vthmm.tar.gz hmm
+- tar -tvf vthmm.tar.gz
 - cd ..
 deploy:
   skip_cleanup: true
   provider: releases
   api_key:
     secure: YqEnbJUfjKdvSEd6aY1fzuIbYmwZ21o4qb7BMJ1LUhMMn3iwOEWnHrzPy7EfDA5HRynRwHhEBlTLVlAhcyIA16i/Yhw6msEzt63Gc6IcdKS/pttBIcEsx766C36lOcrp6iC1rfYOogT23SzeQV3ERxt5mKcqa1IrLjvLp96Mn6ix5E/drMmPUN0ShrOJDjhwHs0mFdsss1reDfBxFCGzwTiqhcV0eqiyeqrFHK2IXaqq/265CxEA1kYHt6A8WBX1P50DsJhuCrrtyrFjL/kzwYQW3MTJVvvt6ELfPaZbE8r2uPy9q/o4WkhBf4GHCyMRtUXDMOGv3IUQE4ptw9widFDNM6CzhCmxTbF98BcxO6vHEjGtE3rXsExV1PSH3RIkTW1kPPXBaYOp+XfbR26chxGNPCQ0gGNbUh+hkVbgsfP5vODmB7qzT36yBbp7a/JaXaBsaJgQ/jsJEAN09iyKJMiKexD8OdrLsfBPyaJpIBJ+FcRXj2XJsjlOGeWTdI3AvLFUTmacHhMrxVGs3NrnX6vxZwVVkKxh9NUQ/hmVHQpvmtwYJCMxMSvRVQrMe/xEJ/Rd55PEcRau7Cl64lmokIhcTzbF6XDeYdxqIu4g0km+mTwAnbfHcPZXmcHnZ6CECFMWoh51gzbrVLgboepq11U6sLpBisWeVFYpkoqhpDU=
-  file: gh_build/virtool-hmm.tar.gz
+  file: gh_build/vthmm.tar.gz
   on:
     repo: virtool/virtool-hmm
     tags: true
