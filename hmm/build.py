@@ -1,5 +1,6 @@
 import collections
 import gzip
+import operator
 import json
 import os
 import sys
@@ -63,8 +64,11 @@ def dir_to_json(dir_path, output_path):
                     })
 
         document["names"] = get_names(document)
+        document["entries"] = sorted(document["entries"], key=operator.itemgetter("accession"))
 
         annotations.append(document)
+
+    annotations = sorted(annotations, key=operator.itemgetter("cluster"))
 
     with open(output_path, "wt") as f:
         json.dump(annotations, f, indent=4)
