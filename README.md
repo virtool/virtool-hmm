@@ -1,6 +1,6 @@
 # virtool-hmm
 
-## Profile HMMs and annotations for Virtool and NuVs
+### Profile HMMs and annotations for Virtool and NuVs
 
 [![Build Status](https://travis-ci.org/virtool/virtool-hmm.svg?branch=master)](https://travis-ci.org/virtool/virtool-hmm)
 
@@ -13,7 +13,7 @@ potential novel viral sequences in Illumina libraries.
 
 **Usage**
 
-You can easily use this data by automatically downloading and installing it from within Virtool. (See the documentation)[https://docs.virtool.ca/hmms.html].
+You can easily use this data by automatically downloading and installing it from within Virtool. [See the documentation](https://docs.virtool.ca/hmms.html).
 
 The data can also be manually downloaded:
 
