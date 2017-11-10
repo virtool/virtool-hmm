@@ -3,9 +3,26 @@ import subprocess
 
 
 def prune_annotations(profiles_path, annotations_path, mock=True):
-    clusters = [int(f.split("_")[1]) for f in os.listdir(annotations_path)]
+    real_clusters = {int(filename.split(".")[0]) for filename in os.listdir(profiles_path)}
 
-    return clusters
+    for filename in os.listdir(annotations_path):
+        cluster = int(filename.split("_")[1])
+
+        if cluster not in real_clusters:
+            os.remove(os.path.join(annotations_path, filename))
+
+
+def check_missing(profiles_path, annotations_path):
+    profiles = {int(filename.split(".")[0]) for filename in os.listdir(profiles_path)}
+    annotations = {int(filename.split("_")[1]) for filename in os.listdir(annotations_path)}
+
+    result = {
+        "profiles": [p for p in profiles if p not in annotations],
+        "annotations": [a for a in annotations if a not in profiles]
+    }
+
+    print("Missing profiles:", result["profiles"])
+    print("Missing annotations:", result["annotations"])
 
 
 def split_hmm_file(path):
