@@ -21,8 +21,7 @@ def check_missing(profiles_path, annotations_path):
         "annotations": [a for a in annotations if a not in profiles]
     }
 
-    print("Missing profiles:", result["profiles"])
-    print("Missing annotations:", result["annotations"])
+    return result
 
 
 def split_hmm_file(path):
