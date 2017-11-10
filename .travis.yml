@@ -1,16 +1,12 @@
 language: python
 sudo: false
-python: "3.5"
-
+python: '3.5'
 cache:
   pip: true
-
 install:
 - pip install -r requirements.txt
-
 script:
 - pytest --cov --cov-report xml -vv
-
 after_success:
 - mkdir gh_build
 - mkdir gh_build/hmm
@@ -22,12 +18,10 @@ after_success:
 - tar -cvzf virtool-hmm.tar.gz hmm
 - tar -tvf virtool-hmm.tar.gz
 - cd ..
-
 deploy:
-  skip_cleanup: true
   provider: releases
   api_key:
-    secure: Otm5EqAcBp2i/KghWT/LZkLlpY1qHbYolCRk/Mwgqr0IQvy1ryM8IQot88/mntzKjVFbUIlJDVU8UmWgXac0cBCCT4rvzpRqMXEiWK+sl0Lqqg4tiOMS5gdQF5ywYVinT8e5Zl7O4g05zjU7mUMnSLRlTCNtcffdwOAqp9tfNJ4/FqlmHK+mhufmThQOdschbPLo7dFfSA7oioXesPWSA33lwG8PQWwQjmm55oMOqZiN38HG0wdZQgoH3QsVXLlTwqxAuyBfmOjrwkhTLhTfJ1EWwnlq1RF9uzxZF7J7bYR+IWm8Ws7z9n9kMX0F6/onnAS4D3QLue59jzfR7MJqyaDpyEONjjaP/8wC0afJ8vdc3X5SEdLz5S3/4X8d0llJLEZPL2i1PNfJzDIF7GDerF+0UARhtnHjMQFy5oV6UO6Pd3UuFaoaQUQff4Gw6ZYxVGEkbCUwYqMn4JaiDBrViUK2fzFQzWqiMnI3CrYYW19lcC4ppHLuTJz8YlpNwCsxpCU5YB14m6ra5ZPSJ+dqBLuF46KU+4uW+cXi+oAoS6t4Mb9Jz5Nhfgum965uFuOcsYaEilQSGzqRdIJFhBxyp+ow9Cnq0acmffm+W7jT+m0v2IvUlDkthAPSIBDLRrjOECTUXB7VorSusrK6J3hBcdkl6J58DfNi55N2px8KB7w=
+    secure: YqEnbJUfjKdvSEd6aY1fzuIbYmwZ21o4qb7BMJ1LUhMMn3iwOEWnHrzPy7EfDA5HRynRwHhEBlTLVlAhcyIA16i/Yhw6msEzt63Gc6IcdKS/pttBIcEsx766C36lOcrp6iC1rfYOogT23SzeQV3ERxt5mKcqa1IrLjvLp96Mn6ix5E/drMmPUN0ShrOJDjhwHs0mFdsss1reDfBxFCGzwTiqhcV0eqiyeqrFHK2IXaqq/265CxEA1kYHt6A8WBX1P50DsJhuCrrtyrFjL/kzwYQW3MTJVvvt6ELfPaZbE8r2uPy9q/o4WkhBf4GHCyMRtUXDMOGv3IUQE4ptw9widFDNM6CzhCmxTbF98BcxO6vHEjGtE3rXsExV1PSH3RIkTW1kPPXBaYOp+XfbR26chxGNPCQ0gGNbUh+hkVbgsfP5vODmB7qzT36yBbp7a/JaXaBsaJgQ/jsJEAN09iyKJMiKexD8OdrLsfBPyaJpIBJ+FcRXj2XJsjlOGeWTdI3AvLFUTmacHhMrxVGs3NrnX6vxZwVVkKxh9NUQ/hmVHQpvmtwYJCMxMSvRVQrMe/xEJ/Rd55PEcRau7Cl64lmokIhcTzbF6XDeYdxqIu4g0km+mTwAnbfHcPZXmcHnZ6CECFMWoh51gzbrVLgboepq11U6sLpBisWeVFYpkoqhpDU=
   file: gh_build/virtool-hmm.tar.gz
   on:
-    tags: true
+    repo: virtool/virtool-hmm
