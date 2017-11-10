@@ -15,6 +15,4 @@ potential novel viral sequences in Illumina libraries.
 
 You can easily use this data by automatically downloading and installing it from within Virtool. [See the documentation](https://docs.virtool.ca/hmms.html).
 
-The data can also be manually downloaded:
-
-[Manual Download](https://github.com/virtool/virtool-hmm/releases)
+The data can also be [manually downloaded](https://github.com/virtool/virtool-hmm/releases).
